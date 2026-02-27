@@ -3,7 +3,7 @@
 Интерактивная карта инцидентов преследования христиан по всему миру.
 
 ## 🌐 Демо
-https://ваш-username.github.io/persecution-map/
+https://krashlite.github.io/persecution-map/
 
 ## 📊 Источники данных
 - [Open Doors](https://www.opendoors.org)
