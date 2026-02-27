@@ -3,9 +3,91 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Карта преследований христиан – Февраль 2026</title>
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <!-- Google Analytics 4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FWW3VLWHHP"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-FWW3VLWHHP', {
+        'page_title': 'Карта преследований христиан',
+        'page_location': window.location.href,
+        'custom_map': {'dimension1': 'event_type', 'dimension2': 'country'}
+      });
+      
+      // Отслеживание кликов по маркерам
+      function trackMarkerClick(eventType, country) {
+        gtag('event', 'marker_click', {
+          'event_category': 'map_interaction',
+          'event_label': eventType + ' in ' + country,
+          'event_type': eventType,
+          'country': country
+        });
+      }
+      
+      // Отслеживание фильтров
+      function trackFilterUsage(filterType) {
+        gtag('event', 'filter_used', {
+          'event_category': 'ui_interaction',
+          'event_label': filterType
+        });
+      }
+    </script>
+    
+    <!-- Основные SEO-теги -->
+    <title>Карта преследований христиан 2026 | Интерактивная статистика по странам</title>
+    <meta name="description" content="Интерактивная карта преследований христиан в мире. Актуальные данные об убийствах, арестах, нападениях на церкви. Статистика по странам от Open Doors, ICC.">
+    <meta name="keywords" content="преследование христиан, карта преследований, христианство, религиозная свобода, Open Doors, гонения, церкви, мученики, статистика">
+    <meta name="author" content="Christian Persecution Watch">
+    <meta name="robots" content="index, follow">
+    
+    <!-- Open Graph (для соцсетей) -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://krashlite.github.io/persecution-map/">
+    <meta property="og:title" content="Карта преследований христиан 2026">
+    <meta property="og:description" content="Интерактивная карта гонений на христиан. Реальные данные по странам.">
+    <meta property="og:image" content="https://krashlite.github.io/persecution-map/og-image.jpg">
+    <meta property="og:locale" content="ru_RU">
+    
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Карта преследований христиан 2026">
+    <meta name="twitter:description" content="Интерактивная карта гонений на христиан по всему миру">
+    <meta name="twitter:image" content="https://krashlite.github.io/persecution-map/og-image.jpg">
+    
+    <!-- Канонический URL -->
+    <link rel="canonical" href="https://krashlite.github.io/persecution-map/">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🕊️</text></svg>">
+    
+    <!-- Структурированные данные (Schema.org) -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Карта преследований христиан",
+      "url": "https://krashlite.github.io/persecution-map/",
+      "description": "Интерактивная карта гонений на христиан с актуальной статистикой",
+      "author": {
+        "@type": "Organization",
+        "name": "Christian Persecution Watch"
+      },
+      "datePublished": "2026-02-01",
+      "dateModified": "2026-02-28"
+    }
+    </script>
+    
+    <!-- Preconnect для ускорения загрузки -->
+    <link rel="preconnect" href="https://unpkg.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+    <!-- Стили -->
     <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600;700&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
         
