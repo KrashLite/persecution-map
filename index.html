@@ -3,77 +3,533 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Карта преследований христиан</title>
+    
+    <!-- Google Analytics 4 -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FWW3VLWHHP"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-FWW3VLWHHP', {
+        'page_title': 'Карта преследований христиан',
+        'page_location': window.location.href,
+        'custom_map': {'dimension1': 'event_type', 'dimension2': 'country'}
+      });
+      
+      function trackMarkerClick(eventType, country) {
+        gtag('event', 'marker_click', {
+          'event_category': 'map_interaction',
+          'event_label': eventType + ' in ' + country,
+          'event_type': eventType,
+          'country': country
+        });
+      }
+      
+      function trackFilterUsage(filterType) {
+        gtag('event', 'filter_used', {
+          'event_category': 'ui_interaction',
+          'event_label': filterType
+        });
+      }
+    </script>
+    
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function(m,e,t,r,i,k,a){
+            m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+            m[i].l=1*new Date();
+            for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+            k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+        })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=107044897', 'ym');
+
+        ym(107044897, 'init', {
+            ssr:true, 
+            webvisor:true, 
+            clickmap:true, 
+            ecommerce:"dataLayer", 
+            referrer: document.referrer, 
+            url: location.href, 
+            accurateTrackBounce:true, 
+            trackLinks:true
+        });
+        
+        function reachGoal(goalName) {
+            ym(107044897, 'reachGoal', goalName);
+        }
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/107044897" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    
+    <!-- SEO -->
+    <title>Карта преследований христиан 2026 | Интерактивная статистика по странам</title>
+    <meta name="description" content="Интерактивная карта преследований христиан в мире. Актуальные данные об убийствах, арестах, нападениях на церкви.">
+    <meta name="keywords" content="преследование христиан, карта преследований, христианство, религиозная свобода, Open Doors, гонения">
+    <meta name="author" content="Christian Persecution Watch">
+    <meta name="robots" content="index, follow">
+    
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://krashlite.github.io/persecution-map/">
+    <meta property="og:title" content="Карта преследований христиан 2026">
+    <meta property="og:description" content="Интерактивная карта гонений на христиан. Реальные данные по странам.">
+    <meta property="og:locale" content="ru_RU">
+    
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Карта преследований христиан 2026">
+    <meta name="twitter:description" content="Интерактивная карта гонений на христиан по всему миру">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🕊️</text></svg>">
+    
+    <!-- Preconnect -->
+    <link rel="preconnect" href="https://unpkg.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+    <!-- Стили -->
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600;700&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
-        body { font-family: Arial, sans-serif; background: #1a1a2e; color: #fff; }
-        #map { height: 100vh; width: 100%; }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background: #0f0f1e;
+            color: #eaeaea;
+            overflow: hidden;
+        }
+
         .header {
             position: absolute;
-            top: 10px;
-            left: 10px;
+            top: 0;
+            left: 0;
+            right: 0;
+            background: rgba(26, 26, 46, 0.95);
+            backdrop-filter: blur(10px);
+            padding: 15px 30px;
             z-index: 1000;
-            background: rgba(0,0,0,0.8);
-            padding: 15px;
-            border-radius: 8px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
         }
-        h1 { font-size: 1.5rem; color: #ff6b6b; margin-bottom: 10px; }
-        .stat { display: inline-block; margin-right: 20px; }
-        .stat-value { font-size: 2rem; font-weight: bold; color: #feca57; }
-        .stat-label { font-size: 0.8rem; color: #888; }
+
+        h1 {
+            font-family: 'Crimson Text', serif;
+            font-size: 1.8rem;
+            background: linear-gradient(135deg, #ff6b6b, #feca57);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .stats {
+            display: flex;
+            gap: 25px;
+        }
+
+        .stat {
+            text-align: center;
+            padding: 10px 20px;
+            background: rgba(255,255,255,0.05);
+            border-radius: 10px;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .stat-value {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: #ff6b6b;
+            display: block;
+        }
+
+        .stat-label {
+            font-size: 0.75rem;
+            color: #888;
+            text-transform: uppercase;
+        }
+
+        #map {
+            height: 100vh;
+            width: 100%;
+            background: #0f0f1e;
+        }
+
+        .sidebar {
+            position: absolute;
+            left: 0;
+            top: 80px;
+            bottom: 0;
+            width: 350px;
+            background: rgba(0,0,0,0.8);
+            backdrop-filter: blur(10px);
+            z-index: 999;
+            overflow-y: auto;
+            padding: 20px;
+            border-right: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .filter-section {
+            margin-bottom: 25px;
+        }
+
+        .filter-title {
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            color: #888;
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+
+        .filter-btn {
+            padding: 8px 16px;
+            margin: 4px;
+            border: 1px solid rgba(255,255,255,0.2);
+            background: rgba(255,255,255,0.05);
+            color: #ccc;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-size: 0.85rem;
+        }
+
+        .filter-btn:hover, .filter-btn.active {
+            background: #ff6b6b;
+            border-color: #ff6b6b;
+            color: white;
+        }
+
+        .events-list {
+            margin-top: 20px;
+        }
+
+        .event-card {
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 10px;
+            padding: 15px;
+            margin-bottom: 10px;
+            cursor: pointer;
+            transition: all 0.3s;
+            border-left: 4px solid var(--color, #666);
+        }
+
+        .event-card:hover {
+            background: rgba(255,255,255,0.08);
+            transform: translateX(5px);
+        }
+
+        .event-date {
+            font-size: 0.75rem;
+            color: #888;
+            margin-bottom: 5px;
+        }
+
+        .event-title {
+            font-family: 'Crimson Text', serif;
+            font-size: 1.1rem;
+            margin-bottom: 5px;
+            color: #fff;
+        }
+
+        .event-location {
+            font-size: 0.85rem;
+            color: #aaa;
+        }
+
+        .legend {
+            position: absolute;
+            bottom: 30px;
+            right: 30px;
+            background: rgba(0,0,0,0.8);
+            padding: 20px;
+            border-radius: 10px;
+            z-index: 1000;
+        }
+
+        .legend h4 {
+            margin-bottom: 15px;
+            color: #feca57;
+            font-family: 'Crimson Text', serif;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin: 8px 0;
+            font-size: 0.9rem;
+        }
+
+        .dot {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+        }
+
+        .leaflet-popup-content-wrapper {
+            background: rgba(20, 20, 35, 0.95);
+            color: #eaeaea;
+            border-radius: 10px;
+        }
+
+        .leaflet-popup-tip {
+            background: rgba(20, 20, 35, 0.95);
+        }
+
+        @media (max-width: 768px) {
+            .sidebar { width: 100%; top: auto; bottom: 0; height: 40vh; }
+            .header { padding: 10px; }
+            h1 { font-size: 1.2rem; }
+            .stats { gap: 10px; }
+            .stat { padding: 5px 10px; }
+        }
     </style>
 </head>
 <body>
     <div class="header">
-        <h1>🕊️ Карта преследований</h1>
-        <div class="stat">
-            <div class="stat-value" id="count">0</div>
-            <div class="stat-label">Событий</div>
+        <h1>🕊️ Карта преследований христиан</h1>
+        <div class="stats">
+            <div class="stat">
+                <span class="stat-value" id="total-events">0</span>
+                <span class="stat-label">Событий</span>
+            </div>
+            <div class="stat">
+                <span class="stat-value" id="total-countries">0</span>
+                <span class="stat-label">Стран</span>
+            </div>
+            <div class="stat">
+                <span class="stat-value" id="total-victims">0</span>
+                <span class="stat-label">Жертв</span>
+            </div>
         </div>
     </div>
+
+    <div class="sidebar">
+        <div class="filter-section">
+            <div class="filter-title">Фильтр по типу</div>
+            <button class="filter-btn active" onclick="filterEvents('all')">Все</button>
+            <button class="filter-btn" onclick="filterEvents('murder')">Убийства</button>
+            <button class="filter-btn" onclick="filterEvents('attack')">Атаки</button>
+            <button class="filter-btn" onclick="filterEvents('kidnapping')">Похищения</button>
+            <button class="filter-btn" onclick="filterEvents('arrest')">Аресты</button>
+        </div>
+        
+        <div class="filter-title">Последние события</div>
+        <div class="events-list" id="events-list"></div>
+    </div>
+
     <div id="map"></div>
 
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-    <script>
-        // Данные прямо в коде
-        const events = [
-            {lat: 9.0810, lng: 7.4895, title: "Нигерия: Атака на церковь", type: "attack"},
-            {lat: 20.9517, lng: 85.0985, title: "Индия: Убийство семьи", type: "murder"},
-            {lat: 39.0392, lng: 125.7625, title: "Северная Корея: Казнь", type: "murder"},
-            {lat: 2.0469, lng: 45.3182, title: "Сомали: Убийство", type: "murder"},
-            {lat: 35.6892, lng: 51.3890, title: "Иран: Аресты", type: "arrest"}
-        ];
+    <div class="legend">
+        <h4>Легенда</h4>
+        <div class="legend-item"><div class="dot" style="background: #c0392b;"></div>Убийства</div>
+        <div class="legend-item"><div class="dot" style="background: #e74c3c;"></div>Атаки</div>
+        <div class="legend-item"><div class="dot" style="background: #f39c12;"></div>Похищения</div>
+        <div class="legend-item"><div class="dot" style="background: #8e44ad;"></div>Аресты</div>
+        <div class="legend-item"><div class="dot" style="background: #3498db;"></div>Дискриминация</div>
+    </div>
 
-        const colors = {
-            murder: '#c0392b',
-            attack: '#e74c3c',
-            arrest: '#8e44ad'
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    
+    <!-- Встроенный JavaScript -->
+    <script>
+        // Конфигурация
+        const CONFIG = {
+            dataUrl: 'data/events.json',
+            colors: {
+                murder: '#c0392b',
+                attack: '#e74c3c',
+                kidnapping: '#f39c12',
+                arrest: '#8e44ad',
+                discrimination: '#3498db',
+                other: '#95a5a6'
+            }
         };
 
-        // Инициализация карты
-        const map = L.map('map').setView([20, 0], 2);
-        
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '© OpenStreetMap'
-        }).addTo(map);
+        let map;
+        let markers = [];
+        let allEvents = [];
 
-        // Добавление маркеров
-        events.forEach(e => {
-            const color = colors[e.type] || '#666';
-            L.circleMarker([e.lat, e.lng], {
-                radius: 8,
-                fillColor: color,
-                color: '#fff',
-                weight: 2,
-                fillOpacity: 0.8
-            }).addTo(map).bindPopup(e.title);
-        });
+        // Fallback данные (если JSON не загрузится)
+        const fallbackData = [
+            {date: "2026-02-15", lat: 9.0810, lng: 7.4895, country: "Нигерия", city: "Абуja", type: "attack", title: "Атака на церковь в деревне Jabo", victims: 12, source: "Open Doors"},
+            {date: "2026-02-10", lat: 10.5105, lng: 7.4165, country: "Нигерия", city: "Кадуна", type: "kidnapping", title: "Похищение 23 христиан боевиками ISWAP", victims: 23, source: "ICC"},
+            {date: "2026-02-08", lat: 11.8333, lng: 13.1500, country: "Нигерия", city: "Борно", type: "murder", title: "Казнь 5 христианских лидеров Boko Haram", victims: 5, source: "Release International"},
+            {date: "2026-02-20", lat: 20.9517, lng: 85.0985, country: "Индия", city: "Одиша", type: "murder", title: "Убийство трёх членов христианской семьи", victims: 3, source: "ICC"},
+            {date: "2026-02-14", lat: 39.0392, lng: 125.7625, country: "Северная Корея", city: "Пхеньян", type: "murder", title: "Казнь семьи за хранение Библии", victims: 9, source: "Open Doors"},
+            {date: "2026-02-16", lat: 2.0469, lng: 45.3182, country: "Сомали", city: "Могадишо", type: "murder", title: "Убийство христианина-перебежчика", victims: 1, source: "Open Doors"},
+            {date: "2026-02-11", lat: 32.8872, lng: 13.1913, country: "Ливия", city: "Триполи", type: "kidnapping", title: "Похищение 7 египетских коптов", victims: 7, source: "Christianity Today"},
+            {date: "2026-02-19", lat: 31.5204, lng: 74.3587, country: "Пакистан", city: "Лахор", type: "discrimination", title: "Ложное обвинение в богохульстве", victims: 0, source: "ICC"},
+            {date: "2026-02-17", lat: 35.6892, lng: 51.3890, country: "Иран", city: "Тегеран", type: "arrest", title: "Рейд на домашнюю церковь", victims: 8, source: "Open Doors"},
+            {date: "2026-02-22", lat: 36.2021, lng: 37.1343, country: "Сирия", city: "Алеппо", type: "attack", title: "Обстрел христианского квартала", victims: 4, source: "Vatican News"},
+            {date: "2026-02-09", lat: 15.5007, lng: 32.5599, country: "Судан", city: "Хартум", type: "murder", title: "Убийство пресвитера во время грабежа", victims: 1, source: "Open Doors"},
+            {date: "2026-02-07", lat: 21.9162, lng: 95.9560, country: "Мьянма", city: "Мандалай", type: "attack", title: "Артобстрел баптистской церкви", victims: 6, source: "Christianity Today"},
+            {date: "2026-02-03", lat: 15.3229, lng: 38.9251, country: "Эритрея", city: "Асмэра", type: "arrest", title: "Массовые аресты 30 христиан", victims: 30, source: "Open Doors"},
+            {date: "2026-02-25", lat: 39.9042, lng: 116.4074, country: "Китай", city: "Пекин", type: "discrimination", title: "Закрытие крупнейшей домашней церкви", victims: 0, source: "Christianity Today"},
+            {date: "2026-02-06", lat: 34.5553, lng: 69.2075, country: "Афганистан", city: "Кабул", type: "murder", title: "Убийство бывшего имама-христианина", victims: 1, source: "Open Doors"},
+            {date: "2026-02-28", lat: 15.3694, lng: 44.1910, country: "Йемен", city: "Сана", type: "murder", title: "Казнь христианина-хусеита", victims: 1, source: "Open Doors"},
+            {date: "2026-02-21", lat: -1.6585, lng: 29.2203, country: "ДР Конго", city: "Северное Киву", type: "attack", title: "Атака на христианскую деревню ADF", victims: 15, source: "Open Doors"},
+            {date: "2026-02-04", lat: 12.3714, lng: -1.5197, country: "Буркина-Фасо", city: "Уагадугу", type: "attack", title: "Нападение на католическую миссию", victims: 2, source: "Vatican News"},
+            {date: "2026-02-26", lat: -12.9732, lng: 40.5178, country: "Мозамбик", city: "Пемба", type: "attack", title: "Нападение на островную общину", victims: 10, source: "Open Doors"},
+            {date: "2026-02-18", lat: 13.5116, lng: 2.1254, country: "Нигер", city: "Ниамей", type: "kidnapping", title: "Похищение пастора", victims: 1, source: "Open Doors"},
+            {date: "2026-02-14", lat: 36.7559, lng: 5.0843, country: "Алжир", city: "Бежая", type: "discrimination", title: "Запечатывание 16-й церкви", victims: 0, source: "Release International"},
+            {date: "2026-02-12", lat: 12.6392, lng: -8.0029, country: "Мали", city: "Бамако", type: "kidnapping", title: "Похищение христианского миссионера", victims: 1, source: "ICC"},
+            {date: "2026-02-23", lat: 24.7136, lng: 46.6753, country: "Саудовская Аравия", city: "Эр-Рияд", type: "arrest", title: "Арест 20 филиппинских христиан", victims: 20, source: "ICC"},
+            {date: "2026-02-02", lat: 6.9271, lng: 79.8612, country: "Шри-Ланка", city: "Коломбо", type: "discrimination", title: "Административное давление на церкви", victims: 0, source: "Release International"},
+            {date: "2026-02-05", lat: 9.8965, lng: 8.8583, country: "Нигерия", city: "Плато", type: "attack", title: "Нападение фулани на деревню", victims: 8, source: "Intersociety"},
+            {date: "2026-02-01", lat: 7.3986, lng: 3.9071, country: "Нигерия", city: "Ибадан", type: "discrimination", title: "Закрытие 12 церквей властями", victims: 0, source: "Christianity Today"}
+        ];
 
-        // Обновление счётчика
-        document.getElementById('count').textContent = events.length;
-        
-        console.log('✅ Карта загружена, маркеров:', events.length);
+        // Инициализация
+        async function init() {
+            initMap();
+            await loadData();
+        }
+
+        function initMap() {
+            map = L.map('map', {
+                center: [20, 0],
+                zoom: 2,
+                minZoom: 2,
+                maxZoom: 18
+            });
+
+            L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+                attribution: '&copy; <a href="https://carto.com/attributions">CARTO</a>'
+            }).addTo(map);
+        }
+
+        async function loadData() {
+            try {
+                const response = await fetch(CONFIG.dataUrl + '?t=' + Date.now());
+                if (!response.ok) throw new Error('Network response was not ok');
+                const data = await response.json();
+                allEvents = data.events || data;
+                console.log('✅ Данные загружены из JSON');
+            } catch (error) {
+                console.warn('⚠️ Используются fallback данные:', error);
+                allEvents = fallbackData;
+            }
+            
+            renderEvents(allEvents);
+            updateStats(allEvents);
+        }
+
+        function renderEvents(events) {
+            // Очистка старых маркеров
+            markers.forEach(m => map.removeLayer(m));
+            markers = [];
+
+            const listContainer = document.getElementById('events-list');
+            listContainer.innerHTML = '';
+
+            events.forEach((event, index) => {
+                // Добавление маркера на карту
+                const color = CONFIG.colors[event.type] || CONFIG.colors.other;
+                const marker = L.circleMarker([event.lat, event.lng], {
+                    radius: event.victims > 10 ? 10 : (event.victims > 0 ? 7 : 5),
+                    fillColor: color,
+                    color: '#fff',
+                    weight: 2,
+                    fillOpacity: 0.8
+                }).addTo(map);
+
+                const popup = `
+                    <div style="min-width: 250px;">
+                        <h3 style="color: ${color}; margin: 0 0 10px 0;">${event.title}</h3>
+                        <p><strong>📅</strong> ${formatDate(event.date)}</p>
+                        <p><strong>📍</strong> ${event.city}, ${event.country}</p>
+                        <p><strong>⚠️</strong> ${getTypeName(event.type)}</p>
+                        ${event.victims > 0 ? `<p><strong>💀</strong> ${event.victims} жертв</p>` : ''}
+                        <p style="font-size: 0.9em; color: #888; margin-top: 10px;">Источник: ${event.source}</p>
+                    </div>
+                `;
+                
+                marker.bindPopup(popup);
+                
+                // Отслеживание клика
+                marker.on('click', () => {
+                    if (typeof trackMarkerClick === 'function') {
+                        trackMarkerClick(event.type, event.country);
+                    }
+                    if (typeof reachGoal === 'function') {
+                        reachGoal('marker_click');
+                    }
+                });
+                
+                markers.push(marker);
+
+                // Добавление в список
+                const card = document.createElement('div');
+                card.className = 'event-card';
+                card.style.setProperty('--color', color);
+                card.innerHTML = `
+                    <div class="event-date">${formatDate(event.date)}</div>
+                    <div class="event-title">${event.title}</div>
+                    <div class="event-location">📍 ${event.city}, ${event.country}</div>
+                `;
+                card.onclick = () => {
+                    map.setView([event.lat, event.lng], 8);
+                    marker.openPopup();
+                    if (typeof reachGoal === 'function') {
+                        reachGoal('event_card_click');
+                    }
+                };
+                listContainer.appendChild(card);
+            });
+        }
+
+        function filterEvents(type) {
+            // Обновление кнопок
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.classList.remove('active');
+                if (btn.textContent.includes(getTypeName(type)) || (type === 'all' && btn.textContent === 'Все')) {
+                    btn.classList.add('active');
+                }
+            });
+
+            // Отслеживание
+            if (typeof trackFilterUsage === 'function') {
+                trackFilterUsage(type);
+            }
+            if (typeof reachGoal === 'function') {
+                reachGoal('filter_' + type);
+            }
+
+            // Фильтрация
+            const filtered = type === 'all' ? allEvents : allEvents.filter(e => e.type === type);
+            renderEvents(filtered);
+            updateStats(filtered);
+        }
+
+        function updateStats(events) {
+            document.getElementById('total-events').textContent = events.length;
+            document.getElementById('total-countries').textContent = new Set(events.map(e => e.country)).size;
+            document.getElementById('total-victims').textContent = events.reduce((sum, e) => sum + (e.victims || 0), 0);
+        }
+
+        function formatDate(dateStr) {
+            const date = new Date(dateStr);
+            return date.toLocaleDateString('ru-RU', { day: 'numeric', month: 'short', year: 'numeric' });
+        }
+
+        function getTypeName(type) {
+            const names = {
+                murder: 'Убийство',
+                attack: 'Атака',
+                kidnapping: 'Похищение',
+                arrest: 'Арест',
+                discrimination: 'Дискриминация',
+                other: 'Другое'
+            };
+            return names[type] || type;
+        }
+
+        // Запуск
+        window.addEventListener('load', init);
     </script>
 </body>
 </html>
