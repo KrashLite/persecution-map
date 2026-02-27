@@ -1,2 +1,19 @@
-# persecution-map
-Interactive map of Christian persecutions worldwide
+# 🕊️ Карта преследований христиан
+
+Интерактивная карта инцидентов преследования христиан по всему миру.
+
+## 🌐 Демо
+https://ваш-username.github.io/persecution-map/
+
+## 📊 Источники данных
+- [Open Doors](https://www.opendoors.org)
+- [International Christian Concern](https://persecution.org)
+- [Release International](https://www.releaseinternational.org)
+
+## 🔄 Автообновление
+Данные обновляются автоматически 1-го числа каждого месяца через GitHub Actions.
+
+## 🛠️ Технологии
+- Leaflet.js — карты
+- GitHub Pages — хостинг
+- GitHub Actions — автоматизация
