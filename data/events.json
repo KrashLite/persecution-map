@@ -1,74 +1,30 @@
 {
   "metadata": {
-    "lastUpdated": "2026-02-28T00:00:00Z",
+    "lastUpdated": "2026-02-27T22:54:53.475Z",
     "version": "1.0",
-    "description": "Данные о преследованиях христиан за февраль 2026"
+    "totalEvents": 0,
+    "sourcesChecked": [
+      "vaticanNews",
+      "persecutionOrg",
+      "christianPost",
+      "releaseInternational",
+      "missionNetworkNews"
+    ],
+    "errors": [
+      {
+        "source": "persecutionOrg",
+        "error": "Unencoded <\nLine: 0\nColumn: 767\nChar: ="
+      },
+      {
+        "source": "christianPost",
+        "error": "Unencoded <\nLine: 0\nColumn: 767\nChar: ="
+      },
+      {
+        "source": "releaseInternational",
+        "error": "Unencoded <\nLine: 0\nColumn: 767\nChar: ="
+      }
+    ],
+    "updateStatus": "partial"
   },
-  "events": [
-    {
-      "date": "2026-02-15",
-      "lat": 9.0810,
-      "lng": 7.4895,
-      "country": "Нигерия",
-      "city": "Абуja",
-      "type": "attack",
-      "title": "Атака на церковь в деревне Jabo",
-      "description": "Вооружённая группа напала на христианскую церковь",
-      "source": "Open Doors",
-      "url": "https://www.opendoors.org",
-      "victims": 12
-    },
-    {
-      "date": "2026-02-10",
-      "lat": 10.5105,
-      "lng": 7.4165,
-      "country": "Нигерия",
-      "city": "Кадуна",
-      "type": "kidnapping",
-      "title": "Похищение 23 христиан",
-      "description": "Боевики ISWAP похитили верующих",
-      "source": "ICC",
-      "url": "https://persecution.org",
-      "victims": 23
-    },
-    {
-      "date": "2026-02-20",
-      "lat": 20.9517,
-      "lng": 85.0985,
-      "country": "Индия",
-      "city": "Одиша",
-      "type": "murder",
-      "title": "Убийство христианской семьи",
-      "description": "Трое убиты радикальными индуистами",
-      "source": "ICC",
-      "url": "https://persecution.org",
-      "victims": 3
-    },
-    {
-      "date": "2026-02-14",
-      "lat": 39.0392,
-      "lng": 125.7625,
-      "country": "Северная Корея",
-      "city": "Пхеньян",
-      "type": "murder",
-      "title": "Казнь семьи за хранение Библии",
-      "description": "Три поколения казнены",
-      "source": "Open Doors",
-      "url": "https://www.opendoors.org",
-      "victims": 9
-    },
-    {
-      "date": "2026-02-03",
-      "lat": 15.3229,
-      "lng": 38.9251,
-      "country": "Эритрея",
-      "city": "Асмэра",
-      "type": "arrest",
-      "title": "Массовые аресты",
-      "description": "30 христиан арестованы за молитву",
-      "source": "Open Doors",
-      "url": "https://www.opendoors.org",
-      "victims": 30
-    }
-  ]
+  "events": []
 }
