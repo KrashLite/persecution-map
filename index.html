@@ -315,6 +315,7 @@
             <button class="filter-btn" onclick="filterEvents('attack')">Атаки</button>
             <button class="filter-btn" onclick="filterEvents('kidnapping')">Похищения</button>
             <button class="filter-btn" onclick="filterEvents('arrest')">Аресты</button>
+            <button class="filter-btn" onclick="filterEvents('discrimination')">Дискриминация</button>
         </div>
         
         <div class="filter-title">Последние события</div>
@@ -334,7 +335,6 @@
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     
-    <!-- Встроенный JavaScript -->
     <script>
         // Конфигурация
         const CONFIG = {
@@ -353,36 +353,6 @@
         let markers = [];
         let allEvents = [];
 
-        // Fallback данные (если JSON не загрузится)
-        const fallbackData = [
-            {date: "2026-02-15", lat: 9.0810, lng: 7.4895, country: "Нигерия", city: "Абуja", type: "attack", title: "Атака на церковь в деревне Jabo", victims: 12, source: "Open Doors"},
-            {date: "2026-02-10", lat: 10.5105, lng: 7.4165, country: "Нигерия", city: "Кадуна", type: "kidnapping", title: "Похищение 23 христиан боевиками ISWAP", victims: 23, source: "ICC"},
-            {date: "2026-02-08", lat: 11.8333, lng: 13.1500, country: "Нигерия", city: "Борно", type: "murder", title: "Казнь 5 христианских лидеров Boko Haram", victims: 5, source: "Release International"},
-            {date: "2026-02-20", lat: 20.9517, lng: 85.0985, country: "Индия", city: "Одиша", type: "murder", title: "Убийство трёх членов христианской семьи", victims: 3, source: "ICC"},
-            {date: "2026-02-14", lat: 39.0392, lng: 125.7625, country: "Северная Корея", city: "Пхеньян", type: "murder", title: "Казнь семьи за хранение Библии", victims: 9, source: "Open Doors"},
-            {date: "2026-02-16", lat: 2.0469, lng: 45.3182, country: "Сомали", city: "Могадишо", type: "murder", title: "Убийство христианина-перебежчика", victims: 1, source: "Open Doors"},
-            {date: "2026-02-11", lat: 32.8872, lng: 13.1913, country: "Ливия", city: "Триполи", type: "kidnapping", title: "Похищение 7 египетских коптов", victims: 7, source: "Christianity Today"},
-            {date: "2026-02-19", lat: 31.5204, lng: 74.3587, country: "Пакистан", city: "Лахор", type: "discrimination", title: "Ложное обвинение в богохульстве", victims: 0, source: "ICC"},
-            {date: "2026-02-17", lat: 35.6892, lng: 51.3890, country: "Иран", city: "Тегеран", type: "arrest", title: "Рейд на домашнюю церковь", victims: 8, source: "Open Doors"},
-            {date: "2026-02-22", lat: 36.2021, lng: 37.1343, country: "Сирия", city: "Алеппо", type: "attack", title: "Обстрел христианского квартала", victims: 4, source: "Vatican News"},
-            {date: "2026-02-09", lat: 15.5007, lng: 32.5599, country: "Судан", city: "Хартум", type: "murder", title: "Убийство пресвитера во время грабежа", victims: 1, source: "Open Doors"},
-            {date: "2026-02-07", lat: 21.9162, lng: 95.9560, country: "Мьянма", city: "Мандалай", type: "attack", title: "Артобстрел баптистской церкви", victims: 6, source: "Christianity Today"},
-            {date: "2026-02-03", lat: 15.3229, lng: 38.9251, country: "Эритрея", city: "Асмэра", type: "arrest", title: "Массовые аресты 30 христиан", victims: 30, source: "Open Doors"},
-            {date: "2026-02-25", lat: 39.9042, lng: 116.4074, country: "Китай", city: "Пекин", type: "discrimination", title: "Закрытие крупнейшей домашней церкви", victims: 0, source: "Christianity Today"},
-            {date: "2026-02-06", lat: 34.5553, lng: 69.2075, country: "Афганистан", city: "Кабул", type: "murder", title: "Убийство бывшего имама-христианина", victims: 1, source: "Open Doors"},
-            {date: "2026-02-28", lat: 15.3694, lng: 44.1910, country: "Йемен", city: "Сана", type: "murder", title: "Казнь христианина-хусеита", victims: 1, source: "Open Doors"},
-            {date: "2026-02-21", lat: -1.6585, lng: 29.2203, country: "ДР Конго", city: "Северное Киву", type: "attack", title: "Атака на христианскую деревню ADF", victims: 15, source: "Open Doors"},
-            {date: "2026-02-04", lat: 12.3714, lng: -1.5197, country: "Буркина-Фасо", city: "Уагадугу", type: "attack", title: "Нападение на католическую миссию", victims: 2, source: "Vatican News"},
-            {date: "2026-02-26", lat: -12.9732, lng: 40.5178, country: "Мозамбик", city: "Пемба", type: "attack", title: "Нападение на островную общину", victims: 10, source: "Open Doors"},
-            {date: "2026-02-18", lat: 13.5116, lng: 2.1254, country: "Нигер", city: "Ниамей", type: "kidnapping", title: "Похищение пастора", victims: 1, source: "Open Doors"},
-            {date: "2026-02-14", lat: 36.7559, lng: 5.0843, country: "Алжир", city: "Бежая", type: "discrimination", title: "Запечатывание 16-й церкви", victims: 0, source: "Release International"},
-            {date: "2026-02-12", lat: 12.6392, lng: -8.0029, country: "Мали", city: "Бамако", type: "kidnapping", title: "Похищение христианского миссионера", victims: 1, source: "ICC"},
-            {date: "2026-02-23", lat: 24.7136, lng: 46.6753, country: "Саудовская Аравия", city: "Эр-Рияд", type: "arrest", title: "Арест 20 филиппинских христиан", victims: 20, source: "ICC"},
-            {date: "2026-02-02", lat: 6.9271, lng: 79.8612, country: "Шри-Ланка", city: "Коломбо", type: "discrimination", title: "Административное давление на церкви", victims: 0, source: "Release International"},
-            {date: "2026-02-05", lat: 9.8965, lng: 8.8583, country: "Нигерия", city: "Плато", type: "attack", title: "Нападение фулани на деревню", victims: 8, source: "Intersociety"},
-            {date: "2026-02-01", lat: 7.3986, lng: 3.9071, country: "Нигерия", city: "Ибадан", type: "discrimination", title: "Закрытие 12 церквей властями", victims: 0, source: "Christianity Today"}
-        ];
-
         // Инициализация
         async function init() {
             initMap();
@@ -397,8 +367,11 @@
                 maxZoom: 18
             });
 
+            // Тёмная тема CARTO с русскими названиями
             L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-                attribution: '&copy; <a href="https://carto.com/attributions">CARTO</a>'
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+                subdomains: 'abcd',
+                maxZoom: 20
             }).addTo(map);
         }
 
@@ -408,10 +381,11 @@
                 if (!response.ok) throw new Error('Network response was not ok');
                 const data = await response.json();
                 allEvents = data.events || data;
-                console.log('✅ Данные загружены из JSON');
+                console.log('✅ Данные загружены из JSON:', allEvents.length, 'событий');
             } catch (error) {
-                console.warn('⚠️ Используются fallback данные:', error);
-                allEvents = fallbackData;
+                console.error('❌ Ошибка загрузки JSON:', error);
+                alert('Ошибка загрузки данных. Проверьте консоль (F12).');
+                return;
             }
             
             renderEvents(allEvents);
@@ -444,7 +418,10 @@
                         <p><strong>📍</strong> ${event.city}, ${event.country}</p>
                         <p><strong>⚠️</strong> ${getTypeName(event.type)}</p>
                         ${event.victims > 0 ? `<p><strong>💀</strong> ${event.victims} жертв</p>` : ''}
-                        <p style="font-size: 0.9em; color: #888; margin-top: 10px;">Источник: ${event.source}</p>
+                        ${event.description ? `<p style="margin-top: 10px; font-size: 0.9em;">${event.description}</p>` : ''}
+                        <p style="font-size: 0.85em; color: #888; margin-top: 10px;">
+                            Источник: <a href="${event.url || '#'}" target="_blank" style="color: #ff6b6b;">${event.source}</a>
+                        </p>
                     </div>
                 `;
                 
