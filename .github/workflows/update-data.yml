@@ -1,8 +1,8 @@
-name: Monthly Data Update
+name: Daily Data Update
 
 on:
   schedule:
-    - cron: '0 0 1 * *'  # 1-го числа каждого месяца
+    - cron: '0 6 * * *'  # Каждый день в 6:00 UTC
   workflow_dispatch:      # Ручной запуск
 
 jobs:
@@ -12,23 +12,38 @@ jobs:
       contents: write
     
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
     
     - name: Setup Node.js
       uses: actions/setup-node@v3
       with:
         node-version: '18'
     
-    - name: Update data
-      run: |
-        # Здесь можно добавить скрипт обновления
-        # node js/update-data.js
-        echo "Data update simulated"
+    - name: Install dependencies
+      run: npm install xml2js
     
-    - name: Commit changes
+    - name: Update persecution data
+      run: node js/update-data.js
+    
+    - name: Check for changes
+      id: verify-changed-files
+      run: |
+        if git diff --quiet data/events.json; then
+          echo "changed=false" >> $GITHUB_OUTPUT
+        else
+          echo "changed=true" >> $GITHUB_OUTPUT
+        fi
+    
+    - name: Commit and push changes
+      if: steps.verify-changed-files.outputs.changed == 'true'
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add data/events.json
-        git diff --quiet && git diff --staged --quiet || git commit -m "🔄 Update data: $(date +'%Y-%m-%d')"
+        git commit -m "🔄 Auto-update: $(date +'%Y-%m-%d %H:%M')"
         git push
+    
+    - name: No changes
+      if: steps.verify-changed-files.outputs.changed == 'false'
+      run: echo "No new data to commit"
