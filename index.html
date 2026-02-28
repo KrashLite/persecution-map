@@ -66,20 +66,53 @@
             pointer-events: none;
         }
 
-        .splash-logo {
+        .splash-logo-container {
+            position: relative;
             width: 300px;
             height: 300px;
-            border-radius: 50%;
-            border: 4px solid rgba(255, 107, 107, 0.3);
-            box-shadow: 0 0 60px rgba(255, 107, 107, 0.4), 0 0 100px rgba(255, 107, 107, 0.2);
             cursor: pointer;
             transition: all 0.3s ease;
-            object-fit: cover;
-            animation: pulse 2s infinite;
         }
 
-        .splash-logo:hover {
+        .splash-logo-container:hover {
             transform: scale(1.05);
+        }
+
+        .splash-logo-gif,
+        .splash-logo-png {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            border: 4px solid rgba(255, 107, 107, 0.3);
+            box-shadow: 0 0 60px rgba(255, 107, 107, 0.4);
+            object-fit: cover;
+            transition: opacity 0.5s ease;
+        }
+
+        .splash-logo-gif {
+            opacity: 1;
+            z-index: 2;
+        }
+
+        .splash-logo-gif.finished {
+            opacity: 0;
+            pointer-events: none;
+        }
+
+        .splash-logo-png {
+            opacity: 0;
+            z-index: 1;
+        }
+
+        .splash-logo-png.visible {
+            opacity: 1;
+        }
+
+        .splash-logo-container:hover .splash-logo-gif:not(.finished),
+        .splash-logo-container:hover .splash-logo-png.visible {
             box-shadow: 0 0 80px rgba(255, 107, 107, 0.6), 0 0 120px rgba(255, 107, 107, 0.3);
             border-color: rgba(255, 107, 107, 0.6);
         }
@@ -87,6 +120,10 @@
         @keyframes pulse {
             0%, 100% { box-shadow: 0 0 60px rgba(255, 107, 107, 0.4), 0 0 100px rgba(255, 107, 107, 0.2); }
             50% { box-shadow: 0 0 80px rgba(255, 107, 107, 0.6), 0 0 140px rgba(255, 107, 107, 0.3); }
+        }
+
+        .splash-logo-container {
+            animation: pulse 2s infinite;
         }
 
         .splash-text {
@@ -116,7 +153,7 @@
             50% { opacity: 0.5; }
         }
 
-        /* ОСНОВНОЙ ИНТЕРФЕЙС (изначально скрыт) */
+        /* ОСНОВНОЙ ИНТЕРФЕЙС */
         #main-app {
             opacity: 0;
             transition: opacity 0.5s ease;
@@ -126,7 +163,6 @@
             opacity: 1;
         }
 
-        /* ЛОГОТИП В ХЕДЕРЕ */
         .logo-container {
             display: flex;
             align-items: center;
@@ -320,7 +356,7 @@
         }
 
         @media (max-width: 768px) {
-            .splash-logo { width: 200px; height: 200px; }
+            .splash-logo-container { width: 200px; height: 200px; }
             .splash-text { font-size: 1.5rem; }
             .sidebar { width: 100%; top: auto; bottom: 0; height: 40vh; }
             .header { left: 0; height: auto; padding: 10px; }
@@ -331,7 +367,12 @@
 <body>
     <!-- СТАРТОВЫЙ ЭКРАН -->
     <div id="splash-screen">
-        <img src="images/logo-animated.gif" alt="Logo" class="splash-logo" onclick="enterSite()" id="splash-logo-btn">
+        <div class="splash-logo-container" onclick="enterSite()">
+            <!-- Сначала показываем GIF -->
+            <img src="images/logo-animated.gif" alt="Logo" class="splash-logo-gif" id="splash-gif">
+            <!-- Потом показываем PNG -->
+            <img src="images/logo.png" alt="Logo" class="splash-logo-png" id="splash-png">
+        </div>
         <div class="splash-text">Карта преследований христиан</div>
         <div class="splash-subtext">Актуальные данные о гонениях на христиан по всему миру</div>
         <div class="splash-hint">↖ Нажмите на логотип чтобы войти</div>
@@ -341,9 +382,7 @@
     <div id="main-app">
         <div class="header">
             <div class="logo-container">
-                <!-- Статичный логотип в хедере -->
                 <img src="images/logo.png" alt="Logo" class="logo-img">
-                
                 <div class="site-title">Карта преследований христиан</div>
             </div>
             
@@ -402,11 +441,28 @@
             colors: {
                 murder: '#c0392b', attack: '#e74c3c', kidnapping: '#f39c12',
                 arrest: '#8e44ad', discrimination: '#3498db', other: '#95a5a6'
-            }
+            },
+            // Длительность GIF анимации в миллисекундах (примерно 6 секунд)
+            gifDuration: 6000
         };
 
         let map, markers = [], allEvents = [];
         let appInitialized = false;
+        let gifFinished = false;
+
+        // Запускаем таймер для смены GIF на PNG
+        window.addEventListener('load', () => {
+            setTimeout(() => {
+                const gif = document.getElementById('splash-gif');
+                const png = document.getElementById('splash-png');
+                
+                gif.classList.add('finished');
+                png.classList.add('visible');
+                gifFinished = true;
+                
+                console.log('GIF animation finished, switched to PNG');
+            }, CONFIG.gifDuration);
+        });
 
         // Вход на сайт
         function enterSite() {
@@ -416,7 +472,6 @@
             splash.classList.add('hidden');
             mainApp.classList.add('visible');
             
-            // Инициализируем карту только при первом входе
             if (!appInitialized) {
                 setTimeout(() => {
                     init();
@@ -424,7 +479,6 @@
                 }, 300);
             }
             
-            // Отправляем событие в аналитику
             if (typeof gtag !== 'undefined') {
                 gtag('event', 'enter_site', { event_category: 'engagement' });
             }
