@@ -1,4 +1,4 @@
-// news-api.js - News API с улучшенным переводом
+// news-api.js - News API с надёжным переводом
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
@@ -24,7 +24,7 @@ const COUNTRY_QUERIES = [
     { name: 'South Sudan', query: 'christian killed OR attacked South Sudan' }
 ];
 
-// ============ ПЕРЕВОДЫ ============
+// Названия стран на русском
 const COUNTRY_NAMES_RU = {
     'Nigeria': 'Нигерия', 'India': 'Индия', 'China': 'Китай',
     'Pakistan': 'Пакистан', 'Iran': 'Иран', 'Iraq': 'Ирак',
@@ -34,6 +34,7 @@ const COUNTRY_NAMES_RU = {
     'Kenya': 'Кения', 'South Sudan': 'Южный Судан'
 };
 
+// Города на русском
 const CITIES_RU = {
     'Абуja': 'Абуджа', 'Лагос': 'Лагос', 'Кадуна': 'Кадуна',
     'Дели': 'Дели', 'Мумбаи': 'Мумбаи', 'Одиша': 'Одиша',
@@ -50,6 +51,7 @@ const CITIES_RU = {
     'Джуба': 'Джуба'
 };
 
+// Координаты
 const COUNTRY_DATA = {
     'Nigeria': { lat: 9.0820, lng: 8.6753, cities: { 'Абуja': [9.0810, 7.4895], 'Лагос': [6.5244, 3.3792] }},
     'India': { lat: 20.5937, lng: 78.9629, cities: { 'Дели': [28.7041, 77.1025], 'Мумбаи': [19.0760, 72.8777] }},
@@ -69,191 +71,95 @@ const COUNTRY_DATA = {
     'South Sudan': { lat: 6.8770, lng: 31.3070, cities: { 'Джуба': [4.8594, 31.5713] }}
 };
 
-// ============ УЛУЧШЕННЫЙ ПЕРЕВОД ============
+// ============ СЛОВАРЬ ПЕРЕВОДА ============
+// Сначала длинные фразы, потом короткие слова!
 
-// Расширенный словарь с фразами
-const TRANSLATION_DICT = {
-    // Глаголы и действия
-    'killed': 'убито',
-    'murdered': 'убито',
-    'shot dead': 'застрелено',
-    'beheaded': 'обезглавлено',
-    'stabbed': 'зарезано',
-    'attacked': 'нападение совершено на',
-    'attack': 'нападение',
-    'ambushed': 'устроена засада на',
-    'bombed': 'взорвано',
-    'burned': 'сожжено',
-    'destroyed': 'разрушено',
-    'vandalized': 'подвергнуто вандализму',
-    'looted': 'разграблено',
-    'raided': 'рейд проведён на',
-    'stormed': 'штурмовано',
-    'seized': 'захвачено',
-    'occupied': 'оккупировано',
-    'taken over': 'захвачено',
+const DICTIONARY = [
+    // Фразы (сначала!)
+    { en: 'faces death threats', ru: 'получает угрозы смерти' },
+    { en: 'faces death penalty', ru: 'сталкивается с смертной казнью' },
+    { en: 'faces charges', ru: 'сталкивается с обвинениями' },
+    { en: 'shot dead', ru: 'застрелено' },
+    { en: 'killed in attack', ru: 'убито в нападении' },
+    { en: 'killed in', ru: 'убито в' },
+    { en: 'attacked in', ru: 'атаковано в' },
+    { en: 'arrested in', ru: 'арестовано в' },
+    { en: 'detained in', ru: 'задержано в' },
+    { en: 'on trial', ru: 'на суде' },
+    { en: 'awaiting trial', ru: 'ожидает суда' },
+    { en: 'refugee camp', ru: 'лагере беженцев' },
+    { en: 'death threats', ru: 'угрозы смерти' },
+    { en: 'death penalty', ru: 'смертная казнь' },
+    { en: 'at least', ru: 'по меньшей мере' },
+    { en: 'more than', ru: 'более чем' },
+    { en: 'up to', ru: 'до' },
     
-    // Аресты и тюрьма
-    'arrested': 'арестовано',
-    'detained': 'задержано',
-    'imprisoned': 'заключено в тюрьму',
-    'jailed': 'посажено в тюрьму',
-    'sentenced': 'приговорено',
-    'convicted': 'осуждено',
-    'charged with': 'обвинено в',
-    'faces charges': 'сталкивается с обвинениями',
-    'faces death threats': 'получает угрозы смерти',
-    'faces death penalty': 'сталкивается с смертной казнью',
-    'on trial': 'на суде',
-    'awaiting trial': 'ожидает суда',
-    
-    // Похищения
-    'kidnapped': 'похищено',
-    'abducted': 'похищено',
-    'taken hostage': 'взято в заложники',
-    'held captive': 'удерживается в плену',
-    'missing': 'пропало без вести',
-    'ransom': 'выкуп',
-    
-    // Дискриминация
-    'forced to close': 'вынуждено закрыться',
-    'shut down': 'закрыто',
-    'banned': 'запрещено',
-    'outlawed': 'запрещено законом',
-    'denied registration': 'отказано в регистрации',
-    'denied permit': 'отказано в разрешении',
-    'fined': 'оштрафовано',
-    'expelled': 'выслано',
-    'deported': 'депортировано',
-    
-    // Люди
-    'christian': 'христианин',
-    'christians': 'христиане',
-    'believer': 'верующий',
-    'believers': 'верующие',
-    'pastor': 'пастор',
-    'pastors': 'пасторы',
-    'priest': 'священник',
-    'priests': 'священники',
-    'bishop': 'епископ',
-    'bishops': 'епископы',
-    'missionary': 'миссионер',
-    'missionaries': 'миссионеры',
-    'convert': 'обращённый',
-    'converts': 'обращённые',
-    'worshipper': 'прихожанин',
-    'worshippers': 'прихожане',
-    'refugee': 'беженец',
-    'refugees': 'беженцы',
-    'villager': 'житель деревни',
-    'villagers': 'жители деревни',
-    
-    // Места
-    'church': 'церковь',
-    'churches': 'церкви',
-    'mosque': 'мечеть',
-    'temple': 'храм',
-    'prayer hall': 'молитвенный дом',
-    'worship place': 'место поклонения',
-    'bible school': 'библейская школа',
-    'seminary': 'семинария',
-    'refugee camp': 'лагерь беженцев',
-    'camp': 'лагерь',
-    'village': 'деревня',
-    'compound': 'комплекс',
-    
-    // Прилагательные
-    'armed': 'вооружённые',
-    'masked': 'в масках',
-    'unidentified': 'неопознанные',
-    'suspected': 'подозреваемые',
-    'radical': 'радикальные',
-    'islamist': 'исламистские',
-    'extremist': 'экстремистские',
-    'militant': 'боевики',
-    'militants': 'боевики',
-    'gunmen': 'вооружённые люди',
-    'terrorists': 'террористы',
-    'insurgents': 'повстанцы',
-    'rebels': 'повстанцы',
-    
-    // Количества
-    'at least': 'по меньшей мере',
-    'up to': 'до',
-    'more than': 'более',
-    'over': 'более',
-    'dozens': 'десятки',
-    'scores': 'множество',
-    'hundreds': 'сотни',
-    'thousands': 'тысячи',
-    
-    // Прочее
-    'following': 'после',
-    'after': 'после',
-    'during': 'во время',
-    'amid': 'на фоне',
-    'amidst': 'среди',
-    'in response to': 'в ответ на',
-    'according to': 'по данным',
-    'sources say': 'источники сообщают',
-    'reports indicate': 'сообщения указывают',
-    'it is reported': 'сообщается'
-};
-
-// Шаблоны для типичных конструкций
-const TEMPLATES = [
-    { pattern: /(\d+)\s+christians?\s+killed\s+in\s+(.+)/i, 
-      replace: 'Убито $1 христиан в $2' },
-    { pattern: /christians?\s+faces?\s+death\s+threats?\s+in\s+(.+)/i, 
-      replace: 'Христиане получают угрозы смерти в $1' },
-    { pattern: /(\d+)\s+killed\s+in\s+attack\s+on\s+(.+)/i, 
-      replace: '$1 убито в нападении на $2' },
-    { pattern: /church\s+attacked\s+in\s+(.+)/i, 
-      replace: 'Церковь атакована в $1' },
-    { pattern: /pastor\s+arrested\s+in\s+(.+)/i, 
-      replace: 'Пастор арестован в $1' },
-    { pattern: /christians?\s+arrested?\s+in\s+(.+)/i, 
-      replace: 'Христиане арестованы в $1' },
-    { pattern: /(\d+)\s+christians?\s+arrested/i, 
-      replace: 'Арестовано $1 христиан' }
+    // Слова
+    { en: 'christians', ru: 'христиане' },
+    { en: 'christian', ru: 'христианин' },
+    { en: 'killed', ru: 'убито' },
+    { en: 'murdered', ru: 'убито' },
+    { en: 'attacked', ru: 'атаковано' },
+    { en: 'attack', ru: 'нападение' },
+    { en: 'arrested', ru: 'арестовано' },
+    { en: 'arrest', ru: 'арест' },
+    { en: 'detained', ru: 'задержано' },
+    { en: 'imprisoned', ru: 'заключено в тюрьму' },
+    { en: 'jailed', ru: 'посажено в тюрьму' },
+    { en: 'kidnapped', ru: 'похищено' },
+    { en: 'abducted', ru: 'похищено' },
+    { en: 'burned', ru: 'сожжено' },
+    { en: 'destroyed', ru: 'разрушено' },
+    { en: 'bombed', ru: 'взорвано' },
+    { en: 'pastor', ru: 'пастор' },
+    { en: 'pastors', ru: 'пасторы' },
+    { en: 'priest', ru: 'священник' },
+    { en: 'priests', ru: 'священники' },
+    { en: 'bishop', ru: 'епископ' },
+    { en: 'church', ru: 'церковь' },
+    { en: 'churches', ru: 'церкви' },
+    { en: 'believers', ru: 'верующие' },
+    { en: 'believer', ru: 'верующий' },
+    { en: 'worshippers', ru: 'прихожане' },
+    { en: 'worshipper', ru: 'прихожанин' },
+    { en: 'refugees', ru: 'беженцы' },
+    { en: 'refugee', ru: 'беженец' },
+    { en: 'camp', ru: 'лагерь' },
+    { en: 'village', ru: 'деревня' },
+    { en: 'militants', ru: 'боевики' },
+    { en: 'militant', ru: 'боевик' },
+    { en: 'gunmen', ru: 'вооружённые люди' },
+    { en: 'terrorists', ru: 'террористы' },
+    { en: 'extremists', ru: 'экстремисты' },
+    { en: 'persecution', ru: 'гонение' },
+    { en: 'forced', ru: 'вынуждено' },
+    { en: 'closed', ru: 'закрыто' },
+    { en: 'banned', ru: 'запрещено' },
+    { en: 'fined', ru: 'оштрафовано' },
+    { en: 'threats', ru: 'угрозы' },
+    { en: 'threat', ru: 'угроза' },
+    { en: 'faces', ru: 'сталкивается с' },
+    { en: 'face', ru: 'сталкивается с' }
 ];
 
-function smartTranslate(text) {
+// ============ ФУНКЦИИ ============
+
+function translateText(text) {
     if (!text) return '';
     
-    let translated = text;
+    let result = text.toLowerCase();
     
-    // Сначала применяем шаблоны
-    for (const template of TEMPLATES) {
-        if (template.pattern.test(translated)) {
-            translated = translated.replace(template.pattern, template.replace);
-            return translated; // Шаблон сработал — возвращаем
-        }
+    // Заменяем по словарю (сначала длинные фразы!)
+    for (const item of DICTIONARY) {
+        const regex = new RegExp(`\\b${item.en}\\b`, 'gi');
+        result = result.replace(regex, item.ru);
     }
     
-    // Затем словарь (сначала длинные фразы, потом короткие)
-    const sortedKeys = Object.keys(TRANSLATION_DICT).sort((a, b) => b.length - a.length);
+    // Заглавная буква в начале
+    result = result.charAt(0).toUpperCase() + result.slice(1);
     
-    for (const key of sortedKeys) {
-        const regex = new RegExp(`\\b${key}\\b`, 'gi');
-        translated = translated.replace(regex, TRANSLATION_DICT[key]);
-    }
-    
-    // Дополнительные правила
-    translated = translated
-        .replace(/\bin\b/gi, 'в')
-        .replace(/\bon\b/gi, 'на')
-        .replace(/\bof\b/gi, 'из')
-        .replace(/\bfor\b/gi, 'за')
-        .replace(/\bwith\b/gi, 'с')
-        .replace(/\bfrom\b/gi, 'из')
-        .replace(/\bto\b/gi, 'к')
-        .replace(/\band\b/gi, 'и');
-    
-    return translated;
+    return result;
 }
-
-// ============ ОСТАЛЬНЫЕ ФУНКЦИИ ============
 
 function fetchNews(query) {
     return new Promise((resolve, reject) => {
@@ -286,11 +192,11 @@ function fetchNews(query) {
 
 function detectType(title, description) {
     const text = (title + ' ' + description).toLowerCase();
-    if (text.match(/killed|murdered|death|dead|slain|execution/)) return 'убийство';
+    if (text.match(/killed|murdered|death|dead|slain/)) return 'убийство';
     if (text.match(/attack|bomb|explosion|shooting|raid|burned/)) return 'нападение';
-    if (text.match(/kidnap|abduct|hostage/)) return 'похищение';
-    if (text.match(/arrest|detain|prison|jail|imprisoned/)) return 'арест';
-    if (text.match(/close|ban|shut|discriminat|fine|restrict/)) return 'дискриминация';
+    if (text.match(/kidnap|abduct/)) return 'похищение';
+    if (text.match(/arrest|detain|prison|jail/)) return 'арест';
+    if (text.match(/close|ban|shut|discriminat|fine/)) return 'дискриминация';
     return 'другое';
 }
 
@@ -326,7 +232,7 @@ async function updateViaNewsAPI() {
             console.log(`📍 ${countryData.name}:`);
             
             const articles = await fetchNews(countryData.query);
-            console.log(`   ✅ Найдено статей: ${articles.length}`);
+            console.log(`   ✅ Найдено: ${articles.length}`);
             
             const countryInfo = COUNTRY_DATA[countryData.name];
             const cityName = Object.keys(countryInfo.cities)[0];
@@ -334,13 +240,18 @@ async function updateViaNewsAPI() {
             
             for (const article of articles) {
                 try {
-                    console.log(`   🔄 Перевод: ${article.title.substring(0, 50)}...`);
+                    const originalTitle = article.title;
+                    const originalDesc = article.description || '';
                     
-                    // Умный перевод
-                    const translatedTitle = smartTranslate(article.title);
-                    const translatedDesc = smartTranslate(article.description || '');
+                    // Переводим
+                    const translatedTitle = translateText(originalTitle);
+                    const translatedDesc = translateText(originalDesc);
                     
-                    console.log(`      → ${translatedTitle.substring(0, 50)}...`);
+                    // Логируем примеры
+                    if (allEvents.length < 3) {
+                        console.log(`   📝 ${originalTitle.substring(0, 50)}...`);
+                        console.log(`      → ${translatedTitle.substring(0, 50)}...`);
+                    }
                     
                     const lat = cityCoords[0] + (Math.random() - 0.5) * 2;
                     const lng = cityCoords[1] + (Math.random() - 0.5) * 2;
@@ -351,16 +262,13 @@ async function updateViaNewsAPI() {
                         lng: parseFloat(lng.toFixed(4)),
                         country: COUNTRY_NAMES_RU[countryData.name] || countryData.name,
                         city: CITIES_RU[cityName] || cityName,
-                        type: detectType(article.title, article.description),
+                        type: detectType(originalTitle, originalDesc),
                         title: translatedTitle.substring(0, 120),
                         description: translatedDesc.substring(0, 250),
                         source: article.source?.name || 'News API',
                         url: article.url,
-                        victims: extractVictims(article.title + ' ' + article.description),
-                        originalTitle: article.title
+                        victims: extractVictims(originalTitle + ' ' + originalDesc)
                     });
-                    
-                    await new Promise(resolve => setTimeout(resolve, 100));
                     
                 } catch (err) {
                     console.log(`   ⚠️ Ошибка: ${err.message}`);
@@ -375,13 +283,7 @@ async function updateViaNewsAPI() {
         }
     }
     
-    console.log(`\n${'='.repeat(60)}`);
-    console.log('📊 ИТОГИ:');
-    console.log(`${'='.repeat(60)}`);
-    console.log(`📰 Всего событий: ${allEvents.length}`);
-    console.log(`❌ Ошибок: ${errors.length}`);
-    
-    // Дедупликация
+    // Дедупликация и сохранение...
     const seen = new Set();
     const uniqueEvents = [];
     
@@ -395,24 +297,20 @@ async function updateViaNewsAPI() {
     uniqueEvents.sort((a, b) => new Date(b.date) - new Date(a.date));
     const finalEvents = uniqueEvents.slice(0, 50);
     
-    console.log(`🎯 Уникальных событий: ${finalEvents.length}`);
+    console.log(`\n📊 Всего: ${finalEvents.length} событий`);
     
-    // Примеры переводов
+    // Примеры в конце
     console.log(`\n📝 Примеры переводов:`);
-    finalEvents.slice(0, 3).forEach((e, i) => {
+    finalEvents.slice(0, 5).forEach((e, i) => {
         console.log(`   ${i + 1}. ${e.title}`);
     });
     
-    // Сохраняем
     const output = {
         metadata: {
             lastUpdated: new Date().toISOString(),
-            version: '2.1',
+            version: '2.2',
             totalEvents: finalEvents.length,
-            sourcesChecked: COUNTRY_QUERIES.length,
-            sourcesWorking: COUNTRY_QUERIES.length - errors.length,
-            errors: errors,
-            updateMethod: 'NEWS_API_RU_SMART',
+            updateMethod: 'NEWS_API_RU',
             rssSuccess: true,
             language: 'ru'
         },
@@ -427,15 +325,11 @@ async function updateViaNewsAPI() {
     
     fs.writeFileSync(outputPath, JSON.stringify(output, null, 2), 'utf8');
     
-    console.log(`\n${'='.repeat(60)}`);
-    console.log('💾 СОХРАНЕНО!');
-    console.log(`${'='.repeat(60)}`);
-    
+    console.log(`\n✅ Сохранено!`);
     return output;
 }
 
-// Запуск
 updateViaNewsAPI().catch(err => {
-    console.error('💥 Критическая ошибка:', err);
+    console.error('💥 Ошибка:', err);
     process.exit(1);
 });
