@@ -1,9 +1,45 @@
 {
   "metadata": {
-    "lastUpdated": "2026-02-28T16:31:25.373Z",
-    "version": "2.3",
+    "lastUpdated": "2026-02-28T16:41:21.431Z",
+    "version": "2.0",
     "totalEvents": 0,
-    "updateMethod": "NEWS_API_RU",
+    "sourcesChecked": 8,
+    "sourcesWorking": 0,
+    "errors": [
+      {
+        "country": "Nigeria",
+        "error": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+      },
+      {
+        "country": "India",
+        "error": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+      },
+      {
+        "country": "China",
+        "error": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+      },
+      {
+        "country": "Pakistan",
+        "error": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+      },
+      {
+        "country": "Iran",
+        "error": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+      },
+      {
+        "country": "Iraq",
+        "error": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+      },
+      {
+        "country": "Syria",
+        "error": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+      },
+      {
+        "country": "Egypt",
+        "error": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+      }
+    ],
+    "updateMethod": "NEWS_API",
     "rssSuccess": true,
     "language": "ru"
   },
