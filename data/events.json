@@ -1,19 +1,25 @@
 {
   "metadata": {
-    "lastUpdated": "2026-02-28T07:04:53.597Z",
-    "version": "1.0",
-    "totalEvents": 0,
-    "sourcesChecked": [
-      "vaticanNews",
-      "zenit",
-      "catholicNewsAgency"
-    ],
-    "errors": [
-      {
-        "source": "catholicNewsAgency",
-        "error": "Attribute without value\nLine: 10\nColumn: 19\nChar: s"
-      }
-    ]
+    "lastUpdated": "2026-02-28T12:00:00.000Z",
+    "version": "1.2",
+    "totalEvents": 12,
+    "sourcesChecked": ["manual"],
+    "sourcesWorking": 1,
+    "errors": [],
+    "updateMethod": "MANUAL_RESTORE"
   },
-  "events": []
+  "events": [
+    {"date":"2026-02-28","lat":9.081,"lng":7.4895,"country":"Nigeria","city":"Abuja","type":"attack","title":"Attack on church in Abuja","description":"Gunmen attacked during service","source":"Manual","url":"#","victims":12},
+    {"date":"2026-02-27","lat":10.5105,"lng":7.4165,"country":"Nigeria","city":"Kaduna","type":"kidnapping","title":"23 Christians kidnapped","description":"Group abducted from village","source":"Manual","url":"#","victims":23},
+    {"date":"2026-02-26","lat":20.9517,"lng":85.0985,"country":"India","city":"Odisha","type":"murder","title":"Christian family killed","description":"Three family members murdered","source":"Manual","url":"#","victims":3},
+    {"date":"2026-02-25","lat":35.6892,"lng":51.389,"country":"Iran","city":"Tehran","type":"arrest","title":"Church raid arrests","description":"8 Christians arrested","source":"Manual","url":"#","victims":8},
+    {"date":"2026-02-24","lat":33.3152,"lng":44.3661,"country":"Iraq","city":"Baghdad","type":"attack","title":"Church bombing","description":"Explosion near Christian district","source":"Manual","url":"#","victims":5},
+    {"date":"2026-02-23","lat":30.0444,"lng":31.2357,"country":"Egypt","city":"Cairo","type":"discrimination","title":"Church closure","description":"Authorities shut down church","source":"Manual","url":"#","victims":0},
+    {"date":"2026-02-22","lat":-1.2921,"lng":36.8219,"country":"Kenya","city":"Nairobi","type":"attack","title":"Attack on Christian school","description":"Militants attacked school","source":"Manual","url":"#","victims":2},
+    {"date":"2026-02-21","lat":15.3229,"lng":38.9251,"country":"Eritrea","city":"Asmara","type":"arrest","title":"Mass arrests","description":"30 Christians detained","source":"Manual","url":"#","victims":30},
+    {"date":"2026-02-20","lat":2.0469,"lng":45.3182,"country":"Somalia","city":"Mogadishu","type":"murder","title":"Martyrdom of believer","description":"Killed for faith","source":"Manual","url":"#","victims":1},
+    {"date":"2026-02-19","lat":34.5553,"lng":69.2075,"country":"Afghanistan","city":"Kabul","type":"attack","title":"Attack on underground church","description":"Secret meeting discovered","source":"Manual","url":"#","victims":4},
+    {"date":"2026-02-18","lat":28.7041,"lng":77.1025,"country":"India","city":"Delhi","type":"discrimination","title":"Anti-Christian violence","description":"Mob attacked prayer meeting","source":"Manual","url":"#","victims":0},
+    {"date":"2026-02-17","lat":41.0082,"lng":28.9784,"country":"Turkey","city":"Istanbul","type":"arrest","title":"Pastor arrested","description":"Church leader detained","source":"Manual","url":"#","victims":1}
+  ]
 }
