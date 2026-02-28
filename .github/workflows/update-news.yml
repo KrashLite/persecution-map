@@ -2,9 +2,12 @@ name: Daily News API Update
 
 on:
   schedule:
-    # Запуск каждый день в 6:00 UTC (9:00 по московскому)
     - cron: '0 6 * * *'
-  workflow_dispatch:  # Ручной запуск
+  workflow_dispatch:
+
+# Добавляем разрешения явно
+permissions:
+  contents: write
 
 jobs:
   update:
@@ -13,6 +16,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true  # Важно для push
       
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -25,8 +30,11 @@ jobs:
         run: node news-api.js
       
       - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
           git add data/events.json
           git diff --staged --quiet || (git commit -m "Update events via News API - $(date)" && git push)
