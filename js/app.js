@@ -1,92 +1,22 @@
-// app.js — Карта гонений на христиан (универсальная версия с конвертером типов)
+// app.js — Карта гонений на христиан (совместимый с fallback-data.js)
 
 // ============ КОНФИГУРАЦИЯ ============
 const CONFIG = {
     mapCenter: [20, 0],
     mapZoom: 2,
     maxEvents: 50,
-    dataUrl: 'data/events.json'
+    dataUrl: 'data/events.json' // ← Путь к файлу от fallback-data.js
 };
 
-// ============ ТИПЫ СОБЫТИЙ (РУССКИЕ — единый стандарт) ============
+// ============ ТИПЫ СОБЫТИЙ (РУССКИЕ) ============
 const EVENT_TYPES = {
-    'убийство': { 
-        color: '#e74c3c', 
-        label: 'Убийства',
-        filterLabel: 'Убийства'
-    },
-    'нападение': { 
-        color: '#e67e22', 
-        label: 'Атаки',
-        filterLabel: 'Атаки'
-    },
-    'похищение': { 
-        color: '#f39c12', 
-        label: 'Похищения',
-        filterLabel: 'Похищения'
-    },
-    'арест': { 
-        color: '#9b59b6', 
-        label: 'Аресты',
-        filterLabel: 'Аресты'
-    },
-    'дискриминация': { 
-        color: '#3498db', 
-        label: 'Дискриминация',
-        filterLabel: 'Дискриминация'
-    },
-    'другое': {
-        color: '#95a5a6',
-        label: 'Другое',
-        filterLabel: 'Другое'
-    }
+    'убийство': { color: '#e74c3c', label: 'Убийства' },
+    'нападение': { color: '#e67e22', label: 'Атаки' },
+    'похищение': { color: '#f39c12', label: 'Похищения' },
+    'арест': { color: '#9b59b6', label: 'Аресты' },
+    'дискриминация': { color: '#3498db', label: 'Дискриминация' },
+    'другое': { color: '#95a5a6', label: 'Другое' }
 };
-
-// ============ КОНВЕРТЕР ТИПОВ (универсальный) ============
-function normalizeEventType(type) {
-    if (!type) return 'другое';
-    
-    const typeMap = {
-        // Английские → русские
-        'murder': 'убийство',
-        'kill': 'убийство',
-        'killed': 'убийство',
-        'attack': 'нападение',
-        'attacked': 'нападение',
-        'kidnapping': 'похищение',
-        'kidnap': 'похищение',
-        'abduction': 'похищение',
-        'arrest': 'арест',
-        'arrested': 'арест',
-        'detention': 'арест',
-        'discrimination': 'дискриминация',
-        'discriminated': 'дискриминация',
-        'ban': 'дискриминация',
-        'close': 'дискриминация',
-        'other': 'другое',
-        'unknown': 'другое',
-        // Русские → русские (чтобы не сломать если уже русские)
-        'убийство': 'убийство',
-        'убийства': 'убийство',
-        'нападение': 'нападение',
-        'нападения': 'нападение',
-        'похищение': 'похищение',
-        'похищения': 'похищение',
-        'арест': 'арест',
-        'аресты': 'арест',
-        'дискриминация': 'дискриминация',
-        'дискриминации': 'дискриминация',
-        'другое': 'другое',
-        'другие': 'другое'
-    };
-    
-    const normalized = typeMap[type.toString().toLowerCase().trim()];
-    if (!normalized) {
-        console.warn(`⚠️ Неизвестный тип: "${type}", используем 'другое'`);
-        return 'другое';
-    }
-    return normalized;
-}
 
 // ============ ГЛОБАЛЬНЫЕ ПЕРЕМЕННЫЕ ============
 let map;
@@ -94,74 +24,11 @@ let markers = [];
 let eventsData = [];
 let currentFilter = 'все';
 
-// ============ FALLBACK ДАННЫЕ (с английскими типами — конвертер исправит) ============
-const FALLBACK_EVENTS = [
-    {
-        date: '2024-01-15',
-        lat: 9.0820,
-        lng: 8.6753,
-        country: 'Нигерия',
-        city: 'Абуджа',
-        type: 'murder', // ← английский, конвертер исправит на 'убийство'
-        title: 'Пастор убит в Нигерии',
-        description: 'Вооруженные люди напали на церковь',
-        source: 'Fallback',
-        victims: 1
-    },
-    {
-        date: '2024-01-14',
-        lat: 20.5937,
-        lng: 78.9629,
-        country: 'Индия',
-        city: 'Дели',
-        type: 'attack', // ← английский, конвертер исправит на 'нападение'
-        title: 'Атака на церковь в Индии',
-        description: 'Толпа разрушила здание церкви',
-        source: 'Fallback',
-        victims: 0
-    },
-    {
-        date: '2024-01-13',
-        lat: 35.8617,
-        lng: 104.1954,
-        country: 'Китай',
-        city: 'Пекин',
-        type: 'arrest', // ← английский, конвертер исправит на 'арест'
-        title: 'Арестованы христиане в Китае',
-        description: 'Полиция задержала 5 верующих',
-        source: 'Fallback',
-        victims: 5
-    },
-    {
-        date: '2024-01-12',
-        lat: 30.3753,
-        lng: 69.3451,
-        country: 'Пакистан',
-        city: 'Лахор',
-        type: 'kidnapping', // ← английский, конвертер исправит на 'похищение'
-        title: 'Похищена девушка-христианка',
-        description: 'Насильно выдали замуж',
-        source: 'Fallback',
-        victims: 1
-    },
-    {
-        date: '2024-01-11',
-        lat: 38.9637,
-        lng: 35.2433,
-        country: 'Турция',
-        city: 'Стамбул',
-        type: 'discrimination', // ← английский, конвертер исправит на 'дискриминация'
-        title: 'Церковь закрыта властями',
-        description: 'Запрет на проведение богослужений',
-        source: 'Fallback',
-        victims: 0
-    }
-];
-
 // ============ ИНИЦИАЛИЗАЦИЯ ============
 document.addEventListener('DOMContentLoaded', init);
 
 async function init() {
+    console.log('🚀 Инициализация карты...');
     initMap();
     await loadEvents();
     createFilterButtons();
@@ -177,49 +44,136 @@ function initMap() {
         attribution: '© OpenStreetMap contributors',
         maxZoom: 18
     }).addTo(map);
+    
+    console.log('✅ Карта инициализирована');
 }
 
 // ============ ЗАГРУЗКА ДАННЫХ ============
 async function loadEvents() {
     try {
+        console.log(`📡 Загрузка данных из ${CONFIG.dataUrl}...`);
+        
         const response = await fetch(CONFIG.dataUrl);
-        const data = await response.json();
         
-        // Берем события из файла или fallback
-        const rawEvents = data.events || data || [];
-        
-        // Если пусто — используем fallback
-        if (rawEvents.length === 0) {
-            console.log('⚠️ Нет данных в файле, используем fallback');
-            eventsData = processEvents(FALLBACK_EVENTS);
-        } else {
-            console.log(`📊 Загружено событий: ${rawEvents.length}`);
-            eventsData = processEvents(rawEvents);
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}: ${response.statusText}`);
         }
         
-        // Проверяем типы после конвертации
+        const data = await response.json();
+        console.log('📦 Получены данные:', data);
+        
+        // Проверяем структуру данных (fallback-data.js создает {metadata, events})
+        if (data.events && Array.isArray(data.events)) {
+            eventsData = data.events;
+            console.log(`✅ Загружено ${eventsData.length} событий из events.json`);
+        } else if (Array.isArray(data)) {
+            // Если пришел просто массив
+            eventsData = data;
+            console.log(`✅ Загружено ${eventsData.length} событий (массив)`);
+        } else {
+            throw new Error('Неверная структура данных');
+        }
+        
+        // Проверяем типы
         const types = [...new Set(eventsData.map(e => e.type))];
-        console.log('📋 Типы после конвертации:', types);
+        console.log('📋 Типы событий:', types);
+        
+        // Проверяем, все ли типы известны
+        types.forEach(type => {
+            if (!EVENT_TYPES[type]) {
+                console.warn(`⚠️ Неизвестный тип: "${type}"`);
+            }
+        });
         
     } catch (error) {
-        console.error('❌ Ошибка загрузки, используем fallback:', error);
-        eventsData = processEvents(FALLBACK_EVENTS);
+        console.error('❌ Ошибка загрузки данных:', error);
+        console.log('🔄 Попытка загрузить fallback напрямую...');
+        
+        // Если файл не найден — используем встроенный fallback
+        eventsData = getInlineFallback();
+        console.log(`✅ Используем встроенный fallback: ${eventsData.length} событий`);
     }
+    
+    // Нормализуем данные (убираем лишние пробелы и т.д.)
+    eventsData = eventsData.map(event => ({
+        ...event,
+        type: (event.type || 'другое').toString().trim().toLowerCase(),
+        lat: parseFloat(event.lat),
+        lng: parseFloat(event.lng)
+    }));
 }
 
-// ============ ОБРАБОТКА СОБЫТИЙ (конвертация типов) ============
-function processEvents(events) {
-    return events.map(event => ({
-        ...event,
-        type: normalizeEventType(event.type) // ← ЗДЕСЬ конвертируем тип
-    }));
+// ============ ВСТРОЕННЫЙ FALLBACK (на случай если файл не доступен) ============
+function getInlineFallback() {
+    return [
+        {
+            date: "2026-02-28",
+            lat: 9.0810,
+            lng: 7.4895,
+            country: "Нигерия",
+            city: "Абуджа",
+            type: "нападение",
+            title: "Нападение на церковь в пригороде Абуджи",
+            description: "Вооруженные люди атаковали прихожан во время воскресной службы.",
+            source: "Fallback",
+            victims: 12
+        },
+        {
+            date: "2026-02-27",
+            lat: 20.9517,
+            lng: 85.0985,
+            country: "Индия",
+            city: "Одиша",
+            type: "убийство",
+            title: "Убийство христианской семьи",
+            description: "Три члена семьи были убиты.",
+            source: "Fallback",
+            victims: 3
+        },
+        {
+            date: "2026-02-26",
+            lat: 35.6892,
+            lng: 51.3890,
+            country: "Иран",
+            city: "Тегеран",
+            type: "арест",
+            title: "Рейд на церковь",
+            description: "Арестованы 8 христиан.",
+            source: "Fallback",
+            victims: 8
+        },
+        {
+            date: "2026-02-25",
+            lat: 33.3152,
+            lng: 44.3661,
+            country: "Ирак",
+            city: "Багдад",
+            type: "нападение",
+            title: "Взрыв возле церкви",
+            description: "Погибли 5 человек.",
+            source: "Fallback",
+            victims: 5
+        },
+        {
+            date: "2026-02-24",
+            lat: 30.0444,
+            lng: 31.2357,
+            country: "Египет",
+            city: "Каир",
+            type: "дискриминация",
+            title: "Закрытие церкви",
+            description: "Власти закрыли церковное здание.",
+            source: "Fallback",
+            victims: 0
+        }
+    ];
 }
 
 // ============ ФИЛЬТРЫ ============
 function createFilterButtons() {
     const container = document.getElementById('filter-buttons');
     if (!container) {
-        console.error('❌ Не найден контейнер #filter-buttons');
+        console.error('❌ Не найден #filter-buttons');
         return;
     }
     
@@ -229,12 +183,14 @@ function createFilterButtons() {
     const allBtn = createFilterButton('все', 'Все', '#2c3e50', true);
     container.appendChild(allBtn);
     
-    // Кнопки для каждого типа (кроме 'другое' — по желанию)
+    // Кнопки типов
     Object.entries(EVENT_TYPES).forEach(([type, config]) => {
         if (type === 'другое') return;
-        const btn = createFilterButton(type, config.filterLabel, config.color, false);
+        const btn = createFilterButton(type, config.label, config.color, false);
         container.appendChild(btn);
     });
+    
+    console.log('✅ Кнопки фильтров созданы');
 }
 
 function createFilterButton(type, label, color, isActive) {
@@ -243,7 +199,6 @@ function createFilterButton(type, label, color, isActive) {
     btn.dataset.type = type;
     btn.textContent = label;
     
-    // Стили
     btn.style.cssText = `
         padding: 8px 16px;
         margin: 4px;
@@ -257,11 +212,11 @@ function createFilterButton(type, label, color, isActive) {
     `;
     
     btn.addEventListener('click', () => {
-        // Сбрасываем все кнопки
+        // Сброс активности
         document.querySelectorAll('.filter-btn').forEach(b => {
             b.classList.remove('active');
             const bType = b.dataset.type;
-            const bColor = bType === 'все' ? '#2c3e50' : EVENT_TYPES[bType]?.color || '#95a5a6';
+            const bColor = bType === 'все' ? '#2c3e50' : (EVENT_TYPES[bType]?.color || '#95a5a6');
             b.style.backgroundColor = 'transparent';
             b.style.color = bColor;
         });
@@ -280,30 +235,22 @@ function createFilterButton(type, label, color, isActive) {
 // ============ ПРИМЕНЕНИЕ ФИЛЬТРА ============
 function applyFilter(filterType) {
     currentFilter = filterType;
-    
-    // Очищаем маркеры
     clearMarkers();
     
-    // Фильтруем события (типы уже нормализованы!)
     const filtered = filterType === 'все' 
         ? eventsData 
         : eventsData.filter(e => e.type === filterType);
     
-    console.log(`🔍 Фильтр: "${filterType}", найдено: ${filtered.length} событий`);
+    console.log(`🔍 Фильтр: "${filterType}", найдено: ${filtered.length}`);
     
-    // Добавляем маркеры
-    filtered.forEach(event => {
-        addMarker(event);
-    });
-    
-    // Обновляем список и статистику
+    filtered.forEach(event => addMarker(event));
     updateEventList(filtered);
     updateStats(filtered);
 }
 
 // ============ МАРКЕРЫ ============
 function addMarker(event) {
-    const color = getEventColor(event.type);
+    const color = EVENT_TYPES[event.type]?.color || EVENT_TYPES['другое'].color;
     
     const marker = L.circleMarker([event.lat, event.lng], {
         radius: 8,
@@ -314,13 +261,25 @@ function addMarker(event) {
         fillOpacity: 0.8
     }).addTo(map);
     
-    // Popup
-    const popupContent = createPopupContent(event);
-    marker.bindPopup(popupContent);
+    const popupContent = `
+        <div style="min-width: 200px; font-family: sans-serif;">
+            <h3 style="margin: 0 0 8px 0; font-size: 14px;">${event.title}</h3>
+            <div style="font-size: 12px; color: ${color}; margin-bottom: 5px;">
+                ● ${EVENT_TYPES[event.type]?.label || event.type}
+            </div>
+            <p style="margin: 0 0 8px 0; font-size: 12px; color: #555;">
+                ${event.description || ''}
+            </p>
+            <div style="font-size: 11px; color: #777;">
+                📍 ${event.city}, ${event.country}<br>
+                📅 ${new Date(event.date).toLocaleDateString('ru-RU')}
+                ${event.victims ? `<br>👥 Жертв: ${event.victims}` : ''}
+            </div>
+        </div>
+    `;
     
-    // Tooltip
-    marker.bindTooltip(event.title.substring(0, 50) + '...', {
-        permanent: false,
+    marker.bindPopup(popupContent);
+    marker.bindTooltip(event.title.substring(0, 30) + '...', {
         direction: 'top',
         offset: [0, -10]
     });
@@ -328,37 +287,9 @@ function addMarker(event) {
     markers.push(marker);
 }
 
-function createPopupContent(event) {
-    const typeConfig = EVENT_TYPES[event.type] || EVENT_TYPES['другое'];
-    const date = new Date(event.date).toLocaleDateString('ru-RU');
-    
-    return `
-        <div style="min-width: 250px; max-width: 300px; font-family: sans-serif;">
-            <h3 style="margin: 0 0 10px 0; font-size: 16px; color: #333;">${event.title}</h3>
-            <div style="display: flex; justify-content: space-between; margin-bottom: 10px; font-size: 12px;">
-                <span style="color: ${typeConfig.color}; font-weight: bold;">● ${typeConfig.label}</span>
-                <span style="color: #666;">${date}</span>
-            </div>
-            <p style="margin: 0 0 10px 0; font-size: 13px; color: #555; line-height: 1.4;">
-                ${event.description || 'Нет описания'}
-            </p>
-            <div style="font-size: 12px; color: #777; margin-bottom: 5px;">
-                📍 ${event.city}, ${event.country}
-            </div>
-            ${event.victims ? `<div style="font-size: 12px; color: #e74c3c; margin-bottom: 5px;">👥 Жертв: ${event.victims}</div>` : ''}
-            ${event.url ? `<a href="${event.url}" target="_blank" style="font-size: 12px; color: #3498db;">Источник →</a>` : ''}
-        </div>
-    `;
-}
-
 function clearMarkers() {
     markers.forEach(m => map.removeLayer(m));
     markers = [];
-}
-
-// ============ ЦВЕТА ============
-function getEventColor(type) {
-    return EVENT_TYPES[type]?.color || EVENT_TYPES['другое'].color;
 }
 
 // ============ ЛЕГЕНДА ============
@@ -366,15 +297,15 @@ function createLegend() {
     const legend = document.getElementById('legend');
     if (!legend) return;
     
-    legend.innerHTML = '<h4 style="margin: 0 0 10px 0;">Легенда</h4>';
+    legend.innerHTML = '<h4 style="margin: 0 0 10px 0; font-size: 14px;">Легенда</h4>';
     
     Object.entries(EVENT_TYPES).forEach(([type, config]) => {
         if (type === 'другое') return;
         
         const item = document.createElement('div');
-        item.style.cssText = 'display: flex; align-items: center; margin: 5px 0; font-size: 13px;';
+        item.style.cssText = 'display: flex; align-items: center; margin: 5px 0; font-size: 12px;';
         item.innerHTML = `
-            <span style="width: 12px; height: 12px; border-radius: 50%; background-color: ${config.color}; margin-right: 8px;"></span>
+            <span style="width: 10px; height: 10px; border-radius: 50%; background: ${config.color}; margin-right: 8px;"></span>
             <span>${config.label}</span>
         `;
         legend.appendChild(item);
@@ -389,67 +320,46 @@ function updateEventList(events) {
     container.innerHTML = '';
     
     if (events.length === 0) {
-        container.innerHTML = '<div style="padding: 20px; text-align: center; color: #666;">Нет событий для отображения</div>';
+        container.innerHTML = '<div style="padding: 20px; text-align: center; color: #666;">Нет событий</div>';
         return;
     }
     
-    events.slice(0, CONFIG.maxEvents).forEach(event => {
+    events.forEach(event => {
         const card = createEventCard(event);
         container.appendChild(card);
     });
 }
 
 function createEventCard(event) {
-    const typeConfig = EVENT_TYPES[event.type] || EVENT_TYPES['другое'];
-    const date = new Date(event.date).toLocaleDateString('ru-RU');
+    const config = EVENT_TYPES[event.type] || EVENT_TYPES['другое'];
     
     const card = document.createElement('div');
     card.style.cssText = `
-        padding: 15px;
-        margin: 10px 0;
+        padding: 12px;
+        margin: 8px 0;
         background: #fff;
-        border-radius: 8px;
-        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        border-radius: 6px;
+        border-left: 3px solid ${config.color};
         cursor: pointer;
-        transition: transform 0.2s, box-shadow 0.2s;
-        border-left: 4px solid ${typeConfig.color};
+        box-shadow: 0 1px 3px rgba(0,0,0,0.1);
     `;
     
     card.innerHTML = `
-        <div style="display: flex; justify-content: space-between; margin-bottom: 8px; font-size: 12px;">
-            <span style="color: ${typeConfig.color}; font-weight: bold;">${typeConfig.label}</span>
-            <span style="color: #999;">${date}</span>
+        <div style="display: flex; justify-content: space-between; font-size: 11px; color: #999; margin-bottom: 4px;">
+            <span style="color: ${config.color}; font-weight: bold;">${config.label}</span>
+            <span>${new Date(event.date).toLocaleDateString('ru-RU')}</span>
         </div>
-        <h4 style="margin: 0 0 8px 0; font-size: 15px; color: #333;">${event.title}</h4>
-        <p style="margin: 0 0 10px 0; font-size: 13px; color: #666; line-height: 1.4;">
-            ${event.description ? event.description.substring(0, 100) + '...' : ''}
-        </p>
-        <div style="display: flex; justify-content: space-between; font-size: 12px; color: #888;">
-            <span>📍 ${event.city}, ${event.country}</span>
-            ${event.victims ? `<span style="color: #e74c3c;">👥 ${event.victims}</span>` : ''}
+        <div style="font-size: 13px; font-weight: 500; color: #333; margin-bottom: 4px;">
+            ${event.title}
+        </div>
+        <div style="font-size: 11px; color: #666;">
+            📍 ${event.city}, ${event.country}
+            ${event.victims ? ` • 👥 ${event.victims}` : ''}
         </div>
     `;
     
-    // Клик по карточке — центрируем карту
     card.addEventListener('click', () => {
         map.setView([event.lat, event.lng], 10);
-        // Ищем маркер и открываем popup
-        markers.forEach(m => {
-            const latLng = m.getLatLng();
-            if (Math.abs(latLng.lat - event.lat) < 0.001 && Math.abs(latLng.lng - event.lng) < 0.001) {
-                m.openPopup();
-            }
-        });
-    });
-    
-    // Эффекты наведения
-    card.addEventListener('mouseenter', () => {
-        card.style.transform = 'translateX(5px)';
-        card.style.boxShadow = '0 4px 8px rgba(0,0,0,0.15)';
-    });
-    card.addEventListener('mouseleave', () => {
-        card.style.transform = 'translateX(0)';
-        card.style.boxShadow = '0 2px 4px rgba(0,0,0,0.1)';
     });
     
     return card;
@@ -462,27 +372,20 @@ function updateStats(events) {
     
     const total = events.length;
     const byType = {};
+    events.forEach(e => byType[e.type] = (byType[e.type] || 0) + 1);
     
-    events.forEach(e => {
-        byType[e.type] = (byType[e.type] || 0) + 1;
+    let html = `<div style="font-size: 16px; font-weight: bold; margin-bottom: 10px;">Всего: ${total}</div>`;
+    
+    Object.entries(byType).forEach(([type, count]) => {
+        const config = EVENT_TYPES[type] || EVENT_TYPES['другое'];
+        html += `
+            <div style="display: flex; align-items: center; margin: 4px 0; font-size: 12px;">
+                <span style="color: ${config.color}; margin-right: 5px;">●</span>
+                <span style="flex: 1;">${config.label}:</span>
+                <span style="font-weight: bold;">${count}</span>
+            </div>
+        `;
     });
-    
-    let html = `<div style="font-size: 18px; font-weight: bold; margin-bottom: 10px; color: #333;">Всего: ${total}</div>`;
-    
-    Object.entries(byType)
-        .sort((a, b) => b[1] - a[1])
-        .forEach(([type, count]) => {
-            const config = EVENT_TYPES[type] || EVENT_TYPES['другое'];
-            const percent = total > 0 ? Math.round((count / total) * 100) : 0;
-            html += `
-                <div style="display: flex; align-items: center; margin: 5px 0; font-size: 13px;">
-                    <span style="color: ${config.color}; margin-right: 5px;">●</span>
-                    <span style="flex: 1;">${config.label}:</span>
-                    <span style="font-weight: bold;">${count}</span>
-                    <span style="color: #999; margin-left: 5px; font-size: 11px;">(${percent}%)</span>
-                </div>
-            `;
-        });
     
     container.innerHTML = html;
 }
