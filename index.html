@@ -44,6 +44,88 @@
             overflow: hidden;
         }
 
+        /* СТАРТОВЫЙ ЭКРАН */
+        #splash-screen {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(135deg, #1a1a2e 0%, #0f0f1e 100%);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            z-index: 10000;
+            transition: opacity 0.8s ease, visibility 0.8s ease;
+        }
+
+        #splash-screen.hidden {
+            opacity: 0;
+            visibility: hidden;
+            pointer-events: none;
+        }
+
+        .splash-logo {
+            width: 300px;
+            height: 300px;
+            border-radius: 50%;
+            border: 4px solid rgba(255, 107, 107, 0.3);
+            box-shadow: 0 0 60px rgba(255, 107, 107, 0.4), 0 0 100px rgba(255, 107, 107, 0.2);
+            cursor: pointer;
+            transition: all 0.3s ease;
+            object-fit: cover;
+            animation: pulse 2s infinite;
+        }
+
+        .splash-logo:hover {
+            transform: scale(1.05);
+            box-shadow: 0 0 80px rgba(255, 107, 107, 0.6), 0 0 120px rgba(255, 107, 107, 0.3);
+            border-color: rgba(255, 107, 107, 0.6);
+        }
+
+        @keyframes pulse {
+            0%, 100% { box-shadow: 0 0 60px rgba(255, 107, 107, 0.4), 0 0 100px rgba(255, 107, 107, 0.2); }
+            50% { box-shadow: 0 0 80px rgba(255, 107, 107, 0.6), 0 0 140px rgba(255, 107, 107, 0.3); }
+        }
+
+        .splash-text {
+            margin-top: 40px;
+            font-size: 2rem;
+            color: #feca57;
+            text-align: center;
+            text-shadow: 0 0 20px rgba(254, 202, 87, 0.3);
+        }
+
+        .splash-subtext {
+            margin-top: 15px;
+            font-size: 1.2rem;
+            color: #888;
+            text-align: center;
+        }
+
+        .splash-hint {
+            margin-top: 30px;
+            font-size: 1rem;
+            color: #ff6b6b;
+            animation: blink 1.5s infinite;
+        }
+
+        @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        /* ОСНОВНОЙ ИНТЕРФЕЙС (изначально скрыт) */
+        #main-app {
+            opacity: 0;
+            transition: opacity 0.5s ease;
+        }
+
+        #main-app.visible {
+            opacity: 1;
+        }
+
         /* ЛОГОТИП В ХЕДЕРЕ */
         .logo-container {
             display: flex;
@@ -53,16 +135,11 @@
 
         .logo-img {
             height: 50px;
-            width: auto;
-            filter: drop-shadow(0 0 10px rgba(255, 107, 107, 0.5));
-        }
-
-        .logo-animated {
-            height: 60px;
-            width: 60px;
+            width: 50px;
             border-radius: 50%;
             object-fit: cover;
             border: 2px solid rgba(255, 107, 107, 0.5);
+            box-shadow: 0 0 15px rgba(255, 107, 107, 0.3);
         }
 
         .header {
@@ -82,7 +159,7 @@
         }
 
         .site-title {
-            font-size: 1.6rem;
+            font-size: 1.5rem;
             background: linear-gradient(135deg, #ff6b6b, #feca57);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
@@ -114,7 +191,6 @@
             text-transform: uppercase;
         }
 
-        /* САЙДБАР С ЛОГОТИПОМ */
         .sidebar {
             position: absolute;
             left: 0;
@@ -132,16 +208,6 @@
             padding: 20px;
             text-align: center;
             border-bottom: 1px solid rgba(255,255,255,0.1);
-        }
-
-        .sidebar-logo {
-            width: 120px;
-            height: 120px;
-            margin: 0 auto 15px;
-            border-radius: 50%;
-            border: 3px solid rgba(255, 107, 107, 0.3);
-            box-shadow: 0 0 30px rgba(255, 107, 107, 0.2);
-            object-fit: cover;
         }
 
         .sidebar-title {
@@ -254,77 +320,79 @@
         }
 
         @media (max-width: 768px) {
+            .splash-logo { width: 200px; height: 200px; }
+            .splash-text { font-size: 1.5rem; }
             .sidebar { width: 100%; top: auto; bottom: 0; height: 40vh; }
             .header { left: 0; height: auto; padding: 10px; }
-            .logo-img { height: 40px; }
+            .logo-img { height: 40px; width: 40px; }
         }
     </style>
 </head>
 <body>
-    <div class="header">
-        <div class="logo-container">
-            <!-- ЗДЕСЬ МАЛЕНЬКИЙ ЛОГОТИП В ХЕДЕРЕ -->
-            <!-- Вариант 1: Статичное изображение -->
-            <img src="images/logo.png" alt="Logo" class="logo-img" onerror="this.style.display='none'">
-            
-            <!-- Вариант 2: Анимированный GIF -->
-            <img src="images/logo-animated.gif" alt="Logo" class="logo-animated" onerror="this.style.display='none'">
-            
-            <div class="site-title">Карта преследований христиан</div>
-        </div>
-        
-        <div class="stats">
-            <div class="stat">
-                <div class="stat-value" id="total-events">0</div>
-                <div class="stat-label">Событий</div>
-            </div>
-            <div class="stat">
-                <div class="stat-value" id="total-countries">0</div>
-                <div class="stat-label">Стран</div>
-            </div>
-            <div class="stat">
-                <div class="stat-value" id="total-victims">0</div>
-                <div class="stat-label">Жертв</div>
-            </div>
-        </div>
+    <!-- СТАРТОВЫЙ ЭКРАН -->
+    <div id="splash-screen">
+        <img src="images/logo-animated.gif" alt="Logo" class="splash-logo" onclick="enterSite()" id="splash-logo-btn">
+        <div class="splash-text">Карта преследований христиан</div>
+        <div class="splash-subtext">Актуальные данные о гонениях на христиан по всему миру</div>
+        <div class="splash-hint">↖ Нажмите на логотип чтобы войти</div>
     </div>
 
-    <div class="sidebar">
-        <div class="sidebar-header">
-            <!-- ЗДЕСЬ БОЛЬШОЙ ЛОГОТИП В САЙДБАРЕ -->
-            <!-- Вариант 1: Статичное изображение -->
-            <img src="images/logo.png" alt="Logo" class="sidebar-logo" onerror="this.style.display='none'">
+    <!-- ОСНОВНОЙ ИНТЕРФЕЙС -->
+    <div id="main-app">
+        <div class="header">
+            <div class="logo-container">
+                <!-- Статичный логотип в хедере -->
+                <img src="images/logo.png" alt="Logo" class="logo-img">
+                
+                <div class="site-title">Карта преследований христиан</div>
+            </div>
             
-            <!-- Вариант 2: Анимированный GIF -->
-            <img src="images/logo-animated.gif" alt="Logo" class="sidebar-logo" onerror="this.style.display='none'">
+            <div class="stats">
+                <div class="stat">
+                    <div class="stat-value" id="total-events">0</div>
+                    <div class="stat-label">Событий</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-value" id="total-countries">0</div>
+                    <div class="stat-label">Стран</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-value" id="total-victims">0</div>
+                    <div class="stat-label">Жертв</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sidebar">
+            <div class="sidebar-header">
+                <div class="sidebar-title">Фильтры</div>
+                <div class="sidebar-subtitle">Выберите тип инцидента</div>
+            </div>
             
-            <div class="sidebar-title">Фильтры</div>
-            <div class="sidebar-subtitle">Выберите тип инцидента</div>
+            <div class="filter-section">
+                <div class="filter-title">Тип преследования</div>
+                <button class="filter-btn active" onclick="filterEvents('all')">Все</button>
+                <button class="filter-btn" onclick="filterEvents('murder')">Убийства</button>
+                <button class="filter-btn" onclick="filterEvents('attack')">Атаки</button>
+                <button class="filter-btn" onclick="filterEvents('kidnapping')">Похищения</button>
+                <button class="filter-btn" onclick="filterEvents('arrest')">Аресты</button>
+                <button class="filter-btn" onclick="filterEvents('discrimination')">Дискриминация</button>
+            </div>
+            
+            <div class="filter-title" style="padding: 0 20px;">Последние события</div>
+            <div class="events-list" id="events-list"></div>
         </div>
-        
-        <div class="filter-section">
-            <div class="filter-title">Тип преследования</div>
-            <button class="filter-btn active" onclick="filterEvents('all')">Все</button>
-            <button class="filter-btn" onclick="filterEvents('murder')">Убийства</button>
-            <button class="filter-btn" onclick="filterEvents('attack')">Атаки</button>
-            <button class="filter-btn" onclick="filterEvents('kidnapping')">Похищения</button>
-            <button class="filter-btn" onclick="filterEvents('arrest')">Аресты</button>
-            <button class="filter-btn" onclick="filterEvents('discrimination')">Дискриминация</button>
+
+        <div id="map"></div>
+
+        <div class="legend">
+            <h4>Легенда</h4>
+            <div class="legend-item"><div class="dot" style="background: #c0392b;"></div>Убийства</div>
+            <div class="legend-item"><div class="dot" style="background: #e74c3c;"></div>Атаки</div>
+            <div class="legend-item"><div class="dot" style="background: #f39c12;"></div>Похищения</div>
+            <div class="legend-item"><div class="dot" style="background: #8e44ad;"></div>Аресты</div>
+            <div class="legend-item"><div class="dot" style="background: #3498db;"></div>Дискриминация</div>
         </div>
-        
-        <div class="filter-title" style="padding: 0 20px;">Последние события</div>
-        <div class="events-list" id="events-list"></div>
-    </div>
-
-    <div id="map"></div>
-
-    <div class="legend">
-        <h4>Легенда</h4>
-        <div class="legend-item"><div class="dot" style="background: #c0392b;"></div>Убийства</div>
-        <div class="legend-item"><div class="dot" style="background: #e74c3c;"></div>Атаки</div>
-        <div class="legend-item"><div class="dot" style="background: #f39c12;"></div>Похищения</div>
-        <div class="legend-item"><div class="dot" style="background: #8e44ad;"></div>Аресты</div>
-        <div class="legend-item"><div class="dot" style="background: #3498db;"></div>Дискриминация</div>
     </div>
 
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -338,6 +406,32 @@
         };
 
         let map, markers = [], allEvents = [];
+        let appInitialized = false;
+
+        // Вход на сайт
+        function enterSite() {
+            const splash = document.getElementById('splash-screen');
+            const mainApp = document.getElementById('main-app');
+            
+            splash.classList.add('hidden');
+            mainApp.classList.add('visible');
+            
+            // Инициализируем карту только при первом входе
+            if (!appInitialized) {
+                setTimeout(() => {
+                    init();
+                    appInitialized = true;
+                }, 300);
+            }
+            
+            // Отправляем событие в аналитику
+            if (typeof gtag !== 'undefined') {
+                gtag('event', 'enter_site', { event_category: 'engagement' });
+            }
+            if (typeof reachGoal !== 'undefined') {
+                reachGoal('enter_site');
+            }
+        }
 
         async function init() {
             initMap();
@@ -426,8 +520,6 @@
             document.getElementById('total-countries').textContent = new Set(events.map(e => e.country)).size;
             document.getElementById('total-victims').textContent = events.reduce((sum, e) => sum + (e.victims || 0), 0);
         }
-
-        window.addEventListener('load', init);
     </script>
 </body>
 </html>
