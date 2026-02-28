@@ -4,7 +4,7 @@ const path = require('path');
 const https = require('https');
 
 // ============ ВАШ API КЛЮЧ ============
-const API_KEY = '6392062ebc7b41d4958f992a50bad308';
+const API_KEY = process.env.NEWS_API_KEY || '6392062ebc7b41d4958f992a50bad308';
 
 // ============ СТРАНЫ ДЛЯ ПОИСКА ============
 const COUNTRY_QUERIES = [
@@ -218,4 +218,5 @@ async function updateViaNewsAPI() {
 updateViaNewsAPI().catch(err => {
     console.error('💥 Критическая ошибка:', err);
     process.exit(1);
+
 });
