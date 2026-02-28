@@ -1,0 +1,32 @@
+name: Daily News API Update
+
+on:
+  schedule:
+    # Запуск каждый день в 6:00 UTC (9:00 по московскому)
+    - cron: '0 6 * * *'
+  workflow_dispatch:  # Ручной запуск
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      
+      - name: Update data via News API
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        run: node news-api.js
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/events.json
+          git diff --staged --quiet || (git commit -m "Update events via News API - $(date)" && git push)
