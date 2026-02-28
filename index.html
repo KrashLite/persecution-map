@@ -44,6 +44,7 @@
             overflow: hidden;
         }
 
+        /* ЛОГОТИП В ХЕДЕРЕ */
         .logo-container {
             display: flex;
             align-items: center;
@@ -52,11 +53,16 @@
 
         .logo-img {
             height: 50px;
-            width: 50px;
+            width: auto;
+            filter: drop-shadow(0 0 10px rgba(255, 107, 107, 0.5));
+        }
+
+        .logo-animated {
+            height: 60px;
+            width: 60px;
             border-radius: 50%;
             object-fit: cover;
             border: 2px solid rgba(255, 107, 107, 0.5);
-            box-shadow: 0 0 15px rgba(255, 107, 107, 0.3);
         }
 
         .header {
@@ -76,7 +82,7 @@
         }
 
         .site-title {
-            font-size: 1.5rem;
+            font-size: 1.6rem;
             background: linear-gradient(135deg, #ff6b6b, #feca57);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
@@ -108,6 +114,7 @@
             text-transform: uppercase;
         }
 
+        /* САЙДБАР С ЛОГОТИПОМ */
         .sidebar {
             position: absolute;
             left: 0;
@@ -128,8 +135,8 @@
         }
 
         .sidebar-logo {
-            width: 150px;
-            height: 150px;
+            width: 120px;
+            height: 120px;
             margin: 0 auto 15px;
             border-radius: 50%;
             border: 3px solid rgba(255, 107, 107, 0.3);
@@ -249,15 +256,19 @@
         @media (max-width: 768px) {
             .sidebar { width: 100%; top: auto; bottom: 0; height: 40vh; }
             .header { left: 0; height: auto; padding: 10px; }
-            .logo-img { height: 40px; width: 40px; }
+            .logo-img { height: 40px; }
         }
     </style>
 </head>
 <body>
     <div class="header">
         <div class="logo-container">
-            <!-- СТАТИЧНЫЙ ЛОГОТИП В ХЕДЕРЕ -->
-            <img src="images/artwork%20-%202026-02-28T025720.373.png" alt="Logo" class="logo-img">
+            <!-- ЗДЕСЬ МАЛЕНЬКИЙ ЛОГОТИП В ХЕДЕРЕ -->
+            <!-- Вариант 1: Статичное изображение -->
+            <img src="images/logo.png" alt="Logo" class="logo-img" onerror="this.style.display='none'">
+            
+            <!-- Вариант 2: Анимированный GIF -->
+            <img src="images/logo-animated.gif" alt="Logo" class="logo-animated" onerror="this.style.display='none'">
             
             <div class="site-title">Карта преследований христиан</div>
         </div>
@@ -280,8 +291,12 @@
 
     <div class="sidebar">
         <div class="sidebar-header">
-            <!-- АНИМИРОВАННЫЙ ЛОГОТИП В САЙДБАРЕ -->
-            <img src="images/cwhwtfensnrmr0cwb3xa51dgwg_result_.gif" alt="Logo Animated" class="sidebar-logo">
+            <!-- ЗДЕСЬ БОЛЬШОЙ ЛОГОТИП В САЙДБАРЕ -->
+            <!-- Вариант 1: Статичное изображение -->
+            <img src="images/logo.png" alt="Logo" class="sidebar-logo" onerror="this.style.display='none'">
+            
+            <!-- Вариант 2: Анимированный GIF -->
+            <img src="images/logo-animated.gif" alt="Logo" class="sidebar-logo" onerror="this.style.display='none'">
             
             <div class="sidebar-title">Фильтры</div>
             <div class="sidebar-subtitle">Выберите тип инцидента</div>
