@@ -1,8 +1,8 @@
-name: Daily Data Update
+name: Daily RSS Update
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Каждый день в 6:00 UTC
+    - cron: '0 6 * * *'  # Каждый день в 6:00 UTC (9:00 МСК)
   workflow_dispatch:      # Ручной запуск
 
 jobs:
@@ -23,7 +23,7 @@ jobs:
     - name: Install dependencies
       run: npm install xml2js
     
-    - name: Update persecution data
+    - name: Run RSS parser
       run: node js/update-data.js
     
     - name: Check for changes
@@ -31,19 +31,23 @@ jobs:
       run: |
         if git diff --quiet data/events.json; then
           echo "changed=false" >> $GITHUB_OUTPUT
+          echo "ℹ️ Данные не изменились"
         else
           echo "changed=true" >> $GITHUB_OUTPUT
+          echo "✅ Найдены новые события!"
         fi
     
     - name: Commit and push changes
       if: steps.verify-changed-files.outputs.changed == 'true'
       run: |
         git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.name "RSS Bot"
         git add data/events.json
-        git commit -m "🔄 Auto-update: $(date +'%Y-%m-%d %H:%M')"
+        git commit -m "🔄 Auto-update: $(date +'%Y-%m-%d %H:%M UTC')"
         git push
     
-    - name: No changes
-      if: steps.verify-changed-files.outputs.changed == 'false'
-      run: echo "No new data to commit"
+    - name: Summary
+      run: |
+        echo "## 📊 Результат обновления" >> $GITHUB_STEP_SUMMARY
+        echo "- Время: $(date)" >> $GITHUB_STEP_SUMMARY
+        echo "- Статус: ${{ steps.verify-changed-files.outputs.changed == 'true' && '✅ Обновлено' || '⏭️ Без изменений' }}" >> $GITHUB_STEP_SUMMARY
