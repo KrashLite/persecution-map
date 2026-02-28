@@ -3,9 +3,7 @@ const path = require('path');
 const https = require('https');
 const { parseString } = require('xml2js');
 
-// ============ ИСТОЧНИКИ ДАННЫХ ============
-
-// 1. RSS-источники (проверенные и рабочие)
+// RSS-источники
 const RSS_SOURCES = {
     vaticanNews: 'https://www.vaticannews.va/en/church/rss.xml',
     zenit: 'https://zenit.org/feed/',
@@ -17,7 +15,6 @@ const RSS_SOURCES = {
     catholicHerald: 'https://catholicherald.co.uk/feed/'
 };
 
-// 2. Ключевые слова для фильтрации
 const KEYWORDS = [
     'persecution', 'martyr', 'killed', 'murdered', 'death', 'dead',
     'church attack', 'bombing', 'explosion', 'burned church',
@@ -31,63 +28,62 @@ const KEYWORDS = [
     'afghanistan', 'yemen', 'sudan', 'myanmar', 'burkina faso', 'mali'
 ];
 
-// 3. Геоданные стран
 const COUNTRY_DATA = {
-    'Nigeria': { lat: 9.0820, lng: 8.6753, cities: { 'Abuja': [9.0810, 7.4895], 'Lagos': [6.5244, 3.3792], 'Kaduna': [10.5105, 7.4165], 'Jos': [9.8965, 8.8583], 'Maiduguri': [11.8311, 13.1510] }},
-    'India': { lat: 20.5937, lng: 78.9629, cities: { 'Delhi': [28.7041, 77.1025], 'Mumbai': [19.0760, 72.8777], 'Odisha': [20.9517, 85.0985], 'Uttar Pradesh': [26.8467, 80.9462], 'Chhattisgarh': [21.2787, 81.8661] }},
-    'China': { lat: 35.8617, lng: 104.1954, cities: { 'Beijing': [39.9042, 116.4074], 'Shanghai': [31.2304, 121.4737], 'Wuhan': [30.5928, 114.3055], 'Xinjiang': [41.1129, 85.2401] }},
-    'Pakistan': { lat: 30.3753, lng: 69.3451, cities: { 'Lahore': [31.5204, 74.3587], 'Islamabad': [33.6844, 73.0479], 'Karachi': [24.8607, 67.0011], 'Peshawar': [34.0150, 71.5249] }},
-    'Iran': { lat: 32.4279, lng: 53.6880, cities: { 'Tehran': [35.6892, 51.3890], 'Isfahan': [32.6539, 51.6660], 'Shiraz': [29.5918, 52.5837] }},
-    'Egypt': { lat: 26.8206, lng: 30.8025, cities: { 'Cairo': [30.0444, 31.2357], 'Alexandria': [31.2001, 29.9187], 'Minya': [28.1099, 30.7503] }},
-    'Syria': { lat: 34.8021, lng: 38.9968, cities: { 'Damascus': [33.5138, 36.2765], 'Aleppo': [36.2021, 37.1343], 'Homs': [34.7308, 36.7090] }},
-    'Iraq': { lat: 33.2232, lng: 43.6793, cities: { 'Baghdad': [33.3152, 44.3661], 'Mosul': [36.3566, 43.1640], 'Erbil': [36.1911, 44.0092] }},
-    'Turkey': { lat: 38.9637, lng: 35.2433, cities: { 'Istanbul': [41.0082, 28.9784], 'Ankara': [39.9334, 32.8597], 'Izmir': [38.4192, 27.1287] }},
-    'Myanmar': { lat: 21.9162, lng: 95.9560, cities: { 'Yangon': [16.8661, 96.1951], 'Mandalay': [21.9162, 95.9560], 'Naypyidaw': [19.7633, 96.0785] }},
-    'Sudan': { lat: 12.8628, lng: 30.2176, cities: { 'Khartoum': [15.5007, 32.5599], 'Darfur': [13.0000, 25.0000] }},
+    'Nigeria': { lat: 9.0820, lng: 8.6753, cities: { 'Abuja': [9.0810, 7.4895], 'Lagos': [6.5244, 3.3792], 'Kaduna': [10.5105, 7.4165] }},
+    'India': { lat: 20.5937, lng: 78.9629, cities: { 'Delhi': [28.7041, 77.1025], 'Mumbai': [19.0760, 72.8777], 'Odisha': [20.9517, 85.0985] }},
+    'China': { lat: 35.8617, lng: 104.1954, cities: { 'Beijing': [39.9042, 116.4074], 'Shanghai': [31.2304, 121.4737] }},
+    'Pakistan': { lat: 30.3753, lng: 69.3451, cities: { 'Lahore': [31.5204, 74.3587], 'Islamabad': [33.6844, 73.0479] }},
+    'Iran': { lat: 32.4279, lng: 53.6880, cities: { 'Tehran': [35.6892, 51.3890], 'Isfahan': [32.6539, 51.6660] }},
+    'Egypt': { lat: 26.8206, lng: 30.8025, cities: { 'Cairo': [30.0444, 31.2357], 'Alexandria': [31.2001, 29.9187] }},
+    'Syria': { lat: 34.8021, lng: 38.9968, cities: { 'Damascus': [33.5138, 36.2765], 'Aleppo': [36.2021, 37.1343] }},
+    'Iraq': { lat: 33.2232, lng: 43.6793, cities: { 'Baghdad': [33.3152, 44.3661], 'Mosul': [36.3566, 43.1640] }},
+    'Turkey': { lat: 38.9637, lng: 35.2433, cities: { 'Istanbul': [41.0082, 28.9784], 'Ankara': [39.9334, 32.8597] }},
+    'Myanmar': { lat: 21.9162, lng: 95.9560, cities: { 'Yangon': [16.8661, 96.1951], 'Mandalay': [21.9162, 95.9560] }},
+    'Sudan': { lat: 12.8628, lng: 30.2176, cities: { 'Khartoum': [15.5007, 32.5599] }},
     'Eritrea': { lat: 15.1794, lng: 39.7823, cities: { 'Asmara': [15.3229, 38.9251] }},
     'North Korea': { lat: 40.3399, lng: 127.5101, cities: { 'Pyongyang': [39.0392, 125.7625] }},
     'Somalia': { lat: 5.1521, lng: 46.1996, cities: { 'Mogadishu': [2.0469, 45.3182] }},
-    'Libya': { lat: 26.3351, lng: 17.2283, cities: { 'Tripoli': [32.8872, 13.1913], 'Benghazi': [32.1190, 20.0697] }},
-    'Afghanistan': { lat: 33.9391, lng: 67.7100, cities: { 'Kabul': [34.5553, 69.2075], 'Herat': [34.3529, 62.2040] }},
-    'Yemen': { lat: 15.5527, lng: 48.5164, cities: { 'Sanaa': [15.3694, 44.1910], 'Aden': [12.7855, 45.0187] }},
-    'Saudi Arabia': { lat: 23.8859, lng: 45.0792, cities: { 'Riyadh': [24.7136, 46.6753], 'Jeddah': [21.4858, 39.1925] }},
+    'Libya': { lat: 26.3351, lng: 17.2283, cities: { 'Tripoli': [32.8872, 13.1913] }},
+    'Afghanistan': { lat: 33.9391, lng: 67.7100, cities: { 'Kabul': [34.5553, 69.2075] }},
+    'Yemen': { lat: 15.5527, lng: 48.5164, cities: { 'Sanaa': [15.3694, 44.1910] }},
+    'Saudi Arabia': { lat: 23.8859, lng: 45.0792, cities: { 'Riyadh': [24.7136, 46.6753] }},
     'Algeria': { lat: 28.0339, lng: 1.6596, cities: { 'Algiers': [36.7538, 3.0588] }},
-    'Morocco': { lat: 31.7917, lng: -7.0926, cities: { 'Rabat': [34.0209, -6.8416], 'Casablanca': [33.5731, -7.5898] }},
+    'Morocco': { lat: 31.7917, lng: -7.0926, cities: { 'Rabat': [34.0209, -6.8416] }},
     'Tunisia': { lat: 33.8869, lng: 9.5375, cities: { 'Tunis': [36.8065, 10.1815] }},
     'Mali': { lat: 17.5707, lng: -3.9962, cities: { 'Bamako': [12.6392, -8.0029] }},
     'Burkina Faso': { lat: 12.2383, lng: -1.5616, cities: { 'Ouagadougou': [12.3714, -1.5197] }},
     'Niger': { lat: 17.6078, lng: 8.0817, cities: { 'Niamey': [13.5116, 2.1254] }},
-    'Cameroon': { lat: 7.3697, lng: 12.3547, cities: { 'Yaoundé': [3.8480, 11.5021], 'Douala': [4.0511, 9.7679] }},
+    'Cameroon': { lat: 7.3697, lng: 12.3547, cities: { 'Yaoundé': [3.8480, 11.5021] }},
     'Central African Republic': { lat: 6.6111, lng: 20.9394, cities: { 'Bangui': [4.3947, 18.5582] }},
-    'Democratic Republic of the Congo': { lat: -4.0383, lng: 21.7587, cities: { 'Kinshasa': [-4.4419, 15.2663], 'Goma': [-1.6585, 29.2203] }},
-    'Mozambique': { lat: -18.6657, lng: 35.5296, cities: { 'Maputo': [-25.9692, 32.5732], 'Cabo Delgado': [-12.3335, 40.5000] }},
+    'Democratic Republic of the Congo': { lat: -4.0383, lng: 21.7587, cities: { 'Kinshasa': [-4.4419, 15.2663] }},
+    'Mozambique': { lat: -18.6657, lng: 35.5296, cities: { 'Maputo': [-25.9692, 32.5732] }},
     'Ethiopia': { lat: 9.1450, lng: 40.4897, cities: { 'Addis Ababa': [9.0320, 38.7469] }},
-    'Kenya': { lat: -0.0236, lng: 37.9062, cities: { 'Nairobi': [-1.2921, 36.8219], 'Mombasa': [-4.0435, 39.6682] }},
+    'Kenya': { lat: -0.0236, lng: 37.9062, cities: { 'Nairobi': [-1.2921, 36.8219] }},
     'Uganda': { lat: 1.3733, lng: 32.2903, cities: { 'Kampala': [0.3476, 32.5825] }},
-    'Tanzania': { lat: -6.3690, lng: 34.8888, cities: { 'Dodoma': [-6.1630, 35.7516], 'Dar es Salaam': [-6.7924, 39.2083] }},
+    'Tanzania': { lat: -6.3690, lng: 34.8888, cities: { 'Dodoma': [-6.1630, 35.7516] }},
     'Angola': { lat: -11.2027, lng: 17.8739, cities: { 'Luanda': [-8.8390, 13.2894] }},
-    'Colombia': { lat: 4.5709, lng: -74.2973, cities: { 'Bogotá': [4.7110, -74.0721], 'Medellín': [6.2476, -75.5658] }},
-    'Mexico': { lat: 23.6345, lng: -102.5528, cities: { 'Mexico City': [19.4326, -99.1332], 'Guerrero': [17.4392, -99.5451] }},
+    'Colombia': { lat: 4.5709, lng: -74.2973, cities: { 'Bogotá': [4.7110, -74.0721] }},
+    'Mexico': { lat: 23.6345, lng: -102.5528, cities: { 'Mexico City': [19.4326, -99.1332] }},
     'Cuba': { lat: 21.5218, lng: -77.7812, cities: { 'Havana': [23.1136, -82.3666] }},
-    'Bangladesh': { lat: 23.6850, lng: 90.3563, cities: { 'Dhaka': [23.8103, 90.4125], 'Chittagong': [22.3569, 91.7832] }},
-    'Sri Lanka': { lat: 7.8731, lng: 80.7718, cities: { 'Colombo': [6.9271, 79.8612], 'Kandy': [7.2906, 80.6337] }},
+    'Bangladesh': { lat: 23.6850, lng: 90.3563, cities: { 'Dhaka': [23.8103, 90.4125] }},
+    'Sri Lanka': { lat: 7.8731, lng: 80.7718, cities: { 'Colombo': [6.9271, 79.8612] }},
     'Nepal': { lat: 28.3949, lng: 84.1240, cities: { 'Kathmandu': [27.7172, 85.3240] }},
     'Laos': { lat: 19.8563, lng: 102.4955, cities: { 'Vientiane': [17.9757, 102.6331] }},
-    'Vietnam': { lat: 14.0583, lng: 108.2772, cities: { 'Hanoi': [21.0278, 105.8342], 'Ho Chi Minh City': [10.8231, 106.6297] }},
+    'Vietnam': { lat: 14.0583, lng: 108.2772, cities: { 'Hanoi': [21.0278, 105.8342] }},
     'Uzbekistan': { lat: 41.3775, lng: 64.5853, cities: { 'Tashkent': [41.2995, 69.2401] }},
-    'Kazakhstan': { lat: 48.0196, lng: 66.9237, cities: { 'Astana': [51.1605, 71.4704], 'Almaty': [43.2220, 76.8512] }},
-    'Indonesia': { lat: -0.7893, lng: 113.9213, cities: { 'Jakarta': [-6.2088, 106.8456], 'Aceh': [4.6951, 97.1355] }},
+    'Kazakhstan': { lat: 48.0196, lng: 66.9237, cities: { 'Astana': [51.1605, 71.4704] }},
+    'Indonesia': { lat: -0.7893, lng: 113.9213, cities: { 'Jakarta': [-6.2088, 106.8456] }},
     'Malaysia': { lat: 4.2105, lng: 101.9758, cities: { 'Kuala Lumpur': [3.1390, 101.6869] }},
-    'Philippines': { lat: 12.8797, lng: 121.7740, cities: { 'Manila': [14.5995, 120.9842], 'Mindanao': [7.1907, 124.8247] }},
+    'Philippines': { lat: 12.8797, lng: 121.7740, cities: { 'Manila': [14.5995, 120.9842] }},
     'Lebanon': { lat: 33.8547, lng: 35.8623, cities: { 'Beirut': [33.8938, 35.5018] }},
     'Jordan': { lat: 30.5852, lng: 36.2384, cities: { 'Amman': [31.9454, 35.9284] }},
-    'Palestine': { lat: 31.9522, lng: 35.2332, cities: { 'Jerusalem': [31.7683, 35.2137], 'Bethlehem': [31.7054, 35.2024] }},
+    'Palestine': { lat: 31.9522, lng: 35.2332, cities: { 'Jerusalem': [31.7683, 35.2137] }},
     'Israel': { lat: 31.0461, lng: 34.8516, cities: { 'Jerusalem': [31.7683, 35.2137] }},
     'South Sudan': { lat: 6.8770, lng: 31.3070, cities: { 'Juba': [4.8594, 31.5713] }},
     'Chad': { lat: 15.4542, lng: 18.7322, cities: { "N'Djamena": [12.1348, 15.0557] }},
     'Mauritania': { lat: 21.0079, lng: -10.9408, cities: { 'Nouakchott': [18.0735, -15.9582] }},
     'Qatar': { lat: 25.3548, lng: 51.1839, cities: { 'Doha': [25.2854, 51.5310] }},
-    'United Arab Emirates': { lat: 23.4241, lng: 53.8478, cities: { 'Dubai': [25.2048, 55.2708], 'Abu Dhabi': [24.4539, 54.3773] }},
+    'United Arab Emirates': { lat: 23.4241, lng: 53.8478, cities: { 'Dubai': [25.2048, 55.2708] }},
     'Oman': { lat: 21.4735, lng: 55.9754, cities: { 'Muscat': [23.5859, 58.4059] }},
     'Kuwait': { lat: 29.3117, lng: 47.4818, cities: { 'Kuwait City': [29.3759, 47.9774] }},
     'Bahrain': { lat: 26.0667, lng: 50.5577, cities: { 'Manama': [26.2285, 50.5860] }},
@@ -100,8 +96,8 @@ const COUNTRY_DATA = {
     'Azerbaijan': { lat: 40.1431, lng: 47.5769, cities: { 'Baku': [40.4093, 49.8671] }},
     'Armenia': { lat: 40.0691, lng: 45.0382, cities: { 'Yerevan': [40.1792, 44.4991] }},
     'Georgia': { lat: 32.1656, lng: -82.9001, cities: { 'Tbilisi': [41.7151, 44.8271] }},
-    'Ukraine': { lat: 48.3794, lng: 31.1656, cities: { 'Kyiv': [50.4501, 30.5234], 'Donetsk': [48.0159, 37.8028] }},
-    'Russia': { lat: 61.5240, lng: 105.3188, cities: { 'Moscow': [55.7558, 37.6173], 'Saint Petersburg': [59.9311, 30.3609] }},
+    'Ukraine': { lat: 48.3794, lng: 31.1656, cities: { 'Kyiv': [50.4501, 30.5234] }},
+    'Russia': { lat: 61.5240, lng: 105.3188, cities: { 'Moscow': [55.7558, 37.6173] }},
     'Belarus': { lat: 53.7098, lng: 27.9534, cities: { 'Minsk': [53.9045, 27.5615] }},
     'Moldova': { lat: 47.4116, lng: 28.3699, cities: { 'Chișinău': [47.0105, 28.8638] }},
     'Romania': { lat: 45.9432, lng: 24.9668, cities: { 'Bucharest': [44.4268, 26.1025] }},
@@ -126,23 +122,23 @@ const COUNTRY_DATA = {
     'Denmark': { lat: 56.2639, lng: 9.5018, cities: { 'Copenhagen': [55.6761, 12.5683] }},
     'Iceland': { lat: 64.9631, lng: -19.0208, cities: { 'Reykjavik': [64.1466, -21.9426] }},
     'Ireland': { lat: 53.1424, lng: -7.6921, cities: { 'Dublin': [53.3498, -6.2603] }},
-    'United Kingdom': { lat: 55.3781, lng: -3.4360, cities: { 'London': [51.5074, -0.1278], 'Birmingham': [52.4862, -1.8904] }},
+    'United Kingdom': { lat: 55.3781, lng: -3.4360, cities: { 'London': [51.5074, -0.1278] }},
     'Netherlands': { lat: 52.1326, lng: 5.2913, cities: { 'Amsterdam': [52.3676, 4.9041] }},
     'Belgium': { lat: 50.5039, lng: 4.4699, cities: { 'Brussels': [50.8503, 4.3517] }},
     'Luxembourg': { lat: 49.8153, lng: 6.1296, cities: { 'Luxembourg City': [49.6116, 6.1319] }},
-    'France': { lat: 46.2276, lng: 2.2137, cities: { 'Paris': [48.8566, 2.3522], 'Marseille': [43.2965, 5.3698] }},
-    'Spain': { lat: 40.4637, lng: -3.7492, cities: { 'Madrid': [40.4168, -3.7038], 'Barcelona': [41.3851, 2.1734] }},
+    'France': { lat: 46.2276, lng: 2.2137, cities: { 'Paris': [48.8566, 2.3522] }},
+    'Spain': { lat: 40.4637, lng: -3.7492, cities: { 'Madrid': [40.4168, -3.7038] }},
     'Portugal': { lat: 39.3999, lng: -8.2245, cities: { 'Lisbon': [38.7223, -9.1393] }},
-    'Germany': { lat: 51.1657, lng: 10.4515, cities: { 'Berlin': [52.5200, 13.4050], 'Munich': [48.1351, 11.5820] }},
-    'Switzerland': { lat: 46.8182, lng: 8.2275, cities: { 'Zurich': [47.3769, 8.5417], 'Geneva': [46.2044, 6.1432] }},
+    'Germany': { lat: 51.1657, lng: 10.4515, cities: { 'Berlin': [52.5200, 13.4050] }},
+    'Switzerland': { lat: 46.8182, lng: 8.2275, cities: { 'Zurich': [47.3769, 8.5417] }},
     'Austria': { lat: 47.5162, lng: 14.5501, cities: { 'Vienna': [48.2082, 16.3738] }},
-    'Italy': { lat: 41.8719, lng: 12.5674, cities: { 'Rome': [41.9028, 12.4964], 'Milan': [45.4642, 9.1900] }},
+    'Italy': { lat: 41.8719, lng: 12.5674, cities: { 'Rome': [41.9028, 12.4964] }},
     'Greece': { lat: 39.0742, lng: 21.8243, cities: { 'Athens': [37.9838, 23.7275] }},
     'Cyprus': { lat: 35.1264, lng: 33.4299, cities: { 'Nicosia': [35.1856, 33.3823] }},
     'Malta': { lat: 35.9375, lng: 14.3754, cities: { 'Valletta': [35.8989, 14.5146] }},
-    'Canada': { lat: 56.1304, lng: -106.3468, cities: { 'Ottawa': [45.4215, -75.6972], 'Toronto': [43.6532, -79.3832] }},
-    'United States': { lat: 37.0902, lng: -95.7129, cities: { 'Washington': [38.9072, -77.0369], 'New York': [40.7128, -74.0060] }},
-    'Australia': { lat: -25.2744, lng: 133.7751, cities: { 'Canberra': [-35.2809, 149.1300], 'Sydney': [-33.8688, 151.2093] }},
+    'Canada': { lat: 56.1304, lng: -106.3468, cities: { 'Ottawa': [45.4215, -75.6972] }},
+    'United States': { lat: 37.0902, lng: -95.7129, cities: { 'Washington': [38.9072, -77.0369] }},
+    'Australia': { lat: -25.2744, lng: 133.7751, cities: { 'Canberra': [-35.2809, 149.1300] }},
     'New Zealand': { lat: -40.9006, lng: 174.8860, cities: { 'Wellington': [-41.2865, 174.7762] }},
     'Japan': { lat: 36.2048, lng: 138.2529, cities: { 'Tokyo': [35.6762, 139.6503] }},
     'South Korea': { lat: 35.9078, lng: 127.7669, cities: { 'Seoul': [37.5665, 126.9780] }},
@@ -191,7 +187,7 @@ const COUNTRY_DATA = {
     'Uruguay': { lat: -32.5228, lng: -55.7658, cities: { 'Montevideo': [-34.9011, -56.1645] }},
     'Chile': { lat: -35.6751, lng: -71.5430, cities: { 'Santiago': [-33.4489, -70.6693] }},
     'Argentina': { lat: -38.4161, lng: -63.6167, cities: { 'Buenos Aires': [-34.6037, -58.3816] }},
-    'Brazil': { lat: -14.2350, lng: -51.9253, cities: { 'Brasília': [-15.7975, -47.8919], 'São Paulo': [-23.5505, -46.6333] }},
+    'Brazil': { lat: -14.2350, lng: -51.9253, cities: { 'Brasília': [-15.7975, -47.8919] }},
     'Belize': { lat: 17.1899, lng: -88.4976, cities: { 'Belmopan': [17.2510, -88.7590] }},
     'Guatemala': { lat: 15.7835, lng: -90.2308, cities: { 'Guatemala City': [14.6349, -90.5069] }},
     'Honduras': { lat: 15.2000, lng: -86.2419, cities: { 'Tegucigalpa': [14.0723, -87.1921] }},
@@ -222,10 +218,11 @@ const COUNTRY_DATA = {
     'Nauru': { lat: -0.5228, lng: 166.9315, cities: { 'Yaren': [-0.5477, 166.9209] }},
     'Palau': { lat: 7.5150, lng: 134.5825, cities: { 'Ngerulmud': [7.5004, 134.6243] }},
     'Micronesia': { lat: 7.4256, lng: 150.5508, cities: { 'Palikir': [6.9147, 158.1610] }},
-    'Marshall Islands': { lat: 11.3404, lng: 166.9757, cities: { 'Majuro': [7.1164, 171.1840] }}
+    'Marshall Islands': { lat: 11.3404, lng: 166.9757, cities: { 'Majuro': [7.1164, 171.1840] }},
+    'South Africa': { lat: -30.5595, lng: 22.9375, cities: { 'Pretoria': [-25.7479, 28.2293] }}
 };
 
-// Fallback данные если RSS не работает
+// Fallback данные
 const FALLBACK_EVENTS = [
     {date: "2026-02-28", lat: 9.0810, lng: 7.4895, country: "Nigeria", city: "Abuja", type: "attack", title: "Church attacked in Abuja suburb", description: "Gunmen attacked worshippers during Sunday service", source: "RSS Feed", url: "#", victims: 12},
     {date: "2026-02-27", lat: 20.9517, lng: 85.0985, country: "India", city: "Odisha", type: "murder", title: "Christian family killed in Odisha", description: "Three members of Christian family murdered", source: "RSS Feed", url: "#", victims: 3},
@@ -249,7 +246,6 @@ function detectCountry(text) {
             };
         }
     }
-    // Проверяем частичные совпадения
     if (lowerText.includes('nigerian') || lowerText.includes('nigerians')) {
         return { name: 'Nigeria', lat: 9.0820, lng: 8.6753, city: 'Lagos' };
     }
@@ -261,11 +257,11 @@ function detectCountry(text) {
 
 function detectType(text) {
     const lowerText = text.toLowerCase();
-    if (lowerText.match(/killed|murdered|death|dead|slain|massacre|execution|убий|смерт|казн/)) return 'murder';
-    if (lowerText.match(/attack|bomb|explosion|shooting|raid|stormed|burned|атак|взрыв|обстрел|поджог/)) return 'attack';
-    if (lowerText.match(/kidnap|abduct|hostage|captive|missing|похищ|захват|плен/)) return 'kidnapping';
-    if (lowerText.match(/arrest|detain|prison|jail|imprisoned|sentence|арест|тюрьм|задерж|осужд/)) return 'arrest';
-    if (lowerText.match(/close|ban|shut|outlaw|discriminat|fine|restrict|закрыт|запрет|дискримин|штраф/)) return 'discrimination';
+    if (lowerText.match(/killed|murdered|death|dead|slain|massacre|execution/)) return 'murder';
+    if (lowerText.match(/attack|bomb|explosion|shooting|raid|stormed|burned/)) return 'attack';
+    if (lowerText.match(/kidnap|abduct|hostage|captive|missing/)) return 'kidnapping';
+    if (lowerText.match(/arrest|detain|prison|jail|imprisoned|sentence/)) return 'arrest';
+    if (lowerText.match(/close|ban|shut|outlaw|discriminat|fine|restrict/)) return 'discrimination';
     return 'other';
 }
 
@@ -287,7 +283,6 @@ function extractVictims(text) {
     return 0;
 }
 
-// Улучшенная функция fetchRSS с обработкой редиректов
 function fetchRSS(url) {
     return new Promise((resolve, reject) => {
         const options = {
@@ -298,7 +293,6 @@ function fetchRSS(url) {
         };
         
         const req = https.get(url, options, (res) => {
-            // Обработка редиректов
             if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
                 console.log(`   ↪️ Редирект на ${res.headers.location}`);
                 return fetchRSS(res.headers.location).then(resolve).catch(reject);
@@ -322,7 +316,6 @@ function fetchRSS(url) {
     });
 }
 
-// Улучшенная функция parseRSS с поддержкой Atom и RSS 1.0
 function parseRSS(xml) {
     return new Promise((resolve, reject) => {
         parseString(xml, { explicitArray: false }, (err, result) => {
@@ -333,19 +326,16 @@ function parseRSS(xml) {
             
             let items = [];
             
-            // RSS 2.0
             if (result?.rss?.channel?.item) {
                 items = Array.isArray(result.rss.channel.item) 
                     ? result.rss.channel.item 
                     : [result.rss.channel.item];
             }
-            // Atom
             else if (result?.feed?.entry) {
                 items = Array.isArray(result.feed.entry) 
                     ? result.feed.entry 
                     : [result.feed.entry];
             }
-            // RSS 1.0 (RDF)
             else if (result?.['rdf:RDF']?.item) {
                 items = Array.isArray(result['rdf:RDF'].item)
                     ? result['rdf:RDF'].item
@@ -360,21 +350,28 @@ function parseRSS(xml) {
 async function updateData() {
     console.log('🚀 Начало RSS-парсинга...');
     console.log(`⏰ ${new Date().toLocaleString()}`);
+    console.log(`📡 Проверяем ${Object.keys(RSS_SOURCES).length} источников\n`);
     
     const allEvents = [];
     const errors = [];
     let successCount = 0;
+    let totalRelevant = 0;
 
     for (const [sourceName, url] of Object.entries(RSS_SOURCES)) {
         try {
-            console.log(`\n📡 ${sourceName}:`);
-            const xml = await fetchRSS(url);
-            const items = await parseRSS(xml);
+            console.log(`📡 ${sourceName}:`);
+            console.log(`   URL: ${url}`);
             
-            console.log(`   Записей: ${items.length}`);
+            const xml = await fetchRSS(url);
+            console.log(`   ✅ Соединение установлено`);
+            
+            const items = await parseRSS(xml);
+            console.log(`   📄 Записей в RSS: ${items.length}`);
 
             let relevantCount = 0;
-            for (const item of items.slice(0, 15)) {
+            let skippedCount = 0;
+            
+            for (const item of items.slice(0, 20)) {
                 const title = item.title?.[0] || item.title || '';
                 const description = (item.description?.[0] || item.description || item.summary?.[0] || '').replace(/<[^>]*>/g, '');
                 const link = item.link?.[0]?.$?.href || item.link?.[0] || item.link || item.id || '';
@@ -383,15 +380,23 @@ async function updateData() {
                 const fullText = (title + ' ' + description).toLowerCase();
                 
                 // Проверяем релевантность
-                const isRelevant = KEYWORDS.some(kw => fullText.includes(kw.toLowerCase()));
-                if (!isRelevant) continue;
+                const matchedKeywords = KEYWORDS.filter(kw => fullText.includes(kw.toLowerCase()));
+                const isRelevant = matchedKeywords.length > 0;
+                
+                if (!isRelevant) {
+                    skippedCount++;
+                    continue;
+                }
 
                 const countryData = detectCountry(fullText);
-                if (!countryData) continue;
+                if (!countryData) {
+                    console.log(`   ⚠️ Не найдена страна: "${title.substring(0, 50)}..."`);
+                    continue;
+                }
 
                 relevantCount++;
+                totalRelevant++;
                 
-                // Добавляем небольшой случайный разброс координат
                 const lat = countryData.lat + (Math.random() - 0.5) * 2;
                 const lng = countryData.lng + (Math.random() - 0.5) * 2;
 
@@ -410,9 +415,10 @@ async function updateData() {
                 };
 
                 allEvents.push(event);
+                console.log(`   ✓ ${event.type.toUpperCase()}: ${event.country} - ${title.substring(0, 60)}...`);
             }
             
-            console.log(`   ✅ Релевантных: ${relevantCount}`);
+            console.log(`   📊 Релевантных: ${relevantCount}, Пропущено: ${skippedCount}`);
             if (relevantCount > 0) successCount++;
 
         } catch (error) {
@@ -421,13 +427,25 @@ async function updateData() {
         }
     }
 
+    console.log(`\n${'='.repeat(50)}`);
+    console.log('📊 ИТОГИ RSS-ПАРСИНГА:');
+    console.log(`${'='.repeat(50)}`);
+    console.log(`📡 Всего источников: ${Object.keys(RSS_SOURCES).length}`);
+    console.log(`✅ Рабочих источников: ${successCount}`);
+    console.log(`❌ Ошибок: ${errors.length}`);
+    console.log(`📰 Всего релевантных событий: ${totalRelevant}`);
+    console.log(`🎯 Уникальных событий: ${allEvents.length}`);
+
     // Если RSS не сработал, используем fallback
     let finalEvents;
+    let updateMethod;
+    
     if (allEvents.length === 0) {
-        console.log('\n⚠️ RSS не дал результатов, используем fallback');
+        console.log(`\n⚠️ RSS НЕ ДАЛ РЕЗУЛЬТАТОВ! Используем fallback...`);
         finalEvents = FALLBACK_EVENTS;
+        updateMethod = 'FALLBACK';
     } else {
-        // Дедупликация по URL + title
+        // Дедупликация
         const seen = new Set();
         const uniqueEvents = [];
         
@@ -441,6 +459,9 @@ async function updateData() {
         
         uniqueEvents.sort((a, b) => new Date(b.date) - new Date(a.date));
         finalEvents = uniqueEvents.slice(0, 50);
+        updateMethod = 'RSS';
+        
+        console.log(`\n✅ RSS СРАБОТАЛ! Событий: ${finalEvents.length}`);
     }
 
     const output = {
@@ -451,7 +472,8 @@ async function updateData() {
             sourcesChecked: Object.keys(RSS_SOURCES).length,
             sourcesWorking: successCount,
             errors: errors,
-            updateMethod: allEvents.length === 0 ? 'FALLBACK' : 'RSS'
+            updateMethod: updateMethod,
+            rssSuccess: allEvents.length > 0
         },
         events: finalEvents
     };
@@ -460,11 +482,13 @@ async function updateData() {
     fs.mkdirSync(path.dirname(outputPath), { recursive: true });
     fs.writeFileSync(outputPath, JSON.stringify(output, null, 2), 'utf8');
 
-    console.log(`\n✅ ГОТОВО!`);
+    console.log(`\n${'='.repeat(50)}`);
+    console.log('💾 РЕЗУЛЬТАТ СОХРАНЕН:');
+    console.log(`${'='.repeat(50)}`);
+    console.log(`📁 Файл: ${outputPath}`);
     console.log(`📊 Событий: ${finalEvents.length}`);
-    console.log(`📡 Рабочих источников: ${successCount}/${Object.keys(RSS_SOURCES).length}`);
-    console.log(`⚠️ Ошибок: ${errors.length}`);
-    console.log(`💾 Сохранено: ${outputPath}`);
+    console.log(`🔧 Метод: ${updateMethod}`);
+    console.log(`✅ Готово!\n`);
     
     // Статистика по типам
     const typeStats = {};
@@ -486,7 +510,7 @@ async function updateData() {
 if (require.main === module) {
     updateData().catch(err => {
         console.error('💥 Критическая ошибка:', err);
-        // Даже при критической ошибке создаем fallback файл
+        
         const outputPath = path.join(__dirname, '..', 'data', 'events.json');
         const fallbackOutput = {
             metadata: {
@@ -496,14 +520,16 @@ if (require.main === module) {
                 sourcesChecked: 0,
                 sourcesWorking: 0,
                 errors: [{ source: 'critical', error: err.message }],
-                updateMethod: 'CRITICAL_FALLBACK'
+                updateMethod: 'CRITICAL_FALLBACK',
+                rssSuccess: false
             },
             events: FALLBACK_EVENTS
         };
+        
         fs.mkdirSync(path.dirname(outputPath), { recursive: true });
         fs.writeFileSync(outputPath, JSON.stringify(fallbackOutput, null, 2), 'utf8');
         console.log('🔄 Создан fallback файл после критической ошибки');
-        process.exit(0); // Не завершаем с ошибкой, чтобы GitHub Actions не падал
+        process.exit(0);
     });
 }
 
