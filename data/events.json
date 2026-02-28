@@ -1,47 +1,125 @@
 {
   "metadata": {
-    "lastUpdated": "2026-02-28T16:59:44.147Z",
-    "version": "2.0",
-    "totalEvents": 0,
-    "sourcesChecked": 8,
+    "lastUpdated": "2026-02-28T20:00:00.000Z",
+    "version": "2.0-fallback",
+    "totalEvents": 8,
+    "sourcesChecked": 0,
     "sourcesWorking": 0,
     "errors": [
       {
-        "country": "Nigeria",
-        "error": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
-      },
-      {
-        "country": "India",
-        "error": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
-      },
-      {
-        "country": "China",
-        "error": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
-      },
-      {
-        "country": "Pakistan",
-        "error": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
-      },
-      {
-        "country": "Iran",
-        "error": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
-      },
-      {
-        "country": "Iraq",
-        "error": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
-      },
-      {
-        "country": "Syria",
-        "error": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
-      },
-      {
-        "country": "Egypt",
-        "error": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
+        "source": "api",
+        "error": "Rate limit exceeded - using fallback data"
       }
     ],
-    "updateMethod": "NEWS_API",
+    "updateMethod": "FALLBACK_RU",
     "rssSuccess": true,
-    "language": "ru"
+    "language": "ru",
+    "note": "Тестовые данные на русском. API лимит исчерпан, автоматическое обновление возобновится завтра."
   },
-  "events": []
+  "events": [
+    {
+      "date": "2026-02-28",
+      "lat": 9.081,
+      "lng": 7.4895,
+      "country": "Нигерия",
+      "city": "Абуджа",
+      "type": "нападение",
+      "title": "Нападение на церковь в пригороде Абуджи",
+      "description": "Вооруженные люди атаковали прихожан во время воскресной службы. 12 человек погибли.",
+      "source": "Тестовые данные",
+      "url": "#",
+      "victims": 12
+    },
+    {
+      "date": "2026-02-27",
+      "lat": 20.9517,
+      "lng": 85.0985,
+      "country": "Индия",
+      "city": "Одиша",
+      "type": "убийство",
+      "title": "Убийство христианской семьи в Одише",
+      "description": "Три члена христианской семьи были убиты в результате нападения.",
+      "source": "Тестовые данные",
+      "url": "#",
+      "victims": 3
+    },
+    {
+      "date": "2026-02-26",
+      "lat": 35.6892,
+      "lng": 51.389,
+      "country": "Иран",
+      "city": "Тегеран",
+      "type": "арест",
+      "title": "Рейд на церковь в Тегеране",
+      "description": "Власти арестовали 8 христиан во время молитвенного собрания.",
+      "source": "Тестовые данные",
+      "url": "#",
+      "victims": 8
+    },
+    {
+      "date": "2026-02-25",
+      "lat": 33.3152,
+      "lng": 44.3661,
+      "country": "Ирак",
+      "city": "Багдад",
+      "type": "нападение",
+      "title": "Взрыв возле христианского района Багдада",
+      "description": "Взрыв убил 5 человек и ранил 12 возле церкви.",
+      "source": "Тестовые данные",
+      "url": "#",
+      "victims": 5
+    },
+    {
+      "date": "2026-02-24",
+      "lat": 30.0444,
+      "lng": 31.2357,
+      "country": "Египет",
+      "city": "Каир",
+      "type": "дискриминация",
+      "title": "Приказ о закрытии церкви",
+      "description": "Власти закрыли незарегистрированное церковное здание.",
+      "source": "Тестовые данные",
+      "url": "#",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-23",
+      "lat": -1.2921,
+      "lng": 36.8219,
+      "country": "Кения",
+      "city": "Найроби",
+      "type": "нападение",
+      "title": "Нападение на христианскую школу",
+      "description": "Боевики атаковали школу в христианском районе.",
+      "source": "Тестовые данные",
+      "url": "#",
+      "victims": 2
+    },
+    {
+      "date": "2026-02-22",
+      "lat": 15.3229,
+      "lng": 38.9251,
+      "country": "Эритрея",
+      "city": "Асмэра",
+      "type": "арест",
+      "title": "Массовые аресты христиан",
+      "description": "30 христиан задержаны во время молитвенного собрания.",
+      "source": "Тестовые данные",
+      "url": "#",
+      "victims": 30
+    },
+    {
+      "date": "2026-02-21",
+      "lat": 10.5105,
+      "lng": 7.4165,
+      "country": "Нигерия",
+      "city": "Кадуна",
+      "type": "похищение",
+      "title": "Похищение священника",
+      "description": "Католический священник похищен вооруженными людьми.",
+      "source": "Тестовые данные",
+      "url": "#",
+      "victims": 1
+    }
+  ]
 }
