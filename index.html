@@ -17,13 +17,13 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
     
     <style>
-</head>
-        
         body {
             font-family: 'Crimson Text', serif;
             background: #0f0f1e;
             color: #eaeaea;
             overflow: hidden;
+            margin: 0;
+            padding: 0;
         }
 
         /* СТАРТОВЫЙ ЭКРАН */
@@ -476,7 +476,7 @@
             .stat { padding: 6px 8px; min-width: 70px; }
             .stat-value { font-size: 1.1rem; }
             .stat-label { font-size: 0.6rem; }
-            .timeline-section { display: none; } /* На мобильных скрываем timeline */
+            .timeline-section { display: none; }
         }
     </style>
 </head>
@@ -602,17 +602,15 @@
         };
 
         let map, markers = [];
-        let allEvents = [];        // Все события из архива
-        let displayEvents = [];    // События для отображения (после фильтра по дате)
+        let allEvents = [];
+        let displayEvents = [];
         let archivedTotal = 0;
         let dataLoaded = false;
         let mapInitialized = false;
         
-        // Timeline state
-        let timelineWeeks = 1;     // По умолчанию 1 неделя
-        let timelineMode = 'new';  // 'new' или 'cumulative'
+        let timelineWeeks = 1;
+        let timelineMode = 'new';
 
-        // Запускаем таймер для смены GIF на PNG
         window.addEventListener('load', () => {
             setTimeout(() => {
                 const gif = document.getElementById('splash-gif');
@@ -711,10 +709,8 @@
             const cutoffDate = new Date(now - timelineWeeks * 7 * 24 * 60 * 60 * 1000);
             
             if (timelineMode === 'new') {
-                // Только события за последние N недель
                 displayEvents = allEvents.filter(e => new Date(e.date) >= cutoffDate);
             } else {
-                // Все события до выбранной даты (исторический режим)
                 const historyDate = new Date(now - (52 - timelineWeeks) * 7 * 24 * 60 * 60 * 1000);
                 displayEvents = allEvents.filter(e => new Date(e.date) <= historyDate);
             }
@@ -729,7 +725,6 @@
             try {
                 console.log('📡 Загрузка данных...');
                 
-                // Загружаем архив (все события за год)
                 const archiveResponse = await fetch(CONFIG.archiveUrl + '&r=' + Math.random(), {
                     cache: 'no-store'
                 });
@@ -740,7 +735,6 @@
                     archivedTotal = archiveData.metadata?.totalEvents || allEvents.length;
                     console.log('📚 Загружен архив:', allEvents.length, 'событий');
                 } else {
-                    // Fallback на events.json
                     const response = await fetch(CONFIG.dataUrl + '&r=' + Math.random(), {
                         cache: 'no-store'
                     });
@@ -749,10 +743,8 @@
                     archivedTotal = data.metadata?.archivedTotal || allEvents.length;
                 }
                 
-                // Сортируем по дате (новые сначала)
                 allEvents.sort((a, b) => new Date(b.date) - new Date(a.date));
                 
-                // По умолчанию показываем последнюю неделю
                 updateDisplayEvents();
                 
                 dataLoaded = true;
