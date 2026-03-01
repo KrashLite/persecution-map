@@ -135,7 +135,7 @@
             opacity: 1;
         }
 
-        /* ИНДИКАТОР ЗАГРУЗКИ ДАННЫХ */
+        /* ИНДИКАТОР ЗАГРУЗКИ */
         #data-loader {
             position: fixed;
             top: 0;
@@ -184,7 +184,7 @@
             padding: 0 20px;
         }
 
-        /* Остальные стили */
+        /* HEADER */
         .logo-container {
             display: flex;
             align-items: center;
@@ -251,6 +251,7 @@
             letter-spacing: 0.5px;
         }
 
+        /* SIDEBAR */
         .sidebar {
             position: absolute;
             left: 0;
@@ -281,6 +282,87 @@
             color: #888;
         }
 
+        /* TIMELINE */
+        .timeline-section {
+            padding: 15px 20px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            background: rgba(255,107,107,0.05);
+        }
+
+        .timeline-title {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            color: #feca57;
+            margin-bottom: 10px;
+            letter-spacing: 1px;
+        }
+
+        .timeline-slider {
+            width: 100%;
+            margin: 10px 0;
+            -webkit-appearance: none;
+            height: 6px;
+            border-radius: 3px;
+            background: rgba(255,255,255,0.2);
+            outline: none;
+        }
+
+        .timeline-slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background: #ff6b6b;
+            cursor: pointer;
+            box-shadow: 0 0 10px rgba(255,107,107,0.5);
+        }
+
+        .timeline-slider::-moz-range-thumb {
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background: #ff6b6b;
+            cursor: pointer;
+            border: none;
+            box-shadow: 0 0 10px rgba(255,107,107,0.5);
+        }
+
+        .timeline-labels {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.7rem;
+            color: #888;
+            margin-top: 5px;
+        }
+
+        .timeline-current {
+            text-align: center;
+            color: #feca57;
+            font-size: 0.9rem;
+            margin-top: 8px;
+            font-weight: 600;
+        }
+
+        .timeline-btn {
+            width: 100%;
+            padding: 8px;
+            margin-top: 10px;
+            background: rgba(255,107,107,0.2);
+            border: 1px solid rgba(255,107,107,0.5);
+            color: #ff6b6b;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 0.8rem;
+            transition: all 0.3s;
+        }
+
+        .timeline-btn:hover, .timeline-btn.active {
+            background: #ff6b6b;
+            color: white;
+        }
+
+        /* FILTERS */
         .filter-section {
             padding: 20px;
         }
@@ -382,13 +464,14 @@
         @media (max-width: 768px) {
             .splash-logo-container { width: 200px; height: 200px; }
             .splash-text { font-size: 1.5rem; }
-            .sidebar { width: 100%; top: auto; bottom: 0; height: 40vh; }
+            .sidebar { width: 100%; top: auto; bottom: 0; height: 50vh; }
             .header { left: 0; height: auto; padding: 10px; flex-wrap: wrap; }
             .logo-img { height: 40px; width: 40px; }
             .stats { gap: 8px; }
             .stat { padding: 6px 8px; min-width: 70px; }
             .stat-value { font-size: 1.1rem; }
             .stat-label { font-size: 0.6rem; }
+            .timeline-section { display: none; } /* На мобильных скрываем timeline */
         }
     </style>
 </head>
@@ -442,7 +525,24 @@
         <div class="sidebar">
             <div class="sidebar-header">
                 <div class="sidebar-title">Фильтры</div>
-                <div class="sidebar-subtitle">Выберите тип инцидента</div>
+                <div class="sidebar-subtitle">Выберите тип инцидента и период</div>
+            </div>
+            
+            <!-- TIMELINE -->
+            <div class="timeline-section">
+                <div class="timeline-title">📅 Временная шкала</div>
+                <input type="range" class="timeline-slider" id="timeline-slider" min="0" max="52" value="1" step="1">
+                <div class="timeline-labels">
+                    <span>Неделя</span>
+                    <span>Месяц</span>
+                    <span>3 мес</span>
+                    <span>6 мес</span>
+                    <span>Год</span>
+                </div>
+                <div class="timeline-current" id="timeline-current">Последняя неделя</div>
+                <button class="timeline-btn active" id="timeline-btn" onclick="toggleTimelineMode()">
+                    Режим: Только новые (1 неделя)
+                </button>
             </div>
             
             <div class="filter-section">
@@ -457,7 +557,7 @@
                 </div>
             </div>
             
-            <div class="filter-title" style="padding: 0 20px;">Последние события</div>
+            <div class="filter-title" style="padding: 0 20px;">События за выбранный период</div>
             <div class="events-list" id="events-list"></div>
         </div>
 
@@ -496,10 +596,16 @@
             }
         };
 
-        let map, markers = [], allEvents = [];
+        let map, markers = [];
+        let allEvents = [];        // Все события из архива
+        let displayEvents = [];    // События для отображения (после фильтра по дате)
+        let archivedTotal = 0;
         let dataLoaded = false;
         let mapInitialized = false;
-        let archivedTotal = 0;
+        
+        // Timeline state
+        let timelineWeeks = 1;     // По умолчанию 1 неделя
+        let timelineMode = 'new';  // 'new' или 'cumulative'
 
         // Запускаем таймер для смены GIF на PNG
         window.addEventListener('load', () => {
@@ -510,10 +616,10 @@
                 png.classList.add('visible');
             }, 5800);
             
-            // Начинаем загрузку данных СРАЗУ
             console.log('🚀 Начинаем загрузку данных...');
             initMap();
             loadData();
+            initTimeline();
         });
 
         function initMap() {
@@ -539,6 +645,78 @@
             console.log('✅ Карта инициализирована');
         }
 
+        function initTimeline() {
+            const slider = document.getElementById('timeline-slider');
+            const current = document.getElementById('timeline-current');
+            const btn = document.getElementById('timeline-btn');
+            
+            const labels = {
+                0: '1 день',
+                1: '1 неделя',
+                4: '1 месяц',
+                13: '3 месяца',
+                26: '6 месяцев',
+                52: '1 год'
+            };
+            
+            slider.addEventListener('input', (e) => {
+                const weeks = parseInt(e.target.value);
+                timelineWeeks = weeks || 1;
+                
+                let label = labels[weeks];
+                if (!label) {
+                    if (weeks < 4) label = `${weeks} недели`;
+                    else if (weeks < 13) label = `${Math.floor(weeks/4)} месяца`;
+                    else label = `${Math.floor(weeks/4)} месяцев`;
+                }
+                
+                current.textContent = timelineMode === 'new' 
+                    ? `Последние: ${label}` 
+                    : `Всего за: ${label}`;
+                
+                updateDisplayEvents();
+                renderEvents(displayEvents);
+                updateStats(displayEvents);
+            });
+        }
+
+        function toggleTimelineMode() {
+            const btn = document.getElementById('timeline-btn');
+            const current = document.getElementById('timeline-current');
+            
+            if (timelineMode === 'new') {
+                timelineMode = 'cumulative';
+                btn.textContent = 'Режим: Накопление (всё до даты)';
+                btn.classList.remove('active');
+                current.textContent = `Всего за: ${timelineWeeks} недели`;
+            } else {
+                timelineMode = 'new';
+                btn.textContent = 'Режим: Только новые (1 неделя)';
+                btn.classList.add('active');
+                current.textContent = `Последние: ${timelineWeeks} недели`;
+            }
+            
+            updateDisplayEvents();
+            renderEvents(displayEvents);
+            updateStats(displayEvents);
+        }
+
+        function updateDisplayEvents() {
+            const now = new Date();
+            const cutoffDate = new Date(now - timelineWeeks * 7 * 24 * 60 * 60 * 1000);
+            
+            if (timelineMode === 'new') {
+                // Только события за последние N недель
+                displayEvents = allEvents.filter(e => new Date(e.date) >= cutoffDate);
+            } else {
+                // Все события до выбранной даты (исторический режим)
+                const historyDate = new Date(now - (52 - timelineWeeks) * 7 * 24 * 60 * 60 * 1000);
+                displayEvents = allEvents.filter(e => new Date(e.date) <= historyDate);
+            }
+            
+            console.log(`📅 Timeline: ${timelineMode}, ${timelineWeeks} недель, ${displayEvents.length} событий`);
+        }
+
         async function loadData() {
             const loader = document.getElementById('data-loader');
             const errorDiv = document.getElementById('loader-error');
@@ -546,55 +724,37 @@
             try {
                 console.log('📡 Загрузка данных...');
                 
-                // Загружаем основные события
-                const url = CONFIG.dataUrl + '&r=' + Math.random();
-                console.log('URL:', url);
-                
-                const response = await fetch(url, {
-                    cache: 'no-store',
-                    headers: {
-                        'Cache-Control': 'no-cache',
-                        'Pragma': 'no-cache'
-                    }
+                // Загружаем архив (все события за год)
+                const archiveResponse = await fetch(CONFIG.archiveUrl + '&r=' + Math.random(), {
+                    cache: 'no-store'
                 });
                 
-                if (!response.ok) {
-                    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
-                }
-                
-                const data = await response.json();
-                console.log('📦 Данные получены:', data);
-                
-                if (!data.events || !Array.isArray(data.events)) {
-                    throw new Error('Неверная структура данных: нет массива events');
-                }
-                
-                allEvents = data.events;
-                
-                // Пытаемся получить общее число из архива
-                try {
-                    const archiveResponse = await fetch(CONFIG.archiveUrl + '&r=' + Math.random(), {
+                if (archiveResponse.ok) {
+                    const archiveData = await archiveResponse.json();
+                    allEvents = archiveData.events || [];
+                    archivedTotal = archiveData.metadata?.totalEvents || allEvents.length;
+                    console.log('📚 Загружен архив:', allEvents.length, 'событий');
+                } else {
+                    // Fallback на events.json
+                    const response = await fetch(CONFIG.dataUrl + '&r=' + Math.random(), {
                         cache: 'no-store'
                     });
-                    if (archiveResponse.ok) {
-                        const archiveData = await archiveResponse.json();
-                        archivedTotal = archiveData.metadata?.totalEvents || archiveData.events?.length || allEvents.length;
-                        console.log('📚 Всего в архиве:', archivedTotal);
-                    } else {
-                        // Если архива нет, используем metadata из текущего файла
-                        archivedTotal = data.metadata?.archivedTotal || allEvents.length;
-                    }
-                } catch (e) {
+                    const data = await response.json();
+                    allEvents = data.events || [];
                     archivedTotal = data.metadata?.archivedTotal || allEvents.length;
-                    console.log('📚 Используем archivedTotal из metadata:', archivedTotal);
                 }
+                
+                // Сортируем по дате (новые сначала)
+                allEvents.sort((a, b) => new Date(b.date) - new Date(a.date));
+                
+                // По умолчанию показываем последнюю неделю
+                updateDisplayEvents();
                 
                 dataLoaded = true;
                 
-                console.log(`✅ Загружено ${allEvents.length} событий для отображения`);
-                console.log(`📚 Всего в архиве: ${archivedTotal}`);
+                console.log(`✅ Загружено ${allEvents.length} событий всего`);
+                console.log(`📊 Отображается ${displayEvents.length} за ${timelineWeeks} недели`);
                 
-                // Если splash screen уже закрыт, показываем данные сразу
                 if (document.getElementById('splash-screen').classList.contains('hidden')) {
                     showData();
                 }
@@ -604,10 +764,9 @@
                 errorDiv.textContent = 'Ошибка загрузки: ' + error.message + '. Используем тестовые данные...';
                 errorDiv.style.display = 'block';
                 
-                // Fallback
                 setTimeout(() => {
                     allEvents = getFallbackData();
-                    archivedTotal = allEvents.length;
+                    updateDisplayEvents();
                     dataLoaded = true;
                     if (document.getElementById('splash-screen').classList.contains('hidden')) {
                         showData();
@@ -618,34 +777,26 @@
 
         function getFallbackData() {
             const today = new Date();
-            return [
-                {
-                    date: today.toISOString().split('T')[0],
-                    lat: 9.0810,
-                    lng: 7.4895,
+            const events = [];
+            for (let i = 0; i < 20; i++) {
+                const date = new Date(today);
+                date.setDate(date.getDate() - i * 3);
+                events.push({
+                    date: date.toISOString().split('T')[0],
+                    lat: 9.0810 + Math.random(),
+                    lng: 7.4895 + Math.random(),
                     country: "Нигерия",
                     city: "Абуджа",
-                    type: "attack",
-                    title: "⚠️ Тестовое событие - данные не загружены",
-                    description: "Проверьте консоль (F12) и файл data/events.json",
-                    source: "Fallback",
+                    type: ["murder", "attack", "kidnapping", "arrest"][i % 4],
+                    title: `Тестовое событие ${i + 1}`,
+                    description: "Тестовое описание",
+                    source: "Test",
                     url: "#",
-                    victims: 5
-                },
-                {
-                    date: new Date(today - 86400000).toISOString().split('T')[0],
-                    lat: 20.9517,
-                    lng: 85.0985,
-                    country: "Индия",
-                    city: "Одиша",
-                    type: "murder",
-                    title: "Тест: Убийство христиан",
-                    description: "Тестовое событие для проверки отображения",
-                    source: "Fallback",
-                    url: "#",
-                    victims: 3
-                }
-            ];
+                    victims: Math.floor(Math.random() * 10)
+                });
+            }
+            archivedTotal = events.length;
+            return events;
         }
 
         function enterSite() {
@@ -656,12 +807,10 @@
             splash.classList.add('hidden');
             mainApp.classList.add('visible');
             
-            // Если данные уже загружены, показываем их
             if (dataLoaded) {
                 showData();
                 loader.classList.add('hidden');
             } else {
-                // Ждём загрузки
                 const checkInterval = setInterval(() => {
                     if (dataLoaded) {
                         clearInterval(checkInterval);
@@ -670,25 +819,23 @@
                     }
                 }, 100);
                 
-                // Таймаут 10 секунд
                 setTimeout(() => {
                     clearInterval(checkInterval);
                     if (!dataLoaded) {
                         loader.classList.add('hidden');
-                        alert('Не удалось загрузить данные. Попробуйте обновить страницу.');
+                        alert('Не удалось загрузить данные.');
                     }
                 }, 10000);
             }
         }
 
         function showData() {
-            console.log('📊 Отображаем данные:', allEvents.length, 'событий');
-            renderEvents(allEvents);
-            updateStats(allEvents);
+            console.log('📊 Отображаем данные:', displayEvents.length, 'событий');
+            renderEvents(displayEvents);
+            updateStats(displayEvents);
         }
 
         function renderEvents(events) {
-            // Очищаем маркеры
             markers.forEach(m => map.removeLayer(m));
             markers = [];
             
@@ -696,14 +843,13 @@
             listContainer.innerHTML = '';
 
             if (events.length === 0) {
-                listContainer.innerHTML = '<div style="padding: 20px; text-align: center; color: #888;">Нет событий</div>';
+                listContainer.innerHTML = '<div style="padding: 20px; text-align: center; color: #888;">Нет событий за выбранный период</div>';
                 return;
             }
 
             events.forEach(event => {
                 const color = CONFIG.colors[event.type] || CONFIG.colors.other;
                 
-                // Маркер на карте
                 const marker = L.circleMarker([event.lat, event.lng], {
                     radius: event.victims > 10 ? 10 : (event.victims > 0 ? 7 : 5),
                     fillColor: color,
@@ -720,13 +866,11 @@
                         <p><strong>🏷️</strong> ${CONFIG.typeLabels[event.type] || event.type}</p>
                         ${event.victims > 0 ? `<p><strong>💀</strong> ${event.victims} жертв</p>` : ''}
                         <p style="font-size: 0.85em; color: #666; margin-top: 10px;">${event.description || ''}</p>
-                        <p style="font-size: 0.75em; color: #888;">Источник: ${event.source}</p>
                     </div>
                 `);
                 
                 markers.push(marker);
 
-                // Карточка в списке
                 const card = document.createElement('div');
                 card.className = 'event-card';
                 card.style.setProperty('--color', color);
@@ -744,7 +888,6 @@
         }
 
         function filterEvents(type) {
-            // Обновляем кнопки
             document.querySelectorAll('.filter-btn').forEach(btn => {
                 btn.classList.remove('active');
                 if ((type === 'all' && btn.textContent === 'Все') || 
@@ -753,7 +896,9 @@
                 }
             });
             
-            const filtered = type === 'all' ? allEvents : allEvents.filter(e => e.type === type);
+            const filtered = type === 'all' 
+                ? displayEvents 
+                : displayEvents.filter(e => e.type === type);
             renderEvents(filtered);
             updateStats(filtered);
         }
@@ -763,10 +908,9 @@
             document.getElementById('total-countries').textContent = new Set(events.map(e => e.country)).size;
             document.getElementById('total-victims').textContent = events.reduce((sum, e) => sum + (e.victims || 0), 0);
             
-            // Показываем общее количество за год из архива
             const archivedEl = document.getElementById('archived-total');
             if (archivedEl) {
-                archivedEl.textContent = archivedTotal || events.length;
+                archivedEl.textContent = archivedTotal || allEvents.length;
             }
         }
     </script>
