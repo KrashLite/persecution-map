@@ -2,7 +2,7 @@ name: Daily News API Update
 
 on:
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '0 6 * * *'  # 6:00 UTC = 9:00 МСК
   workflow_dispatch:
 
 permissions:
@@ -21,16 +21,36 @@ jobs:
         with:
           node-version: '18'
       
+      - name: Install dependencies
+        run: npm install
+      
       - name: Update via News API
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
-        run: node news-api.js || echo "API limit, using existing data"
+        run: |
+          # Пробуем News API
+          node news-api.js
+          # Если не сработало (выход с ошибкой), используем fallback
+          if [ $? -ne 0 ]; then
+            echo "⚠️ News API failed, using fallback"
+            node fallback-data.js
+          fi
       
       - name: Archive events
         run: node archive-events.js
       
+      - name: Check for changes
+        id: verify-changes
+        run: |
+          if git diff --quiet data/events.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+      
       - name: Commit changes
+        if: steps.verify-changes.outputs.changed == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Update events archive - $(date)"
-          file_pattern: 'data/events.json data/events-archive.json'
+          commit_message: "🔄 Update events - $(date +'%Y-%m-%d %H:%M UTC')"
+          file_pattern: 'data/*.json'
