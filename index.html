@@ -184,7 +184,7 @@
             padding: 0 20px;
         }
 
-        /* Остальные стили остаются без изменений */
+        /* Остальные стили */
         .logo-container {
             display: flex;
             align-items: center;
@@ -226,27 +226,29 @@
 
         .stats {
             display: flex;
-            gap: 20px;
+            gap: 15px;
         }
 
         .stat {
             text-align: center;
-            padding: 8px 15px;
+            padding: 8px 12px;
             background: rgba(255,255,255,0.05);
             border-radius: 8px;
             border: 1px solid rgba(255,255,255,0.1);
+            min-width: 80px;
         }
 
         .stat-value {
-            font-size: 1.4rem;
+            font-size: 1.3rem;
             font-weight: 700;
             color: #ff6b6b;
         }
 
         .stat-label {
-            font-size: 0.7rem;
+            font-size: 0.65rem;
             color: #888;
             text-transform: uppercase;
+            letter-spacing: 0.5px;
         }
 
         .sidebar {
@@ -381,13 +383,17 @@
             .splash-logo-container { width: 200px; height: 200px; }
             .splash-text { font-size: 1.5rem; }
             .sidebar { width: 100%; top: auto; bottom: 0; height: 40vh; }
-            .header { left: 0; height: auto; padding: 10px; }
+            .header { left: 0; height: auto; padding: 10px; flex-wrap: wrap; }
             .logo-img { height: 40px; width: 40px; }
+            .stats { gap: 8px; }
+            .stat { padding: 6px 8px; min-width: 70px; }
+            .stat-value { font-size: 1.1rem; }
+            .stat-label { font-size: 0.6rem; }
         }
     </style>
 </head>
 <body>
-    <!-- ИНДИКАТОР ЗАГРУЗКИ (под splash screen) -->
+    <!-- ИНДИКАТОР ЗАГРУЗКИ -->
     <div id="data-loader">
         <div class="spinner"></div>
         <div class="loader-text">Загрузка данных...</div>
@@ -416,7 +422,7 @@
             <div class="stats">
                 <div class="stat">
                     <div class="stat-value" id="total-events">0</div>
-                    <div class="stat-label">Событий</div>
+                    <div class="stat-label">На карте</div>
                 </div>
                 <div class="stat">
                     <div class="stat-value" id="total-countries">0</div>
@@ -425,6 +431,10 @@
                 <div class="stat">
                     <div class="stat-value" id="total-victims">0</div>
                     <div class="stat-label">Жертв</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-value" id="archived-total">0</div>
+                    <div class="stat-label">Всего за год</div>
                 </div>
             </div>
         </div>
@@ -467,6 +477,7 @@
     <script>
         const CONFIG = {
             dataUrl: 'data/events.json?v=' + Date.now(),
+            archiveUrl: 'data/events-archive.json?v=' + Date.now(),
             colors: {
                 murder: '#c0392b',
                 attack: '#e74c3c',
@@ -488,6 +499,7 @@
         let map, markers = [], allEvents = [];
         let dataLoaded = false;
         let mapInitialized = false;
+        let archivedTotal = 0;
 
         // Запускаем таймер для смены GIF на PNG
         window.addEventListener('load', () => {
@@ -498,7 +510,7 @@
                 png.classList.add('visible');
             }, 5800);
             
-            // Начинаем загрузку данных СРАЗУ, не дожидаясь клика
+            // Начинаем загрузку данных СРАЗУ
             console.log('🚀 Начинаем загрузку данных...');
             initMap();
             loadData();
@@ -534,7 +546,7 @@
             try {
                 console.log('📡 Загрузка данных...');
                 
-                // Пробуем загрузить с антикэшем
+                // Загружаем основные события
                 const url = CONFIG.dataUrl + '&r=' + Math.random();
                 console.log('URL:', url);
                 
@@ -558,16 +570,34 @@
                 }
                 
                 allEvents = data.events;
+                
+                // Пытаемся получить общее число из архива
+                try {
+                    const archiveResponse = await fetch(CONFIG.archiveUrl + '&r=' + Math.random(), {
+                        cache: 'no-store'
+                    });
+                    if (archiveResponse.ok) {
+                        const archiveData = await archiveResponse.json();
+                        archivedTotal = archiveData.metadata?.totalEvents || archiveData.events?.length || allEvents.length;
+                        console.log('📚 Всего в архиве:', archivedTotal);
+                    } else {
+                        // Если архива нет, используем metadata из текущего файла
+                        archivedTotal = data.metadata?.archivedTotal || allEvents.length;
+                    }
+                } catch (e) {
+                    archivedTotal = data.metadata?.archivedTotal || allEvents.length;
+                    console.log('📚 Используем archivedTotal из metadata:', archivedTotal);
+                }
+                
                 dataLoaded = true;
                 
-                console.log(`✅ Загружено ${allEvents.length} событий`);
-                console.log('📊 Метаданные:', data.metadata);
+                console.log(`✅ Загружено ${allEvents.length} событий для отображения`);
+                console.log(`📚 Всего в архиве: ${archivedTotal}`);
                 
                 // Если splash screen уже закрыт, показываем данные сразу
                 if (document.getElementById('splash-screen').classList.contains('hidden')) {
                     showData();
                 }
-                // Иначе данные будут показаны при входе на сайт
                 
             } catch (error) {
                 console.error('❌ Ошибка загрузки:', error);
@@ -577,6 +607,7 @@
                 // Fallback
                 setTimeout(() => {
                     allEvents = getFallbackData();
+                    archivedTotal = allEvents.length;
                     dataLoaded = true;
                     if (document.getElementById('splash-screen').classList.contains('hidden')) {
                         showData();
@@ -731,6 +762,12 @@
             document.getElementById('total-events').textContent = events.length;
             document.getElementById('total-countries').textContent = new Set(events.map(e => e.country)).size;
             document.getElementById('total-victims').textContent = events.reduce((sum, e) => sum + (e.victims || 0), 0);
+            
+            // Показываем общее количество за год из архива
+            const archivedEl = document.getElementById('archived-total');
+            if (archivedEl) {
+                archivedEl.textContent = archivedTotal || events.length;
+            }
         }
     </script>
 </body>
