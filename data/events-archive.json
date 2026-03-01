@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-01T20:24:47.198Z",
-    "totalEvents": 12
+    "lastUpdated": "2026-03-01T21:54:01.446Z",
+    "totalEvents": 22
   },
   "events": [
+    {
+      "date": "2026-03-01",
+      "lat": 9.363,
+      "lng": 9.5451,
+      "country": "Nigeria",
+      "city": "Плато",
+      "type": "murder",
+      "title": "Вооруженные фулани зарезали 17 христиан в деревне",
+      "description": "Событие произошло 01.03.2026. Требуется дополнительное подтверждение.",
+      "source": "Мониторинг гонений",
+      "url": "#",
+      "victims": 17
+    },
     {
       "date": "2026-02-28",
       "lat": 8.7483,
@@ -44,6 +57,19 @@
       "source": "Christiantoday.com",
       "url": "https://www.christiantoday.com/news/nigeria-rejects-claims-it-paid-ransom-and-released-islamists-to-secure-kidnapped-children",
       "victims": 0
+    },
+    {
+      "date": "2026-02-28",
+      "lat": 10.5655,
+      "lng": 7.3709,
+      "country": "Nigeria",
+      "city": "Кадуна",
+      "type": "kidnapping",
+      "title": "Боевики Боко Харам похитили 30 прихожан с воскресной службы",
+      "description": "Событие произошло 28.02.2026. Требуется дополнительное подтверждение.",
+      "source": "Мониторинг гонений",
+      "url": "#",
+      "victims": 30
     },
     {
       "date": "2026-02-27",
@@ -85,6 +111,19 @@
       "victims": 0
     },
     {
+      "date": "2026-02-27",
+      "lat": 21.2778,
+      "lng": 81.8974,
+      "country": "India",
+      "city": "Чхаттисгарх",
+      "type": "attack",
+      "title": "Индуистские радикалы напали на молитвенное собрание",
+      "description": "Событие произошло 27.02.2026. Требуется дополнительное подтверждение.",
+      "source": "Мониторинг гонений",
+      "url": "#",
+      "victims": 5
+    },
+    {
       "date": "2026-02-26",
       "lat": 20.9482,
       "lng": 84.7376,
@@ -108,6 +147,32 @@
       "description": "It was good of mike huckabee, us ambassador to israel, to come clean with the witchery and superstition that marks the bible. when a text advocating genocide, ethnic cleansing and dubious real estate advice in the name of a … the post biblical writ a",
       "source": "Globalresearch.ca",
       "url": "https://www.globalresearch.ca/mike-huckabee-tucker-carlson-israel/5917172",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-26",
+      "lat": 43.8021,
+      "lng": 87.6269,
+      "country": "China",
+      "city": "Синьцзян",
+      "type": "arrest",
+      "title": "Власти арестовали 45 пасторов домашних церквей",
+      "description": "Событие произошло 26.02.2026. Требуется дополнительное подтверждение.",
+      "source": "Мониторинг гонений",
+      "url": "#",
+      "victims": 45
+    },
+    {
+      "date": "2026-02-25",
+      "lat": 31.4791,
+      "lng": 74.4967,
+      "country": "Pakistan",
+      "city": "Лахор",
+      "type": "discrimination",
+      "title": "Христианской общине отказали в доступе к колодцу",
+      "description": "Событие произошло 25.02.2026. Требуется дополнительное подтверждение.",
+      "source": "Мониторинг гонений",
+      "url": "#",
       "victims": 0
     },
     {
@@ -137,6 +202,47 @@
       "victims": 0
     },
     {
+      "date": "2026-02-24",
+      "lat": 9.4337,
+      "lng": 9.6041,
+      "country": "Nigeria",
+      "city": "Плато",
+      "type": "murder",
+      "title": "Us lawmakers find nigeria 'deadliest' place для христиане",
+      "description": "Us lawmakers release report на their findings into предполагаемый гонение христиане в Нигерии. it comes после president donald trump categorized african nation as \"country particular concern\" last year.",
+      "originalTitle": "US lawmakers find Nigeria 'deadliest' place for Christians",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/us-designates-nigeria-as-deadliest-place-for-christians-nicki-minaj/a-76107415",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-24",
+      "lat": 26.9736,
+      "lng": 80.7462,
+      "country": "India",
+      "city": "Уттар-Прадеш",
+      "type": "murder",
+      "title": "Христианин family three allegedly butchered для ‘cursing’ relative converting",
+      "description": "Members христианин family were allegedly убит в Индии после extended family allegedly believed their обращение had caused illness в their family.",
+      "originalTitle": "Christian Family Of Three Allegedly Butchered For ‘Cursing’ Relative By Converting",
+      "source": "The Daily Caller",
+      "url": "https://dailycaller.com/2026/02/24/christian-family-killed-axe-curse-village-india-jitendra-soren/",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-24",
+      "lat": 35.7487,
+      "lng": 51.3084,
+      "country": "Iran",
+      "city": "Тегеран",
+      "type": "arrest",
+      "title": "Конверты из ислама арестованы во время тайного богослужения",
+      "description": "Событие произошло 24.02.2026. Требуется дополнительное подтверждение.",
+      "source": "Мониторинг гонений",
+      "url": "#",
+      "victims": 8
+    },
+    {
       "date": "2026-02-23",
       "lat": 30.9607,
       "lng": 120.8919,
@@ -148,6 +254,32 @@
       "source": "Wattsupwiththat.com",
       "url": "https://wattsupwiththat.com/2026/02/23/weekly-climate-and-energy-news-roundup-680/",
       "victims": 0
+    },
+    {
+      "date": "2026-02-23",
+      "lat": 36.4845,
+      "lng": 43.0311,
+      "country": "Iraq",
+      "city": "Мосул",
+      "type": "discrimination",
+      "title": "Христианские семьи получают угрозы от боевиков",
+      "description": "Событие произошло 23.02.2026. Требуется дополнительное подтверждение.",
+      "source": "Мониторинг гонений",
+      "url": "#",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-22",
+      "lat": 28.143,
+      "lng": 30.6939,
+      "country": "Egypt",
+      "city": "Минья",
+      "type": "attack",
+      "title": "Боевики обстреляли автобус с коптскими паломниками",
+      "description": "Событие произошло 22.02.2026. Требуется дополнительное подтверждение.",
+      "source": "Мониторинг гонений",
+      "url": "#",
+      "victims": 7
     },
     {
       "date": "2026-02-20",
