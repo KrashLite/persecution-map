@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "lastUpdated": "2026-03-01T21:54:01.447Z",
+    "lastUpdated": "2026-03-01T22:26:43.604Z",
     "version": "3.1",
-    "totalEvents": 22,
-    "archivedTotal": 22,
+    "totalEvents": 23,
+    "archivedTotal": 23,
     "updateMethod": "ARCHIVE_SYSTEM",
     "language": "ru"
   },
@@ -16,6 +16,19 @@
       "city": "Плато",
       "type": "murder",
       "title": "Вооруженные фулани зарезали 17 христиан в деревне",
+      "description": "Событие произошло 01.03.2026. Требуется дополнительное подтверждение.",
+      "source": "Мониторинг гонений",
+      "url": "#",
+      "victims": 17
+    },
+    {
+      "date": "2026-03-01",
+      "lat": 9.127,
+      "lng": 9.6412,
+      "country": "Nigeria",
+      "city": "Плато",
+      "type": "murder",
+      "title": "Вооружённые фулани убили 17 христиан в деревне",
       "description": "Событие произошло 01.03.2026. Требуется дополнительное подтверждение.",
       "source": "Мониторинг гонений",
       "url": "#",
