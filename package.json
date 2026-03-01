@@ -1,16 +1,11 @@
 {
   "name": "persecution-map",
-  "version": "1.1.0",
-  "description": "Interactive map of Christian persecutions with RSS parsing",
+  "version": "3.0.0",
+  "description": "Interactive map of Christian persecutions",
   "scripts": {
-    "update": "node js/update-data.js",
-    "test": "node -e \"console.log('Tests not implemented')\""
+    "update": "node news-api.js"
   },
   "dependencies": {
     "xml2js": "^0.6.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/krashlite/persecution-map.git"
   }
 }
