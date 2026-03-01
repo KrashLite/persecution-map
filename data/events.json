@@ -1,48 +1,173 @@
 {
   "metadata": {
-    "lastUpdated": "2026-03-01T07:47:15.039Z",
-    "version": "2.0",
-    "totalEvents": 0,
-    "sourcesChecked": 8,
-    "sourcesWorking": 0,
-    "errors": [
-      {
-        "country": "Nigeria",
-        "error": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
-      },
-      {
-        "country": "India",
-        "error": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
-      },
-      {
-        "country": "China",
-        "error": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
-      },
-      {
-        "country": "Pakistan",
-        "error": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
-      },
-      {
-        "country": "Iran",
-        "error": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
-      },
-      {
-        "country": "Iraq",
-        "error": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
-      },
-      {
-        "country": "Syria",
-        "error": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
-      },
-      {
-        "country": "Egypt",
-        "error": "You have made too many requests recently. Developer accounts are limited to 100 requests over a 24 hour period (50 requests available every 12 hours). Please upgrade to a paid plan if you need more requests."
-      }
-    ],
+    "lastUpdated": "2026-03-01T20:24:47.149Z",
+    "version": "2.1",
+    "totalEvents": 12,
+    "sourcesChecked": 4,
+    "sourcesWorking": 4,
+    "errors": [],
     "updateMethod": "NEWS_API",
     "rssSuccess": true,
     "language": "ru",
-    "archivedTotal": 0
+    "apiRequestsMade": 4,
+    "archivedTotal": 12
   },
-  "events": []
+  "events": [
+    {
+      "date": "2026-02-28",
+      "lat": 8.7483,
+      "lng": 8.0444,
+      "country": "Nigeria",
+      "city": "Абуджа",
+      "type": "attack",
+      "title": "Seven victims of plateau attacks get mass burial",
+      "description": "Seven victims of recent attacks in plateau state were given a mass burial in bassa lga as community leaders demand justice and an end to the violence. read more: https://punchng.com/seven-victims-of-plateau-attacks-get-mass-burial/",
+      "source": "The Punch",
+      "url": "https://punchng.com/seven-victims-of-plateau-attacks-get-mass-burial/",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-28",
+      "lat": 6.7343,
+      "lng": 4.0971,
+      "country": "Nigeria",
+      "city": "Лагос",
+      "type": "other",
+      "title": "Icymi: hfac joins appropriators in delivering joint report on христианин гонение in nigeria to the white house",
+      "description": "Following president trump's call-to-action and redesignation of nigeria as a country of particular concern (cpc), the house appropriations committee and house foreign affairs committee delivered a joint report on the гонение of христиане in nigeria t",
+      "source": "Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/02/mil-260226-house-cfa01.htm",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-28",
+      "lat": 11.2441,
+      "lng": 7.9128,
+      "country": "Nigeria",
+      "city": "Кадуна",
+      "type": "kidnapping",
+      "title": "Nigeria rejects claims it paid ransom and released islamists to secure похищено children",
+      "description": "A report by afp includes claims that nigeria paid as much as $7 million and released two boko haram commanders in exchange for the release of children and staff похищено from a catholic school.",
+      "source": "Christiantoday.com",
+      "url": "https://www.christiantoday.com/news/nigeria-rejects-claims-it-paid-ransom-and-released-islamists-to-secure-kidnapped-children",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-27",
+      "lat": 29.1071,
+      "lng": 76.6049,
+      "country": "India",
+      "city": "Дели",
+      "type": "murder",
+      "title": "3 христиане убито in india",
+      "description": "The христиане were accused of practising black magic before their murders.",
+      "source": "Christiantoday.com",
+      "url": "https://www.christiantoday.com/news/3-christians-murdered-in-india",
+      "victims": 3
+    },
+    {
+      "date": "2026-02-27",
+      "lat": 19.1007,
+      "lng": 72.5768,
+      "country": "India",
+      "city": "Мумбаи",
+      "type": "murder",
+      "title": "3 members of христианин family убито in india",
+      "description": "The христиане were accused of practising black magic before their murders.",
+      "source": "Christiantoday.com",
+      "url": "https://www.christiantoday.com/news/3-members-of-christian-family-murdered-in-india",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-27",
+      "lat": 31.3938,
+      "lng": 75.0257,
+      "country": "Pakistan",
+      "city": "Лахор",
+      "type": "other",
+      "title": "The 11 books our critics couldn't put down this summer",
+      "description": "Wondering what to read next? buzzy debuts, gripping thrillers and lyrical literary fiction are among our critics' latest recommendations.",
+      "source": "ABC News (AU)",
+      "url": "https://www.abc.net.au/news/2026-02-28/best-books-summer-what-to-read-next-julian-barnes-tim-ayliffe/106255824",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-26",
+      "lat": 20.9482,
+      "lng": 84.7376,
+      "country": "India",
+      "city": "Одиша",
+      "type": "other",
+      "title": "Thessaloniki international documentary festival announces full lineup, welcomes juliette binoche directorial debut",
+      "description": "Oscar-winning actress juliette binoche will be heading to the thessaloniki international documentary festival next month to screen her directorial debut, the nonfiction feature in-i in motion. that’s one of the highlights to emerge from a news confer",
+      "source": "Deadline",
+      "url": "http://deadline.com/2026/02/thessaloniki-international-documentary-festival-2026-lineup-1236736624/",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-26",
+      "lat": 33.4968,
+      "lng": 72.4711,
+      "country": "Pakistan",
+      "city": "Исламабад",
+      "type": "other",
+      "title": "Biblical writ and христианин zionism: mike huckabee, tucker carlson and israel",
+      "description": "It was good of mike huckabee, us ambassador to israel, to come clean with the witchery and superstition that marks the bible. when a text advocating genocide, ethnic cleansing and dubious real estate advice in the name of a … the post biblical writ a",
+      "source": "Globalresearch.ca",
+      "url": "https://www.globalresearch.ca/mike-huckabee-tucker-carlson-israel/5917172",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-24",
+      "lat": 39.5539,
+      "lng": 117.0292,
+      "country": "China",
+      "city": "Пекин",
+      "type": "other",
+      "title": "Gold price today: spot gold rate falls. here's what is impacting gold, silver",
+      "description": "Gold, seen as a safe store of value during economic and geopolitical uncertainty, also tends to perform well when interest rates are low.",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-today-spot-gold-rate-falls-heres-what-is-impacting-gold-silver/articleshow/128735297.cms",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-24",
+      "lat": 31.628,
+      "lng": 74.921,
+      "country": "Pakistan",
+      "city": "Лахор",
+      "type": "other",
+      "title": "Why americans must end america’s self-generating wars",
+      "description": "The most urgent political challenge to the world today is how to prevent the so-called “pax americana” from progressively degenerating, like the 19th-century so-called “pax britannica” before it, into major global warfare. the post why americans must",
+      "source": "Globalresearch.ca",
+      "url": "https://www.globalresearch.ca/why-americans-must-end-americas-self-generating-wars/5302680",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-23",
+      "lat": 30.9607,
+      "lng": 120.8919,
+      "country": "China",
+      "city": "Шанхай",
+      "type": "other",
+      "title": "Weekly climate and energy news roundup #680",
+      "description": "Quote of the week: “[scientists] have learned to respect nothing but evidence, and to believe that their highest duty lies in submitting to it however it may jar against their inclinations.” — thomas henry huxley, evidence as to man’s place in nature",
+      "source": "Wattsupwiththat.com",
+      "url": "https://wattsupwiththat.com/2026/02/23/weekly-climate-and-energy-news-roundup-680/",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-20",
+      "lat": 39.5888,
+      "lng": 116.2472,
+      "country": "China",
+      "city": "Пекин",
+      "type": "other",
+      "title": "The eternal law",
+      "description": "Nations gripped by antisemitism self-destruct. the eternal law took a pivotal turn when south africa and israel sent their diplomats packing. opinion.",
+      "source": "Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/422730",
+      "victims": 0
+    }
+  ]
 }
