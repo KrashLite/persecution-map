@@ -1,400 +1,336 @@
-// news-api.js — Профессиональная система перевода на русский
+// news-api.js — Профессиональный перевод с грамматикой
 const fs = require('fs');
 const path = require('path');
 const https = require('https');
 
 const NEWS_API_KEY = process.env.NEWS_API_KEY;
+if (!NEWS_API_KEY) { console.error('❌ NEWS_API_KEY не найден'); process.exit(1); }
 
-if (!NEWS_API_KEY) {
-    console.error('❌ NEWS_API_KEY не найден');
-    process.exit(1);
-}
-
-// ==================== РАСШИРЕННЫЙ СЛОВАРЬ ====================
-
+// Словарь с падежами [именительный, родительный, винительный, множественное]
 const DICTIONARY = {
-    // Основные термины
-    'christian': 'христианин',
-    'christians': 'христиане',
-    'christianity': 'христианство',
-    'church': 'церковь',
-    'churches': 'церкви',
-    'pastor': 'пастор',
-    'pastors': 'пасторы',
-    'priest': 'священник',
-    'priests': 'священники',
-    'bishop': 'епископ',
-    'clergy': 'духовенство',
-    'congregation': 'приход',
-    'congregations': 'приходы',
-    'worshippers': 'прихожане',
-    'believers': 'верующие',
-    'faithful': 'верующие',
-    'missionary': 'миссионер',
-    'missionaries': 'миссионеры',
-    'evangelist': 'евангелист',
-    'convert': 'обращенец',
-    'converts': 'обращенцы',
-    'copt': 'копт',
-    'copts': 'копты',
-    'coptic': 'коптский',
+    'christian': ['христианин', 'христианина', 'христиан', 'христиане'],
+    'christians': ['христиане', 'христиан', 'христиан', 'христиане'],
+    'church': ['церковь', 'церкви', 'церковь', 'церкви'],
+    'churches': ['церкви', 'церквей', 'церкви', 'церкви'],
+    'pastor': ['пастор', 'пастора', 'пастора', 'пасторы'],
+    'pastors': ['пасторы', 'пасторов', 'пасторов', 'пасторы'],
+    'priest': ['священник', 'священника', 'священника', 'священники'],
+    'priests': ['священники', 'священников', 'священников', 'священники'],
+    'congregation': ['приход', 'прихода', 'приход', 'приходы'],
+    'worshippers': ['прихожане', 'прихожан', 'прихожан', 'прихожане'],
+    'believers': ['верующие', 'верующих', 'верующих', 'верующие'],
     
-    // Действия (насилие)
-    'killed': 'убит',
-    'killing': 'убийство',
-    'killings': 'убийства',
-    'murdered': 'убит',
-    'murder': 'убийство',
-    'murders': 'убийства',
-    'massacre': 'резня',
-    'massacred': 'зарезан',
-    'slain': 'убит',
-    'slaughtered': 'забит',
-    'executed': 'казнен',
-    'execution': 'казнь',
-    'beheaded': 'обезглавлен',
-    'stoned': 'закаменован',
-    'crucified': 'распят',
-    'burned': 'сожжен',
-    'burning': 'сожжение',
-    'hanged': 'повешен',
-    'tortured': 'подвергнут пыткам',
-    'torture': 'пытки',
-    'martyred': 'убит за веру',
-    'martyrdom': 'мученичество',
-    'beaten': 'избит',
-    'whipped': 'порот',
-    'flogged': 'выпорот',
-    'mutilated': 'уродован',
-    'assassinated': 'убит',
+    // Действия
+    'killed': ['убит', 'убитого', 'убитого', 'убиты'],
+    'killing': ['убийство', 'убийства', 'убийство', 'убийства'],
+    'murdered': ['убит', 'убитого', 'убитого', 'убиты'],
+    'murder': ['убийство', 'убийства', 'убийство', 'убийства'],
+    'massacre': ['резня', 'резни', 'резню', 'резни'],
+    'massacred': ['зарезан', 'зарезанного', 'зарезанного', 'зарезаны'],
+    'slain': ['убит', 'убитого', 'убитого', 'убиты'],
+    'executed': ['казнён', 'казнённого', 'казнённого', 'казнены'],
+    'beheaded': ['обезглавлен', 'обезглавленного', 'обезглавленного', 'обезглавлены'],
+    'stoned': ['закаменован', 'закаменованного', 'закаменованного', 'закаменованы'],
+    'burned': ['сожжён', 'сожжённого', 'сожжённого', 'сожжены'],
+    'tortured': ['подвергнут пыткам', 'подвергнутого пыткам', 'подвергнутого пыткам', 'подвергнуты пыткам'],
+    'martyred': ['убит за веру', 'убитого за веру', 'убитого за веру', 'убиты за веру'],
+    'beaten': ['избит', 'избитого', 'избитого', 'избиты'],
+    'whipped': ['порот', 'поротого', 'поротого', 'пороты'],
     
-    // Действия (нападения)
-    'attacked': 'атакован',
-    'attack': 'нападение',
-    'attacks': 'нападения',
-    'attacking': 'атакующий',
-    'ambushed': 'засаду',
-    'raid': 'рейд',
-    'raided': 'подвергнут рейду',
-    'stormed': 'штурмован',
-    'bomb': 'взрыв',
-    'bombed': 'взорван',
-    'bombing': 'взрыв',
-    'explosion': 'взрыв',
-    'exploded': 'взорван',
-    'shooting': 'стрельба',
-    'shot': 'застрелен',
-    'fired': 'обстрелян',
-    'gunmen': 'боевики',
-    'gunman': 'боевик',
-    'militants': 'боевики',
-    'militant': 'боевик',
-    'terrorists': 'террористы',
-    'terrorist': 'террорист',
-    'extremists': 'экстремисты',
-    'insurgents': 'повстанцы',
-    'rebels': 'повстанцы',
-    'kidnapped': 'похищен',
-    'kidnapping': 'похищение',
-    'abducted': 'похищен',
-    'abduction': 'похищение',
-    'hostage': 'заложник',
-    'hostages': 'заложники',
-    'captive': 'пленник',
-    'ransom': 'выкуп',
+    // Нападения
+    'attacked': ['атакован', 'атакованного', 'атакованного', 'атакованы'],
+    'attack': ['нападение', 'нападения', 'нападение', 'нападения'],
+    'attacks': ['нападения', 'нападений', 'нападения', 'нападения'],
+    'ambushed': ['подвергнут засаде', 'подвергнутого засаде', 'подвергнутого засаде', 'подвергнуты засаде'],
+    'raid': ['рейд', 'рейда', 'рейд', 'рейды'],
+    'raided': ['подвергнут рейду', 'подвергнутого рейду', 'подвергнутого рейду', 'подвергнуты рейду'],
+    'stormed': ['штурмован', 'штурмованного', 'штурмованного', 'штурмованы'],
+    'bomb': ['взрыв', 'взрыва', 'взрыв', 'взрывы'],
+    'bombed': ['взорван', 'взорванного', 'взорванного', 'взорваны'],
+    'bombing': ['взрыв', 'взрыва', 'взрыв', 'взрывы'],
+    'explosion': ['взрыв', 'взрыва', 'взрыв', 'взрывы'],
+    'shooting': ['стрельба', 'стрельбы', 'стрельбу', 'перестрелки'],
+    'shot': ['застрелен', 'застреленного', 'застреленного', 'застрелены'],
+    'gunmen': ['боевики', 'боевиков', 'боевиков', 'боевики'],
+    'militants': ['боевики', 'боевиков', 'боевиков', 'боевики'],
+    'terrorists': ['террористы', 'террористов', 'террористов', 'террористы'],
+    'extremists': ['экстремисты', 'экстремистов', 'экстремистов', 'экстремисты'],
+    'insurgents': ['повстанцы', 'повстанцев', 'повстанцев', 'повстанцы'],
+    'rebels': ['повстанцы', 'повстанцев', 'повстанцев', 'повстанцы'],
     
-    // Действия (аресты)
-    'arrested': 'арестован',
-    'arrest': 'арест',
-    'arrests': 'аресты',
-    'detained': 'задержан',
-    'detention': 'задержание',
-    'imprisoned': 'заключен',
-    'imprisonment': 'заключение',
-    'jailed': 'заключен',
-    'prison': 'тюрьма',
-    'sentenced': 'приговорен',
-    'sentence': 'приговор',
-    'convicted': 'осужден',
-    'trial': 'суд',
-    'court': 'суд',
-    'charged': 'обвинен',
-    'charges': 'обвинения',
-    'interrogated': 'допрошен',
-    'tortured confession': 'выбитые показания',
+    // Похищения
+    'kidnapped': ['похищен', 'похищенного', 'похищенного', 'похищены'],
+    'kidnapping': ['похищение', 'похищения', 'похищение', 'похищения'],
+    'abducted': ['похищен', 'похищенного', 'похищенного', 'похищены'],
+    'abduction': ['похищение', 'похищения', 'похищение', 'похищения'],
+    'hostage': ['заложник', 'заложника', 'заложника', 'заложники'],
+    'hostages': ['заложники', 'заложников', 'заложников', 'заложники'],
+    'captive': ['пленник', 'пленника', 'пленника', 'пленники'],
+    'ransom': ['выкуп', 'выкупа', 'выкуп', 'выкупы'],
     
-    // Действия (дискриминация)
-    'discrimination': 'дискриминация',
-    'discriminated': 'подвергнут дискриминации',
-    'persecution': 'гонение',
-    'persecuted': 'преследуемый',
-    'harassed': 'преследуемый',
-    'harassment': 'преследование',
-    'intimidated': 'запуган',
-    'threatened': 'угрожали',
-    'threats': 'угрозы',
-    'forced': 'вынужден',
-    'coerced': 'принужден',
-    'expelled': 'выслан',
-    'deported': 'депортирован',
-    'displaced': 'перемещен',
-    'refugee': 'беженец',
-    'refugees': 'беженцы',
-    'asylum': 'убежище',
+    // Аресты
+    'arrested': ['арестован', 'арестованного', 'арестованного', 'арестованы'],
+    'arrest': ['арест', 'ареста', 'арест', 'аресты'],
+    'arrests': ['аресты', 'арестов', 'аресты', 'аресты'],
+    'detained': ['задержан', 'задержанного', 'задержанного', 'задержаны'],
+    'detention': ['задержание', 'задержания', 'задержание', 'задержания'],
+    'imprisoned': ['заключён', 'заключённого', 'заключённого', 'заключены'],
+    'jailed': ['заключён', 'заключённого', 'заключённого', 'заключены'],
+    'prison': ['тюрьма', 'тюрьмы', 'тюрьму', 'тюрьмы'],
+    'sentenced': ['приговорён', 'приговорённого', 'приговорённого', 'приговорены'],
+    'sentence': ['приговор', 'приговора', 'приговор', 'приговоры'],
+    'convicted': ['осуждён', 'осуждённого', 'осуждённого', 'осуждены'],
+    'trial': ['суд', 'суда', 'суд', 'суды'],
+    'court': ['суд', 'суда', 'суд', 'суды'],
+    'charged': ['обвинён', 'обвинённого', 'обвинённого', 'обвинены'],
+    'charges': ['обвинения', 'обвинений', 'обвинения', 'обвинения'],
+    'interrogated': ['допрошен', 'допрошенного', 'допрошенного', 'допрошены'],
     
-    // Разрушение/закрытие
-    'destroyed': 'разрушен',
-    'destruction': 'разрушение',
-    'damaged': 'поврежден',
-    'burned down': 'сожжен дотла',
-    'torched': 'подожжен',
-    'looted': 'разграблен',
-    'vandalized': 'разгромлен',
-    'desecrated': 'осквернен',
-    'closed': 'закрыт',
-    'closure': 'закрытие',
-    'shut down': 'закрыт',
-    'sealed': 'опечатан',
-    'demolished': 'снесен',
-    'razed': 'сровнен с землей',
-    'confiscated': 'конфискован',
-    'banned': 'запрещен',
-    'outlawed': 'запрещен',
-    'restricted': 'ограничен',
-    'denied': 'отказано',
-    'refused': 'отказано',
-    'prohibited': 'запрещено',
+    // Дискриминация
+    'discrimination': ['дискриминация', 'дискриминации', 'дискриминацию', 'дискриминации'],
+    'discriminated': ['подвергнут дискриминации', 'подвергнутого дискриминации', 'подвергнутого дискриминации', 'подвергнуты дискриминации'],
+    'persecution': ['гонение', 'гонения', 'гонение', 'гонения'],
+    'persecuted': ['преследуемый', 'преследуемого', 'преследуемого', 'преследуемые'],
+    'harassed': ['преследуемый', 'преследуемого', 'преследуемого', 'преследуемые'],
+    'harassment': ['преследование', 'преследования', 'преследование', 'преследования'],
+    'intimidated': ['запуган', 'запуганного', 'запуганного', 'запуганы'],
+    'threatened': ['угрожали', 'угрожавшего', 'угрожавшего', 'угрожали'],
+    'threats': ['угрозы', 'угроз', 'угрозы', 'угрозы'],
+    'forced': ['вынужден', 'вынужденного', 'вынужденного', 'вынуждены'],
+    'coerced': ['принуждён', 'принуждённого', 'принуждённого', 'принуждены'],
+    'expelled': ['выслан', 'высланного', 'высланного', 'высланы'],
+    'displaced': ['перемещён', 'перемещённого', 'перемещённого', 'перемещены'],
+    'refugee': ['беженец', 'беженца', 'беженца', 'беженцы'],
+    'refugees': ['беженцы', 'беженцев', 'беженцев', 'беженцы'],
+    'asylum': ['убежище', 'убежища', 'убежище', 'убежища'],
     
-    // Группы/организации
-    'isis': 'ИГИЛ',
-    'islamic state': 'Исламское государство',
-    'boko haram': 'Боко Харам',
-    'al-qaeda': 'Аль-Каида',
-    'taliban': 'Талибан',
-    'fulani': 'фулани',
-    'herdsmen': 'пастухи',
-    'militia': 'ополчение',
-    'mob': 'толпа',
-    'crowd': 'толпа',
-    'vigilantes': 'дружинники',
-    'police': 'полиция',
-    'security forces': 'силы безопасности',
-    'army': 'армия',
-    'military': 'военные',
-    'government': 'правительство',
-    'authorities': 'власти',
-    'officials': 'чиновники',
+    // Разрушение
+    'destroyed': ['разрушен', 'разрушенного', 'разрушенного', 'разрушены'],
+    'destruction': ['разрушение', 'разрушения', 'разрушение', 'разрушения'],
+    'damaged': ['повреждён', 'повреждённого', 'повреждённого', 'повреждены'],
+    'burned down': ['сожжён дотла', 'сожжённого дотла', 'сожжённого дотла', 'сожжены дотла'],
+    'torched': ['подожжён', 'подожжённого', 'подожжённого', 'подожжены'],
+    'looted': ['разграблен', 'разграбленного', 'разграбленного', 'разграблены'],
+    'vandalized': ['разгромлен', 'разгромленного', 'разгромленного', 'разгромлены'],
+    'desecrated': ['осквернён', 'осквернённого', 'осквернённого', 'осквернены'],
+    'closed': ['закрыт', 'закрытого', 'закрытого', 'закрыты'],
+    'closure': ['закрытие', 'закрытия', 'закрытие', 'закрытия'],
+    'shut down': ['закрыт', 'закрытого', 'закрытого', 'закрыты'],
+    'sealed': ['опечатан', 'опечатанного', 'опечатанного', 'опечатаны'],
+    'demolished': ['снесён', 'снесённого', 'снесённого', 'снесены'],
+    'razed': ['сровнён с землёй', 'сровнённого с землёй', 'сровнённого с землёй', 'сровнены с землёй'],
+    'confiscated': ['конфискован', 'конфискованного', 'конфискованного', 'конфискованы'],
+    'banned': ['запрещён', 'запрещённого', 'запрещённого', 'запрещены'],
+    'outlawed': ['запрещён', 'запрещённого', 'запрещённого', 'запрещены'],
+    'restricted': ['ограничен', 'ограниченного', 'ограниченного', 'ограничены'],
+    'denied': ['отказано', 'отказанного', 'отказанного', 'отказано'],
+    'refused': ['отказано', 'отказанного', 'отказанного', 'отказано'],
+    'prohibited': ['запрещено', 'запрещённого', 'запрещённого', 'запрещено'],
     
-    // Религиозные термины
-    'islam': 'ислам',
-    'islamic': 'исламский',
-    'muslim': 'мусульманин',
-    'muslims': 'мусульмане',
-    'hindu': 'индус',
-    'hindus': 'индусы',
-    'hinduism': 'индуизм',
-    'buddhist': 'буддист',
-    'communist': 'коммунист',
-    'atheist': 'атеист',
-    'secular': 'светский',
-    'religious': 'религиозный',
-    'religion': 'религия',
-    'faith': 'вера',
-    'blasphemy': 'богохульство',
-    'apostasy': 'отступничество',
-    'conversion': 'обращение',
-    'proselytizing': 'прозелитизм',
-    'worship': 'богослужение',
-    'prayer': 'молитва',
-    'praying': 'молящийся',
-    'bible': 'Библия',
-    'cross': 'крест',
+    // Группы
+    'isis': ['ИГИЛ', 'ИГИЛ', 'ИГИЛ', 'ИГИЛ'],
+    'islamic state': ['Исламское государство', 'Исламского государства', 'Исламское государство', 'Исламское государство'],
+    'boko haram': ['Боко Харам', 'Боко Харам', 'Боко Харам', 'Боко Харам'],
+    'al-qaeda': ['Аль-Каида', 'Аль-Каиды', 'Аль-Каиду', 'Аль-Каида'],
+    'taliban': ['Талибан', 'Талибана', 'Талибан', 'Талибан'],
+    'fulani': ['фулани', 'фулани', 'фулани', 'фулани'],
+    'herdsmen': ['пастухи', 'пастухов', 'пастухов', 'пастухи'],
+    'militia': ['ополчение', 'ополчения', 'ополчение', 'ополчения'],
+    'mob': ['толпа', 'толпы', 'толпу', 'толпы'],
+    'vigilantes': ['дружинники', 'дружинников', 'дружинников', 'дружинники'],
+    'police': ['полиция', 'полиции', 'полицию', 'полиции'],
+    'security forces': ['силы безопасности', 'сил безопасности', 'силы безопасности', 'силы безопасности'],
+    'army': ['армия', 'армии', 'армию', 'армии'],
+    'military': ['военные', 'военных', 'военных', 'военные'],
+    'government': ['правительство', 'правительства', 'правительство', 'правительства'],
+    'authorities': ['власти', 'властей', 'власти', 'власти'],
+    'officials': ['чиновники', 'чиновников', 'чиновников', 'чиновники'],
+    
+    // Религия
+    'islam': ['ислам', 'ислама', 'ислам', 'ислам'],
+    'islamic': ['исламский', 'исламского', 'исламский', 'исламские'],
+    'muslim': ['мусульманин', 'мусульманина', 'мусульманина', 'мусульмане'],
+    'muslims': ['мусульмане', 'мусульман', 'мусульман', 'мусульмане'],
+    'hindu': ['индус', 'индуса', 'индуса', 'индусы'],
+    'hindus': ['индусы', 'индусов', 'индусов', 'индусы'],
+    'hinduism': ['индуизм', 'индуизма', 'индуизм', 'индуизм'],
+    'buddhist': ['буддист', 'буддиста', 'буддиста', 'буддисты'],
+    'communist': ['коммунист', 'коммуниста', 'коммуниста', 'коммунисты'],
+    'atheist': ['атеист', 'атеиста', 'атеиста', 'атеисты'],
+    'religious': ['религиозный', 'религиозного', 'религиозный', 'религиозные'],
+    'religion': ['религия', 'религии', 'религию', 'религии'],
+    'faith': ['вера', 'веры', 'веру', 'веры'],
+    'blasphemy': ['богохульство', 'богохульства', 'богохульство', 'богохульства'],
+    'apostasy': ['отступничество', 'отступничества', 'отступничество', 'отступничества'],
+    'conversion': ['обращение', 'обращения', 'обращение', 'обращения'],
+    'proselytizing': ['прозелитизм', 'прозелитизма', 'прозелитизм', 'прозелитизм'],
+    'worship': ['богослужение', 'богослужения', 'богослужение', 'богослужения'],
+    'prayer': ['молитва', 'молитвы', 'молитву', 'молитвы'],
+    'praying': ['молящийся', 'молящегося', 'молящегося', 'молящиеся'],
+    'bible': ['Библия', 'Библии', 'Библию', 'Библии'],
+    'cross': ['крест', 'креста', 'крест', 'кресты'],
     
     // Места
-    'mosque': 'мечеть',
-    'temple': 'храм',
-    'shrine': 'святыня',
-    'cemetery': 'кладбище',
-    'graveyard': 'кладбище',
-    'hospital': 'больница',
-    'school': 'школа',
-    'orphanage': 'приют',
-    'compound': 'комплекс',
-    'village': 'деревня',
-    'town': 'поселок',
-    'city': 'город',
-    'region': 'регион',
-    'province': 'провинция',
-    'state': 'штат',
-    'district': 'район',
-    'county': 'округ',
-    'neighborhood': 'район',
-    'suburb': 'пригород',
-    'settlement': 'поселение',
-    'camp': 'лагерь',
-    'refugee camp': 'лагерь беженцев',
-    'idp camp': 'лагерь внутренне перемещенных лиц',
+    'mosque': ['мечеть', 'мечети', 'мечеть', 'мечети'],
+    'temple': ['храм', 'храма', 'храм', 'храмы'],
+    'shrine': ['святыня', 'святыни', 'святыню', 'святыни'],
+    'cemetery': ['кладбище', 'кладбища', 'кладбище', 'кладбища'],
+    'graveyard': ['кладбище', 'кладбища', 'кладбище', 'кладбища'],
+    'hospital': ['больница', 'больницы', 'больницу', 'больницы'],
+    'school': ['школа', 'школы', 'школу', 'школы'],
+    'orphanage': ['приют', 'приюта', 'приют', 'приюты'],
+    'compound': ['комплекс', 'комплекса', 'комплекс', 'комплексы'],
+    'village': ['деревня', 'деревни', 'деревню', 'деревни'],
+    'town': ['посёлок', 'посёлка', 'посёлок', 'посёлки'],
+    'city': ['город', 'города', 'город', 'города'],
+    'region': ['регион', 'региона', 'регион', 'регионы'],
+    'province': ['провинция', 'провинции', 'провинцию', 'провинции'],
+    'state': ['штат', 'штата', 'штат', 'штаты'],
+    'district': ['район', 'района', 'район', 'районы'],
+    'county': ['округ', 'округа', 'округ', 'округа'],
+    'neighborhood': ['район', 'района', 'район', 'районы'],
+    'suburb': ['пригород', 'пригорода', 'пригород', 'пригороды'],
+    'settlement': ['поселение', 'поселения', 'поселение', 'поселения'],
+    'camp': ['лагерь', 'лагеря', 'лагерь', 'лагеря'],
+    'refugee camp': ['лагерь беженцев', 'лагеря беженцев', 'лагерь беженцев', 'лагеря беженцев'],
     
     // Люди/количества
-    'people': 'люди',
-    'persons': 'лица',
-    'individuals': 'люди',
-    'victims': 'жертвы',
-    'casualties': 'пострадавшие',
-    'dead': 'погибшие',
-    'death': 'смерть',
-    'deaths': 'смерти',
-    'died': 'погиб',
-    'injured': 'ранен',
-    'injuries': 'ранения',
-    'wounded': 'ранен',
-    'survived': 'выжил',
-    'missing': 'пропавший без вести',
-    'feared dead': 'предположительно погиб',
-    'confirmed dead': 'подтверждено погибшим',
-    'including': 'включая',
-    'among': 'среди',
-    'least': 'как минимум',
-    'over': 'более',
-    'more than': 'более',
-    'up to': 'до',
-    'dozens': 'десятки',
-    'scores': 'множество',
-    'hundreds': 'сотни',
-    'thousands': 'тысячи',
-    'families': 'семьи',
-    'children': 'дети',
-    'women': 'женщины',
-    'men': 'мужчины',
-    'elderly': 'пожилые',
-    'minor': 'несовершеннолетний',
-    'minors': 'несовершеннолетние',
+    'people': ['люди', 'людей', 'людей', 'люди'],
+    'persons': ['лица', 'лиц', 'лиц', 'лица'],
+    'individuals': ['люди', 'людей', 'людей', 'люди'],
+    'victims': ['жертвы', 'жертв', 'жертв', 'жертвы'],
+    'casualties': ['пострадавшие', 'пострадавших', 'пострадавших', 'пострадавшие'],
+    'dead': ['погибшие', 'погибших', 'погибших', 'погибшие'],
+    'death': ['смерть', 'смерти', 'смерть', 'смерти'],
+    'deaths': ['смерти', 'смертей', 'смерти', 'смерти'],
+    'died': ['погиб', 'погибшего', 'погибшего', 'погибли'],
+    'injured': ['ранен', 'раненного', 'раненного', 'ранены'],
+    'injuries': ['ранения', 'ранений', 'ранения', 'ранения'],
+    'wounded': ['ранен', 'раненного', 'раненного', 'ранены'],
+    'survived': ['выжил', 'выжившего', 'выжившего', 'выжили'],
+    'missing': ['пропавший без вести', 'пропавшего без вести', 'пропавшего без вести', 'пропавшие без вести'],
+    'families': ['семьи', 'семей', 'семей', 'семьи'],
+    'children': ['дети', 'детей', 'детей', 'дети'],
+    'women': ['женщины', 'женщин', 'женщин', 'женщины'],
+    'men': ['мужчины', 'мужчин', 'мужчин', 'мужчины'],
+    'elderly': ['пожилые', 'пожилых', 'пожилых', 'пожилые'],
+    'minor': ['несовершеннолетний', 'несовершеннолетнего', 'несовершеннолетнего', 'несовершеннолетние'],
+    'minors': ['несовершеннолетние', 'несовершеннолетних', 'несовершеннолетних', 'несовершеннолетние'],
     
-    // Временные метки
-    'today': 'сегодня',
-    'yesterday': 'вчера',
-    'last week': 'на прошлой неделе',
-    'last month': 'в прошлом месяце',
-    'this week': 'на этой неделе',
-    'recently': 'недавно',
-    'earlier': 'ранее',
-    'reported': 'сообщается',
-    'confirmed': 'подтверждено',
-    'alleged': 'предполагаемый',
-    'suspected': 'подозреваемый',
-    'claimed': 'утверждается',
-    'according to': 'по данным',
-    'sources say': 'источники сообщают',
-    'unconfirmed reports': 'неподтвержденные сообщения',
+    // Время
+    'today': ['сегодня', 'сегодня', 'сегодня', 'сегодня'],
+    'yesterday': ['вчера', 'вчера', 'вчера', 'вчера'],
+    'recently': ['недавно', 'недавно', 'недавно', 'недавно'],
+    'reported': ['сообщается', 'сообщается', 'сообщается', 'сообщается'],
+    'confirmed': ['подтверждено', 'подтверждено', 'подтверждено', 'подтверждено'],
     
     // Прилагательные
-    'armed': 'вооруженный',
-    'violent': 'насильственный',
-    'deadly': 'смертельный',
-    'brutal': 'жестокий',
-    'suspected': 'подозреваемый',
-    'alleged': 'предполагаемый',
-    'reported': 'сообщенный',
-    'unidentified': 'неопознанный',
-    'masked': 'в масках',
-    'heavily armed': 'тяжеловооруженный',
-    'suspected islamist': 'предполагаемый исламист',
-    'radical': 'радикальный',
-    'extremist': 'экстремистский',
+    'armed': ['вооружённый', 'вооружённого', 'вооружённого', 'вооружённые'],
+    'violent': ['насильственный', 'насильственного', 'насильственный', 'насильственные'],
+    'deadly': ['смертельный', 'смертельного', 'смертельный', 'смертельные'],
+    'brutal': ['жестокий', 'жестокого', 'жестокий', 'жестокие'],
+    'suspected': ['подозреваемый', 'подозреваемого', 'подозреваемого', 'подозреваемые'],
+    'alleged': ['предполагаемый', 'предполагаемого', 'предполагаемый', 'предполагаемые'],
+    'unidentified': ['неопознанный', 'неопознанного', 'неопознанный', 'неопознанные'],
+    'masked': ['в масках', 'в масках', 'в масках', 'в масках'],
+    'radical': ['радикальный', 'радикального', 'радикальный', 'радикальные'],
+    'extremist': ['экстремистский', 'экстремистского', 'экстремистский', 'экстремистские'],
     
     // Прочее
-    'following': 'в результате',
-    'after': 'после',
-    'during': 'во время',
-    'while': 'в то время как',
-    'where': 'где',
-    'when': 'когда',
-    'said': 'сказал',
-    'stated': 'заявил',
-    'claimed': 'заявил',
-    'reported': 'сообщил',
-    'confirmed': 'подтвердил',
-    'announced': 'объявил',
-    'warned': 'предупредил',
-    'appealed': 'обратился',
-    'urged': 'призвал',
-    'called for': 'призвал к',
-    'demanded': 'потребовал',
-    'condemned': 'осудил',
-    'criticized': 'раскритиковал',
-    'accused': 'обвинил',
-    'charged with': 'обвинен в',
-    'investigating': 'расследует',
-    'probe': 'расследование',
-    'inquiry': 'расследование'
+    'following': ['в результате', 'в результате', 'в результате', 'в результате'],
+    'after': ['после', 'после', 'после', 'после'],
+    'during': ['во время', 'во время', 'во время', 'во время'],
+    'according to': ['по данным', 'по данным', 'по данным', 'по данным'],
+    'sources said': ['источники сообщили', 'источники сообщили', 'источники сообщили', 'источники сообщили'],
+    'local sources': ['местные источники', 'местных источников', 'местные источники', 'местные источники'],
+    'security sources': ['источники в силах безопасности', 'источников в силах безопасности', 'источники в силах безопасности', 'источники в силах безопасности'],
+    'church officials': ['церковные чиновники', 'церковных чиновников', 'церковные чиновники', 'церковные чиновники'],
+    'government officials': ['правительственные чиновники', 'правительственных чиновников', 'правительственные чиновники', 'правительственные чиновники'],
+    'at least': ['как минимум', 'как минимум', 'как минимум', 'как минимум'],
+    'as many as': ['до', 'до', 'до', 'до'],
+    'up to': ['до', 'до', 'до', 'до'],
+    'including': ['включая', 'включая', 'включая', 'включая'],
+    'among': ['среди', 'среди', 'среди', 'среди'],
+    'dozens': ['десятки', 'десятков', 'десятки', 'десятки'],
+    'scores': ['множество', 'множества', 'множество', 'множества'],
+    'hundreds': ['сотни', 'сотен', 'сотни', 'сотни'],
+    'thousands': ['тысячи', 'тысяч', 'тысячи', 'тысячи']
 };
 
-// Фразовые шаблоны (целые конструкции)
-const PHRASES = {
-    'were killed': 'были убиты',
-    'was killed': 'был убит',
-    'have been killed': 'были убиты',
-    'has been killed': 'был убит',
-    'were attacked': 'были атакованы',
-    'was attacked': 'был атакован',
-    'were arrested': 'были арестованы',
-    'was arrested': 'был арестован',
-    'were detained': 'были задержаны',
-    'was detained': 'был задержан',
-    'were kidnapped': 'были похищены',
-    'was kidnapped': 'был похищен',
-    'were abducted': 'были похищены',
-    'was abducted': 'был похищен',
-    'were tortured': 'были подвергнуты пыткам',
-    'was tortured': 'был подвергнут пыткам',
-    'were beaten': 'были избиты',
-    'was beaten': 'был избит',
-    'were burned': 'были сожжены',
-    'was burned': 'был сожжен',
-    'were destroyed': 'были разрушены',
-    'was destroyed': 'был разрушен',
-    'were closed': 'были закрыты',
-    'was closed': 'был закрыт',
-    'were forced': 'были вынуждены',
-    'was forced': 'был вынужден',
-    'have been forced': 'были вынуждены',
-    'has been forced': 'был вынужден',
-    'are being': 'находятся',
-    'is being': 'находится',
-    'have been': 'были',
-    'has been': 'был',
-    'were being': 'находились',
-    'was being': 'находился',
-    'according to': 'по данным',
-    'sources said': 'источники сообщили',
-    'local sources': 'местные источники',
-    'security sources': 'источники в силах безопасности',
-    'church officials': 'церковные чиновники',
-    'government officials': 'правительственные чиновники',
-    'on condition of anonymity': 'на условиях анонимности',
-    'spoke on condition': 'выступил на условиях',
-    'fear of persecution': 'страх преследований',
-    'fearing for their lives': 'опасаясь за свою жизнь',
-    'in critical condition': 'в критическом состоянии',
-    'receiving treatment': 'получают лечение',
-    'at least': 'как минимум',
-    'as many as': 'до',
-    'up to': 'до',
-    'confirmed dead': 'подтверждено погибшими',
-    'feared dead': 'предположительно погибшие',
-    'still missing': 'все еще пропавшие без вести',
-    'sustained injuries': 'получили ранения',
-    'sustained serious injuries': 'получили серьезные ранения',
-    'suffered injuries': 'пострадали',
-    'died from injuries': 'скончались от ран',
-    'died at the scene': 'скончались на месте',
-    'pronounced dead': 'признаны погибшими',
-    'death toll': 'число погибших',
-    'toll rises': 'число погибших растет',
-    'toll expected to rise': 'ожидается рост числа погибших'
-};
+// Фразовые шаблоны (целые конструкции с правильным порядком слов)
+const PHRASE_PATTERNS = [
+    // Пассивные конструкции
+    { pattern: /(\d+)\s+christians\s+were\s+killed/i, replace: 'Убиты $1 христианина' },
+    { pattern: /(\d+)\s+christians?\s+were\s+attacked/i, replace: 'Атакованы $1 христианина' },
+    { pattern: /(\d+)\s+christians?\s+were\s+arrested/i, replace: 'Арестованы $1 христианина' },
+    { pattern: /(\d+)\s+christians?\s+were\s+kidnapped/i, replace: 'Похищены $1 христианина' },
+    { pattern: /(\d+)\s+christians?\s+were\s+abducted/i, replace: 'Похищены $1 христианина' },
+    { pattern: /(\d+)\s+christians?\s+were\s+detained/i, replace: 'Задержаны $1 христианина' },
+    { pattern: /christians?\s+were\s+killed/i, replace: 'Христиане убиты' },
+    { pattern: /christians?\s+were\s+attacked/i, replace: 'Христиане атакованы' },
+    { pattern: /christians?\s+were\s+arrested/i, replace: 'Христиане арестованы' },
+    { pattern: /christians?\s+were\s+kidnapped/i, replace: 'Христиане похищены' },
+    { pattern: /christians?\s+were\s+detained/i, replace: 'Христиане задержаны' },
+    { pattern: /christians?\s+were\s+forced/i, replace: 'Христиане вынуждены' },
+    
+    // Активные конструкции
+    { pattern: /gunmen\s+killed\s+(\d+)\s+christians?/i, replace: 'Боевики убили $1 христианина' },
+    { pattern: /gunmen\s+attacked\s+christians?/i, replace: 'Боевики атаковали христиан' },
+    { pattern: /militants\s+killed\s+(\d+)\s+christians?/i, replace: 'Боевики убили $1 христианина' },
+    { pattern: /terrorists\s+killed\s+(\d+)\s+christians?/i, replace: 'Террористы убили $1 христианина' },
+    { pattern: /boko\s+haram\s+kidnapped/i, replace: 'Боко Харам похитил' },
+    { pattern: /boko\s+haram\s+killed/i, replace: 'Боко Харам убил' },
+    { pattern: /isis\s+killed/i, replace: 'ИГИЛ убил' },
+    { pattern: /fulani\s+herdsmen\s+attacked/i, replace: 'Пастухи фулани атаковали' },
+    { pattern: /fulani\s+herdsmen\s+killed/i, replace: 'Пастухи фулани убили' },
+    
+    // Церкви
+    { pattern: /church\s+was\s+attacked/i, replace: 'Церковь атакована' },
+    { pattern: /church\s+was\s+bombed/i, replace: 'Церковь взорвана' },
+    { pattern: /church\s+was\s+burned/i, replace: 'Церковь сожжена' },
+    { pattern: /church\s+was\s+destroyed/i, replace: 'Церковь разрушена' },
+    { pattern: /church\s+was\s+closed/i, replace: 'Церковь закрыта' },
+    { pattern: /churches?\s+were\s+attacked/i, replace: 'Церкви атакованы' },
+    { pattern: /churches?\s+were\s+destroyed/i, replace: 'Церкви разрушены' },
+    { pattern: /churches?\s+were\s+closed/i, replace: 'Церкви закрыты' },
+    
+    // Пасторы/священники
+    { pattern: /pastor\s+was\s+killed/i, replace: 'Пастор убит' },
+    { pattern: /pastor\s+was\s+kidnapped/i, replace: 'Пастор похищен' },
+    { pattern: /pastor\s+was\s+arrested/i, replace: 'Пастор арестован' },
+    { pattern: /pastors?\s+were\s+killed/i, replace: 'Пасторы убиты' },
+    { pattern: /pastors?\s+were\s+arrested/i, replace: 'Пасторы арестованы' },
+    { pattern: /priest\s+was\s+killed/i, replace: 'Священник убит' },
+    { pattern: /priests?\s+were\s+killed/i, replace: 'Священники убиты' },
+    
+    // Общие фразы
+    { pattern: /killed\s+in\s+attack/i, replace: 'убит в нападении' },
+    { pattern: /killed\s+in\s+shooting/i, replace: 'убит в перестрелке' },
+    { pattern: /killed\s+in\s+bombing/i, replace: 'убит во взрыве' },
+    { pattern: /died\s+from\s+injuries/i, replace: 'скончался от ран' },
+    { pattern: /sustained\s+injuries/i, replace: 'получил ранения' },
+    { pattern: /sustained\s+serious\s+injuries/i, replace: 'получил серьёзные ранения' },
+    { pattern: /critical\s+condition/i, replace: 'критическое состояние' },
+    { pattern: /receiving\s+treatment/i, replace: 'получает лечение' },
+    { pattern: /mass\s+burial/i, replace: 'массовое захоронение' },
+    { pattern: /forced\s+to/i, replace: 'вынуждены' },
+    { pattern: /on\s+condition\s+of\s+anonymity/i, replace: 'на условиях анонимности' },
+    { pattern: /according\s+to\s+local\s+sources/i, replace: 'по данным местных источников' },
+    { pattern: /security\s+sources\s+said/i, replace: 'сообщили источники в силах безопасности' },
+    { pattern: /government\s+officials\s+said/i, replace: 'заявили правительственные чиновники' },
+    { pattern: /fear\s+of\s+persecution/i, replace: 'страх преследований' },
+    { pattern: /fearing\s+for\s+their\s+lives/i, replace: 'опасаясь за свою жизнь' },
+    { pattern: /death\s+toll/i, replace: 'число погибших' },
+    { pattern: /toll\s+rises/i, replace: 'растёт число погибших' },
+    { pattern: /toll\s+expected\s+to\s+rise/i, replace: 'ожидается рост числа погибших' },
+    { pattern: /at\s+least\s+(\d+)/i, replace: 'как минимум $1' },
+    { pattern: /as\s+many\s+as\s+(\d+)/i, replace: 'до $1' },
+    { pattern: /up\s+to\s+(\d+)/i, replace: 'до $1' },
+    { pattern: /more\s+than\s+(\d+)/i, replace: 'более $1' },
+    { pattern: /over\s+(\d+)/i, replace: 'более $1' }
+];
 
-// Стоп-слова (пропускаем эти новости)
+// Стоп-слова
 const STOP_WORDS = [
     'gold price', 'bitcoin', 'crypto', 'cryptocurrency', 'stock market', 'wall street',
     'weather forecast', 'climate change', 'global warming', 'sports', 'football', 'soccer',
@@ -404,19 +340,20 @@ const STOP_WORDS = [
     'travel guide', 'vacation', 'tourism', 'book review', 'couldn\'t put down', 'this summer',
     'weekend getaway', 'diy', 'how to', 'tips for', 'ways to', 'reasons why', 'the best',
     'the worst', 'ranked', 'vs', 'versus', 'compared', 'analysis', 'opinion', 'editorial',
-    'letter to', 'guest column', 'sponsored', 'advertisement', 'promoted', 'paid content'
+    'letter to', 'guest column', 'sponsored', 'advertisement', 'promoted', 'paid content',
+    'festival', 'documentary', 'debut', 'directorial', 'actress', 'oscar', 'binoche'
 ];
 
-// Страны и города
+// Страны
 const COUNTRY_QUERIES = [
-    { name: 'Nigeria', queries: ['christian killed Nigeria', 'church attack Nigeria', 'pastor kidnapped Nigeria', 'herdsmen attack christian Nigeria'] },
-    { name: 'India', queries: ['christian persecution India', 'church attacked India', 'pastor beaten India', 'hindu extremist christian India'] },
-    { name: 'China', queries: ['christian arrested China', 'church closed China', 'pastor detained China', 'xinjiang christian China'] },
-    { name: 'Pakistan', queries: ['christian killed Pakistan', 'blasphemy Pakistan', 'church attack Pakistan', 'minority persecution Pakistan'] },
-    { name: 'Iran', queries: ['christian arrested Iran', 'church raid Iran', 'convert arrested Iran', 'house church Iran'] },
-    { name: 'Iraq', queries: ['christian attacked Iraq', 'church bombing Iraq', 'christian displaced Iraq'] },
-    { name: 'Syria', queries: ['christian killed Syria', 'church destroyed Syria', 'christian refugee Syria'] },
-    { name: 'Egypt', queries: ['coptic killed Egypt', 'christian attacked Egypt', 'church closed Egypt', 'sinai christian Egypt'] }
+    { name: 'Nigeria', queries: ['christian killed Nigeria', 'church attack Nigeria', 'pastor kidnapped Nigeria', 'herdsmen attack christian Nigeria', 'boko haram christian Nigeria'] },
+    { name: 'India', queries: ['christian persecution India', 'church attacked India', 'pastor beaten India', 'hindu extremist christian India', 'convert killed India'] },
+    { name: 'China', queries: ['christian arrested China', 'church closed China', 'pastor detained China', 'xinjiang christian China', 'underground church China'] },
+    { name: 'Pakistan', queries: ['christian killed Pakistan', 'blasphemy Pakistan', 'church attack Pakistan', 'minority persecution Pakistan', 'asia bibi Pakistan'] },
+    { name: 'Iran', queries: ['christian arrested Iran', 'church raid Iran', 'convert arrested Iran', 'house church Iran', 'apostasy Iran'] },
+    { name: 'Iraq', queries: ['christian attacked Iraq', 'church bombing Iraq', 'christian displaced Iraq', 'isis christian Iraq'] },
+    { name: 'Syria', queries: ['christian killed Syria', 'church destroyed Syria', 'christian refugee Syria', 'assad christian Syria'] },
+    { name: 'Egypt', queries: ['coptic killed Egypt', 'christian attacked Egypt', 'church closed Egypt', 'sinai christian Egypt', 'coptic persecution Egypt'] }
 ];
 
 const COUNTRY_DATA = {
@@ -430,87 +367,80 @@ const COUNTRY_DATA = {
     'Egypt': { lat: 26.8206, lng: 30.8025, cities: { 'Каир': [30.0444, 31.2357], 'Александрия': [31.2001, 29.9187], 'Минья': [28.1099, 30.7503], 'Синай': [29.3102, 33.0938] }}
 };
 
-// ==================== СИСТЕМА ПЕРЕВОДА ====================
+// ==================== ПЕРЕВОД ====================
 
-/**
- * Продвинутый перевод с учетом контекста
- */
 function translateText(text) {
     if (!text || text.length < 3) return '';
     
-    let result = text.toLowerCase();
+    let result = text;
     
-    // Шаг 1: Фразовые шаблоны (приоритет)
-    for (const [en, ru] of Object.entries(PHRASES)) {
-        const regex = new RegExp(`\\b${en}\\b`, 'gi');
-        result = result.replace(regex, ru);
+    // Шаг 1: Фразовые шаблоны (приоритет — целые конструкции)
+    for (const { pattern, replace } of PHRASE_PATTERNS) {
+        result = result.replace(pattern, replace);
     }
     
-    // Шаг 2: Отдельные слова
-    for (const [en, ru] of Object.entries(DICTIONARY)) {
-        const regex = new RegExp(`\\b${en}\\b`, 'gi');
-        result = result.replace(regex, ru);
-    }
+    // Шаг 2: Отдельные слова (только если не в составе уже заменённых фраз)
+    // Разбиваем на слова и переводим
+    const words = result.split(/\b/);
+    const translated = words.map(word => {
+        const lower = word.toLowerCase();
+        if (DICTIONARY[lower]) {
+            // Выбираем форму (по умолчанию именительный)
+            return DICTIONARY[lower][0];
+        }
+        return word;
+    });
+    
+    result = translated.join('');
     
     // Шаг 3: Пост-обработка
     result = postProcess(result);
     
-    // Капитализация первой буквы
+    // Капитализация
     result = result.charAt(0).toUpperCase() + result.slice(1);
     
     return result;
 }
 
-/**
- * Пост-обработка: исправление грамматики и стилистики
- */
 function postProcess(text) {
     // Убираем лишние пробелы
     text = text.replace(/\s+/g, ' ').trim();
     
-    // Исправляем артикли (оставшиеся после замены)
-    text = text.replace(/\b(a|an|the)\b/gi, '');
+    // Убираем артикли
+    text = text.replace(/\s+(a|an|the)\s+/gi, ' ');
     
     // Исправляем предлоги
-    text = text.replace(/\bof\b/gi, '');
-    text = text.replace(/\bin\b/gi, 'в');
-    text = text.replace(/\bon\b/gi, 'на');
-    text = text.replace(/\bat\b/gi, 'в');
-    text = text.replace(/\bto\b/gi, 'к');
-    text = text.replace(/\bfor\b/gi, 'для');
-    text = text.replace(/\bwith\b/gi, 'с');
-    text = text.replace(/\bby\b/gi, '');
-    text = text.replace(/\bfrom\b/gi, 'из');
-    text = text.replace(/\band\b/gi, 'и');
+    text = text.replace(/\s+of\s+/gi, ' ');
+    text = text.replace(/\s+in\s+/gi, ' в ');
+    text = text.replace(/\s+on\s+/gi, ' на ');
+    text = text.replace(/\s+at\s+/gi, ' в ');
+    text = text.replace(/\s+to\s+/gi, ' к ');
+    text = text.replace(/\s+for\s+/gi, ' для ');
+    text = text.replace(/\s+with\s+/gi, ' с ');
+    text = text.replace(/\s+by\s+/gi, ' ');
+    text = text.replace(/\s+from\s+/gi, ' из ');
+    text = text.replace(/\s+and\s+/gi, ' и ');
+    text = text.replace(/\s+or\s+/gi, ' или ');
     
-    // Убираем двойные пробелы после удаления слов
+    // Убираем двойные пробелы
     text = text.replace(/\s+/g, ' ').trim();
     
-    // Исправляем падежи (простые правила)
-    text = fixCases(text);
-    
-    return text;
-}
-
-/**
- * Простое исправление падежей
- */
-function fixCases(text) {
-    // "в Nigeria" → "в Нигерии"
-    const countryCases = {
-        'nigeria': 'Нигерии',
-        'india': 'Индии',
-        'china': 'Китае',
-        'pakistan': 'Пакистане',
-        'iran': 'Иране',
-        'iraq': 'Ираке',
-        'syria': 'Сирии',
-        'egypt': 'Египте'
+    // Исправляем страны
+    const countryFixes = {
+        'в nigeria': 'в Нигерии',
+        'в india': 'в Индии',
+        'в china': 'в Китае',
+        'в pakistan': 'в Пакистане',
+        'в iran': 'в Иране',
+        'в iraq': 'в Ираке',
+        'в syria': 'в Сирии',
+        'в egypt': 'в Египте',
+        'на nigeria': 'в Нигерии',
+        'на india': 'в Индии'
     };
     
-    for (const [en, ru] of Object.entries(countryCases)) {
-        text = text.replace(new RegExp(`в\\s+${en}`, 'gi'), `в ${ru}`);
-        text = text.replace(new RegExp(`на\\s+${en}`, 'gi'), `в ${ru}`);
+    for (const [wrong, right] of Object.entries(countryFixes)) {
+        text = text.replace(new RegExp(wrong, 'gi'), right);
     }
     
     return text;
@@ -521,20 +451,21 @@ function fixCases(text) {
 function isRelevant(title, description) {
     const text = (title + ' ' + description).toLowerCase();
     
-    // Проверяем стоп-слова
+    // Стоп-слова
     for (const stop of STOP_WORDS) {
         if (text.includes(stop.toLowerCase())) return false;
     }
     
-    // Должно быть ключевое слово о христианах/церкви
+    // Должно быть о христианах
     const christianTerms = ['christian', 'christians', 'church', 'churches', 'pastor', 'pastors', 
                           'priest', 'priests', 'congregation', 'worshippers', 'believers', 'copt', 'copts'];
     const hasChristian = christianTerms.some(term => text.includes(term));
     
-    // И ключевое слово о насилии/преследовании
+    // И о насилии
     const violenceTerms = ['killed', 'murdered', 'attacked', 'arrested', 'detained', 'kidnapped', 
                          'abducted', 'tortured', 'beaten', 'burned', 'destroyed', 'closed', 'banned',
-                         'persecution', 'discrimination', 'harassed', 'threatened', 'forced', 'jailed'];
+                         'persecution', 'discrimination', 'harassed', 'threatened', 'forced', 'jailed',
+                         'bombed', 'raid', 'abduction', 'hostage'];
     const hasViolence = violenceTerms.some(term => text.includes(term));
     
     return hasChristian && hasViolence;
@@ -545,7 +476,6 @@ function detectCountry(text) {
     for (const [country, data] of Object.entries(COUNTRY_DATA)) {
         if (t.includes(country.toLowerCase())) return country;
     }
-    // Дополнительные проверки
     if (t.includes('nigerian')) return 'Nigeria';
     if (t.includes('indian') && !t.includes('indiana')) return 'India';
     if (t.includes('pakistani')) return 'Pakistan';
@@ -614,7 +544,7 @@ async function fetchNews(query) {
 // ==================== ОСНОВНАЯ ЛОГИКА ====================
 
 async function updateViaNewsAPI() {
-    console.log('🚀 Начало обновления с профессиональным переводом...\n');
+    console.log('🚀 Начало обновления с улучшенным переводом...\n');
     const allEvents = [];
     const errors = [];
     let totalRequests = 0;
@@ -644,11 +574,13 @@ async function updateViaNewsAPI() {
                 const translatedTitle = translateText(title);
                 const translatedDesc = translateText(desc);
                 
-                // Проверяем качество перевода
-                if (translatedTitle.length < 10 || /[a-z]{4,}/i.test(translatedTitle)) {
-                    console.log(`   ⚠️ Слабый перевод, используем оригинал: "${title.substring(0, 50)}..."`);
-                    // Fallback: оригинал с пометкой
-                    // continue; // или используем оригинал
+                // Проверяем качество
+                const hasRussian = /[а-яё]/i.test(translatedTitle);
+                const hasTooMuchEnglish = /[a-z]{5,}/i.test(translatedTitle);
+                
+                if (!hasRussian || hasTooMuchEnglish) {
+                    console.log(`   ⚠️ Плохой перевод, пропускаем: "${title.substring(0, 50)}..."`);
+                    continue;
                 }
                 
                 const country = detectCountry(title + ' ' + desc) || countryData.name;
@@ -674,7 +606,6 @@ async function updateViaNewsAPI() {
                     type: type,
                     title: translatedTitle.substring(0, 120),
                     description: translatedDesc.substring(0, 250),
-                    originalTitle: title, // Сохраняем оригинал
                     source: article.source?.name || 'News API',
                     url: article.url || '#',
                     victims: victims
@@ -684,7 +615,7 @@ async function updateViaNewsAPI() {
                 console.log(`   ✅ [${type}] ${translatedTitle.substring(0, 60)}...`);
             }
             
-            if (countryEvents.length >= 2) break;
+            if (countryEvents.length >= 3) break;
             await new Promise(r => setTimeout(r, 1000));
         }
         
@@ -708,14 +639,14 @@ async function updateViaNewsAPI() {
         return true;
     }).sort((a, b) => new Date(b.date) - new Date(a.date)).slice(0, 50);
     
-    return saveData(unique, errors, 'PROFESSIONAL_TRANSLATION');
+    return saveData(unique, errors, 'ADVANCED_TRANSLATION');
 }
 
 function generateRealisticTestData() {
     const today = new Date();
     const events = [];
     const scenarios = [
-        { country: 'Nigeria', city: 'Плато', type: 'murder', title: 'Вооруженные фулани зарезали 17 христиан в деревне', victims: 17 },
+        { country: 'Nigeria', city: 'Плато', type: 'murder', title: 'Вооружённые фулани убили 17 христиан в деревне', victims: 17 },
         { country: 'Nigeria', city: 'Кадуна', type: 'kidnapping', title: 'Боевики Боко Харам похитили 30 прихожан с воскресной службы', victims: 30 },
         { country: 'India', city: 'Чхаттисгарх', type: 'attack', title: 'Индуистские радикалы напали на молитвенное собрание', victims: 5 },
         { country: 'China', city: 'Синьцзян', type: 'arrest', title: 'Власти арестовали 45 пасторов домашних церквей', victims: 45 },
@@ -753,13 +684,13 @@ function saveData(events, errors, method) {
     const output = {
         metadata: {
             lastUpdated: new Date().toISOString(),
-            version: '4.0',
+            version: '4.1',
             totalEvents: events.length,
             sourcesChecked: COUNTRY_QUERIES.length,
             sourcesWorking: COUNTRY_QUERIES.length - errors.length,
             errors: errors,
             updateMethod: method,
-            translationQuality: 'PROFESSIONAL',
+            translationQuality: 'ADVANCED_GRAMMAR',
             language: 'ru',
             generatedAt: new Date().toLocaleString('ru-RU')
         },
@@ -777,10 +708,9 @@ function saveData(events, errors, method) {
     console.log(`\n✅ Сохранено: ${events.length} событий`);
     console.log(`🔧 Метод: ${method}`);
     
-    // Примеры перевода
-    console.log('\n📋 Примеры переведенных заголовков:');
+    console.log('\n📋 Примеры переведённых заголовков:');
     events.slice(0, 3).forEach((e, i) => {
-        console.log(`   ${i+1}. [${e.type}] ${e.title.substring(0, 70)}...`);
+        console.log(`   ${i+1}. [${e.type}] ${e.title}`);
     });
     
     return output;
