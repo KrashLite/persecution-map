@@ -1,28 +1,29 @@
-// app.js — Карта гонений на христиан (совместимый с fallback-data.js)
+// app.js — Исправленная карта гонений на христиан
 
 // ============ КОНФИГУРАЦИЯ ============
 const CONFIG = {
     mapCenter: [20, 0],
     mapZoom: 2,
     maxEvents: 50,
-    dataUrl: 'data/events.json' // ← Путь к файлу от fallback-data.js
+    dataUrl: 'data/events.json'
 };
 
-// ============ ТИПЫ СОБЫТИЙ (РУССКИЕ) ============
+// ============ ТИПЫ СОБЫТИЙ (АНГЛИЙСКИЕ КЛЮЧИ для совместимости с данными) ============
+// Но отображаем на русском
 const EVENT_TYPES = {
-    'убийство': { color: '#e74c3c', label: 'Убийства' },
-    'нападение': { color: '#e67e22', label: 'Атаки' },
-    'похищение': { color: '#f39c12', label: 'Похищения' },
-    'арест': { color: '#9b59b6', label: 'Аресты' },
-    'дискриминация': { color: '#3498db', label: 'Дискриминация' },
-    'другое': { color: '#95a5a6', label: 'Другое' }
+    'murder': { color: '#c0392b', label: 'Убийства' },      // Красный
+    'attack': { color: '#e74c3c', label: 'Атаки' },         // Красно-оранжевый
+    'kidnapping': { color: '#f39c12', label: 'Похищения' }, // Оранжевый
+    'arrest': { color: '#8e44ad', label: 'Аресты' },        // Фиолетовый
+    'discrimination': { color: '#3498db', label: 'Дискриминация' }, // Синий
+    'other': { color: '#95a5a6', label: 'Другое' }          // Серый
 };
 
 // ============ ГЛОБАЛЬНЫЕ ПЕРЕМЕННЫЕ ============
 let map;
 let markers = [];
 let eventsData = [];
-let currentFilter = 'все';
+let currentFilter = 'all';
 
 // ============ ИНИЦИАЛИЗАЦИЯ ============
 document.addEventListener('DOMContentLoaded', init);
@@ -33,7 +34,7 @@ async function init() {
     await loadEvents();
     createFilterButtons();
     createLegend();
-    applyFilter('все');
+    applyFilter('all');
 }
 
 // ============ КАРТА ============
@@ -62,48 +63,48 @@ async function loadEvents() {
         const data = await response.json();
         console.log('📦 Получены данные:', data);
         
-        // Проверяем структуру данных (fallback-data.js создает {metadata, events})
+        // Проверяем структуру данных
         if (data.events && Array.isArray(data.events)) {
             eventsData = data.events;
             console.log(`✅ Загружено ${eventsData.length} событий из events.json`);
         } else if (Array.isArray(data)) {
-            // Если пришел просто массив
             eventsData = data;
             console.log(`✅ Загружено ${eventsData.length} событий (массив)`);
         } else {
             throw new Error('Неверная структура данных');
         }
         
-        // Проверяем типы
+        // Проверяем типы событий
         const types = [...new Set(eventsData.map(e => e.type))];
-        console.log('📋 Типы событий:', types);
+        console.log('📋 Типы событий в данных:', types);
         
         // Проверяем, все ли типы известны
         types.forEach(type => {
             if (!EVENT_TYPES[type]) {
-                console.warn(`⚠️ Неизвестный тип: "${type}"`);
+                console.warn(`⚠️ Неизвестный тип: "${type}" — будет использован цвет "другое"`);
             }
         });
         
     } catch (error) {
         console.error('❌ Ошибка загрузки данных:', error);
-        console.log('🔄 Попытка загрузить fallback напрямую...');
+        console.log('🔄 Используем встроенный fallback...');
         
-        // Если файл не найден — используем встроенный fallback
         eventsData = getInlineFallback();
         console.log(`✅ Используем встроенный fallback: ${eventsData.length} событий`);
     }
     
-    // Нормализуем данные (убираем лишние пробелы и т.д.)
+    // Нормализуем данные
     eventsData = eventsData.map(event => ({
         ...event,
-        type: (event.type || 'другое').toString().trim().toLowerCase(),
+        type: (event.type || 'other').toString().trim().toLowerCase(),
         lat: parseFloat(event.lat),
         lng: parseFloat(event.lng)
     }));
+    
+    console.log(`📊 Итого событий для отображения: ${eventsData.length}`);
 }
 
-// ============ ВСТРОЕННЫЙ FALLBACK (на случай если файл не доступен) ============
+// ============ ВСТРОЕННЫЙ FALLBACK ============
 function getInlineFallback() {
     return [
         {
@@ -112,7 +113,7 @@ function getInlineFallback() {
             lng: 7.4895,
             country: "Нигерия",
             city: "Абуджа",
-            type: "нападение",
+            type: "attack",
             title: "Нападение на церковь в пригороде Абуджи",
             description: "Вооруженные люди атаковали прихожан во время воскресной службы.",
             source: "Fallback",
@@ -124,7 +125,7 @@ function getInlineFallback() {
             lng: 85.0985,
             country: "Индия",
             city: "Одиша",
-            type: "убийство",
+            type: "murder",
             title: "Убийство христианской семьи",
             description: "Три члена семьи были убиты.",
             source: "Fallback",
@@ -136,7 +137,7 @@ function getInlineFallback() {
             lng: 51.3890,
             country: "Иран",
             city: "Тегеран",
-            type: "арест",
+            type: "arrest",
             title: "Рейд на церковь",
             description: "Арестованы 8 христиан.",
             source: "Fallback",
@@ -148,7 +149,7 @@ function getInlineFallback() {
             lng: 44.3661,
             country: "Ирак",
             city: "Багдад",
-            type: "нападение",
+            type: "attack",
             title: "Взрыв возле церкви",
             description: "Погибли 5 человек.",
             source: "Fallback",
@@ -160,7 +161,7 @@ function getInlineFallback() {
             lng: 31.2357,
             country: "Египет",
             city: "Каир",
-            type: "дискриминация",
+            type: "discrimination",
             title: "Закрытие церкви",
             description: "Власти закрыли церковное здание.",
             source: "Fallback",
@@ -180,12 +181,12 @@ function createFilterButtons() {
     container.innerHTML = '';
     
     // Кнопка "Все"
-    const allBtn = createFilterButton('все', 'Все', '#2c3e50', true);
+    const allBtn = createFilterButton('all', 'Все', '#2c3e50', true);
     container.appendChild(allBtn);
     
-    // Кнопки типов
+    // Кнопки типов (используем английские ключи, но русские метки)
     Object.entries(EVENT_TYPES).forEach(([type, config]) => {
-        if (type === 'другое') return;
+        if (type === 'other') return;
         const btn = createFilterButton(type, config.label, config.color, false);
         container.appendChild(btn);
     });
@@ -212,11 +213,11 @@ function createFilterButton(type, label, color, isActive) {
     `;
     
     btn.addEventListener('click', () => {
-        // Сброс активности
+        // Сброс активности всех кнопок
         document.querySelectorAll('.filter-btn').forEach(b => {
             b.classList.remove('active');
             const bType = b.dataset.type;
-            const bColor = bType === 'все' ? '#2c3e50' : (EVENT_TYPES[bType]?.color || '#95a5a6');
+            const bColor = bType === 'all' ? '#2c3e50' : (EVENT_TYPES[bType]?.color || '#95a5a6');
             b.style.backgroundColor = 'transparent';
             b.style.color = bColor;
         });
@@ -237,7 +238,7 @@ function applyFilter(filterType) {
     currentFilter = filterType;
     clearMarkers();
     
-    const filtered = filterType === 'все' 
+    const filtered = filterType === 'all' 
         ? eventsData 
         : eventsData.filter(e => e.type === filterType);
     
@@ -250,10 +251,14 @@ function applyFilter(filterType) {
 
 // ============ МАРКЕРЫ ============
 function addMarker(event) {
-    const color = EVENT_TYPES[event.type]?.color || EVENT_TYPES['другое'].color;
+    const color = EVENT_TYPES[event.type]?.color || EVENT_TYPES['other'].color;
+    const label = EVENT_TYPES[event.type]?.label || event.type;
+    
+    // Размер маркера зависит от количества жертв
+    const radius = event.victims > 10 ? 12 : (event.victims > 0 ? 8 : 6);
     
     const marker = L.circleMarker([event.lat, event.lng], {
-        radius: 8,
+        radius: radius,
         fillColor: color,
         color: '#fff',
         weight: 2,
@@ -262,24 +267,27 @@ function addMarker(event) {
     }).addTo(map);
     
     const popupContent = `
-        <div style="min-width: 200px; font-family: sans-serif;">
-            <h3 style="margin: 0 0 8px 0; font-size: 14px;">${event.title}</h3>
-            <div style="font-size: 12px; color: ${color}; margin-bottom: 5px;">
-                ● ${EVENT_TYPES[event.type]?.label || event.type}
+        <div style="min-width: 250px; font-family: sans-serif;">
+            <h3 style="margin: 0 0 10px 0; font-size: 16px; color: #333; border-bottom: 2px solid ${color}; padding-bottom: 5px;">
+                ${event.title}
+            </h3>
+            <div style="font-size: 13px; color: ${color}; margin-bottom: 8px; font-weight: bold;">
+                ● ${label}
             </div>
-            <p style="margin: 0 0 8px 0; font-size: 12px; color: #555;">
+            <p style="margin: 0 0 10px 0; font-size: 13px; color: #555; line-height: 1.4;">
                 ${event.description || ''}
             </p>
-            <div style="font-size: 11px; color: #777;">
+            <div style="font-size: 12px; color: #777; line-height: 1.6;">
                 📍 ${event.city}, ${event.country}<br>
                 📅 ${new Date(event.date).toLocaleDateString('ru-RU')}
                 ${event.victims ? `<br>👥 Жертв: ${event.victims}` : ''}
+                <br>🔗 Источник: ${event.source}
             </div>
         </div>
     `;
     
     marker.bindPopup(popupContent);
-    marker.bindTooltip(event.title.substring(0, 30) + '...', {
+    marker.bindTooltip(event.title.substring(0, 40) + (event.title.length > 40 ? '...' : ''), {
         direction: 'top',
         offset: [0, -10]
     });
@@ -297,15 +305,15 @@ function createLegend() {
     const legend = document.getElementById('legend');
     if (!legend) return;
     
-    legend.innerHTML = '<h4 style="margin: 0 0 10px 0; font-size: 14px;">Легенда</h4>';
+    legend.innerHTML = '<h4 style="margin: 0 0 15px 0; font-size: 14px; color: #feca57;">Легенда</h4>';
     
     Object.entries(EVENT_TYPES).forEach(([type, config]) => {
-        if (type === 'другое') return;
+        if (type === 'other') return;
         
         const item = document.createElement('div');
-        item.style.cssText = 'display: flex; align-items: center; margin: 5px 0; font-size: 12px;';
+        item.style.cssText = 'display: flex; align-items: center; margin: 8px 0; font-size: 12px; color: #eaeaea;';
         item.innerHTML = `
-            <span style="width: 10px; height: 10px; border-radius: 50%; background: ${config.color}; margin-right: 8px;"></span>
+            <span style="width: 12px; height: 12px; border-radius: 50%; background: ${config.color}; margin-right: 10px; box-shadow: 0 0 5px ${config.color};"></span>
             <span>${config.label}</span>
         `;
         legend.appendChild(item);
@@ -320,7 +328,7 @@ function updateEventList(events) {
     container.innerHTML = '';
     
     if (events.length === 0) {
-        container.innerHTML = '<div style="padding: 20px; text-align: center; color: #666;">Нет событий</div>';
+        container.innerHTML = '<div style="padding: 30px; text-align: center; color: #888; font-style: italic;">Нет событий выбранного типа</div>';
         return;
     }
     
@@ -331,35 +339,54 @@ function updateEventList(events) {
 }
 
 function createEventCard(event) {
-    const config = EVENT_TYPES[event.type] || EVENT_TYPES['другое'];
+    const config = EVENT_TYPES[event.type] || EVENT_TYPES['other'];
     
     const card = document.createElement('div');
     card.style.cssText = `
-        padding: 12px;
-        margin: 8px 0;
-        background: #fff;
-        border-radius: 6px;
-        border-left: 3px solid ${config.color};
+        padding: 15px;
+        margin: 10px 0;
+        background: rgba(255,255,255,0.05);
+        border-radius: 8px;
+        border-left: 4px solid ${config.color};
         cursor: pointer;
-        box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        transition: all 0.3s;
+        font-family: inherit;
     `;
     
     card.innerHTML = `
-        <div style="display: flex; justify-content: space-between; font-size: 11px; color: #999; margin-bottom: 4px;">
-            <span style="color: ${config.color}; font-weight: bold;">${config.label}</span>
+        <div style="display: flex; justify-content: space-between; font-size: 11px; color: #888; margin-bottom: 6px;">
+            <span style="color: ${config.color}; font-weight: bold; text-transform: uppercase; font-size: 10px; letter-spacing: 0.5px;">
+                ${config.label}
+            </span>
             <span>${new Date(event.date).toLocaleDateString('ru-RU')}</span>
         </div>
-        <div style="font-size: 13px; font-weight: 500; color: #333; margin-bottom: 4px;">
+        <div style="font-size: 14px; font-weight: 600; color: #fff; margin-bottom: 6px; line-height: 1.3;">
             ${event.title}
         </div>
-        <div style="font-size: 11px; color: #666;">
+        <div style="font-size: 12px; color: #aaa;">
             📍 ${event.city}, ${event.country}
-            ${event.victims ? ` • 👥 ${event.victims}` : ''}
+            ${event.victims ? `<span style="color: #ff6b6b; margin-left: 10px;">● ${event.victims} жертв</span>` : ''}
         </div>
     `;
     
+    card.addEventListener('mouseenter', () => {
+        card.style.background = 'rgba(255,255,255,0.1)';
+        card.style.transform = 'translateX(5px)';
+    });
+    
+    card.addEventListener('mouseleave', () => {
+        card.style.background = 'rgba(255,255,255,0.05)';
+        card.style.transform = 'translateX(0)';
+    });
+    
     card.addEventListener('click', () => {
-        map.setView([event.lat, event.lng], 10);
+        map.setView([event.lat, event.lng], 12);
+        // Находим маркер и открываем попап
+        const marker = markers.find(m => {
+            const latLng = m.getLatLng();
+            return Math.abs(latLng.lat - event.lat) < 0.001 && Math.abs(latLng.lng - event.lng) < 0.001;
+        });
+        if (marker) marker.openPopup();
     });
     
     return card;
@@ -367,6 +394,15 @@ function createEventCard(event) {
 
 // ============ СТАТИСТИКА ============
 function updateStats(events) {
+    const totalEl = document.getElementById('total-events');
+    const countriesEl = document.getElementById('total-countries');
+    const victimsEl = document.getElementById('total-victims');
+    
+    if (totalEl) totalEl.textContent = events.length;
+    if (countriesEl) countriesEl.textContent = new Set(events.map(e => e.country)).size;
+    if (victimsEl) victimsEl.textContent = events.reduce((sum, e) => sum + (e.victims || 0), 0);
+    
+    // Обновляем детальную статистику если есть контейнер
     const container = document.getElementById('stats');
     if (!container) return;
     
@@ -374,15 +410,15 @@ function updateStats(events) {
     const byType = {};
     events.forEach(e => byType[e.type] = (byType[e.type] || 0) + 1);
     
-    let html = `<div style="font-size: 16px; font-weight: bold; margin-bottom: 10px;">Всего: ${total}</div>`;
+    let html = `<div style="font-size: 18px; font-weight: bold; margin-bottom: 15px; color: #ff6b6b;">Всего: ${total}</div>`;
     
     Object.entries(byType).forEach(([type, count]) => {
-        const config = EVENT_TYPES[type] || EVENT_TYPES['другое'];
+        const cfg = EVENT_TYPES[type] || EVENT_TYPES['other'];
         html += `
-            <div style="display: flex; align-items: center; margin: 4px 0; font-size: 12px;">
-                <span style="color: ${config.color}; margin-right: 5px;">●</span>
-                <span style="flex: 1;">${config.label}:</span>
-                <span style="font-weight: bold;">${count}</span>
+            <div style="display: flex; align-items: center; margin: 6px 0; font-size: 13px; color: #ccc;">
+                <span style="display: inline-block; width: 10px; height: 10px; border-radius: 50%; background: ${cfg.color}; margin-right: 8px;"></span>
+                <span style="flex: 1;">${cfg.label}:</span>
+                <span style="font-weight: bold; color: #fff;">${count}</span>
             </div>
         `;
     });
