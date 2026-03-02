@@ -54,9 +54,8 @@
             height: 300px;
             cursor: pointer;
             transition: all 0.3s ease;
-            border-radius: 50%; /* Круглая маска для контейнера */
-            overflow: hidden; /* Скрываем всё, что выходит за круг */
-            /* Убираем странный квадрат: убираем border и box-shadow с контейнера */
+            border-radius: 50%;
+            overflow: hidden;
             border: none;
             box-shadow: none;
             background: transparent;
@@ -74,13 +73,11 @@
             width: 100%;
             height: 100%;
             object-fit: cover;
-            /* Переносим визуальные эффекты на сами изображения */
             border-radius: 50%;
             border: 4px solid rgba(255, 107, 107, 0.3);
-            box-sizing: border-box; /* Чтобы border не увеличивал размер */
+            box-sizing: border-box;
         }
 
-        /* Эффект свечения отдельно от фона */
         .splash-logo-container::after {
             content: '';
             position: absolute;
@@ -490,6 +487,26 @@
             border-radius: 50%;
         }
 
+        /* Стили для ссылки в попапе */
+        .popup-source-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+            margin-top: 12px;
+            padding: 8px 12px;
+            background: rgba(255,255,255,0.05);
+            border-radius: 6px;
+            text-decoration: none;
+            font-size: 0.85em;
+            font-weight: 600;
+            transition: all 0.2s;
+        }
+
+        .popup-source-link:hover {
+            background: rgba(255,255,255,0.1);
+            transform: translateX(3px);
+        }
+
         @media (max-width: 768px) {
             .splash-logo-container { width: 200px; height: 200px; }
             .splash-text { font-size: 1.5rem; }
@@ -811,7 +828,7 @@
                     type: ["murder", "attack", "kidnapping", "arrest"][i % 4],
                     title: `Тестовое событие ${i + 1}`,
                     description: "Тестовое описание",
-                    source: "Test",
+                    source: "Test Source",
                     url: "#",
                     victims: Math.floor(Math.random() * 10)
                 });
@@ -879,6 +896,7 @@
                     fillOpacity: 0.8
                 }).addTo(map);
 
+                // ИСПРАВЛЕННЫЙ ПОПАП С ССЫЛКОЙ НА ИСТОЧНИК
                 marker.bindPopup(`
                     <div style="min-width: 250px; font-family: sans-serif;">
                         <h3 style="color: ${color}; margin: 0 0 10px 0;">${event.title}</h3>
@@ -887,6 +905,15 @@
                         <p><strong>🏷️</strong> ${CONFIG.typeLabels[event.type] || event.type}</p>
                         ${event.victims > 0 ? `<p><strong>💀</strong> ${event.victims} жертв</p>` : ''}
                         <p style="font-size: 0.85em; color: #666; margin-top: 10px;">${event.description || ''}</p>
+                        ${event.source ? `
+                        <div style="margin-top: 12px; padding-top: 10px; border-top: 1px solid #eee;">
+                            <a href="${event.url || '#'}" target="_blank" rel="noopener noreferrer" 
+                               class="popup-source-link"
+                               style="color: ${color};">
+                                📎 Источник: ${event.source} →
+                            </a>
+                        </div>
+                        ` : ''}
                     </div>
                 `);
                 
