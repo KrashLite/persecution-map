@@ -829,7 +829,7 @@
                     title: `Тестовое событие ${i + 1}`,
                     description: "Тестовое описание",
                     source: "Test Source",
-                    url: "#",
+                    url: "https://example.com",
                     victims: Math.floor(Math.random() * 10)
                 });
             }
@@ -896,34 +896,39 @@
                     fillOpacity: 0.8
                 }).addTo(map);
 
-              // Проверяем, есть ли реальная ссылка (не # и не пустая)
-const hasRealUrl = event.url && event.url !== '#' && event.url !== '' && event.url !== null;
+                // ОЧИЩАЕМ URL И ПРОВЕРЯЕМ, ЯВЛЯЕТСЯ ЛИ ОН РЕАЛЬНОЙ ССЫЛКОЙ
+                const cleanUrl = event.url ? event.url.trim() : '';
+                const hasRealUrl = cleanUrl && 
+                                   cleanUrl !== '#' && 
+                                   cleanUrl !== '' && 
+                                   !cleanUrl.startsWith('#') &&
+                                   (cleanUrl.startsWith('http://') || cleanUrl.startsWith('https://'));
 
-marker.bindPopup(`
-    <div style="min-width: 250px; font-family: sans-serif;">
-        <h3 style="color: ${color}; margin: 0 0 10px 0;">${event.title}</h3>
-        <p><strong>📅</strong> ${new Date(event.date).toLocaleDateString('ru-RU')}</p>
-        <p><strong>📍</strong> ${event.city}, ${event.country}</p>
-        <p><strong>🏷️</strong> ${CONFIG.typeLabels[event.type] || event.type}</p>
-        ${event.victims > 0 ? `<p><strong>💀</strong> ${event.victims} жертв</p>` : ''}
-        <p style="font-size: 0.85em; color: #666; margin-top: 10px;">${event.description || ''}</p>
-        ${event.source ? `
-        <div style="margin-top: 12px; padding-top: 10px; border-top: 1px solid #eee;">
-            ${hasRealUrl ? `
-            <a href="${event.url}" target="_blank" rel="noopener noreferrer" 
-               class="popup-source-link"
-               style="color: ${color};">
-                📎 Источник: ${event.source} →
-            </a>
-            ` : `
-            <div style="font-size: 0.85em; color: #888; font-style: italic;">
-                📎 Источник: ${event.source}
-            </div>
-            `}
-        </div>
-        ` : ''}
-    </div>
-`);
+                marker.bindPopup(`
+                    <div style="min-width: 250px; font-family: sans-serif;">
+                        <h3 style="color: ${color}; margin: 0 0 10px 0;">${event.title}</h3>
+                        <p><strong>📅</strong> ${new Date(event.date).toLocaleDateString('ru-RU')}</p>
+                        <p><strong>📍</strong> ${event.city}, ${event.country}</p>
+                        <p><strong>🏷️</strong> ${CONFIG.typeLabels[event.type] || event.type}</p>
+                        ${event.victims > 0 ? `<p><strong>💀</strong> ${event.victims} жертв</p>` : ''}
+                        <p style="font-size: 0.85em; color: #666; margin-top: 10px;">${event.description || ''}</p>
+                        ${event.source ? `
+                        <div style="margin-top: 12px; padding-top: 10px; border-top: 1px solid #eee;">
+                            ${hasRealUrl ? `
+                            <a href="${cleanUrl}" target="_blank" rel="noopener noreferrer" 
+                               class="popup-source-link"
+                               style="color: ${color};">
+                                📎 Источник: ${event.source} →
+                            </a>
+                            ` : `
+                            <div style="font-size: 0.85em; color: #888; font-style: italic;">
+                                📎 Источник: ${event.source}
+                            </div>
+                            `}
+                        </div>
+                        ` : ''}
+                    </div>
+                `);
                 
                 markers.push(marker);
 
