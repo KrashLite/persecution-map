@@ -54,6 +54,12 @@
             height: 300px;
             cursor: pointer;
             transition: all 0.3s ease;
+            border-radius: 50%; /* Круглая маска для контейнера */
+            overflow: hidden; /* Скрываем всё, что выходит за круг */
+            /* Убираем странный квадрат: убираем border и box-shadow с контейнера */
+            border: none;
+            box-shadow: none;
+            background: transparent;
         }
 
         .splash-logo-container:hover {
@@ -67,11 +73,25 @@
             left: 0;
             width: 100%;
             height: 100%;
+            object-fit: cover;
+            /* Переносим визуальные эффекты на сами изображения */
             border-radius: 50%;
             border: 4px solid rgba(255, 107, 107, 0.3);
-            box-shadow: 0 0 60px rgba(255, 107, 107, 0.4);
-            object-fit: cover;
-            transition: opacity 0.5s ease;
+            box-sizing: border-box; /* Чтобы border не увеличивал размер */
+        }
+
+        /* Эффект свечения отдельно от фона */
+        .splash-logo-container::after {
+            content: '';
+            position: absolute;
+            top: -4px;
+            left: -4px;
+            right: -4px;
+            bottom: -4px;
+            border-radius: 50%;
+            box-shadow: 0 0 60px rgba(255, 107, 107, 0.4), 0 0 100px rgba(255, 107, 107, 0.2);
+            pointer-events: none;
+            z-index: 3;
         }
 
         .splash-logo-gif {
@@ -94,8 +114,12 @@
         }
 
         @keyframes pulse {
-            0%, 100% { box-shadow: 0 0 60px rgba(255, 107, 107, 0.4), 0 0 100px rgba(255, 107, 107, 0.2); }
-            50% { box-shadow: 0 0 80px rgba(255, 107, 107, 0.6), 0 0 140px rgba(255, 107, 107, 0.3); }
+            0%, 100% { 
+                filter: drop-shadow(0 0 20px rgba(255, 107, 107, 0.4)) drop-shadow(0 0 40px rgba(255, 107, 107, 0.2));
+            }
+            50% { 
+                filter: drop-shadow(0 0 30px rgba(255, 107, 107, 0.6)) drop-shadow(0 0 60px rgba(255, 107, 107, 0.3));
+            }
         }
 
         .splash-logo-container {
