@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-04T19:26:46.438Z",
-    "totalEvents": 73
+    "lastUpdated": "2026-03-04T19:54:27.921Z",
+    "totalEvents": 91
   },
   "events": [
     {
@@ -56,6 +56,19 @@
       "description": "Lebanon is the country with the 2nd highest percentage of христиане in the Middle East (после Cyprus), with its христианин population estimated to be about 40%. Of that group, the largest percentage are Maronite Catholics. Caritas Lebanon on March 3",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/03/04/lebanon-they-yearn-for-an-ordinary-life/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-04",
+      "lat": 29.7315,
+      "lng": 52.8312,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "‘2 hours to pack up’: How the Iranian conflict has upended Catholic pilgrimages in the регион",
+      "description": "The U.S. and Israeli strikes on Iran brought major conflict to the Middle East and sent христианин pilgrims scrambling for safe harbor there.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/two-hours-to-pack-up-how-the-iranian-conflict-has-upended-catholic-pilgrimages-in-the-region",
       "victims": 0
     },
     {
@@ -163,6 +176,45 @@
       "victims": 0
     },
     {
+      "date": "2026-03-03",
+      "lat": 36.4425,
+      "lng": 59.7709,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Justice is 'being delivered', say Iranian христиане",
+      "description": "A global network of Iranian христиане has welcomed targeted strikes against Iran’s leadership by the US and Israel.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/justice-is-being-delivered-say-iranian-christians",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-03",
+      "lat": 35.8918,
+      "lng": 51.148,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "As Iran war widens, Eastern христиане face growing uncertainty",
+      "description": "Airstrikes on the Iranian capital, Tehran, and other major cities have raised serious concerns about the country’s христианин communities as well as those in the wider регион.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/as-iran-war-widens-eastern-christians-face-growing-uncertainty",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-03",
+      "lat": 9.2544,
+      "lng": 9.5792,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Conservative Anglican leaders meet in Nigeria, facing debate on a possible breakaway",
+      "description": "The outlook for the Anglican Communion, one of the world’s largest семьи of христианин церкви, remains uncertain, but some answers may emerge by the end of this week.",
+      "source": "crux",
+      "url": "https://cruxnow.com/global-church/2026/03/conservative-anglican-leaders-meet-in-nigeria-facing-debate-on-a-possible-breakaway/",
+      "victims": 0
+    },
+    {
       "date": "2026-03-02",
       "lat": 9.3143,
       "lng": 9.5507,
@@ -238,6 +290,32 @@
       "description": "A суд found that Father Egídio de Carvalho Neto misappropriated 676 smartphones and tablets donated by the Federal Revenue Service when he was president of Instituto São José (Saint Joseph Institute).",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-the-americas/2026/03/brazilian-priest-convicted-of-embezzling-nearly-700-smart-devices-donated-to-his-institute/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-02",
+      "lat": 35.5411,
+      "lng": 51.14,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "murder",
+      "title": "Христиане молящийся for Iran после смерть of Supreme Leader Khamenei",
+      "description": "An Open Doors expert on Iran said the смерть of Khamenei \"marks a significant and sobering moment in Iran’s history\".",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christians-praying-for-iran-after-death-of-supreme-leader-khamenei",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-02",
+      "lat": 36.3767,
+      "lng": 59.6324,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Pope Leo XIV, the US-Iran war, and a forceful call in a Middle East on the brink of the abyss",
+      "description": "The reverberations are being felt most acutely by христианин minorities already living on fragile ground The post Pope Leo XIV, the US-Iran war, and a forceful call in a Middle East on the brink of the abyss appeared first on ZENIT - English.",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/03/02/pope-leo-xiv-the-us-iran-war-and-a-forceful-call-in-a-middle-east-on-the-brink-of-the-abyss/",
       "victims": 0
     },
     {
@@ -449,6 +527,58 @@
       "victims": 0
     },
     {
+      "date": "2026-02-28",
+      "lat": 9.0368,
+      "lng": 9.637,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "kidnapping",
+      "title": "Nigeria rejects claims it paid выкуп and released Islamists to secure похищен дети",
+      "description": "A report by AFP includes claims that Nigeria paid as much as $7 million and released two Boko Haram commanders in exchange for the release of дети and staff похищен from a Catholic школа.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/nigeria-rejects-claims-it-paid-ransom-and-released-islamists-to-secure-kidnapped-children",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-28",
+      "lat": 6.536,
+      "lng": 3.4573,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "ICYMI: HFAC Joins Appropriators in Delivering Joint Report on христианин гонение in Nigeria to the White House",
+      "description": "В результате President Trump's call-to-action and redesignation of Nigeria as a Country of Particular Concern (CPC), the House Appropriations Committee and House Foreign Affairs Committee delivered a joint report on the гонение of христиане in Nige",
+      "source": "newsapi:Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/02/mil-260226-house-cfa01.htm",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-28",
+      "lat": 10.7191,
+      "lng": 7.3295,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "US unveils plan to end violence against христиане in Nigeria",
+      "description": "The plans were detailed in a report by US Congressman Riley M Moore.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/us-unveils-plan-to-end-violence-against-christians-in-nigeria",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-28",
+      "lat": 30.2824,
+      "lng": 31.1883,
+      "country": "Egypt",
+      "city": "Cairo",
+      "type": "other",
+      "title": "Egypt’s богохульство law back in focus после boycott call targets христианин-owned shops",
+      "description": "Egypt’s “contempt of религия” law returns to the spotlight после widespread condemnation of call to boycott христианин businesses.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/egypt-s-blasphemy-law-back-in-focus-after-boycott-call-targets-christian-owned-shops",
+      "victims": 0
+    },
+    {
       "date": "2026-02-27",
       "lat": 29.1071,
       "lng": 76.6049,
@@ -590,6 +720,58 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/christian-teacher-shot-dead-in-syrian-sectarian-violence",
       "victims": 0
+    },
+    {
+      "date": "2026-02-27",
+      "lat": 28.6371,
+      "lng": 77.2449,
+      "country": "India",
+      "city": "Delhi",
+      "type": "murder",
+      "title": "Three Members of христианин Family in India убит",
+      "description": "In Nialijharan деревня in Odisha штат, India, Jitendra Soren’s family became the third family to convert to Christianity in the last year. When all but the eldest daughter converted, relatives warned them not to attend церковь or “face смерть.” Christ",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/02/27/three-members-of-christian-family-in-india-killed/",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-27",
+      "lat": 20.7958,
+      "lng": 85.2916,
+      "country": "India",
+      "city": "Odisha",
+      "type": "murder",
+      "title": "3 христиане убит in India",
+      "description": "The христиане were accused of practising black magic before their murders.",
+      "source": "newsapi:Christiantoday.com",
+      "url": "https://www.christiantoday.com/news/3-christians-murdered-in-india",
+      "victims": 3
+    },
+    {
+      "date": "2026-02-27",
+      "lat": 21.3662,
+      "lng": 81.8491,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "murder",
+      "title": "3 members of христианин family убит in India",
+      "description": "The христиане were accused of practising black magic before their murders.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/3-members-of-christian-family-murdered-in-india",
+      "victims": 3
+    },
+    {
+      "date": "2026-02-27",
+      "lat": 36.208,
+      "lng": 59.4086,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Iranian христианин leaders declare support for Reza Pahlavi",
+      "description": "Сотни of христианин leaders have come out in support of the exiled Crown Prince.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/iranian-christian-leaders-declare-support-for-reza-pahlavi",
+      "victims": 150
     },
     {
       "date": "2026-02-26",
@@ -748,6 +930,19 @@
       "victims": 0
     },
     {
+      "date": "2026-02-25",
+      "lat": 6.7196,
+      "lng": 3.422,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "US Congress pushes Nigeria pact to combat terror, религиозный гонение",
+      "description": "US Congress proposes a new US-Nigeria pact to combat terror, protect христиане, and counter Chinese/Russian influence. See the key recommendations. Read More: https://punchng.com/us-congress-pushes-nigeria-pact-to-combat-terror-религиозный-persecutio",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-congress-pushes-nigeria-pact-to-combat-terror-religious-persecution/",
+      "victims": 0
+    },
+    {
       "date": "2026-02-24",
       "lat": 39.5539,
       "lng": 117.0292,
@@ -880,6 +1075,32 @@
       "victims": 0
     },
     {
+      "date": "2026-02-24",
+      "lat": 21.0558,
+      "lng": 81.7933,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "murder",
+      "title": "Supreme суд of India Halts Exhumations of христианин Burial Sites",
+      "description": "The Supreme суд of India passed an interim order on Feb. 18, restraining the forcible exhumation and relocation of погибшие tribal христиане’ bodies away from their деревня burial grounds in Chhattisgarh. The Apex Bench of Justices Vikram Nath, Sandee",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/02/24/supreme-court-of-india-halts-exhumations-of-christian-burial-sites/",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-24",
+      "lat": 20.7326,
+      "lng": 84.8637,
+      "country": "India",
+      "city": "Odisha",
+      "type": "murder",
+      "title": "Христианин Family Of Three Allegedly Butchered For ‘Cursing’ Relative By Converting",
+      "description": "Members of a христианин family were allegedly убит in India после extended family allegedly believed their обращение had caused illness in their family.",
+      "source": "newsapi:The Daily Caller",
+      "url": "https://dailycaller.com/2026/02/24/christian-family-killed-axe-curse-village-india-jitendra-soren/",
+      "victims": 0
+    },
+    {
       "date": "2026-02-23",
       "lat": 30.9607,
       "lng": 120.8919,
@@ -924,6 +1145,19 @@
       "lng": 81.6236,
       "country": "India",
       "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Indian archbishop demands ‘justice’ после суд halts digging up of христианин graves",
+      "description": "India’s top суд has ordered a halt to the вынужден exhumation of tribal христиане’ remains, but церковь leaders say they want more than temporary relief.",
+      "source": "newsapi:Ewtnnews.com",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/indian-archbishop-demands-justice-after-court-halts-digging-up-of-christian-graves",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-23",
+      "lat": 20.7676,
+      "lng": 85.2154,
+      "country": "India",
+      "city": "Odisha",
       "type": "other",
       "title": "Indian archbishop demands ‘justice’ после суд halts digging up of христианин graves",
       "description": "India’s top суд has ordered a halt to the вынужден exhumation of tribal христиане’ remains, but церковь leaders say they want more than temporary relief.",
