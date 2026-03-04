@@ -1,147 +1,110 @@
-// archive-events.js — Управление архивом событий за год
+// archive-events.js — Улучшенная архивация с дедупликацией
 const fs = require('fs');
 const path = require('path');
 
 const EVENTS_FILE = path.join(__dirname, 'data', 'events.json');
 const ARCHIVE_FILE = path.join(__dirname, 'data', 'events-archive.json');
 
-// Загрузить текущий архив
-function loadArchive() {
+function loadJSON(file) {
     try {
-        const data = fs.readFileSync(ARCHIVE_FILE, 'utf8');
+        if (!fs.existsSync(file)) return null;
+        const data = fs.readFileSync(file, 'utf8');
         return JSON.parse(data);
     } catch (e) {
-        return {
-            metadata: {
-                created: new Date().toISOString(),
-                description: 'Архив событий гонений на христиан за последний год',
-                lastUpdated: new Date().toISOString(),
-                totalEvents: 0
-            },
-            events: []
-        };
+        console.error(`Error loading ${file}:`, e.message);
+        return null;
     }
 }
 
-// Загрузить текущие события (только что спарсенные)
-function loadCurrentEvents() {
-    try {
-        const data = fs.readFileSync(EVENTS_FILE, 'utf8');
-        const parsed = JSON.parse(data);
-        return parsed.events || [];
-    } catch (e) {
-        return [];
-    }
+function saveJSON(file, data) {
+    fs.mkdirSync(path.dirname(file), { recursive: true });
+    fs.writeFileSync(file, JSON.stringify(data, null, 2), 'utf8');
 }
 
-// Сохранить архив
-function saveArchive(archive) {
-    archive.metadata.lastUpdated = new Date().toISOString();
-    archive.metadata.totalEvents = archive.events.length;
-    fs.writeFileSync(ARCHIVE_FILE, JSON.stringify(archive, null, 2), 'utf8');
-    console.log(`💾 Архив сохранён: ${archive.events.length} событий`);
+function createEventKey(event) {
+    // Уникальный ключ для дедупликации
+    return `${event.date}_${event.country}_${event.city}_${event.title.substring(0, 30)}`.toLowerCase();
 }
 
-// Сохранить текущие события (для отображения на карте)
-function saveCurrentEvents(events, archiveTotal) {
-    const output = {
-        metadata: {
-            lastUpdated: new Date().toISOString(),
-            version: '3.1',
-            totalEvents: events.length,
-            archivedTotal: archiveTotal,
-            updateMethod: 'ARCHIVE_SYSTEM',
-            language: 'ru'
-        },
-        events: events
-    };
-    fs.writeFileSync(EVENTS_FILE, JSON.stringify(output, null, 2), 'utf8');
-    console.log(`💾 Текущие события сохранены: ${events.length} (из архива ${archiveTotal})`);
-}
-
-// Объединить события (дедупликация)
-function mergeEvents(current, archived) {
-    const all = [...archived, ...current];
-    const seen = new Set();
-    const unique = [];
+function archiveEvents() {
+    console.log('📦 Starting archive process...\n');
     
-    for (const event of all) {
-        // Ключ дедупликации: URL + дата + заголовок
-        const key = (event.url || '') + (event.date || '') + (event.title || '').substring(0, 30);
-        if (!seen.has(key)) {
-            seen.add(key);
-            unique.push(event);
+    const current = loadJSON(EVENTS_FILE);
+    const archive = loadJSON(ARCHIVE_FILE);
+    
+    if (!current || !current.events) {
+        console.log('❌ No current events found');
+        return;
+    }
+    
+    // Инициализируем архив если нужно
+    let archivedEvents = [];
+    let archiveMetadata = {
+        created: new Date().toISOString(),
+        description: 'Архив событий за последний год',
+        lastUpdated: new Date().toISOString(),
+        totalEvents: 0
+    };
+    
+    if (archive && archive.events) {
+        archivedEvents = archive.events;
+        archiveMetadata = { ...archive.metadata, lastUpdated: new Date().toISOString() };
+    }
+    
+    // Создаём Set для быстрой проверки дубликатов
+    const existingKeys = new Set(archivedEvents.map(createEventKey));
+    
+    // Добавляем новые события
+    let added = 0;
+    let duplicates = 0;
+    
+    for (const event of current.events) {
+        const key = createEventKey(event);
+        if (!existingKeys.has(key)) {
+            archivedEvents.push(event);
+            existingKeys.add(key);
+            added++;
+        } else {
+            duplicates++;
         }
     }
     
-    return unique;
-}
-
-// Фильтр: только события не старше 1 года
-function filterRecent(events) {
+    // Сортируем по дате (новые сверху)
+    archivedEvents.sort((a, b) => new Date(b.date) - new Date(a.date));
+    
+    // Ограничиваем архив (храним только последние 365 дней или 500 событий)
     const oneYearAgo = new Date();
     oneYearAgo.setFullYear(oneYearAgo.getFullYear() - 1);
     
-    return events.filter(e => {
-        const eventDate = new Date(e.date);
-        return eventDate > oneYearAgo;
-    });
-}
-
-// Основная функция
-function archiveEvents() {
-    console.log('📦 Управление архивом событий...\n');
+    const cutoffDate = oneYearAgo.toISOString().split('T')[0];
+    const filteredEvents = archivedEvents.filter(e => e.date >= cutoffDate).slice(0, 500);
     
-    // Загружаем данные
-    const currentEvents = loadCurrentEvents();
-    const archive = loadArchive();
+    const removed = archivedEvents.length - filteredEvents.length;
     
-    console.log(`📥 Текущих событий (от парсера): ${currentEvents.length}`);
-    console.log(`📚 Событий в архиве: ${archive.events.length}`);
+    // Обновляем метаданные
+    archiveMetadata.totalEvents = filteredEvents.length;
+    archiveMetadata.lastUpdated = new Date().toISOString();
     
-    // Объединяем
-    const merged = mergeEvents(currentEvents, archive.events);
-    console.log(`🔗 После объединения: ${merged.length}`);
+    // Сохраняем
+    const output = {
+        metadata: archiveMetadata,
+        events: filteredEvents
+    };
     
-    // Удаляем старые (>1 года)
-    const recent = filterRecent(merged);
-    const removed = merged.length - recent.length;
-    console.log(`🗑️ Удалено старых (>1 года): ${removed}`);
-    console.log(`📊 Актуальных событий: ${recent.length}`);
+    saveJSON(ARCHIVE_FILE, output);
     
-    // Сортируем: новые первые
-    recent.sort((a, b) => new Date(b.date) - new Date(a.date));
+    console.log('✅ Archive updated:');
+    console.log(`   Added: ${added}`);
+    console.log(`   Duplicates skipped: ${duplicates}`);
+    console.log(`   Old events removed: ${removed}`);
+    console.log(`   Total in archive: ${filteredEvents.length}`);
     
-    // Обновляем архив (все актуальные события)
-    archive.events = recent;
-    saveArchive(archive);
+    // Обновляем current.events с пометкой об архивации
+    current.metadata.archivedTotal = filteredEvents.length;
+    current.metadata.archiveUpdated = new Date().toISOString();
+    saveJSON(EVENTS_FILE, current);
     
-    // Берём последние 50 для отображения на карте
-    const forDisplay = recent.slice(0, 50);
-    saveCurrentEvents(forDisplay, recent.length);
-    
-    // Статистика по типам
-    const byType = {};
-    recent.forEach(e => byType[e.type] = (byType[e.type] || 0) + 1);
-    console.log(`\n📈 Статистика по типам (всего):`);
-    Object.entries(byType).forEach(([type, count]) => {
-        console.log(`   ${type}: ${count}`);
-    });
-    
-    // Статистика по странам (топ-5)
-    const byCountry = {};
-    recent.forEach(e => byCountry[e.country] = (byCountry[e.country] || 0) + 1);
-    console.log(`\n🌍 Топ стран:`);
-    Object.entries(byCountry)
-        .sort((a, b) => b[1] - a[1])
-        .slice(0, 5)
-        .forEach(([country, count]) => {
-            console.log(`   ${country}: ${count}`);
-        });
-    
-    console.log(`\n✅ Архив обновлён!`);
-    console.log(`📁 Всего в архиве: ${recent.length}`);
-    console.log(`🗺️ На карте: ${forDisplay.length}`);
+    console.log('\n📋 Current file updated with archive reference');
 }
 
 archiveEvents();
