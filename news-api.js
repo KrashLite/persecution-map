@@ -1,4 +1,4 @@
-// news-api.js — Обновлённая версия с расширенными источниками
+// news-api.js — Обновлённая версия с упрощёнными зависимостями
 const fs = require('fs');
 const path = require('path');
 const DataSourceManager = require('./js/sources.js');
@@ -239,9 +239,9 @@ async function updateViaNewsAPI() {
     const result = await manager.collectAll({
         useRSS: true,
         useAPI: true,
-        useWeb: false, // Включите если установлены axios, cheerio, jsdom
         maxEvents: 100,
-        minRelevanceScore: 3
+        minRelevanceScore: 3,
+        apiKey: process.env.NEWS_API_KEY
     });
     
     // Переводим заголовки и описания
@@ -254,7 +254,6 @@ async function updateViaNewsAPI() {
             ...event,
             title: translatedTitle || event.title,
             description: translatedDesc || event.description,
-            // Удаляем служебные поля
             rawTitle: undefined,
             relevanceScore: undefined
         };
@@ -298,7 +297,7 @@ async function updateViaNewsAPI() {
     
     console.log('\n📈 By type:');
     Object.entries(result.stats.byType).forEach(([type, count]) => {
-        console.log(`   ${type}: ${count}`);
+        console.log(`    ${type}: ${count}`);
     });
     
     console.log('\n🌍 Top countries:');
@@ -306,17 +305,18 @@ async function updateViaNewsAPI() {
         .sort((a, b) => b[1] - a[1])
         .slice(0, 5)
         .forEach(([country, count]) => {
-            console.log(`   ${country}: ${count}`);
+            console.log(`    ${country}: ${count}`);
         });
     
     console.log('\n📝 Sample translated titles:');
     translatedEvents.slice(0, 5).forEach((e, i) => {
-        console.log(`   ${i + 1}. [${e.type}] ${e.title.substring(0, 60)}...`);
+        console.log(`    ${i + 1}. [${e.type}] ${e.title.substring(0, 60)}...`);
     });
     
     return output;
 }
 
+// Fallback данные (расширенные)
 function generateRealisticTestData() {
     const today = new Date();
     const events = [];
@@ -343,13 +343,11 @@ function generateRealisticTestData() {
         { country: 'Cameroon', city: 'Яунде', type: 'attack', title: 'Школа при церкви сожжена', victims: 0 },
         { country: 'Central African Republic', city: 'Банги', type: 'attack', title: 'Мусульманские боевики атаковали церковь', victims: 4 }
     ];
-    // ... остальной код без изменений
     
     scenarios.forEach((s, i) => {
         const date = new Date(today);
         date.setDate(date.getDate() - i);
         
-        // Получаем координаты
         const manager = new DataSourceManager();
         const coords = manager.getCoordinates(s.country, s.city);
         
@@ -398,4 +396,3 @@ updateViaNewsAPI().catch(err => {
     
     console.log('🔧 Fallback data saved');
 });
-
