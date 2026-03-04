@@ -21,14 +21,16 @@ jobs:
         with:
           node-version: '18'
       
+      # ИСПРАВЛЕНО: Очистка + свежая установка
       - name: Install dependencies
-        run: npm install
+        run: |
+          rm -rf node_modules package-lock.json
+          npm install
       
       # Шаг 1: Сбор данных из всех источников
       - name: Collect data from all sources
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
-          # EVENT_REGISTRY_KEY: ${{ secrets.EVENT_REGISTRY_KEY }}  # Опционально
         run: |
           echo "=== НАЧАЛО СБОРА ДАННЫХ ==="
           node news-api.js
