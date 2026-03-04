@@ -317,7 +317,6 @@ async function updateViaNewsAPI() {
     return output;
 }
 
-// Fallback данные (расширенные)
 function generateRealisticTestData() {
     const today = new Date();
     const events = [];
@@ -342,8 +341,9 @@ function generateRealisticTestData() {
         { country: 'Burkina Faso', city: 'Уагадугу', type: 'murder', title: 'Пастор убит во время проповеди', victims: 1 },
         { country: 'Mali', city: 'Бамако', type: 'kidnapping', title: 'Миссионеры похищены боевиками', victims: 3 },
         { country: 'Cameroon', city: 'Яунде', type: 'attack', title: 'Школа при церкви сожжена', victims: 0 },
-        { country: 'Central African Republic': ['bangui'], type: 'attack', title: 'Мусульманские боевики атаковали церковь', victims: 4 }
+        { country: 'Central African Republic', city: 'Банги', type: 'attack', title: 'Мусульманские боевики атаковали церковь', victims: 4 }
     ];
+    // ... остальной код без изменений
     
     scenarios.forEach((s, i) => {
         const date = new Date(today);
@@ -398,3 +398,4 @@ updateViaNewsAPI().catch(err => {
     
     console.log('🔧 Fallback data saved');
 });
+
