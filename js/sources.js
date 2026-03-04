@@ -1,8 +1,6 @@
-// js/sources.js — Универсальный сборщик данных из множества источников
-const axios = require('axios');
-const cheerio = require('cheerio');
+// js/sources.js — Упрощённая стабильная версия без проблемных зависимостей
+const https = require('https');
 const RSSParser = require('rss-parser');
-const { JSDOM } = require('jsdom');
 
 class DataSourceManager {
     constructor() {
@@ -10,10 +8,9 @@ class DataSourceManager {
             timeout: 20000,
             headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' }
         });
-        
-        // Существующие + новые источники
+
+        // Только RSS источники (стабильные)
         this.sources = {
-            // === RSS источники (существующие + новые) ===
             rss: {
                 // Христианские новостные агентства
                 vaticanNews: 'https://www.vaticannews.va/ru/church/rss.xml',
@@ -25,190 +22,69 @@ class DataSourceManager {
                 aleteia: 'https://aleteia.org/feed/',
                 catholicHerald: 'https://catholicherald.co.uk/feed/',
                 
-                // Новые: Международные правозащитные
+                // Правозащитные
                 opendoors: 'https://www.opendoors.org/news/rss.xml',
                 persecution: 'https://persecution.org/feed/',
-                cswnigeria: 'https://www.csw.org.uk/category/nigeria/feed/',
-                cswpakistan: 'https://www.csw.org.uk/category/pakistan/feed/',
-                cswchina: 'https://www.csw.org.uk/category/china/feed/',
-                cswindia: 'https://www.csw.org.uk/category/india/feed/',
                 
-                // Новые: Региональные христианские
+                // Региональные
                 christianpost: 'https://www.christianpost.com/news/world/feed/',
                 christiantoday: 'https://www.christiantoday.com/rss/world.xml',
-                evangelicalfocus: 'https://evangelicalfocus.com/rss',
-                missionnetworknews: 'https://mnnonline.org/feed/',
                 morningstarnews: 'https://morningstarnews.org/feed/',
                 barnabasfund: 'https://barnabasfund.org/rss',
                 
-                // Новые: Новости по странам
+                // Новости по странам
                 nigerianews: 'https://www.vanguardngr.com/feed/',
                 punchng: 'https://punchng.com/feed/',
-                dailypostng: 'https://dailypost.ng/feed/',
-                premiumtimesng: 'https://www.premiumtimesng.com/feed/',
                 
-                // Новые: Азия
+                // Азия
                 ucanews: 'https://www.ucanews.com/rss',
-                asianews: 'https://www.asianews.it/rss.xml',
-                
-                // Новые: Ближний Восток
-                middleeasteye: 'https://www.middleeasteye.net/rss',
-                almonitor: 'https://www.al-monitor.com/rss',
-                
-                // Новые: Общие религиозные
-                religionnews: 'https://religionnews.com/feed/',
-                rns: 'https://religionnews.com/feed/',
-                worldreligionnews: 'https://worldreligionnews.com/feed/'
-            },
-            
-            // === API источники ===
-            api: {
-                // NewsAPI (существующий)
-                newsapi: {
-                    url: 'https://newsapi.org/v2/everything',
-                    key: process.env.NEWS_API_KEY,
-                    queries: [
-                        'christian persecution Nigeria',
-                        'church attack India',
-                        'pastor arrested China',
-                        'blasphemy Pakistan',
-                        'coptic persecution Egypt',
-                        'christian killed Iraq',
-                        'house church Iran',
-                        'religious freedom violation'
-                    ]
-                },
-                
-                // Новый: GDELT Project (бесплатный, не требует ключа)
-                gdelt: {
-                    url: 'https://api.gdeltproject.org/api/v2/doc/doc',
-                    params: {
-                        query: 'christian persecution',
-                        mode: 'artlist',
-                        maxrecords: 50,
-                        format: 'json'
-                    }
-                },
-                
-                // Новый: Event Registry (требует ключ, есть бесплатный tier)
-                eventregistry: {
-                    url: 'https://eventregistry.org/api/v1/article/getArticles',
-                    key: process.env.EVENT_REGISTRY_KEY
-                }
-            },
-            
-            // === Web scraping источники ===
-            web: {
-                // Мониторинг гонений (специализированные сайты)
-                opendoorsusa: {
-                    url: 'https://www.opendoorsusa.org/christian-persecution/stories/',
-                    selector: '.story-card'
-                },
-                persecutionorg: {
-                    url: 'https://persecution.org/category/news/',
-                    selector: 'article.post'
-                },
-                worldwatchmonitor: {
-                    url: 'https://www.worldwatchmonitor.org/news/',
-                    selector: '.news-item'
-                },
-                
-                // Правозащитные организации
-                hrw: {
-                    url: 'https://www.hrw.org/news?theme=religious-freedom',
-                    selector: '.article-summary'
-                },
-                amnesty: {
-                    url: 'https://www.amnesty.org/en/search/?q=christian+persecution',
-                    selector: '.search-result'
-                },
-                uscirf: {
-                    url: 'https://www.uscirf.gov/news-room',
-                    selector: '.views-row'
-                }
-            },
-            
-            // === Социальные сети и мессенджеры ===
-            social: {
-                // Telegram каналы (через RSS боты или API)
-                telegram: {
-                    // Нужен bot token и chat_id
-                    channels: [
-                        '@christian_persecution_news',
-                        '@religious_freedom_watch'
-                    ]
-                }
+                asianews: 'https://www.asianews.it/rss.xml'
             }
         };
         
-        // Ключевые слова для фильтрации (расширенный список)
+        // Ключевые слова для фильтрации
         this.keywords = {
-            // Существующие
             primary: [
                 'christian', 'christians', 'church', 'churches', 'pastor', 'pastors',
                 'priest', 'priests', 'congregation', 'worshippers', 'believers',
                 'copt', 'copts', 'evangelical', 'protestant', 'catholic', 'orthodox',
                 'house church', 'underground church', 'bible', 'persecution', 'martyr'
             ],
-            
-            // Новые: Действия
             actions: [
                 'killed', 'murdered', 'massacred', 'slain', 'executed', 'beheaded',
                 'stoned', 'burned', 'tortured', 'martyred', 'beaten', 'whipped',
                 'attacked', 'ambushed', 'raided', 'stormed', 'bombed', 'shooting',
                 'shot', 'kidnapped', 'abducted', 'hostage', 'ransom', 'arrested',
                 'detained', 'imprisoned', 'jailed', 'sentenced', 'convicted',
-                'charged', 'interrogated', 'discrimination', 'harassed', 'threatened',
-                'forced', 'coerced', 'expelled', 'displaced', 'destroyed', 'burned down',
-                'torched', 'looted', 'vandalized', 'desecrated', 'closed', 'sealed',
-                'demolished', 'razed', 'confiscated', 'banned', 'outlawed', 'restricted'
+                'discrimination', 'harassed', 'threatened', 'forced', 'expelled',
+                'displaced', 'destroyed', 'burned down', 'torched', 'looted',
+                'vandalized', 'desecrated', 'closed', 'sealed', 'demolished',
+                'confiscated', 'banned', 'outlawed', 'restricted'
             ],
-            
-            // Новые: Группы
-            groups: [
-                'isis', 'islamic state', 'boko haram', 'al-qaeda', 'taliban',
-                'fulani', 'herdsmen', 'militia', 'mob', 'radicals', 'extremists',
-                'insurgents', 'rebels', 'terrorists'
-            ],
-            
-            // Новые: Страны (для дополнительной фильтрации)
             countries: [
                 'nigeria', 'india', 'china', 'pakistan', 'iran', 'iraq', 'syria',
                 'egypt', 'eritrea', 'north korea', 'somalia', 'libya', 'afghanistan',
                 'yemen', 'sudan', 'myanmar', 'burkina faso', 'mali', 'niger',
                 'cameroon', 'central african republic', 'congo', 'mozambique',
                 'ethiopia', 'kenya', 'uganda', 'tanzania', 'algeria', 'morocco',
-                'tunisia', 'mauritania', 'saudi arabia', 'uae', 'qatar', 'kuwait',
-                'bahrain', 'oman', 'jordan', 'lebanon', 'turkey', 'azerbaijan',
-                'turkmenistan', 'uzbekistan', 'tajikistan', 'kyrgyzstan',
-                'kazakhstan', 'maldives', 'brunei', 'bangladesh', 'sri lanka',
+                'tunisia', 'saudi arabia', 'uae', 'qatar', 'kuwait', 'bahrain',
+                'oman', 'jordan', 'lebanon', 'turkey', 'bangladesh', 'sri lanka',
                 'nepal', 'laos', 'vietnam', 'cambodia', 'thailand', 'malaysia',
-                'indonesia', 'philippines', 'papua new guinea', 'fiji',
-                'colombia', 'mexico', 'cuba', 'venezuela', 'nicaragua', 'cuba'
+                'indonesia', 'philippines', 'colombia', 'mexico', 'cuba', 'venezuela'
             ]
         };
         
-        // Стоп-слова (расширенные)
         this.stopWords = [
-            'gold price', 'bitcoin', 'crypto', 'cryptocurrency', 'stock market',
-            'wall street', 'weather forecast', 'climate change', 'global warming',
-            'sports', 'football', 'soccer', 'basketball', 'baseball', 'cricket',
-            'tennis', 'olympics', 'world cup', 'celebrity', 'hollywood', 'bollywood',
-            'movie', 'film', 'actor', 'actress', 'singer', 'album', 'concert',
-            'fashion', 'beauty', 'makeup', 'recipe', 'cooking', 'restaurant',
-            'hotel', 'travel guide', 'vacation', 'tourism', 'book review',
-            'couldn\'t put down', 'this summer', 'weekend getaway', 'diy',
-            'how to', 'tips for', 'ways to', 'reasons why', 'the best',
-            'the worst', 'ranked', 'vs', 'versus', 'compared', 'analysis',
-            'opinion', 'editorial', 'letter to', 'guest column', 'sponsored',
-            'advertisement', 'promoted', 'paid content', 'festival', 'documentary',
-            'debut', 'directorial', 'oscar', 'binoche', 'netflix', 'streaming',
-            'review', 'rating', 'stars', 'out of 10', 'trailer', 'premiere'
+            'gold price', 'bitcoin', 'crypto', 'stock market', 'wall street',
+            'weather forecast', 'climate change', 'sports', 'football', 'soccer',
+            'celebrity', 'hollywood', 'bollywood', 'movie', 'film', 'actor',
+            'singer', 'album', 'concert', 'fashion', 'recipe', 'cooking',
+            'restaurant', 'hotel', 'travel guide', 'vacation', 'tourism',
+            'book review', 'this summer', 'weekend getaway', 'diy', 'how to',
+            'netflix', 'streaming', 'review', 'trailer', 'premiere'
         ];
     }
-    
-    // ==================== RSS СБОР ====================
-    
+
     async fetchRSS(url, retries = 2) {
         for (let i = 0; i <= retries; i++) {
             try {
@@ -216,7 +92,7 @@ class DataSourceManager {
                 return feed.items || [];
             } catch (err) {
                 if (i === retries) {
-                    console.log(`   ❌ RSS failed after ${retries + 1} attempts: ${err.message}`);
+                    console.log(`   ❌ RSS failed: ${err.message.substring(0, 50)}`);
                     return [];
                 }
                 await new Promise(r => setTimeout(r, 2000 * (i + 1)));
@@ -224,7 +100,7 @@ class DataSourceManager {
         }
         return [];
     }
-    
+
     async collectRSS() {
         const allItems = [];
         const errors = [];
@@ -249,210 +125,110 @@ class DataSourceManager {
             } catch (err) {
                 errors.push({ source: name, error: err.message });
             }
-            
-            // Rate limiting
-            await new Promise(r => setTimeout(r, 500));
+            await new Promise(r => setTimeout(r, 300)); // Rate limiting
         }
         
         return { items: allItems, errors };
     }
-    
-    // ==================== API СБОР ====================
-    
-    async collectNewsAPI() {
-        const { url, key, queries } = this.sources.api.newsapi;
-        if (!key) {
+
+    fetchNewsAPI(query, apiKey) {
+        return new Promise((resolve) => {
+            const url = `https://newsapi.org/v2/everything?q=${encodeURIComponent(query)}&language=en&sortBy=publishedAt&pageSize=10&apiKey=${apiKey}`;
+            
+            https.get(url, { headers: { 'User-Agent': 'PersecutionMap/1.0' }, timeout: 15000 }, (res) => {
+                let data = '';
+                res.on('data', chunk => data += chunk);
+                res.on('end', () => {
+                    try {
+                        const json = JSON.parse(data);
+                        if (json.status === 'error') {
+                            console.log(`   ⚠️ NewsAPI error: ${json.message}`);
+                            resolve([]);
+                        } else {
+                            resolve(json.articles || []);
+                        }
+                    } catch (e) { resolve([]); }
+                });
+            }).on('error', () => resolve([])).on('timeout', () => resolve([]));
+        });
+    }
+
+    async collectNewsAPI(apiKey) {
+        if (!apiKey) {
             console.log('   ⚠️ NewsAPI key not found');
-            return { items: [], errors: [{ source: 'newsapi', error: 'No API key' }] };
+            return { items: [], errors: [] };
         }
+        
+        const queries = [
+            'christian persecution Nigeria',
+            'church attack India',
+            'pastor arrested China',
+            'blasphemy Pakistan',
+            'coptic persecution Egypt',
+            'christian killed Iraq',
+            'house church Iran'
+        ];
         
         const allItems = [];
         const errors = [];
         
         console.log(`\n🔑 NewsAPI: ${queries.length} queries`);
         
-        for (const query of queries.slice(0, 5)) { // Limit to prevent rate limiting
-            try {
-                const response = await axios.get(url, {
-                    params: {
-                        q: query,
-                        language: 'en',
-                        sortBy: 'publishedAt',
-                        pageSize: 20,
-                        apiKey: key
-                    },
-                    timeout: 15000
-                });
-                
-                const articles = response.data.articles || [];
-                console.log(`   ✅ "${query}": ${articles.length} articles`);
-                
-                articles.forEach(article => {
-                    allItems.push({
-                        title: article.title || '',
-                        description: article.description || '',
-                        url: article.url || '',
-                        date: article.publishedAt || new Date().toISOString(),
-                        source: `newsapi:${article.source?.name || 'unknown'}`,
-                        type: 'api'
-                    });
-                });
-                
-                await new Promise(r => setTimeout(r, 1000)); // Rate limit
-            } catch (err) {
-                errors.push({ source: 'newsapi', query, error: err.message });
-            }
-        }
-        
-        return { items: allItems, errors };
-    }
-    
-    async collectGDELT() {
-        // GDELT — бесплатный источник, не требует ключа
-        const { url, params } = this.sources.api.gdelt;
-        const allItems = [];
-        
-        try {
-            const response = await axios.get(url, {
-                params: {
-                    ...params,
-                    query: 'christian persecution'
-                },
-                timeout: 20000
-            });
-            
-            // GDELT возвращает список статей
-            const articles = response.data || [];
-            console.log(`   ✅ GDELT: ${articles.length} articles`);
+        for (const query of queries) {
+            const articles = await this.fetchNewsAPI(query, apiKey);
+            console.log(`   ✅ "${query.substring(0, 30)}...": ${articles.length} articles`);
             
             articles.forEach(article => {
                 allItems.push({
                     title: article.title || '',
-                    description: article.seen || '',
+                    description: article.description || '',
                     url: article.url || '',
-                    date: article.seendate || new Date().toISOString(),
-                    source: `gdelt:${article.domain || 'unknown'}`,
+                    date: article.publishedAt || new Date().toISOString(),
+                    source: `newsapi:${article.source?.name || 'unknown'}`,
                     type: 'api'
                 });
             });
-        } catch (err) {
-            return { items: [], errors: [{ source: 'gdelt', error: err.message }] };
-        }
-        
-        return { items: allItems, errors: [] };
-    }
-    
-    // ==================== WEB SCRAPING ====================
-    
-    async scrapeWebsite(name, config) {
-        try {
-            const response = await axios.get(config.url, {
-                headers: {
-                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-                },
-                timeout: 15000
-            });
             
-            const dom = new JSDOM(response.data);
-            const document = dom.window.document;
-            const elements = document.querySelectorAll(config.selector);
-            
-            const items = [];
-            elements.forEach(el => {
-                const title = el.querySelector('h2, h3, h4, .title, a')?.textContent || '';
-                const link = el.querySelector('a')?.href || '';
-                const desc = el.querySelector('.excerpt, .summary, p')?.textContent || '';
-                
-                if (title) {
-                    items.push({
-                        title: title.trim(),
-                        description: desc.trim(),
-                        url: link.startsWith('http') ? link : new URL(link, config.url).href,
-                        date: new Date().toISOString(),
-                        source: `web:${name}`,
-                        type: 'web'
-                    });
-                }
-            });
-            
-            console.log(`   ✅ ${name}: ${items.length} items`);
-            return { items, errors: [] };
-        } catch (err) {
-            return { items: [], errors: [{ source: name, error: err.message }] };
-        }
-    }
-    
-    async collectWeb() {
-        const allItems = [];
-        const errors = [];
-        
-        console.log(`\n🌐 Web Scraping: ${Object.keys(this.sources.web).length} sources`);
-        
-        // Параллельно, но с ограничением
-        const batchSize = 3;
-        const entries = Object.entries(this.sources.web);
-        
-        for (let i = 0; i < entries.length; i += batchSize) {
-            const batch = entries.slice(i, i + batchSize);
-            const results = await Promise.all(
-                batch.map(([name, config]) => this.scrapeWebsite(name, config))
-            );
-            
-            results.forEach(result => {
-                allItems.push(...result.items);
-                errors.push(...result.errors);
-            });
-            
-            await new Promise(r => setTimeout(r, 2000)); // Rate limiting between batches
+            await new Promise(r => setTimeout(r, 1000));
         }
         
         return { items: allItems, errors };
     }
-    
-    // ==================== ФИЛЬТРАЦИЯ И ОБРАБОТКА ====================
-    
+
     isRelevant(item) {
         const text = `${item.title} ${item.description}`.toLowerCase();
         
-        // Проверка стоп-слов
         for (const stop of this.stopWords) {
             if (text.includes(stop.toLowerCase())) return false;
         }
         
-        // Проверка ключевых слов
         const hasChristian = this.keywords.primary.some(k => text.includes(k.toLowerCase()));
         const hasAction = this.keywords.actions.some(k => text.includes(k.toLowerCase()));
         const hasCountry = this.keywords.countries.some(k => text.includes(k.toLowerCase()));
         
-        // Должно быть: христиане + действие, или христиане + страна
         return (hasChristian && hasAction) || (hasChristian && hasCountry);
     }
-    
+
     calculateRelevanceScore(item) {
         const text = `${item.title} ${item.description}`.toLowerCase();
         let score = 0;
         
-        // Чем больше ключевых слов — тем выше релевантность
         [...this.keywords.primary, ...this.keywords.actions].forEach(kw => {
             const matches = (text.match(new RegExp(kw, 'gi')) || []).length;
             score += matches * 2;
         });
         
-        // Бонус за конкретные страны с высоким уровнем гонений
         const highRisk = ['nigeria', 'pakistan', 'iran', 'north korea', 'somalia', 'libya', 'yemen'];
         highRisk.forEach(country => {
             if (text.includes(country)) score += 5;
         });
         
-        // Бонус за конкретные действия
         if (/killed|murdered|massacred/i.test(text)) score += 3;
         if (/kidnapped|abducted/i.test(text)) score += 2;
         
         return score;
     }
-    
-    // ==================== ГЕОКОДИРОВАНИЕ ====================
-    
+
     detectCountry(text) {
         const t = text.toLowerCase();
         const countries = {
@@ -471,7 +247,7 @@ class DataSourceManager {
             'Afghanistan': ['afghanistan', 'afghan', 'kabul'],
             'Yemen': ['yemen', 'yemeni', 'sanaa'],
             'Sudan': ['sudan', 'sudanese', 'khartoum'],
-            'Myanmar': ['myanmar', 'burma', 'burmese', 'yangon', 'mandalay'],
+            'Myanmar': ['myanmar', 'burma', 'yangon', 'mandalay'],
             'Burkina Faso': ['burkina faso', 'ouagadougou'],
             'Mali': ['mali', 'malian', 'bamako'],
             'Niger': ['niger', 'niamey'],
@@ -486,24 +262,7 @@ class DataSourceManager {
             'Algeria': ['algeria', 'algerian', 'algiers'],
             'Morocco': ['morocco', 'moroccan', 'rabat', 'casablanca'],
             'Tunisia': ['tunisia', 'tunisian', 'tunis'],
-            'Mauritania': ['mauritania', 'nouakchott'],
             'Saudi Arabia': ['saudi arabia', 'saudi', 'riyadh', 'jeddah'],
-            'United Arab Emirates': ['uae', 'dubai', 'abu dhabi'],
-            'Qatar': ['qatar', 'qatari', 'doha'],
-            'Kuwait': ['kuwait', 'kuwait city'],
-            'Bahrain': ['bahrain', 'manama'],
-            'Oman': ['oman', 'omani', 'muscat'],
-            'Jordan': ['jordan', 'jordanian', 'amman'],
-            'Lebanon': ['lebanon', 'lebanese', 'beirut'],
-            'Turkey': ['turkey', 'turkish', 'istanbul', 'ankara'],
-            'Azerbaijan': ['azerbaijan', 'baku'],
-            'Turkmenistan': ['turkmenistan', 'ashgabat'],
-            'Uzbekistan': ['uzbekistan', 'uzbek', 'tashkent'],
-            'Tajikistan': ['tajikistan', 'dushanbe'],
-            'Kyrgyzstan': ['kyrgyzstan', 'bishkek'],
-            'Kazakhstan': ['kazakhstan', 'kazakh', 'astana'],
-            'Maldives': ['maldives', 'male'],
-            'Brunei': ['brunei', 'bandar seri begawan'],
             'Bangladesh': ['bangladesh', 'bangladeshi', 'dhaka'],
             'Sri Lanka': ['sri lanka', 'colombo'],
             'Nepal': ['nepal', 'kathmandu'],
@@ -514,14 +273,10 @@ class DataSourceManager {
             'Malaysia': ['malaysia', 'malaysian', 'kuala lumpur'],
             'Indonesia': ['indonesia', 'indonesian', 'jakarta'],
             'Philippines': ['philippines', 'filipino', 'manila'],
-            'Papua New Guinea': ['papua new guinea', 'port moresby'],
-            'Fiji': ['fiji', 'suva'],
             'Colombia': ['colombia', 'colombian', 'bogota'],
             'Mexico': ['mexico', 'mexican', 'mexico city'],
             'Cuba': ['cuba', 'cuban', 'havana'],
-            'Venezuela': ['venezuela', 'venezuelan', 'caracas'],
-            'Nicaragua': ['nicaragua', 'managua'],
-            'Russia': ['russia', 'russian', 'moscow', 'chechnya', 'dagestan']
+            'Venezuela': ['venezuela', 'venezuelan', 'caracas']
         };
         
         for (const [country, terms] of Object.entries(countries)) {
@@ -530,11 +285,10 @@ class DataSourceManager {
         
         return null;
     }
-    
+
     detectType(text) {
         const t = text.toLowerCase();
         
-        // Приоритет: убийство > похищение > арест > дискриминация > атака > другое
         if (t.match(/killed|murdered|death|dead|slain|massacre|execution|martyred|stoned|beheaded|died/))
             return 'murder';
         if (t.match(/kidnap|abduct|hostage|captive|ransom/))
@@ -548,7 +302,7 @@ class DataSourceManager {
         
         return 'other';
     }
-    
+
     extractVictims(text) {
         const patterns = [
             /(\d+)\s*(?:people|persons|christians|believers|victims|dead|killed|died)/i,
@@ -570,16 +324,13 @@ class DataSourceManager {
             }
         }
         
-        // Специальные случаи
         if (/\bdozens\b/i.test(text)) return 24;
         if (/\bscores\b/i.test(text)) return 40;
         if (/\bhundreds\b/i.test(text)) return 150;
         
         return 0;
     }
-    
-    // ==================== КООРДИНАТЫ ====================
-    
+
     getCoordinates(country, city = null) {
         const data = {
             'Nigeria': { lat: 9.0820, lng: 8.6753, cities: {
@@ -590,12 +341,11 @@ class DataSourceManager {
             'India': { lat: 20.5937, lng: 78.9629, cities: {
                 'Delhi': [28.7041, 77.1025], 'Mumbai': [19.0760, 72.8777],
                 'Odisha': [20.9517, 85.0985], 'Chhattisgarh': [21.2787, 81.8661],
-                'Uttar Pradesh': [26.8467, 80.9462], 'Karnataka': [15.3173, 75.7139]
+                'Uttar Pradesh': [26.8467, 80.9462]
             }},
             'China': { lat: 35.8617, lng: 104.1954, cities: {
                 'Beijing': [39.9042, 116.4074], 'Shanghai': [31.2304, 121.4737],
-                'Xinjiang': [43.7930, 87.6278], 'Guangdong': [23.3790, 113.7633],
-                'Shenzhen': [22.5431, 114.0579], 'Chengdu': [30.5728, 104.0668]
+                'Xinjiang': [43.7930, 87.6278], 'Guangdong': [23.3790, 113.7633]
             }},
             'Pakistan': { lat: 30.3753, lng: 69.3451, cities: {
                 'Lahore': [31.5204, 74.3587], 'Islamabad': [33.6844, 73.0479],
@@ -611,7 +361,7 @@ class DataSourceManager {
             }},
             'Syria': { lat: 34.8021, lng: 38.9968, cities: {
                 'Damascus': [33.5138, 36.2765], 'Aleppo': [36.2021, 37.1343],
-                'Homs': [34.7308, 36.7094], 'Al-Hasakah': [36.5021, 40.7472]
+                'Homs': [34.7308, 36.7094]
             }},
             'Egypt': { lat: 26.8206, lng: 30.8025, cities: {
                 'Cairo': [30.0444, 31.2357], 'Alexandria': [31.2001, 29.9187],
@@ -683,59 +433,8 @@ class DataSourceManager {
             'Tunisia': { lat: 33.8869, lng: 9.5375, cities: {
                 'Tunis': [36.8065, 10.1815]
             }},
-            'Mauritania': { lat: 21.0079, lng: -10.9408, cities: {
-                'Nouakchott': [18.0735, -15.9582]
-            }},
             'Saudi Arabia': { lat: 23.8859, lng: 45.0792, cities: {
                 'Riyadh': [24.7136, 46.6753], 'Jeddah': [21.4858, 39.1925]
-            }},
-            'United Arab Emirates': { lat: 23.4241, lng: 53.8478, cities: {
-                'Dubai': [25.2048, 55.2708], 'Abu Dhabi': [24.4539, 54.3773]
-            }},
-            'Qatar': { lat: 25.3548, lng: 51.1839, cities: {
-                'Doha': [25.2854, 51.5310]
-            }},
-            'Kuwait': { lat: 29.3117, lng: 47.4818, cities: {
-                'Kuwait City': [29.3759, 47.9774]
-            }},
-            'Bahrain': { lat: 26.0667, lng: 50.5577, cities: {
-                'Manama': [26.2285, 50.5860]
-            }},
-            'Oman': { lat: 21.4735, lng: 55.9754, cities: {
-                'Muscat': [23.5859, 58.4059]
-            }},
-            'Jordan': { lat: 30.5852, lng: 36.2384, cities: {
-                'Amman': [31.9454, 35.9284]
-            }},
-            'Lebanon': { lat: 33.8547, lng: 35.8623, cities: {
-                'Beirut': [33.8938, 35.5018]
-            }},
-            'Turkey': { lat: 38.9637, lng: 35.2433, cities: {
-                'Istanbul': [41.0082, 28.9784], 'Ankara': [39.9334, 32.8597]
-            }},
-            'Azerbaijan': { lat: 40.1431, lng: 47.5769, cities: {
-                'Baku': [40.4093, 49.8671]
-            }},
-            'Turkmenistan': { lat: 38.9697, lng: 59.5563, cities: {
-                'Ashgabat': [37.9601, 58.3261]
-            }},
-            'Uzbekistan': { lat: 41.3775, lng: 64.5853, cities: {
-                'Tashkent': [41.2995, 69.2401]
-            }},
-            'Tajikistan': { lat: 38.8610, lng: 71.2761, cities: {
-                'Dushanbe': [38.5598, 68.7870]
-            }},
-            'Kyrgyzstan': { lat: 41.2044, lng: 74.7661, cities: {
-                'Bishkek': [42.8746, 74.5698]
-            }},
-            'Kazakhstan': { lat: 48.0196, lng: 66.9237, cities: {
-                'Astana': [51.1605, 71.4704]
-            }},
-            'Maldives': { lat: 3.2028, lng: 73.2207, cities: {
-                'Male': [4.1755, 73.5093]
-            }},
-            'Brunei': { lat: 4.5353, lng: 114.7277, cities: {
-                'Bandar Seri Begawan': [4.9031, 114.9398]
             }},
             'Bangladesh': { lat: 23.6850, lng: 90.3563, cities: {
                 'Dhaka': [23.8103, 90.4125]
@@ -767,12 +466,6 @@ class DataSourceManager {
             'Philippines': { lat: 12.8797, lng: 121.7740, cities: {
                 'Manila': [14.5995, 120.9842]
             }},
-            'Papua New Guinea': { lat: -6.314993, lng: 143.95555, cities: {
-                'Port Moresby': [-9.4438, 147.1803]
-            }},
-            'Fiji': { lat: -16.5782, lng: 179.4141, cities: {
-                'Suva': [-18.1248, 178.4501]
-            }},
             'Colombia': { lat: 4.5709, lng: -74.2973, cities: {
                 'Bogota': [4.7110, -74.0721]
             }},
@@ -784,52 +477,38 @@ class DataSourceManager {
             }},
             'Venezuela': { lat: 6.4238, lng: -66.5897, cities: {
                 'Caracas': [10.4806, -66.9036]
-            }},
-            'Nicaragua': { lat: 12.8654, lng: -85.2072, cities: {
-                'Managua': [12.1140, -86.2362]
-            }},
-            'Russia': { lat: 61.5240, lng: 105.3188, cities: {
-                'Moscow': [55.7558, 37.6173], 'Chechnya': [43.4022, 45.7188]
             }}
         };
-        
+
         const countryData = data[country];
         if (!countryData) return { lat: 20, lng: 0, city: 'Unknown' };
-        
-        // Если город указан и есть в списке — используем его
+
         if (city && countryData.cities[city]) {
             const [lat, lng] = countryData.cities[city];
             return { lat, lng, city };
         }
-        
-        // Иначе — случайный город или центр страны с небольшим разбросом
+
         const cities = Object.keys(countryData.cities);
         if (cities.length > 0 && !city) {
             const randomCity = cities[Math.floor(Math.random() * cities.length)];
             const [lat, lng] = countryData.cities[randomCity];
             return { lat, lng, city: randomCity };
         }
-        
-        // Разброс от центра страны
+
         const lat = countryData.lat + (Math.random() - 0.5) * 2;
         const lng = countryData.lng + (Math.random() - 0.5) * 2;
         return { lat, lng, city: city || 'Unknown' };
     }
-    
-    // ==================== ПЕРЕВОД ====================
-    
-    // Используем существующий словарь из news-api.js
+
     translateText(text, dictionary) {
         if (!text || text.length < 3) return '';
         
         let result = text;
         
-        // Простая замена по словарю
         const words = result.split(/\b/);
         const translated = words.map(word => {
             const lower = word.toLowerCase();
             if (dictionary[lower]) {
-                // Выбираем именительный падеж (первый элемент)
                 return dictionary[lower][0];
             }
             return word;
@@ -837,22 +516,19 @@ class DataSourceManager {
         
         result = translated.join('');
         
-        // Пост-обработка
         result = result.replace(/\s+/g, ' ').trim();
         result = result.charAt(0).toUpperCase() + result.slice(1);
         
         return result;
     }
-    
-    // ==================== ОСНОВНОЙ МЕТОД СБОРА ====================
-    
+
     async collectAll(options = {}) {
         const {
             useRSS = true,
             useAPI = true,
-            useWeb = false, // Web scraping требует дополнительных зависимостей
             maxEvents = 100,
-            minRelevanceScore = 3
+            minRelevanceScore = 3,
+            apiKey = null
         } = options;
         
         console.log('🚀 Starting comprehensive data collection...\n');
@@ -868,21 +544,10 @@ class DataSourceManager {
         }
         
         // 2. APIs
-        if (useAPI) {
-            const newsapi = await this.collectNewsAPI();
+        if (useAPI && apiKey) {
+            const newsapi = await this.collectNewsAPI(apiKey);
             allRawItems.push(...newsapi.items);
             allErrors.push(...newsapi.errors);
-            
-            const gdelt = await this.collectGDELT();
-            allRawItems.push(...gdelt.items);
-            allErrors.push(...gdelt.errors);
-        }
-        
-        // 3. Web scraping (опционально)
-        if (useWeb) {
-            const web = await this.collectWeb();
-            allRawItems.push(...web.items);
-            allErrors.push(...web.errors);
         }
         
         console.log(`\n📊 Raw items collected: ${allRawItems.length}`);
@@ -925,7 +590,7 @@ class DataSourceManager {
                 url: item.url,
                 victims: victims,
                 relevanceScore: score,
-                rawTitle: item.title // для перевода
+                rawTitle: item.title
             };
             
             processed.push(event);
@@ -942,7 +607,7 @@ class DataSourceManager {
         // Ограничение количества
         const final = processed.slice(0, maxEvents);
         
-        console.log(`✅ Processed events: ${final.length}`);
+        console.log(`\n✅ Processed events: ${final.length}`);
         console.log(`📉 Filtered out: ${allRawItems.length - processed.length}`);
         
         return {
@@ -957,13 +622,13 @@ class DataSourceManager {
             }
         };
     }
-    
+
     countByType(events) {
         const counts = {};
         events.forEach(e => { counts[e.type] = (counts[e.type] || 0) + 1; });
         return counts;
     }
-    
+
     countByCountry(events) {
         const counts = {};
         events.forEach(e => { counts[e.country] = (counts[e.country] || 0) + 1; });
