@@ -1,8 +1,8 @@
-name: Daily News API Update
+name: Comprehensive Data Update
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # 9:00 МСК
+    - cron: '0 */6 * * *'  # Каждые 6 часов для большей актуальности
   workflow_dispatch:
 
 permissions:
@@ -21,42 +21,45 @@ jobs:
         with:
           node-version: '18'
       
-      - run: npm install
+      - name: Install dependencies
+        run: npm install
       
-      # Шаг 1: Получаем новые события из API
-      - name: Fetch new events
+      # Шаг 1: Сбор данных из всех источников
+      - name: Collect data from all sources
         env:
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+          # EVENT_REGISTRY_KEY: ${{ secrets.EVENT_REGISTRY_KEY }}  # Опционально
         run: |
-          echo "=== ПОЛУЧЕНИЕ НОВЫХ СОБЫТИЙ ==="
+          echo "=== НАЧАЛО СБОРА ДАННЫХ ==="
           node news-api.js
+          echo "=== СБОР ЗАВЕРШЁН ==="
       
-      # Шаг 2: Архивируем (добавляем к существующим, удаляем старые)
+      # Шаг 2: Архивация
       - name: Archive events
         run: |
           echo "=== АРХИВАЦИЯ ==="
           node archive-events.js
       
-      # Шаг 3: Проверяем что получилось
+      # Шаг 3: Проверка результата
       - name: Verify files
         run: |
           echo "=== ПРОВЕРКА ФАЙЛОВ ==="
           ls -lh data/
           echo ""
-          echo "events.json (для отображения):"
-          head -100 data/events.json
+          echo "events.json (первые 5 событий):"
+          cat data/events.json | jq '.events[:5]' || cat data/events.json | head -100
           echo ""
-          echo "events-archive.json (архив):"
-          head -50 data/events-archive.json
+          echo "events-archive.json (метаданные):"
+          cat data/events-archive.json | jq '.metadata' || cat data/events-archive.json | head -50
       
-      # Шаг 4: Коммитим оба файла
+      # Шаг 4: Коммит изменений
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🔄 Update: $(date +'%Y-%m-%d') | Архив: $(jq '.metadata.totalEvents' data/events-archive.json) событий"
+          commit_message: "🔄 Auto-update: $(date +'%Y-%m-%d %H:%M') | Events: $(jq '.events | length' data/events.json) | Archive: $(jq '.metadata.totalEvents' data/events-archive.json)"
           file_pattern: 'data/*.json'
       
-      # Шаг 5: Пересобираем GitHub Pages
+      # Шаг 5: Пересборка GitHub Pages
       - name: Trigger Pages rebuild
         uses: actions/github-script@v7
         with:
@@ -66,3 +69,12 @@ jobs:
               repo: context.repo.repo
             })
         continue-on-error: true
+      
+      # Шаг 6: Summary
+      - name: Create summary
+        run: |
+          echo "## 📊 Результат обновления" >> $GITHUB_STEP_SUMMARY
+          echo "- Время: $(date)" >> $GITHUB_STEP_SUMMARY
+          echo "- Событий в events.json: $(jq '.events | length' data/events.json)" >> $GITHUB_STEP_SUMMARY
+          echo "- В архиве: $(jq '.metadata.totalEvents' data/events-archive.json)" >> $GITHUB_STEP_SUMMARY
+          echo "- Последнее обновление: $(jq -r '.metadata.lastUpdated' data/events.json)" >> $GITHUB_STEP_SUMMARY
