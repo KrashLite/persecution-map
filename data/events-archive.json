@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-05T05:06:46.751Z",
-    "totalEvents": 113
+    "lastUpdated": "2026-03-05T14:33:54.359Z",
+    "totalEvents": 125
   },
   "events": [
     {
@@ -30,6 +30,19 @@
       "description": "In The Republic, Plato makes strong connections between город and soul, arguing that as the город is, so is the soul; both having a tripartite nature, corresponding to the rational/wisdom-loving, appetitive/desiring and spirited/honour-seeking elements",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/03/epstein-files-global-fallout-nigeria-is-too-tolerant-of-abuse-of-power-by-olu-fasan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-05",
+      "lat": 26.7184,
+      "lng": 80.9839,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "discrimination",
+      "title": "Asian Catholics begin spiritual, logistical preparations for World Youth Day Seoul 2027",
+      "description": "Церковь leaders in Bangladesh and India say visa hurdles and financial constraints are среди the biggest challenges facing young pilgrims hoping to attend the August 2027 gathering.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/asian-catholics-begin-spiritual-logistical-preparations-for-wyd-seoul-2027",
       "victims": 0
     },
     {
@@ -116,6 +129,45 @@
       "lng": 43.7629,
       "country": "Iraq",
       "city": "Erbil",
+      "type": "other",
+      "title": "Amid rising anxiety in Erbil, Catholic bishops say молитва, dialogue are path to peace",
+      "description": "Catholic leaders in Iraq are calling for молитва and peace talks as the country faces repercussions from the widening war in the Middle East.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/amid-rising-anxiety-in-erbil-catholic-bishops-say-prayer-dialogue-are-path-to-peace",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-04",
+      "lat": 36.0935,
+      "lng": 59.8001,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "‘2 hours to pack up’: How the Iranian conflict has upended Catholic pilgrimages in the регион",
+      "description": "The U.S. and Israeli strikes on Iran brought major conflict to the Middle East and sent христианин pilgrims scrambling for safe harbor there.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/two-hours-to-pack-up-how-the-iranian-conflict-has-upended-catholic-pilgrimages-in-the-region",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-04",
+      "lat": 23.5903,
+      "lng": 113.6124,
+      "country": "China",
+      "city": "Guangdong",
+      "type": "other",
+      "title": "Chinese Leaders Gather in Beijing Hoping World Ignores гонение",
+      "description": "China’s National люди’s Congress — a nearly 3,000-member legislative body that would be unwieldy if not for its near-unanimous voting record — is set to meet Thursday to kick off this year’s legislative session and unveil the country’s policy prior",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/04/chinese-leaders-gather-in-beijing-hoping-world-ignores-persecution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-04",
+      "lat": 33.1782,
+      "lng": 44.35,
+      "country": "Iraq",
+      "city": "Baghdad",
       "type": "other",
       "title": "Amid rising anxiety in Erbil, Catholic bishops say молитва, dialogue are path to peace",
       "description": "Catholic leaders in Iraq are calling for молитва and peace talks as the country faces repercussions from the widening war in the Middle East.",
@@ -316,6 +368,32 @@
       "description": "On 28 February, the US and Israel began a series of strikes on Iran, which have led to widespread escalation throughout the регион. христианин Emery writes that despite the effectiveness of the early военные action; President Trump has been vague on",
       "source": "newsapi:Lse.ac.uk",
       "url": "https://blogs.lse.ac.uk/usappblog/2026/03/03/the-us-war-on-iran-has-vague-deadlines-unclear-victory-goals-and-exit-strategy-and-no-easy-way-to-end/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-03",
+      "lat": 32.8805,
+      "lng": 51.4586,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Justice is 'being delivered', say Iranian христиане",
+      "description": "A global network of Iranian христиане has welcomed targeted strikes against Iran’s leadership by the US and Israel.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/justice-is-being-delivered-say-iranian-christians",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-03",
+      "lat": 32.6719,
+      "lng": 51.5012,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "As Iran war widens, Eastern христиане face growing uncertainty",
+      "description": "Airstrikes on the Iranian capital, Tehran, and other major cities have raised serious concerns about the country’s христианин communities as well as those in the wider регион.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/as-iran-war-widens-eastern-christians-face-growing-uncertainty",
       "victims": 0
     },
     {
@@ -748,6 +826,45 @@
       "victims": 0
     },
     {
+      "date": "2026-02-28",
+      "lat": 33.6343,
+      "lng": 73.2212,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "other",
+      "title": "Pakistani Statesman Introduces Bill to Protect христианин and религиозный Minorities",
+      "description": "A христианин legislator in Pakistan’s Punjab провинция has introduced a bill to protect the property of религиозный minorities, включая христиане. Falbous Christopher, serving as a representative in the assembly of Pakistan’s most populated провинция,",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/02/28/pakistani-statesman-introduces-bill-to-protect-christian-and-religious-minorities/",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-28",
+      "lat": 11.8983,
+      "lng": 13.3976,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "kidnapping",
+      "title": "Nigeria rejects claims it paid выкуп and released Islamists to secure похищен дети",
+      "description": "A report by AFP includes claims that Nigeria paid as much as $7 million and released two Boko Haram commanders in exchange for the release of дети and staff похищен from a Catholic школа.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/nigeria-rejects-claims-it-paid-ransom-and-released-islamists-to-secure-kidnapped-children",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-28",
+      "lat": 9.429,
+      "lng": 9.5309,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "US unveils plan to end violence against христиане in Nigeria",
+      "description": "The plans were detailed in a report by US Congressman Riley M Moore.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/us-unveils-plan-to-end-violence-against-christians-in-nigeria",
+      "victims": 0
+    },
+    {
       "date": "2026-02-27",
       "lat": 29.1071,
       "lng": 76.6049,
@@ -1008,6 +1125,19 @@
       "victims": 0
     },
     {
+      "date": "2026-02-27",
+      "lat": 35.9894,
+      "lng": 37.3705,
+      "country": "Syria",
+      "city": "Aleppo",
+      "type": "murder",
+      "title": "Христианин teacher застрелен погибшие in Syrian sectarian violence",
+      "description": "Христианин школа teacher, Iman Jarrous, was застрелен погибшие in Homs.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christian-teacher-shot-dead-in-syrian-sectarian-violence",
+      "victims": 0
+    },
+    {
       "date": "2026-02-26",
       "lat": 20.9482,
       "lng": 84.7376,
@@ -1203,6 +1333,19 @@
       "victims": 0
     },
     {
+      "date": "2026-02-25",
+      "lat": 10.6493,
+      "lng": 7.6528,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "US Congress pushes Nigeria pact to combat terror, религиозный гонение",
+      "description": "US Congress proposes a new US-Nigeria pact to combat terror, protect христиане, and counter Chinese/Russian influence. See the key recommendations. Read More: https://punchng.com/us-congress-pushes-nigeria-pact-to-combat-terror-религиозный-persecutio",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-congress-pushes-nigeria-pact-to-combat-terror-religious-persecution/",
+      "victims": 0
+    },
+    {
       "date": "2026-02-24",
       "lat": 39.5539,
       "lng": 117.0292,
@@ -1384,6 +1527,19 @@
       "description": "Members of a христианин family were allegedly убит in India после extended family allegedly believed their обращение had caused illness in their family.",
       "source": "newsapi:The Daily Caller",
       "url": "https://dailycaller.com/2026/02/24/christian-family-killed-axe-curse-village-india-jitendra-soren/",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-24",
+      "lat": 6.6407,
+      "lng": 3.6174,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "US lawmakers find Nigeria 'deadliest' place for христиане",
+      "description": "US lawmakers release a report on their findings into предполагаемый гонение of христиане in Nigeria. It comes после President Donald Trump categorized the African nation as a \"country of particular concern\" last year.",
+      "source": "newsapi:DW (English)",
+      "url": "https://www.dw.com/en/us-designates-nigeria-as-deadliest-place-for-christians-nicki-minaj/a-76107415",
       "victims": 0
     },
     {
