@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-05T14:33:54.359Z",
-    "totalEvents": 125
+    "lastUpdated": "2026-03-05T20:05:35.428Z",
+    "totalEvents": 138
   },
   "events": [
     {
@@ -38,6 +38,45 @@
       "lng": 80.9839,
       "country": "India",
       "city": "Uttar Pradesh",
+      "type": "discrimination",
+      "title": "Asian Catholics begin spiritual, logistical preparations for World Youth Day Seoul 2027",
+      "description": "Церковь leaders in Bangladesh and India say visa hurdles and financial constraints are среди the biggest challenges facing young pilgrims hoping to attend the August 2027 gathering.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/asian-catholics-begin-spiritual-logistical-preparations-for-wyd-seoul-2027",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-05",
+      "lat": 28.549,
+      "lng": 77.1995,
+      "country": "India",
+      "city": "Delhi",
+      "type": "attack",
+      "title": "Tending to the ранен on the Frontlines",
+      "description": "On Sunday, Jan. 18, пастор Jagadish Mishra prepared to lead a богослужение service at his home in Odisha, India, with his wife and their 8-year-old daughter. With nearly 30 христиане present, a толпа of 50 angry индус nationalists штурмован into the пастор’s",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/05/tending-to-the-wounded-on-the-frontlines/",
+      "victims": 30
+    },
+    {
+      "date": "2026-03-05",
+      "lat": 32.6581,
+      "lng": 51.4704,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Catholic theologians urge Trump to follow just war doctrine as Iran conflict continues",
+      "description": "War is justified only to confront grave evil, its harm must not exceed the evil it seeks to end, and there must be a real chance of success, with all alternatives to war exhausted, the catechism says.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/iran-just-war",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-05",
+      "lat": 21.3153,
+      "lng": 81.711,
+      "country": "India",
+      "city": "Chhattisgarh",
       "type": "discrimination",
       "title": "Asian Catholics begin spiritual, logistical preparations for World Youth Day Seoul 2027",
       "description": "Церковь leaders in Bangladesh and India say visa hurdles and financial constraints are среди the biggest challenges facing young pilgrims hoping to attend the August 2027 gathering.",
@@ -168,6 +207,45 @@
       "lng": 44.35,
       "country": "Iraq",
       "city": "Baghdad",
+      "type": "other",
+      "title": "Amid rising anxiety in Erbil, Catholic bishops say молитва, dialogue are path to peace",
+      "description": "Catholic leaders in Iraq are calling for молитва and peace talks as the country faces repercussions from the widening war in the Middle East.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/amid-rising-anxiety-in-erbil-catholic-bishops-say-prayer-dialogue-are-path-to-peace",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-04",
+      "lat": 32.5535,
+      "lng": 51.5079,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "murder",
+      "title": "Settlers exploit war in Iran to commit new acts of violence in the West Bank",
+      "description": "Two Palestinian brothers were застрелен погибшие in a рейд in Qaryut, south of Nablus. New нападения and assaults also in the христианин деревня of Taybeh. Fr Bashar: not isolated incidents, but a ‘growing pattern of violence’ that raises “concerns”. Barriers an",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/03/04/settlers-exploit-war-in-iran-to-commit-new-acts-of-violence-in-the-west-bank/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-04",
+      "lat": 43.7845,
+      "lng": 87.701,
+      "country": "China",
+      "city": "Xinjiang",
+      "type": "other",
+      "title": "Chinese Leaders Gather in Beijing Hoping World Ignores гонение",
+      "description": "China’s National люди’s Congress — a nearly 3,000-member legislative body that would be unwieldy if not for its near-unanimous voting record — is set to meet Thursday to kick off this year’s legislative session and unveil the country’s policy prior",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/04/chinese-leaders-gather-in-beijing-hoping-world-ignores-persecution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-04",
+      "lat": 36.5771,
+      "lng": 43.2496,
+      "country": "Iraq",
+      "city": "Mosul",
       "type": "other",
       "title": "Amid rising anxiety in Erbil, Catholic bishops say молитва, dialogue are path to peace",
       "description": "Catholic leaders in Iraq are calling for молитва and peace talks as the country faces repercussions from the widening war in the Middle East.",
@@ -527,6 +605,19 @@
       "victims": 0
     },
     {
+      "date": "2026-03-02",
+      "lat": 29.5775,
+      "lng": 52.8099,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "murder",
+      "title": "Христиане молящийся for Iran после смерть of Supreme Leader Khamenei",
+      "description": "An Open Doors expert on Iran said the смерть of Khamenei \"marks a significant and sobering moment in Iran’s history\".",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christians-praying-for-iran-after-death-of-supreme-leader-khamenei",
+      "victims": 0
+    },
+    {
       "date": "2026-03-01",
       "lat": 9.363,
       "lng": 9.5451,
@@ -865,6 +956,45 @@
       "victims": 0
     },
     {
+      "date": "2026-02-28",
+      "lat": 31.3712,
+      "lng": 74.6035,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "other",
+      "title": "Pakistani Statesman Introduces Bill to Protect христианин and религиозный Minorities",
+      "description": "A христианин legislator in Pakistan’s Punjab провинция has introduced a bill to protect the property of религиозный minorities, включая христиане. Falbous Christopher, serving as a representative in the assembly of Pakistan’s most populated провинция,",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/02/28/pakistani-statesman-introduces-bill-to-protect-christian-and-religious-minorities/",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-28",
+      "lat": 12.0511,
+      "lng": 8.7276,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "ICYMI: HFAC Joins Appropriators in Delivering Joint Report on христианин гонение in Nigeria to the White House",
+      "description": "В результате President Trump's call-to-action and redesignation of Nigeria as a Country of Particular Concern (CPC), the House Appropriations Committee and House Foreign Affairs Committee delivered a joint report on the гонение of христиане in Nige",
+      "source": "newsapi:Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/02/mil-260226-house-cfa01.htm",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-28",
+      "lat": 11.9522,
+      "lng": 13.0655,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "US unveils plan to end violence against христиане in Nigeria",
+      "description": "The plans were detailed in a report by US Congressman Riley M Moore.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/us-unveils-plan-to-end-violence-against-christians-in-nigeria",
+      "victims": 0
+    },
+    {
       "date": "2026-02-27",
       "lat": 29.1071,
       "lng": 76.6049,
@@ -1136,6 +1266,32 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/christian-teacher-shot-dead-in-syrian-sectarian-violence",
       "victims": 0
+    },
+    {
+      "date": "2026-02-27",
+      "lat": 19.2972,
+      "lng": 72.9456,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "murder",
+      "title": "Three Members of христианин Family in India убит",
+      "description": "In Nialijharan деревня in Odisha штат, India, Jitendra Soren’s family became the third family to convert to Christianity in the last year. When all but the eldest daughter converted, relatives warned them not to attend церковь or “face смерть.” Christ",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/02/27/three-members-of-christian-family-in-india-killed/",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-27",
+      "lat": 28.8483,
+      "lng": 77.0792,
+      "country": "India",
+      "city": "Delhi",
+      "type": "murder",
+      "title": "3 members of христианин family убит in India",
+      "description": "The христиане were accused of practising black magic before their murders.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/3-members-of-christian-family-murdered-in-india",
+      "victims": 3
     },
     {
       "date": "2026-02-26",
@@ -1535,6 +1691,19 @@
       "lng": 3.6174,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "murder",
+      "title": "US lawmakers find Nigeria 'deadliest' place for христиане",
+      "description": "US lawmakers release a report on their findings into предполагаемый гонение of христиане in Nigeria. It comes после President Donald Trump categorized the African nation as a \"country of particular concern\" last year.",
+      "source": "newsapi:DW (English)",
+      "url": "https://www.dw.com/en/us-designates-nigeria-as-deadliest-place-for-christians-nicki-minaj/a-76107415",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-24",
+      "lat": 11.9688,
+      "lng": 13.3977,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "murder",
       "title": "US lawmakers find Nigeria 'deadliest' place for христиане",
       "description": "US lawmakers release a report on their findings into предполагаемый гонение of христиане in Nigeria. It comes после President Donald Trump categorized the African nation as a \"country of particular concern\" last year.",
