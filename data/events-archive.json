@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-06T14:07:24.726Z",
-    "totalEvents": 157
+    "lastUpdated": "2026-03-06T19:50:13.929Z",
+    "totalEvents": 164
   },
   "events": [
     {
@@ -69,6 +69,58 @@
       "description": "As Pope Leo XVI prepares to visit Algeria, the Bishop Michel Jean-Paul Guillaud of Constantine says the Holy Father’s presence will demonstrate that Christianity “is an asset and not a danger” to Algeria.",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-africa/2026/03/bishop-says-popes-visit-to-show-christianity-an-asset-to-algeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-06",
+      "lat": 9.133,
+      "lng": 9.4059,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "We Must Not Ignore христианин гонение in Ethiopia",
+      "description": "By Dr. Greg Cochran, ICC Fellow Nigeria’s continued presence on the Countries of Particular Concern list is a good sign that религиозный liberty still motivates the American soul. Beyond this, Rep. Chris Smith (R-N.J.) teamed up with Rep. Riley Moore",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/06/we-must-not-ignore-christian-persecution-in-ethiopia/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-06",
+      "lat": 36.5065,
+      "lng": 59.6085,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Bishops around the world urge молитва for Middle East peace",
+      "description": "As war spreads across Iran and several parts of the Middle East, Canada’s Catholic bishops are urging the faithful to turn to one of the церковь’s most enduring responses to violence: молитва. In a statement released by the Permanent Council of the Can",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/06/bishops-around-the-world-urge-prayer-for-middle-east-peace/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-06",
+      "lat": 35.5724,
+      "lng": 51.2631,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "‘My trust was in God’: священник recounts flight from Holy Land amid Iranian conflict",
+      "description": "Father Anthony Wieck, SJ, was leading a group of pilgrims in Jerusalem when the U.S. and Israel began launching strikes against Iran.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/my-trust-was-in-god-priest-relays-flight-from-holy-land-amid-iranian-conflict",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-06",
+      "lat": 9.1663,
+      "lng": 7.2619,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "VIDEO: Pope Leo meets Nigerian bishops во время Rome visit",
+      "description": "Watch the video as Pope Leo XIV receives members of the Catholic Bishops’ Conference of Nigeria во время their Ad Limina visit to Rome. Read More: https://punchng.com/video-pope-leo-meets-nigerian-bishops-во время-rome-visit/",
+      "source": "punchng",
+      "url": "https://punchng.com/video-pope-leo-meets-nigerian-bishops-during-rome-visit/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     },
     {
@@ -207,6 +259,19 @@
       "lng": 85.1326,
       "country": "India",
       "city": "Odisha",
+      "type": "discrimination",
+      "title": "Asian Catholics begin spiritual, logistical preparations for World Youth Day Seoul 2027",
+      "description": "Церковь leaders in Bangladesh and India say visa hurdles and financial constraints are среди the biggest challenges facing young pilgrims hoping to attend the August 2027 gathering.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/asian-catholics-begin-spiritual-logistical-preparations-for-wyd-seoul-2027",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-05",
+      "lat": 19.1361,
+      "lng": 73.0596,
+      "country": "India",
+      "city": "Mumbai",
       "type": "discrimination",
       "title": "Asian Catholics begin spiritual, logistical preparations for World Youth Day Seoul 2027",
       "description": "Церковь leaders in Bangladesh and India say visa hurdles and financial constraints are среди the biggest challenges facing young pilgrims hoping to attend the August 2027 gathering.",
@@ -1190,6 +1255,19 @@
       "victims": 0
     },
     {
+      "date": "2026-02-28",
+      "lat": 8.973,
+      "lng": 7.5196,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "kidnapping",
+      "title": "Nigeria rejects claims it paid выкуп and released Islamists to secure похищен дети",
+      "description": "A report by AFP includes claims that Nigeria paid as much as $7 million and released two Boko Haram commanders in exchange for the release of дети and staff похищен from a Catholic школа.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/nigeria-rejects-claims-it-paid-ransom-and-released-islamists-to-secure-kidnapped-children",
+      "victims": 0
+    },
+    {
       "date": "2026-02-27",
       "lat": 29.1071,
       "lng": 76.6049,
@@ -1715,6 +1793,19 @@
       "lng": 13.0305,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "other",
+      "title": "US Congress pushes Nigeria pact to combat terror, религиозный гонение",
+      "description": "US Congress proposes a new US-Nigeria pact to combat terror, protect христиане, and counter Chinese/Russian influence. See the key recommendations. Read More: https://punchng.com/us-congress-pushes-nigeria-pact-to-combat-terror-религиозный-persecutio",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-congress-pushes-nigeria-pact-to-combat-terror-religious-persecution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-25",
+      "lat": 11.8788,
+      "lng": 8.8279,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "other",
       "title": "US Congress pushes Nigeria pact to combat terror, религиозный гонение",
       "description": "US Congress proposes a new US-Nigeria pact to combat terror, protect христиане, and counter Chinese/Russian influence. See the key recommendations. Read More: https://punchng.com/us-congress-pushes-nigeria-pact-to-combat-terror-религиозный-persecutio",
