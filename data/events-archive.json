@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-06T05:03:06.765Z",
-    "totalEvents": 148
+    "lastUpdated": "2026-03-06T14:07:24.726Z",
+    "totalEvents": 157
   },
   "events": [
     {
@@ -17,6 +17,58 @@
       "description": "By Dr. Greg Cochran, ICC Fellow Nigeria’s continued presence on the Countries of Particular Concern list is a good sign that религиозный liberty still motivates the American soul. Beyond this, Rep. Chris Smith (R-N.J.) teamed up with Rep. Riley Moore",
       "source": "persecution",
       "url": "https://persecution.org/2026/03/06/we-must-not-ignore-christian-persecution-in-ethiopia/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-06",
+      "lat": 9.3102,
+      "lng": 7.6905,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "We Must Not Ignore христианин гонение in Ethiopia",
+      "description": "By Dr. Greg Cochran, ICC Fellow Nigeria’s continued presence on the Countries of Particular Concern list is a good sign that религиозный liberty still motivates the American soul. Beyond this, Rep. Chris Smith (R-N.J.) teamed up with Rep. Riley Moore",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/06/we-must-not-ignore-christian-persecution-in-ethiopia/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-06",
+      "lat": 15.1276,
+      "lng": 44.0611,
+      "country": "Yemen",
+      "city": "Sanaa",
+      "type": "murder",
+      "title": "Bishop of Southern Arabia prays to martyr-nuns for peace",
+      "description": "This past week Bishop Paolo Martinelli, Apostolic Vicar of Southern Arabia (which includes UAE, Oman and Yemen), celebrated a Mass in memory of four Missionaries of Charity who were убит March 4, 2016. (See images at bottom of article.) The Mass wa",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/06/bishop-of-southern-arabia-prays-to-martyr-nuns-for-peace/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-06",
+      "lat": 32.7474,
+      "lng": 51.6751,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Bishops around the world urge молитва for Middle East peace",
+      "description": "As war spreads across Iran and several parts of the Middle East, Canada’s Catholic bishops are urging the faithful to turn to one of the церковь’s most enduring responses to violence: молитва. In a statement released by the Permanent Council of the Can",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/06/bishops-around-the-world-urge-prayer-for-middle-east-peace/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-06",
+      "lat": 36.787,
+      "lng": 3.0596,
+      "country": "Algeria",
+      "city": "Algiers",
+      "type": "other",
+      "title": "Bishop says Pope’s visit to show Christianity ‘an asset to Algeria’",
+      "description": "As Pope Leo XVI prepares to visit Algeria, the Bishop Michel Jean-Paul Guillaud of Constantine says the Holy Father’s presence will demonstrate that Christianity “is an asset and not a danger” to Algeria.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-africa/2026/03/bishop-says-popes-visit-to-show-christianity-an-asset-to-algeria/",
       "victims": 0
     },
     {
@@ -134,6 +186,32 @@
       "description": "War is justified only to confront grave evil, its harm must not exceed the evil it seeks to end, and there must be a real chance of success, with all alternatives to war exhausted, the catechism says.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/iran-just-war",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-05",
+      "lat": 21.0785,
+      "lng": 85.2142,
+      "country": "India",
+      "city": "Odisha",
+      "type": "attack",
+      "title": "Христианин Family Brutally атакован in Central India",
+      "description": "A толпа of индус nationalists in central India атакован a христианин family после the family отказано to deny Christ. The incident occurred on Feb. 26 in the деревня of Erramangi in Chhattisgarh’s Bijapur район. The family lost their home and their be",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/05/christian-family-brutally-attacked-in-central-india/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-05",
+      "lat": 20.964,
+      "lng": 85.1326,
+      "country": "India",
+      "city": "Odisha",
+      "type": "discrimination",
+      "title": "Asian Catholics begin spiritual, logistical preparations for World Youth Day Seoul 2027",
+      "description": "Церковь leaders in Bangladesh and India say visa hurdles and financial constraints are среди the biggest challenges facing young pilgrims hoping to attend the August 2027 gathering.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/asian-catholics-begin-spiritual-logistical-preparations-for-wyd-seoul-2027",
       "victims": 0
     },
     {
@@ -329,6 +407,19 @@
       "description": "The U.S. and Israeli strikes on Iran brought major conflict to the Middle East and sent христианин pilgrims scrambling for safe harbor there.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/two-hours-to-pack-up-how-the-iranian-conflict-has-upended-catholic-pilgrimages-in-the-region",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-04",
+      "lat": 35.4758,
+      "lng": 51.3828,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "murder",
+      "title": "Settlers exploit war in Iran to commit new acts of violence in the West Bank",
+      "description": "Two Palestinian brothers were застрелен погибшие in a рейд in Qaryut, south of Nablus. New нападения and assaults also in the христианин деревня of Taybeh. Fr Bashar: not isolated incidents, but a ‘growing pattern of violence’ that raises “concerns”. Barriers an",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/03/04/settlers-exploit-war-in-iran-to-commit-new-acts-of-violence-in-the-west-bank/",
       "victims": 0
     },
     {
@@ -1842,6 +1933,19 @@
       "victims": 0
     },
     {
+      "date": "2026-02-24",
+      "lat": 21.0877,
+      "lng": 82.0381,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "murder",
+      "title": "Христианин Family Of Three Allegedly Butchered For ‘Cursing’ Relative By Converting",
+      "description": "Members of a христианин family were allegedly убит in India после extended family allegedly believed their обращение had caused illness in their family.",
+      "source": "newsapi:The Daily Caller",
+      "url": "https://dailycaller.com/2026/02/24/christian-family-killed-axe-curse-village-india-jitendra-soren/",
+      "victims": 0
+    },
+    {
       "date": "2026-02-23",
       "lat": 30.9607,
       "lng": 120.8919,
@@ -1899,6 +2003,19 @@
       "lng": 85.2154,
       "country": "India",
       "city": "Odisha",
+      "type": "other",
+      "title": "Indian archbishop demands ‘justice’ после суд halts digging up of христианин graves",
+      "description": "India’s top суд has ordered a halt to the вынужден exhumation of tribal христиане’ remains, but церковь leaders say they want more than temporary relief.",
+      "source": "newsapi:Ewtnnews.com",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/indian-archbishop-demands-justice-after-court-halts-digging-up-of-christian-graves",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-23",
+      "lat": 19.091,
+      "lng": 72.7631,
+      "country": "India",
+      "city": "Mumbai",
       "type": "other",
       "title": "Indian archbishop demands ‘justice’ после суд halts digging up of христианин graves",
       "description": "India’s top суд has ordered a halt to the вынужден exhumation of tribal христиане’ remains, but церковь leaders say they want more than temporary relief.",
