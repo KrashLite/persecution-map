@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-05T20:05:35.428Z",
-    "totalEvents": 138
+    "lastUpdated": "2026-03-06T05:03:06.765Z",
+    "totalEvents": 148
   },
   "events": [
+    {
+      "date": "2026-03-06",
+      "lat": 11.6183,
+      "lng": 13.1969,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "We Must Not Ignore христианин гонение in Ethiopia",
+      "description": "By Dr. Greg Cochran, ICC Fellow Nigeria’s continued presence on the Countries of Particular Concern list is a good sign that религиозный liberty still motivates the American soul. Beyond this, Rep. Chris Smith (R-N.J.) teamed up with Rep. Riley Moore",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/06/we-must-not-ignore-christian-persecution-in-ethiopia/",
+      "victims": 0
+    },
     {
       "date": "2026-03-05",
       "lat": 21.485,
@@ -82,6 +95,45 @@
       "description": "Церковь leaders in Bangladesh and India say visa hurdles and financial constraints are среди the biggest challenges facing young pilgrims hoping to attend the August 2027 gathering.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/asian-catholics-begin-spiritual-logistical-preparations-for-wyd-seoul-2027",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-05",
+      "lat": -6.4118,
+      "lng": 106.7421,
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "type": "other",
+      "title": "Locals Protest церковь’s Renovation in Indonesia",
+      "description": "About 70 residents visited the HKBP Kulim Jaya церковь in Riau, Indonesia, on Feb. 25 to demand a stop to its renovations. Twenty locals entered the церковь and requested permits, expressing concerns about the legality of the construction. Armien, the",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/05/locals-protest-churchs-renovation-in-indonesia/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-05",
+      "lat": 15.485,
+      "lng": 44.42,
+      "country": "Yemen",
+      "city": "Sanaa",
+      "type": "other",
+      "title": "Southern Arabia Vicariate marks 10 years since Yemen Missionaries of Charity martyrdom",
+      "description": "At an Abu Dhabi Mass on March 4, Bishop Paolo Martinelli said Yemen martyrs are a “source of hope” amid сегодня’s turmoil.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/southern-arabia-vicariate-marks-10-years-since-yemen-missionaries-of-charity-martyrdom",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-05",
+      "lat": 35.4907,
+      "lng": 51.5586,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "Catholic theologians urge Trump to follow just war doctrine as Iran conflict continues",
+      "description": "War is justified only to confront grave evil, its harm must not exceed the evil it seeks to end, and there must be a real chance of success, with all alternatives to war exhausted, the catechism says.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/iran-just-war",
       "victims": 0
     },
     {
@@ -251,6 +303,32 @@
       "description": "Catholic leaders in Iraq are calling for молитва and peace talks as the country faces repercussions from the widening war in the Middle East.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/amid-rising-anxiety-in-erbil-catholic-bishops-say-prayer-dialogue-are-path-to-peace",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-04",
+      "lat": 36.0811,
+      "lng": 59.5419,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "murder",
+      "title": "Settlers exploit war in Iran to commit new acts of violence in the West Bank",
+      "description": "Two Palestinian brothers were застрелен погибшие in a рейд in Qaryut, south of Nablus. New нападения and assaults also in the христианин деревня of Taybeh. Fr Bashar: not isolated incidents, but a ‘growing pattern of violence’ that raises “concerns”. Barriers an",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/03/04/settlers-exploit-war-in-iran-to-commit-new-acts-of-violence-in-the-west-bank/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-04",
+      "lat": 35.8321,
+      "lng": 51.1399,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "‘2 hours to pack up’: How the Iranian conflict has upended Catholic pilgrimages in the регион",
+      "description": "The U.S. and Israeli strikes on Iran brought major conflict to the Middle East and sent христианин pilgrims scrambling for safe harbor there.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/two-hours-to-pack-up-how-the-iranian-conflict-has-upended-catholic-pilgrimages-in-the-region",
       "victims": 0
     },
     {
@@ -472,6 +550,19 @@
       "description": "Airstrikes on the Iranian capital, Tehran, and other major cities have raised serious concerns about the country’s христианин communities as well as those in the wider регион.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/as-iran-war-widens-eastern-christians-face-growing-uncertainty",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-03",
+      "lat": 36.2742,
+      "lng": 59.6735,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Iraqi archbishop laments spread of Iranian conflict, communication barrier with Tehran archbishop",
+      "description": "Archbishop Bashar Matti Warda of Erbil, Iraq, shared the situation on the ground for the Iraqi христианин community with “EWTN News Nightly” as the prospect of broader regional war looms.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/iraqi-archbishop-laments-spread-of-iran-conflict-communication-barrier-with-tehran-s-archbishop",
       "victims": 0
     },
     {
@@ -995,6 +1086,19 @@
       "victims": 0
     },
     {
+      "date": "2026-02-28",
+      "lat": 6.7635,
+      "lng": 3.3489,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "kidnapping",
+      "title": "Nigeria rejects claims it paid выкуп and released Islamists to secure похищен дети",
+      "description": "A report by AFP includes claims that Nigeria paid as much as $7 million and released two Boko Haram commanders in exchange for the release of дети and staff похищен from a Catholic школа.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/nigeria-rejects-claims-it-paid-ransom-and-released-islamists-to-secure-kidnapped-children",
+      "victims": 0
+    },
+    {
       "date": "2026-02-27",
       "lat": 29.1071,
       "lng": 76.6049,
@@ -1294,6 +1398,19 @@
       "victims": 3
     },
     {
+      "date": "2026-02-27",
+      "lat": 26.8102,
+      "lng": 80.8548,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "murder",
+      "title": "3 христиане убит in India",
+      "description": "The христиане were accused of practising black magic before their murders.",
+      "source": "newsapi:Christiantoday.com",
+      "url": "https://www.christiantoday.com/news/3-christians-murdered-in-india",
+      "victims": 3
+    },
+    {
       "date": "2026-02-26",
       "lat": 20.9482,
       "lng": 84.7376,
@@ -1494,6 +1611,19 @@
       "lng": 7.6528,
       "country": "Nigeria",
       "city": "Kaduna",
+      "type": "other",
+      "title": "US Congress pushes Nigeria pact to combat terror, религиозный гонение",
+      "description": "US Congress proposes a new US-Nigeria pact to combat terror, protect христиане, and counter Chinese/Russian influence. See the key recommendations. Read More: https://punchng.com/us-congress-pushes-nigeria-pact-to-combat-terror-религиозный-persecutio",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-congress-pushes-nigeria-pact-to-combat-terror-religious-persecution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-25",
+      "lat": 11.7863,
+      "lng": 13.0305,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "other",
       "title": "US Congress pushes Nigeria pact to combat terror, религиозный гонение",
       "description": "US Congress proposes a new US-Nigeria pact to combat terror, protect христиане, and counter Chinese/Russian influence. See the key recommendations. Read More: https://punchng.com/us-congress-pushes-nigeria-pact-to-combat-terror-религиозный-persecutio",
