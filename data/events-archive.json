@@ -2,10 +2,62 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-07T04:47:11.858Z",
-    "totalEvents": 172
+    "lastUpdated": "2026-03-07T13:51:44.222Z",
+    "totalEvents": 182
   },
   "events": [
+    {
+      "date": "2026-03-07",
+      "lat": 35.7569,
+      "lng": 51.2059,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "Who are the христиане in the Middle East?",
+      "description": "Христиане in the Middle East have long been in a precarious situation. The current conflict between Israel and the United States on one hand and Iran on the other is likely to make their situation even more difficult in the short term, both inside I",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/07/who-are-the-christians-in-the-middle-east/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-07",
+      "lat": 35.6886,
+      "lng": 51.549,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "attack",
+      "title": "Iraqi христианин complex hit by подозреваемый Iranian drone нападение",
+      "description": "A local церковь leader said the latest Middle East conflict would once again prompt the регион's христиане to ask themselves whether they should stay or go.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/iraqi-christian-complex-hit-by-suspected-iranian-drone-attack",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-07",
+      "lat": 36.803,
+      "lng": 3.2804,
+      "country": "Algeria",
+      "city": "Algiers",
+      "type": "murder",
+      "title": "Sister of убит bishop reflects on traveling exhibit honoring the 19 Algerian martyrs",
+      "description": "An exhibit honoring the 19 Algerian martyrs is making stops at major cities around the globe. The postulator for the martyrs’ cause and the sister of one of them tells EWTN News what they stood for.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/sister-of-slain-bishop-reflects-on-traveling-exhibit-honoring-the-19-algerian-martyrs",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-07",
+      "lat": 28.9521,
+      "lng": 76.8849,
+      "country": "India",
+      "city": "Delhi",
+      "type": "other",
+      "title": "Христианин villagers in India uneasy после церковь разгромлен",
+      "description": "The cost of the damage is estimated to be ₹850,000 – or $9,250 – a gargantuan sum for the poor villagers who work for daily wages, mostly on local farms.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/03/christian-villagers-in-india-uneasy-after-church-vandalized/",
+      "victims": 0
+    },
     {
       "date": "2026-03-06",
       "lat": 11.6183,
@@ -174,6 +226,19 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/my-trust-was-in-god-priest-relays-flight-from-holy-land-amid-iranian-conflict",
       "victims": 0
+    },
+    {
+      "date": "2026-03-06",
+      "lat": 11.9021,
+      "lng": 13.2254,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "Пастухи Responsible for христианин резня Put on суд",
+      "description": "This February, nine фулани пастухи went on суд for their role in organizing the June 2025 Benue резня, which убит more than 270 христиане. The judge of the Federal High суд in Abuja brought 57 counts against them. The leader of the group,",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/06/herdsmen-responsible-for-christian-massacre-put-on-trial/",
+      "victims": 270
     },
     {
       "date": "2026-03-05",
@@ -350,6 +415,32 @@
       "lng": 82.0963,
       "country": "India",
       "city": "Chhattisgarh",
+      "type": "attack",
+      "title": "Tending to the ранен on the Frontlines",
+      "description": "On Sunday, Jan. 18, пастор Jagadish Mishra prepared to lead a богослужение service at his home in Odisha, India, with his wife and their 8-year-old daughter. With nearly 30 христиане present, a толпа of 50 angry индус nationalists штурмован into the пастор’s",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/05/tending-to-the-wounded-on-the-frontlines/",
+      "victims": 30
+    },
+    {
+      "date": "2026-03-05",
+      "lat": 28.898,
+      "lng": 77.0236,
+      "country": "India",
+      "city": "Delhi",
+      "type": "attack",
+      "title": "Христианин Family Brutally атакован in Central India",
+      "description": "A толпа of индус nationalists in central India атакован a христианин family после the family отказано to deny Christ. The incident occurred on Feb. 26 in the деревня of Erramangi in Chhattisgarh’s Bijapur район. The family lost their home and their be",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/05/christian-family-brutally-attacked-in-central-india/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-05",
+      "lat": 26.6,
+      "lng": 80.9754,
+      "country": "India",
+      "city": "Uttar Pradesh",
       "type": "attack",
       "title": "Tending to the ранен on the Frontlines",
       "description": "On Sunday, Jan. 18, пастор Jagadish Mishra prepared to lead a богослужение service at his home in Odisha, India, with his wife and their 8-year-old daughter. With nearly 30 христиане present, a толпа of 50 angry индус nationalists штурмован into the пастор’s",
@@ -792,6 +883,19 @@
       "lng": 59.6735,
       "country": "Iran",
       "city": "Mashhad",
+      "type": "other",
+      "title": "Iraqi archbishop laments spread of Iranian conflict, communication barrier with Tehran archbishop",
+      "description": "Archbishop Bashar Matti Warda of Erbil, Iraq, shared the situation on the ground for the Iraqi христианин community with “EWTN News Nightly” as the prospect of broader regional war looms.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/iraqi-archbishop-laments-spread-of-iran-conflict-communication-barrier-with-tehran-s-archbishop",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-03",
+      "lat": 35.4521,
+      "lng": 51.5966,
+      "country": "Iran",
+      "city": "Tehran",
       "type": "other",
       "title": "Iraqi archbishop laments spread of Iranian conflict, communication barrier with Tehran archbishop",
       "description": "Archbishop Bashar Matti Warda of Erbil, Iraq, shared the situation on the ground for the Iraqi христианин community with “EWTN News Nightly” as the prospect of broader regional war looms.",
@@ -1359,6 +1463,19 @@
       "victims": 0
     },
     {
+      "date": "2026-02-28",
+      "lat": 8.8373,
+      "lng": 7.3016,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "ICYMI: HFAC Joins Appropriators in Delivering Joint Report on христианин гонение in Nigeria to the White House",
+      "description": "В результате President Trump's call-to-action and redesignation of Nigeria as a Country of Particular Concern (CPC), the House Appropriations Committee and House Foreign Affairs Committee delivered a joint report on the гонение of христиане in Nige",
+      "source": "newsapi:Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/02/mil-260226-house-cfa01.htm",
+      "victims": 0
+    },
+    {
       "date": "2026-02-27",
       "lat": 29.1071,
       "lng": 76.6049,
@@ -1663,6 +1780,19 @@
       "lng": 80.8548,
       "country": "India",
       "city": "Uttar Pradesh",
+      "type": "murder",
+      "title": "3 христиане убит in India",
+      "description": "The христиане were accused of practising black magic before their murders.",
+      "source": "newsapi:Christiantoday.com",
+      "url": "https://www.christiantoday.com/news/3-christians-murdered-in-india",
+      "victims": 3
+    },
+    {
+      "date": "2026-02-27",
+      "lat": 19.2066,
+      "lng": 72.9416,
+      "country": "India",
+      "city": "Mumbai",
       "type": "murder",
       "title": "3 христиане убит in India",
       "description": "The христиане were accused of practising black magic before their murders.",
