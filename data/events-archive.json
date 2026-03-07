@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-07T13:51:44.222Z",
-    "totalEvents": 182
+    "lastUpdated": "2026-03-07T19:00:58.819Z",
+    "totalEvents": 187
   },
   "events": [
     {
@@ -51,6 +51,45 @@
       "lng": 76.8849,
       "country": "India",
       "city": "Delhi",
+      "type": "other",
+      "title": "Христианин villagers in India uneasy после церковь разгромлен",
+      "description": "The cost of the damage is estimated to be ₹850,000 – or $9,250 – a gargantuan sum for the poor villagers who work for daily wages, mostly on local farms.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/03/christian-villagers-in-india-uneasy-after-church-vandalized/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-07",
+      "lat": 32.5708,
+      "lng": 51.4439,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Who are the христиане in the Middle East?",
+      "description": "Христиане in the Middle East have long been in a precarious situation. The current conflict between Israel and the United States on one hand and Iran on the other is likely to make their situation even more difficult in the short term, both inside I",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/07/who-are-the-christians-in-the-middle-east/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-07",
+      "lat": 29.6195,
+      "lng": 52.6641,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "attack",
+      "title": "Iraqi христианин complex hit by подозреваемый Iranian drone нападение",
+      "description": "A local церковь leader said the latest Middle East conflict would once again prompt the регион's христиане to ask themselves whether they should stay or go.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/iraqi-christian-complex-hit-by-suspected-iranian-drone-attack",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-07",
+      "lat": 18.976,
+      "lng": 73.0093,
+      "country": "India",
+      "city": "Mumbai",
       "type": "other",
       "title": "Христианин villagers in India uneasy после церковь разгромлен",
       "description": "The cost of the damage is estimated to be ₹850,000 – or $9,250 – a gargantuan sum for the poor villagers who work for daily wages, mostly on local farms.",
@@ -239,6 +278,32 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/03/06/herdsmen-responsible-for-christian-massacre-put-on-trial/",
       "victims": 270
+    },
+    {
+      "date": "2026-03-06",
+      "lat": 9.0345,
+      "lng": 9.2906,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Пастухи Responsible for христианин резня Put on суд",
+      "description": "This February, nine фулани пастухи went on суд for their role in organizing the June 2025 Benue резня, which убит more than 270 христиане. The judge of the Federal High суд in Abuja brought 57 counts against them. The leader of the group,",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/06/herdsmen-responsible-for-christian-massacre-put-on-trial/",
+      "victims": 270
+    },
+    {
+      "date": "2026-03-06",
+      "lat": 35.8219,
+      "lng": 51.222,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "Catholic bishops’ conferences around the world call for end to Iran war",
+      "description": "Catholic bishops around the world condemn the Iran war, a German cathedral defends its display of a 50-foot whale carcass in its sanctuary, and an Angola священник survives an attempt on his life.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/catholic-bishops-conferences-around-the-world-call-for-end-to-iran-war",
+      "victims": 0
     },
     {
       "date": "2026-03-05",
