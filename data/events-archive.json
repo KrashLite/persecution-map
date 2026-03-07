@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-06T19:50:13.929Z",
-    "totalEvents": 164
+    "lastUpdated": "2026-03-07T04:47:11.858Z",
+    "totalEvents": 172
   },
   "events": [
     {
@@ -121,6 +121,58 @@
       "description": "Watch the video as Pope Leo XIV receives members of the Catholic Bishops’ Conference of Nigeria во время their Ad Limina visit to Rome. Read More: https://punchng.com/video-pope-leo-meets-nigerian-bishops-во время-rome-visit/",
       "source": "punchng",
       "url": "https://punchng.com/video-pope-leo-meets-nigerian-bishops-during-rome-visit/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-06",
+      "lat": 11.76,
+      "lng": 8.4878,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Пастухи Responsible for христианин резня Put on суд",
+      "description": "This February, nine фулани пастухи went on суд for their role in organizing the June 2025 Benue резня, which убит more than 270 христиане. The judge of the Federal High суд in Abuja brought 57 counts against them. The leader of the group,",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/06/herdsmen-responsible-for-christian-massacre-put-on-trial/",
+      "victims": 270
+    },
+    {
+      "date": "2026-03-06",
+      "lat": 10.6874,
+      "lng": 7.2607,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "We Must Not Ignore христианин гонение in Ethiopia",
+      "description": "By Dr. Greg Cochran, ICC Fellow Nigeria’s continued presence on the Countries of Particular Concern list is a good sign that религиозный liberty still motivates the American soul. Beyond this, Rep. Chris Smith (R-N.J.) teamed up with Rep. Riley Moore",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/06/we-must-not-ignore-christian-persecution-in-ethiopia/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-06",
+      "lat": 32.5072,
+      "lng": 51.6044,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Catholic bishops’ conferences around the world call for end to Iran war",
+      "description": "Catholic bishops around the world condemn the Iran war, a German cathedral defends its display of a 50-foot whale carcass in its sanctuary, and an Angola священник survives an attempt on his life.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/catholic-bishops-conferences-around-the-world-call-for-end-to-iran-war",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-06",
+      "lat": 36.029,
+      "lng": 59.8453,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "‘My trust was in God’: священник recounts flight from Holy Land amid Iranian conflict",
+      "description": "Father Anthony Wieck, SJ, was leading a group of pilgrims in Jerusalem when the U.S. and Israel began launching strikes against Iran.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/my-trust-was-in-god-priest-relays-flight-from-holy-land-amid-iranian-conflict",
       "victims": 0
     },
     {
@@ -278,6 +330,32 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/asian-catholics-begin-spiritual-logistical-preparations-for-wyd-seoul-2027",
       "victims": 0
+    },
+    {
+      "date": "2026-03-05",
+      "lat": 18.9296,
+      "lng": 73.0463,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "attack",
+      "title": "Христианин Family Brutally атакован in Central India",
+      "description": "A толпа of индус nationalists in central India атакован a христианин family после the family отказано to deny Christ. The incident occurred on Feb. 26 in the деревня of Erramangi in Chhattisgarh’s Bijapur район. The family lost their home and their be",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/05/christian-family-brutally-attacked-in-central-india/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-05",
+      "lat": 21.1047,
+      "lng": 82.0963,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "attack",
+      "title": "Tending to the ранен on the Frontlines",
+      "description": "On Sunday, Jan. 18, пастор Jagadish Mishra prepared to lead a богослужение service at his home in Odisha, India, with his wife and their 8-year-old daughter. With nearly 30 христиане present, a толпа of 50 angry индус nationalists штурмован into the пастор’s",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/05/tending-to-the-wounded-on-the-frontlines/",
+      "victims": 30
     },
     {
       "date": "2026-03-04",
@@ -1268,6 +1346,19 @@
       "victims": 0
     },
     {
+      "date": "2026-02-28",
+      "lat": 9.4477,
+      "lng": 9.6144,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "ICYMI: HFAC Joins Appropriators in Delivering Joint Report on христианин гонение in Nigeria to the White House",
+      "description": "В результате President Trump's call-to-action and redesignation of Nigeria as a Country of Particular Concern (CPC), the House Appropriations Committee and House Foreign Affairs Committee delivered a joint report on the гонение of христиане in Nige",
+      "source": "newsapi:Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/02/mil-260226-house-cfa01.htm",
+      "victims": 0
+    },
+    {
       "date": "2026-02-27",
       "lat": 29.1071,
       "lng": 76.6049,
@@ -2107,6 +2198,19 @@
       "lng": 72.7631,
       "country": "India",
       "city": "Mumbai",
+      "type": "other",
+      "title": "Indian archbishop demands ‘justice’ после суд halts digging up of христианин graves",
+      "description": "India’s top суд has ordered a halt to the вынужден exhumation of tribal христиане’ remains, but церковь leaders say they want more than temporary relief.",
+      "source": "newsapi:Ewtnnews.com",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/indian-archbishop-demands-justice-after-court-halts-digging-up-of-christian-graves",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-23",
+      "lat": 28.884,
+      "lng": 76.9581,
+      "country": "India",
+      "city": "Delhi",
       "type": "other",
       "title": "Indian archbishop demands ‘justice’ после суд halts digging up of христианин graves",
       "description": "India’s top суд has ordered a halt to the вынужден exhumation of tribal христиане’ remains, but церковь leaders say they want more than temporary relief.",
