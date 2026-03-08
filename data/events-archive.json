@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-07T19:00:58.819Z",
-    "totalEvents": 187
+    "lastUpdated": "2026-03-08T05:02:21.128Z",
+    "totalEvents": 195
   },
   "events": [
+    {
+      "date": "2026-03-08",
+      "lat": 6.3594,
+      "lng": 3.5416,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Insecurity escalates as moves for штат полиция intensify",
+      "description": "•B/Haram, ISWAP declare caliphate in Borno, claim responsibility for soldiers, residents’ killings, похищение of сотни •десятки погибшие in Benue, Niger, Kogi нападения, 10 похищен in Kwara, ‘жестокий killings’ in Ebonyi as monarch die во время negotiation",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/03/insecurity-escalatesas-moves-for-state-police-intensify/",
+      "victims": 24
+    },
     {
       "date": "2026-03-07",
       "lat": 35.7569,
@@ -90,6 +103,45 @@
       "lng": 73.0093,
       "country": "India",
       "city": "Mumbai",
+      "type": "other",
+      "title": "Христианин villagers in India uneasy после церковь разгромлен",
+      "description": "The cost of the damage is estimated to be ₹850,000 – or $9,250 – a gargantuan sum for the poor villagers who work for daily wages, mostly on local farms.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/03/christian-villagers-in-india-uneasy-after-church-vandalized/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-07",
+      "lat": 36.1761,
+      "lng": 59.551,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Who are the христиане in the Middle East?",
+      "description": "Христиане in the Middle East have long been in a precarious situation. The current conflict between Israel and the United States on one hand and Iran on the other is likely to make their situation even more difficult in the short term, both inside I",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/07/who-are-the-christians-in-the-middle-east/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-07",
+      "lat": 32.7083,
+      "lng": 51.4764,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "attack",
+      "title": "Iraqi христианин complex hit by подозреваемый Iranian drone нападение",
+      "description": "A local церковь leader said the latest Middle East conflict would once again prompt the регион's христиане to ask themselves whether they should stay or go.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/iraqi-christian-complex-hit-by-suspected-iranian-drone-attack",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-07",
+      "lat": 21.0406,
+      "lng": 84.905,
+      "country": "India",
+      "city": "Odisha",
       "type": "other",
       "title": "Христианин villagers in India uneasy после церковь разгромлен",
       "description": "The cost of the damage is estimated to be ₹850,000 – or $9,250 – a gargantuan sum for the poor villagers who work for daily wages, mostly on local farms.",
@@ -306,6 +358,32 @@
       "victims": 0
     },
     {
+      "date": "2026-03-06",
+      "lat": 6.6719,
+      "lng": 3.422,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "We Must Not Ignore христианин гонение in Ethiopia",
+      "description": "By Dr. Greg Cochran, ICC Fellow Nigeria’s continued presence on the Countries of Particular Concern list is a good sign that религиозный liberty still motivates the American soul. Beyond this, Rep. Chris Smith (R-N.J.) teamed up with Rep. Riley Moore",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/06/we-must-not-ignore-christian-persecution-in-ethiopia/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-06",
+      "lat": 29.5187,
+      "lng": 52.4422,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Catholic bishops’ conferences around the world call for end to Iran war",
+      "description": "Catholic bishops around the world condemn the Iran war, a German cathedral defends its display of a 50-foot whale carcass in its sanctuary, and an Angola священник survives an attempt on his life.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/catholic-bishops-conferences-around-the-world-call-for-end-to-iran-war",
+      "victims": 0
+    },
+    {
       "date": "2026-03-05",
       "lat": 21.485,
       "lng": 82.0495,
@@ -512,6 +590,19 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/03/05/tending-to-the-wounded-on-the-frontlines/",
       "victims": 30
+    },
+    {
+      "date": "2026-03-05",
+      "lat": 29.506,
+      "lng": 52.6851,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Catholic theologians urge Trump to follow just war doctrine as Iran conflict continues",
+      "description": "War is justified only to confront grave evil, its harm must not exceed the evil it seeks to end, and there must be a real chance of success, with all alternatives to war exhausted, the catechism says.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/iran-just-war",
+      "victims": 0
     },
     {
       "date": "2026-03-04",
@@ -1533,6 +1624,19 @@
       "lng": 7.3016,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "other",
+      "title": "ICYMI: HFAC Joins Appropriators in Delivering Joint Report on христианин гонение in Nigeria to the White House",
+      "description": "В результате President Trump's call-to-action and redesignation of Nigeria as a Country of Particular Concern (CPC), the House Appropriations Committee and House Foreign Affairs Committee delivered a joint report on the гонение of христиане in Nige",
+      "source": "newsapi:Globalsecurity.org",
+      "url": "https://www.globalsecurity.org/military/library/news/2026/02/mil-260226-house-cfa01.htm",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-28",
+      "lat": 11.7716,
+      "lng": 13.2994,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "other",
       "title": "ICYMI: HFAC Joins Appropriators in Delivering Joint Report on христианин гонение in Nigeria to the White House",
       "description": "В результате President Trump's call-to-action and redesignation of Nigeria as a Country of Particular Concern (CPC), the House Appropriations Committee and House Foreign Affairs Committee delivered a joint report on the гонение of христиане in Nige",
