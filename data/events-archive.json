@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-08T13:53:02.512Z",
-    "totalEvents": 201
+    "lastUpdated": "2026-03-08T19:03:02.760Z",
+    "totalEvents": 205
   },
   "events": [
     {
@@ -449,6 +449,32 @@
       "victims": 0
     },
     {
+      "date": "2026-03-06",
+      "lat": 36.2332,
+      "lng": 59.8308,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Catholic bishops’ conferences around the world call for end to Iran war",
+      "description": "Catholic bishops around the world condemn the Iran war, a German cathedral defends its display of a 50-foot whale carcass in its sanctuary, and an Angola священник survives an attempt on his life.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/catholic-bishops-conferences-around-the-world-call-for-end-to-iran-war",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-06",
+      "lat": 29.3849,
+      "lng": 52.4002,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Bishops around the world urge молитва for Middle East peace",
+      "description": "As war spreads across Iran and several parts of the Middle East, Canada’s Catholic bishops are urging the faithful to turn to one of the церковь’s most enduring responses to violence: молитва. In a statement released by the Permanent Council of the Can",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/06/bishops-around-the-world-urge-prayer-for-middle-east-peace/",
+      "victims": 0
+    },
+    {
       "date": "2026-03-05",
       "lat": 21.485,
       "lng": 82.0495,
@@ -668,6 +694,32 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/iran-just-war",
       "victims": 0
+    },
+    {
+      "date": "2026-03-05",
+      "lat": 26.9931,
+      "lng": 80.8979,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "attack",
+      "title": "Христианин Family Brutally атакован in Central India",
+      "description": "A толпа of индус nationalists in central India атакован a христианин family после the family отказано to deny Christ. The incident occurred on Feb. 26 in the деревня of Erramangi in Chhattisgarh’s Bijapur район. The family lost their home and their be",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/05/christian-family-brutally-attacked-in-central-india/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-05",
+      "lat": 19.2414,
+      "lng": 72.8304,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "attack",
+      "title": "Tending to the ранен on the Frontlines",
+      "description": "On Sunday, Jan. 18, пастор Jagadish Mishra prepared to lead a богослужение service at his home in Odisha, India, with his wife and their 8-year-old daughter. With nearly 30 христиане present, a толпа of 50 angry индус nationalists штурмован into the пастор’s",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/05/tending-to-the-wounded-on-the-frontlines/",
+      "victims": 30
     },
     {
       "date": "2026-03-04",
