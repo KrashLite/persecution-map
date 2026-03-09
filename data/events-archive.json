@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-09T14:40:02.147Z",
-    "totalEvents": 217
+    "lastUpdated": "2026-03-09T19:55:14.857Z",
+    "totalEvents": 224
   },
   "events": [
     {
@@ -30,6 +30,19 @@
       "description": "The церковь leaders said that the recent escalation in Iran and the Middle East had only added to the \"distressing list\" of ongoing conflicts включая those in Ukraine, Sudan, Gaza, and Myanmar.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/global-christian-leaders-urge-renewed-commitment-to-peace-amid-rising-conflicts",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-09",
+      "lat": 34.0419,
+      "lng": 71.551,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "other",
+      "title": "Pakistani христиане join мусульмане for Ramadan meals amid Iran war fallout",
+      "description": "Церковь leaders and мусульманин clerics shared Ramadan fast-breaking meals across six Pakistani dioceses this year as the overlap of Lent and Ramadan inspired joint prayers for peace.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-christians-join-muslims-for-ramadan-meals-amid-iran-war-fallout",
       "victims": 0
     },
     {
@@ -64,6 +77,32 @@
       "lng": 59.8633,
       "country": "Iran",
       "city": "Mashhad",
+      "type": "other",
+      "title": "Trump’s misguided “христианин” war is anything but",
+      "description": "Some commanders claim the Iran war is serving Christ. Haven't they noticed the fake христианин in the White House?",
+      "source": "newsapi:Salon",
+      "url": "https://www.salon.com/2026/03/08/trumps-misguided-christian-war-is-anything-but/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-08",
+      "lat": 9.0366,
+      "lng": 9.4757,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "GOP Congressman Exposes China’s Role in гонение of Nigerian христиане",
+      "description": "Nigeria is the deadliest nation in the world for христиане, and China is complicit in creating the conditions for the violence to continue, according to... Read More The post GOP Congressman Exposes China’s Role in гонение of Nigerian христиане",
+      "source": "newsapi:Daily Signal",
+      "url": "https://www.dailysignal.com/2026/03/08/gop-congressman-exposes-chinas-role-in-persecution-of-nigerian-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-08",
+      "lat": 32.6338,
+      "lng": 51.6936,
+      "country": "Iran",
+      "city": "Isfahan",
       "type": "other",
       "title": "Trump’s misguided “христианин” war is anything but",
       "description": "Some commanders claim the Iran war is serving Christ. Haven't they noticed the fake христианин in the White House?",
@@ -246,6 +285,32 @@
       "lng": 81.1843,
       "country": "India",
       "city": "Uttar Pradesh",
+      "type": "other",
+      "title": "Христианин villagers in India uneasy после церковь разгромлен",
+      "description": "The cost of the damage is estimated to be ₹850,000 – or $9,250 – a gargantuan sum for the poor villagers who work for daily wages, mostly on local farms.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/03/christian-villagers-in-india-uneasy-after-church-vandalized/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-07",
+      "lat": 36.3854,
+      "lng": 59.6364,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Evangelical blessings at Trump's office (video)",
+      "description": "A group of Evangelical религиозный leaders gathered in the Oval Office of the White House on March 05 to pray for American President Donald Trump and for the success of the war launched against Iran. This молитва service, which has become an annual ritu",
+      "source": "newsapi:Gossiplankanews.com",
+      "url": "https://english.gossiplankanews.com/2026/03/evangelical-blessings-at-trumps-office.html",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-07",
+      "lat": 21.4623,
+      "lng": 81.9598,
+      "country": "India",
+      "city": "Chhattisgarh",
       "type": "other",
       "title": "Христианин villagers in India uneasy после церковь разгромлен",
       "description": "The cost of the damage is estimated to be ₹850,000 – or $9,250 – a gargantuan sum for the poor villagers who work for daily wages, mostly on local farms.",
@@ -2256,6 +2321,19 @@
       "victims": 3
     },
     {
+      "date": "2026-02-27",
+      "lat": 26.6588,
+      "lng": 80.8068,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "murder",
+      "title": "3 members of христианин family убит in India",
+      "description": "The христиане were accused of practising black magic before their murders.",
+      "source": "newsapi:Christiantoday.com",
+      "url": "https://www.christiantoday.com/news/3-members-of-christian-family-murdered-in-india",
+      "victims": 3
+    },
+    {
       "date": "2026-02-26",
       "lat": 20.9482,
       "lng": 84.7376,
@@ -2796,6 +2874,19 @@
       "lng": 76.9581,
       "country": "India",
       "city": "Delhi",
+      "type": "other",
+      "title": "Indian archbishop demands ‘justice’ после суд halts digging up of христианин graves",
+      "description": "India’s top суд has ordered a halt to the вынужден exhumation of tribal христиане’ remains, but церковь leaders say they want more than temporary relief.",
+      "source": "newsapi:Ewtnnews.com",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/indian-archbishop-demands-justice-after-court-halts-digging-up-of-christian-graves",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-23",
+      "lat": 26.8164,
+      "lng": 80.9072,
+      "country": "India",
+      "city": "Uttar Pradesh",
       "type": "other",
       "title": "Indian archbishop demands ‘justice’ после суд halts digging up of христианин graves",
       "description": "India’s top суд has ordered a halt to the вынужден exhumation of tribal христиане’ remains, but церковь leaders say they want more than temporary relief.",
