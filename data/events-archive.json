@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-09T05:13:45.605Z",
-    "totalEvents": 211
+    "lastUpdated": "2026-03-09T14:40:02.147Z",
+    "totalEvents": 217
   },
   "events": [
     {
@@ -20,6 +20,19 @@
       "victims": 0
     },
     {
+      "date": "2026-03-09",
+      "lat": 35.6763,
+      "lng": 51.4887,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "World is at a 'dangerous tipping point', say церковь leaders in appeal for peace",
+      "description": "The церковь leaders said that the recent escalation in Iran and the Middle East had only added to the \"distressing list\" of ongoing conflicts включая those in Ukraine, Sudan, Gaza, and Myanmar.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/global-christian-leaders-urge-renewed-commitment-to-peace-amid-rising-conflicts",
+      "victims": 0
+    },
+    {
       "date": "2026-03-08",
       "lat": 6.3594,
       "lng": 3.5416,
@@ -31,6 +44,32 @@
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/03/insecurity-escalatesas-moves-for-state-police-intensify/",
       "victims": 24
+    },
+    {
+      "date": "2026-03-08",
+      "lat": 12.2141,
+      "lng": 8.711,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "GOP Congressman Exposes China’s Role in гонение of Nigerian христиане",
+      "description": "Nigeria is the deadliest nation in the world for христиане, and China is complicit in creating the conditions for the violence to continue, according to... Read More The post GOP Congressman Exposes China’s Role in гонение of Nigerian христиане",
+      "source": "newsapi:Daily Signal",
+      "url": "https://www.dailysignal.com/2026/03/08/gop-congressman-exposes-chinas-role-in-persecution-of-nigerian-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-08",
+      "lat": 36.1659,
+      "lng": 59.8633,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Trump’s misguided “христианин” war is anything but",
+      "description": "Some commanders claim the Iran war is serving Christ. Haven't they noticed the fake христианин in the White House?",
+      "source": "newsapi:Salon",
+      "url": "https://www.salon.com/2026/03/08/trumps-misguided-christian-war-is-anything-but/",
+      "victims": 0
     },
     {
       "date": "2026-03-07",
@@ -199,6 +238,19 @@
       "description": "A group of Evangelical религиозный leaders gathered in the Oval Office of the White House on March 05 to pray for American President Donald Trump and for the success of the war launched against Iran. This молитва service, which has become an annual ritu",
       "source": "newsapi:Gossiplankanews.com",
       "url": "https://english.gossiplankanews.com/2026/03/evangelical-blessings-at-trumps-office.html",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-07",
+      "lat": 26.6155,
+      "lng": 81.1843,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "other",
+      "title": "Христианин villagers in India uneasy после церковь разгромлен",
+      "description": "The cost of the damage is estimated to be ₹850,000 – or $9,250 – a gargantuan sum for the poor villagers who work for daily wages, mostly on local farms.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/03/christian-villagers-in-india-uneasy-after-church-vandalized/",
       "victims": 0
     },
     {
@@ -506,6 +558,32 @@
       "lng": 3.5766,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "murder",
+      "title": "Пастухи Responsible for христианин резня Put on суд",
+      "description": "This February, nine фулани пастухи went on суд for their role in organizing the June 2025 Benue резня, which убит more than 270 христиане. The judge of the Federal High суд in Abuja brought 57 counts against them. The leader of the group,",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/06/herdsmen-responsible-for-christian-massacre-put-on-trial/",
+      "victims": 270
+    },
+    {
+      "date": "2026-03-06",
+      "lat": 36.4837,
+      "lng": 59.4414,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "attack",
+      "title": "War in the Middle East: Chapel and церковь buildings атакован in Iraq",
+      "description": "The war between Israel and the United States against Iran, which has been inflaming the Middle East for days, from the Arab Gulf nations to Turkey (and Cyprus, in Europe), also affects Iraqi христиане who fear further progression into a “critical an",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/03/06/war-in-the-middle-east-chapel-and-church-buildings-attacked-in-iraq/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-06",
+      "lat": 8.981,
+      "lng": 7.4006,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "murder",
       "title": "Пастухи Responsible for христианин резня Put on суд",
       "description": "This February, nine фулани пастухи went on суд for their role in organizing the June 2025 Benue резня, which убит more than 270 христиане. The judge of the Federal High суд in Abuja brought 57 counts against them. The leader of the group,",
