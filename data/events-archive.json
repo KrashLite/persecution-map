@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-08T19:03:02.760Z",
-    "totalEvents": 205
+    "lastUpdated": "2026-03-09T05:13:45.605Z",
+    "totalEvents": 211
   },
   "events": [
+    {
+      "date": "2026-03-09",
+      "lat": 8.9102,
+      "lng": 7.6489,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "arrest",
+      "title": "Cleric urges Nigerians to remain steadfast amid trials",
+      "description": "Пастор Evelyn Joshua urges Nigerians to maintain steadfast вера, noting that trials help верующие grow spiritually во время Emmanuel TV’s 20th anniversary. Read More: https://punchng.com/cleric-urges-nigerians-to-remain-steadfast-amid-trials/",
+      "source": "punchng",
+      "url": "https://punchng.com/cleric-urges-nigerians-to-remain-steadfast-amid-trials/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-03-08",
       "lat": 6.3594,
@@ -168,6 +181,19 @@
       "lng": 51.544,
       "country": "Iran",
       "city": "Isfahan",
+      "type": "other",
+      "title": "Evangelical blessings at Trump's office (video)",
+      "description": "A group of Evangelical религиозный leaders gathered in the Oval Office of the White House on March 05 to pray for American President Donald Trump and for the success of the war launched against Iran. This молитва service, which has become an annual ritu",
+      "source": "newsapi:Gossiplankanews.com",
+      "url": "https://english.gossiplankanews.com/2026/03/evangelical-blessings-at-trumps-office.html",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-07",
+      "lat": 35.547,
+      "lng": 51.2988,
+      "country": "Iran",
+      "city": "Tehran",
       "type": "other",
       "title": "Evangelical blessings at Trump's office (video)",
       "description": "A group of Evangelical религиозный leaders gathered in the Oval Office of the White House on March 05 to pray for American President Donald Trump and for the success of the war launched against Iran. This молитва service, which has become an annual ritu",
@@ -475,6 +501,19 @@
       "victims": 0
     },
     {
+      "date": "2026-03-06",
+      "lat": 6.5206,
+      "lng": 3.5766,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Пастухи Responsible for христианин резня Put on суд",
+      "description": "This February, nine фулани пастухи went on суд for their role in organizing the June 2025 Benue резня, which убит more than 270 христиане. The judge of the Federal High суд in Abuja brought 57 counts against them. The leader of the group,",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/06/herdsmen-responsible-for-christian-massacre-put-on-trial/",
+      "victims": 270
+    },
+    {
       "date": "2026-03-05",
       "lat": 21.485,
       "lng": 82.0495,
@@ -722,6 +761,32 @@
       "victims": 30
     },
     {
+      "date": "2026-03-05",
+      "lat": 36.362,
+      "lng": 59.8106,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Catholic theologians urge Trump to follow just war doctrine as Iran conflict continues",
+      "description": "War is justified only to confront grave evil, its harm must not exceed the evil it seeks to end, and there must be a real chance of success, with all alternatives to war exhausted, the catechism says.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/iran-just-war",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-05",
+      "lat": 28.477,
+      "lng": 77.0279,
+      "country": "India",
+      "city": "Delhi",
+      "type": "discrimination",
+      "title": "Asian Catholics begin spiritual, logistical preparations for World Youth Day Seoul 2027",
+      "description": "Церковь leaders in Bangladesh and India say visa hurdles and financial constraints are среди the biggest challenges facing young pilgrims hoping to attend the August 2027 gathering.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/asian-catholics-begin-spiritual-logistical-preparations-for-wyd-seoul-2027",
+      "victims": 0
+    },
+    {
       "date": "2026-03-04",
       "lat": 9.2101,
       "lng": 9.4581,
@@ -940,6 +1005,19 @@
       "description": "Two Palestinian brothers were застрелен погибшие in a рейд in Qaryut, south of Nablus. New нападения and assaults also in the христианин деревня of Taybeh. Fr Bashar: not isolated incidents, but a ‘growing pattern of violence’ that raises “concerns”. Barriers an",
       "source": "zenit",
       "url": "https://zenit.org/2026/03/04/settlers-exploit-war-in-iran-to-commit-new-acts-of-violence-in-the-west-bank/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-04",
+      "lat": 31.235,
+      "lng": 121.57,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "other",
+      "title": "Chinese Leaders Gather in Beijing Hoping World Ignores гонение",
+      "description": "China’s National люди’s Congress — a nearly 3,000-member legislative body that would be unwieldy if not for its near-unanimous voting record — is set to meet Thursday to kick off this year’s legislative session and unveil the country’s policy prior",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/04/chinese-leaders-gather-in-beijing-hoping-world-ignores-persecution/",
       "victims": 0
     },
     {
