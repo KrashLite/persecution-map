@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-09T19:55:14.857Z",
-    "totalEvents": 224
+    "lastUpdated": "2026-03-10T05:01:48.877Z",
+    "totalEvents": 230
   },
   "events": [
     {
@@ -43,6 +43,45 @@
       "description": "Церковь leaders and мусульманин clerics shared Ramadan fast-breaking meals across six Pakistani dioceses this year as the overlap of Lent and Ramadan inspired joint prayers for peace.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-christians-join-muslims-for-ramadan-meals-amid-iran-war-fallout",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-09",
+      "lat": 33.82,
+      "lng": 71.4423,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "other",
+      "title": "После 150 Years, Pakistan суд Opens Path to христианин Divorce",
+      "description": "For centuries, христианин marriage and divorce law in Pakistan has been governed by legislation inherited from the colonial era, with little meaningful reform. The primary law regulating христианин marriages, the христианин Divorce Act 1869, was enacted",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/09/after-150-years-pakistan-court-opens-path-to-christian-divorce/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-09",
+      "lat": 31.4786,
+      "lng": 74.4908,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "other",
+      "title": "Pakistani христиане join мусульмане for Ramadan meals amid Iran war fallout",
+      "description": "Церковь leaders and мусульманин clerics shared Ramadan fast-breaking meals across six Pakistani dioceses this year as the overlap of Lent and Ramadan inspired joint prayers for peace.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-christians-join-muslims-for-ramadan-meals-amid-iran-war-fallout",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-09",
+      "lat": 4.2971,
+      "lng": 18.5048,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "Maharashtra Drafts Anti-обращение Law",
+      "description": "On March 5, the Maharashtra правительство approved a draft anti-обращение bill requiring prior permission from a designated authority for религиозный обращение. Titled the Dharma Swatantrya Adhiniyam 2026 (религиозный Freedom Act, 2026), the proposed law",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/09/maharashtra-drafts-anti-conversion-law/",
       "victims": 0
     },
     {
@@ -103,6 +142,32 @@
       "lng": 51.6936,
       "country": "Iran",
       "city": "Isfahan",
+      "type": "other",
+      "title": "Trump’s misguided “христианин” war is anything but",
+      "description": "Some commanders claim the Iran war is serving Christ. Haven't they noticed the fake христианин in the White House?",
+      "source": "newsapi:Salon",
+      "url": "https://www.salon.com/2026/03/08/trumps-misguided-christian-war-is-anything-but/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-08",
+      "lat": 10.6659,
+      "lng": 7.3516,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "GOP Congressman Exposes China’s Role in гонение of Nigerian христиане",
+      "description": "Nigeria is the deadliest nation in the world for христиане, and China is complicit in creating the conditions for the violence to continue, according to... Read More The post GOP Congressman Exposes China’s Role in гонение of Nigerian христиане",
+      "source": "newsapi:Daily Signal",
+      "url": "https://www.dailysignal.com/2026/03/08/gop-congressman-exposes-chinas-role-in-persecution-of-nigerian-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-08",
+      "lat": 35.7765,
+      "lng": 51.3597,
+      "country": "Iran",
+      "city": "Tehran",
       "type": "other",
       "title": "Trump’s misguided “христианин” war is anything but",
       "description": "Some commanders claim the Iran war is serving Christ. Haven't they noticed the fake христианин in the White House?",
@@ -655,6 +720,19 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/03/06/herdsmen-responsible-for-christian-massacre-put-on-trial/",
       "victims": 270
+    },
+    {
+      "date": "2026-03-06",
+      "lat": 29.7643,
+      "lng": 52.3388,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "attack",
+      "title": "War in the Middle East: Chapel and церковь buildings атакован in Iraq",
+      "description": "The war between Israel and the United States against Iran, which has been inflaming the Middle East for days, from the Arab Gulf nations to Turkey (and Cyprus, in Europe), also affects Iraqi христиане who fear further progression into a “critical an",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/03/06/war-in-the-middle-east-chapel-and-church-buildings-attacked-in-iraq/",
+      "victims": 0
     },
     {
       "date": "2026-03-05",
