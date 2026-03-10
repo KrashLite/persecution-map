@@ -2,10 +2,49 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-10T05:01:48.877Z",
-    "totalEvents": 230
+    "lastUpdated": "2026-03-10T14:37:29.774Z",
+    "totalEvents": 238
   },
   "events": [
+    {
+      "date": "2026-03-10",
+      "lat": 35.7042,
+      "lng": 51.3178,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "murder",
+      "title": "Two more христиане подтверждено убит in Iran protests",
+      "description": "A total of 19 христиане have been подтверждено погибшие as a result of a crackdown on anti-правительство protests.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/two-more-christians-confirmed-killed-in-iran-protests",
+      "victims": 19
+    },
+    {
+      "date": "2026-03-10",
+      "lat": 36.9517,
+      "lng": 2.8915,
+      "country": "Algeria",
+      "city": "Algiers",
+      "type": "other",
+      "title": "7 key things to know about the Catholic церковь in Algeria ahead of the pope’s visit",
+      "description": "The first country Pope Leo XIV will visit во время his Africa trip in April will be Algeria, a country where Christianity has ancient roots but Catholics constitute a small minority.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/7-key-things-to-know-about-the-catholic-church-in-algeria-ahead-of-the-pope-s-visit",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-10",
+      "lat": -4.6394,
+      "lng": 15.0828,
+      "country": "Democratic Republic of the Congo",
+      "city": "Kinshasa",
+      "type": "kidnapping",
+      "title": "A Way Through the Valley",
+      "description": "03/10/2026 DRC (International христианин Concern) – Terrorist militias in the Democratic Republic of the Congo (DRC) have inflicted violence and abuse upon tens of тысячи of люди living in the nation. These groups abduct дети and force t",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/10/a-way-through-the-valley/",
+      "victims": 0
+    },
     {
       "date": "2026-03-09",
       "lat": 8.9102,
@@ -82,6 +121,45 @@
       "description": "On March 5, the Maharashtra правительство approved a draft anti-обращение bill requiring prior permission from a designated authority for религиозный обращение. Titled the Dharma Swatantrya Adhiniyam 2026 (религиозный Freedom Act, 2026), the proposed law",
       "source": "persecution",
       "url": "https://persecution.org/2026/03/09/maharashtra-drafts-anti-conversion-law/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-09",
+      "lat": 31.5892,
+      "lng": 74.3942,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "other",
+      "title": "После 150 Years, Pakistan суд Opens Path to христианин Divorce",
+      "description": "For centuries, христианин marriage and divorce law in Pakistan has been governed by legislation inherited from the colonial era, with little meaningful reform. The primary law regulating христианин marriages, the христианин Divorce Act 1869, was enacted",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/09/after-150-years-pakistan-court-opens-path-to-christian-divorce/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-09",
+      "lat": 33.8454,
+      "lng": 73.1651,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "other",
+      "title": "Pakistani христиане join мусульмане for Ramadan meals amid Iran war fallout",
+      "description": "Церковь leaders and мусульманин clerics shared Ramadan fast-breaking meals across six Pakistani dioceses this year as the overlap of Lent and Ramadan inspired joint prayers for peace.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-christians-join-muslims-for-ramadan-meals-amid-iran-war-fallout",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-09",
+      "lat": 36.0882,
+      "lng": 59.4949,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "World is at a 'dangerous tipping point', say церковь leaders in appeal for peace",
+      "description": "The церковь leaders said that the recent escalation in Iran and the Middle East had only added to the \"distressing list\" of ongoing conflicts включая those in Ukraine, Sudan, Gaza, and Myanmar.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/global-christian-leaders-urge-renewed-commitment-to-peace-amid-rising-conflicts",
       "victims": 0
     },
     {
@@ -381,6 +459,19 @@
       "description": "The cost of the damage is estimated to be ₹850,000 – or $9,250 – a gargantuan sum for the poor villagers who work for daily wages, mostly on local farms.",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-asia/2026/03/christian-villagers-in-india-uneasy-after-church-vandalized/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-07",
+      "lat": 29.3481,
+      "lng": 52.6627,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Evangelical blessings at Trump's office (video)",
+      "description": "A group of Evangelical религиозный leaders gathered in the Oval Office of the White House on March 05 to pray for American President Donald Trump and for the success of the war launched against Iran. This молитва service, which has become an annual ritu",
+      "source": "newsapi:Gossiplankanews.com",
+      "url": "https://english.gossiplankanews.com/2026/03/evangelical-blessings-at-trumps-office.html",
       "victims": 0
     },
     {
@@ -727,6 +818,19 @@
       "lng": 52.3388,
       "country": "Iran",
       "city": "Shiraz",
+      "type": "attack",
+      "title": "War in the Middle East: Chapel and церковь buildings атакован in Iraq",
+      "description": "The war between Israel and the United States against Iran, which has been inflaming the Middle East for days, from the Arab Gulf nations to Turkey (and Cyprus, in Europe), also affects Iraqi христиане who fear further progression into a “critical an",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/03/06/war-in-the-middle-east-chapel-and-church-buildings-attacked-in-iraq/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-06",
+      "lat": 35.8684,
+      "lng": 51.615,
+      "country": "Iran",
+      "city": "Tehran",
       "type": "attack",
       "title": "War in the Middle East: Chapel and церковь buildings атакован in Iraq",
       "description": "The war between Israel and the United States against Iran, which has been inflaming the Middle East for days, from the Arab Gulf nations to Turkey (and Cyprus, in Europe), also affects Iraqi христиане who fear further progression into a “critical an",
