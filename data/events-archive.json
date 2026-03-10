@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-10T14:37:29.774Z",
-    "totalEvents": 238
+    "lastUpdated": "2026-03-10T19:55:26.341Z",
+    "totalEvents": 244
   },
   "events": [
     {
@@ -43,6 +43,58 @@
       "description": "03/10/2026 DRC (International христианин Concern) – Terrorist militias in the Democratic Republic of the Congo (DRC) have inflicted violence and abuse upon tens of тысячи of люди living in the nation. These groups abduct дети and force t",
       "source": "persecution",
       "url": "https://persecution.org/2026/03/10/a-way-through-the-valley/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-10",
+      "lat": 32.5386,
+      "lng": 51.6678,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "murder",
+      "title": "Two more христиане подтверждено убит in Iran protests",
+      "description": "A total of 19 христиане have been подтверждено погибшие as a result of a crackdown on anti-правительство protests.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/two-more-christians-confirmed-killed-in-iran-protests",
+      "victims": 19
+    },
+    {
+      "date": "2026-03-10",
+      "lat": 35.4731,
+      "lng": 51.1903,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "Cardinal Mathieu evacuated from Iran, many Catholics leaving the country",
+      "description": "Archbishop of Tehran-Isfahan Cardinal Dominique Mathieu was evacuated from his residence in the Iranian capital and arrived in Rome last weekend после witnessing the first days of военные clashes.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/cardinal-mathieu-evacuated-from-iran-many-catholics-leaving-the-country",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-10",
+      "lat": 29.4198,
+      "lng": 52.5716,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Cardinal of Iran safe in Rome после evacuation from Iran",
+      "description": "On March 9, 2026, Cardinal Dominique Mathieu, archbishop of Tehran-Isfahan, Iran, told CathoBel (a Catholic website of his native Belgium) that he is safe in Rome после evacuation from Iran. He arrived in that город on March 8, “not without regret and",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/10/cardinal-of-iran-safe-in-rome-after-evacuation-from-iran/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-10",
+      "lat": 19.3858,
+      "lng": -98.9431,
+      "country": "Mexico",
+      "city": "Mexico City",
+      "type": "murder",
+      "title": "Священник сообщается пропавший без вести found погибшие in southern Mexico",
+      "description": "Another священник gone пропавший без вести has been found погибшие in Mexico. So far there has been no statement from the власти whether foul play was or was not involved.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/americas/priest-reported-missing-found-dead-in-southern-mexico",
       "victims": 0
     },
     {
@@ -155,6 +207,32 @@
       "lng": 59.4949,
       "country": "Iran",
       "city": "Mashhad",
+      "type": "other",
+      "title": "World is at a 'dangerous tipping point', say церковь leaders in appeal for peace",
+      "description": "The церковь leaders said that the recent escalation in Iran and the Middle East had only added to the \"distressing list\" of ongoing conflicts включая those in Ukraine, Sudan, Gaza, and Myanmar.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/global-christian-leaders-urge-renewed-commitment-to-peace-amid-rising-conflicts",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-09",
+      "lat": 24.8648,
+      "lng": 67.0984,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "other",
+      "title": "После 150 Years, Pakistan суд Opens Path to христианин Divorce",
+      "description": "For centuries, христианин marriage and divorce law in Pakistan has been governed by legislation inherited from the colonial era, with little meaningful reform. The primary law regulating христианин marriages, the христианин Divorce Act 1869, was enacted",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/09/after-150-years-pakistan-court-opens-path-to-christian-divorce/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-09",
+      "lat": 29.728,
+      "lng": 52.5831,
+      "country": "Iran",
+      "city": "Shiraz",
       "type": "other",
       "title": "World is at a 'dangerous tipping point', say церковь leaders in appeal for peace",
       "description": "The церковь leaders said that the recent escalation in Iran and the Middle East had only added to the \"distressing list\" of ongoing conflicts включая those in Ukraine, Sudan, Gaza, and Myanmar.",
