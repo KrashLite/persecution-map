@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-10T19:55:26.341Z",
-    "totalEvents": 244
+    "lastUpdated": "2026-03-11T05:03:11.648Z",
+    "totalEvents": 252
   },
   "events": [
     {
@@ -95,6 +95,32 @@
       "description": "Another священник gone пропавший без вести has been found погибшие in Mexico. So far there has been no statement from the власти whether foul play was or was not involved.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/americas/priest-reported-missing-found-dead-in-southern-mexico",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-10",
+      "lat": 32.7413,
+      "lng": 51.8491,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Cardinal Mathieu evacuated from Iran, many Catholics leaving the country",
+      "description": "Archbishop of Tehran-Isfahan Cardinal Dominique Mathieu was evacuated from his residence in the Iranian capital and arrived in Rome last weekend после witnessing the first days of военные clashes.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/cardinal-mathieu-evacuated-from-iran-many-catholics-leaving-the-country",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-10",
+      "lat": 35.6747,
+      "lng": 51.4029,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "Cardinal of Iran safe in Rome после evacuation from Iran",
+      "description": "On March 9, 2026, Cardinal Dominique Mathieu, archbishop of Tehran-Isfahan, Iran, told CathoBel (a Catholic website of his native Belgium) that he is safe in Rome после evacuation from Iran. He arrived in that город on March 8, “not without regret and",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/10/cardinal-of-iran-safe-in-rome-after-evacuation-from-iran/",
       "victims": 0
     },
     {
@@ -233,6 +259,32 @@
       "lng": 52.5831,
       "country": "Iran",
       "city": "Shiraz",
+      "type": "other",
+      "title": "World is at a 'dangerous tipping point', say церковь leaders in appeal for peace",
+      "description": "The церковь leaders said that the recent escalation in Iran and the Middle East had only added to the \"distressing list\" of ongoing conflicts включая those in Ukraine, Sudan, Gaza, and Myanmar.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/global-christian-leaders-urge-renewed-commitment-to-peace-amid-rising-conflicts",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-09",
+      "lat": 32.5635,
+      "lng": 51.5918,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "murder",
+      "title": "Iran war: San Diego's role, христианин 'end times' rhetoric",
+      "description": "The American-Israeli war on Iran has entered its second week.More than 1,300 люди have been убит in Iran, according to the Iranian Red Crescent Society.Many fear this could be another \"forever war,\" like the U.S. invasions of Iraq and Afghanistan",
+      "source": "newsapi:KPBS",
+      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/iran-war-san-diegos-role-christian-end-times-rhetoric",
+      "victims": 300
+    },
+    {
+      "date": "2026-03-09",
+      "lat": 32.6301,
+      "lng": 51.8671,
+      "country": "Iran",
+      "city": "Isfahan",
       "type": "other",
       "title": "World is at a 'dangerous tipping point', say церковь leaders in appeal for peace",
       "description": "The церковь leaders said that the recent escalation in Iran and the Middle East had only added to the \"distressing list\" of ongoing conflicts включая those in Ukraine, Sudan, Gaza, and Myanmar.",
@@ -914,6 +966,32 @@
       "description": "The war between Israel and the United States against Iran, which has been inflaming the Middle East for days, from the Arab Gulf nations to Turkey (and Cyprus, in Europe), also affects Iraqi христиане who fear further progression into a “critical an",
       "source": "zenit",
       "url": "https://zenit.org/2026/03/06/war-in-the-middle-east-chapel-and-church-buildings-attacked-in-iraq/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-06",
+      "lat": 12.0976,
+      "lng": 8.8135,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "We Must Not Ignore христианин гонение in Ethiopia",
+      "description": "By Dr. Greg Cochran, ICC Fellow Nigeria’s continued presence on the Countries of Particular Concern list is a good sign that религиозный liberty still motivates the American soul. Beyond this, Rep. Chris Smith (R-N.J.) teamed up with Rep. Riley Moore",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/06/we-must-not-ignore-christian-persecution-in-ethiopia/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-06",
+      "lat": 29.6316,
+      "lng": 52.3471,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "‘My trust was in God’: священник recounts flight from Holy Land amid Iranian conflict",
+      "description": "Father Anthony Wieck, SJ, was leading a group of pilgrims in Jerusalem when the U.S. and Israel began launching strikes against Iran.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/my-trust-was-in-god-priest-relays-flight-from-holy-land-amid-iranian-conflict",
       "victims": 0
     },
     {
@@ -2256,6 +2334,19 @@
       "victims": 0
     },
     {
+      "date": "2026-02-28",
+      "lat": 6.3888,
+      "lng": 3.4484,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "US unveils plan to end violence against христиане in Nigeria",
+      "description": "The plans were detailed in a report by US Congressman Riley M Moore.",
+      "source": "newsapi:Christiantoday.com",
+      "url": "https://www.christiantoday.com/news/us-unveils-plan-to-end-violence-against-christians-in-nigeria",
+      "victims": 0
+    },
+    {
       "date": "2026-02-27",
       "lat": 29.1071,
       "lng": 76.6049,
@@ -3048,6 +3139,19 @@
       "description": "Members of a христианин family were allegedly убит in India после extended family allegedly believed their обращение had caused illness in their family.",
       "source": "newsapi:The Daily Caller",
       "url": "https://dailycaller.com/2026/02/24/christian-family-killed-axe-curse-village-india-jitendra-soren/",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-24",
+      "lat": 9.2586,
+      "lng": 7.728,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "US lawmakers find Nigeria 'deadliest' place for христиане",
+      "description": "US lawmakers release a report on their findings into предполагаемый гонение of христиане in Nigeria. It comes после President Donald Trump categorized the African nation as a \"country of particular concern\" last year.",
+      "source": "newsapi:DW (English)",
+      "url": "https://www.dw.com/en/us-designates-nigeria-as-deadliest-place-for-christians-nicki-minaj/a-76107415",
       "victims": 0
     },
     {
