@@ -2,10 +2,49 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-11T05:03:11.648Z",
-    "totalEvents": 252
+    "lastUpdated": "2026-03-11T14:38:27.709Z",
+    "totalEvents": 257
   },
   "events": [
+    {
+      "date": "2026-03-11",
+      "lat": 29.5265,
+      "lng": 52.5704,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "discrimination",
+      "title": "What is the Chaldean церковь? Are they Catholics?",
+      "description": "The Chaldean Catholic церковь is often mentioned in news reports about the христиане who live in countries such as Iraq, Iran, and Lebanon, where its members have a historical presence. It’s also present in other parts of the world where Chaldean Cat",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/11/what-is-the-chaldean-church-are-they-catholics/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-11",
+      "lat": 36.1113,
+      "lng": 43.0971,
+      "country": "Iraq",
+      "city": "Mosul",
+      "type": "other",
+      "title": "Cardinal Sako, head of Chaldean церковь in Iraq, retires as war engulfs the регион",
+      "description": "The patriarch of one of the most important христианин церкви in the Middle East retired on Tuesday, setting the stage for new leadership as war engulfs the регион.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/cardinal-sako-head-of-chaldean-church-in-iraq-retires-as-war-engulfs-the-region/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-11",
+      "lat": 6.6976,
+      "lng": 79.9562,
+      "country": "Sri Lanka",
+      "city": "Colombo",
+      "type": "arrest",
+      "title": "Catholics in Sri Lanka support арест of govt official более 2019 Easter нападения",
+      "description": "Arresting a retired general in Sri Lanka in a case around the 2019 Easter bombings is “the right direction,” according to a leading Catholic official.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/03/catholics-in-sri-lanka-support-arrest-of-govt-official-over-2019-easter-attacks/",
+      "victims": 0
+    },
     {
       "date": "2026-03-10",
       "lat": 35.7042,
@@ -121,6 +160,19 @@
       "description": "On March 9, 2026, Cardinal Dominique Mathieu, archbishop of Tehran-Isfahan, Iran, told CathoBel (a Catholic website of his native Belgium) that he is safe in Rome после evacuation from Iran. He arrived in that город on March 8, “not without regret and",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/03/10/cardinal-of-iran-safe-in-rome-after-evacuation-from-iran/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-10",
+      "lat": 36.4621,
+      "lng": 59.6598,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Cardinal Mathieu evacuated from Iran, many Catholics leaving the country",
+      "description": "Archbishop of Tehran-Isfahan Cardinal Dominique Mathieu was evacuated from his residence in the Iranian capital and arrived in Rome last weekend после witnessing the first days of военные clashes.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/cardinal-mathieu-evacuated-from-iran-many-catholics-leaving-the-country",
       "victims": 0
     },
     {
@@ -381,6 +433,19 @@
       "description": "Some commanders claim the Iran war is serving Christ. Haven't they noticed the fake христианин in the White House?",
       "source": "newsapi:Salon",
       "url": "https://www.salon.com/2026/03/08/trumps-misguided-christian-war-is-anything-but/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-08",
+      "lat": 11.9967,
+      "lng": 13.0182,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "GOP Congressman Exposes China’s Role in гонение of Nigerian христиане",
+      "description": "Nigeria is the deadliest nation in the world for христиане, and China is complicit in creating the conditions for the violence to continue, according to... Read More The post GOP Congressman Exposes China’s Role in гонение of Nigerian христиане",
+      "source": "newsapi:Daily Signal",
+      "url": "https://www.dailysignal.com/2026/03/08/gop-congressman-exposes-chinas-role-in-persecution-of-nigerian-christians/",
       "victims": 0
     },
     {
