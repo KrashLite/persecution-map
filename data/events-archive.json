@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-11T14:38:27.709Z",
-    "totalEvents": 257
+    "lastUpdated": "2026-03-11T19:54:40.247Z",
+    "totalEvents": 270
   },
   "events": [
     {
@@ -43,6 +43,84 @@
       "description": "Arresting a retired general in Sri Lanka in a case around the 2019 Easter bombings is “the right direction,” according to a leading Catholic official.",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-asia/2026/03/catholics-in-sri-lanka-support-arrest-of-govt-official-over-2019-easter-attacks/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-11",
+      "lat": 35.9227,
+      "lng": 51.1399,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "discrimination",
+      "title": "What is the Chaldean церковь? Are they Catholics?",
+      "description": "The Chaldean Catholic церковь is often mentioned in news reports about the христиане who live in countries such as Iraq, Iran, and Lebanon, where its members have a historical presence. It’s also present in other parts of the world where Chaldean Cat",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/11/what-is-the-chaldean-church-are-they-catholics/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-11",
+      "lat": 27.832,
+      "lng": 85.4189,
+      "country": "Nepal",
+      "city": "Kathmandu",
+      "type": "other",
+      "title": "Христиане in Nepal Cautiously Hopeful as New правительство Set to Form",
+      "description": "Христиане in Nepal are anxious as they look at the results of the March 5 elections. Yet, many remain hopeful that the new правительство will value религиозный freedom and provide security against угрозы from экстремистский groups. This anxiety is rooted in",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/11/christians-in-nepal-cautiously-hopeful-as-new-government-set-to-form/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-11",
+      "lat": 4.1564,
+      "lng": 18.6784,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "discrimination",
+      "title": "Nicaragua prohibits priestly and diaconal ordinations",
+      "description": "The правительство of Nicaragua has imposed a new restriction on the Catholic церковь, prohibiting priestly and diaconal ordinations in four dioceses whose bishops have been вынужден into exile. The measure affects the Dioceses of Jinotega, Siuna, Matagalpa",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/11/nicaragua-prohibits-priestly-and-diaconal-ordinations/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-11",
+      "lat": 33.9108,
+      "lng": 73.2814,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "murder",
+      "title": "Pakistani bishops demand probe into смерть of христианин farmworker",
+      "description": "Pakistan’s Catholic bishops have called for a transparent investigation into the смерть of a 22-year-old христианин laborer whose family says shows signs of torture.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-bishops-demand-probe-into-death-of-christian-farmworker",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-11",
+      "lat": 35.2302,
+      "lng": 44.4369,
+      "country": "Iraq",
+      "city": "Kirkuk",
+      "type": "other",
+      "title": "Cardinal Sako, head of Chaldean церковь in Iraq, retires as war engulfs the регион",
+      "description": "The patriarch of one of the most important христианин церкви in the Middle East retired on Tuesday, setting the stage for new leadership as war engulfs the регион.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/cardinal-sako-head-of-chaldean-church-in-iraq-retires-as-war-engulfs-the-region/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-11",
+      "lat": 36.4122,
+      "lng": 42.9153,
+      "country": "Iraq",
+      "city": "Mosul",
+      "type": "other",
+      "title": "Iraq: Cardinal Sako retires as Patriarch of the Chaldean церковь",
+      "description": "On March 10, 2026, Pope Leo XIV accepted the resignation of Chaldean Patriarch Louis Raphaël Sako. According to a message posted on the Chaldean Patriarchate’s website, he stepped down due to his age. Given that this criterion is not mandatory in the",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/11/iraq-cardinal-sako-retires-as-patriarch-of-the-chaldean-church/",
       "victims": 0
     },
     {
@@ -173,6 +251,45 @@
       "description": "Archbishop of Tehran-Isfahan Cardinal Dominique Mathieu was evacuated from his residence in the Iranian capital and arrived in Rome last weekend после witnessing the first days of военные clashes.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/cardinal-mathieu-evacuated-from-iran-many-catholics-leaving-the-country",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-10",
+      "lat": 36.3529,
+      "lng": 59.503,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "murder",
+      "title": "Two more христиане подтверждено убит in Iran protests",
+      "description": "A total of 19 христиане have been подтверждено погибшие as a result of a crackdown on anti-правительство protests.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/two-more-christians-confirmed-killed-in-iran-protests",
+      "victims": 19
+    },
+    {
+      "date": "2026-03-10",
+      "lat": 4.4045,
+      "lng": 18.3818,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "murder",
+      "title": "'We Carry Nothing But Weapons of Peace,' Said священник Days Before Israel убит Him in Lebanon",
+      "description": "Pope Leo XIV was среди those expressing grief Monday более the убийство of Father Pierre al-Rahi, a Maronite Catholic священник, in an Israeli strike in the southern Lebanese посёлок of Qlayaa, days после he had insisted on staying in the регион despite evac",
+      "source": "newsapi:Common Dreams",
+      "url": "https://www.commondreams.org/news/lebanon-priest",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-10",
+      "lat": 19.6663,
+      "lng": -99.2001,
+      "country": "Mexico",
+      "city": "Mexico City",
+      "type": "murder",
+      "title": "UPDATE: священник сообщается пропавший без вести found погибшие in southern Mexico",
+      "description": "Another священник gone пропавший без вести has been found погибшие in Mexico. So far there has been no statement from the власти whether foul play was or was not involved.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/americas/priest-reported-missing-found-dead-in-southern-mexico",
       "victims": 0
     },
     {
@@ -343,6 +460,45 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/global-christian-leaders-urge-renewed-commitment-to-peace-amid-rising-conflicts",
       "victims": 0
+    },
+    {
+      "date": "2026-03-09",
+      "lat": 33.5595,
+      "lng": 73.0365,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "other",
+      "title": "После 150 Years, Pakistan суд Opens Path to христианин Divorce",
+      "description": "For centuries, христианин marriage and divorce law in Pakistan has been governed by legislation inherited from the colonial era, with little meaningful reform. The primary law regulating христианин marriages, the христианин Divorce Act 1869, was enacted",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/09/after-150-years-pakistan-court-opens-path-to-christian-divorce/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-09",
+      "lat": 25.0362,
+      "lng": 67.0399,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "other",
+      "title": "Pakistani христиане join мусульмане for Ramadan meals amid Iran war fallout",
+      "description": "Церковь leaders and мусульманин clerics shared Ramadan fast-breaking meals across six Pakistani dioceses this year as the overlap of Lent and Ramadan inspired joint prayers for peace.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-christians-join-muslims-for-ramadan-meals-amid-iran-war-fallout",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-09",
+      "lat": 35.4494,
+      "lng": 51.4807,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "murder",
+      "title": "Iran war: San Diego's role, христианин 'end times' rhetoric",
+      "description": "The American-Israeli war on Iran has entered its second week.More than 1,300 люди have been убит in Iran, according to the Iranian Red Crescent Society.Many fear this could be another \"forever war,\" like the U.S. invasions of Iraq and Afghanistan",
+      "source": "newsapi:KPBS",
+      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/iran-war-san-diegos-role-christian-end-times-rhetoric",
+      "victims": 300
     },
     {
       "date": "2026-03-08",
@@ -3212,6 +3368,19 @@
       "lng": 7.728,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "murder",
+      "title": "US lawmakers find Nigeria 'deadliest' place for христиане",
+      "description": "US lawmakers release a report on their findings into предполагаемый гонение of христиане in Nigeria. It comes после President Donald Trump categorized the African nation as a \"country of particular concern\" last year.",
+      "source": "newsapi:DW (English)",
+      "url": "https://www.dw.com/en/us-designates-nigeria-as-deadliest-place-for-christians-nicki-minaj/a-76107415",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-24",
+      "lat": 10.5826,
+      "lng": 7.594,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "murder",
       "title": "US lawmakers find Nigeria 'deadliest' place for христиане",
       "description": "US lawmakers release a report on their findings into предполагаемый гонение of христиане in Nigeria. It comes после President Donald Trump categorized the African nation as a \"country of particular concern\" last year.",
