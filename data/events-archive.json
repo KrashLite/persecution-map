@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-11T19:54:40.247Z",
-    "totalEvents": 270
+    "lastUpdated": "2026-03-12T05:08:17.477Z",
+    "totalEvents": 274
   },
   "events": [
     {
@@ -116,6 +116,58 @@
       "lng": 42.9153,
       "country": "Iraq",
       "city": "Mosul",
+      "type": "other",
+      "title": "Iraq: Cardinal Sako retires as Patriarch of the Chaldean церковь",
+      "description": "On March 10, 2026, Pope Leo XIV accepted the resignation of Chaldean Patriarch Louis Raphaël Sako. According to a message posted on the Chaldean Patriarchate’s website, he stepped down due to his age. Given that this criterion is not mandatory in the",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/11/iraq-cardinal-sako-retires-as-patriarch-of-the-chaldean-church/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-11",
+      "lat": 36.0571,
+      "lng": 59.7828,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "discrimination",
+      "title": "What is the Chaldean церковь? Are they Catholics?",
+      "description": "The Chaldean Catholic церковь is often mentioned in news reports about the христиане who live in countries such as Iraq, Iran, and Lebanon, where its members have a historical presence. It’s also present in other parts of the world where Chaldean Cat",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/11/what-is-the-chaldean-church-are-they-catholics/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-11",
+      "lat": 4.509,
+      "lng": 18.4998,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "Hostility and Informal Enforcement (Part 3 of 5)",
+      "description": "By Lisa Navarrette, ICC Fellow Laws and суд systems create the framework for economic гонение. Social hostility often carries it out. Even when laws appear neutral, communities can make it clear to христиане where the boundaries of opportunity",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/11/hostility-and-informal-enforcement-part-3-of-5/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-11",
+      "lat": 33.236,
+      "lng": 44.257,
+      "country": "Iraq",
+      "city": "Baghdad",
+      "type": "other",
+      "title": "Cardinal Sako, head of Chaldean церковь in Iraq, retires as war engulfs the регион",
+      "description": "The patriarch of one of the most important христианин церкви in the Middle East retired on Tuesday, setting the stage for new leadership as war engulfs the регион.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/cardinal-sako-head-of-chaldean-church-in-iraq-retires-as-war-engulfs-the-region/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-11",
+      "lat": 33.091,
+      "lng": 44.5471,
+      "country": "Iraq",
+      "city": "Baghdad",
       "type": "other",
       "title": "Iraq: Cardinal Sako retires as Patriarch of the Chaldean церковь",
       "description": "On March 10, 2026, Pope Leo XIV accepted the resignation of Chaldean Patriarch Louis Raphaël Sako. According to a message posted on the Chaldean Patriarchate’s website, he stepped down due to his age. Given that this criterion is not mandatory in the",
