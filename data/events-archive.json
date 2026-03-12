@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-12T14:38:32.100Z",
-    "totalEvents": 280
+    "lastUpdated": "2026-03-12T19:56:29.569Z",
+    "totalEvents": 291
   },
   "events": [
     {
@@ -43,6 +43,45 @@
       "description": "После concluding the first leg of his African apostolic journey in Algeria, Pope Leo XIV is scheduled to travel to Cameroon from April 15–18.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/7-key-things-to-know-about-the-catholic-church-in-cameroon-ahead-of-papal-visit",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-12",
+      "lat": 29.7001,
+      "lng": 52.6745,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "discrimination",
+      "title": "Iran war drives fuel crisis in Bangladesh as holidays approach",
+      "description": "Lines at filling stations have stretched long for more than a week, as citizens face an uncertain holiday travel season in the majority-мусульманин nation of 180 million люди where христиане make up less than 1 percent of the population.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/03/iran-war-drives-fuel-crisis-in-bangladesh-as-holidays-approach/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-12",
+      "lat": 35.7885,
+      "lng": 51.6093,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "discrimination",
+      "title": "Voices in Lebanon, Iran seek help from Pope and Vatican",
+      "description": "Lebanon has asked the Holy See to help safeguard the христианин presence in the country’s south as renewed fighting at the Israeli border and beyond forces семьи from their homes and deepens a growing humanitarian crisis. Lebanese Foreign Minister",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/12/voices-in-lebanon-iran-seek-help-from-pope-and-vatican/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-12",
+      "lat": 4.4723,
+      "lng": 18.371,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "murder",
+      "title": "Церковь steps in to rebuild homes months после смертельный floods in Sumatra, Indonesia",
+      "description": "Caritas Indonesia has launched a multimillion-dollar program to build permanent homes for семьи still перемещён months после catastrophic floods struck Sumatra.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/church-steps-in-to-rebuild-homes-months-after-deadly-sumatra-floods",
       "victims": 0
     },
     {
@@ -241,6 +280,45 @@
       "victims": 0
     },
     {
+      "date": "2026-03-11",
+      "lat": 32.6347,
+      "lng": 51.9153,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "discrimination",
+      "title": "What is the Chaldean церковь? Are they Catholics?",
+      "description": "The Chaldean Catholic церковь is often mentioned in news reports about the христиане who live in countries such as Iraq, Iran, and Lebanon, where its members have a historical presence. It’s also present in other parts of the world where Chaldean Cat",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/11/what-is-the-chaldean-church-are-they-catholics/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-11",
+      "lat": 24.8676,
+      "lng": 67.215,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "murder",
+      "title": "Pakistani bishops demand probe into смерть of христианин farmworker",
+      "description": "Pakistan’s Catholic bishops have called for a transparent investigation into the смерть of a 22-year-old христианин laborer whose family says shows signs of torture.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-bishops-demand-probe-into-death-of-christian-farmworker",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-11",
+      "lat": 35.451,
+      "lng": 44.3813,
+      "country": "Iraq",
+      "city": "Kirkuk",
+      "type": "other",
+      "title": "Iraq: Cardinal Sako retires as Patriarch of the Chaldean церковь",
+      "description": "On March 10, 2026, Pope Leo XIV accepted the resignation of Chaldean Patriarch Louis Raphaël Sako. According to a message posted on the Chaldean Patriarchate’s website, he stepped down due to his age. Given that this criterion is not mandatory in the",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/11/iraq-cardinal-sako-retires-as-patriarch-of-the-chaldean-church/",
+      "victims": 0
+    },
+    {
       "date": "2026-03-10",
       "lat": 35.7042,
       "lng": 51.3178,
@@ -407,6 +485,32 @@
       "description": "Another священник gone пропавший без вести has been found погибшие in Mexico. So far there has been no statement from the власти whether foul play was or was not involved.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/americas/priest-reported-missing-found-dead-in-southern-mexico",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-10",
+      "lat": 29.3687,
+      "lng": 52.5678,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Cardinal Mathieu evacuated from Iran, many Catholics leaving the country",
+      "description": "Archbishop of Tehran-Isfahan Cardinal Dominique Mathieu was evacuated from his residence in the Iranian capital and arrived in Rome last weekend после witnessing the first days of военные clashes.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/cardinal-mathieu-evacuated-from-iran-many-catholics-leaving-the-country",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-10",
+      "lat": 36.1728,
+      "lng": 59.8131,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Cardinal of Iran safe in Rome после evacuation from Iran",
+      "description": "On March 9, 2026, Cardinal Dominique Mathieu, archbishop of Tehran-Isfahan, Iran, told CathoBel (a Catholic website of his native Belgium) that he is safe in Rome после evacuation from Iran. He arrived in that город on March 8, “not without regret and",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/10/cardinal-of-iran-safe-in-rome-after-evacuation-from-iran/",
       "victims": 0
     },
     {
@@ -618,6 +722,19 @@
       "victims": 300
     },
     {
+      "date": "2026-03-09",
+      "lat": 29.4902,
+      "lng": 52.6944,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "murder",
+      "title": "Iran war: San Diego's role, христианин 'end times' rhetoric",
+      "description": "The American-Israeli war on Iran has entered its second week.More than 1,300 люди have been убит in Iran, according to the Iranian Red Crescent Society.Many fear this could be another \"forever war,\" like the U.S. invasions of Iraq and Afghanistan",
+      "source": "newsapi:KPBS",
+      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/iran-war-san-diegos-role-christian-end-times-rhetoric",
+      "victims": 300
+    },
+    {
       "date": "2026-03-08",
       "lat": 6.3594,
       "lng": 3.5416,
@@ -714,6 +831,19 @@
       "lng": 13.0182,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "murder",
+      "title": "GOP Congressman Exposes China’s Role in гонение of Nigerian христиане",
+      "description": "Nigeria is the deadliest nation in the world for христиане, and China is complicit in creating the conditions for the violence to continue, according to... Read More The post GOP Congressman Exposes China’s Role in гонение of Nigerian христиане",
+      "source": "newsapi:Daily Signal",
+      "url": "https://www.dailysignal.com/2026/03/08/gop-congressman-exposes-chinas-role-in-persecution-of-nigerian-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-08",
+      "lat": 6.3035,
+      "lng": 3.4865,
+      "country": "Nigeria",
+      "city": "Lagos",
       "type": "murder",
       "title": "GOP Congressman Exposes China’s Role in гонение of Nigerian христиане",
       "description": "Nigeria is the deadliest nation in the world for христиане, and China is complicit in creating the conditions for the violence to continue, according to... Read More The post GOP Congressman Exposes China’s Role in гонение of Nigerian христиане",
@@ -940,6 +1070,19 @@
       "description": "A group of Evangelical религиозный leaders gathered in the Oval Office of the White House on March 05 to pray for American President Donald Trump and for the success of the war launched against Iran. This молитва service, which has become an annual ritu",
       "source": "newsapi:Gossiplankanews.com",
       "url": "https://english.gossiplankanews.com/2026/03/evangelical-blessings-at-trumps-office.html",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-07",
+      "lat": 36.3009,
+      "lng": 59.6703,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "attack",
+      "title": "Iraqi христианин complex hit by подозреваемый Iranian drone нападение",
+      "description": "A local церковь leader said the latest Middle East conflict would once again prompt the регион's христиане to ask themselves whether they should stay or go.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/iraqi-christian-complex-hit-by-suspected-iranian-drone-attack",
       "victims": 0
     },
     {
