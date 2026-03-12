@@ -2,10 +2,49 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-12T05:08:17.477Z",
-    "totalEvents": 274
+    "lastUpdated": "2026-03-12T14:38:32.100Z",
+    "totalEvents": 280
   },
   "events": [
+    {
+      "date": "2026-03-12",
+      "lat": 32.6986,
+      "lng": 51.6601,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "discrimination",
+      "title": "Iran war drives fuel crisis in Bangladesh as holidays approach",
+      "description": "Lines at filling stations have stretched long for more than a week, as citizens face an uncertain holiday travel season in the majority-мусульманин nation of 180 million люди where христиане make up less than 1 percent of the population.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/03/iran-war-drives-fuel-crisis-in-bangladesh-as-holidays-approach/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-12",
+      "lat": 36.3807,
+      "lng": 59.7232,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "discrimination",
+      "title": "Voices in Lebanon, Iran seek help from Pope and Vatican",
+      "description": "Lebanon has asked the Holy See to help safeguard the христианин presence in the country’s south as renewed fighting at the Israeli border and beyond forces семьи from their homes and deepens a growing humanitarian crisis. Lebanese Foreign Minister",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/12/voices-in-lebanon-iran-seek-help-from-pope-and-vatican/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-12",
+      "lat": 3.9482,
+      "lng": 11.5283,
+      "country": "Cameroon",
+      "city": "Yaounde",
+      "type": "other",
+      "title": "7 key things to know about the Catholic церковь in Cameroon ahead of papal visit",
+      "description": "После concluding the first leg of his African apostolic journey in Algeria, Pope Leo XIV is scheduled to travel to Cameroon from April 15–18.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/7-key-things-to-know-about-the-catholic-church-in-cameroon-ahead-of-papal-visit",
+      "victims": 0
+    },
     {
       "date": "2026-03-11",
       "lat": 29.5265,
@@ -168,6 +207,32 @@
       "lng": 44.5471,
       "country": "Iraq",
       "city": "Baghdad",
+      "type": "other",
+      "title": "Iraq: Cardinal Sako retires as Patriarch of the Chaldean церковь",
+      "description": "On March 10, 2026, Pope Leo XIV accepted the resignation of Chaldean Patriarch Louis Raphaël Sako. According to a message posted on the Chaldean Patriarchate’s website, he stepped down due to his age. Given that this criterion is not mandatory in the",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/11/iraq-cardinal-sako-retires-as-patriarch-of-the-chaldean-church/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-11",
+      "lat": 31.6843,
+      "lng": 74.557,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "murder",
+      "title": "Pakistani bishops demand probe into смерть of христианин farmworker",
+      "description": "Pakistan’s Catholic bishops have called for a transparent investigation into the смерть of a 22-year-old христианин laborer whose family says shows signs of torture.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-bishops-demand-probe-into-death-of-christian-farmworker",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-11",
+      "lat": 36.0581,
+      "lng": 43.7904,
+      "country": "Iraq",
+      "city": "Erbil",
       "type": "other",
       "title": "Iraq: Cardinal Sako retires as Patriarch of the Chaldean церковь",
       "description": "On March 10, 2026, Pope Leo XIV accepted the resignation of Chaldean Patriarch Louis Raphaël Sako. According to a message posted on the Chaldean Patriarchate’s website, he stepped down due to his age. Given that this criterion is not mandatory in the",
@@ -3438,6 +3503,19 @@
       "description": "US lawmakers release a report on their findings into предполагаемый гонение of христиане in Nigeria. It comes после President Donald Trump categorized the African nation as a \"country of particular concern\" last year.",
       "source": "newsapi:DW (English)",
       "url": "https://www.dw.com/en/us-designates-nigeria-as-deadliest-place-for-christians-nicki-minaj/a-76107415",
+      "victims": 0
+    },
+    {
+      "date": "2026-02-24",
+      "lat": 19.0443,
+      "lng": 72.9422,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "murder",
+      "title": "Христианин Family Of Three Allegedly Butchered For ‘Cursing’ Relative By Converting",
+      "description": "Members of a христианин family were allegedly убит in India после extended family allegedly believed their обращение had caused illness in their family.",
+      "source": "newsapi:The Daily Caller",
+      "url": "https://dailycaller.com/2026/02/24/christian-family-killed-axe-curse-village-india-jitendra-soren/",
       "victims": 0
     },
     {
