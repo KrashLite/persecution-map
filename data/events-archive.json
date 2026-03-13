@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-13T14:29:25.607Z",
-    "totalEvents": 304
+    "lastUpdated": "2026-03-13T19:47:25.068Z",
+    "totalEvents": 312
   },
   "events": [
     {
@@ -108,6 +108,32 @@
       "description": "In the final of the 2026 ICC мужчины's T20 World Cup, India beat New Zealand. Indian player Sanju Samson attributed his success to God. A key athlete and the player of the match, the Kerala wicket-keeper-batter was seen молящийся on his knees. Simple gestu",
       "source": "zenit",
       "url": "https://zenit.org/2026/03/12/the-testimony-of-faith-of-christian-cricket-champion-sanju-samson/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-13",
+      "lat": 10.2625,
+      "lng": 7.4754,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Фулани христиане Deny Link to Miyetti Allah as Plateau штат Violence Rages",
+      "description": "Фулани христиане in Nigeria say they are not members of Miyetti Allah, a фулани socio-political organization that civil society groups, lawmakers, and its жертвы have accused of being involved in terrorism and the гонение of христиане. Their",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/13/fulani-christians-deny-link-to-miyetti-allah-as-plateau-state-violence-rages/",
+      "victims": 16
+    },
+    {
+      "date": "2026-03-13",
+      "lat": 21.0866,
+      "lng": 85.2443,
+      "country": "India",
+      "city": "Odisha",
+      "type": "attack",
+      "title": "Cardinal of Iran arrives at the Vatican and meets with Pope Leo XIV после the взрыв of the country and days without news of him",
+      "description": "The Vatican has also recalled the Holy See’s diplomatic representative in Iran, the Indian священник Sebastian Febin, who had been serving as chargé d’affaires of the Apostolic Nunciature in the absence of a nuncio The post Cardinal of Iran arrives at t",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/03/12/cardinal-of-iran-arrives-at-the-vatican-and-meets-with-pope-leo-xiv-after-the-bombing-of-the-country-and-days-without-news-of-him/",
       "victims": 0
     },
     {
@@ -238,6 +264,58 @@
       "description": "Lebanon has asked the Holy See to help safeguard the христианин presence in the country’s south as renewed fighting at the Israeli border and beyond forces семьи from their homes and deepens a growing humanitarian crisis. Lebanese Foreign Minister",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/03/12/voices-in-lebanon-iran-seek-help-from-pope-and-vatican/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-12",
+      "lat": 29.5469,
+      "lng": 52.7816,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Democrats requested probe into complaints военные commanders used христианин rhetoric to justify Iran war",
+      "description": "28 Democrats have demanded an investigation into Defense Secretary Pete Hegseth после сотни of troops сообщается commanders pushing \"end-times христианин fascism\" as a justification for the Iran war.",
+      "source": "newsapi:Snopes.com",
+      "url": "https://www.snopes.com//fact-check/hegseth-iran-war-christian-rhetoric/",
+      "victims": 150
+    },
+    {
+      "date": "2026-03-12",
+      "lat": 36.2745,
+      "lng": 59.5685,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Why Some Iranians Dance во время War",
+      "description": "By Dr. Nathan Rostampour, Ekklesia Mission president and ICC board member Many of my friends have asked me, “Why are some Iranians dancing while war is unfolding in their country?” To truly understand, one would have to live under the исламский regime",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/12/why-some-iranians-dance-during-war/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-12",
+      "lat": 36.2317,
+      "lng": 59.7128,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "The War on Iran Fails Every Test of Justice",
+      "description": "For nearly two millennia, the христианин intellectual tradition has maintained that war, while sometimes permissible, is never presumptively just. The burden of proof always falls on the party making war, not on the party resisting it. Augustine of Hi",
+      "source": "newsapi:Antiwar.com",
+      "url": "https://www.antiwar.com/blog/2026/03/12/the-war-on-iran-fails-every-test-of-justice/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-12",
+      "lat": 29.5506,
+      "lng": 52.6255,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Video: Pope Leo XIV Meets Archbishop of Tehran, Evacuated во время War, in Vatican",
+      "description": "Pope Leo XIV welcomed the highest-ranked Catholic authority in Iran, Archbishop of Tehran-Isfahan Cardinal Dominique Mathieu, for an in-person meeting at the Vatican on Thursday. The post Video: Pope Leo XIV Meets Archbishop of Tehran, Evacuated Duri",
+      "source": "newsapi:Breitbart News",
+      "url": "https://www.breitbart.com/faith/2026/03/12/video-pope-leo-xiv-meets-archbishop-of-tehran-evacuated-during-war-in-vatican/",
       "victims": 0
     },
     {
@@ -683,6 +761,19 @@
       "victims": 0
     },
     {
+      "date": "2026-03-10",
+      "lat": 29.7602,
+      "lng": 52.7954,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "murder",
+      "title": "Two more христиане подтверждено убит in Iran protests",
+      "description": "A total of 19 христиане have been подтверждено погибшие as a result of a crackdown on anti-правительство protests.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/two-more-christians-confirmed-killed-in-iran-protests",
+      "victims": 19
+    },
+    {
       "date": "2026-03-09",
       "lat": 8.9102,
       "lng": 7.6489,
@@ -896,6 +987,19 @@
       "lng": 52.6944,
       "country": "Iran",
       "city": "Shiraz",
+      "type": "murder",
+      "title": "Iran war: San Diego's role, христианин 'end times' rhetoric",
+      "description": "The American-Israeli war on Iran has entered its second week.More than 1,300 люди have been убит in Iran, according to the Iranian Red Crescent Society.Many fear this could be another \"forever war,\" like the U.S. invasions of Iraq and Afghanistan",
+      "source": "newsapi:KPBS",
+      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/iran-war-san-diegos-role-christian-end-times-rhetoric",
+      "victims": 300
+    },
+    {
+      "date": "2026-03-09",
+      "lat": 36.1868,
+      "lng": 59.5203,
+      "country": "Iran",
+      "city": "Mashhad",
       "type": "murder",
       "title": "Iran war: San Diego's role, христианин 'end times' rhetoric",
       "description": "The American-Israeli war on Iran has entered its second week.More than 1,300 люди have been убит in Iran, according to the Iranian Red Crescent Society.Many fear this could be another \"forever war,\" like the U.S. invasions of Iraq and Afghanistan",
