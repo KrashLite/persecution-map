@@ -2,10 +2,49 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-12T19:56:29.569Z",
-    "totalEvents": 291
+    "lastUpdated": "2026-03-13T05:06:02.435Z",
+    "totalEvents": 297
   },
   "events": [
+    {
+      "date": "2026-03-13",
+      "lat": 12.2188,
+      "lng": 8.4548,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Фулани христиане Deny Link to Miyetti Allah as Plateau штат Violence Rages",
+      "description": "Фулани христиане in Nigeria say they are not members of Miyetti Allah, a фулани socio-political organization that civil society groups, lawmakers, and its жертвы have accused of being involved in terrorism and the гонение of христиане. Their",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/13/fulani-christians-deny-link-to-miyetti-allah-as-plateau-state-violence-rages/",
+      "victims": 16
+    },
+    {
+      "date": "2026-03-13",
+      "lat": 28.7007,
+      "lng": 77.2003,
+      "country": "India",
+      "city": "Delhi",
+      "type": "attack",
+      "title": "Cardinal of Iran arrives at the Vatican and meets with Pope Leo XIV после the взрыв of the country and days without news of him",
+      "description": "The Vatican has also recalled the Holy See’s diplomatic representative in Iran, the Indian священник Sebastian Febin, who had been serving as chargé d’affaires of the Apostolic Nunciature in the absence of a nuncio The post Cardinal of Iran arrives at t",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/03/12/cardinal-of-iran-arrives-at-the-vatican-and-meets-with-pope-leo-xiv-after-the-bombing-of-the-country-and-days-without-news-of-him/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-13",
+      "lat": 20.7951,
+      "lng": 84.8695,
+      "country": "India",
+      "city": "Odisha",
+      "type": "other",
+      "title": "The testimony of вера of христианин cricket champion Sanju Samson",
+      "description": "In the final of the 2026 ICC мужчины's T20 World Cup, India beat New Zealand. Indian player Sanju Samson attributed his success to God. A key athlete and the player of the match, the Kerala wicket-keeper-batter was seen молящийся on his knees. Simple gestu",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/03/12/the-testimony-of-faith-of-christian-cricket-champion-sanju-samson/",
+      "victims": 0
+    },
     {
       "date": "2026-03-12",
       "lat": 32.6986,
@@ -82,6 +121,32 @@
       "description": "Caritas Indonesia has launched a multimillion-dollar program to build permanent homes for семьи still перемещён months после catastrophic floods struck Sumatra.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/church-steps-in-to-rebuild-homes-months-after-deadly-sumatra-floods",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-12",
+      "lat": 35.7623,
+      "lng": 51.2009,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "discrimination",
+      "title": "Iran war drives fuel crisis in Bangladesh as holidays approach",
+      "description": "Lines at filling stations have stretched long for more than a week, as citizens face an uncertain holiday travel season in the majority-мусульманин nation of 180 million люди where христиане make up less than 1 percent of the population.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/03/iran-war-drives-fuel-crisis-in-bangladesh-as-holidays-approach/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-12",
+      "lat": 35.565,
+      "lng": 51.6104,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "Why Some Iranians Dance во время War",
+      "description": "By Dr. Nathan Rostampour, Ekklesia Mission president and ICC board member Many of my friends have asked me, “Why are some Iranians dancing while war is unfolding in their country?” To truly understand, one would have to live under the исламский regime",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/12/why-some-iranians-dance-during-war/",
       "victims": 0
     },
     {
@@ -316,6 +381,19 @@
       "description": "On March 10, 2026, Pope Leo XIV accepted the resignation of Chaldean Patriarch Louis Raphaël Sako. According to a message posted on the Chaldean Patriarchate’s website, he stepped down due to his age. Given that this criterion is not mandatory in the",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/03/11/iraq-cardinal-sako-retires-as-patriarch-of-the-chaldean-church/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-11",
+      "lat": 4.6214,
+      "lng": 18.684,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "Economic гонение: Hostility and Informal Enforcement (Part 3 of 5)",
+      "description": "By Lisa Navarrette, ICC Fellow Laws and суд systems create the framework for economic гонение. Social hostility often carries it out. Even when laws appear neutral, communities can make it clear to христиане where the boundaries of opportunity",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/11/hostility-and-informal-enforcement-part-3-of-5/",
       "victims": 0
     },
     {
