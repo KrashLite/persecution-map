@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-13T05:06:02.435Z",
-    "totalEvents": 297
+    "lastUpdated": "2026-03-13T14:29:25.607Z",
+    "totalEvents": 304
   },
   "events": [
     {
@@ -38,6 +38,71 @@
       "lng": 84.8695,
       "country": "India",
       "city": "Odisha",
+      "type": "other",
+      "title": "The testimony of вера of христианин cricket champion Sanju Samson",
+      "description": "In the final of the 2026 ICC мужчины's T20 World Cup, India beat New Zealand. Indian player Sanju Samson attributed his success to God. A key athlete and the player of the match, the Kerala wicket-keeper-batter was seen молящийся on his knees. Simple gestu",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/03/12/the-testimony-of-faith-of-christian-cricket-champion-sanju-samson/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-13",
+      "lat": -4.6637,
+      "lng": 15.167,
+      "country": "Democratic Republic of the Congo",
+      "city": "Kinshasa",
+      "type": "murder",
+      "title": "Христиане Endure гонение, смерть, and разрушение in the DRC",
+      "description": "03/13/2026 DRC (International христианин Concern) – христиане are being атакован, убит, and похищен in the Democratic Republic of the Congo (DRC) every week, and the violence appears to be worse than ever. Between July 1, 2024, and July 1, 2025,",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/13/christians-endure-persecution-death-and-destruction-in-the-drc/",
+      "victims": 400
+    },
+    {
+      "date": "2026-03-13",
+      "lat": 11.8647,
+      "lng": 13.2192,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "Фулани христиане Deny Link to Miyetti Allah as Plateau штат Violence Rages",
+      "description": "Фулани христиане in Nigeria say they are not members of Miyetti Allah, a фулани socio-political organization that civil society groups, lawmakers, and its жертвы have accused of being involved in terrorism and the гонение of христиане. Their",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/13/fulani-christians-deny-link-to-miyetti-allah-as-plateau-state-violence-rages/",
+      "victims": 16
+    },
+    {
+      "date": "2026-03-13",
+      "lat": 26.8371,
+      "lng": 80.8831,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "attack",
+      "title": "Cardinal of Iran arrives at the Vatican and meets with Pope Leo XIV после the взрыв of the country and days without news of him",
+      "description": "The Vatican has also recalled the Holy See’s diplomatic representative in Iran, the Indian священник Sebastian Febin, who had been serving as chargé d’affaires of the Apostolic Nunciature in the absence of a nuncio The post Cardinal of Iran arrives at t",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/03/12/cardinal-of-iran-arrives-at-the-vatican-and-meets-with-pope-leo-xiv-after-the-bombing-of-the-country-and-days-without-news-of-him/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-13",
+      "lat": 33.5767,
+      "lng": 72.8027,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "other",
+      "title": "Pakistani Catholics react to Vatican’s bishop reassignments",
+      "description": "Pope Leo XIV has named Bishop Khalid Rehmat of Quetta as the new archbishop of Lahore while transferring Archbishop Sebastian Shaw to lead the Quetta Apostolic Vicariate.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-catholics-react-to-vatican-s-bishop-reassignments",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-13",
+      "lat": 19.2169,
+      "lng": 72.9377,
+      "country": "India",
+      "city": "Mumbai",
       "type": "other",
       "title": "The testimony of вера of христианин cricket champion Sanju Samson",
       "description": "In the final of the 2026 ICC мужчины's T20 World Cup, India beat New Zealand. Indian player Sanju Samson attributed his success to God. A key athlete and the player of the match, the Kerala wicket-keeper-batter was seen молящийся on his knees. Simple gestu",
@@ -147,6 +212,32 @@
       "description": "By Dr. Nathan Rostampour, Ekklesia Mission president and ICC board member Many of my friends have asked me, “Why are some Iranians dancing while war is unfolding in their country?” To truly understand, one would have to live under the исламский regime",
       "source": "persecution",
       "url": "https://persecution.org/2026/03/12/why-some-iranians-dance-during-war/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-12",
+      "lat": 32.6163,
+      "lng": 51.4951,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Democrats requested probe into complaints военные commanders used христианин rhetoric to justify Iran war",
+      "description": "28 Democrats have demanded an investigation into Defense Secretary Pete Hegseth после сотни of troops сообщается commanders pushing \"end-times христианин fascism\" as a justification for the Iran war.",
+      "source": "newsapi:Snopes.com",
+      "url": "https://www.snopes.com//fact-check/hegseth-iran-war-christian-rhetoric/",
+      "victims": 150
+    },
+    {
+      "date": "2026-03-12",
+      "lat": 29.4794,
+      "lng": 52.4796,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "discrimination",
+      "title": "Voices in Lebanon, Iran seek help from Pope and Vatican",
+      "description": "Lebanon has asked the Holy See to help safeguard the христианин presence in the country’s south as renewed fighting at the Israeli border and beyond forces семьи from their homes and deepens a growing humanitarian crisis. Lebanese Foreign Minister",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/12/voices-in-lebanon-iran-seek-help-from-pope-and-vatican/",
       "victims": 0
     },
     {
