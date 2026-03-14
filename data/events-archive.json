@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-14T05:02:52.844Z",
-    "totalEvents": 320
+    "lastUpdated": "2026-03-14T13:58:16.978Z",
+    "totalEvents": 324
   },
   "events": [
     {
@@ -30,6 +30,32 @@
       "description": "A вера-based leadership development organisation, Vision International христианин Ministry (VICM), has called on leaders across Nigeria’s public and private sectors to revive strong value systems as a strategy to tackle the country’s persistent leade",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/03/vicm-urges-revival-of-value-system-to-address-nigerias-leadership-challenges/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-14",
+      "lat": 36.2483,
+      "lng": 59.8355,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "discrimination",
+      "title": "What it’s like to be a христианин in the Holy Land right now",
+      "description": "Air рейд sirens echo through Jerusalem’s narrow streets. Schools remain закрыт. Pilgrimage groups cancel their visits. Stations of the крест prayed in a bunker. For many христиане in the Holy Land, the latest escalation between Israel and Iran has t",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/14/what-its-like-to-be-a-christian-in-the-holy-land-right-now/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-14",
+      "lat": 23.2342,
+      "lng": -82.5313,
+      "country": "Cuba",
+      "city": "Havana",
+      "type": "discrimination",
+      "title": "VIDEO: Cubana Chiefpriest admits ‘foolish’ mistake for not supporting Tinubu in 2023 election",
+      "description": "Cubana Chiefpriest calls his failure to support President Bola Tinubu in the 2023 election a ‘foolish’ mistake, pledging not to ‘waste votes’ again. Read More: https://punchng.com/video-cubana-chiefpriest-admits-foolish-mistake-for-not-supporting-ti",
+      "source": "punchng",
+      "url": "https://punchng.com/video-cubana-chiefpriest-admits-foolish-mistake-for-not-supporting-tinubu-in-2023-election/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     },
     {
@@ -423,6 +449,19 @@
       "victims": 0
     },
     {
+      "date": "2026-03-12",
+      "lat": 35.6632,
+      "lng": 51.4566,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "The War on Iran Fails Every Test of Justice",
+      "description": "For nearly two millennia, the христианин intellectual tradition has maintained that war, while sometimes permissible, is never presumptively just. The burden of proof always falls on the party making war, not on the party resisting it. Augustine of Hi",
+      "source": "newsapi:Antiwar.com",
+      "url": "https://www.antiwar.com/blog/2026/03/12/the-war-on-iran-fails-every-test-of-justice/",
+      "victims": 0
+    },
+    {
       "date": "2026-03-11",
       "lat": 29.5265,
       "lng": 52.5704,
@@ -667,6 +706,19 @@
       "description": "By Lisa Navarrette, ICC Fellow Laws and суд systems create the framework for economic гонение. Social hostility often carries it out. Even when laws appear neutral, communities can make it clear to христиане where the boundaries of opportunity",
       "source": "persecution",
       "url": "https://persecution.org/2026/03/11/hostility-and-informal-enforcement-part-3-of-5/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-11",
+      "lat": 33.7728,
+      "lng": 71.7549,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "murder",
+      "title": "Pakistani bishops demand probe into смерть of христианин farmworker",
+      "description": "Pakistan’s Catholic bishops have called for a transparent investigation into the смерть of a 22-year-old христианин laborer whose family says shows signs of torture.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-bishops-demand-probe-into-death-of-christian-farmworker",
       "victims": 0
     },
     {
