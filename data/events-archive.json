@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-14T13:58:16.978Z",
-    "totalEvents": 324
+    "lastUpdated": "2026-03-14T19:18:38.475Z",
+    "totalEvents": 329
   },
   "events": [
     {
@@ -56,6 +56,32 @@
       "description": "Cubana Chiefpriest calls his failure to support President Bola Tinubu in the 2023 election a ‘foolish’ mistake, pledging not to ‘waste votes’ again. Read More: https://punchng.com/video-cubana-chiefpriest-admits-foolish-mistake-for-not-supporting-ti",
       "source": "punchng",
       "url": "https://punchng.com/video-cubana-chiefpriest-admits-foolish-mistake-for-not-supporting-tinubu-in-2023-election/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-14",
+      "lat": 9.0203,
+      "lng": 7.6202,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "You must confront Tinubu более Nigerian христиане’ killings – UK lawmakers tell Starmer",
+      "description": "Sir Keir Starmer must confront Nigeria's president более the убийство of христиане while he is in the UK for a штат visit, MPs have demanded. The post You must confront Tinubu более Nigerian христиане’ killings – UK lawmakers tell Starmer appeared fi",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/03/you-must-confront-tinubu-over-nigerian-christians-killings-uk-lawmakers-tell-starmer/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-14",
+      "lat": 35.9223,
+      "lng": 51.4352,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "discrimination",
+      "title": "What it’s like to be a христианин in the Holy Land right now",
+      "description": "Air рейд sirens echo through Jerusalem’s narrow streets. Schools remain закрыт. Pilgrimage groups cancel their visits. Stations of the крест prayed in a bunker. For many христиане in the Holy Land, the latest escalation between Israel and Iran has t",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/14/what-its-like-to-be-a-christian-in-the-holy-land-right-now/",
       "victims": 0
     },
     {
@@ -207,6 +233,32 @@
       "lng": 71.3971,
       "country": "Pakistan",
       "city": "Peshawar",
+      "type": "other",
+      "title": "Pakistani Catholics react to Vatican’s bishop reassignments",
+      "description": "Pope Leo XIV has named Bishop Khalid Rehmat of Quetta as the new archbishop of Lahore while transferring Archbishop Sebastian Shaw to lead the Quetta Apostolic Vicariate.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-catholics-react-to-vatican-s-bishop-reassignments",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-13",
+      "lat": 9.1036,
+      "lng": 9.6805,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Фулани христиане Deny Link to Miyetti Allah as Plateau штат Violence Rages",
+      "description": "Фулани христиане in Nigeria say they are not members of Miyetti Allah, a фулани socio-political organization that civil society groups, lawmakers, and its жертвы have accused of being involved in terrorism and the гонение of христиане. Their",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/13/fulani-christians-deny-link-to-miyetti-allah-as-plateau-state-violence-rages/",
+      "victims": 16
+    },
+    {
+      "date": "2026-03-13",
+      "lat": 24.9284,
+      "lng": 66.9562,
+      "country": "Pakistan",
+      "city": "Karachi",
       "type": "other",
       "title": "Pakistani Catholics react to Vatican’s bishop reassignments",
       "description": "Pope Leo XIV has named Bishop Khalid Rehmat of Quetta as the new archbishop of Lahore while transferring Archbishop Sebastian Shaw to lead the Quetta Apostolic Vicariate.",
@@ -454,6 +506,19 @@
       "lng": 51.4566,
       "country": "Iran",
       "city": "Tehran",
+      "type": "other",
+      "title": "The War on Iran Fails Every Test of Justice",
+      "description": "For nearly two millennia, the христианин intellectual tradition has maintained that war, while sometimes permissible, is never presumptively just. The burden of proof always falls on the party making war, not on the party resisting it. Augustine of Hi",
+      "source": "newsapi:Antiwar.com",
+      "url": "https://www.antiwar.com/blog/2026/03/12/the-war-on-iran-fails-every-test-of-justice/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-12",
+      "lat": 29.6601,
+      "lng": 52.6142,
+      "country": "Iran",
+      "city": "Shiraz",
       "type": "other",
       "title": "The War on Iran Fails Every Test of Justice",
       "description": "For nearly two millennia, the христианин intellectual tradition has maintained that war, while sometimes permissible, is never presumptively just. The burden of proof always falls on the party making war, not on the party resisting it. Augustine of Hi",
