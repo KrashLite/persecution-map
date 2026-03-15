@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-15T14:00:37.753Z",
-    "totalEvents": 334
+    "lastUpdated": "2026-03-15T19:20:01.114Z",
+    "totalEvents": 336
   },
   "events": [
     {
@@ -316,6 +316,19 @@
       "description": "Pope Leo XIV has named Bishop Khalid Rehmat of Quetta as the new archbishop of Lahore while transferring Archbishop Sebastian Shaw to lead the Quetta Apostolic Vicariate.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-catholics-react-to-vatican-s-bishop-reassignments",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-13",
+      "lat": 33.9628,
+      "lng": 71.6095,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "other",
+      "title": "The (unusual) reshuffling of bishops in Pakistan: a (strange) episcopal exchange orchestrated by Leo XIV",
+      "description": "For many Pakistani Catholics, the reshuffle marks the closing of a difficult chapter and the beginning of another whose success will depend less on administrative decisions and more on the ability of the церковь’s leaders to rebuild trust среди the fa",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/03/13/the-unusual-reshuffling-of-bishops-in-pakistan-a-strange-episcopal-exchange-orchestrated-by-leo-xiv/",
       "victims": 0
     },
     {
@@ -1403,6 +1416,19 @@
       "lng": 3.4865,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "murder",
+      "title": "GOP Congressman Exposes China’s Role in гонение of Nigerian христиане",
+      "description": "Nigeria is the deadliest nation in the world for христиане, and China is complicit in creating the conditions for the violence to continue, according to... Read More The post GOP Congressman Exposes China’s Role in гонение of Nigerian христиане",
+      "source": "newsapi:Daily Signal",
+      "url": "https://www.dailysignal.com/2026/03/08/gop-congressman-exposes-chinas-role-in-persecution-of-nigerian-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-08",
+      "lat": 9.0945,
+      "lng": 7.4247,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "murder",
       "title": "GOP Congressman Exposes China’s Role in гонение of Nigerian христиане",
       "description": "Nigeria is the deadliest nation in the world for христиане, and China is complicit in creating the conditions for the violence to continue, according to... Read More The post GOP Congressman Exposes China’s Role in гонение of Nigerian христиане",
