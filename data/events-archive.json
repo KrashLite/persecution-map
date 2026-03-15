@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-14T19:18:38.475Z",
-    "totalEvents": 329
+    "lastUpdated": "2026-03-15T05:29:18.130Z",
+    "totalEvents": 333
   },
   "events": [
+    {
+      "date": "2026-03-15",
+      "lat": 10.5808,
+      "lng": 7.4712,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "UK MPs urge Starmer to question Tinubu on христианин killings",
+      "description": "UK Parliament members call on Sir Keir Starmer to confront Nigerian President Tinubu about the гонение and убийство of христиане во время his штат visit Read More: https://punchng.com/uk-mps-urge-starmer-to-question-tinubu-on-христианин-killings/",
+      "source": "punchng",
+      "url": "https://punchng.com/uk-mps-urge-starmer-to-question-tinubu-on-christian-killings/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-03-14",
       "lat": 10.636,
@@ -77,6 +90,19 @@
       "lng": 51.4352,
       "country": "Iran",
       "city": "Tehran",
+      "type": "discrimination",
+      "title": "What it’s like to be a христианин in the Holy Land right now",
+      "description": "Air рейд sirens echo through Jerusalem’s narrow streets. Schools remain закрыт. Pilgrimage groups cancel their visits. Stations of the крест prayed in a bunker. For many христиане in the Holy Land, the latest escalation between Israel and Iran has t",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/14/what-its-like-to-be-a-christian-in-the-holy-land-right-now/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-14",
+      "lat": 29.7002,
+      "lng": 52.4327,
+      "country": "Iran",
+      "city": "Shiraz",
       "type": "discrimination",
       "title": "What it’s like to be a христианин in the Holy Land right now",
       "description": "Air рейд sirens echo through Jerusalem’s narrow streets. Schools remain закрыт. Pilgrimage groups cancel their visits. Stations of the крест prayed in a bunker. For many христиане in the Holy Land, the latest escalation between Israel and Iran has t",
@@ -259,6 +285,32 @@
       "lng": 66.9562,
       "country": "Pakistan",
       "city": "Karachi",
+      "type": "other",
+      "title": "Pakistani Catholics react to Vatican’s bishop reassignments",
+      "description": "Pope Leo XIV has named Bishop Khalid Rehmat of Quetta as the new archbishop of Lahore while transferring Archbishop Sebastian Shaw to lead the Quetta Apostolic Vicariate.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-catholics-react-to-vatican-s-bishop-reassignments",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-13",
+      "lat": 19.3187,
+      "lng": 72.8874,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "attack",
+      "title": "Cardinal of Iran arrives at the Vatican and meets with Pope Leo XIV после the взрыв of the country and days without news of him",
+      "description": "The Vatican has also recalled the Holy See’s diplomatic representative in Iran, the Indian священник Sebastian Febin, who had been serving as chargé d’affaires of the Apostolic Nunciature in the absence of a nuncio The post Cardinal of Iran arrives at t",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/03/12/cardinal-of-iran-arrives-at-the-vatican-and-meets-with-pope-leo-xiv-after-the-bombing-of-the-country-and-days-without-news-of-him/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-13",
+      "lat": 31.717,
+      "lng": 74.2432,
+      "country": "Pakistan",
+      "city": "Lahore",
       "type": "other",
       "title": "Pakistani Catholics react to Vatican’s bishop reassignments",
       "description": "Pope Leo XIV has named Bishop Khalid Rehmat of Quetta as the new archbishop of Lahore while transferring Archbishop Sebastian Shaw to lead the Quetta Apostolic Vicariate.",
