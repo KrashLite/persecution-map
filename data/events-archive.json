@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-15T05:29:18.130Z",
-    "totalEvents": 333
+    "lastUpdated": "2026-03-15T14:00:37.753Z",
+    "totalEvents": 334
   },
   "events": [
     {
@@ -571,6 +571,19 @@
       "lng": 52.6142,
       "country": "Iran",
       "city": "Shiraz",
+      "type": "other",
+      "title": "The War on Iran Fails Every Test of Justice",
+      "description": "For nearly two millennia, the христианин intellectual tradition has maintained that war, while sometimes permissible, is never presumptively just. The burden of proof always falls on the party making war, not on the party resisting it. Augustine of Hi",
+      "source": "newsapi:Antiwar.com",
+      "url": "https://www.antiwar.com/blog/2026/03/12/the-war-on-iran-fails-every-test-of-justice/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-12",
+      "lat": 32.6965,
+      "lng": 51.7162,
+      "country": "Iran",
+      "city": "Isfahan",
       "type": "other",
       "title": "The War on Iran Fails Every Test of Justice",
       "description": "For nearly two millennia, the христианин intellectual tradition has maintained that war, while sometimes permissible, is never presumptively just. The burden of proof always falls on the party making war, not on the party resisting it. Augustine of Hi",
