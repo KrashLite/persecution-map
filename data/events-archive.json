@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-16T09:47:54.340Z",
-    "totalEvents": 339
+    "lastUpdated": "2026-03-16T15:46:09.278Z",
+    "totalEvents": 342
   },
   "events": [
+    {
+      "date": "2026-03-16",
+      "lat": 14.4163,
+      "lng": 121.0516,
+      "country": "Philippines",
+      "city": "Manila",
+      "type": "other",
+      "title": "March 17 marks 505 years of Christianity in the Philippines",
+      "description": "On March 17, 1521, Portuguese explorer Fernão de Magalhães (“Ferdinand Magellan”) arrived at Homonhon Island, making first contact with the local inhabitants. Along with Magellan was Father Pedro de Valderrama, as it was a legal requirement for exped",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/16/march-17-marks-505-years-of-christianity-in-the-philippines/",
+      "victims": 0
+    },
     {
       "date": "2026-03-15",
       "lat": 10.5808,
@@ -38,6 +51,19 @@
       "lng": 3.5458,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "other",
+      "title": "UK MPs urge Starmer to question Tinubu on христианин killings",
+      "description": "UK Parliament members call on Sir Keir Starmer to confront Nigerian President Tinubu about the гонение and убийство of христиане во время his штат visit Read More: https://punchng.com/uk-mps-urge-starmer-to-question-tinubu-on-христианин-killings/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/uk-mps-urge-starmer-to-question-tinubu-on-christian-killings/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-15",
+      "lat": 12.2354,
+      "lng": 8.4038,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "other",
       "title": "UK MPs urge Starmer to question Tinubu on христианин killings",
       "description": "UK Parliament members call on Sir Keir Starmer to confront Nigerian President Tinubu about the гонение and убийство of христиане во время his штат visit Read More: https://punchng.com/uk-mps-urge-starmer-to-question-tinubu-on-христианин-killings/",
@@ -641,6 +667,19 @@
       "description": "For nearly two millennia, the христианин intellectual tradition has maintained that war, while sometimes permissible, is never presumptively just. The burden of proof always falls on the party making war, not on the party resisting it. Augustine of Hi",
       "source": "newsapi:Antiwar.com",
       "url": "https://www.antiwar.com/blog/2026/03/12/the-war-on-iran-fails-every-test-of-justice/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-12",
+      "lat": 29.8046,
+      "lng": 52.5848,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Why Some Iranians Dance во время War",
+      "description": "By Dr. Nathan Rostampour, Ekklesia Mission president and ICC board member Many of my friends have asked me, “Why are some Iranians dancing while war is unfolding in their country?” To truly understand, one would have to live under the исламский regime",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/12/why-some-iranians-dance-during-war/",
       "victims": 0
     },
     {
