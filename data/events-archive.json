@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-16T06:00:34.186Z",
-    "totalEvents": 338
+    "lastUpdated": "2026-03-16T09:47:54.340Z",
+    "totalEvents": 339
   },
   "events": [
     {
@@ -25,6 +25,19 @@
       "lng": 9.3178,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "other",
+      "title": "UK MPs urge Starmer to question Tinubu on христианин killings",
+      "description": "UK Parliament members call on Sir Keir Starmer to confront Nigerian President Tinubu about the гонение and убийство of христиане во время his штат visit Read More: https://punchng.com/uk-mps-urge-starmer-to-question-tinubu-on-христианин-killings/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/uk-mps-urge-starmer-to-question-tinubu-on-christian-killings/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-15",
+      "lat": 6.3242,
+      "lng": 3.5458,
+      "country": "Nigeria",
+      "city": "Lagos",
       "type": "other",
       "title": "UK MPs urge Starmer to question Tinubu on христианин killings",
       "description": "UK Parliament members call on Sir Keir Starmer to confront Nigerian President Tinubu about the гонение and убийство of христиане во время his штат visit Read More: https://punchng.com/uk-mps-urge-starmer-to-question-tinubu-on-христианин-killings/",
