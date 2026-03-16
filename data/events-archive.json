@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-15T19:20:01.114Z",
-    "totalEvents": 336
+    "lastUpdated": "2026-03-16T06:00:34.186Z",
+    "totalEvents": 338
   },
   "events": [
     {
@@ -17,6 +17,19 @@
       "description": "UK Parliament members call on Sir Keir Starmer to confront Nigerian President Tinubu about the гонение and убийство of христиане во время his штат visit Read More: https://punchng.com/uk-mps-urge-starmer-to-question-tinubu-on-христианин-killings/",
       "source": "punchng",
       "url": "https://punchng.com/uk-mps-urge-starmer-to-question-tinubu-on-christian-killings/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-15",
+      "lat": 9.4313,
+      "lng": 9.3178,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "UK MPs urge Starmer to question Tinubu on христианин killings",
+      "description": "UK Parliament members call on Sir Keir Starmer to confront Nigerian President Tinubu about the гонение and убийство of христиане во время his штат visit Read More: https://punchng.com/uk-mps-urge-starmer-to-question-tinubu-on-христианин-killings/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/uk-mps-urge-starmer-to-question-tinubu-on-christian-killings/",
       "victims": 0
     },
     {
@@ -103,6 +116,19 @@
       "lng": 52.4327,
       "country": "Iran",
       "city": "Shiraz",
+      "type": "discrimination",
+      "title": "What it’s like to be a христианин in the Holy Land right now",
+      "description": "Air рейд sirens echo through Jerusalem’s narrow streets. Schools remain закрыт. Pilgrimage groups cancel their visits. Stations of the крест prayed in a bunker. For many христиане in the Holy Land, the latest escalation between Israel and Iran has t",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/14/what-its-like-to-be-a-christian-in-the-holy-land-right-now/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-14",
+      "lat": 32.8885,
+      "lng": 51.7991,
+      "country": "Iran",
+      "city": "Isfahan",
       "type": "discrimination",
       "title": "What it’s like to be a христианин in the Holy Land right now",
       "description": "Air рейд sirens echo through Jerusalem’s narrow streets. Schools remain закрыт. Pilgrimage groups cancel their visits. Stations of the крест prayed in a bunker. For many христиане in the Holy Land, the latest escalation between Israel and Iran has t",
