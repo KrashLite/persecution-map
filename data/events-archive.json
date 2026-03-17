@@ -2,10 +2,75 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-16T15:46:09.278Z",
-    "totalEvents": 342
+    "lastUpdated": "2026-03-17T20:57:43.572Z",
+    "totalEvents": 350
   },
   "events": [
+    {
+      "date": "2026-03-17",
+      "lat": 9.2328,
+      "lng": 9.5725,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "2027: Benue христианин Elders present ex-NCPC boss as consensus candidate",
+      "description": "The Council of христианин Elders in Benue штат has presented the former Executive Secretary of the Nigerian христианин Pilgrim Commission, NCPC, Dr. Tor Uja as its preferred governorship candidate in the coming 2027 general elections. The post 2027: B",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/03/2027-benue-christian-elders-present-ex-ncpc-boss-as-consensus-candidate/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-17",
+      "lat": 35.743,
+      "lng": 51.4696,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "Iranian missile fragments fall near церковь of the Holy Sepulchre",
+      "description": "The правительство of Israel condemned the Iranian regime for “firing missiles at the holy sites of Jerusalem, endangering Jews, мусульмане, and христиане alike.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/iranian-missile-explodes-over-jerusalem-fragments-fall-near-church-of-the-holy-sepulchre",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-17",
+      "lat": 11.8529,
+      "lng": 13.2892,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "What could increase attendance rates at Sunday Mass?",
+      "description": "When reading about the suffering of христиане in Nigeria, one fact stands out: Despite the difficulties of attending Mass there, a report in 2023 showed that 94% of self-identified Nigerian Catholics surveyed said they attend weekly or daily Mass.",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/17/what-could-increase-attendance-rates-at-sunday-mass/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-17",
+      "lat": 32.4112,
+      "lng": 51.7692,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Beyond oil and conflict, Iran’s Kharg Island holds a lost христианин past",
+      "description": "Will Kharg’s христианин heritage survive the present conflict, or will it become yet another casualty of international strife?",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/beyond-oil-and-conflict-iran-s-kharg-island-holds-a-lost-christian-past",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-17",
+      "lat": 23.5827,
+      "lng": 90.4902,
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "type": "discrimination",
+      "title": "‘They want to evict us’: Why Indigenous Catholics fight forest project in Bangladesh",
+      "description": "Catholic Indigenous leaders in Bangladesh say they will escalate protests if the правительство does not halt a forest development project they call a pretext for eviction.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/they-want-to-evict-us-indigenous-catholics-fight-forest-project-in-bangladesh",
+      "victims": 0
+    },
     {
       "date": "2026-03-16",
       "lat": 14.4163,
@@ -17,6 +82,32 @@
       "description": "On March 17, 1521, Portuguese explorer Fernão de Magalhães (“Ferdinand Magellan”) arrived at Homonhon Island, making first contact with the local inhabitants. Along with Magellan was Father Pedro de Valderrama, as it was a legal requirement for exped",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/03/16/march-17-marks-505-years-of-christianity-in-the-philippines/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-16",
+      "lat": 19.0751,
+      "lng": 72.9265,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "discrimination",
+      "title": "Христианин семьи атакован после Being отказано правительство Assistance",
+      "description": "Twenty-eight христианин семьи in Chhattisgarh were brutally assaulted on March 10 после demanding justice from правительство власти, who have отказано them food rations for months. From November 2025 onwards, the head of the деревня council and the",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/16/christian-families-attacked-after-being-denied-government-assistance/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-16",
+      "lat": 29.4477,
+      "lng": 52.5975,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "discrimination",
+      "title": "Israel steps up campaign in Lebanon; Iran hits near церковь of the Holy Sepulcher",
+      "description": "In Israel, an intercepted Iranian missile нападение sprayed shrapnel through Jerusalem’s Old город, hitting the rooftop of the Greek Orthodox Patriarchate, just meters from the церковь of the Holy Sepulcher.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/israel-steps-up-campaign-in-lebanon-iran-hits-near-church-of-the-holy-sepulcher/",
       "victims": 0
     },
     {
@@ -69,6 +160,19 @@
       "description": "UK Parliament members call on Sir Keir Starmer to confront Nigerian President Tinubu about the гонение and убийство of христиане во время his штат visit Read More: https://punchng.com/uk-mps-urge-starmer-to-question-tinubu-on-христианин-killings/",
       "source": "newsapi:The Punch",
       "url": "https://punchng.com/uk-mps-urge-starmer-to-question-tinubu-on-christian-killings/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-15",
+      "lat": 32.5422,
+      "lng": 51.7214,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Crusader-in-Chief: Pete Hegseth’s христианин Zionist Mission to Help Israel Confront Iran",
+      "description": "This is how the war on Iran was framed to the мужчины and женщины ordered to fight it. “President Trump has been anointed by Jesus to light the signal fire in Iran to cause Armageddon and mark his return to Earth.” This was not a sermon at a rural megachur",
+      "source": "newsapi:Activistpost.com",
+      "url": "https://www.activistpost.com/crusader-in-chief-pete-hegseths-christian-zionist-mission-to-help-israel-confront-iran/",
       "victims": 0
     },
     {
