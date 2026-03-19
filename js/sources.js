@@ -500,7 +500,7 @@ class DataSourceManager {
         return { lat, lng, city: city || 'Unknown' };
     }
 
-    // ИСПРАВЛЕННЫЙ МЕТОД ПЕРЕВОДА
+    // ===== ИСПРАВЛЕННЫЙ МЕТОД ПЕРЕВОДА =====
     translateText(text, dictionary) {
         if (!text || typeof text !== 'string') return '';
         
