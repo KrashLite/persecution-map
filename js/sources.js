@@ -502,7 +502,7 @@ class DataSourceManager {
 
     // ===== ИСПРАВЛЕННЫЙ МЕТОД ПЕРЕВОДА =====
     translateText(text, dictionary) {
-        if (!text || typeof text !== 'string') return '';
+        if (!text || typeof text !== 'string' || !dictionary) return text || '';
         
         let result = text;
         
@@ -579,7 +579,8 @@ class DataSourceManager {
             useAPI = true,
             maxEvents = 100,
             minRelevanceScore = 3,
-            apiKey = null
+            apiKey = null,
+            dictionary = null  // <-- ДОБАВЛЕНО: словарь для перевода
         } = options;
         
         console.log('🚀 Starting comprehensive data collection...\n');
@@ -627,6 +628,14 @@ class DataSourceManager {
             const victims = this.extractVictims(item.title + ' ' + item.description);
             const coords = this.getCoordinates(country);
             
+            // ===== ПЕРЕВОД ЗАГОЛОВКА И ОПИСАНИЯ =====
+            const translatedTitle = dictionary ? 
+                this.translateText(item.title, dictionary) : 
+                item.title;
+            const translatedDesc = dictionary ? 
+                this.translateText(item.description, dictionary) : 
+                item.description;
+            
             // Формирование события
             const event = {
                 date: new Date(item.date).toISOString().split('T')[0],
@@ -635,13 +644,13 @@ class DataSourceManager {
                 country: country,
                 city: coords.city,
                 type: type,
-                title: item.title.substring(0, 120),
-                description: item.description.substring(0, 250),
+                title: translatedTitle.substring(0, 120),  // <-- ИСПРАВЛЕНО: переведенный заголовок
+                description: translatedDesc.substring(0, 250),  // <-- ИСПРАВЛЕНО: переведенное описание
                 source: item.source,
                 url: item.url,
                 victims: victims,
                 relevanceScore: score,
-                rawTitle: item.title
+                rawTitle: item.title  // Сохраняем оригинал на всякий случай
             };
             
             processed.push(event);
