@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-19T14:41:42.311Z",
-    "totalEvents": 366
+    "lastUpdated": "2026-03-19T15:04:33.009Z",
+    "totalEvents": 381
   },
   "events": [
     {
@@ -43,6 +43,19 @@
       "description": "In Lebanon, three Indian Redemptorist священники continue their mission: To stand with the poor and bring hope where it seems lost.",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/our-presence-is-our-mission-redemptorists-from-india-remain-in-war-weary-lebanon/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-19",
+      "lat": 10.4719,
+      "lng": 7.3235,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "UK urged press Nigeria на violence against христиане во время historic Tinubu visit",
+      "description": "Coalition христианин и human rights organisations has called на UK правительство use президент Bola Tinubu’s штат visit Britain press для stronger protections для христиане и other vulnerable communities в Nigeria, amid continuin",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/uk-urged-to-press-nigeria-on-violence-against-christians-during-historic-tinubu-visit",
       "victims": 0
     },
     {
@@ -93,6 +106,45 @@
       "type": "arrest",
       "title": "Пастор арестован in Cuba после uploading Библия lesson to YouTube",
       "description": "Пастор Rolando Pérez Lora was accosted by полиция mere moments после uploading the video.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/pastor-arrested-in-cuba-after-uploading-bible-lesson-to-youtube",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-18",
+      "lat": 29.8828,
+      "lng": 31.3954,
+      "country": "Egypt",
+      "city": "Cairo",
+      "type": "other",
+      "title": "How христианин Girls Become мусульманин Wives в Egypt",
+      "description": "Comprising о 10% Egypt’s current population, Copts are largest христианская община в Middle East и North Africa (MENA) регион. Among earliest all христиане, Copts inhabited Egypt для many века до исламский con",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/18/how-christian-girls-become-muslim-wives-in-egypt/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-18",
+      "lat": 21.2285,
+      "lng": 81.6197,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "arrest",
+      "title": "Когда Help Arrives Just Right Time",
+      "description": "На Jan. 21, 2025, индус nationalists атакован пастор Ishan Prasad и his семья во время молитва meeting в their деревня в India, severely injuring each семья member. Following атака, власти скоро задержан пастор Prasad, charging him с",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/18/when-help-arrives-at-just-the-right-time/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-18",
+      "lat": 23.0358,
+      "lng": -82.5435,
+      "country": "Cuba",
+      "city": "Havana",
+      "type": "arrest",
+      "title": "Пастор арестован в Cuba после uploading Библия lesson YouTube",
+      "description": "Пастор Rolando Pérez Lora was accosted полиция mere moments после uploading video.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/pastor-arrested-in-cuba-after-uploading-bible-lesson-to-youtube",
       "victims": 0
@@ -228,6 +280,71 @@
       "victims": 0
     },
     {
+      "date": "2026-03-17",
+      "lat": 12.0288,
+      "lng": 8.7151,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "attack",
+      "title": "Атаки Against христиане в Nigeria Continue Despite U.S. военные Presence",
+      "description": "Христианский лидер в Nigeria’s плато штат has alleged that усилия secure international protection для communities facing repeated атаки в country’s Middle Belt did not result в assistance для most affected areas, despite раньше",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/17/attacks-against-christians-in-nigeria-continue-despite-u-s-military-presence/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-17",
+      "lat": 29.6834,
+      "lng": 52.4047,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Iranian ракета fragments осень near церковь Holy Sepulchre",
+      "description": "Правительство Israel condemned Iranian regime для “firing ракеты holy sites Jerusalem, endangering евреи, мусульмане, и христиане alike.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/iranian-missile-explodes-over-jerusalem-fragments-fall-near-church-of-the-holy-sepulchre",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-17",
+      "lat": 31.3894,
+      "lng": 121.634,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "other",
+      "title": "China’s гонение Has No Borders",
+      "description": "ICC Fellow Linda Burkle, PhD Fifteen годы ago, I traveled China с friend и министерство partner conduct training conference для подпольная церковь leaders. This was our второй trip equip и encourage them. Whereas my friend lives",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/17/chinas-persecution-has-no-borders/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-17",
+      "lat": 35.7453,
+      "lng": 51.459,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "Beyond oil и conflict, Iran’s Kharg остров holds lost христианин past",
+      "description": "Will Kharg’s христианин heritage survive present conflict, or will it become yet another пострадавший international strife?",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/beyond-oil-and-conflict-iran-s-kharg-island-holds-a-lost-christian-past",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-17",
+      "lat": 23.8783,
+      "lng": 90.2844,
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "type": "discrimination",
+      "title": "‘They want evict us’: Why Indigenous Catholics fight лес project в Bangladesh",
+      "description": "Catholic Indigenous leaders в Bangladesh say they will escalate protests if правительство does not halt лес development project they call pretext для выселение.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/they-want-to-evict-us-indigenous-catholics-fight-forest-project-in-bangladesh",
+      "victims": 0
+    },
+    {
       "date": "2026-03-16",
       "lat": 14.4163,
       "lng": 121.0516,
@@ -288,6 +405,32 @@
       "type": "other",
       "title": "I Went To Nigeria — Here’s What The Media Gets Wrong",
       "description": "I sat in a room in Sarkin Pawa, Niger штат, surrounded by мусульманин and христианин мужчины and женщины waiting to speak.",
+      "source": "newsapi:The Daily Caller",
+      "url": "https://dailycaller.com/2026/03/16/nigeria-media-fulani-christian-muslim-president-tinubu/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-16",
+      "lat": 21.0601,
+      "lng": 81.9349,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "discrimination",
+      "title": "Христианские семьи атакован после Being отказано правительство Assistance",
+      "description": "Twenty-eight христианские семьи в Chhattisgarh were brutally assaulted на март 10 после demanding justice из правительство власти, who have отказано them food rations для месяцы. из ноябрь 2025 onwards, head деревня совет и",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/16/christian-families-attacked-after-being-denied-government-assistance/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-16",
+      "lat": 11.9712,
+      "lng": 13.0926,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "I Went Nigeria — Here’s What Media Gets Wrong",
+      "description": "I sat в room в Sarkin Pawa, Niger штат, surrounded мусульманин и христиане и женщины waiting speak.",
       "source": "newsapi:The Daily Caller",
       "url": "https://dailycaller.com/2026/03/16/nigeria-media-fulani-christian-muslim-president-tinubu/",
       "victims": 0
@@ -366,6 +509,32 @@
       "type": "other",
       "title": "Crusader-in-Chief: Pete Hegseth’s христианин Zionist Mission to Help Israel Confront Iran",
       "description": "This is how the war on Iran was framed to the мужчины and женщины ordered to fight it. “президент Trump has been anointed by Jesus to light the signal fire in Iran to cause Armageddon and mark his return to Earth.” This was not a проповедь at a rural megachur",
+      "source": "newsapi:Activistpost.com",
+      "url": "https://www.activistpost.com/crusader-in-chief-pete-hegseths-christian-zionist-mission-to-help-israel-confront-iran/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-15",
+      "lat": 8.9935,
+      "lng": 7.6622,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "UK MPs urge Starmer question Tinubu на христианин убийства",
+      "description": "UK парламент members call на Sir Keir Starmer confront Nigerian президент Tinubu о гонение и убийство христиане во время his штат visit Read More: https://punchng.com/uk-mps-urge-starmer--question-tinubu-на-христианин-убийства/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/uk-mps-urge-starmer-to-question-tinubu-on-christian-killings/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-15",
+      "lat": 36.4675,
+      "lng": 59.4281,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Crusader-в-Chief: Pete Hegseth’s христианин Zionist Mission Help Israel Confront Iran",
+      "description": "This is how war на Iran was framed мужчины и женщины ordered fight it. “президент Trump has been anointed Jesus light signal fire в Iran cause Armageddon и mark his return Earth.” This was not проповедь rural megachur",
       "source": "newsapi:Activistpost.com",
       "url": "https://www.activistpost.com/crusader-in-chief-pete-hegseths-christian-zionist-mission-to-help-israel-confront-iran/",
       "victims": 0
@@ -4136,6 +4305,32 @@
       "type": "murder",
       "title": "3 members of христианин семья убит in India",
       "description": "The христиане were accused of practising black magic до their убийства.",
+      "source": "newsapi:Christiantoday.com",
+      "url": "https://www.christiantoday.com/news/3-members-of-christian-family-murdered-in-india",
+      "victims": 3
+    },
+    {
+      "date": "2026-02-27",
+      "lat": 21.4498,
+      "lng": 81.9441,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "murder",
+      "title": "3 христиане убит в India",
+      "description": "Христиане were accused practising black magic до their убийства.",
+      "source": "newsapi:Christiantoday.com",
+      "url": "https://www.christiantoday.com/news/3-christians-murdered-in-india",
+      "victims": 3
+    },
+    {
+      "date": "2026-02-27",
+      "lat": 21.2682,
+      "lng": 81.6969,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "murder",
+      "title": "3 members христианская семья убит в India",
+      "description": "Христиане were accused practising black magic до their убийства.",
       "source": "newsapi:Christiantoday.com",
       "url": "https://www.christiantoday.com/news/3-members-of-christian-family-murdered-in-india",
       "victims": 3
