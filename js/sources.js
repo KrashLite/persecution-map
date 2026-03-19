@@ -500,15 +500,34 @@ class DataSourceManager {
         return { lat, lng, city: city || 'Unknown' };
     }
 
+    // ИСПРАВЛЕННЫЙ МЕТОД ПЕРЕВОДА
     translateText(text, dictionary) {
-        if (!text || text.length < 3) return '';
+        if (!text || typeof text !== 'string') return '';
         
         let result = text;
         
+        // Сортируем все ключи по длине (сначала длинные, чтобы "christian community" 
+        // заменилось раньше, чем просто "christian")
+        const allKeys = Object.keys(dictionary).sort((a, b) => b.length - a.length);
+        
+        // 1. Сначала заменяем многословные фразы (содержат пробел)
+        const phrases = allKeys.filter(key => key.includes(' '));
+        for (const phrase of phrases) {
+            // Экранируем спецсимволы для RegExp
+            const escaped = phrase.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+            const regex = new RegExp(escaped, 'gi'); // g - глобально, i - без учёта регистра
+            result = result.replace(regex, dictionary[phrase][0]);
+        }
+        
+        // 2. Затем заменяем отдельные слова
+        const singleWords = allKeys.filter(key => !key.includes(' '));
         const words = result.split(/\b/);
         const translated = words.map(word => {
-            const lower = word.toLowerCase();
-            if (dictionary[lower]) {
+            const lower = word.toLowerCase().trim();
+            if (!lower) return word;
+            
+            // Если слово есть в словаре и это не фраза (уже обработали выше)
+            if (singleWords.includes(lower)) {
                 return dictionary[lower][0];
             }
             return word;
@@ -516,8 +535,40 @@ class DataSourceManager {
         
         result = translated.join('');
         
-        result = result.replace(/\s+/g, ' ').trim();
-        result = result.charAt(0).toUpperCase() + result.slice(1);
+        // 3. Удаляем/заменяем оставшиеся английские артикли и предлоги
+        result = result
+            .replace(/\bthe\b/gi, '')           // артикль the
+            .replace(/\ba\b/gi, '')             // артикль a
+            .replace(/\ban\b/gi, '')            // артикль an
+            .replace(/\bin\b/gi, 'в')           // in → в
+            .replace(/\bon\b/gi, 'на')          // on → на
+            .replace(/\bat\b/gi, '')            // at → (удаляем)
+            .replace(/\bby\b/gi, '')            // by → (удаляем)
+            .replace(/\bwith\b/gi, 'с')         // with → с
+            .replace(/\bfrom\b/gi, 'из')        // from → из
+            .replace(/\bto\b/gi, '')            // to → (удаляем)
+            .replace(/\bof\b/gi, '')            // of → (удаляем)
+            .replace(/\band\b/gi, 'и')          // and → и
+            .replace(/\bfor\b/gi, 'для')        // for → для
+            .replace(/\bover\b/gi, '')          // over
+            .replace(/\bafter\b/gi, 'после')    // after → после
+            .replace(/\bduring\b/gi, 'во время')// during → во время
+            .replace(/\bunder\b/gi, 'под')      // under → под
+            .replace(/\binto\b/gi, 'в')         // into → в
+            .replace(/\babout\b/gi, 'о');       // about → о
+        
+        // 4. Очистка лишних пробелов и знаков препинания
+        result = result
+            .replace(/\s+/g, ' ')               // множественные пробелы → один
+            .replace(/\s+,/g, ',')              // пробел перед запятой
+            .replace(/\s+\./g, '.')             // пробел перед точкой
+            .replace(/,\s*,/g, ',')             // двойные запятые
+            .trim();
+        
+        // 5. Первая буква заглавная
+        if (result.length > 0) {
+            result = result.charAt(0).toUpperCase() + result.slice(1);
+        }
         
         return result;
     }
