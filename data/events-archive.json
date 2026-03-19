@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-19T15:04:33.009Z",
-    "totalEvents": 381
+    "lastUpdated": "2026-03-19T15:50:39.708Z",
+    "totalEvents": 391
   },
   "events": [
     {
@@ -56,6 +56,32 @@
       "description": "Coalition христианин и human rights organisations has called на UK правительство use президент Bola Tinubu’s штат visit Britain press для stronger protections для христиане и other vulnerable communities в Nigeria, amid continuin",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/uk-urged-to-press-nigeria-on-violence-against-christians-during-historic-tinubu-visit",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-19",
+      "lat": 11.8466,
+      "lng": 12.9326,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "UK urged press Nigeria на violence against христиане во время historic Tinubu visit",
+      "description": "Coalition христианин и human rights organisations has called на UK правительство use президент Bola Tinubu’s штат visit Britain press для stronger protections для христиане и other vulnerable communities в Nigeria, amid continuin",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/uk-urged-to-press-nigeria-on-violence-against-christians-during-historic-tinubu-visit",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-19",
+      "lat": 19.3039,
+      "lng": 72.7692,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "discrimination",
+      "title": "‘Our presence is our mission’: Redemptorists из India remain в war-weary Lebanon",
+      "description": "В Lebanon, three Indian Redemptorist священники continue their mission: stand с poor и bring hope where it seems lost.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/our-presence-is-our-mission-redemptorists-from-india-remain-in-war-weary-lebanon/",
       "victims": 0
     },
     {
@@ -147,6 +173,32 @@
       "description": "Пастор Rolando Pérez Lora was accosted полиция mere moments после uploading video.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/pastor-arrested-in-cuba-after-uploading-bible-lesson-to-youtube",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-18",
+      "lat": 31.095,
+      "lng": 29.9466,
+      "country": "Egypt",
+      "city": "Alexandria",
+      "type": "other",
+      "title": "How христианин Girls Become мусульманин Wives в Egypt",
+      "description": "Comprising о 10% Egypt’s current population, Copts are largest христианская община в Middle East и North Africa (MENA) регион. Among earliest all христиане, Copts inhabited Egypt для many века до исламский con",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/18/how-christian-girls-become-muslim-wives-in-egypt/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-18",
+      "lat": 28.9096,
+      "lng": 77.0975,
+      "country": "India",
+      "city": "Delhi",
+      "type": "arrest",
+      "title": "Когда Help Arrives Just Right Time",
+      "description": "На Jan. 21, 2025, индус nationalists атакован пастор Ishan Prasad и his семья во время молитва meeting в their деревня в India, severely injuring each семья member. Following атака, власти скоро задержан пастор Prasad, charging him с",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/18/when-help-arrives-at-just-the-right-time/",
       "victims": 0
     },
     {
@@ -345,6 +397,32 @@
       "victims": 0
     },
     {
+      "date": "2026-03-17",
+      "lat": 43.5848,
+      "lng": 87.8401,
+      "country": "China",
+      "city": "Xinjiang",
+      "type": "other",
+      "title": "China’s гонение Has No Borders",
+      "description": "ICC Fellow Linda Burkle, PhD Fifteen годы ago, I traveled China с friend и министерство partner conduct training conference для подпольная церковь leaders. This was our второй trip equip и encourage them. Whereas my friend lives",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/17/chinas-persecution-has-no-borders/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-17",
+      "lat": 29.7215,
+      "lng": 52.4185,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Beyond oil и conflict, Iran’s Kharg остров holds lost христианин past",
+      "description": "Will Kharg’s христианин heritage survive present conflict, or will it become yet another пострадавший international strife?",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/beyond-oil-and-conflict-iran-s-kharg-island-holds-a-lost-christian-past",
+      "victims": 0
+    },
+    {
       "date": "2026-03-16",
       "lat": 14.4163,
       "lng": 121.0516,
@@ -428,6 +506,19 @@
       "lng": 13.0926,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "other",
+      "title": "I Went Nigeria — Here’s What Media Gets Wrong",
+      "description": "I sat в room в Sarkin Pawa, Niger штат, surrounded мусульманин и христиане и женщины waiting speak.",
+      "source": "newsapi:The Daily Caller",
+      "url": "https://dailycaller.com/2026/03/16/nigeria-media-fulani-christian-muslim-president-tinubu/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-16",
+      "lat": 11.9891,
+      "lng": 8.5529,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "other",
       "title": "I Went Nigeria — Here’s What Media Gets Wrong",
       "description": "I sat в room в Sarkin Pawa, Niger штат, surrounded мусульманин и христиане и женщины waiting speak.",
@@ -537,6 +628,19 @@
       "description": "This is how war на Iran was framed мужчины и женщины ordered fight it. “президент Trump has been anointed Jesus light signal fire в Iran cause Armageddon и mark his return Earth.” This was not проповедь rural megachur",
       "source": "newsapi:Activistpost.com",
       "url": "https://www.activistpost.com/crusader-in-chief-pete-hegseths-christian-zionist-mission-to-help-israel-confront-iran/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-15",
+      "lat": 12.0204,
+      "lng": 12.976,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "UK MPs urge Starmer question Tinubu на христианин убийства",
+      "description": "UK парламент members call на Sir Keir Starmer confront Nigerian президент Tinubu о гонение и убийство христиане во время his штат visit Read More: https://punchng.com/uk-mps-urge-starmer--question-tinubu-на-христианин-убийства/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/uk-mps-urge-starmer-to-question-tinubu-on-christian-killings/",
       "victims": 0
     },
     {
@@ -4328,6 +4432,32 @@
       "lng": 81.6969,
       "country": "India",
       "city": "Chhattisgarh",
+      "type": "murder",
+      "title": "3 members христианская семья убит в India",
+      "description": "Христиане were accused practising black magic до their убийства.",
+      "source": "newsapi:Christiantoday.com",
+      "url": "https://www.christiantoday.com/news/3-members-of-christian-family-murdered-in-india",
+      "victims": 3
+    },
+    {
+      "date": "2026-02-27",
+      "lat": 20.9686,
+      "lng": 85.2304,
+      "country": "India",
+      "city": "Odisha",
+      "type": "murder",
+      "title": "3 христиане убит в India",
+      "description": "Христиане were accused practising black magic до their убийства.",
+      "source": "newsapi:Christiantoday.com",
+      "url": "https://www.christiantoday.com/news/3-christians-murdered-in-india",
+      "victims": 3
+    },
+    {
+      "date": "2026-02-27",
+      "lat": 26.6544,
+      "lng": 80.9924,
+      "country": "India",
+      "city": "Uttar Pradesh",
       "type": "murder",
       "title": "3 members христианская семья убит в India",
       "description": "Христиане were accused practising black magic до their убийства.",
