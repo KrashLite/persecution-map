@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-19T19:57:54.577Z",
-    "totalEvents": 402
+    "lastUpdated": "2026-03-20T05:09:07.616Z",
+    "totalEvents": 409
   },
   "events": [
+    {
+      "date": "2026-03-20",
+      "lat": 23.5839,
+      "lng": 90.5684,
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "type": "discrimination",
+      "title": "Bangladesh христианские лидеры express cautious hope под new правительство",
+      "description": "Bangladesh’s new правительство has prompted cautious optimism among христианские лидеры, who say recent политический changes offer potential opening для greater религиозный freedom even as concerns remain security, justice и политический pressure.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/bangladesh-christian-leaders-express-cautious-hope-under-new-government",
+      "victims": 0
+    },
     {
       "date": "2026-03-19",
       "lat": 9.003,
@@ -116,6 +129,32 @@
       "lng": 81.931,
       "country": "India",
       "city": "Chhattisgarh",
+      "type": "discrimination",
+      "title": "‘Our presence is our mission’: Redemptorists из India remain в war-weary Lebanon",
+      "description": "В Lebanon, three Indian Redemptorist священники continue their mission: stand с poor и bring hope where it seems lost.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/our-presence-is-our-mission-redemptorists-from-india-remain-in-war-weary-lebanon/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-19",
+      "lat": 23.1987,
+      "lng": -82.5239,
+      "country": "Cuba",
+      "city": "Havana",
+      "type": "arrest",
+      "title": "Cuban пастор, Son арестован",
+      "description": "Protests в Morón, Cuba, erupted ночь март 13 и lasted through next день в response неделя blackouts и shortages medical и food supplies. Protestors ransacked и set fire Cuban коммунист Party’s штаб-квартира. Among",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/19/cuban-pastor-son-arrested/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-19",
+      "lat": 28.7682,
+      "lng": 77.1086,
+      "country": "India",
+      "city": "Delhi",
       "type": "discrimination",
       "title": "‘Our presence is our mission’: Redemptorists из India remain в war-weary Lebanon",
       "description": "В Lebanon, three Indian Redemptorist священники continue their mission: stand с poor и bring hope where it seems lost.",
@@ -511,6 +550,58 @@
       "description": "Когда reading о страдания христиане в Nigeria, one fact stands out: Despite трудности attending месса there, report в 2023 showed that 94% self-identified Nigerian Catholics surveyed said they attend weekly or daily месса.",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/03/17/what-could-increase-attendance-rates-at-sunday-mass/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-17",
+      "lat": 8.8689,
+      "lng": 7.554,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "attack",
+      "title": "Атаки Against христиане в Nigeria Continue Despite U.S. военные Presence",
+      "description": "Христианский лидер в Nigeria’s плато штат has alleged that усилия secure international protection для communities facing repeated атаки в country’s Middle Belt did not result в assistance для most affected areas, despite раньше",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/17/attacks-against-christians-in-nigeria-continue-despite-u-s-military-presence/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-17",
+      "lat": 36.3016,
+      "lng": 59.6716,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Iranian ракета fragments осень near церковь Holy Sepulchre",
+      "description": "Правительство Israel condemned Iranian regime для “firing ракеты holy sites Jerusalem, endangering евреи, мусульмане, и христиане alike.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/iranian-missile-explodes-over-jerusalem-fragments-fall-near-church-of-the-holy-sepulchre",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-17",
+      "lat": 9.3128,
+      "lng": 7.3382,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "What could increase attendance rates воскресенье месса?",
+      "description": "Когда reading о страдания христиане в Nigeria, one fact stands out: Despite трудности attending месса there, report в 2023 showed that 94% self-identified Nigerian Catholics surveyed said they attend weekly or daily месса.",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/17/what-could-increase-attendance-rates-at-sunday-mass/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-17",
+      "lat": 36.1966,
+      "lng": 59.83,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Beyond oil и conflict, Iran’s Kharg остров holds lost христианин past",
+      "description": "Will Kharg’s христианин heritage survive present conflict, or will it become yet another пострадавший international strife?",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/beyond-oil-and-conflict-iran-s-kharg-island-holds-a-lost-christian-past",
       "victims": 0
     },
     {
