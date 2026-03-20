@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-20T05:09:07.616Z",
-    "totalEvents": 409
+    "lastUpdated": "2026-03-20T14:32:04.672Z",
+    "totalEvents": 414
   },
   "events": [
     {
@@ -17,6 +17,19 @@
       "description": "Bangladesh’s new правительство has prompted cautious optimism among христианские лидеры, who say recent политический changes offer potential opening для greater религиозный freedom even as concerns remain security, justice и политический pressure.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/bangladesh-christian-leaders-express-cautious-hope-under-new-government",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-20",
+      "lat": 4.6365,
+      "lng": 18.5857,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "Hope Walked Across Graduation Stage",
+      "description": "В сентябрь 2025, five young выжившие African исламист террорист group Allied Democratic силы (ADF) violence walked across graduation stage в Butembo в Congo. Their achievement represented far more than годы schooling. It marke",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/20/hope-walked-across-the-graduation-stage/",
       "victims": 0
     },
     {
@@ -163,6 +176,32 @@
       "victims": 0
     },
     {
+      "date": "2026-03-19",
+      "lat": 6.3753,
+      "lng": 3.394,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "UK urged press Nigeria на violence against христиане во время historic Tinubu visit",
+      "description": "Coalition христианин и human rights organisations has called на UK правительство use президент Bola Tinubu’s штат visit Britain press для stronger protections для христиане и other vulnerable communities в Nigeria, amid continuin",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/uk-urged-to-press-nigeria-on-violence-against-christians-during-historic-tinubu-visit",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-19",
+      "lat": 9.4321,
+      "lng": 9.4976,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Nigerian епископы tell папа: Our люди are dying",
+      "description": "As христиане в their country suffer increased гонение, Nigerian епископы bring hopes nation Rome.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/vatican/nigerian-bishops-tell-the-pope-our-people-are-dying",
+      "victims": 0
+    },
+    {
       "date": "2026-03-18",
       "lat": 28.1534,
       "lng": 30.9809,
@@ -285,6 +324,19 @@
       "lng": 85.0474,
       "country": "India",
       "city": "Odisha",
+      "type": "arrest",
+      "title": "Когда Help Arrives Just Right Time",
+      "description": "На Jan. 21, 2025, индус nationalists атакован пастор Ishan Prasad и his семья во время молитва meeting в their деревня в India, severely injuring each семья member. Following атака, власти скоро задержан пастор Prasad, charging him с",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/18/when-help-arrives-at-just-the-right-time/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-18",
+      "lat": 18.8351,
+      "lng": 72.9995,
+      "country": "India",
+      "city": "Mumbai",
       "type": "arrest",
       "title": "Когда Help Arrives Just Right Time",
       "description": "На Jan. 21, 2025, индус nationalists атакован пастор Ishan Prasad и his семья во время молитва meeting в their деревня в India, severely injuring each семья member. Following атака, власти скоро задержан пастор Prasad, charging him с",
@@ -597,6 +649,19 @@
       "lng": 59.83,
       "country": "Iran",
       "city": "Mashhad",
+      "type": "other",
+      "title": "Beyond oil и conflict, Iran’s Kharg остров holds lost христианин past",
+      "description": "Will Kharg’s христианин heritage survive present conflict, or will it become yet another пострадавший international strife?",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/beyond-oil-and-conflict-iran-s-kharg-island-holds-a-lost-christian-past",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-17",
+      "lat": 32.6637,
+      "lng": 51.5728,
+      "country": "Iran",
+      "city": "Isfahan",
       "type": "other",
       "title": "Beyond oil и conflict, Iran’s Kharg остров holds lost христианин past",
       "description": "Will Kharg’s христианин heritage survive present conflict, or will it become yet another пострадавший international strife?",
