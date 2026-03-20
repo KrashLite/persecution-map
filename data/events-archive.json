@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-20T14:32:04.672Z",
-    "totalEvents": 414
+    "lastUpdated": "2026-03-20T19:51:36.024Z",
+    "totalEvents": 419
   },
   "events": [
     {
@@ -30,6 +30,32 @@
       "description": "В сентябрь 2025, five young выжившие African исламист террорист group Allied Democratic силы (ADF) violence walked across graduation stage в Butembo в Congo. Their achievement represented far more than годы schooling. It marke",
       "source": "persecution",
       "url": "https://persecution.org/2026/03/20/hope-walked-across-the-graduation-stage/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-20",
+      "lat": 36.4421,
+      "lng": 59.4707,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "arrest",
+      "title": "Христиане call для protection и release prisoners в Iran",
+      "description": "Iranian diaspora христиане are divided на current conflict.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christians-call-for-protection-and-release-of-prisoners-in-iran",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-20",
+      "lat": 9.4675,
+      "lng": 9.4018,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Eid: Nigeria needs moral reset сейчас — Catholic епископы",
+      "description": "Goodwill message, issued mark end Ramadan, быстро shifts в broader national appeal, using rare alignment христианин и мусульманин пост периоды в этом году press для shared responsibility, interfaith solidarity, и renewe",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/03/eid-nigeria-needs-moral-reset-now-catholic-bishops/",
       "victims": 0
     },
     {
@@ -194,6 +220,19 @@
       "lng": 9.4976,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "other",
+      "title": "Nigerian епископы tell папа: Our люди are dying",
+      "description": "As христиане в their country suffer increased гонение, Nigerian епископы bring hopes nation Rome.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/vatican/nigerian-bishops-tell-the-pope-our-people-are-dying",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-19",
+      "lat": 10.6862,
+      "lng": 7.3436,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "other",
       "title": "Nigerian епископы tell папа: Our люди are dying",
       "description": "As христиане в their country suffer increased гонение, Nigerian епископы bring hopes nation Rome.",
@@ -797,6 +836,19 @@
       "description": "I sat в room в Sarkin Pawa, Niger штат, surrounded мусульманин и христиане и женщины waiting speak.",
       "source": "newsapi:The Daily Caller",
       "url": "https://dailycaller.com/2026/03/16/nigeria-media-fulani-christian-muslim-president-tinubu/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-16",
+      "lat": 26.6512,
+      "lng": 80.9734,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "discrimination",
+      "title": "Христианские семьи атакован после Being отказано правительство Assistance",
+      "description": "Twenty-eight христианские семьи в Chhattisgarh were brutally assaulted на март 10 после demanding justice из правительство власти, who have отказано them food rations для месяцы. из ноябрь 2025 onwards, head деревня совет и",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/16/christian-families-attacked-after-being-denied-government-assistance/",
       "victims": 0
     },
     {
@@ -4757,6 +4809,19 @@
       "lng": 85.1986,
       "country": "India",
       "city": "Odisha",
+      "type": "murder",
+      "title": "3 members христианская семья убит в India",
+      "description": "Христиане were accused practising black magic до their убийства.",
+      "source": "newsapi:Christiantoday.com",
+      "url": "https://www.christiantoday.com/news/3-members-of-christian-family-murdered-in-india",
+      "victims": 3
+    },
+    {
+      "date": "2026-02-27",
+      "lat": 19.1533,
+      "lng": 73.0152,
+      "country": "India",
+      "city": "Mumbai",
       "type": "murder",
       "title": "3 members христианская семья убит в India",
       "description": "Христиане were accused practising black magic до their убийства.",
