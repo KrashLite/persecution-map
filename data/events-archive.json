@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-21T04:54:48.315Z",
-    "totalEvents": 424
+    "lastUpdated": "2026-03-21T13:56:04.920Z",
+    "totalEvents": 430
   },
   "events": [
+    {
+      "date": "2026-03-21",
+      "lat": 28.6881,
+      "lng": 76.9023,
+      "country": "India",
+      "city": "Delhi",
+      "type": "other",
+      "title": "Церковь leaders в India slam правительство’s dismissal религиозный freedom report",
+      "description": "India’s правительство has rejected findings в 2026 report U.S. комиссия на International религиозный Freedom (USCIRF) amid increasing atrocities against minority христиане.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/church-leaders-in-india-slam-government-s-dismissal-of-religious-freedom-report",
+      "victims": 0
+    },
     {
       "date": "2026-03-20",
       "lat": 23.5839,
@@ -77,6 +90,32 @@
       "lng": 52.3663,
       "country": "Iran",
       "city": "Shiraz",
+      "type": "other",
+      "title": "Pete Hegseth’s христианин rhetoric draws renewed scrutiny после US goes war с Iran",
+      "description": "Since becoming defense secretary, Pete Hegseth has found no shortage ways bring his strand консерватор evangelicalism в Pentagon.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-usa/2026/03/pete-hegseths-christian-rhetoric-draws-renewed-scrutiny-after-the-us-goes-to-war-with-iran/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-20",
+      "lat": 35.727,
+      "lng": 51.5857,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "arrest",
+      "title": "Христиане call для protection и release prisoners в Iran",
+      "description": "Iranian diaspora христиане are divided на current conflict.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christians-call-for-protection-and-release-of-prisoners-in-iran",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-20",
+      "lat": 35.5513,
+      "lng": 51.1621,
+      "country": "Iran",
+      "city": "Tehran",
       "type": "other",
       "title": "Pete Hegseth’s христианин rhetoric draws renewed scrutiny после US goes war с Iran",
       "description": "Since becoming defense secretary, Pete Hegseth has found no shortage ways bring his strand консерватор evangelicalism в Pentagon.",
@@ -272,6 +311,19 @@
       "lng": 8.789,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "other",
+      "title": "Nigerian епископы tell папа: Our люди are dying",
+      "description": "As христиане в their country suffer increased гонение, Nigerian епископы bring hopes nation Rome.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/vatican/nigerian-bishops-tell-the-pope-our-people-are-dying",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-19",
+      "lat": 8.8983,
+      "lng": 7.733,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "other",
       "title": "Nigerian епископы tell папа: Our люди are dying",
       "description": "As христиане в their country suffer increased гонение, Nigerian епископы bring hopes nation Rome.",
@@ -761,6 +813,19 @@
       "victims": 0
     },
     {
+      "date": "2026-03-17",
+      "lat": 9.1562,
+      "lng": 9.4469,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "attack",
+      "title": "Атаки Against христиане в Nigeria Continue Despite U.S. военные Presence",
+      "description": "Христианский лидер в Nigeria’s плато штат has alleged that усилия secure international protection для communities facing repeated атаки в country’s Middle Belt did not result в assistance для most affected areas, despite раньше",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/17/attacks-against-christians-in-nigeria-continue-despite-u-s-military-presence/",
+      "victims": 0
+    },
+    {
       "date": "2026-03-16",
       "lat": 14.4163,
       "lng": 121.0516,
@@ -901,6 +966,19 @@
       "description": "Twenty-eight христианские семьи в Chhattisgarh were brutally assaulted на март 10 после demanding justice из правительство власти, who have отказано them food rations для месяцы. из ноябрь 2025 onwards, head деревня совет и",
       "source": "persecution",
       "url": "https://persecution.org/2026/03/16/christian-families-attacked-after-being-denied-government-assistance/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-16",
+      "lat": 6.5801,
+      "lng": 3.3327,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "I Went Nigeria — Here’s What Media Gets Wrong",
+      "description": "I sat в room в Sarkin Pawa, Niger штат, surrounded мусульманин и христиане и женщины waiting speak.",
+      "source": "newsapi:The Daily Caller",
+      "url": "https://dailycaller.com/2026/03/16/nigeria-media-fulani-christian-muslim-president-tinubu/",
       "victims": 0
     },
     {
