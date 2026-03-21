@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-21T13:56:04.920Z",
-    "totalEvents": 430
+    "lastUpdated": "2026-03-21T19:04:24.508Z",
+    "totalEvents": 434
   },
   "events": [
     {
@@ -12,6 +12,32 @@
       "lng": 76.9023,
       "country": "India",
       "city": "Delhi",
+      "type": "other",
+      "title": "Церковь leaders в India slam правительство’s dismissal религиозный freedom report",
+      "description": "India’s правительство has rejected findings в 2026 report U.S. комиссия на International религиозный Freedom (USCIRF) amid increasing atrocities against minority христиане.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/church-leaders-in-india-slam-government-s-dismissal-of-religious-freedom-report",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-21",
+      "lat": 12.7434,
+      "lng": -8.0987,
+      "country": "Mali",
+      "city": "Bamako",
+      "type": "discrimination",
+      "title": "Israeli settlers step up aggressions against христиане в West Bank, Jerusalem епископ says",
+      "description": "“ aggressions against христиане в West Bank are multiplying,” Auxiliary епископ William Shomali Jerusalem told “EWTN News Nightly.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/israeli-settlers-are-escalating-attacks-on-christians-in-west-bank-says-jerusalem-bishop",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-21",
+      "lat": 21.342,
+      "lng": 81.7969,
+      "country": "India",
+      "city": "Chhattisgarh",
       "type": "other",
       "title": "Церковь leaders в India slam правительство’s dismissal религиозный freedom report",
       "description": "India’s правительство has rejected findings в 2026 report U.S. комиссия на International религиозный Freedom (USCIRF) amid increasing atrocities against minority христиане.",
@@ -329,6 +355,19 @@
       "description": "As христиане в their country suffer increased гонение, Nigerian епископы bring hopes nation Rome.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/vatican/nigerian-bishops-tell-the-pope-our-people-are-dying",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-19",
+      "lat": 9.0624,
+      "lng": 9.269,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "UK urged press Nigeria на violence against христиане во время historic Tinubu visit",
+      "description": "Coalition христианин и human rights organisations has called на UK правительство use президент Bola Tinubu’s штат visit Britain press для stronger protections для христиане и other vulnerable communities в Nigeria, amid continuin",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/uk-urged-to-press-nigeria-on-violence-against-christians-during-historic-tinubu-visit",
       "victims": 0
     },
     {
@@ -818,6 +857,19 @@
       "lng": 9.4469,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "attack",
+      "title": "Атаки Against христиане в Nigeria Continue Despite U.S. военные Presence",
+      "description": "Христианский лидер в Nigeria’s плато штат has alleged that усилия secure international protection для communities facing repeated атаки в country’s Middle Belt did not result в assistance для most affected areas, despite раньше",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/17/attacks-against-christians-in-nigeria-continue-despite-u-s-military-presence/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-17",
+      "lat": 11.9103,
+      "lng": 13.309,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "attack",
       "title": "Атаки Against христиане в Nigeria Continue Despite U.S. военные Presence",
       "description": "Христианский лидер в Nigeria’s плато штат has alleged that усилия secure international protection для communities facing repeated атаки в country’s Middle Belt did not result в assistance для most affected areas, despite раньше",
