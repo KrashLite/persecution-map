@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-22T05:12:50.287Z",
-    "totalEvents": 438
+    "lastUpdated": "2026-03-22T13:56:38.836Z",
+    "totalEvents": 440
   },
   "events": [
     {
@@ -160,6 +160,19 @@
       "description": "Since becoming defense secretary, Pete Hegseth has found no shortage ways bring his strand консерватор evangelicalism в Pentagon.",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-the-usa/2026/03/pete-hegseths-christian-rhetoric-draws-renewed-scrutiny-after-the-us-goes-to-war-with-iran/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-20",
+      "lat": 32.586,
+      "lng": 51.5629,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "arrest",
+      "title": "Христиане call для protection и release prisoners в Iran",
+      "description": "Iranian diaspora христиане are divided на current conflict.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christians-call-for-protection-and-release-of-prisoners-in-iran",
       "victims": 0
     },
     {
@@ -5069,6 +5082,19 @@
       "lng": 81.1376,
       "country": "India",
       "city": "Uttar Pradesh",
+      "type": "murder",
+      "title": "3 христиане убит в India",
+      "description": "Христиане were accused practising black magic до their убийства.",
+      "source": "newsapi:Christiantoday.com",
+      "url": "https://www.christiantoday.com/news/3-christians-murdered-in-india",
+      "victims": 3
+    },
+    {
+      "date": "2026-02-27",
+      "lat": 28.5348,
+      "lng": 77.2477,
+      "country": "India",
+      "city": "Delhi",
       "type": "murder",
       "title": "3 христиане убит в India",
       "description": "Христиане were accused practising black magic до their убийства.",
