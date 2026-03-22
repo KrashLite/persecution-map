@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-21T19:04:24.508Z",
-    "totalEvents": 434
+    "lastUpdated": "2026-03-22T05:12:50.287Z",
+    "totalEvents": 438
   },
   "events": [
     {
@@ -142,6 +142,19 @@
       "lng": 51.1621,
       "country": "Iran",
       "city": "Tehran",
+      "type": "other",
+      "title": "Pete Hegseth’s христианин rhetoric draws renewed scrutiny после US goes war с Iran",
+      "description": "Since becoming defense secretary, Pete Hegseth has found no shortage ways bring his strand консерватор evangelicalism в Pentagon.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-usa/2026/03/pete-hegseths-christian-rhetoric-draws-renewed-scrutiny-after-the-us-goes-to-war-with-iran/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-20",
+      "lat": 36.2722,
+      "lng": 59.5912,
+      "country": "Iran",
+      "city": "Mashhad",
       "type": "other",
       "title": "Pete Hegseth’s христианин rhetoric draws renewed scrutiny после US goes war с Iran",
       "description": "Since becoming defense secretary, Pete Hegseth has found no shortage ways bring his strand консерватор evangelicalism в Pentagon.",
@@ -524,6 +537,19 @@
       "description": "На Jan. 21, 2025, индус nationalists атакован пастор Ishan Prasad и his семья во время молитва meeting в their деревня в India, severely injuring each семья member. Following атака, власти скоро задержан пастор Prasad, charging him с",
       "source": "persecution",
       "url": "https://persecution.org/2026/03/18/when-help-arrives-at-just-the-right-time/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-18",
+      "lat": 29.2588,
+      "lng": 33.0811,
+      "country": "Egypt",
+      "city": "Sinai",
+      "type": "other",
+      "title": "How христианин Girls Become мусульманин Wives в Egypt",
+      "description": "Comprising о 10% Egypt’s current population, Copts are largest христианская община в Middle East и North Africa (MENA) регион. Among earliest all христиане, Copts inhabited Egypt для many века до исламский con",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/18/how-christian-girls-become-muslim-wives-in-egypt/",
       "victims": 0
     },
     {
@@ -1026,6 +1052,19 @@
       "lng": 3.3327,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "other",
+      "title": "I Went Nigeria — Here’s What Media Gets Wrong",
+      "description": "I sat в room в Sarkin Pawa, Niger штат, surrounded мусульманин и христиане и женщины waiting speak.",
+      "source": "newsapi:The Daily Caller",
+      "url": "https://dailycaller.com/2026/03/16/nigeria-media-fulani-christian-muslim-president-tinubu/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-16",
+      "lat": 9.1257,
+      "lng": 9.4217,
+      "country": "Nigeria",
+      "city": "Plateau",
       "type": "other",
       "title": "I Went Nigeria — Here’s What Media Gets Wrong",
       "description": "I sat в room в Sarkin Pawa, Niger штат, surrounded мусульманин и христиане и женщины waiting speak.",
@@ -5017,6 +5056,19 @@
       "lng": 72.6908,
       "country": "India",
       "city": "Mumbai",
+      "type": "murder",
+      "title": "3 христиане убит в India",
+      "description": "Христиане were accused practising black magic до their убийства.",
+      "source": "newsapi:Christiantoday.com",
+      "url": "https://www.christiantoday.com/news/3-christians-murdered-in-india",
+      "victims": 3
+    },
+    {
+      "date": "2026-02-27",
+      "lat": 26.7181,
+      "lng": 81.1376,
+      "country": "India",
+      "city": "Uttar Pradesh",
       "type": "murder",
       "title": "3 христиане убит в India",
       "description": "Христиане were accused practising black magic до their убийства.",
