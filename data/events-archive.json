@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-22T19:07:06.797Z",
-    "totalEvents": 443
+    "lastUpdated": "2026-03-23T05:48:37.603Z",
+    "totalEvents": 444
   },
   "events": [
+    {
+      "date": "2026-03-23",
+      "lat": 24.9951,
+      "lng": 66.8396,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "murder",
+      "title": "Pakistan: Demand для justice после Catholic мужчина found повешен",
+      "description": "Христианская община has отказано чиновник account that Mr Marqas Masih committed suicide, и claim instead that he was убит. Two мужчины have been арестован. post Pakistan: Demand для justice после Catholic мужчина found повешен appeared первый",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/03/22/pakistan-demand-for-justice-after-catholic-man-found-hanged/",
+      "victims": 0
+    },
     {
       "date": "2026-03-21",
       "lat": 28.6881,
