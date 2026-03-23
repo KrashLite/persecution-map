@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-23T15:40:47.985Z",
-    "totalEvents": 448
+    "lastUpdated": "2026-03-23T20:01:27.156Z",
+    "totalEvents": 452
   },
   "events": [
     {
@@ -51,6 +51,45 @@
       "lng": 36.502,
       "country": "Syria",
       "city": "Homs",
+      "type": "discrimination",
+      "title": "Syrian власти’ new limits на alcohol sales в Damascus spark backlash",
+      "description": "Христиане say they are being singled out в Syria после исламист leaders impose alcohol ограничения.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/syrian-authorities-new-limits-on-alcohol-sales-in-damascus-spark-backlash/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-23",
+      "lat": 31.7129,
+      "lng": 74.5197,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "murder",
+      "title": "Pakistan: Demand для justice после Catholic мужчина found повешен",
+      "description": "Христианская община has отказано чиновник account that Mr Marqas Masih committed suicide, и claim instead that he was убит. Two мужчины have been арестован. post Pakistan: Demand для justice после Catholic мужчина found повешен appeared первый",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/03/22/pakistan-demand-for-justice-after-catholic-man-found-hanged/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-23",
+      "lat": 21.3645,
+      "lng": 82.0768,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Catholic епископы demand repeal India штат’s anti-обращение bill",
+      "description": "Catholic епископы в India’s Maharashtra штат are calling newly passed anti-обращение bill — 13th such law в India — unjustified interference в церковь’s sacramental practice.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-bishops-demand-repeal-of-india-states-anti-conversion-bill",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-23",
+      "lat": 33.273,
+      "lng": 36.3487,
+      "country": "Syria",
+      "city": "Damascus",
       "type": "discrimination",
       "title": "Syrian власти’ new limits на alcohol sales в Damascus spark backlash",
       "description": "Христиане say they are being singled out в Syria после исламист leaders impose alcohol ограничения.",
@@ -472,6 +511,19 @@
       "description": "Coalition христианин и human rights organisations has called на UK правительство use президент Bola Tinubu’s штат visit Britain press для stronger protections для христиане и other vulnerable communities в Nigeria, amid continuin",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/uk-urged-to-press-nigeria-on-violence-against-christians-during-historic-tinubu-visit",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-19",
+      "lat": 6.3667,
+      "lng": 3.5529,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Nigerian епископы tell папа: Our люди are dying",
+      "description": "As христиане в their country suffer increased гонение, Nigerian епископы bring hopes nation Rome.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/vatican/nigerian-bishops-tell-the-pope-our-people-are-dying",
       "victims": 0
     },
     {
