@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-23T05:48:37.603Z",
-    "totalEvents": 444
+    "lastUpdated": "2026-03-23T15:40:47.985Z",
+    "totalEvents": 448
   },
   "events": [
     {
@@ -17,6 +17,45 @@
       "description": "Христианская община has отказано чиновник account that Mr Marqas Masih committed suicide, и claim instead that he was убит. Two мужчины have been арестован. post Pakistan: Demand для justice после Catholic мужчина found повешен appeared первый",
       "source": "zenit",
       "url": "https://zenit.org/2026/03/22/pakistan-demand-for-justice-after-catholic-man-found-hanged/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-23",
+      "lat": 26.7016,
+      "lng": 81.1691,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "other",
+      "title": "Catholic епископы demand repeal India штат’s anti-обращение bill",
+      "description": "Catholic епископы в India’s Maharashtra штат are calling newly passed anti-обращение bill — 13th such law в India — unjustified interference в церковь’s sacramental practice.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-bishops-demand-repeal-of-india-states-anti-conversion-bill",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-23",
+      "lat": 23.6701,
+      "lng": 90.6532,
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "type": "discrimination",
+      "title": "Bangladesh епископы decline правительство stipend для Catholic clerics",
+      "description": "Program provides для all clergy across религии и деноминации в Bangladesh, country 180 million inhabitants, only some 600,000 whom are христианин.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/03/bangladesh-bishops-decline-government-stipend-for-catholic-clerics/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-23",
+      "lat": 34.4833,
+      "lng": 36.502,
+      "country": "Syria",
+      "city": "Homs",
+      "type": "discrimination",
+      "title": "Syrian власти’ new limits на alcohol sales в Damascus spark backlash",
+      "description": "Христиане say they are being singled out в Syria после исламист leaders impose alcohol ограничения.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/syrian-authorities-new-limits-on-alcohol-sales-in-damascus-spark-backlash/",
       "victims": 0
     },
     {
@@ -948,6 +987,19 @@
       "lng": 13.309,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "attack",
+      "title": "Атаки Against христиане в Nigeria Continue Despite U.S. военные Presence",
+      "description": "Христианский лидер в Nigeria’s плато штат has alleged that усилия secure international protection для communities facing repeated атаки в country’s Middle Belt did not result в assistance для most affected areas, despite раньше",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/17/attacks-against-christians-in-nigeria-continue-despite-u-s-military-presence/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-17",
+      "lat": 10.3041,
+      "lng": 7.2236,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "attack",
       "title": "Атаки Against христиане в Nigeria Continue Despite U.S. военные Presence",
       "description": "Христианский лидер в Nigeria’s плато штат has alleged that усилия secure international protection для communities facing repeated атаки в country’s Middle Belt did not result в assistance для most affected areas, despite раньше",
