@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-24T05:17:26.801Z",
-    "totalEvents": 458
+    "lastUpdated": "2026-03-24T15:47:08.041Z",
+    "totalEvents": 467
   },
   "events": [
     {
@@ -17,6 +17,71 @@
       "description": "Regulations prohibiting несовершеннолетние из entering церкви are сейчас strictly enforced. post China: дети запрещён из церковь Doors. Mother Speaks Up appeared первый на ZENIT - English.",
       "source": "zenit",
       "url": "https://zenit.org/2026/03/23/china-children-barred-from-church-doors-a-mother-speaks-up/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-24",
+      "lat": 34.0416,
+      "lng": 71.3522,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "discrimination",
+      "title": "Pakistan temporarily halts plan evict христиане из поселение",
+      "description": "Faced с poverty и дискриминация, many христиане have nowhere go.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/pakistan-temporarily-halts-plan-to-evict-christians-from-settlement",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-24",
+      "lat": 40.0044,
+      "lng": 116.2753,
+      "country": "China",
+      "city": "Beijing",
+      "type": "other",
+      "title": "China: дети запрещён из церковь Doors. Mother Speaks Up",
+      "description": "Regulations prohibiting несовершеннолетние из entering церкви are сейчас strictly enforced. post China: дети запрещён из церковь Doors. Mother Speaks Up appeared первый на ZENIT - English.",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/03/23/china-children-barred-from-church-doors-a-mother-speaks-up/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-24",
+      "lat": 6.7247,
+      "lng": 3.4409,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Архиепископ warns угроза христианство в Nigeria",
+      "description": "Nigerian церковь leader also claimed that Trump's военные strikes have \"not achieved much\".",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/archbishop-warns-of-threat-to-christianity-in-nigeria",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-24",
+      "lat": 4.5018,
+      "lng": 18.7089,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "discrimination",
+      "title": "War силы Jerusalem’s Holy неделя behind закрыт doors",
+      "description": "Celebrations Holy неделя в Jerusalem — normally among most vivid expressions христианская вера — will be significantly reduced в этом году, as conflict в регион continues disrupt public богослужение. в март 22 letter, кардинал Pierbattist",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/24/war-forces-jerusalems-holy-week-behind-closed-doors/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-24",
+      "lat": 23.7687,
+      "lng": 90.345,
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "type": "discrimination",
+      "title": "На World Tuberculosis день, Catholic сёстры tend Bangladesh's sick и forgotten",
+      "description": "Catholic женщины религиозный two больницы в Bangladesh have spent десятилетия treating tuberculosis patients whom правительство и society have largely overlooked.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/on-world-tuberculosis-day-catholic-sisters-tend-to-bangladesh-s-sick-and-forgotten",
       "victims": 0
     },
     {
@@ -160,6 +225,45 @@
       "description": "Decree issued в Syrian столица Damascus на прошлой неделе ограничен sale alcohol, последний incident hinting increased религиозный conservatism под leadership исламист президент Ahmed al-Sharaa. Alcohol is frowned upon под cons",
       "source": "persecution",
       "url": "https://persecution.org/2026/03/23/damascus-experiments-with-restrictive-religious-social-codes/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-23",
+      "lat": 9.335,
+      "lng": 9.7252,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Христиане Mark Eid с мусульмане в Nigeria Despite Ongoing убийства",
+      "description": "Христиане joined мусульмане для Eid молитвы и visits as security warnings spread across Taraba, плато, и Southern Kaduna штаты. message unity came as христианин Association Nigeria (CAN) encouraged Nigerians use Eid-el-Fitr as",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/23/christians-mark-eid-with-muslims-in-nigeria-despite-ongoing-killings/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-23",
+      "lat": 20.904,
+      "lng": 84.8675,
+      "country": "India",
+      "city": "Odisha",
+      "type": "other",
+      "title": "Христиане в India Stage март Protest New Law",
+      "description": "Thousands христиане marched с torches на март 22 в Raipur, Chhattisgarh’s столица, protest штат’s new anti-обращение law. Protestors carried placards urging правительство scrap Chhattisgarh Freedom религия Bill, 2026, pa",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/23/christians-in-india-stage-march-to-protest-new-law/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-23",
+      "lat": 36.2599,
+      "lng": 37.0256,
+      "country": "Syria",
+      "city": "Aleppo",
+      "type": "discrimination",
+      "title": "Syrian власти’ new limits на alcohol sales в Damascus spark backlash",
+      "description": "Христиане say they are being singled out в Syria после исламист leaders impose alcohol ограничения.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/syrian-authorities-new-limits-on-alcohol-sales-in-damascus-spark-backlash/",
       "victims": 0
     },
     {
@@ -1135,6 +1239,19 @@
       "description": "Христианский лидер в Nigeria’s плато штат has alleged that усилия secure international protection для communities facing repeated атаки в country’s Middle Belt did not result в assistance для most affected areas, despite раньше",
       "source": "persecution",
       "url": "https://persecution.org/2026/03/17/attacks-against-christians-in-nigeria-continue-despite-u-s-military-presence/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-17",
+      "lat": 40.1251,
+      "lng": 116.4159,
+      "country": "China",
+      "city": "Beijing",
+      "type": "other",
+      "title": "China’s гонение Has No Borders",
+      "description": "ICC Fellow Linda Burkle, PhD Fifteen годы ago, I traveled China с friend и министерство partner conduct training conference для подпольная церковь leaders. This was our второй trip equip и encourage them. Whereas my friend lives",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/17/chinas-persecution-has-no-borders/",
       "victims": 0
     },
     {
