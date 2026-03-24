@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-24T15:47:08.041Z",
-    "totalEvents": 467
+    "lastUpdated": "2026-03-24T20:01:58.558Z",
+    "totalEvents": 473
   },
   "events": [
     {
@@ -82,6 +82,32 @@
       "description": "Catholic женщины религиозный two больницы в Bangladesh have spent десятилетия treating tuberculosis patients whom правительство и society have largely overlooked.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/on-world-tuberculosis-day-catholic-sisters-tend-to-bangladesh-s-sick-and-forgotten",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-24",
+      "lat": 34.0317,
+      "lng": 71.385,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "murder",
+      "title": "Pakistan христианские заключённые rebuild lives после церковь взрывы",
+      "description": "Eleven годы после twin самоубийственные теракты struck two Pakistan церкви, выжившие месса аресты still bear scars as young martyr who погиб stopping атака moves toward sainthood.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-christian-prisoners-rebuild-lives-after-church-bombings",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-24",
+      "lat": 33.8236,
+      "lng": 72.9441,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "discrimination",
+      "title": "Pakistan temporarily halts plan evict христиане из поселение",
+      "description": "Faced с poverty и дискриминация, many христиане have nowhere go.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/pakistan-temporarily-halts-plan-to-evict-christians-from-settlement",
       "victims": 0
     },
     {
@@ -264,6 +290,45 @@
       "description": "Христиане say they are being singled out в Syria после исламист leaders impose alcohol ограничения.",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/syrian-authorities-new-limits-on-alcohol-sales-in-damascus-spark-backlash/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-23",
+      "lat": 21.1689,
+      "lng": 81.685,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Христиане в India Stage март Protest New Law",
+      "description": "Thousands христиане marched с torches на март 22 в Raipur, Chhattisgarh’s столица, protest штат’s new anti-обращение law. Protestors carried placards urging правительство scrap Chhattisgarh Freedom религия Bill, 2026, pa",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/23/christians-in-india-stage-march-to-protest-new-law/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-23",
+      "lat": 19.1414,
+      "lng": 72.9759,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "other",
+      "title": "Catholic епископы demand repeal India штат’s anti-обращение bill",
+      "description": "Catholic епископы в India’s Maharashtra штат are calling newly passed anti-обращение bill — 13th such law в India — unjustified interference в церковь’s sacramental practice.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-bishops-demand-repeal-of-india-states-anti-conversion-bill",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-23",
+      "lat": 33.6172,
+      "lng": 36.0964,
+      "country": "Syria",
+      "city": "Damascus",
+      "type": "discrimination",
+      "title": "Damascus Experiments с Restrictive религиозный Social Codes",
+      "description": "Decree issued в Syrian столица Damascus на прошлой неделе ограничен sale alcohol, последний incident hinting increased религиозный conservatism под leadership исламист президент Ahmed al-Sharaa. Alcohol is frowned upon под cons",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/23/damascus-experiments-with-restrictive-religious-social-codes/",
       "victims": 0
     },
     {
@@ -5451,6 +5516,19 @@
       "description": "Христиане were accused practising black magic до their убийства.",
       "source": "newsapi:Christiantoday.com",
       "url": "https://www.christiantoday.com/news/3-christians-murdered-in-india",
+      "victims": 3
+    },
+    {
+      "date": "2026-02-27",
+      "lat": 28.5309,
+      "lng": 77.3036,
+      "country": "India",
+      "city": "Delhi",
+      "type": "murder",
+      "title": "3 members христианская семья убит в India",
+      "description": "Христиане were accused practising black magic до their убийства.",
+      "source": "newsapi:Christiantoday.com",
+      "url": "https://www.christiantoday.com/news/3-members-of-christian-family-murdered-in-india",
       "victims": 3
     },
     {
