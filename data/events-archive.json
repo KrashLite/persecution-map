@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-23T20:01:27.156Z",
-    "totalEvents": 452
+    "lastUpdated": "2026-03-24T05:17:26.801Z",
+    "totalEvents": 458
   },
   "events": [
+    {
+      "date": "2026-03-24",
+      "lat": 31.2886,
+      "lng": 121.7088,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "other",
+      "title": "China: дети запрещён из церковь Doors. Mother Speaks Up",
+      "description": "Regulations prohibiting несовершеннолетние из entering церкви are сейчас strictly enforced. post China: дети запрещён из церковь Doors. Mother Speaks Up appeared первый на ZENIT - English.",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/03/23/china-children-barred-from-church-doors-a-mother-speaks-up/",
+      "victims": 0
+    },
     {
       "date": "2026-03-23",
       "lat": 24.9951,
@@ -98,6 +111,58 @@
       "victims": 0
     },
     {
+      "date": "2026-03-23",
+      "lat": 9.0058,
+      "lng": 7.5116,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Христиане Mark Eid с мусульмане в Nigeria Despite Ongoing убийства",
+      "description": "Христиане joined мусульмане для Eid молитвы и visits as security warnings spread across Taraba, плато, и Southern Kaduna штаты. message unity came as христианин Association Nigeria (CAN) encouraged Nigerians use Eid-el-Fitr as",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/23/christians-mark-eid-with-muslims-in-nigeria-despite-ongoing-killings/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-23",
+      "lat": 18.8409,
+      "lng": 72.6547,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "other",
+      "title": "Христиане в India Stage март Protest New Law",
+      "description": "Thousands христиане marched с torches на март 22 в Raipur, Chhattisgarh’s столица, protest штат’s new anti-обращение law. Protestors carried placards urging правительство scrap Chhattisgarh Freedom религия Bill, 2026, pa",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/23/christians-in-india-stage-march-to-protest-new-law/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-23",
+      "lat": 20.7382,
+      "lng": 85.0928,
+      "country": "India",
+      "city": "Odisha",
+      "type": "other",
+      "title": "Catholic епископы demand repeal India штат’s anti-обращение bill",
+      "description": "Catholic епископы в India’s Maharashtra штат are calling newly passed anti-обращение bill — 13th such law в India — unjustified interference в церковь’s sacramental practice.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-bishops-demand-repeal-of-india-states-anti-conversion-bill",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-23",
+      "lat": 34.9263,
+      "lng": 36.8243,
+      "country": "Syria",
+      "city": "Homs",
+      "type": "discrimination",
+      "title": "Damascus Experiments с Restrictive религиозный Social Codes",
+      "description": "Decree issued в Syrian столица Damascus на прошлой неделе ограничен sale alcohol, последний incident hinting increased религиозный conservatism под leadership исламист президент Ahmed al-Sharaa. Alcohol is frowned upon под cons",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/23/damascus-experiments-with-restrictive-religious-social-codes/",
+      "victims": 0
+    },
+    {
       "date": "2026-03-21",
       "lat": 28.6881,
       "lng": 76.9023,
@@ -142,6 +207,19 @@
       "lng": 72.8604,
       "country": "India",
       "city": "Mumbai",
+      "type": "other",
+      "title": "Церковь leaders в India slam правительство’s dismissal религиозный freedom report",
+      "description": "India’s правительство has rejected findings в 2026 report U.S. комиссия на International религиозный Freedom (USCIRF) amid increasing atrocities against minority христиане.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/church-leaders-in-india-slam-government-s-dismissal-of-religious-freedom-report",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-21",
+      "lat": 26.724,
+      "lng": 81.1088,
+      "country": "India",
+      "city": "Uttar Pradesh",
       "type": "other",
       "title": "Церковь leaders в India slam правительство’s dismissal религиозный freedom report",
       "description": "India’s правительство has rejected findings в 2026 report U.S. комиссия на International религиозный Freedom (USCIRF) amid increasing atrocities against minority христиане.",
