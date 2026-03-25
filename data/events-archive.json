@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-25T05:18:02.399Z",
-    "totalEvents": 477
+    "lastUpdated": "2026-03-25T15:50:38.147Z",
+    "totalEvents": 483
   },
   "events": [
     {
@@ -17,6 +17,32 @@
       "description": "Speaking из Jerusalem, William Shomali has described marked escalation в атаки against христианские общины в West Bank, particularly в areas historically associated с continuous христианское население post церковь власти в",
       "source": "zenit",
       "url": "https://zenit.org/2026/03/24/church-authorities-in-the-holy-land-denounce-the-seizure-and-encroachment-on-christian-properties-by-jewish-settlers/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-25",
+      "lat": 36.2264,
+      "lng": 59.6743,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Security fears prompt changes Holy неделя и Пасха celebrations в Iraq",
+      "description": "Iraq’s христиане are signifcantly scaling back Palm воскресенье и Пасха observances amid ongoing security concerns due Iran war.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/security-fears-prompt-changes-to-holy-week-and-easter-celebrations-in-iraq",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-25",
+      "lat": 36.8516,
+      "lng": 2.8365,
+      "country": "Algeria",
+      "city": "Algiers",
+      "type": "other",
+      "title": "Папа Leo calls для peaceful relations between христиане и мусульмане",
+      "description": "Few недели до his visit majority nation Algeria, папа Leo XIV с христианин-мусульманин group из Africa в Vatican и asked для peace between религии.",
+      "source": "crux",
+      "url": "https://cruxnow.com/vatican/2026/03/pope-leo-calls-for-peaceful-relations-between-christians-and-muslims/",
       "victims": 0
     },
     {
@@ -147,6 +173,45 @@
       "description": "Nigerian церковь leader also claimed that Trump's военные strikes have \"not achieved much\".",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/archbishop-warns-of-threat-to-christianity-in-nigeria",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-24",
+      "lat": 31.4913,
+      "lng": 74.4223,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "discrimination",
+      "title": "Pakistan temporarily halts plan evict христиане из поселение",
+      "description": "Faced с poverty и дискриминация, many христиане have nowhere go.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/pakistan-temporarily-halts-plan-to-evict-christians-from-settlement",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-24",
+      "lat": 23.3668,
+      "lng": 113.6528,
+      "country": "China",
+      "city": "Guangdong",
+      "type": "other",
+      "title": "China: дети запрещён из церковь Doors. Mother Speaks Up",
+      "description": "Regulations prohibiting несовершеннолетние из entering церкви are сейчас strictly enforced. post China: дети запрещён из церковь Doors. Mother Speaks Up appeared первый на ZENIT - English.",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/03/23/china-children-barred-from-church-doors-a-mother-speaks-up/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-24",
+      "lat": 20.9218,
+      "lng": 85.2555,
+      "country": "India",
+      "city": "Odisha",
+      "type": "other",
+      "title": "Gente di Primavera: день миссионер Martyrs 2026",
+      "description": "Europe is сейчас entering сезон весна, known в Italian as primavera. word comes из Latin: prīmus meaning “первый” и vēra из ver, post Gente di Primavera: день миссионер Martyrs 2026 appeared первый на Indian Catholic Matters",
+      "source": "newsapi:Indiancatholicmatters.org",
+      "url": "https://www.indiancatholicmatters.org/gente-di-primavera-the-day-of-missionary-martyrs-2026/",
       "victims": 0
     },
     {
@@ -381,6 +446,19 @@
       "description": "Decree issued в Syrian столица Damascus на прошлой неделе ограничен sale alcohol, последний incident hinting increased религиозный conservatism под leadership исламист президент Ahmed al-Sharaa. Alcohol is frowned upon под cons",
       "source": "persecution",
       "url": "https://persecution.org/2026/03/23/damascus-experiments-with-restrictive-religious-social-codes/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-23",
+      "lat": 6.4426,
+      "lng": 3.6169,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Христиане Mark Eid с мусульмане в Nigeria Despite Ongoing убийства",
+      "description": "Христиане joined мусульмане для Eid молитвы и visits as security warnings spread across Taraba, плато, и Southern Kaduna штаты. message unity came as христианин Association Nigeria (CAN) encouraged Nigerians use Eid-el-Fitr as",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/23/christians-mark-eid-with-muslims-in-nigeria-despite-ongoing-killings/",
       "victims": 0
     },
     {
