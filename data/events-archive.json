@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-24T20:01:58.558Z",
-    "totalEvents": 473
+    "lastUpdated": "2026-03-25T05:18:02.399Z",
+    "totalEvents": 477
   },
   "events": [
+    {
+      "date": "2026-03-25",
+      "lat": 12.5676,
+      "lng": -7.8998,
+      "country": "Mali",
+      "city": "Bamako",
+      "type": "discrimination",
+      "title": "Церковь власти в Holy Land denounce изъятие и encroachment на христианин properties еврейский settlers",
+      "description": "Speaking из Jerusalem, William Shomali has described marked escalation в атаки against христианские общины в West Bank, particularly в areas historically associated с continuous христианское население post церковь власти в",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/03/24/church-authorities-in-the-holy-land-denounce-the-seizure-and-encroachment-on-christian-properties-by-jewish-settlers/",
+      "victims": 0
+    },
     {
       "date": "2026-03-24",
       "lat": 31.2886,
@@ -108,6 +121,32 @@
       "description": "Faced с poverty и дискриминация, many христиане have nowhere go.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/pakistan-temporarily-halts-plan-to-evict-christians-from-settlement",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-24",
+      "lat": 24.9458,
+      "lng": 67.2167,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "discrimination",
+      "title": "Pakistan temporarily halts plan evict христиане из поселение",
+      "description": "Faced с poverty и дискриминация, many христиане have nowhere go.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/pakistan-temporarily-halts-plan-to-evict-christians-from-settlement",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-24",
+      "lat": 12.2075,
+      "lng": 8.8146,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Архиепископ warns угроза христианство в Nigeria",
+      "description": "Nigerian церковь leader also claimed that Trump's военные strikes have \"not achieved much\".",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/archbishop-warns-of-threat-to-christianity-in-nigeria",
       "victims": 0
     },
     {
@@ -324,6 +363,19 @@
       "lng": 36.0964,
       "country": "Syria",
       "city": "Damascus",
+      "type": "discrimination",
+      "title": "Damascus Experiments с Restrictive религиозный Social Codes",
+      "description": "Decree issued в Syrian столица Damascus на прошлой неделе ограничен sale alcohol, последний incident hinting increased религиозный conservatism под leadership исламист президент Ahmed al-Sharaa. Alcohol is frowned upon под cons",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/23/damascus-experiments-with-restrictive-religious-social-codes/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-23",
+      "lat": 35.9879,
+      "lng": 36.9974,
+      "country": "Syria",
+      "city": "Aleppo",
       "type": "discrimination",
       "title": "Damascus Experiments с Restrictive религиозный Social Codes",
       "description": "Decree issued в Syrian столица Damascus на прошлой неделе ограничен sale alcohol, последний incident hinting increased религиозный conservatism под leadership исламист президент Ahmed al-Sharaa. Alcohol is frowned upon под cons",
