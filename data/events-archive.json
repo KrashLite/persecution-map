@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-25T15:50:38.147Z",
-    "totalEvents": 483
+    "lastUpdated": "2026-03-25T19:59:07.009Z",
+    "totalEvents": 488
   },
   "events": [
     {
@@ -207,6 +207,45 @@
       "lng": 85.2555,
       "country": "India",
       "city": "Odisha",
+      "type": "other",
+      "title": "Gente di Primavera: день миссионер Martyrs 2026",
+      "description": "Europe is сейчас entering сезон весна, known в Italian as primavera. word comes из Latin: prīmus meaning “первый” и vēra из ver, post Gente di Primavera: день миссионер Martyrs 2026 appeared первый на Indian Catholic Matters",
+      "source": "newsapi:Indiancatholicmatters.org",
+      "url": "https://www.indiancatholicmatters.org/gente-di-primavera-the-day-of-missionary-martyrs-2026/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-24",
+      "lat": 33.5701,
+      "lng": 72.9096,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "murder",
+      "title": "Pakistan христианские заключённые rebuild lives после церковь взрывы",
+      "description": "Eleven годы после twin самоубийственные теракты struck two Pakistan церкви, выжившие месса аресты still bear scars as young martyr who погиб stopping атака moves toward sainthood.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-christian-prisoners-rebuild-lives-after-church-bombings",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-24",
+      "lat": 10.547,
+      "lng": 7.4054,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Архиепископ warns угроза христианство в Nigeria",
+      "description": "Nigerian церковь leader also claimed that Trump's военные strikes have \"not achieved much\".",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/archbishop-warns-of-threat-to-christianity-in-nigeria",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-24",
+      "lat": 21.2847,
+      "lng": 81.619,
+      "country": "India",
+      "city": "Chhattisgarh",
       "type": "other",
       "title": "Gente di Primavera: день миссионер Martyrs 2026",
       "description": "Europe is сейчас entering сезон весна, known в Italian as primavera. word comes из Latin: prīmus meaning “первый” и vēra из ver, post Gente di Primavera: день миссионер Martyrs 2026 appeared первый на Indian Catholic Matters",
@@ -459,6 +498,32 @@
       "description": "Христиане joined мусульмане для Eid молитвы и visits as security warnings spread across Taraba, плато, и Southern Kaduna штаты. message unity came as христианин Association Nigeria (CAN) encouraged Nigerians use Eid-el-Fitr as",
       "source": "persecution",
       "url": "https://persecution.org/2026/03/23/christians-mark-eid-with-muslims-in-nigeria-despite-ongoing-killings/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-23",
+      "lat": 10.4215,
+      "lng": 7.1709,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Христиане Mark Eid с мусульмане в Nigeria Despite Ongoing убийства",
+      "description": "Христиане joined мусульмане для Eid молитвы и visits as security warnings spread across Taraba, плато, и Southern Kaduna штаты. message unity came as христианин Association Nigeria (CAN) encouraged Nigerians use Eid-el-Fitr as",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/23/christians-mark-eid-with-muslims-in-nigeria-despite-ongoing-killings/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-23",
+      "lat": 28.926,
+      "lng": 76.859,
+      "country": "India",
+      "city": "Delhi",
+      "type": "other",
+      "title": "Catholic епископы demand repeal India штат’s anti-обращение bill",
+      "description": "Catholic епископы в India’s Maharashtra штат are calling newly passed anti-обращение bill — 13th such law в India — unjustified interference в церковь’s sacramental practice.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-bishops-demand-repeal-of-india-states-anti-conversion-bill",
       "victims": 0
     },
     {
