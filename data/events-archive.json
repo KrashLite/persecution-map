@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-25T19:59:07.009Z",
-    "totalEvents": 488
+    "lastUpdated": "2026-03-26T05:52:11.000Z",
+    "totalEvents": 496
   },
   "events": [
+    {
+      "date": "2026-03-26",
+      "lat": 11.9186,
+      "lng": 8.5031,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "How Nigeria can overcome security crisis – NCCC",
+      "description": "Nigeria христианин Civil Chaplain Corps suggests spiritual intervention alongside военные action tackle nation’s ongoing security crisis. Read More: https://punchng.com/how-nigeria-can-overcome-security-crisis-nccc/",
+      "source": "punchng",
+      "url": "https://punchng.com/how-nigeria-can-overcome-security-crisis-nccc/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-03-25",
       "lat": 12.5676,
@@ -43,6 +56,84 @@
       "description": "Few недели до his visit majority nation Algeria, папа Leo XIV с христианин-мусульманин group из Africa в Vatican и asked для peace between религии.",
       "source": "crux",
       "url": "https://cruxnow.com/vatican/2026/03/pope-leo-calls-for-peaceful-relations-between-christians-and-muslims/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-25",
+      "lat": 6.2765,
+      "lng": 3.5832,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "kidnapping",
+      "title": "Прихожане, пастор похищен во время атаки в Nigeria",
+      "description": "Евангелическая церковь Winning All has confirmed several violent атаки targeting its приход и clergy в north-central Nigeria, raising new concerns о safety христиане и ongoing insecurity linked armed groups, including Fula",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/25/worshippers-pastor-abducted-during-attacks-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-25",
+      "lat": 35.749,
+      "lng": 51.4788,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "discrimination",
+      "title": "Brief History гонение в Iran",
+      "description": "ICC Fellow Lisa Navarrette христианство has existed в modern Iran для nearly 2,000 годы. Long до rise ислам, христианские общины were already flourishing в Persian Empire. века, these верующие endured waves suspi",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/25/a-brief-history-of-persecution-in-iran/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-25",
+      "lat": 36.4268,
+      "lng": 59.7267,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "discrimination",
+      "title": "Hope для Iranian христиане",
+      "description": "ICC Fellow Lisa Navarrette на Feb. 28, moment unfolded that many believed would never come. Through операция Epic Fury, Israel и United штаты struck heart Iran’s ruling regime. This regime had tightened its grip на its люди,",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/25/hope-for-iranian-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-25",
+      "lat": 4.2668,
+      "lng": 18.7959,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "Кардинал Pham Minh Mǎn, Face Catholic сопротивление в Vietnam, Dies",
+      "description": "Из рано годы his priestly formation, he worked promote evangelization в country that, после adopting коммунист ideology, showed its aversion христианская вера, causing могила losses церковь. post кардинал Pham Minh Mǎn,",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/03/25/cardinal-pham-minh-man-the-face-of-catholic-resistance-in-vietnam-dies/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-25",
+      "lat": 32.7041,
+      "lng": 51.5606,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Security fears prompt changes Holy неделя и Пасха celebrations в Iraq",
+      "description": "Iraq’s христиане are signifcantly scaling back Palm воскресенье и Пасха observances amid ongoing security concerns due Iran war.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/security-fears-prompt-changes-to-holy-week-and-easter-celebrations-in-iraq",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-25",
+      "lat": 36.3057,
+      "lng": 59.7331,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Pentagon христианин service, Hegseth prays для violence ‘against those who deserve no mercy’",
+      "description": "Defense Secretary Pete Hegseth, hosting his первый monthly христианин богослужение service Pentagon since Iran war began, prayed среда have “every round find its mark.”",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-usa/2026/03/at-pentagon-christian-service-hegseth-prays-for-violence-against-those-who-deserve-no-mercy/",
       "victims": 0
     },
     {
@@ -251,6 +342,19 @@
       "description": "Europe is сейчас entering сезон весна, known в Italian as primavera. word comes из Latin: prīmus meaning “первый” и vēra из ver, post Gente di Primavera: день миссионер Martyrs 2026 appeared первый на Indian Catholic Matters",
       "source": "newsapi:Indiancatholicmatters.org",
       "url": "https://www.indiancatholicmatters.org/gente-di-primavera-the-day-of-missionary-martyrs-2026/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-24",
+      "lat": 31.2755,
+      "lng": 74.3544,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "murder",
+      "title": "Pakistan христианские заключённые rebuild lives после церковь взрывы",
+      "description": "Eleven годы после twin самоубийственные теракты struck two Pakistan церкви, выжившие месса аресты still bear scars as young martyr who погиб stopping атака moves toward sainthood.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-christian-prisoners-rebuild-lives-after-church-bombings",
       "victims": 0
     },
     {
