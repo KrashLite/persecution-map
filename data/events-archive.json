@@ -2,8 +2,8 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-26T05:52:11.000Z",
-    "totalEvents": 496
+    "lastUpdated": "2026-03-26T15:59:10.505Z",
+    "totalEvents": 500
   },
   "events": [
     {
@@ -17,6 +17,32 @@
       "description": "Nigeria христианин Civil Chaplain Corps suggests spiritual intervention alongside военные action tackle nation’s ongoing security crisis. Read More: https://punchng.com/how-nigeria-can-overcome-security-crisis-nccc/",
       "source": "punchng",
       "url": "https://punchng.com/how-nigeria-can-overcome-security-crisis-nccc/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-26",
+      "lat": 33.5351,
+      "lng": 73.1092,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "other",
+      "title": "Pakistan епископы back армия amid Afghanistan tensions",
+      "description": "Catholic leaders в Pakistan expressed solidarity с nation's вооружённые силы пока calling для dialogue end недели крест-border fighting с Afghanistan.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-bishops-back-army-amid-afghanistan-tensions",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-26",
+      "lat": 23.9583,
+      "lng": 90.2865,
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "type": "discrimination",
+      "title": "How Catholic volunteers serve Bangladesh’s forgotten дети this Lent",
+      "description": "Catholic миссионер’s five-minute appeal воскресенье месса brought 50 new volunteers forward serve street дети в Dhaka — и most them are мусульманин.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/how-catholic-volunteers-serve-bangladesh-s-forgotten-children-this-lent",
       "victims": 0
     },
     {
@@ -129,6 +155,45 @@
       "lng": 59.7331,
       "country": "Iran",
       "city": "Mashhad",
+      "type": "other",
+      "title": "Pentagon христианин service, Hegseth prays для violence ‘against those who deserve no mercy’",
+      "description": "Defense Secretary Pete Hegseth, hosting his первый monthly христианин богослужение service Pentagon since Iran war began, prayed среда have “every round find its mark.”",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-usa/2026/03/at-pentagon-christian-service-hegseth-prays-for-violence-against-those-who-deserve-no-mercy/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-25",
+      "lat": 9.2198,
+      "lng": 7.4629,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "kidnapping",
+      "title": "Прихожане, пастор похищен во время атаки в Nigeria",
+      "description": "Евангелическая церковь Winning All has confirmed several violent атаки targeting its приход и clergy в north-central Nigeria, raising new concerns о safety христиане и ongoing insecurity linked armed groups, including Fula",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/25/worshippers-pastor-abducted-during-attacks-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-25",
+      "lat": 35.791,
+      "lng": 51.2439,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "Security fears prompt changes Holy неделя и Пасха celebrations в Iraq",
+      "description": "Iraq’s христиане are signifcantly scaling back Palm воскресенье и Пасха observances amid ongoing security concerns due Iran war.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/security-fears-prompt-changes-to-holy-week-and-easter-celebrations-in-iraq",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-25",
+      "lat": 29.8094,
+      "lng": 52.8304,
+      "country": "Iran",
+      "city": "Shiraz",
       "type": "other",
       "title": "Pentagon христианин service, Hegseth prays для violence ‘against those who deserve no mercy’",
       "description": "Defense Secretary Pete Hegseth, hosting his первый monthly христианин богослужение service Pentagon since Iran war began, prayed среда have “every round find its mark.”",
@@ -355,6 +420,19 @@
       "description": "Eleven годы после twin самоубийственные теракты struck two Pakistan церкви, выжившие месса аресты still bear scars as young martyr who погиб stopping атака moves toward sainthood.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-christian-prisoners-rebuild-lives-after-church-bombings",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-24",
+      "lat": 9.1555,
+      "lng": 7.2707,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Архиепископ warns угроза христианство в Nigeria",
+      "description": "Nigerian церковь leader also claimed that Trump's военные strikes have \"not achieved much\".",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/archbishop-warns-of-threat-to-christianity-in-nigeria",
       "victims": 0
     },
     {
@@ -628,6 +706,19 @@
       "description": "Catholic епископы в India’s Maharashtra штат are calling newly passed anti-обращение bill — 13th such law в India — unjustified interference в церковь’s sacramental practice.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-bishops-demand-repeal-of-india-states-anti-conversion-bill",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-23",
+      "lat": 26.6238,
+      "lng": 80.7711,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "other",
+      "title": "Христиане в India Stage март Protest New Law",
+      "description": "Thousands христиане marched с torches на март 22 в Raipur, Chhattisgarh’s столица, protest штат’s new anti-обращение law. Protestors carried placards urging правительство scrap Chhattisgarh Freedom религия Bill, 2026, pa",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/23/christians-in-india-stage-march-to-protest-new-law/",
       "victims": 0
     },
     {
@@ -6415,45 +6506,6 @@
       "description": "India’s top суд has ordered a halt to the вынужден exhumation of tribal христиане’ remains, but церковь leaders say they want more than temporary relief.",
       "source": "newsapi:Ewtnnews.com",
       "url": "https://www.ewtnnews.com/world/asia-pacific/indian-archbishop-demands-justice-after-court-halts-digging-up-of-christian-graves",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-23",
-      "lat": 26.8164,
-      "lng": 80.9072,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "other",
-      "title": "Indian archbishop demands ‘justice’ после суд halts digging up of христианин graves",
-      "description": "India’s top суд has ordered a halt to the вынужден exhumation of tribal христиане’ remains, but церковь leaders say they want more than temporary relief.",
-      "source": "newsapi:Ewtnnews.com",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/indian-archbishop-demands-justice-after-court-halts-digging-up-of-christian-graves",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-22",
-      "lat": 28.143,
-      "lng": 30.6939,
-      "country": "Egypt",
-      "city": "Минья",
-      "type": "attack",
-      "title": "Боевики обстреляли автобус с коптскими паломниками",
-      "description": "Событие произошло 22.02.2026. Требуется дополнительное подтверждение.",
-      "source": "Мониторинг гонений",
-      "url": "#",
-      "victims": 7
-    },
-    {
-      "date": "2026-02-20",
-      "lat": 39.5888,
-      "lng": 116.2472,
-      "country": "China",
-      "city": "Пекин",
-      "type": "other",
-      "title": "The eternal law",
-      "description": "Nations gripped by antisemitism self-destruct. the eternal law took a pivotal turn when south africa and israel sent their diplomats packing. opinion.",
-      "source": "Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/422730",
       "victims": 0
     }
   ]
