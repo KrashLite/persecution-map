@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-27T05:52:46.828Z",
+    "lastUpdated": "2026-03-27T14:45:40.406Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-03-27",
+      "lat": 43.9456,
+      "lng": 87.6964,
+      "country": "China",
+      "city": "Xinjiang",
+      "type": "arrest",
+      "title": "Lawmakers urge Trump защитник для China’s release христианин пастор upcoming summit",
+      "description": "Пастор Ezra Jin was задержан along с dozens other церковь leaders в октябрь 2025.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/lawmakers-urge-trump-to-advocate-for-china-s-release-of-christian-pastor-at-upcoming-summit",
+      "victims": 24
+    },
     {
       "date": "2026-03-26",
       "lat": 11.9186,
@@ -77,6 +90,32 @@
       "lng": 74.2743,
       "country": "Pakistan",
       "city": "Lahore",
+      "type": "other",
+      "title": "Thousands христианские семьи Face выселение в Pakistan",
+      "description": "Around 25,000 христиане living в Rimsha, Allama Iqbal, и Akram Masih Gill colonies в Islamabad, Pakistan, are facing выселение. власти have told them leave their homes within few дни. These are entire семьи who have been living",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/26/thousands-of-christian-families-face-eviction-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-26",
+      "lat": 28.7613,
+      "lng": 77.1553,
+      "country": "India",
+      "city": "Delhi",
+      "type": "attack",
+      "title": "Индус Nationalists атака церковь в India",
+      "description": "Толпа радикал индус nationalists violently подвергнут засаде приход 20 христиане на fabricated обращение обвинения на Feb. 10 в Maharashtra, India. incident occurred пока христиане gathered в shed used as place богослужение. пастор Raj",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/26/hindu-nationalists-attack-church-in-india/",
+      "victims": 20
+    },
+    {
+      "date": "2026-03-26",
+      "lat": 33.5579,
+      "lng": 72.9978,
+      "country": "Pakistan",
+      "city": "Islamabad",
       "type": "other",
       "title": "Thousands христианские семьи Face выселение в Pakistan",
       "description": "Around 25,000 христиане living в Rimsha, Allama Iqbal, и Akram Masih Gill colonies в Islamabad, Pakistan, are facing выселение. власти have told them leave their homes within few дни. These are entire семьи who have been living",
@@ -6467,45 +6506,6 @@
       "description": "The Supreme суд of India passed an interim order on Feb. 18, restraining the forcible exhumation and relocation of погибшие tribal христиане’ bodies away from their деревня burial grounds in Chhattisgarh. The Apex Bench of Justices Vikram Nath, Sandee",
       "source": "persecution",
       "url": "https://persecution.org/2026/02/24/supreme-court-of-india-halts-exhumations-of-christian-burial-sites/",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-24",
-      "lat": 20.7326,
-      "lng": 84.8637,
-      "country": "India",
-      "city": "Odisha",
-      "type": "murder",
-      "title": "Христианин Family Of Three Allegedly Butchered For ‘Cursing’ Relative By Converting",
-      "description": "Members of a христианин family were allegedly убит in India после extended family allegedly believed their обращение had caused illness in their family.",
-      "source": "newsapi:The Daily Caller",
-      "url": "https://dailycaller.com/2026/02/24/christian-family-killed-axe-curse-village-india-jitendra-soren/",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-24",
-      "lat": 11.8893,
-      "lng": 8.8291,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "US lawmakers find Nigeria 'deadliest' place for христиане",
-      "description": "US lawmakers release a report on their findings into предполагаемый гонение of христиане in Nigeria. It comes после President Donald Trump categorized the African nation as a \"country of particular concern\" last year.",
-      "source": "newsapi:DW (English)",
-      "url": "https://www.dw.com/en/us-designates-nigeria-as-deadliest-place-for-christians-nicki-minaj/a-76107415",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-24",
-      "lat": 27.0394,
-      "lng": 81.0131,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "murder",
-      "title": "Христианин Family Of Three Allegedly Butchered For ‘Cursing’ Relative By Converting",
-      "description": "Members of a христианин family were allegedly убит in India после extended family allegedly believed their обращение had caused illness in their family.",
-      "source": "newsapi:The Daily Caller",
-      "url": "https://dailycaller.com/2026/02/24/christian-family-killed-axe-curse-village-india-jitendra-soren/",
       "victims": 0
     }
   ]
