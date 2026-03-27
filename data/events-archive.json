@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-26T20:00:58.696Z",
+    "lastUpdated": "2026-03-27T05:52:46.828Z",
     "totalEvents": 500
   },
   "events": [
@@ -56,6 +56,32 @@
       "description": "Catholic leaders в Pakistan expressed solidarity с nation's вооружённые силы пока calling для dialogue end недели крест-border fighting с Afghanistan.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-bishops-back-army-amid-afghanistan-tensions",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-26",
+      "lat": 27.0825,
+      "lng": 80.7713,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "attack",
+      "title": "Индус Nationalists атака церковь в India",
+      "description": "Толпа радикал индус nationalists violently подвергнут засаде приход 20 христиане на fabricated обращение обвинения на Feb. 10 в Maharashtra, India. incident occurred пока христиане gathered в shed used as place богослужение. пастор Raj",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/26/hindu-nationalists-attack-church-in-india/",
+      "victims": 20
+    },
+    {
+      "date": "2026-03-26",
+      "lat": 31.5448,
+      "lng": 74.2743,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "other",
+      "title": "Thousands христианские семьи Face выселение в Pakistan",
+      "description": "Around 25,000 христиане living в Rimsha, Allama Iqbal, и Akram Masih Gill colonies в Islamabad, Pakistan, are facing выселение. власти have told them leave their homes within few дни. These are entire семьи who have been living",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/26/thousands-of-christian-families-face-eviction-in-pakistan/",
       "victims": 0
     },
     {
@@ -264,6 +290,32 @@
       "description": "Defense Secretary Pete Hegseth, hosting his первый monthly христианин богослужение service Pentagon since Iran war began, prayed среда have “every round find its mark.”",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-the-usa/2026/03/at-pentagon-christian-service-hegseth-prays-for-violence-against-those-who-deserve-no-mercy/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-25",
+      "lat": 32.7934,
+      "lng": 51.6116,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "discrimination",
+      "title": "Brief History гонение в Iran",
+      "description": "ICC Fellow Lisa Navarrette христианство has existed в modern Iran для nearly 2,000 годы. Long до rise ислам, христианские общины were already flourishing в Persian Empire. века, these верующие endured waves suspi",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/25/a-brief-history-of-persecution-in-iran/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-25",
+      "lat": 29.5637,
+      "lng": 52.8182,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "discrimination",
+      "title": "Hope для Iranian христиане",
+      "description": "ICC Fellow Lisa Navarrette на Feb. 28, moment unfolded that many believed would never come. Through операция Epic Fury, Israel и United штаты struck heart Iran’s ruling regime. This regime had tightened its grip на its люди,",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/25/hope-for-iranian-christians/",
       "victims": 0
     },
     {
@@ -511,6 +563,19 @@
       "description": "Eleven годы после twin самоубийственные теракты struck two Pakistan церкви, выжившие месса аресты still bear scars as young martyr who погиб stopping атака moves toward sainthood.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-christian-prisoners-rebuild-lives-after-church-bombings",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-24",
+      "lat": 26.6105,
+      "lng": 81.1413,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "other",
+      "title": "Gente di Primavera: день миссионер Martyrs 2026",
+      "description": "Europe is сейчас entering сезон весна, known в Italian as primavera. word comes из Latin: prīmus meaning “первый” и vēra из ver, post Gente di Primavera: день миссионер Martyrs 2026 appeared первый на Indian Catholic Matters",
+      "source": "newsapi:Indiancatholicmatters.org",
+      "url": "https://www.indiancatholicmatters.org/gente-di-primavera-the-day-of-missionary-martyrs-2026/",
       "victims": 0
     },
     {
@@ -6441,71 +6506,6 @@
       "description": "Members of a христианин family were allegedly убит in India после extended family allegedly believed their обращение had caused illness in their family.",
       "source": "newsapi:The Daily Caller",
       "url": "https://dailycaller.com/2026/02/24/christian-family-killed-axe-curse-village-india-jitendra-soren/",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-24",
-      "lat": 6.6407,
-      "lng": 3.6174,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "US lawmakers find Nigeria 'deadliest' place for христиане",
-      "description": "US lawmakers release a report on their findings into предполагаемый гонение of христиане in Nigeria. It comes после President Donald Trump categorized the African nation as a \"country of particular concern\" last year.",
-      "source": "newsapi:DW (English)",
-      "url": "https://www.dw.com/en/us-designates-nigeria-as-deadliest-place-for-christians-nicki-minaj/a-76107415",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-24",
-      "lat": 11.9688,
-      "lng": 13.3977,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "US lawmakers find Nigeria 'deadliest' place for христиане",
-      "description": "US lawmakers release a report on their findings into предполагаемый гонение of христиане in Nigeria. It comes после President Donald Trump categorized the African nation as a \"country of particular concern\" last year.",
-      "source": "newsapi:DW (English)",
-      "url": "https://www.dw.com/en/us-designates-nigeria-as-deadliest-place-for-christians-nicki-minaj/a-76107415",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-24",
-      "lat": 21.0877,
-      "lng": 82.0381,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "murder",
-      "title": "Христианин Family Of Three Allegedly Butchered For ‘Cursing’ Relative By Converting",
-      "description": "Members of a христианин family were allegedly убит in India после extended family allegedly believed their обращение had caused illness in their family.",
-      "source": "newsapi:The Daily Caller",
-      "url": "https://dailycaller.com/2026/02/24/christian-family-killed-axe-curse-village-india-jitendra-soren/",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-24",
-      "lat": 9.2586,
-      "lng": 7.728,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "US lawmakers find Nigeria 'deadliest' place for христиане",
-      "description": "US lawmakers release a report on their findings into предполагаемый гонение of христиане in Nigeria. It comes после President Donald Trump categorized the African nation as a \"country of particular concern\" last year.",
-      "source": "newsapi:DW (English)",
-      "url": "https://www.dw.com/en/us-designates-nigeria-as-deadliest-place-for-christians-nicki-minaj/a-76107415",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-24",
-      "lat": 10.5826,
-      "lng": 7.594,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "US lawmakers find Nigeria 'deadliest' place for христиане",
-      "description": "US lawmakers release a report on their findings into предполагаемый гонение of христиане in Nigeria. It comes после President Donald Trump categorized the African nation as a \"country of particular concern\" last year.",
-      "source": "newsapi:DW (English)",
-      "url": "https://www.dw.com/en/us-designates-nigeria-as-deadliest-place-for-christians-nicki-minaj/a-76107415",
       "victims": 0
     }
   ]
