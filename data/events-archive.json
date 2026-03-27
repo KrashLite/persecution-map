@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-27T14:45:40.406Z",
+    "lastUpdated": "2026-03-27T19:54:51.854Z",
     "totalEvents": 500
   },
   "events": [
@@ -18,6 +18,19 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/lawmakers-urge-trump-to-advocate-for-china-s-release-of-christian-pastor-at-upcoming-summit",
       "victims": 24
+    },
+    {
+      "date": "2026-03-27",
+      "lat": 19.2385,
+      "lng": 72.6608,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "murder",
+      "title": "Католическая церковь в India ‘appalled’ country’s первый euthanasia смерть",
+      "description": "Catholic leaders reacted после India’s Supreme суд allowed withdrawal life support для мужчина в vegetative штат для 13 годы.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-in-india-appalled-by-country-s-first-euthanasia-death",
+      "victims": 0
     },
     {
       "date": "2026-03-26",
@@ -122,6 +135,19 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/03/26/thousands-of-christian-families-face-eviction-in-pakistan/",
       "victims": 0
+    },
+    {
+      "date": "2026-03-26",
+      "lat": 18.9291,
+      "lng": 72.8721,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "attack",
+      "title": "Индус Nationalists атака церковь в India",
+      "description": "Толпа радикал индус nationalists violently подвергнут засаде приход 20 христиане на fabricated обращение обвинения на Feb. 10 в Maharashtra, India. incident occurred пока христиане gathered в shed used as place богослужение. пастор Raj",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/26/hindu-nationalists-attack-church-in-india/",
+      "victims": 20
     },
     {
       "date": "2026-03-25",
@@ -350,6 +376,32 @@
       "lng": 52.8182,
       "country": "Iran",
       "city": "Shiraz",
+      "type": "discrimination",
+      "title": "Hope для Iranian христиане",
+      "description": "ICC Fellow Lisa Navarrette на Feb. 28, moment unfolded that many believed would never come. Through операция Epic Fury, Israel и United штаты struck heart Iran’s ruling regime. This regime had tightened its grip на its люди,",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/25/hope-for-iranian-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-25",
+      "lat": 29.4948,
+      "lng": 52.7724,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "discrimination",
+      "title": "Brief History гонение в Iran",
+      "description": "ICC Fellow Lisa Navarrette христианство has existed в modern Iran для nearly 2,000 годы. Long до rise ислам, христианские общины were already flourishing в Persian Empire. века, these верующие endured waves suspi",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/25/a-brief-history-of-persecution-in-iran/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-25",
+      "lat": 35.8516,
+      "lng": 51.1709,
+      "country": "Iran",
+      "city": "Tehran",
       "type": "discrimination",
       "title": "Hope для Iranian христиане",
       "description": "ICC Fellow Lisa Navarrette на Feb. 28, moment unfolded that many believed would never come. Through операция Epic Fury, Israel и United штаты struck heart Iran’s ruling regime. This regime had tightened its grip на its люди,",
@@ -6454,58 +6506,6 @@
       "description": "A leading figure of ancient Christianity, Saint Augustine, came from a land now known as Algeria. The регион remained heavily христианин until the onset of jihadist invasions of the 7th century. Their influence was lasting. сегодня, more than 98% of Alg",
       "source": "persecution",
       "url": "https://persecution.org/2026/02/24/as-it-continues-closing-churches-algeria-awaits-its-first-papal-visit/",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-24",
-      "lat": 9.0431,
-      "lng": 9.4146,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "US lawmakers find Nigeria 'deadliest' place for христиане",
-      "description": "US lawmakers release a report on their findings into предполагаемый гонение of христиане in Nigeria. It comes после President Donald Trump categorized the African nation as a \"country of particular concern\" last year.",
-      "source": "newsapi:DW (English)",
-      "url": "https://www.dw.com/en/us-designates-nigeria-as-deadliest-place-for-christians-nicki-minaj/a-76107415",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-24",
-      "lat": 19.1853,
-      "lng": 73.0097,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "murder",
-      "title": "Supreme суд of India Halts Exhumations of христианин Burial Sites",
-      "description": "The Supreme суд of India passed an interim order on Feb. 18, restraining the forcible exhumation and relocation of погибшие tribal христиане’ bodies away from their деревня burial grounds in Chhattisgarh. The Apex Bench of Justices Vikram Nath, Sandee",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/02/24/supreme-court-of-india-halts-exhumations-of-christian-burial-sites/",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-24",
-      "lat": 28.6936,
-      "lng": 77.1998,
-      "country": "India",
-      "city": "Delhi",
-      "type": "murder",
-      "title": "Христианин Family Of Three Allegedly Butchered For ‘Cursing’ Relative By Converting",
-      "description": "Members of a христианин family were allegedly убит in India после extended family allegedly believed their обращение had caused illness in their family.",
-      "source": "newsapi:The Daily Caller",
-      "url": "https://dailycaller.com/2026/02/24/christian-family-killed-axe-curse-village-india-jitendra-soren/",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-24",
-      "lat": 21.0558,
-      "lng": 81.7933,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "murder",
-      "title": "Supreme суд of India Halts Exhumations of христианин Burial Sites",
-      "description": "The Supreme суд of India passed an interim order on Feb. 18, restraining the forcible exhumation and relocation of погибшие tribal христиане’ bodies away from their деревня burial grounds in Chhattisgarh. The Apex Bench of Justices Vikram Nath, Sandee",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/02/24/supreme-court-of-india-halts-exhumations-of-christian-burial-sites/",
       "victims": 0
     }
   ]
