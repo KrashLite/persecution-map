@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-27T19:54:51.854Z",
+    "lastUpdated": "2026-03-28T05:15:17.786Z",
     "totalEvents": 500
   },
   "events": [
@@ -25,6 +25,32 @@
       "lng": 72.6608,
       "country": "India",
       "city": "Mumbai",
+      "type": "murder",
+      "title": "Католическая церковь в India ‘appalled’ country’s первый euthanasia смерть",
+      "description": "Catholic leaders reacted после India’s Supreme суд allowed withdrawal life support для мужчина в vegetative штат для 13 годы.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-in-india-appalled-by-country-s-first-euthanasia-death",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-27",
+      "lat": 33.9152,
+      "lng": 73.0086,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "murder",
+      "title": "Pakistani христианин Dies после Alleged пытки",
+      "description": "22-год-old христианин was found погибшие farmhouse в Punjab, Pakistan. His семья claimed his смерть was made look like suicide после he endured пытки из his employers. Marqas Masih’s body was found на март 3, повешение из beam",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/27/pakistani-christian-dies-after-alleged-torture/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-27",
+      "lat": 26.6448,
+      "lng": 80.8851,
+      "country": "India",
+      "city": "Uttar Pradesh",
       "type": "murder",
       "title": "Католическая церковь в India ‘appalled’ country’s первый euthanasia смерть",
       "description": "Catholic leaders reacted после India’s Supreme суд allowed withdrawal life support для мужчина в vegetative штат для 13 годы.",
@@ -148,6 +174,19 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/03/26/hindu-nationalists-attack-church-in-india/",
       "victims": 20
+    },
+    {
+      "date": "2026-03-26",
+      "lat": 34.2502,
+      "lng": 71.5994,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "other",
+      "title": "Thousands христианские семьи Face выселение в Pakistan",
+      "description": "Around 25,000 христиане living в Rimsha, Allama Iqbal, и Akram Masih Gill colonies в Islamabad, Pakistan, are facing выселение. власти have told them leave their homes within few дни. These are entire семьи who have been living",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/26/thousands-of-christian-families-face-eviction-in-pakistan/",
+      "victims": 0
     },
     {
       "date": "2026-03-25",
@@ -410,6 +449,19 @@
       "victims": 0
     },
     {
+      "date": "2026-03-25",
+      "lat": 32.4181,
+      "lng": 51.8801,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Pentagon христианин service, Hegseth prays для violence ‘against those who deserve no mercy’",
+      "description": "Defense Secretary Pete Hegseth, hosting his первый monthly христианин богослужение service Pentagon since Iran war began, prayed среда have “every round find its mark.”",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-usa/2026/03/at-pentagon-christian-service-hegseth-prays-for-violence-against-those-who-deserve-no-mercy/",
+      "victims": 0
+    },
+    {
       "date": "2026-03-24",
       "lat": 31.2886,
       "lng": 121.7088,
@@ -662,6 +714,32 @@
       "lng": 81.1413,
       "country": "India",
       "city": "Uttar Pradesh",
+      "type": "other",
+      "title": "Gente di Primavera: день миссионер Martyrs 2026",
+      "description": "Europe is сейчас entering сезон весна, known в Italian as primavera. word comes из Latin: prīmus meaning “первый” и vēra из ver, post Gente di Primavera: день миссионер Martyrs 2026 appeared первый на Indian Catholic Matters",
+      "source": "newsapi:Indiancatholicmatters.org",
+      "url": "https://www.indiancatholicmatters.org/gente-di-primavera-the-day-of-missionary-martyrs-2026/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-24",
+      "lat": 11.8091,
+      "lng": 13.2797,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "Архиепископ warns угроза христианство в Nigeria",
+      "description": "Nigerian церковь leader also claimed that Trump's военные strikes have \"not achieved much\".",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/archbishop-warns-of-threat-to-christianity-in-nigeria",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-24",
+      "lat": 18.8804,
+      "lng": 72.9436,
+      "country": "India",
+      "city": "Mumbai",
       "type": "other",
       "title": "Gente di Primavera: день миссионер Martyrs 2026",
       "description": "Europe is сейчас entering сезон весна, known в Italian as primavera. word comes из Latin: prīmus meaning “первый” и vēra из ver, post Gente di Primavera: день миссионер Martyrs 2026 appeared первый на Indian Catholic Matters",
@@ -6426,86 +6504,6 @@
       "description": "Gold, seen as a safe store of value during economic and geopolitical uncertainty, also tends to perform well when interest rates are low.",
       "source": "The Times of India",
       "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-today-spot-gold-rate-falls-heres-what-is-impacting-gold-silver/articleshow/128735297.cms",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-24",
-      "lat": 31.628,
-      "lng": 74.921,
-      "country": "Pakistan",
-      "city": "Лахор",
-      "type": "other",
-      "title": "Why americans must end america’s self-generating wars",
-      "description": "The most urgent political challenge to the world today is how to prevent the so-called “pax americana” from progressively degenerating, like the 19th-century so-called “pax britannica” before it, into major global warfare. the post why americans must",
-      "source": "Globalresearch.ca",
-      "url": "https://www.globalresearch.ca/why-americans-must-end-americas-self-generating-wars/5302680",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-24",
-      "lat": 9.4337,
-      "lng": 9.6041,
-      "country": "Nigeria",
-      "city": "Плато",
-      "type": "murder",
-      "title": "Us lawmakers find nigeria 'deadliest' place для христиане",
-      "description": "Us lawmakers release report на their findings into предполагаемый гонение христиане в Нигерии. it comes после president donald trump categorized african nation as \"country particular concern\" last year.",
-      "originalTitle": "US lawmakers find Nigeria 'deadliest' place for Christians",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/us-designates-nigeria-as-deadliest-place-for-christians-nicki-minaj/a-76107415",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-24",
-      "lat": 26.9736,
-      "lng": 80.7462,
-      "country": "India",
-      "city": "Уттар-Прадеш",
-      "type": "murder",
-      "title": "Христианин family three allegedly butchered для ‘cursing’ relative converting",
-      "description": "Members христианин family were allegedly убит в Индии после extended family allegedly believed their обращение had caused illness в their family.",
-      "originalTitle": "Christian Family Of Three Allegedly Butchered For ‘Cursing’ Relative By Converting",
-      "source": "The Daily Caller",
-      "url": "https://dailycaller.com/2026/02/24/christian-family-killed-axe-curse-village-india-jitendra-soren/",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-24",
-      "lat": 35.7487,
-      "lng": 51.3084,
-      "country": "Iran",
-      "city": "Тегеран",
-      "type": "arrest",
-      "title": "Конверты из ислама арестованы во время тайного богослужения",
-      "description": "Событие произошло 24.02.2026. Требуется дополнительное подтверждение.",
-      "source": "Мониторинг гонений",
-      "url": "#",
-      "victims": 8
-    },
-    {
-      "date": "2026-02-24",
-      "lat": 36.2317,
-      "lng": 43.045,
-      "country": "Iraq",
-      "city": "Мосул",
-      "type": "discrimination",
-      "title": "Христианские семьи получают угрозы от боевиков",
-      "description": "Событие произошло 24.02.2026. Требуется дополнительное подтверждение.",
-      "source": "Мониторинг гонений",
-      "url": "#",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-24",
-      "lat": 36.7476,
-      "lng": 3.1044,
-      "country": "Algeria",
-      "city": "Algiers",
-      "type": "other",
-      "title": "As it Continues Closing церкви, Algeria Awaits its First Papal Visit",
-      "description": "A leading figure of ancient Christianity, Saint Augustine, came from a land now known as Algeria. The регион remained heavily христианин until the onset of jihadist invasions of the 7th century. Their influence was lasting. сегодня, more than 98% of Alg",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/02/24/as-it-continues-closing-churches-algeria-awaits-its-first-papal-visit/",
       "victims": 0
     }
   ]
