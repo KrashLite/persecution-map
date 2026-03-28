@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-28T14:03:57.703Z",
+    "lastUpdated": "2026-03-28T19:28:07.850Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,32 @@
       "description": "St. Charbel Makhlouf is beloved around world, known для interceding для countless miracles both во время his life и после his смерть. сейчас первый-class bone relic is touring Philippines, remarkable opportunity ask для his молитвы и inte",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/03/28/st-charbel-relic-tours-philippines-guadalupe-icon-next/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-28",
+      "lat": 36.3022,
+      "lng": 42.9483,
+      "country": "Iraq",
+      "city": "Mosul",
+      "type": "discrimination",
+      "title": "Bangladesh епископы say ‘no’ правительство financial support",
+      "description": "Bangladesh епископы say “no” правительство support, Seoul архиепископ urges defense life amid war, второй церковь built в Mosul после ИГИЛ, и more в на этой неделе’s roundup Catholic world news.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/bangladesh-bishops-say-no-to-government-financial-support",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-28",
+      "lat": 33.5499,
+      "lng": 36.3044,
+      "country": "Syria",
+      "city": "Damascus",
+      "type": "attack",
+      "title": "Sectarian атаки rock христианин посёлок в Syria после dispute",
+      "description": "Argument between two мужчины в христианин посёлок в central Syria led sectarian атаки that caused widespread повреждение homes, shops и cars в reminder религиозный violence that followed осень longtime leader Bashar Assad two годы ago.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/sectarian-attacks-rock-a-christian-town-in-syria-after-a-dispute/",
       "victims": 0
     },
     {
@@ -251,6 +277,45 @@
       "description": "Around 25,000 христиане living в Rimsha, Allama Iqbal, и Akram Masih Gill colonies в Islamabad, Pakistan, are facing выселение. власти have told them leave their homes within few дни. These are entire семьи who have been living",
       "source": "persecution",
       "url": "https://persecution.org/2026/03/26/thousands-of-christian-families-face-eviction-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-26",
+      "lat": 20.9428,
+      "lng": 85.1375,
+      "country": "India",
+      "city": "Odisha",
+      "type": "attack",
+      "title": "Индус Nationalists атака церковь в India",
+      "description": "Толпа радикал индус nationalists violently подвергнут засаде приход 20 христиане на fabricated обращение обвинения на Feb. 10 в Maharashtra, India. incident occurred пока христиане gathered в shed used as place богослужение. пастор Raj",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/26/hindu-nationalists-attack-church-in-india/",
+      "victims": 20
+    },
+    {
+      "date": "2026-03-26",
+      "lat": 24.9954,
+      "lng": 66.7772,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "other",
+      "title": "Thousands христианские семьи Face выселение в Pakistan",
+      "description": "Around 25,000 христиане living в Rimsha, Allama Iqbal, и Akram Masih Gill colonies в Islamabad, Pakistan, are facing выселение. власти have told them leave their homes within few дни. These are entire семьи who have been living",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/26/thousands-of-christian-families-face-eviction-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-26",
+      "lat": 31.5941,
+      "lng": 74.4702,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "other",
+      "title": "Pakistan епископы back армия amid Afghanistan tensions",
+      "description": "Catholic leaders в Pakistan expressed solidarity с nation's вооружённые силы пока calling для dialogue end недели крест-border fighting с Afghanistan.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-bishops-back-army-amid-afghanistan-tensions",
       "victims": 0
     },
     {
@@ -1225,6 +1290,19 @@
       "title": "Церковь leaders в India slam правительство’s dismissal религиозный freedom report",
       "description": "India’s правительство has rejected findings в 2026 report U.S. комиссия на International религиозный Freedom (USCIRF) amid increasing atrocities against minority христиане.",
       "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/church-leaders-in-india-slam-government-s-dismissal-of-religious-freedom-report",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-21",
+      "lat": 20.8777,
+      "lng": 85.3316,
+      "country": "India",
+      "city": "Odisha",
+      "type": "other",
+      "title": "Церковь leaders в India slam правительство’s dismissal религиозный freedom report",
+      "description": "India’s правительство has rejected findings в 2026 report U.S. комиссия на International религиозный Freedom (USCIRF) amid increasing atrocities against minority христиане.",
+      "source": "newsapi:Ewtnnews.com",
       "url": "https://www.ewtnnews.com/world/asia-pacific/church-leaders-in-india-slam-government-s-dismissal-of-religious-freedom-report",
       "victims": 0
     },
@@ -6426,84 +6504,6 @@
       "description": "Событие произошло 26.02.2026. Требуется дополнительное подтверждение.",
       "source": "Мониторинг гонений",
       "url": "#",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-25",
-      "lat": 31.4791,
-      "lng": 74.4967,
-      "country": "Pakistan",
-      "city": "Лахор",
-      "type": "discrimination",
-      "title": "Христианской общине отказали в доступе к колодцу",
-      "description": "Событие произошло 25.02.2026. Требуется дополнительное подтверждение.",
-      "source": "Мониторинг гонений",
-      "url": "#",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-25",
-      "lat": 35.7393,
-      "lng": 51.3615,
-      "country": "Iran",
-      "city": "Тегеран",
-      "type": "arrest",
-      "title": "Конверты из ислама арестованы во время тайного богослужения",
-      "description": "Событие произошло 25.02.2026. Требуется дополнительное подтверждение.",
-      "source": "Мониторинг гонений",
-      "url": "#",
-      "victims": 8
-    },
-    {
-      "date": "2026-02-25",
-      "lat": 28.0257,
-      "lng": 30.754,
-      "country": "Egypt",
-      "city": "Минья",
-      "type": "attack",
-      "title": "Боевики обстреляли автобус с коптскими паломниками",
-      "description": "Событие произошло 25.02.2026. Требуется дополнительное подтверждение.",
-      "source": "Мониторинг гонений",
-      "url": "#",
-      "victims": 7
-    },
-    {
-      "date": "2026-02-25",
-      "lat": 4.3469,
-      "lng": 18.585,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "murder",
-      "title": "Drug kingpin убит in Mexico headed cartel that had targeted церкви",
-      "description": "For merely “opening a церковь,” пасторы receive messages demanding large sums of money.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/drug-kingpin-killed-in-mexico-headed-cartel-that-had-targeted-churches",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-25",
-      "lat": 9.2593,
-      "lng": 7.5728,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "US Congress pushes Nigeria pact to combat terror, религиозный гонение",
-      "description": "US Congress proposes a new US-Nigeria pact to combat terror, protect христиане, and counter Chinese/Russian influence. See the key recommendations. Read More: https://punchng.com/us-congress-pushes-nigeria-pact-to-combat-terror-религиозный-persecutio",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-congress-pushes-nigeria-pact-to-combat-terror-religious-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-25",
-      "lat": 32.5405,
-      "lng": 51.8771,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "murder",
-      "title": "ICC President’s Video Message to Iran",
-      "description": "Like you, we have been closely в результате the delicate situation in Iran во время the past month. Reports on the number of protesters убит vary from 7,000 to more than 30,000, depending on the source. A second aircraft carrier, the USS Gerald R. Ford,",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/02/25/icc-presidents-video-message-to-iran/",
       "victims": 0
     }
   ]
