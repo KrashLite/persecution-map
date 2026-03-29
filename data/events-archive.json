@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-29T14:04:42.271Z",
+    "lastUpdated": "2026-03-29T19:48:54.771Z",
     "totalEvents": 500
   },
   "events": [
@@ -38,6 +38,32 @@
       "lng": 43.2266,
       "country": "Iraq",
       "city": "Mosul",
+      "type": "other",
+      "title": "Iraqi христиане told cancel Palm воскресенье и Пасха celebrations",
+      "description": "Palm воскресенье celebrations в Northern Iraq usually are big celebrations commemorate Jesus entering Jerusalem.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/iraqi-christians-told-to-cancel-palm-sunday-and-easter-celebrations",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-29",
+      "lat": 12.0092,
+      "lng": 13.1434,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "attack",
+      "title": "Террористы have declared war на Nigeria — Catholic епископ slams Govt",
+      "description": "Catholic епископ Ondo Diocese, Jude Arogundade, has raised alarm worsening insecurity в Nigeria, declaring that террористы have effectively “declared war” на country, its правительство и citizens. post террористы have declared war",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/03/terrorists-have-declared-war-on-nigeria-catholic-bishop-slams-govt/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-29",
+      "lat": 33.5284,
+      "lng": 44.3934,
+      "country": "Iraq",
+      "city": "Baghdad",
       "type": "other",
       "title": "Iraqi христиане told cancel Palm воскресенье и Пасха celebrations",
       "description": "Palm воскресенье celebrations в Northern Iraq usually are big celebrations commemorate Jesus entering Jerusalem.",
@@ -238,6 +264,19 @@
       "description": "Catholic leaders reacted после India’s Supreme суд allowed withdrawal life support для мужчина в vegetative штат для 13 годы.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-in-india-appalled-by-country-s-first-euthanasia-death",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-27",
+      "lat": 34.03,
+      "lng": 71.3478,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "murder",
+      "title": "Pakistani христианин Dies после Alleged пытки",
+      "description": "22-год-old христианин was found погибшие farmhouse в Punjab, Pakistan. His семья claimed his смерть was made look like suicide после he endured пытки из his employers. Marqas Masih’s body was found на март 3, повешение из beam",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/27/pakistani-christian-dies-after-alleged-torture/",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Христиане were accused practising black magic до their убийства.",
       "source": "newsapi:Christiantoday.com",
       "url": "https://www.christiantoday.com/news/3-christians-murdered-in-india",
-      "victims": 3
-    },
-    {
-      "date": "2026-02-27",
-      "lat": 26.6544,
-      "lng": 80.9924,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "murder",
-      "title": "3 members христианская семья убит в India",
-      "description": "Христиане were accused practising black magic до their убийства.",
-      "source": "newsapi:Christiantoday.com",
-      "url": "https://www.christiantoday.com/news/3-members-of-christian-family-murdered-in-india",
-      "victims": 3
-    },
-    {
-      "date": "2026-02-27",
-      "lat": 20.789,
-      "lng": 85.1986,
-      "country": "India",
-      "city": "Odisha",
-      "type": "murder",
-      "title": "3 members христианская семья убит в India",
-      "description": "Христиане were accused practising black magic до their убийства.",
-      "source": "newsapi:Christiantoday.com",
-      "url": "https://www.christiantoday.com/news/3-members-of-christian-family-murdered-in-india",
-      "victims": 3
-    },
-    {
-      "date": "2026-02-27",
-      "lat": 19.1533,
-      "lng": 73.0152,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "murder",
-      "title": "3 members христианская семья убит в India",
-      "description": "Христиане were accused practising black magic до their убийства.",
-      "source": "newsapi:Christiantoday.com",
-      "url": "https://www.christiantoday.com/news/3-members-of-christian-family-murdered-in-india",
       "victims": 3
     }
   ]
