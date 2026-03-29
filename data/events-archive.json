@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-28T19:28:07.850Z",
+    "lastUpdated": "2026-03-29T05:54:31.462Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-03-29",
+      "lat": 35.4082,
+      "lng": 44.4595,
+      "country": "Iraq",
+      "city": "Kirkuk",
+      "type": "other",
+      "title": "Iraqi христиане told cancel Palm воскресенье и Пасха celebrations",
+      "description": "Palm воскресенье celebrations в Northern Iraq usually are big celebrations commemorate Jesus entering Jerusalem.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/iraqi-christians-told-to-cancel-palm-sunday-and-easter-celebrations",
+      "victims": 0
+    },
     {
       "date": "2026-03-28",
       "lat": 33.1394,
@@ -69,6 +82,19 @@
       "description": "Argument between two мужчины в христианин посёлок в central Syria led sectarian атаки that caused widespread повреждение homes, shops и cars в reminder религиозный violence that followed осень longtime leader Bashar Assad two годы ago.",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/sectarian-attacks-rock-a-christian-town-in-syria-after-a-dispute/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-28",
+      "lat": 35.2333,
+      "lng": 44.3502,
+      "country": "Iraq",
+      "city": "Kirkuk",
+      "type": "discrimination",
+      "title": "Bangladesh епископы say ‘no’ правительство financial support",
+      "description": "Bangladesh епископы say “no” правительство support, Seoul архиепископ urges defense life amid war, второй церковь built в Mosul после ИГИЛ, и more в на этой неделе’s roundup Catholic world news.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/bangladesh-bishops-say-no-to-government-financial-support",
       "victims": 0
     },
     {
@@ -142,6 +168,32 @@
       "lng": 82.0938,
       "country": "India",
       "city": "Chhattisgarh",
+      "type": "murder",
+      "title": "Католическая церковь в India ‘appalled’ country’s первый euthanasia смерть",
+      "description": "Catholic leaders reacted после India’s Supreme суд allowed withdrawal life support для мужчина в vegetative штат для 13 годы.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-in-india-appalled-by-country-s-first-euthanasia-death",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-27",
+      "lat": 40.1125,
+      "lng": 116.1826,
+      "country": "China",
+      "city": "Beijing",
+      "type": "arrest",
+      "title": "Lawmakers urge Trump защитник для China’s release христианин пастор upcoming summit",
+      "description": "Пастор Ezra Jin was задержан along с dozens other церковь leaders в октябрь 2025.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/lawmakers-urge-trump-to-advocate-for-china-s-release-of-christian-pastor-at-upcoming-summit",
+      "victims": 24
+    },
+    {
+      "date": "2026-03-27",
+      "lat": 28.6279,
+      "lng": 77.1352,
+      "country": "India",
+      "city": "Delhi",
       "type": "murder",
       "title": "Католическая церковь в India ‘appalled’ country’s первый euthanasia смерть",
       "description": "Catholic leaders reacted после India’s Supreme суд allowed withdrawal life support для мужчина в vegetative штат для 13 годы.",
@@ -317,6 +369,19 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-bishops-back-army-amid-afghanistan-tensions",
       "victims": 0
+    },
+    {
+      "date": "2026-03-26",
+      "lat": 21.2865,
+      "lng": 81.6711,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "attack",
+      "title": "Индус Nationalists атака церковь в India",
+      "description": "Толпа радикал индус nationalists violently подвергнут засаде приход 20 христиане на fabricated обращение обвинения на Feb. 10 в Maharashtra, India. incident occurred пока христиане gathered в shed used as place богослужение. пастор Raj",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/26/hindu-nationalists-attack-church-in-india/",
+      "victims": 20
     },
     {
       "date": "2026-03-25",
@@ -597,6 +662,19 @@
       "lng": 8.4258,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "kidnapping",
+      "title": "Прихожане, пастор похищен во время атаки в Nigeria",
+      "description": "Евангелическая церковь Winning All has confirmed several violent атаки targeting its приход и clergy в north-central Nigeria, raising new concerns о safety христиане и ongoing insecurity linked armed groups, including Fula",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/25/worshippers-pastor-abducted-during-attacks-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-25",
+      "lat": 9.3485,
+      "lng": 9.6003,
+      "country": "Nigeria",
+      "city": "Plateau",
       "type": "kidnapping",
       "title": "Прихожане, пастор похищен во время атаки в Nigeria",
       "description": "Евангелическая церковь Winning All has confirmed several violent атаки targeting its приход и clergy в north-central Nigeria, raising new concerns о safety христиане и ongoing insecurity linked armed groups, including Fula",
@@ -6427,84 +6505,6 @@
       "source": "newsapi:Christiantoday.com",
       "url": "https://www.christiantoday.com/news/3-christians-murdered-in-india",
       "victims": 3
-    },
-    {
-      "date": "2026-02-27",
-      "lat": 28.5309,
-      "lng": 77.3036,
-      "country": "India",
-      "city": "Delhi",
-      "type": "murder",
-      "title": "3 members христианская семья убит в India",
-      "description": "Христиане were accused practising black magic до their убийства.",
-      "source": "newsapi:Christiantoday.com",
-      "url": "https://www.christiantoday.com/news/3-members-of-christian-family-murdered-in-india",
-      "victims": 3
-    },
-    {
-      "date": "2026-02-26",
-      "lat": 20.9482,
-      "lng": 84.7376,
-      "country": "India",
-      "city": "Одиша",
-      "type": "other",
-      "title": "Thessaloniki international documentary festival announces full lineup, welcomes juliette binoche directorial debut",
-      "description": "Oscar-winning actress juliette binoche will be heading to the thessaloniki international documentary festival next month to screen her directorial debut, the nonfiction feature in-i in motion. that’s one of the highlights to emerge from a news confer",
-      "source": "Deadline",
-      "url": "http://deadline.com/2026/02/thessaloniki-international-documentary-festival-2026-lineup-1236736624/",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-26",
-      "lat": 33.4968,
-      "lng": 72.4711,
-      "country": "Pakistan",
-      "city": "Исламабад",
-      "type": "other",
-      "title": "Biblical writ and христианин zionism: mike huckabee, tucker carlson and israel",
-      "description": "It was good of mike huckabee, us ambassador to israel, to come clean with the witchery and superstition that marks the bible. when a text advocating genocide, ethnic cleansing and dubious real estate advice in the name of a … the post biblical writ a",
-      "source": "Globalresearch.ca",
-      "url": "https://www.globalresearch.ca/mike-huckabee-tucker-carlson-israel/5917172",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-26",
-      "lat": 43.8021,
-      "lng": 87.6269,
-      "country": "China",
-      "city": "Синьцзян",
-      "type": "arrest",
-      "title": "Власти арестовали 45 пасторов домашних церквей",
-      "description": "Событие произошло 26.02.2026. Требуется дополнительное подтверждение.",
-      "source": "Мониторинг гонений",
-      "url": "#",
-      "victims": 45
-    },
-    {
-      "date": "2026-02-26",
-      "lat": 31.5181,
-      "lng": 74.2876,
-      "country": "Pakistan",
-      "city": "Лахор",
-      "type": "discrimination",
-      "title": "Христианской общине отказали в доступе к колодцу",
-      "description": "Событие произошло 26.02.2026. Требуется дополнительное подтверждение.",
-      "source": "Мониторинг гонений",
-      "url": "#",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-26",
-      "lat": 36.2773,
-      "lng": 43.1924,
-      "country": "Iraq",
-      "city": "Мосул",
-      "type": "discrimination",
-      "title": "Христианские семьи получают угрозы от боевиков",
-      "description": "Событие произошло 26.02.2026. Требуется дополнительное подтверждение.",
-      "source": "Мониторинг гонений",
-      "url": "#",
-      "victims": 0
     }
   ]
 }
