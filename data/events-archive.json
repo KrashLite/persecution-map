@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-30T06:17:44.452Z",
+    "lastUpdated": "2026-03-30T12:47:50.710Z",
     "totalEvents": 500
   },
   "events": [
@@ -38,6 +38,19 @@
       "lng": 36.2155,
       "country": "Syria",
       "city": "Damascus",
+      "type": "attack",
+      "title": "Syrian церковь leaders speak out после атаки на христианин property",
+      "description": "Syrian церковь leaders have called для greater усилия preserve peace и stability после атаки на homes, shops и cars в predominantly христианин посёлок.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/syrian-church-leaders-speak-out-after-attacks-on-christian-property",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-30",
+      "lat": 34.7171,
+      "lng": 36.9063,
+      "country": "Syria",
+      "city": "Homs",
       "type": "attack",
       "title": "Syrian церковь leaders speak out после атаки на христианин property",
       "description": "Syrian церковь leaders have called для greater усилия preserve peace и stability после атаки на homes, shops и cars в predominantly христианин посёлок.",
@@ -129,6 +142,19 @@
       "lng": 52.545,
       "country": "Iran",
       "city": "Shiraz",
+      "type": "murder",
+      "title": "Three pastoral perspectives из within Iran",
+      "description": "Пастор X - You don’t understand extreme version шиит ислам that is в обвинение here. It’s смерть культ...It has many committed followers high level look up в sky и say, “let взрыв come для me—its quick и paradise is waiting”.",
+      "source": "newsapi:Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-religion/4372693/posts",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-29",
+      "lat": 35.6426,
+      "lng": 51.2059,
+      "country": "Iran",
+      "city": "Tehran",
       "type": "murder",
       "title": "Three pastoral perspectives из within Iran",
       "description": "Пастор X - You don’t understand extreme version шиит ислам that is в обвинение here. It’s смерть культ...It has many committed followers high level look up в sky и say, “let взрыв come для me—its quick и paradise is waiting”.",
@@ -6478,32 +6504,6 @@
       "description": "The христиане were accused of practising black magic before their murders.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/3-members-of-christian-family-murdered-in-india",
-      "victims": 3
-    },
-    {
-      "date": "2026-02-27",
-      "lat": 26.8102,
-      "lng": 80.8548,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "murder",
-      "title": "3 христиане убит in India",
-      "description": "The христиане were accused of practising black magic before their murders.",
-      "source": "newsapi:Christiantoday.com",
-      "url": "https://www.christiantoday.com/news/3-christians-murdered-in-india",
-      "victims": 3
-    },
-    {
-      "date": "2026-02-27",
-      "lat": 19.2066,
-      "lng": 72.9416,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "murder",
-      "title": "3 христиане убит in India",
-      "description": "The христиане were accused of practising black magic before their murders.",
-      "source": "newsapi:Christiantoday.com",
-      "url": "https://www.christiantoday.com/news/3-christians-murdered-in-india",
       "victims": 3
     }
   ]
