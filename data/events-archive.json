@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-30T12:47:50.710Z",
+    "lastUpdated": "2026-03-30T18:44:06.939Z",
     "totalEvents": 500
   },
   "events": [
@@ -56,6 +56,45 @@
       "description": "Syrian церковь leaders have called для greater усилия preserve peace и stability после атаки на homes, shops и cars в predominantly христианин посёлок.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/syrian-church-leaders-speak-out-after-attacks-on-christian-property",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-30",
+      "lat": 12.0224,
+      "lng": 13.3704,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "Dozens убит во время Palm воскресенье атаки в Nigeria",
+      "description": "Боевики убит least 30 люди во время Palm воскресенье атака в Ungwan Rukuba, community в Jos North Local правительство Area плато штат, Nigeria. incident occurred во время вечер, когда armed мужчины reportedly entered community и ope",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/30/dozens-killed-during-palm-sunday-attacks-in-nigeria/",
+      "victims": 30
+    },
+    {
+      "date": "2026-03-30",
+      "lat": 36.1229,
+      "lng": 59.6255,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Trump пастор says Iran war is 'spiritual obligation'",
+      "description": "One Donald Trump’s most vocal христианин supporters has justified Israeli-US военные strike на Iran.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/trump-pastor-says-iran-war-is-a-spiritual-obligation",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-30",
+      "lat": 9.3384,
+      "lng": 9.7377,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "attack",
+      "title": "Palm воскресенье убийства в Jos: ‘Nigeria can’t keep bleeding like this’ — CAN",
+      "description": "Христианин Association Nigeria (CAN) has condemned убийство residents в Palm воскресенье атака в Jos North, плато штат, calling it unacceptable и demanding swift justice для those responsible. post Palm воскресенье убийства в Jos: ‘N",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/03/palm-sunday-killings-in-jos-nigeria-cant-keep-bleeding-like-this-can-2/",
       "victims": 0
     },
     {
@@ -155,6 +194,32 @@
       "lng": 51.2059,
       "country": "Iran",
       "city": "Tehran",
+      "type": "murder",
+      "title": "Three pastoral perspectives из within Iran",
+      "description": "Пастор X - You don’t understand extreme version шиит ислам that is в обвинение here. It’s смерть культ...It has many committed followers high level look up в sky и say, “let взрыв come для me—its quick и paradise is waiting”.",
+      "source": "newsapi:Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-religion/4372693/posts",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-29",
+      "lat": 32.5533,
+      "lng": 51.7046,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "discrimination",
+      "title": "Photos show Lebanon’s Catholics marking Palm воскресенье as shadow war weighs heavily",
+      "description": "As христиане packed церкви across Lebanon this Palm воскресенье commemorate their вера в Jesus’s triumphal entry в Jerusalem, renewed war between Israel и Iran-backed Hezbollah weighed на parishioners.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/photos-show-lebanons-catholics-marking-palm-sunday-as-the-shadow-of-war-weighs-heavily/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-29",
+      "lat": 32.4425,
+      "lng": 51.719,
+      "country": "Iran",
+      "city": "Isfahan",
       "type": "murder",
       "title": "Three pastoral perspectives из within Iran",
       "description": "Пастор X - You don’t understand extreme version шиит ислам that is в обвинение here. It’s смерть культ...It has many committed followers high level look up в sky и say, “let взрыв come для me—its quick и paradise is waiting”.",
@@ -369,6 +434,19 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/03/27/pakistani-christian-dies-after-alleged-torture/",
       "victims": 0
+    },
+    {
+      "date": "2026-03-27",
+      "lat": 31.0996,
+      "lng": 121.6678,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "arrest",
+      "title": "Lawmakers urge Trump защитник для China’s release христианин пастор upcoming summit",
+      "description": "Пастор Ezra Jin was задержан along с dozens other церковь leaders в октябрь 2025.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/lawmakers-urge-trump-to-advocate-for-china-s-release-of-christian-pastor-at-upcoming-summit",
+      "victims": 24
     },
     {
       "date": "2026-03-26",
@@ -6426,84 +6504,6 @@
       "description": "The христиане were accused of practising black magic before their murders.",
       "source": "newsapi:Christiantoday.com",
       "url": "https://www.christiantoday.com/news/3-christians-murdered-in-india",
-      "victims": 3
-    },
-    {
-      "date": "2026-02-27",
-      "lat": 19.1232,
-      "lng": 72.7156,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "murder",
-      "title": "3 members of христианин family убит in India",
-      "description": "The христиане were accused of practising black magic before their murders.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/3-members-of-christian-family-murdered-in-india",
-      "victims": 3
-    },
-    {
-      "date": "2026-02-27",
-      "lat": 32.6333,
-      "lng": 51.7917,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Iranian христианин leaders declare support for Reza Pahlavi",
-      "description": "Сотни of христианин leaders have come out in support of the exiled Crown Prince.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iranian-christian-leaders-declare-support-for-reza-pahlavi",
-      "victims": 150
-    },
-    {
-      "date": "2026-02-27",
-      "lat": 33.5502,
-      "lng": 36.0359,
-      "country": "Syria",
-      "city": "Damascus",
-      "type": "murder",
-      "title": "Христианин teacher застрелен погибшие in Syrian sectarian violence",
-      "description": "Христианин школа teacher, Iman Jarrous, was застрелен погибшие in Homs.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christian-teacher-shot-dead-in-syrian-sectarian-violence",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-27",
-      "lat": 35.9894,
-      "lng": 37.3705,
-      "country": "Syria",
-      "city": "Aleppo",
-      "type": "murder",
-      "title": "Христианин teacher застрелен погибшие in Syrian sectarian violence",
-      "description": "Христианин школа teacher, Iman Jarrous, was застрелен погибшие in Homs.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christian-teacher-shot-dead-in-syrian-sectarian-violence",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-27",
-      "lat": 19.2972,
-      "lng": 72.9456,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "murder",
-      "title": "Three Members of христианин Family in India убит",
-      "description": "In Nialijharan деревня in Odisha штат, India, Jitendra Soren’s family became the third family to convert to Christianity in the last year. When all but the eldest daughter converted, relatives warned them not to attend церковь or “face смерть.” Christ",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/02/27/three-members-of-christian-family-in-india-killed/",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-27",
-      "lat": 28.8483,
-      "lng": 77.0792,
-      "country": "India",
-      "city": "Delhi",
-      "type": "murder",
-      "title": "3 members of христианин family убит in India",
-      "description": "The христиане were accused of practising black magic before their murders.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/3-members-of-christian-family-murdered-in-india",
       "victims": 3
     }
   ]
