@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-31T01:11:01.555Z",
+    "lastUpdated": "2026-03-31T07:00:42.678Z",
     "totalEvents": 500
   },
   "events": [
@@ -150,6 +150,32 @@
       "victims": 0
     },
     {
+      "date": "2026-03-30",
+      "lat": 6.6086,
+      "lng": 3.5919,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Dozens убит во время Palm воскресенье атаки в Nigeria",
+      "description": "Боевики убит least 30 люди во время Palm воскресенье атака в Ungwan Rukuba, community в Jos North Local правительство Area плато штат, Nigeria. incident occurred во время вечер, когда armed мужчины reportedly entered community и ope",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/30/dozens-killed-during-palm-sunday-attacks-in-nigeria/",
+      "victims": 30
+    },
+    {
+      "date": "2026-03-30",
+      "lat": 36.3681,
+      "lng": 37.116,
+      "country": "Syria",
+      "city": "Aleppo",
+      "type": "attack",
+      "title": "Syrian церковь leaders speak out после атаки на христианин property",
+      "description": "Syrian церковь leaders have called для greater усилия preserve peace и stability после атаки на homes, shops и cars в predominantly христианин посёлок.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/syrian-church-leaders-speak-out-after-attacks-on-christian-property",
+      "victims": 0
+    },
+    {
       "date": "2026-03-29",
       "lat": 35.4082,
       "lng": 44.4595,
@@ -277,6 +303,19 @@
       "description": "Пастор X - You don’t understand extreme version шиит ислам that is в обвинение here. It’s смерть культ...It has many committed followers high level look up в sky и say, “let взрыв come для me—its quick и paradise is waiting”.",
       "source": "newsapi:Freerepublic.com",
       "url": "https://freerepublic.com/focus/f-religion/4372693/posts",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-29",
+      "lat": 36.4925,
+      "lng": 59.8022,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "discrimination",
+      "title": "Photos show Lebanon’s Catholics marking Palm воскресенье as shadow war weighs heavily",
+      "description": "As христиане packed церкви across Lebanon this Palm воскресенье commemorate their вера в Jesus’s triumphal entry в Jerusalem, renewed war between Israel и Iran-backed Hezbollah weighed на parishioners.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/photos-show-lebanons-catholics-marking-palm-sunday-as-the-shadow-of-war-weighs-heavily/",
       "victims": 0
     },
     {
@@ -6466,45 +6505,6 @@
       "source": "newsapi:Christiantoday.com",
       "url": "https://www.christiantoday.com/news/3-christians-murdered-in-india",
       "victims": 3
-    },
-    {
-      "date": "2026-02-27",
-      "lat": 21.1097,
-      "lng": 85.0706,
-      "country": "India",
-      "city": "Odisha",
-      "type": "murder",
-      "title": "3 members of христианин family убит in India",
-      "description": "The христиане were accused of practising black magic before their murders.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/3-members-of-christian-family-murdered-in-india",
-      "victims": 3
-    },
-    {
-      "date": "2026-02-27",
-      "lat": 35.4477,
-      "lng": 51.4205,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Iranian христианин leaders declare support for Reza Pahlavi",
-      "description": "Сотни of христианин leaders have come out in support of the exiled Crown Prince.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iranian-christian-leaders-declare-support-for-reza-pahlavi",
-      "victims": 150
-    },
-    {
-      "date": "2026-02-27",
-      "lat": 34.9381,
-      "lng": 36.6298,
-      "country": "Syria",
-      "city": "Homs",
-      "type": "murder",
-      "title": "Христианин teacher застрелен погибшие in Syrian sectarian violence",
-      "description": "Христианин школа teacher, Iman Jarrous, was застрелен погибшие in Homs.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christian-teacher-shot-dead-in-syrian-sectarian-violence",
-      "victims": 0
     }
   ]
 }
