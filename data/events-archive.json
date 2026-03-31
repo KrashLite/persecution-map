@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-31T12:46:38.510Z",
+    "lastUpdated": "2026-03-31T18:44:30.562Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,32 @@
       "description": "Palm воскресенье, which marks beginning Holy неделя для христиане worldwide, was marred в этом году violence в Nigerian город Jos, where боевики атакован local community, leaving multiple люди погибшие и many others shaken. атака took",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/03/31/deadly-palm-sunday-attack-hits-nigeria-death-toll-uncertain/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-31",
+      "lat": 9.2223,
+      "lng": 7.4781,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Surulere politics: CAN, исламский clerics differ alleged marginalisation христиане",
+      "description": "Христианин Association Nigeria, CAN, и совет Chief имамы и Alfas, CCIA, вчера, bickered alleged marginalisation христиане в политический leadership в Surulere local правительство area Lagos штат. post Surulere",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/03/surulere-politics-can-islamic-clerics-differ-over-alleged-marginalisation-of-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-31",
+      "lat": 11.8267,
+      "lng": 8.4489,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Vatican чиновник warns ‘Christianophobia’ в мусульманин world и светский West",
+      "description": "Nigerian архиепископ said African миссионеры can evangelize Europe uneasy с its христианин past.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/vatican/vatican-official-warns-of-christianophobia-in-muslim-world-and-secular-west",
       "victims": 0
     },
     {
@@ -238,6 +264,71 @@
       "description": "Almost no one would be surprised learn that Evangelical support для war в Iran is disproportionately high когда compared other segments U.S. population. According CNN/SRSS research poll из февраль 28th, 67% white Evangelic",
       "source": "newsapi:Antiwar.com",
       "url": "https://www.antiwar.com/blog/2026/03/30/blessed-are-the-peacemakers-on-becoming-people-of-the-seventh-beatitude/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-30",
+      "lat": 9.2861,
+      "lng": 9.271,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Dozens убит во время Palm воскресенье атаки в Nigeria",
+      "description": "Боевики убит least 30 люди во время Palm воскресенье атака в Ungwan Rukuba, community в Jos North Local правительство Area плато штат, Nigeria. incident occurred во время вечер, когда armed мужчины reportedly entered community и ope",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/30/dozens-killed-during-palm-sunday-attacks-in-nigeria/",
+      "victims": 30
+    },
+    {
+      "date": "2026-03-30",
+      "lat": 9.0584,
+      "lng": 7.334,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Palm воскресенье резня: 30 убит as 'боевики' Open Fire в Nigeria",
+      "description": "Unknown боевики opened fire \"indiscriminately\" в residential area Jos, плато штат, Nigeria на воскресенье ночь, убийство estimated 30 люди во время time в which джихадисты в country tend orchestrate резни against христиане. p",
+      "source": "newsapi:Breitbart News",
+      "url": "https://www.breitbart.com/africa/2026/03/30/palm-sunday-massacre-30-killed-as-gunmen-open-fire-in-nigeria/",
+      "victims": 30
+    },
+    {
+      "date": "2026-03-30",
+      "lat": 35.7262,
+      "lng": 51.615,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "Blessed Are миротворцы: на Becoming люди седьмой Beatitude",
+      "description": "Almost no one would be surprised learn that Evangelical support для war в Iran is disproportionately high когда compared other segments U.S. population. According CNN/SRSS research poll из февраль 28th, 67% white Evangelic",
+      "source": "newsapi:Antiwar.com",
+      "url": "https://www.antiwar.com/blog/2026/03/30/blessed-are-the-peacemakers-on-becoming-people-of-the-seventh-beatitude/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-30",
+      "lat": 30.9883,
+      "lng": 29.8128,
+      "country": "Egypt",
+      "city": "Alexandria",
+      "type": "attack",
+      "title": "Why Do толпа атаки Happen в Egypt?",
+      "description": "В some parts Egypt, it can feel like every деревня is толпа атака waiting happen. Something as seemingly mundane as disagreement price eggs can быстро escalate в community-level нападение if one disputing sides is C",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/30/why-do-mob-attacks-happen-in-egypt/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-30",
+      "lat": 36.0761,
+      "lng": 59.634,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Can папа change course Iran war?",
+      "description": "Leo XIV is ‘navigating minefield’ с Trump administration as Middle East conflict risks major split в Trump’s христианин coalition",
+      "source": "newsapi:The Week Magazine",
+      "url": "https://theweek.com/religion/can-the-pope-change-the-course-of-the-iran-war",
       "victims": 0
     },
     {
@@ -628,6 +719,19 @@
       "description": "22-год-old христианин was found погибшие farmhouse в Punjab, Pakistan. His семья claimed his смерть was made look like suicide после he endured пытки из his employers. Marqas Masih’s body was found на март 3, повешение из beam",
       "source": "persecution",
       "url": "https://persecution.org/2026/03/27/pakistani-christian-dies-after-alleged-torture/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-27",
+      "lat": 20.7119,
+      "lng": 85.0379,
+      "country": "India",
+      "city": "Odisha",
+      "type": "murder",
+      "title": "Католическая церковь в India ‘appalled’ country’s первый euthanasia смерть",
+      "description": "Catholic leaders reacted после India’s Supreme суд allowed withdrawal life support для мужчина в vegetative штат для 13 годы.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-in-india-appalled-by-country-s-first-euthanasia-death",
       "victims": 0
     },
     {
@@ -6400,110 +6504,6 @@
       "description": "A report by AFP includes claims that Nigeria paid as much as $7 million and released two Boko Haram commanders in exchange for the release of дети and staff похищен from a Catholic школа.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/nigeria-rejects-claims-it-paid-ransom-and-released-islamists-to-secure-kidnapped-children",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-28",
-      "lat": 8.973,
-      "lng": 7.5196,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "kidnapping",
-      "title": "Nigeria rejects claims it paid выкуп and released Islamists to secure похищен дети",
-      "description": "A report by AFP includes claims that Nigeria paid as much as $7 million and released two Boko Haram commanders in exchange for the release of дети and staff похищен from a Catholic школа.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/nigeria-rejects-claims-it-paid-ransom-and-released-islamists-to-secure-kidnapped-children",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-28",
-      "lat": 9.4477,
-      "lng": 9.6144,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "ICYMI: HFAC Joins Appropriators in Delivering Joint Report on христианин гонение in Nigeria to the White House",
-      "description": "В результате President Trump's call-to-action and redesignation of Nigeria as a Country of Particular Concern (CPC), the House Appropriations Committee and House Foreign Affairs Committee delivered a joint report on the гонение of христиане in Nige",
-      "source": "newsapi:Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/02/mil-260226-house-cfa01.htm",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-28",
-      "lat": 8.8373,
-      "lng": 7.3016,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "ICYMI: HFAC Joins Appropriators in Delivering Joint Report on христианин гонение in Nigeria to the White House",
-      "description": "В результате President Trump's call-to-action and redesignation of Nigeria as a Country of Particular Concern (CPC), the House Appropriations Committee and House Foreign Affairs Committee delivered a joint report on the гонение of христиане in Nige",
-      "source": "newsapi:Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/02/mil-260226-house-cfa01.htm",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-28",
-      "lat": 11.7716,
-      "lng": 13.2994,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "ICYMI: HFAC Joins Appropriators in Delivering Joint Report on христианин гонение in Nigeria to the White House",
-      "description": "В результате President Trump's call-to-action and redesignation of Nigeria as a Country of Particular Concern (CPC), the House Appropriations Committee and House Foreign Affairs Committee delivered a joint report on the гонение of христиане in Nige",
-      "source": "newsapi:Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/02/mil-260226-house-cfa01.htm",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-28",
-      "lat": 6.3888,
-      "lng": 3.4484,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "US unveils plan to end violence against христиане in Nigeria",
-      "description": "The plans were detailed in a report by US Congressman Riley M Moore.",
-      "source": "newsapi:Christiantoday.com",
-      "url": "https://www.christiantoday.com/news/us-unveils-plan-to-end-violence-against-christians-in-nigeria",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-27",
-      "lat": 29.1071,
-      "lng": 76.6049,
-      "country": "India",
-      "city": "Дели",
-      "type": "murder",
-      "title": "3 христиане убито in india",
-      "description": "The христиане were accused of practising black magic before their murders.",
-      "source": "Christiantoday.com",
-      "url": "https://www.christiantoday.com/news/3-christians-murdered-in-india",
-      "victims": 3
-    },
-    {
-      "date": "2026-02-27",
-      "lat": 19.1007,
-      "lng": 72.5768,
-      "country": "India",
-      "city": "Мумбаи",
-      "type": "murder",
-      "title": "3 members of христианин family убито in india",
-      "description": "The христиане were accused of practising black magic before their murders.",
-      "source": "Christiantoday.com",
-      "url": "https://www.christiantoday.com/news/3-members-of-christian-family-murdered-in-india",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-27",
-      "lat": 31.3938,
-      "lng": 75.0257,
-      "country": "Pakistan",
-      "city": "Лахор",
-      "type": "other",
-      "title": "The 11 books our critics couldn't put down this summer",
-      "description": "Wondering what to read next? buzzy debuts, gripping thrillers and lyrical literary fiction are among our critics' latest recommendations.",
-      "source": "ABC News (AU)",
-      "url": "https://www.abc.net.au/news/2026-02-28/best-books-summer-what-to-read-next-julian-barnes-tim-ayliffe/106255824",
       "victims": 0
     }
   ]
