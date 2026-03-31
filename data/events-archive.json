@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-03-30T18:44:06.939Z",
+    "lastUpdated": "2026-03-31T01:11:01.555Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-03-31",
+      "lat": 6.4385,
+      "lng": 3.1512,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "US lawmaker warns плато, Kaduna убийства",
+      "description": "United штаты congressman, Riley Moore, warned вчера that continued атаки на христиане в Nigeria could strain diplomatic relations с US, following reports deadly Palm воскресенье убийства... post US lawmaker warns плато, Ka",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/03/us-lawmaker-warns-over-plateau-kaduna-killings/",
+      "victims": 0
+    },
     {
       "date": "2026-03-30",
       "lat": 9.0209,
@@ -95,6 +108,45 @@
       "description": "Христианин Association Nigeria (CAN) has condemned убийство residents в Palm воскресенье атака в Jos North, плато штат, calling it unacceptable и demanding swift justice для those responsible. post Palm воскресенье убийства в Jos: ‘N",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/03/palm-sunday-killings-in-jos-nigeria-cant-keep-bleeding-like-this-can-2/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-30",
+      "lat": 9.0718,
+      "lng": 7.2562,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Dozens убит во время Palm воскресенье атаки в Nigeria",
+      "description": "Боевики убит least 30 люди во время Palm воскресенье атака в Ungwan Rukuba, community в Jos North Local правительство Area плато штат, Nigeria. incident occurred во время вечер, когда armed мужчины reportedly entered community и ope",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/30/dozens-killed-during-palm-sunday-attacks-in-nigeria/",
+      "victims": 30
+    },
+    {
+      "date": "2026-03-30",
+      "lat": 29.5796,
+      "lng": 52.7281,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Trump пастор says Iran war is 'spiritual obligation'",
+      "description": "One Donald Trump’s most vocal христианин supporters has justified Israeli-US военные strike на Iran.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/trump-pastor-says-iran-war-is-a-spiritual-obligation",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-30",
+      "lat": 29.1085,
+      "lng": 33.0524,
+      "country": "Egypt",
+      "city": "Sinai",
+      "type": "attack",
+      "title": "Why Do толпа атаки Happen в Egypt?",
+      "description": "В some parts Egypt, it can feel like every деревня is толпа атака waiting happen. Something as seemingly mundane as disagreement price eggs can быстро escalate в community-level нападение if one disputing sides is C",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/30/why-do-mob-attacks-happen-in-egypt/",
       "victims": 0
     },
     {
@@ -319,6 +371,19 @@
       "victims": 0
     },
     {
+      "date": "2026-03-28",
+      "lat": 36.2809,
+      "lng": 44.2267,
+      "country": "Iraq",
+      "city": "Erbil",
+      "type": "discrimination",
+      "title": "Bangladesh епископы say ‘no’ правительство financial support",
+      "description": "Bangladesh епископы say “no” правительство support, Seoul архиепископ urges defense life amid war, второй церковь built в Mosul после ИГИЛ, и more в на этой неделе’s roundup Catholic world news.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/bangladesh-bishops-say-no-to-government-financial-support",
+      "victims": 0
+    },
+    {
       "date": "2026-03-27",
       "lat": 43.9456,
       "lng": 87.6964,
@@ -447,6 +512,19 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/lawmakers-urge-trump-to-advocate-for-china-s-release-of-christian-pastor-at-upcoming-summit",
       "victims": 24
+    },
+    {
+      "date": "2026-03-27",
+      "lat": 24.8692,
+      "lng": 67.071,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "murder",
+      "title": "Pakistani христианин Dies после Alleged пытки",
+      "description": "22-год-old христианин was found погибшие farmhouse в Punjab, Pakistan. His семья claimed his смерть was made look like suicide после he endured пытки из his employers. Marqas Masih’s body was found на март 3, повешение из beam",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/27/pakistani-christian-dies-after-alleged-torture/",
+      "victims": 0
     },
     {
       "date": "2026-03-26",
@@ -6427,84 +6505,6 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/christian-teacher-shot-dead-in-syrian-sectarian-violence",
       "victims": 0
-    },
-    {
-      "date": "2026-02-27",
-      "lat": 28.6371,
-      "lng": 77.2449,
-      "country": "India",
-      "city": "Delhi",
-      "type": "murder",
-      "title": "Three Members of христианин Family in India убит",
-      "description": "In Nialijharan деревня in Odisha штат, India, Jitendra Soren’s family became the third family to convert to Christianity in the last year. When all but the eldest daughter converted, relatives warned them not to attend церковь or “face смерть.” Christ",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/02/27/three-members-of-christian-family-in-india-killed/",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-27",
-      "lat": 20.7958,
-      "lng": 85.2916,
-      "country": "India",
-      "city": "Odisha",
-      "type": "murder",
-      "title": "3 христиане убит in India",
-      "description": "The христиане were accused of practising black magic before their murders.",
-      "source": "newsapi:Christiantoday.com",
-      "url": "https://www.christiantoday.com/news/3-christians-murdered-in-india",
-      "victims": 3
-    },
-    {
-      "date": "2026-02-27",
-      "lat": 21.3662,
-      "lng": 81.8491,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "murder",
-      "title": "3 members of христианин family убит in India",
-      "description": "The христиане were accused of practising black magic before their murders.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/3-members-of-christian-family-murdered-in-india",
-      "victims": 3
-    },
-    {
-      "date": "2026-02-27",
-      "lat": 36.208,
-      "lng": 59.4086,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Iranian христианин leaders declare support for Reza Pahlavi",
-      "description": "Сотни of христианин leaders have come out in support of the exiled Crown Prince.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iranian-christian-leaders-declare-support-for-reza-pahlavi",
-      "victims": 150
-    },
-    {
-      "date": "2026-02-27",
-      "lat": 20.974,
-      "lng": 85.1599,
-      "country": "India",
-      "city": "Odisha",
-      "type": "murder",
-      "title": "Three Members of христианин Family in India убит",
-      "description": "In Nialijharan деревня in Odisha штат, India, Jitendra Soren’s family became the third family to convert to Christianity in the last year. When all but the eldest daughter converted, relatives warned them not to attend церковь or “face смерть.” Christ",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/02/27/three-members-of-christian-family-in-india-killed/",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-27",
-      "lat": 21.0969,
-      "lng": 82.1126,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "murder",
-      "title": "3 христиане убит in India",
-      "description": "The христиане were accused of practising black magic before their murders.",
-      "source": "newsapi:Christiantoday.com",
-      "url": "https://www.christiantoday.com/news/3-christians-murdered-in-india",
-      "victims": 3
     }
   ]
 }
