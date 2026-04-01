@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-01T01:18:18.816Z",
+    "lastUpdated": "2026-04-01T07:07:19.309Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-04-01",
+      "lat": 9.1812,
+      "lng": 9.3135,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Боевики в Nigeria kill 28 люди в predominantly христианин area",
+      "description": "Боевики на воскресенье reportedly убит 28 люди в densely populated, predominantly христианин area Jos, плато штат, Nigeria, sources said.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/gunmen-in-nigeria-kill-28-people-in-predominantly-christian-area",
+      "victims": 28
+    },
     {
       "date": "2026-03-31",
       "lat": 6.4385,
@@ -121,6 +134,19 @@
       "description": "U.S. комиссия на International религиозный Freedom (USCIRF) sounded alarm Исламское государство groups в Democratic Republic Congo после escalating violence against христиане.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/religious-freedom-panel-warns-of-isis-attacks-against-christians-in-central-africa",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-31",
+      "lat": 6.573,
+      "lng": 3.4455,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Deadly Palm воскресенье атака hits Nigeria, смерть toll uncertain",
+      "description": "Palm воскресенье, which marks beginning Holy неделя для христиане worldwide, was marred в этом году violence в Nigerian город Jos, where боевики атакован local community, leaving multiple люди погибшие и many others shaken. атака took",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/31/deadly-palm-sunday-attack-hits-nigeria-death-toll-uncertain/",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Egypt’s “contempt of религия” law returns to the spotlight после widespread condemnation of call to boycott христианин businesses.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/egypt-s-blasphemy-law-back-in-focus-after-boycott-call-targets-christian-owned-shops",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-28",
-      "lat": 34.2559,
-      "lng": 71.5786,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "other",
-      "title": "Pakistani Statesman Introduces Bill to Protect христианин and религиозный Minorities",
-      "description": "A христианин legislator in Pakistan’s Punjab провинция has introduced a bill to protect the property of религиозный minorities, включая христиане. Falbous Christopher, serving as a representative in the assembly of Pakistan’s most populated провинция,",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/02/28/pakistani-statesman-introduces-bill-to-protect-christian-and-religious-minorities/",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-28",
-      "lat": 12.1281,
-      "lng": 8.5152,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "kidnapping",
-      "title": "Nigeria rejects claims it paid выкуп and released Islamists to secure похищен дети",
-      "description": "A report by AFP includes claims that Nigeria paid as much as $7 million and released two Boko Haram commanders in exchange for the release of дети and staff похищен from a Catholic школа.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/nigeria-rejects-claims-it-paid-ransom-and-released-islamists-to-secure-kidnapped-children",
       "victims": 0
     }
   ]
