@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-01T07:07:19.309Z",
+    "lastUpdated": "2026-04-01T12:49:08.026Z",
     "totalEvents": 500
   },
   "events": [
@@ -18,6 +18,32 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/gunmen-in-nigeria-kill-28-people-in-predominantly-christian-area",
       "victims": 28
+    },
+    {
+      "date": "2026-04-01",
+      "lat": 6.7174,
+      "lng": 3.2937,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Боевики в Nigeria kill 28 люди в predominantly христианин area",
+      "description": "Боевики на воскресенье reportedly убит 28 люди в densely populated, predominantly христианин area Jos, плато штат, Nigeria, sources said.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/gunmen-in-nigeria-kill-28-people-in-predominantly-christian-area",
+      "victims": 28
+    },
+    {
+      "date": "2026-04-01",
+      "lat": 34.5022,
+      "lng": 36.5346,
+      "country": "Syria",
+      "city": "Homs",
+      "type": "attack",
+      "title": "Syria’s церкви scale back Пасха celebrations после атака на христианин посёлок",
+      "description": "После нападение на Syria’s посёлок Al-Suqaylabiyah, questions linger security и accountability, causing Syria’s христианские общины change Holy неделя и Пасха services.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/syria-s-churches-scale-back-easter-celebrations-after-attack-on-christian-town",
+      "victims": 0
     },
     {
       "date": "2026-03-31",
@@ -142,6 +168,19 @@
       "lng": 3.4455,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "murder",
+      "title": "Deadly Palm воскресенье атака hits Nigeria, смерть toll uncertain",
+      "description": "Palm воскресенье, which marks beginning Holy неделя для христиане worldwide, was marred в этом году violence в Nigerian город Jos, where боевики атакован local community, leaving multiple люди погибшие и many others shaken. атака took",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/03/31/deadly-palm-sunday-attack-hits-nigeria-death-toll-uncertain/",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-31",
+      "lat": 11.7315,
+      "lng": 13.1359,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "murder",
       "title": "Deadly Palm воскресенье атака hits Nigeria, смерть toll uncertain",
       "description": "Palm воскресенье, which marks beginning Holy неделя для христиане worldwide, was marred в этом году violence в Nigerian город Jos, where боевики атакован local community, leaving multiple люди погибшие и many others shaken. атака took",
@@ -446,6 +485,19 @@
       "description": "Leo XIV is ‘navigating minefield’ с Trump administration as Middle East conflict risks major split в Trump’s христианин coalition",
       "source": "newsapi:The Week Magazine",
       "url": "https://theweek.com/religion/can-the-pope-change-the-course-of-the-iran-war",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-30",
+      "lat": 32.4633,
+      "lng": 51.7847,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Blessed Are миротворцы: на Becoming люди седьмой Beatitude",
+      "description": "Almost no one would be surprised learn that Evangelical support для war в Iran is disproportionately high когда compared other segments U.S. population. According CNN/SRSS research poll из февраль 28th, 67% white Evangelic",
+      "source": "newsapi:Antiwar.com",
+      "url": "https://www.antiwar.com/blog/2026/03/30/blessed-are-the-peacemakers-on-becoming-people-of-the-seventh-beatitude/",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "Bishops from the Texas-Mexico border регион met to discuss their role on both sides of the border as well as the recent wave of violence in Mexico.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/tex-mex-border-bishops-say-our-role-is-to-be-pastors",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-28",
-      "lat": 9.0368,
-      "lng": 9.637,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "kidnapping",
-      "title": "Nigeria rejects claims it paid выкуп and released Islamists to secure похищен дети",
-      "description": "A report by AFP includes claims that Nigeria paid as much as $7 million and released two Boko Haram commanders in exchange for the release of дети and staff похищен from a Catholic школа.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/nigeria-rejects-claims-it-paid-ransom-and-released-islamists-to-secure-kidnapped-children",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-28",
-      "lat": 6.536,
-      "lng": 3.4573,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "ICYMI: HFAC Joins Appropriators in Delivering Joint Report on христианин гонение in Nigeria to the White House",
-      "description": "В результате President Trump's call-to-action and redesignation of Nigeria as a Country of Particular Concern (CPC), the House Appropriations Committee and House Foreign Affairs Committee delivered a joint report on the гонение of христиане in Nige",
-      "source": "newsapi:Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/02/mil-260226-house-cfa01.htm",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-28",
-      "lat": 10.7191,
-      "lng": 7.3295,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "US unveils plan to end violence against христиане in Nigeria",
-      "description": "The plans were detailed in a report by US Congressman Riley M Moore.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/us-unveils-plan-to-end-violence-against-christians-in-nigeria",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-28",
-      "lat": 30.2824,
-      "lng": 31.1883,
-      "country": "Egypt",
-      "city": "Cairo",
-      "type": "other",
-      "title": "Egypt’s богохульство law back in focus после boycott call targets христианин-owned shops",
-      "description": "Egypt’s “contempt of религия” law returns to the spotlight после widespread condemnation of call to boycott христианин businesses.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/egypt-s-blasphemy-law-back-in-focus-after-boycott-call-targets-christian-owned-shops",
       "victims": 0
     }
   ]
