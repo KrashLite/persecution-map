@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-02T01:08:38.320Z",
+    "lastUpdated": "2026-04-02T06:59:08.646Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-04-02",
+      "lat": 36.3428,
+      "lng": 59.3861,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Trump vows hit Iran 'extremely hard' amid Catholic calls для peace",
+      "description": "Президент Trump's первый address на Iran war signaled continued военные action, as Catholic leaders called для dialogue и ceasefire.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/trump-vows-to-hit-iran-extremely-hard-amid-catholic-calls-for-peace",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-02",
+      "lat": 34.569,
+      "lng": 36.6877,
+      "country": "Syria",
+      "city": "Homs",
+      "type": "other",
+      "title": "Пасха events cancelled в Syria после violence against христиане",
+      "description": "Syrian правительство силы were eventually able restore order.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/easter-events-cancelled-in-syria-after-violence-against-christians",
+      "victims": 0
+    },
     {
       "date": "2026-04-01",
       "lat": 9.1812,
@@ -90,6 +116,19 @@
       "lng": 12.9035,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "murder",
+      "title": "Боевики в Nigeria kill 28 люди в predominantly христианин area",
+      "description": "Боевики на воскресенье reportedly убит 28 люди в densely populated, predominantly христианин area Jos, плато штат, Nigeria, sources said.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/gunmen-in-nigeria-kill-28-people-in-predominantly-christian-area",
+      "victims": 28
+    },
+    {
+      "date": "2026-04-01",
+      "lat": 9.2342,
+      "lng": 7.594,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "murder",
       "title": "Боевики в Nigeria kill 28 люди в predominantly христианин area",
       "description": "Боевики на воскресенье reportedly убит 28 люди в densely populated, predominantly христианин area Jos, плато штат, Nigeria, sources said.",
@@ -272,6 +311,19 @@
       "lng": 13.3377,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "other",
+      "title": "Vatican чиновник warns ‘Christianophobia’ в мусульманин world и светский West",
+      "description": "Nigerian архиепископ said African миссионеры can evangelize Europe uneasy с its христианин past.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/vatican/vatican-official-warns-of-christianophobia-in-muslim-world-and-secular-west",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-31",
+      "lat": 6.5669,
+      "lng": 3.2464,
+      "country": "Nigeria",
+      "city": "Lagos",
       "type": "other",
       "title": "Vatican чиновник warns ‘Christianophobia’ в мусульманин world и светский West",
       "description": "Nigerian архиепископ said African миссионеры can evangelize Europe uneasy с its христианин past.",
@@ -6453,58 +6505,6 @@
       "source": "Мониторинг гонений",
       "url": "#",
       "victims": 17
-    },
-    {
-      "date": "2026-03-01",
-      "lat": 9.127,
-      "lng": 9.6412,
-      "country": "Nigeria",
-      "city": "Плато",
-      "type": "murder",
-      "title": "Вооружённые фулани убили 17 христиан в деревне",
-      "description": "Событие произошло 01.03.2026. Требуется дополнительное подтверждение.",
-      "source": "Мониторинг гонений",
-      "url": "#",
-      "victims": 17
-    },
-    {
-      "date": "2026-03-01",
-      "lat": 10.4011,
-      "lng": 7.2698,
-      "country": "Nigeria",
-      "city": "Кадуна",
-      "type": "kidnapping",
-      "title": "Боевики Боко Харам похитили 30 прихожан с воскресной службы",
-      "description": "Событие произошло 01.03.2026. Требуется дополнительное подтверждение.",
-      "source": "Мониторинг гонений",
-      "url": "#",
-      "victims": 30
-    },
-    {
-      "date": "2026-03-01",
-      "lat": 43.7789,
-      "lng": 87.7733,
-      "country": "China",
-      "city": "Синьцзян",
-      "type": "arrest",
-      "title": "Власти арестовали 45 пасторов домашних церквей",
-      "description": "Событие произошло 01.03.2026. Требуется дополнительное подтверждение.",
-      "source": "Мониторинг гонений",
-      "url": "#",
-      "victims": 45
-    },
-    {
-      "date": "2026-02-28",
-      "lat": 8.7483,
-      "lng": 8.0444,
-      "country": "Nigeria",
-      "city": "Абуджа",
-      "type": "attack",
-      "title": "Seven victims of plateau attacks get mass burial",
-      "description": "Seven victims of recent attacks in plateau state were given a mass burial in bassa lga as community leaders demand justice and an end to the violence. read more: https://punchng.com/seven-victims-of-plateau-attacks-get-mass-burial/",
-      "source": "The Punch",
-      "url": "https://punchng.com/seven-victims-of-plateau-attacks-get-mass-burial/",
-      "victims": 0
     }
   ]
 }
