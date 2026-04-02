@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-02T12:43:19.241Z",
+    "lastUpdated": "2026-04-02T18:40:02.974Z",
     "totalEvents": 500
   },
   "events": [
@@ -82,6 +82,32 @@
       "description": "Syrian правительство силы were eventually able restore order.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/easter-events-cancelled-in-syria-after-violence-against-christians",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-02",
+      "lat": 18.958,
+      "lng": 73.0148,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "other",
+      "title": "Indian суд reaffirms Dalit христиане have no right lower-caste protections",
+      "description": "India’s Catholic епископы are pushing back на Supreme суд ruling that reaffirmed христиане are excluded из constitutional protections для lower-caste communities.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/indian-court-reaffirms-dalit-christians-have-no-right-to-lower-caste-protections",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-02",
+      "lat": 29.375,
+      "lng": 52.4822,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Trump vows hit Iran ‘extremely hard’ amid Catholic calls для peace",
+      "description": "Президент Trump’s первый address на Iran war signaled continued военные action, as Catholic leaders called для dialogue и ceasefire.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/trump-vows-to-hit-iran-extremely-hard-amid-catholic-calls-for-peace",
       "victims": 0
     },
     {
@@ -746,6 +772,32 @@
       "source": "newsapi:Breitbart News",
       "url": "https://www.breitbart.com/africa/2026/03/30/palm-sunday-massacre-30-killed-as-gunmen-open-fire-in-nigeria/",
       "victims": 30
+    },
+    {
+      "date": "2026-03-30",
+      "lat": 6.3439,
+      "lng": 3.4239,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Palm воскресенье резня: 30 убит as 'боевики' Open Fire в Nigeria",
+      "description": "Unknown боевики opened fire \"indiscriminately\" в residential area Jos, плато штат, Nigeria на воскресенье ночь, убийство estimated 30 люди во время time в which джихадисты в country tend orchestrate резни against христиане. p",
+      "source": "newsapi:Breitbart News",
+      "url": "https://www.breitbart.com/africa/2026/03/30/palm-sunday-massacre-30-killed-as-gunmen-open-fire-in-nigeria/",
+      "victims": 30
+    },
+    {
+      "date": "2026-03-30",
+      "lat": 28.2991,
+      "lng": 30.6534,
+      "country": "Egypt",
+      "city": "Minya",
+      "type": "attack",
+      "title": "Why Do толпа атаки Happen в Egypt?",
+      "description": "В some parts Egypt, it can feel like every деревня is толпа атака waiting happen. Something as seemingly mundane as disagreement price eggs can быстро escalate в community-level нападение if one disputing sides is C",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/03/30/why-do-mob-attacks-happen-in-egypt/",
+      "victims": 0
     },
     {
       "date": "2026-03-29",
@@ -6447,58 +6499,6 @@
       "lng": 59.5706,
       "country": "Iran",
       "city": "Mashhad",
-      "type": "murder",
-      "title": "Христиане молящийся for Iran после смерть of Supreme Leader Khamenei",
-      "description": "An Open Doors expert on Iran said the смерть of Khamenei \"marks a significant and sobering moment in Iran’s history\".",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christians-praying-for-iran-after-death-of-supreme-leader-khamenei",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-02",
-      "lat": 32.4623,
-      "lng": 51.593,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Pope Leo XIV, the US-Iran war, and a forceful call in a Middle East on the brink of the abyss",
-      "description": "The reverberations are being felt most acutely by христианин minorities already living on fragile ground The post Pope Leo XIV, the US-Iran war, and a forceful call in a Middle East on the brink of the abyss appeared first on ZENIT - English.",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/03/02/pope-leo-xiv-the-us-iran-war-and-a-forceful-call-in-a-middle-east-on-the-brink-of-the-abyss/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-02",
-      "lat": 19.2765,
-      "lng": -98.9752,
-      "country": "Mexico",
-      "city": "Mexico City",
-      "type": "other",
-      "title": "Reverse migration: Catholic shelters in Mexico serve repatriated migrants and foreigners who remain",
-      "description": "While migration into Mexico from the south and from Mexico to the U.S. has significantly decreased, it hasn’t completely stopped, and challenges still remain for Catholic migrant shelters there.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/americas/reverse-migration-catholic-shelters-in-mexico-serve-repatriated-migrants-and-foreigners-who",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-02",
-      "lat": 4.2712,
-      "lng": 18.4822,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "arrest",
-      "title": "Brazilian священник осуждён of embezzling nearly 700 smart devices donated to his institute",
-      "description": "A суд found that Father Egídio de Carvalho Neto misappropriated 676 smartphones and tablets donated by the Federal Revenue Service when he was president of Instituto São José (Saint Joseph Institute).",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-americas/2026/03/brazilian-priest-convicted-of-embezzling-nearly-700-smart-devices-donated-to-his-institute/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-02",
-      "lat": 35.5411,
-      "lng": 51.14,
-      "country": "Iran",
-      "city": "Tehran",
       "type": "murder",
       "title": "Христиане молящийся for Iran после смерть of Supreme Leader Khamenei",
       "description": "An Open Doors expert on Iran said the смерть of Khamenei \"marks a significant and sobering moment in Iran’s history\".",
