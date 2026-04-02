@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-01T18:43:30.927Z",
+    "lastUpdated": "2026-04-02T01:08:38.320Z",
     "totalEvents": 500
   },
   "events": [
@@ -83,6 +83,19 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/syria-s-churches-scale-back-easter-celebrations-after-attack-on-christian-town",
       "victims": 0
+    },
+    {
+      "date": "2026-04-01",
+      "lat": 12.0057,
+      "lng": 12.9035,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "Боевики в Nigeria kill 28 люди в predominantly христианин area",
+      "description": "Боевики на воскресенье reportedly убит 28 люди в densely populated, predominantly христианин area Jos, плато штат, Nigeria, sources said.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/gunmen-in-nigeria-kill-28-people-in-predominantly-christian-area",
+      "victims": 28
     },
     {
       "date": "2026-03-31",
@@ -246,6 +259,19 @@
       "lng": 9.5879,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "other",
+      "title": "Vatican чиновник warns ‘Christianophobia’ в мусульманин world и светский West",
+      "description": "Nigerian архиепископ said African миссионеры can evangelize Europe uneasy с its христианин past.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/vatican/vatican-official-warns-of-christianophobia-in-muslim-world-and-secular-west",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-31",
+      "lat": 11.8697,
+      "lng": 13.3377,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "other",
       "title": "Vatican чиновник warns ‘Christianophobia’ в мусульманин world и светский West",
       "description": "Nigerian архиепископ said African миссионеры can evangelize Europe uneasy с its христианин past.",
@@ -592,6 +618,19 @@
       "victims": 0
     },
     {
+      "date": "2026-03-30",
+      "lat": 12.0597,
+      "lng": 8.7748,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Palm воскресенье резня: 30 убит as 'боевики' Open Fire в Nigeria",
+      "description": "Unknown боевики opened fire \"indiscriminately\" в residential area Jos, плато штат, Nigeria на воскресенье ночь, убийство estimated 30 люди во время time в which джихадисты в country tend orchestrate резни against христиане. p",
+      "source": "newsapi:Breitbart News",
+      "url": "https://www.breitbart.com/africa/2026/03/30/palm-sunday-massacre-30-killed-as-gunmen-open-fire-in-nigeria/",
+      "victims": 30
+    },
+    {
       "date": "2026-03-29",
       "lat": 35.4082,
       "lng": 44.4595,
@@ -745,6 +784,19 @@
       "description": "Пастор X - You don’t understand extreme version шиит ислам that is в обвинение here. It’s смерть культ...It has many committed followers high level look up в sky и say, “let взрыв come для me—its quick и paradise is waiting”.",
       "source": "newsapi:Freerepublic.com",
       "url": "https://freerepublic.com/focus/f-religion/4372693/posts",
+      "victims": 0
+    },
+    {
+      "date": "2026-03-29",
+      "lat": 36.4274,
+      "lng": 43.8823,
+      "country": "Iraq",
+      "city": "Erbil",
+      "type": "other",
+      "title": "Iraqi христиане told cancel Palm воскресенье и Пасха celebrations",
+      "description": "Palm воскресенье celebrations в Northern Iraq usually are big celebrations commemorate Jesus entering Jerusalem.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/iraqi-christians-told-to-cancel-palm-sunday-and-easter-celebrations",
       "victims": 0
     },
     {
@@ -6453,58 +6505,6 @@
       "source": "The Punch",
       "url": "https://punchng.com/seven-victims-of-plateau-attacks-get-mass-burial/",
       "victims": 0
-    },
-    {
-      "date": "2026-02-28",
-      "lat": 6.7343,
-      "lng": 4.0971,
-      "country": "Nigeria",
-      "city": "Лагос",
-      "type": "other",
-      "title": "Icymi: hfac joins appropriators in delivering joint report on христианин гонение in nigeria to the white house",
-      "description": "Following president trump's call-to-action and redesignation of nigeria as a country of particular concern (cpc), the house appropriations committee and house foreign affairs committee delivered a joint report on the гонение of христиане in nigeria t",
-      "source": "Globalsecurity.org",
-      "url": "https://www.globalsecurity.org/military/library/news/2026/02/mil-260226-house-cfa01.htm",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-28",
-      "lat": 11.2441,
-      "lng": 7.9128,
-      "country": "Nigeria",
-      "city": "Кадуна",
-      "type": "kidnapping",
-      "title": "Nigeria rejects claims it paid ransom and released islamists to secure похищено children",
-      "description": "A report by afp includes claims that nigeria paid as much as $7 million and released two boko haram commanders in exchange for the release of children and staff похищено from a catholic school.",
-      "source": "Christiantoday.com",
-      "url": "https://www.christiantoday.com/news/nigeria-rejects-claims-it-paid-ransom-and-released-islamists-to-secure-kidnapped-children",
-      "victims": 0
-    },
-    {
-      "date": "2026-02-28",
-      "lat": 10.5655,
-      "lng": 7.3709,
-      "country": "Nigeria",
-      "city": "Кадуна",
-      "type": "kidnapping",
-      "title": "Боевики Боко Харам похитили 30 прихожан с воскресной службы",
-      "description": "Событие произошло 28.02.2026. Требуется дополнительное подтверждение.",
-      "source": "Мониторинг гонений",
-      "url": "#",
-      "victims": 30
-    },
-    {
-      "date": "2026-02-28",
-      "lat": 21.1525,
-      "lng": 81.8726,
-      "country": "India",
-      "city": "Чхаттисгарх",
-      "type": "attack",
-      "title": "Индуистские радикалы напали на молитвенное собрание",
-      "description": "Событие произошло 28.02.2026. Требуется дополнительное подтверждение.",
-      "source": "Мониторинг гонений",
-      "url": "#",
-      "victims": 5
     }
   ]
 }
