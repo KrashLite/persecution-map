@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-02T06:59:08.646Z",
+    "lastUpdated": "2026-04-02T12:43:19.241Z",
     "totalEvents": 500
   },
   "events": [
@@ -25,6 +25,58 @@
       "lng": 36.6877,
       "country": "Syria",
       "city": "Homs",
+      "type": "other",
+      "title": "Пасха events cancelled в Syria после violence against христиане",
+      "description": "Syrian правительство силы were eventually able restore order.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/easter-events-cancelled-in-syria-after-violence-against-christians",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-02",
+      "lat": 4.4832,
+      "lng": 18.472,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "discrimination",
+      "title": "Кардинал Pizzaballa celebrates Christ’s гробница, doors закрыт",
+      "description": "Кардинал Pierbattista Pizzaballa celebrated Holy четверг месса inside церковь Holy Sepulchre behind закрыт doors, as tensions linked ongoing conflict continue affect daily life в город. Latin патриарх Jerusalem describ",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/04/02/cardinal-pizzaballa-celebrates-at-christs-tomb-doors-closed/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-02",
+      "lat": 32.4125,
+      "lng": 51.636,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Trump vows hit Iran 'extremely hard' amid Catholic calls для peace",
+      "description": "Президент Trump's первый address на Iran war signaled continued военные action, as Catholic leaders called для dialogue и ceasefire.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/trump-vows-to-hit-iran-extremely-hard-amid-catholic-calls-for-peace",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-02",
+      "lat": 24.0489,
+      "lng": 90.5039,
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "type": "discrimination",
+      "title": "‘God май clothe my heart с humility’: Monsignor marks 40 годы as священник",
+      "description": "Father Gabriel Corraya Dhaka, newly elevated title monsignor папа Leo XIV, reflects на priesthood, humility, и service as католическая церковь в Bangladesh marks Holy четверг.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/god-may-clothe-my-heart-with-humility-monsignor-marks-40-years-as-a-priest",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-02",
+      "lat": 36.2479,
+      "lng": 37.261,
+      "country": "Syria",
+      "city": "Aleppo",
       "type": "other",
       "title": "Пасха events cancelled в Syria после violence against христиане",
       "description": "Syrian правительство силы were eventually able restore order.",
@@ -135,6 +187,19 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/gunmen-in-nigeria-kill-28-people-in-predominantly-christian-area",
       "victims": 28
+    },
+    {
+      "date": "2026-04-01",
+      "lat": 35.9554,
+      "lng": 37.1549,
+      "country": "Syria",
+      "city": "Aleppo",
+      "type": "attack",
+      "title": "Syria’s церкви scale back Пасха celebrations после атака на христианин посёлок",
+      "description": "После нападение на Syria’s посёлок Al-Suqaylabiyah, questions linger security и accountability, causing Syria’s христианские общины change Holy неделя и Пасха services.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/syria-s-churches-scale-back-easter-celebrations-after-attack-on-christian-town",
+      "victims": 0
     },
     {
       "date": "2026-03-31",
@@ -6440,71 +6505,6 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/christians-praying-for-iran-after-death-of-supreme-leader-khamenei",
       "victims": 0
-    },
-    {
-      "date": "2026-03-02",
-      "lat": 36.3767,
-      "lng": 59.6324,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Pope Leo XIV, the US-Iran war, and a forceful call in a Middle East on the brink of the abyss",
-      "description": "The reverberations are being felt most acutely by христианин minorities already living on fragile ground The post Pope Leo XIV, the US-Iran war, and a forceful call in a Middle East on the brink of the abyss appeared first on ZENIT - English.",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/03/02/pope-leo-xiv-the-us-iran-war-and-a-forceful-call-in-a-middle-east-on-the-brink-of-the-abyss/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-02",
-      "lat": 32.7682,
-      "lng": 51.8626,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "murder",
-      "title": "Христиане молящийся for Iran после смерть of Supreme Leader Khamenei",
-      "description": "An Open Doors expert on Iran said the смерть of Khamenei \"marks a significant and sobering moment in Iran’s history\".",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christians-praying-for-iran-after-death-of-supreme-leader-khamenei",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-02",
-      "lat": 35.5897,
-      "lng": 51.3181,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Pope Leo XIV, the US-Iran war, and a forceful call in a Middle East on the brink of the abyss",
-      "description": "The reverberations are being felt most acutely by христианин minorities already living on fragile ground The post Pope Leo XIV, the US-Iran war, and a forceful call in a Middle East on the brink of the abyss appeared first on ZENIT - English.",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/03/02/pope-leo-xiv-the-us-iran-war-and-a-forceful-call-in-a-middle-east-on-the-brink-of-the-abyss/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-02",
-      "lat": 29.5775,
-      "lng": 52.8099,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "murder",
-      "title": "Христиане молящийся for Iran после смерть of Supreme Leader Khamenei",
-      "description": "An Open Doors expert on Iran said the смерть of Khamenei \"marks a significant and sobering moment in Iran’s history\".",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christians-praying-for-iran-after-death-of-supreme-leader-khamenei",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-01",
-      "lat": 9.363,
-      "lng": 9.5451,
-      "country": "Nigeria",
-      "city": "Плато",
-      "type": "murder",
-      "title": "Вооруженные фулани зарезали 17 христиан в деревне",
-      "description": "Событие произошло 01.03.2026. Требуется дополнительное подтверждение.",
-      "source": "Мониторинг гонений",
-      "url": "#",
-      "victims": 17
     }
   ]
 }
