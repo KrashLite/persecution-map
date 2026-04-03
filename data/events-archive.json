@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-02T18:40:02.974Z",
+    "lastUpdated": "2026-04-03T01:10:49.921Z",
     "totalEvents": 500
   },
   "events": [
@@ -108,6 +108,45 @@
       "description": "Президент Trump’s первый address на Iran war signaled continued военные action, as Catholic leaders called для dialogue и ceasefire.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/trump-vows-to-hit-iran-extremely-hard-amid-catholic-calls-for-peace",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-02",
+      "lat": 28.7361,
+      "lng": 77.0881,
+      "country": "India",
+      "city": "Delhi",
+      "type": "other",
+      "title": "Indian суд reaffirms Dalit христиане have no right lower-caste protections",
+      "description": "India’s Catholic епископы are pushing back на Supreme суд ruling that reaffirmed христиане are excluded из constitutional protections для lower-caste communities.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/indian-court-reaffirms-dalit-christians-have-no-right-to-lower-caste-protections",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-02",
+      "lat": 35.7802,
+      "lng": 51.2548,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "Trump vows hit Iran ‘extremely hard’ amid Catholic calls для peace",
+      "description": "Президент Trump’s первый address на Iran war signaled continued военные action, as Catholic leaders called для dialogue и ceasefire.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/trump-vows-to-hit-iran-extremely-hard-amid-catholic-calls-for-peace",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-02",
+      "lat": 26.9994,
+      "lng": 80.8352,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "discrimination",
+      "title": "India Further Restricts Funding Foreign NGOs",
+      "description": "India’s христианская община says federal amendments law на foreign funding give правительство excessive power organizations tied minority религии. They termed amendments as “draconian” и “constitutionally suspect.” Foreign",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/02/india-further-restricts-funding-of-foreign-ngos/",
       "victims": 0
     },
     {
@@ -225,6 +264,32 @@
       "description": "После нападение на Syria’s посёлок Al-Suqaylabiyah, questions linger security и accountability, causing Syria’s христианские общины change Holy неделя и Пасха services.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/syria-s-churches-scale-back-easter-celebrations-after-attack-on-christian-town",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-01",
+      "lat": 11.9398,
+      "lng": 8.7327,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Nigeria's христиане на edge для Пасха после Palm воскресенье резня",
+      "description": "Nigeria, ranked седьмой-worst в world для христианин гонение, saw reported 28 убит на Palm воскресенье, с fears христиане could be targeted this Пасха.",
+      "source": "newsapi:Fox News",
+      "url": "https://www.foxnews.com/world/nigerias-christians-edge-easter-after-palm-sunday-massacre",
+      "victims": 28
+    },
+    {
+      "date": "2026-04-01",
+      "lat": 12.0554,
+      "lng": 8.7787,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "US congressman warns direct role if FG fails curb убийства",
+      "description": "US congressman warns direct intervention в Nigeria security crisis if правительство fails curb ongoing убийства, especially христиане. Read More: https://punchng.com/us-congressman-warns--direct-role-if-fg-fails--curb-убийства/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-congressman-warns-of-direct-role-if-fg-fails-to-curb-killings/",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "Airstrikes on the Iranian capital, Tehran, and other major cities have raised serious concerns about the country’s христианин communities as well as those in the wider регион.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/as-iran-war-widens-eastern-christians-face-growing-uncertainty",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-03",
-      "lat": 36.2742,
-      "lng": 59.6735,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Iraqi archbishop laments spread of Iranian conflict, communication barrier with Tehran archbishop",
-      "description": "Archbishop Bashar Matti Warda of Erbil, Iraq, shared the situation on the ground for the Iraqi христианин community with “EWTN News Nightly” as the prospect of broader regional war looms.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/iraqi-archbishop-laments-spread-of-iran-conflict-communication-barrier-with-tehran-s-archbishop",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-03",
-      "lat": 35.4521,
-      "lng": 51.5966,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Iraqi archbishop laments spread of Iranian conflict, communication barrier with Tehran archbishop",
-      "description": "Archbishop Bashar Matti Warda of Erbil, Iraq, shared the situation on the ground for the Iraqi христианин community with “EWTN News Nightly” as the prospect of broader regional war looms.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/iraqi-archbishop-laments-spread-of-iran-conflict-communication-barrier-with-tehran-s-archbishop",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-02",
-      "lat": 9.3143,
-      "lng": 9.5507,
-      "country": "Nigeria",
-      "city": "Плато",
-      "type": "murder",
-      "title": "Вооружённые фулани убили 17 христиан в деревне",
-      "description": "Событие произошло 02.03.2026. Требуется дополнительное подтверждение.",
-      "source": "Мониторинг гонений",
-      "url": "#",
-      "victims": 17
-    },
-    {
-      "date": "2026-03-02",
-      "lat": 21.4118,
-      "lng": 81.9097,
-      "country": "India",
-      "city": "Чхаттисгарх",
-      "type": "attack",
-      "title": "Индуистские радикалы напали на молитвенное собрание",
-      "description": "Событие произошло 02.03.2026. Требуется дополнительное подтверждение.",
-      "source": "Мониторинг гонений",
-      "url": "#",
-      "victims": 5
-    },
-    {
-      "date": "2026-03-02",
-      "lat": 36.3829,
-      "lng": 59.5706,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "murder",
-      "title": "Христиане молящийся for Iran после смерть of Supreme Leader Khamenei",
-      "description": "An Open Doors expert on Iran said the смерть of Khamenei \"marks a significant and sobering moment in Iran’s history\".",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christians-praying-for-iran-after-death-of-supreme-leader-khamenei",
       "victims": 0
     }
   ]
