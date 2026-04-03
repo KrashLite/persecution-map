@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-03T06:56:13.091Z",
+    "lastUpdated": "2026-04-03T12:36:52.569Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-04-03",
+      "lat": 32.4549,
+      "lng": 51.4349,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Philippines церковь mobilizes support для migrant workers hit war, oil crisis",
+      "description": "Filipino епископы have urged Catholic dioceses в Philippines support overseas workers, migrants, и their семьи back home amid economic crisis following war с Iran.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/philippines-church-mobilizes-support-for-migrant-workers-hit-by-war-oil-crisis",
+      "victims": 0
+    },
     {
       "date": "2026-04-02",
       "lat": 36.3428,
@@ -199,6 +212,19 @@
       "description": "Syrian правительство силы were eventually able restore order.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/easter-events-cancelled-in-syria-after-violence-against-christians",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-02",
+      "lat": 26.7158,
+      "lng": 80.9603,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "other",
+      "title": "Indian суд reaffirms Dalit христиане have no right lower-caste protections",
+      "description": "India’s Catholic епископы are pushing back на Supreme суд ruling that reaffirmed христиане are excluded из constitutional protections для lower-caste communities.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/indian-court-reaffirms-dalit-christians-have-no-right-to-lower-caste-protections",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "The letters, disclosed last week by journalist Laura Sánchez Ley, were sent to Judge Beryl A. Howell of the район of Columbia in 2021 and 2025.",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-the-americas/2026/03/cardinal-says-priest-who-sent-favorable-letters-to-u-s-judge-about-el-menchos-children-messed-up/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-03",
-      "lat": 36.4425,
-      "lng": 59.7709,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Justice is 'being delivered', say Iranian христиане",
-      "description": "A global network of Iranian христиане has welcomed targeted strikes against Iran’s leadership by the US and Israel.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/justice-is-being-delivered-say-iranian-christians",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-03",
-      "lat": 35.8918,
-      "lng": 51.148,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "As Iran war widens, Eastern христиане face growing uncertainty",
-      "description": "Airstrikes on the Iranian capital, Tehran, and other major cities have raised serious concerns about the country’s христианин communities as well as those in the wider регион.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/as-iran-war-widens-eastern-christians-face-growing-uncertainty",
       "victims": 0
     }
   ]
