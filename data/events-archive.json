@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-03T18:31:31.496Z",
+    "lastUpdated": "2026-04-04T01:05:10.553Z",
     "totalEvents": 500
   },
   "events": [
@@ -95,6 +95,32 @@
       "description": "Ukrainian епископы issues warning о war, христианин посёлок в Lebanon mourns father и son, Cameroon prepares для папа Leo XIV’s visit, и more в на этой неделе’s Catholic world news roundup.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/europe/ukraine-bishop-war-could-spread-to-countries-that-never-imagined-it-reaching-them",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-03",
+      "lat": 11.6307,
+      "lng": 12.9588,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "CFRA urges hope, justice Пасха amid rising insecurity",
+      "description": "Христианская вера Reporters Association (CFRA) has called для renewed commitment peace, justice, и national unity as христиане в Nigeria join others worldwide celebrate Пасха. в Пасха message signed вчера its президент, Adeol",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/04/cfra-urges-hope-justice-at-easter-amid-rising-insecurity/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-03",
+      "lat": 29.7614,
+      "lng": 52.521,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Philippines церковь mobilizes support для migrant workers hit war, oil crisis",
+      "description": "Filipino епископы have urged Catholic dioceses в Philippines support overseas workers, migrants, и their семьи back home amid economic crisis following war с Iran.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/philippines-church-mobilizes-support-for-migrant-workers-hit-by-war-oil-crisis",
       "victims": 0
     },
     {
@@ -345,6 +371,32 @@
       "victims": 0
     },
     {
+      "date": "2026-04-02",
+      "lat": 29.8036,
+      "lng": 52.7467,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "attack",
+      "title": "Христианин Nationalists в US правительство Push атаки на Iran as Holy War",
+      "description": "С Pete Hegseth leading департамент Defense, line separating церковь и штат is increasingly blurred.",
+      "source": "newsapi:Truthout",
+      "url": "https://truthout.org/articles/christian-nationalists-in-us-government-push-attacks-on-iran-as-holy-war/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-02",
+      "lat": 31.4512,
+      "lng": 121.6629,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "murder",
+      "title": "Kamikaze из Mar--Lago: Despite all смерть и разрушение, it's Advantage Iran",
+      "description": "Iran war: Tehran had capacity set регион alight и squeeze global economy. сейчас even more so после годы preparation и Chinese help. Trump is finding out hard way, as is Pete Hegseth, his secretary war и hardcore Christia",
+      "source": "newsapi:The Times of India",
+      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/kamikaze-from-mar-a-lago-despite-all-the-death-and-destruction-its-advantage-iran/articleshow/129985869.cms",
+      "victims": 0
+    },
+    {
       "date": "2026-04-01",
       "lat": 9.1812,
       "lng": 9.3135,
@@ -545,6 +597,19 @@
       "lng": 7.4168,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "other",
+      "title": "US congressman warns direct role if FG fails curb убийства",
+      "description": "US congressman warns direct intervention в Nigeria security crisis if правительство fails curb ongoing убийства, especially христиане. Read More: https://punchng.com/us-congressman-warns--direct-role-if-fg-fails--curb-убийства/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-congressman-warns-of-direct-role-if-fg-fails-to-curb-killings/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-01",
+      "lat": 11.6994,
+      "lng": 13.2929,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "other",
       "title": "US congressman warns direct role if FG fails curb убийства",
       "description": "US congressman warns direct intervention в Nigeria security crisis if правительство fails curb ongoing убийства, especially христиане. Read More: https://punchng.com/us-congressman-warns--direct-role-if-fg-fails--curb-убийства/",
@@ -6439,71 +6504,6 @@
       "description": "The U.S. and Israeli strikes on Iran brought major conflict to the Middle East and sent христианин pilgrims scrambling for safe harbor there.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/two-hours-to-pack-up-how-the-iranian-conflict-has-upended-catholic-pilgrimages-in-the-region",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-04",
-      "lat": 23.5903,
-      "lng": 113.6124,
-      "country": "China",
-      "city": "Guangdong",
-      "type": "other",
-      "title": "Chinese Leaders Gather in Beijing Hoping World Ignores гонение",
-      "description": "China’s National люди’s Congress — a nearly 3,000-member legislative body that would be unwieldy if not for its near-unanimous voting record — is set to meet Thursday to kick off this year’s legislative session and unveil the country’s policy prior",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/04/chinese-leaders-gather-in-beijing-hoping-world-ignores-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-04",
-      "lat": 33.1782,
-      "lng": 44.35,
-      "country": "Iraq",
-      "city": "Baghdad",
-      "type": "other",
-      "title": "Amid rising anxiety in Erbil, Catholic bishops say молитва, dialogue are path to peace",
-      "description": "Catholic leaders in Iraq are calling for молитва and peace talks as the country faces repercussions from the widening war in the Middle East.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/amid-rising-anxiety-in-erbil-catholic-bishops-say-prayer-dialogue-are-path-to-peace",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-04",
-      "lat": 32.5535,
-      "lng": 51.5079,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "murder",
-      "title": "Settlers exploit war in Iran to commit new acts of violence in the West Bank",
-      "description": "Two Palestinian brothers were застрелен погибшие in a рейд in Qaryut, south of Nablus. New нападения and assaults also in the христианин деревня of Taybeh. Fr Bashar: not isolated incidents, but a ‘growing pattern of violence’ that raises “concerns”. Barriers an",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/03/04/settlers-exploit-war-in-iran-to-commit-new-acts-of-violence-in-the-west-bank/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-04",
-      "lat": 43.7845,
-      "lng": 87.701,
-      "country": "China",
-      "city": "Xinjiang",
-      "type": "other",
-      "title": "Chinese Leaders Gather in Beijing Hoping World Ignores гонение",
-      "description": "China’s National люди’s Congress — a nearly 3,000-member legislative body that would be unwieldy if not for its near-unanimous voting record — is set to meet Thursday to kick off this year’s legislative session and unveil the country’s policy prior",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/04/chinese-leaders-gather-in-beijing-hoping-world-ignores-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-04",
-      "lat": 36.5771,
-      "lng": 43.2496,
-      "country": "Iraq",
-      "city": "Mosul",
-      "type": "other",
-      "title": "Amid rising anxiety in Erbil, Catholic bishops say молитва, dialogue are path to peace",
-      "description": "Catholic leaders in Iraq are calling for молитва and peace talks as the country faces repercussions from the widening war in the Middle East.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/amid-rising-anxiety-in-erbil-catholic-bishops-say-prayer-dialogue-are-path-to-peace",
       "victims": 0
     }
   ]
