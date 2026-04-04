@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-04T06:45:24.064Z",
+    "lastUpdated": "2026-04-04T12:29:13.633Z",
     "totalEvents": 500
   },
   "events": [
@@ -25,6 +25,45 @@
       "lng": 85.0183,
       "country": "India",
       "city": "Odisha",
+      "type": "other",
+      "title": "Indian христиане denounces crackdown на property",
+      "description": "There has been alleged crackdown на христианин buildings providing services для most vulnerable в society.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/indian-christians-denounces-crackdown-on-property",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-04",
+      "lat": 9.2505,
+      "lng": 7.7195,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Боко Харам kills 10 христиане в northeast Nigeria",
+      "description": "Members исламский экстремист group Боко Харам на понедельник убит least 10 христиане в атака на деревня в Borno штат, Nigeria, sources said.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/boko-haram-kills-10-christians-in-northeast-nigeria",
+      "victims": 10
+    },
+    {
+      "date": "2026-04-04",
+      "lat": 29.7015,
+      "lng": 52.748,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Военные архиепископ says Iran war fails “just war” criteria",
+      "description": "Архиепископ responsible для Catholic министерство U.S. service members has publicly questioned whether American war с Iran could meet moral standards Catholic teaching, pointing instead diplomacy. Speaking апрель 2 на CBS News’ Face",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/04/04/military-archbishop-says-iran-war-fails-just-war-criteria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-04",
+      "lat": 28.4842,
+      "lng": 76.9292,
+      "country": "India",
+      "city": "Delhi",
       "type": "other",
       "title": "Indian христиане denounces crackdown на property",
       "description": "There has been alleged crackdown на христианин buildings providing services для most vulnerable в society.",
@@ -436,6 +475,32 @@
       "victims": 0
     },
     {
+      "date": "2026-04-02",
+      "lat": 36.398,
+      "lng": 59.782,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Trump vows hit Iran ‘extremely hard’ amid Catholic calls для peace",
+      "description": "Президент Trump’s первый address на Iran war signaled continued военные action, as Catholic leaders called для dialogue и ceasefire.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/trump-vows-to-hit-iran-extremely-hard-amid-catholic-calls-for-peace",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-02",
+      "lat": 23.1496,
+      "lng": 113.7887,
+      "country": "China",
+      "city": "Guangdong",
+      "type": "murder",
+      "title": "Kamikaze из Mar--Lago: Despite all смерть и разрушение, it's Advantage Iran",
+      "description": "Iran war: Tehran had capacity set регион alight и squeeze global economy. сейчас even more so после годы preparation и Chinese help. Trump is finding out hard way, as is Pete Hegseth, his secretary war и hardcore Christia",
+      "source": "newsapi:The Times of India",
+      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/kamikaze-from-mar-a-lago-despite-all-the-death-and-destruction-its-advantage-iran/articleshow/129985869.cms",
+      "victims": 0
+    },
+    {
       "date": "2026-04-01",
       "lat": 9.1812,
       "lng": 9.3135,
@@ -681,6 +746,19 @@
       "source": "newsapi:The Punch",
       "url": "https://punchng.com/us-congressman-warns-of-direct-role-if-fg-fails-to-curb-killings/",
       "victims": 0
+    },
+    {
+      "date": "2026-04-01",
+      "lat": 9.2076,
+      "lng": 9.4935,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Nigeria's христиане на edge для Пасха после Palm воскресенье резня",
+      "description": "Nigeria, ranked седьмой-worst в world для христианин гонение, saw reported 28 убит на Palm воскресенье, с fears христиане could be targeted this Пасха.",
+      "source": "newsapi:Fox News",
+      "url": "https://www.foxnews.com/world/nigerias-christians-edge-easter-after-palm-sunday-massacre",
+      "victims": 28
     },
     {
       "date": "2026-03-31",
@@ -6426,84 +6504,6 @@
       "description": "A толпа of индус nationalists in central India атакован a христианин family после the family отказано to deny Christ. The incident occurred on Feb. 26 in the деревня of Erramangi in Chhattisgarh’s Bijapur район. The family lost their home and their be",
       "source": "persecution",
       "url": "https://persecution.org/2026/03/05/christian-family-brutally-attacked-in-central-india/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-05",
-      "lat": 19.2414,
-      "lng": 72.8304,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "attack",
-      "title": "Tending to the ранен on the Frontlines",
-      "description": "On Sunday, Jan. 18, пастор Jagadish Mishra prepared to lead a богослужение service at his home in Odisha, India, with his wife and their 8-year-old daughter. With nearly 30 христиане present, a толпа of 50 angry индус nationalists штурмован into the пастор’s",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/05/tending-to-the-wounded-on-the-frontlines/",
-      "victims": 30
-    },
-    {
-      "date": "2026-03-05",
-      "lat": 36.362,
-      "lng": 59.8106,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Catholic theologians urge Trump to follow just war doctrine as Iran conflict continues",
-      "description": "War is justified only to confront grave evil, its harm must not exceed the evil it seeks to end, and there must be a real chance of success, with all alternatives to war exhausted, the catechism says.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/iran-just-war",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-05",
-      "lat": 28.477,
-      "lng": 77.0279,
-      "country": "India",
-      "city": "Delhi",
-      "type": "discrimination",
-      "title": "Asian Catholics begin spiritual, logistical preparations for World Youth Day Seoul 2027",
-      "description": "Церковь leaders in Bangladesh and India say visa hurdles and financial constraints are среди the biggest challenges facing young pilgrims hoping to attend the August 2027 gathering.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/asian-catholics-begin-spiritual-logistical-preparations-for-wyd-seoul-2027",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-04",
-      "lat": 9.2101,
-      "lng": 9.4581,
-      "country": "Nigeria",
-      "city": "Плато",
-      "type": "murder",
-      "title": "Вооружённые фулани убили 17 христиан в деревне",
-      "description": "Событие произошло 04.03.2026. Требуется дополнительное подтверждение.",
-      "source": "Мониторинг гонений",
-      "url": "#",
-      "victims": 17
-    },
-    {
-      "date": "2026-03-04",
-      "lat": 15.4308,
-      "lng": 44.0199,
-      "country": "Yemen",
-      "city": "Sanaa",
-      "type": "murder",
-      "title": "Martyr-nuns убит in Yemen 10 years ago ‘source of hope’",
-      "description": "March 4 is the 10th anniversary of the смерть of four Missionaries of Charity, who were убит in a terrorist нападение at a nursing home in Yemen. At the time, Pope Francis mourned their смерть and held them up as martyrs: “These are the martyrs of сегодня",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/03/04/martyr-nuns-killed-in-yemen-10-years-ago-source-of-hope/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-04",
-      "lat": 32.8969,
-      "lng": 51.8978,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "‘2 hours to pack up’: How the Iranian conflict has upended Catholic pilgrimages in the регион",
-      "description": "The U.S. and Israeli strikes on Iran brought major conflict to the Middle East and sent христианин pilgrims scrambling for safe harbor there.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/two-hours-to-pack-up-how-the-iranian-conflict-has-upended-catholic-pilgrimages-in-the-region",
       "victims": 0
     }
   ]
