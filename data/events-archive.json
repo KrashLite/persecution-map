@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-05T01:13:22.883Z",
+    "lastUpdated": "2026-04-05T06:53:39.128Z",
     "totalEvents": 500
   },
   "events": [
@@ -12,6 +12,19 @@
       "lng": 8.7644,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "other",
+      "title": "Пасха: Let celebration inspire hope для better Nigeria — Obi tells citizens",
+      "description": "As христиане across country commemorate resurrection Jesus Christ, former Anambra штат губернатор Peter Obi has urged Nigerians remain hopeful и steadfast despite nation’s prevailing economic и governance испытания. post Ea",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/04/easter-let-celebration-inspire-hope-for-better-nigeria-obi-tells-citizens/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-05",
+      "lat": 9.1148,
+      "lng": 7.4551,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "other",
       "title": "Пасха: Let celebration inspire hope для better Nigeria — Obi tells citizens",
       "description": "As христиане across country commemorate resurrection Jesus Christ, former Anambra штат губернатор Peter Obi has urged Nigerians remain hopeful и steadfast despite nation’s prevailing economic и governance испытания. post Ea",
@@ -215,6 +228,19 @@
       "victims": 0
     },
     {
+      "date": "2026-04-04",
+      "lat": 28.8102,
+      "lng": 76.8606,
+      "country": "India",
+      "city": "Delhi",
+      "type": "other",
+      "title": "Protests, criticism из церковь leaders сила Indian правительство delay bill на foreign donations",
+      "description": "Правительство’s backing-off из amendment Foreign Contribution Regulation Act was незамедлительно welcomed Catholic епископы Conference India.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/protests-criticisms-from-church-leaders-force-indian-government-to-delay-bill-on-foreign",
+      "victims": 0
+    },
+    {
       "date": "2026-04-03",
       "lat": 32.4549,
       "lng": 51.4349,
@@ -381,6 +407,19 @@
       "description": "Военные архиепископ told Catholic troops “do as little harm as you can” — и rebuked Pete Hegseth’s invocation Jesus из Pentagon press room. interview airs Пасха утро на CBS.",
       "source": "newsapi:Thelettersfromleo.com",
       "url": "https://www.thelettersfromleo.com/p/not-sponsored-by-the-lord-military",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-03",
+      "lat": 36.2948,
+      "lng": 59.8252,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Philippines церковь mobilizes support для migrant workers hit war, oil crisis",
+      "description": "Filipino епископы have urged Catholic dioceses в Philippines support overseas workers, migrants, и their семьи back home amid economic crisis following war с Iran.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/philippines-church-mobilizes-support-for-migrant-workers-hit-by-war-oil-crisis",
       "victims": 0
     },
     {
@@ -6460,45 +6499,6 @@
       "lng": 59.4414,
       "country": "Iran",
       "city": "Mashhad",
-      "type": "attack",
-      "title": "War in the Middle East: Chapel and церковь buildings атакован in Iraq",
-      "description": "The war between Israel and the United States against Iran, which has been inflaming the Middle East for days, from the Arab Gulf nations to Turkey (and Cyprus, in Europe), also affects Iraqi христиане who fear further progression into a “critical an",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/03/06/war-in-the-middle-east-chapel-and-church-buildings-attacked-in-iraq/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-06",
-      "lat": 8.981,
-      "lng": 7.4006,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Пастухи Responsible for христианин резня Put on суд",
-      "description": "This February, nine фулани пастухи went on суд for their role in organizing the June 2025 Benue резня, which убит more than 270 христиане. The judge of the Federal High суд in Abuja brought 57 counts against them. The leader of the group,",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/06/herdsmen-responsible-for-christian-massacre-put-on-trial/",
-      "victims": 270
-    },
-    {
-      "date": "2026-03-06",
-      "lat": 29.7643,
-      "lng": 52.3388,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "attack",
-      "title": "War in the Middle East: Chapel and церковь buildings атакован in Iraq",
-      "description": "The war between Israel and the United States against Iran, which has been inflaming the Middle East for days, from the Arab Gulf nations to Turkey (and Cyprus, in Europe), also affects Iraqi христиане who fear further progression into a “critical an",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/03/06/war-in-the-middle-east-chapel-and-church-buildings-attacked-in-iraq/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-06",
-      "lat": 35.8684,
-      "lng": 51.615,
-      "country": "Iran",
-      "city": "Tehran",
       "type": "attack",
       "title": "War in the Middle East: Chapel and церковь buildings атакован in Iraq",
       "description": "The war between Israel and the United States against Iran, which has been inflaming the Middle East for days, from the Arab Gulf nations to Turkey (and Cyprus, in Europe), also affects Iraqi христиане who fear further progression into a “critical an",
