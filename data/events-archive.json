@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-06T07:16:05.936Z",
+    "lastUpdated": "2026-04-06T12:42:43.237Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,58 @@
       "description": "Lagos пастор и his wife were арестован NDLEA operatives после 11kg skunk was found hidden в their vehicle Seme border контрольно-пропускной пункт. Read More: https://punchng.com/lagos-пастор-wife-nabbed-с-illicit-drugs/",
       "source": "punchng",
       "url": "https://punchng.com/lagos-pastor-wife-nabbed-with-illicit-drugs/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-06",
+      "lat": 10.6357,
+      "lng": 7.4,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "kidnapping",
+      "title": "Kaduna community denies rescue 31 похищен прихожане",
+      "description": "Kaduna community group has отказано reports that 31 похищен прихожане were rescued, stating all жертвы из Пасха атака remain в плен. Read More: https://punchng.com/kaduna-community-denies-rescue--31-похищен-прихожане/",
+      "source": "punchng",
+      "url": "https://punchng.com/kaduna-community-denies-rescue-of-31-abducted-worshippers/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-06",
+      "lat": 11.8959,
+      "lng": 13.1196,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "kidnapping",
+      "title": "Kaduna community denies rescue 31 похищен прихожане",
+      "description": "He disclosed that семьи жертвы are still в communication с abductors, who have reportedly confirmed that жертвы remain alive в плен. post Kaduna community denies rescue 31 похищен прихожане appeared первый на Va",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/04/kaduna-community-denies-rescue-of-31-abducted-worshippers/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-06",
+      "lat": 8.8697,
+      "lng": 7.5414,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Пасха: Yilwatda urges Nigerians remain hopeful, pray для nation",
+      "description": "He described Пасха as cornerstone христианская вера и сезон that reminded верующие redemptive sacrifice, смерть, и resurrection Jesus Christ. post Пасха: Yilwatda urges Nigerians remain hopeful, pray для nation appe",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/04/easter-yilwatda-urges-nigerians-to-remain-hopeful-pray-for-nation/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-06",
+      "lat": 11.783,
+      "lng": 13.1055,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "VIDEO: Actress Sunshine Rosman laments insecurity, economic лишения",
+      "description": "Nollywood actress Sunshine Rosman expresses deep frustration rising insecurity, economic испытания, и убийства христиане в Northern Nigeria. Read More: https://punchng.com/video-actress-sunshine-rosman-laments-insecurity-economic-hardsh",
+      "source": "punchng",
+      "url": "https://punchng.com/video-actress-sunshine-rosman-laments-insecurity-economic-hardship/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     },
     {
@@ -220,6 +272,19 @@
       "lng": 43.8626,
       "country": "Iraq",
       "city": "Erbil",
+      "type": "other",
+      "title": "New Iraq report urges stronger action protect христиане и other религиозный minorities",
+      "description": "Jim Shannon MP said report records both “ progress observed” и “ ongoing испытания” that remain для религиозный minorities seeking live в safety и freedom в Iraq.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/new-iraq-report-urges-stronger-action-to-protect-christians-and-other-religious-minorities",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-05",
+      "lat": 35.6091,
+      "lng": 44.5244,
+      "country": "Iraq",
+      "city": "Kirkuk",
       "type": "other",
       "title": "New Iraq report urges stronger action protect христиане и other религиозный minorities",
       "description": "Jim Shannon MP said report records both “ progress observed” и “ ongoing испытания” that remain для религиозный minorities seeking live в safety и freedom в Iraq.",
@@ -524,6 +589,19 @@
       "description": "Правительство’s backing-off из amendment Foreign Contribution Regulation Act was незамедлительно welcomed Catholic епископы Conference India.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/protests-criticisms-from-church-leaders-force-indian-government-to-delay-bill-on-foreign",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-04",
+      "lat": 32.7398,
+      "lng": 51.7243,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Far-right христиане pushing Trump’s war — bring на apocalypse",
+      "description": "“Apostles” и “prophets” на христианин fringe think Iran май lead Armageddon — и they love it",
+      "source": "newsapi:Salon",
+      "url": "https://www.salon.com/2026/04/04/the-far-right-christians-pushing-trumps-war-to-bring-on-the-apocalypse/",
       "victims": 0
     },
     {
@@ -6426,84 +6504,6 @@
       "description": "A local церковь leader said the latest Middle East conflict would once again prompt the регион's христиане to ask themselves whether they should stay or go.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/iraqi-christian-complex-hit-by-suspected-iranian-drone-attack",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-07",
-      "lat": 21.0406,
-      "lng": 84.905,
-      "country": "India",
-      "city": "Odisha",
-      "type": "other",
-      "title": "Христианин villagers in India uneasy после церковь разгромлен",
-      "description": "The cost of the damage is estimated to be ₹850,000 – or $9,250 – a gargantuan sum for the poor villagers who work for daily wages, mostly on local farms.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-asia/2026/03/christian-villagers-in-india-uneasy-after-church-vandalized/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-07",
-      "lat": 29.6416,
-      "lng": 52.6644,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "Who are the христиане in the Middle East?",
-      "description": "Христиане in the Middle East have long been in a precarious situation. The current conflict between Israel and the United States on one hand and Iran on the other is likely to make their situation even more difficult in the short term, both inside I",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/03/07/who-are-the-christians-in-the-middle-east/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-07",
-      "lat": 32.8207,
-      "lng": 51.544,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Evangelical blessings at Trump's office (video)",
-      "description": "A group of Evangelical религиозный leaders gathered in the Oval Office of the White House on March 05 to pray for American President Donald Trump and for the success of the war launched against Iran. This молитва service, which has become an annual ritu",
-      "source": "newsapi:Gossiplankanews.com",
-      "url": "https://english.gossiplankanews.com/2026/03/evangelical-blessings-at-trumps-office.html",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-07",
-      "lat": 35.547,
-      "lng": 51.2988,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Evangelical blessings at Trump's office (video)",
-      "description": "A group of Evangelical религиозный leaders gathered in the Oval Office of the White House on March 05 to pray for American President Donald Trump and for the success of the war launched against Iran. This молитва service, which has become an annual ritu",
-      "source": "newsapi:Gossiplankanews.com",
-      "url": "https://english.gossiplankanews.com/2026/03/evangelical-blessings-at-trumps-office.html",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-07",
-      "lat": 26.6155,
-      "lng": 81.1843,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "other",
-      "title": "Христианин villagers in India uneasy после церковь разгромлен",
-      "description": "The cost of the damage is estimated to be ₹850,000 – or $9,250 – a gargantuan sum for the poor villagers who work for daily wages, mostly on local farms.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-asia/2026/03/christian-villagers-in-india-uneasy-after-church-vandalized/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-07",
-      "lat": 36.3854,
-      "lng": 59.6364,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Evangelical blessings at Trump's office (video)",
-      "description": "A group of Evangelical религиозный leaders gathered in the Oval Office of the White House on March 05 to pray for American President Donald Trump and for the success of the war launched against Iran. This молитва service, which has become an annual ritu",
-      "source": "newsapi:Gossiplankanews.com",
-      "url": "https://english.gossiplankanews.com/2026/03/evangelical-blessings-at-trumps-office.html",
       "victims": 0
     }
   ]
