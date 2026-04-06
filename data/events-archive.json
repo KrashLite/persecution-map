@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-06T01:14:14.954Z",
+    "lastUpdated": "2026-04-06T07:16:05.936Z",
     "totalEvents": 500
   },
   "events": [
@@ -207,6 +207,19 @@
       "lng": 44.5507,
       "country": "Iraq",
       "city": "Baghdad",
+      "type": "other",
+      "title": "New Iraq report urges stronger action protect христиане и other религиозный minorities",
+      "description": "Jim Shannon MP said report records both “ progress observed” и “ ongoing испытания” that remain для религиозный minorities seeking live в safety и freedom в Iraq.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/new-iraq-report-urges-stronger-action-to-protect-christians-and-other-religious-minorities",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-05",
+      "lat": 36.1693,
+      "lng": 43.8626,
+      "country": "Iraq",
+      "city": "Erbil",
       "type": "other",
       "title": "New Iraq report urges stronger action protect христиане и other религиозный minorities",
       "description": "Jim Shannon MP said report records both “ progress observed” и “ ongoing испытания” that remain для религиозный minorities seeking live в safety и freedom в Iraq.",
@@ -488,6 +501,32 @@
       "victims": 0
     },
     {
+      "date": "2026-04-04",
+      "lat": 36.4832,
+      "lng": 59.725,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Военные архиепископ says Iran war fails “just war” criteria",
+      "description": "Архиепископ responsible для Catholic министерство U.S. service members has publicly questioned whether American war с Iran could meet moral standards Catholic teaching, pointing instead diplomacy. Speaking апрель 2 на CBS News’ Face",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/04/04/military-archbishop-says-iran-war-fails-just-war-criteria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-04",
+      "lat": 21.2606,
+      "lng": 81.9024,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Protests, criticism из церковь leaders сила Indian правительство delay bill на foreign donations",
+      "description": "Правительство’s backing-off из amendment Foreign Contribution Regulation Act was незамедлительно welcomed Catholic епископы Conference India.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/protests-criticisms-from-church-leaders-force-indian-government-to-delay-bill-on-foreign",
+      "victims": 0
+    },
+    {
       "date": "2026-04-03",
       "lat": 32.4549,
       "lng": 51.4349,
@@ -701,6 +740,19 @@
       "lng": 7.5852,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "other",
+      "title": "US lawmakers seek end гонение христиане в Nigeria",
+      "description": "U.S. lawmakers condemn escalating violence against христиане в Nigeria, tying future security aid правительство’s action end гонение. Read More: https://punchng.com/us-lawmakers-seek-end--гонение--христиане-в-nigeria/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-lawmakers-seek-end-to-persecution-of-christians-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-03",
+      "lat": 12.2416,
+      "lng": 8.4804,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "other",
       "title": "US lawmakers seek end гонение христиане в Nigeria",
       "description": "U.S. lawmakers condemn escalating violence against христиане в Nigeria, tying future security aid правительство’s action end гонение. Read More: https://punchng.com/us-lawmakers-seek-end--гонение--христиане-в-nigeria/",
@@ -1052,6 +1104,19 @@
       "lng": 81.768,
       "country": "India",
       "city": "Chhattisgarh",
+      "type": "discrimination",
+      "title": "India Further Restricts Funding Foreign NGOs",
+      "description": "India’s христианская община says federal amendments law на foreign funding give правительство excessive power organizations tied minority религии. They termed amendments as “draconian” и “constitutionally suspect.” Foreign",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/02/india-further-restricts-funding-of-foreign-ngos/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-02",
+      "lat": 28.5881,
+      "lng": 76.9677,
+      "country": "India",
+      "city": "Delhi",
       "type": "discrimination",
       "title": "India Further Restricts Funding Foreign NGOs",
       "description": "India’s христианская община says federal amendments law на foreign funding give правительство excessive power organizations tied minority религии. They termed amendments as “draconian” и “constitutionally suspect.” Foreign",
@@ -6439,71 +6504,6 @@
       "description": "A group of Evangelical религиозный leaders gathered in the Oval Office of the White House on March 05 to pray for American President Donald Trump and for the success of the war launched against Iran. This молитва service, which has become an annual ritu",
       "source": "newsapi:Gossiplankanews.com",
       "url": "https://english.gossiplankanews.com/2026/03/evangelical-blessings-at-trumps-office.html",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-07",
-      "lat": 21.4623,
-      "lng": 81.9598,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "other",
-      "title": "Христианин villagers in India uneasy после церковь разгромлен",
-      "description": "The cost of the damage is estimated to be ₹850,000 – or $9,250 – a gargantuan sum for the poor villagers who work for daily wages, mostly on local farms.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-asia/2026/03/christian-villagers-in-india-uneasy-after-church-vandalized/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-07",
-      "lat": 29.3481,
-      "lng": 52.6627,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "Evangelical blessings at Trump's office (video)",
-      "description": "A group of Evangelical религиозный leaders gathered in the Oval Office of the White House on March 05 to pray for American President Donald Trump and for the success of the war launched against Iran. This молитва service, which has become an annual ritu",
-      "source": "newsapi:Gossiplankanews.com",
-      "url": "https://english.gossiplankanews.com/2026/03/evangelical-blessings-at-trumps-office.html",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-07",
-      "lat": 36.3009,
-      "lng": 59.6703,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "attack",
-      "title": "Iraqi христианин complex hit by подозреваемый Iranian drone нападение",
-      "description": "A local церковь leader said the latest Middle East conflict would once again prompt the регион's христиане to ask themselves whether they should stay or go.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iraqi-christian-complex-hit-by-suspected-iranian-drone-attack",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-06",
-      "lat": 11.6183,
-      "lng": 13.1969,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "We Must Not Ignore христианин гонение in Ethiopia",
-      "description": "By Dr. Greg Cochran, ICC Fellow Nigeria’s continued presence on the Countries of Particular Concern list is a good sign that религиозный liberty still motivates the American soul. Beyond this, Rep. Chris Smith (R-N.J.) teamed up with Rep. Riley Moore",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/06/we-must-not-ignore-christian-persecution-in-ethiopia/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-06",
-      "lat": 9.3102,
-      "lng": 7.6905,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "We Must Not Ignore христианин гонение in Ethiopia",
-      "description": "By Dr. Greg Cochran, ICC Fellow Nigeria’s continued presence on the Countries of Particular Concern list is a good sign that религиозный liberty still motivates the American soul. Beyond this, Rep. Chris Smith (R-N.J.) teamed up with Rep. Riley Moore",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/06/we-must-not-ignore-christian-persecution-in-ethiopia/",
       "victims": 0
     }
   ]
