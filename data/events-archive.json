@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-06T12:42:43.237Z",
+    "lastUpdated": "2026-04-06T18:40:38.938Z",
     "totalEvents": 500
   },
   "events": [
@@ -70,6 +70,32 @@
       "source": "punchng",
       "url": "https://punchng.com/video-actress-sunshine-rosman-laments-insecurity-economic-hardship/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
+    },
+    {
+      "date": "2026-04-06",
+      "lat": 10.4294,
+      "lng": 7.4507,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "kidnapping",
+      "title": "Kaduna community denies reported rescue 31 похищен прихожане",
+      "description": "Ibrahim Hassan-Wuyo community group в Kaduna штат has refuted claims that 31 прихожане похищен во время Пасха service в Ariko community, Kachia Local правительство Area, have been rescued Nigerian армия, describing reports as fals",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/04/kaduna-community-denies-reported-rescue-of-31-abducted-worshippers/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-06",
+      "lat": 9.3294,
+      "lng": 9.4245,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Dozens убит в Пасха атаки Across Nigeria",
+      "description": "Дни после Palm воскресенье резня в Jos left least 30 христиане погибшие, coordinated Пасха выходные атаки across central Nigeria claimed dozens more lives, с multiple communities в Benue, Kaduna, и Nasarawa штаты reporting убийства, abdu",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/06/dozens-killed-in-easter-attacks-across-nigeria/",
+      "victims": 30
     },
     {
       "date": "2026-04-05",
@@ -602,6 +628,19 @@
       "description": "“Apostles” и “prophets” на христианин fringe think Iran май lead Armageddon — и they love it",
       "source": "newsapi:Salon",
       "url": "https://www.salon.com/2026/04/04/the-far-right-christians-pushing-trumps-war-to-bring-on-the-apocalypse/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-04",
+      "lat": 19.2324,
+      "lng": 73.0587,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "other",
+      "title": "Protests, criticism из церковь leaders сила Indian правительство delay bill на foreign donations",
+      "description": "Правительство’s backing-off из amendment Foreign Contribution Regulation Act was незамедлительно welcomed Catholic епископы’ Conference India.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/protests-criticisms-from-church-leaders-force-indian-government-to-delay-bill-on-foreign",
       "victims": 0
     },
     {
@@ -1474,6 +1513,19 @@
       "source": "newsapi:The Punch",
       "url": "https://punchng.com/us-congressman-warns-of-direct-role-if-fg-fails-to-curb-killings/",
       "victims": 0
+    },
+    {
+      "date": "2026-04-01",
+      "lat": 10.6576,
+      "lng": 7.225,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Nigeria's христиане на edge для Пасха после Palm воскресенье резня",
+      "description": "Nigeria, ranked седьмой-worst в world для христианин гонение, saw reported 28 убит на Palm воскресенье, с fears христиане could be targeted this Пасха.",
+      "source": "newsapi:Fox News",
+      "url": "https://www.foxnews.com/world/nigerias-christians-edge-easter-after-palm-sunday-massacre",
+      "victims": 28
     },
     {
       "date": "2026-03-31",
@@ -6452,58 +6504,6 @@
       "description": "Христиане in the Middle East have long been in a precarious situation. The current conflict between Israel and the United States on one hand and Iran on the other is likely to make their situation even more difficult in the short term, both inside I",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/03/07/who-are-the-christians-in-the-middle-east/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-07",
-      "lat": 29.6195,
-      "lng": 52.6641,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "attack",
-      "title": "Iraqi христианин complex hit by подозреваемый Iranian drone нападение",
-      "description": "A local церковь leader said the latest Middle East conflict would once again prompt the регион's христиане to ask themselves whether they should stay or go.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iraqi-christian-complex-hit-by-suspected-iranian-drone-attack",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-07",
-      "lat": 18.976,
-      "lng": 73.0093,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "other",
-      "title": "Христианин villagers in India uneasy после церковь разгромлен",
-      "description": "The cost of the damage is estimated to be ₹850,000 – or $9,250 – a gargantuan sum for the poor villagers who work for daily wages, mostly on local farms.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-asia/2026/03/christian-villagers-in-india-uneasy-after-church-vandalized/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-07",
-      "lat": 36.1761,
-      "lng": 59.551,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Who are the христиане in the Middle East?",
-      "description": "Христиане in the Middle East have long been in a precarious situation. The current conflict between Israel and the United States on one hand and Iran on the other is likely to make their situation even more difficult in the short term, both inside I",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/03/07/who-are-the-christians-in-the-middle-east/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-07",
-      "lat": 32.7083,
-      "lng": 51.4764,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "attack",
-      "title": "Iraqi христианин complex hit by подозреваемый Iranian drone нападение",
-      "description": "A local церковь leader said the latest Middle East conflict would once again prompt the регион's христиане to ask themselves whether they should stay or go.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iraqi-christian-complex-hit-by-suspected-iranian-drone-attack",
       "victims": 0
     }
   ]
