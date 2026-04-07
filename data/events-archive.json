@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-06T18:40:38.938Z",
+    "lastUpdated": "2026-04-07T01:11:34.206Z",
     "totalEvents": 500
   },
   "events": [
@@ -96,6 +96,45 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/04/06/dozens-killed-in-easter-attacks-across-nigeria/",
       "victims": 30
+    },
+    {
+      "date": "2026-04-06",
+      "lat": 33.9046,
+      "lng": 71.3222,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "kidnapping",
+      "title": "13-год-Old христианин Girl Returned Alleged Abductor после суд Ruling",
+      "description": "Future young христианин girl has taken heartbreaking turn после суд decision allowed her remain с мужчина her семья said had похищен и forcibly converted her, raising deep concerns among Pakistan’s христианская община. Maria Sha",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/06/13-year-old-christian-girl-returned-to-alleged-abductor-after-court-ruling/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-06",
+      "lat": 6.4978,
+      "lng": 3.2868,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Dozens убит в Пасха атаки Across Nigeria",
+      "description": "Дни после Palm воскресенье резня в Jos left least 30 христиане погибшие, coordinated Пасха выходные атаки across central Nigeria claimed dozens more lives, с multiple communities в Benue, Kaduna, и Nasarawa штаты reporting убийства, abdu",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/06/dozens-killed-in-easter-attacks-across-nigeria/",
+      "victims": 30
+    },
+    {
+      "date": "2026-04-06",
+      "lat": 28.8331,
+      "lng": 77.1051,
+      "country": "India",
+      "city": "Delhi",
+      "type": "discrimination",
+      "title": "Христианская школа закрыт в Rajasthan, India",
+      "description": "Often targeted фанатик groups, христианская школа в Rajasthan, India, had its license revoked на прошлой неделе following allegations “brainwashing” дети и severe operational deficiencies found во время inspections. St. Paul школа в Patela,",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/06/christian-school-closed-in-rajasthan-india/",
+      "victims": 0
     },
     {
       "date": "2026-04-05",
@@ -641,6 +680,32 @@
       "description": "Правительство’s backing-off из amendment Foreign Contribution Regulation Act was незамедлительно welcomed Catholic епископы’ Conference India.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/protests-criticisms-from-church-leaders-force-indian-government-to-delay-bill-on-foreign",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-04",
+      "lat": 25.0024,
+      "lng": 66.8474,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "other",
+      "title": "Pakistan’s епископы decry суд ruling в ребёнок marriage case",
+      "description": "Catholic епископы и other вера leaders и civil society защитники в Pakistan say new Shariat ruling flies в face раньше decisions и could set dangerous precedent.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/04/pakistans-bishops-decry-court-ruling-in-child-marriage-case/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-04",
+      "lat": 26.7347,
+      "lng": 81.0853,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "other",
+      "title": "Indian христиане denounces crackdown на property",
+      "description": "There has been alleged crackdown на христианин buildings providing services для most vulnerable в society.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/indian-christians-denounces-crackdown-on-property",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "Nigeria is the deadliest nation in the world for христиане, and China is complicit in creating the conditions for the violence to continue, according to... Read More The post GOP Congressman Exposes China’s Role in гонение of Nigerian христиане",
       "source": "newsapi:Daily Signal",
       "url": "https://www.dailysignal.com/2026/03/08/gop-congressman-exposes-chinas-role-in-persecution-of-nigerian-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-07",
-      "lat": 35.7569,
-      "lng": 51.2059,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Who are the христиане in the Middle East?",
-      "description": "Христиане in the Middle East have long been in a precarious situation. The current conflict between Israel and the United States on one hand and Iran on the other is likely to make their situation even more difficult in the short term, both inside I",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/03/07/who-are-the-christians-in-the-middle-east/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-07",
-      "lat": 35.6886,
-      "lng": 51.549,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "attack",
-      "title": "Iraqi христианин complex hit by подозреваемый Iranian drone нападение",
-      "description": "A local церковь leader said the latest Middle East conflict would once again prompt the регион's христиане to ask themselves whether they should stay or go.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iraqi-christian-complex-hit-by-suspected-iranian-drone-attack",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-07",
-      "lat": 36.803,
-      "lng": 3.2804,
-      "country": "Algeria",
-      "city": "Algiers",
-      "type": "murder",
-      "title": "Sister of убит bishop reflects on traveling exhibit honoring the 19 Algerian martyrs",
-      "description": "An exhibit honoring the 19 Algerian martyrs is making stops at major cities around the globe. The postulator for the martyrs’ cause and the sister of one of them tells EWTN News what they stood for.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/sister-of-slain-bishop-reflects-on-traveling-exhibit-honoring-the-19-algerian-martyrs",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-07",
-      "lat": 28.9521,
-      "lng": 76.8849,
-      "country": "India",
-      "city": "Delhi",
-      "type": "other",
-      "title": "Христианин villagers in India uneasy после церковь разгромлен",
-      "description": "The cost of the damage is estimated to be ₹850,000 – or $9,250 – a gargantuan sum for the poor villagers who work for daily wages, mostly on local farms.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-asia/2026/03/christian-villagers-in-india-uneasy-after-church-vandalized/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-07",
-      "lat": 32.5708,
-      "lng": 51.4439,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Who are the христиане in the Middle East?",
-      "description": "Христиане in the Middle East have long been in a precarious situation. The current conflict between Israel and the United States on one hand and Iran on the other is likely to make their situation even more difficult in the short term, both inside I",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/03/07/who-are-the-christians-in-the-middle-east/",
       "victims": 0
     }
   ]
