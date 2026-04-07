@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-07T12:52:38.620Z",
+    "lastUpdated": "2026-04-07T18:44:34.067Z",
     "totalEvents": 500
   },
   "events": [
@@ -69,6 +69,58 @@
       "description": "“ number Algerians who want see папа is very large. […] They’re honored this visit,” said кардинал Jean-Paul Vesco, архиепископ Algiers, as папа Leo XIV‘s apostolic journey Algeria (апрель 13–15, 2026) approaches. из St. Augusti",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/04/07/when-leo-goes-to-st-augustines-land-he-will-meet-muslim-majority/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-07",
+      "lat": 9.276,
+      "lng": 9.5799,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "12 христиане убит в Пасха воскресенье церковь атаки в Nigeria",
+      "description": "Фулани террористы убит 12 христиане в атаки на two богослужение services на Пасха воскресенье в Kaduna штат, Nigeria, following убийство 17 христиане в Benue штат, sources said.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/12-christians-killed-in-easter-sunday-church-attacks-in-nigeria",
+      "victims": 12
+    },
+    {
+      "date": "2026-04-07",
+      "lat": 28.6583,
+      "lng": 77.253,
+      "country": "India",
+      "city": "Delhi",
+      "type": "attack",
+      "title": "Two пасторы ранен в атака во время Holy неделя в India",
+      "description": "Two пасторы were атакован во время Holy неделя в Karnataka, India, as they distributed христианин literature в деревня в Shivamogga район. According local sources, на март 31, пасторы, who are part Brethren собрание, visited neighbo",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/07/two-pastors-injured-in-attack-during-holy-week-in-india/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-07",
+      "lat": 24.6382,
+      "lng": 67.1551,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "discrimination",
+      "title": "‘из chaos в new life’: Pakistan’s largest diocese installs new архиепископ",
+      "description": "Installation архиепископ Khalid Rehmat closes turbulent chapter для Pakistan’s largest Catholic diocese.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/from-chaos-into-new-life-pakistan-s-largest-diocese-installs-new-archbishop",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-07",
+      "lat": 32.5017,
+      "lng": 51.4383,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Biblical backstory Iran",
+      "description": "Iran is back в headlines. word “Iran” does not appear в Библия, but names preceding peoples и empires occupying that land сегодня are written в biblical narrative. This is story …",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/the-biblical-backstory-of-iran",
       "victims": 0
     },
     {
@@ -251,6 +303,45 @@
       "description": "Future young христианин girl has taken heartbreaking turn после суд decision allowed her remain с мужчина her семья said had похищен и forcibly converted her, raising deep concerns among Pakistan’s христианская община. Maria Sha",
       "source": "persecution",
       "url": "https://persecution.org/2026/04/06/13-year-old-christian-girl-returned-to-alleged-abductor-after-court-ruling/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-06",
+      "lat": 33.6291,
+      "lng": 73.0206,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "kidnapping",
+      "title": "13-год-Old христианин Girl Returned Alleged Abductor после суд Ruling",
+      "description": "Future young христианин girl has taken heartbreaking turn после суд decision allowed her remain с мужчина her семья said had похищен и forcibly converted her, raising deep concerns among Pakistan’s христианская община. Maria Sha",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/06/13-year-old-christian-girl-returned-to-alleged-abductor-after-court-ruling/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-06",
+      "lat": 12.078,
+      "lng": 12.968,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "Dozens убит в Пасха атаки Across Nigeria",
+      "description": "Дни после Palm воскресенье резня в Jos left least 30 христиане погибшие, coordinated Пасха выходные атаки across central Nigeria claimed dozens more lives, с multiple communities в Benue, Kaduna, и Nasarawa штаты reporting убийства, abdu",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/06/dozens-killed-in-easter-attacks-across-nigeria/",
+      "victims": 30
+    },
+    {
+      "date": "2026-04-06",
+      "lat": 12.1539,
+      "lng": 8.3828,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Suspected джихадисты Terrorize христиане Throughout Nigeria на Пасха",
+      "description": "Nigerian христиане experienced deadly suspected джихадист атаки в least five штаты на Пасха воскресенье. post Suspected джихадисты Terrorize христиане Throughout Nigeria на Пасха appeared первый на Breitbart.",
+      "source": "newsapi:Breitbart News",
+      "url": "https://www.breitbart.com/africa/2026/04/06/suspected-jihadists-terrorize-christians-throughout-nigeria-easter/",
       "victims": 0
     },
     {
@@ -6414,97 +6505,6 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/global-christian-leaders-urge-renewed-commitment-to-peace-amid-rising-conflicts",
       "victims": 0
-    },
-    {
-      "date": "2026-03-09",
-      "lat": 24.8648,
-      "lng": 67.0984,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "other",
-      "title": "После 150 Years, Pakistan суд Opens Path to христианин Divorce",
-      "description": "For centuries, христианин marriage and divorce law in Pakistan has been governed by legislation inherited from the colonial era, with little meaningful reform. The primary law regulating христианин marriages, the христианин Divorce Act 1869, was enacted",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/09/after-150-years-pakistan-court-opens-path-to-christian-divorce/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-09",
-      "lat": 29.728,
-      "lng": 52.5831,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "World is at a 'dangerous tipping point', say церковь leaders in appeal for peace",
-      "description": "The церковь leaders said that the recent escalation in Iran and the Middle East had only added to the \"distressing list\" of ongoing conflicts включая those in Ukraine, Sudan, Gaza, and Myanmar.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/global-christian-leaders-urge-renewed-commitment-to-peace-amid-rising-conflicts",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-09",
-      "lat": 32.5635,
-      "lng": 51.5918,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "murder",
-      "title": "Iran war: San Diego's role, христианин 'end times' rhetoric",
-      "description": "The American-Israeli war on Iran has entered its second week.More than 1,300 люди have been убит in Iran, according to the Iranian Red Crescent Society.Many fear this could be another \"forever war,\" like the U.S. invasions of Iraq and Afghanistan",
-      "source": "newsapi:KPBS",
-      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/iran-war-san-diegos-role-christian-end-times-rhetoric",
-      "victims": 300
-    },
-    {
-      "date": "2026-03-09",
-      "lat": 32.6301,
-      "lng": 51.8671,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "World is at a 'dangerous tipping point', say церковь leaders in appeal for peace",
-      "description": "The церковь leaders said that the recent escalation in Iran and the Middle East had only added to the \"distressing list\" of ongoing conflicts включая those in Ukraine, Sudan, Gaza, and Myanmar.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/global-christian-leaders-urge-renewed-commitment-to-peace-amid-rising-conflicts",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-09",
-      "lat": 33.5595,
-      "lng": 73.0365,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "other",
-      "title": "После 150 Years, Pakistan суд Opens Path to христианин Divorce",
-      "description": "For centuries, христианин marriage and divorce law in Pakistan has been governed by legislation inherited from the colonial era, with little meaningful reform. The primary law regulating христианин marriages, the христианин Divorce Act 1869, was enacted",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/09/after-150-years-pakistan-court-opens-path-to-christian-divorce/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-09",
-      "lat": 25.0362,
-      "lng": 67.0399,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "other",
-      "title": "Pakistani христиане join мусульмане for Ramadan meals amid Iran war fallout",
-      "description": "Церковь leaders and мусульманин clerics shared Ramadan fast-breaking meals across six Pakistani dioceses this year as the overlap of Lent and Ramadan inspired joint prayers for peace.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-christians-join-muslims-for-ramadan-meals-amid-iran-war-fallout",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-09",
-      "lat": 35.4494,
-      "lng": 51.4807,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "murder",
-      "title": "Iran war: San Diego's role, христианин 'end times' rhetoric",
-      "description": "The American-Israeli war on Iran has entered its second week.More than 1,300 люди have been убит in Iran, according to the Iranian Red Crescent Society.Many fear this could be another \"forever war,\" like the U.S. invasions of Iraq and Afghanistan",
-      "source": "newsapi:KPBS",
-      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/iran-war-san-diegos-role-christian-end-times-rhetoric",
-      "victims": 300
     }
   ]
 }
