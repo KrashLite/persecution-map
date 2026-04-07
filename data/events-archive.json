@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-07T07:02:29.796Z",
+    "lastUpdated": "2026-04-07T12:52:38.620Z",
     "totalEvents": 500
   },
   "events": [
@@ -31,6 +31,45 @@
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/04/1402-nigerians-killed-abducted-by-terrorists-in-96-days-intersociety/",
       "victims": 402
+    },
+    {
+      "date": "2026-04-07",
+      "lat": 11.7882,
+      "lng": 8.6611,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "12 христиане убит в Пасха воскресенье церковь атаки в Nigeria",
+      "description": "Фулани террористы убит 12 христиане в атаки на two богослужение services на Пасха воскресенье в Kaduna штат, Nigeria, following убийство 17 христиане в Benue штат, sources said.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/12-christians-killed-in-easter-sunday-church-attacks-in-nigeria",
+      "victims": 12
+    },
+    {
+      "date": "2026-04-07",
+      "lat": 29.3916,
+      "lng": 52.6613,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Biblical backstory Iran",
+      "description": "Iran is back в headlines. word “Iran” does not appear в Библия, but names preceding peoples и empires occupying that land сегодня are written в biblical narrative. This is story …",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/the-biblical-backstory-of-iran",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-07",
+      "lat": 4.2426,
+      "lng": 18.4533,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "Когда Leo goes St. Augustine’s land he will meet мусульманин majority",
+      "description": "“ number Algerians who want see папа is very large. […] They’re honored this visit,” said кардинал Jean-Paul Vesco, архиепископ Algiers, as папа Leo XIV‘s apostolic journey Algeria (апрель 13–15, 2026) approaches. из St. Augusti",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/04/07/when-leo-goes-to-st-augustines-land-he-will-meet-muslim-majority/",
+      "victims": 0
     },
     {
       "date": "2026-04-06",
@@ -199,6 +238,19 @@
       "description": "Often targeted фанатик groups, христианская школа в Rajasthan, India, had its license revoked на прошлой неделе following allegations “brainwashing” дети и severe operational deficiencies found во время inspections. St. Paul школа в Patela,",
       "source": "persecution",
       "url": "https://persecution.org/2026/04/06/christian-school-closed-in-rajasthan-india/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-06",
+      "lat": 24.6735,
+      "lng": 66.867,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "kidnapping",
+      "title": "13-год-Old христианин Girl Returned Alleged Abductor после суд Ruling",
+      "description": "Future young христианин girl has taken heartbreaking turn после суд decision allowed her remain с мужчина her семья said had похищен и forcibly converted her, raising deep concerns among Pakistan’s христианская община. Maria Sha",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/06/13-year-old-christian-girl-returned-to-alleged-abductor-after-court-ruling/",
       "victims": 0
     },
     {
@@ -420,6 +472,19 @@
       "description": "Jim Shannon MP said report records both “ progress observed” и “ ongoing испытания” that remain для религиозный minorities seeking live в safety и freedom в Iraq.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/new-iraq-report-urges-stronger-action-to-protect-christians-and-other-religious-minorities",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-05",
+      "lat": 34.0504,
+      "lng": 71.7065,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "other",
+      "title": "Parliamentary group raises concern о вынужден marriage христианин girl в Pakistan",
+      "description": "Girl’s father claims that she was underage time и was принуждён в обращение.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/parliamentary-group-raises-concern-about-forced-marriage-of-christian-girl-in-pakistan",
       "victims": 0
     },
     {
@@ -785,6 +850,19 @@
       "source": "newsapi:Morningstarnews.org",
       "url": "https://morningstarnews.org/2026/04/boko-haram-kills-10-christians-in-northeast-nigeria/",
       "victims": 10
+    },
+    {
+      "date": "2026-04-04",
+      "lat": 21.1486,
+      "lng": 81.724,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Indian христиане denounces crackdown на property",
+      "description": "There has been alleged crackdown на христианин buildings providing services для most vulnerable в society.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/indian-christians-denounces-crackdown-on-property",
+      "victims": 0
     },
     {
       "date": "2026-04-03",
@@ -6427,84 +6505,6 @@
       "source": "newsapi:KPBS",
       "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/iran-war-san-diegos-role-christian-end-times-rhetoric",
       "victims": 300
-    },
-    {
-      "date": "2026-03-09",
-      "lat": 29.4902,
-      "lng": 52.6944,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "murder",
-      "title": "Iran war: San Diego's role, христианин 'end times' rhetoric",
-      "description": "The American-Israeli war on Iran has entered its second week.More than 1,300 люди have been убит in Iran, according to the Iranian Red Crescent Society.Many fear this could be another \"forever war,\" like the U.S. invasions of Iraq and Afghanistan",
-      "source": "newsapi:KPBS",
-      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/iran-war-san-diegos-role-christian-end-times-rhetoric",
-      "victims": 300
-    },
-    {
-      "date": "2026-03-09",
-      "lat": 36.1868,
-      "lng": 59.5203,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "murder",
-      "title": "Iran war: San Diego's role, христианин 'end times' rhetoric",
-      "description": "The American-Israeli war on Iran has entered its second week.More than 1,300 люди have been убит in Iran, according to the Iranian Red Crescent Society.Many fear this could be another \"forever war,\" like the U.S. invasions of Iraq and Afghanistan",
-      "source": "newsapi:KPBS",
-      "url": "https://www.kpbs.org/podcasts/kpbs-midday-edition/iran-war-san-diegos-role-christian-end-times-rhetoric",
-      "victims": 300
-    },
-    {
-      "date": "2026-03-08",
-      "lat": 6.3594,
-      "lng": 3.5416,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Insecurity escalates as moves for штат полиция intensify",
-      "description": "•B/Haram, ISWAP declare caliphate in Borno, claim responsibility for soldiers, residents’ killings, похищение of сотни •десятки погибшие in Benue, Niger, Kogi нападения, 10 похищен in Kwara, ‘жестокий killings’ in Ebonyi as monarch die во время negotiation",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/03/insecurity-escalatesas-moves-for-state-police-intensify/",
-      "victims": 24
-    },
-    {
-      "date": "2026-03-08",
-      "lat": 12.2141,
-      "lng": 8.711,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "GOP Congressman Exposes China’s Role in гонение of Nigerian христиане",
-      "description": "Nigeria is the deadliest nation in the world for христиане, and China is complicit in creating the conditions for the violence to continue, according to... Read More The post GOP Congressman Exposes China’s Role in гонение of Nigerian христиане",
-      "source": "newsapi:Daily Signal",
-      "url": "https://www.dailysignal.com/2026/03/08/gop-congressman-exposes-chinas-role-in-persecution-of-nigerian-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-08",
-      "lat": 36.1659,
-      "lng": 59.8633,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Trump’s misguided “христианин” war is anything but",
-      "description": "Some commanders claim the Iran war is serving Christ. Haven't they noticed the fake христианин in the White House?",
-      "source": "newsapi:Salon",
-      "url": "https://www.salon.com/2026/03/08/trumps-misguided-christian-war-is-anything-but/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-08",
-      "lat": 9.0366,
-      "lng": 9.4757,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "GOP Congressman Exposes China’s Role in гонение of Nigerian христиане",
-      "description": "Nigeria is the deadliest nation in the world for христиане, and China is complicit in creating the conditions for the violence to continue, according to... Read More The post GOP Congressman Exposes China’s Role in гонение of Nigerian христиане",
-      "source": "newsapi:Daily Signal",
-      "url": "https://www.dailysignal.com/2026/03/08/gop-congressman-exposes-chinas-role-in-persecution-of-nigerian-christians/",
-      "victims": 0
     }
   ]
 }
