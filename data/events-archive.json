@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-08T07:05:09.581Z",
+    "lastUpdated": "2026-04-08T12:52:00.921Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,32 @@
       "description": "Nigeria is deadliest country в world для христиане.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/nigerian-faith-leaders-call-for-interfaith-reconciliation-to-end-violence",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-08",
+      "lat": 6.7098,
+      "lng": 3.4255,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Nigerian вера leaders call для interfaith reconciliation end violence",
+      "description": "Nigeria is deadliest country в world для христиане.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/nigerian-faith-leaders-call-for-interfaith-reconciliation-to-end-violence",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-08",
+      "lat": 4.2546,
+      "lng": 18.6235,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "Algerian кардинал says папа’s upcoming visit not о interreligious dialogue but humanity",
+      "description": "Архиепископ Algiers discussed upcoming papal trip в context anti-христианин гонение.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/algerian-cardinal-says-pope-s-visit-not-about-interreligious-dialogue-but-humanity",
       "victims": 0
     },
     {
@@ -278,6 +304,32 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/04/07/easter-mourning-1-dead-dozens-injured-after-truck-rams-into-sunrise-procession/",
       "victims": 1
+    },
+    {
+      "date": "2026-04-07",
+      "lat": 33.8412,
+      "lng": 72.9329,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "murder",
+      "title": "Пасха Mourning: 1 погибшие, Dozens ранен после Truck Rams в Sunrise Procession",
+      "description": "Time spiritual celebration turned в scene devastation рано Пасха воскресенье когда speeding cargo truck plowed в христианин sunrise procession в Wazirabad район Punjab, Pakistan. incident has left one мужчина погибшие и more t",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/07/easter-mourning-1-dead-dozens-injured-after-truck-rams-into-sunrise-procession/",
+      "victims": 1
+    },
+    {
+      "date": "2026-04-07",
+      "lat": 28.9429,
+      "lng": 77.1265,
+      "country": "India",
+      "city": "Delhi",
+      "type": "attack",
+      "title": "Viral against Israel, silent о every other travesty",
+      "description": "Israeli полиция protecting кардинал vs. исламский террористы убийство христиане. Who does West villify? It’s same perverse logic that turned Gaza в global obsession пока ignoring Chinese лагеря для Uyghurs, церковь burnings в India, behe",
+      "source": "newsapi:Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/425175",
+      "victims": 0
     },
     {
       "date": "2026-04-06",
@@ -550,6 +602,32 @@
       "description": "Often targeted фанатик groups, христианская школа в Rajasthan, India, had its license revoked на прошлой неделе following allegations “brainwashing” дети и severe operational deficiencies found во время inspections. St. Paul школа в Patela,",
       "source": "persecution",
       "url": "https://persecution.org/2026/04/06/christian-school-closed-in-rajasthan-india/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-06",
+      "lat": 8.8581,
+      "lng": 7.3184,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Dozens убит в Пасха атаки Across Nigeria",
+      "description": "Дни после Palm воскресенье резня в Jos left least 30 христиане погибшие, coordinated Пасха выходные атаки across central Nigeria claimed dozens more lives, с multiple communities в Benue, Kaduna, и Nasarawa штаты reporting убийства, abdu",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/06/dozens-killed-in-easter-attacks-across-nigeria/",
+      "victims": 30
+    },
+    {
+      "date": "2026-04-06",
+      "lat": 8.8411,
+      "lng": 7.5151,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Suspected джихадисты Terrorize христиане Throughout Nigeria на Пасха",
+      "description": "Nigerian христиане experienced deadly suspected джихадист атаки в least five штаты на Пасха воскресенье. post Suspected джихадисты Terrorize христиане Throughout Nigeria на Пасха appeared первый на Breitbart.",
+      "source": "newsapi:Breitbart News",
+      "url": "https://www.breitbart.com/africa/2026/04/06/suspected-jihadists-terrorize-christians-throughout-nigeria-easter/",
       "victims": 0
     },
     {
@@ -6426,84 +6504,6 @@
       "description": "The first country Pope Leo XIV will visit во время his Africa trip in April will be Algeria, a country where Christianity has ancient roots but Catholics constitute a small minority.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/7-key-things-to-know-about-the-catholic-church-in-algeria-ahead-of-the-pope-s-visit",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-10",
-      "lat": -4.6394,
-      "lng": 15.0828,
-      "country": "Democratic Republic of the Congo",
-      "city": "Kinshasa",
-      "type": "kidnapping",
-      "title": "A Way Through the Valley",
-      "description": "03/10/2026 DRC (International христианин Concern) – Terrorist militias in the Democratic Republic of the Congo (DRC) have inflicted violence and abuse upon tens of тысячи of люди living in the nation. These groups abduct дети and force t",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/10/a-way-through-the-valley/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-10",
-      "lat": 32.5386,
-      "lng": 51.6678,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "murder",
-      "title": "Two more христиане подтверждено убит in Iran protests",
-      "description": "A total of 19 христиане have been подтверждено погибшие as a result of a crackdown on anti-правительство protests.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/two-more-christians-confirmed-killed-in-iran-protests",
-      "victims": 19
-    },
-    {
-      "date": "2026-03-10",
-      "lat": 35.4731,
-      "lng": 51.1903,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Cardinal Mathieu evacuated from Iran, many Catholics leaving the country",
-      "description": "Archbishop of Tehran-Isfahan Cardinal Dominique Mathieu was evacuated from his residence in the Iranian capital and arrived in Rome last weekend после witnessing the first days of военные clashes.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/cardinal-mathieu-evacuated-from-iran-many-catholics-leaving-the-country",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-10",
-      "lat": 29.4198,
-      "lng": 52.5716,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "Cardinal of Iran safe in Rome после evacuation from Iran",
-      "description": "On March 9, 2026, Cardinal Dominique Mathieu, archbishop of Tehran-Isfahan, Iran, told CathoBel (a Catholic website of his native Belgium) that he is safe in Rome после evacuation from Iran. He arrived in that город on March 8, “not without regret and",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/03/10/cardinal-of-iran-safe-in-rome-after-evacuation-from-iran/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-10",
-      "lat": 19.3858,
-      "lng": -98.9431,
-      "country": "Mexico",
-      "city": "Mexico City",
-      "type": "murder",
-      "title": "Священник сообщается пропавший без вести found погибшие in southern Mexico",
-      "description": "Another священник gone пропавший без вести has been found погибшие in Mexico. So far there has been no statement from the власти whether foul play was or was not involved.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/americas/priest-reported-missing-found-dead-in-southern-mexico",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-10",
-      "lat": 32.7413,
-      "lng": 51.8491,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Cardinal Mathieu evacuated from Iran, many Catholics leaving the country",
-      "description": "Archbishop of Tehran-Isfahan Cardinal Dominique Mathieu was evacuated from his residence in the Iranian capital and arrived in Rome last weekend после witnessing the first days of военные clashes.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/cardinal-mathieu-evacuated-from-iran-many-catholics-leaving-the-country",
       "victims": 0
     }
   ]
