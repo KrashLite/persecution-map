@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-08T01:13:01.644Z",
+    "lastUpdated": "2026-04-08T07:05:09.581Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-04-08",
+      "lat": 10.4104,
+      "lng": 7.3721,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Nigerian вера leaders call для interfaith reconciliation end violence",
+      "description": "Nigeria is deadliest country в world для христиане.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/nigerian-faith-leaders-call-for-interfaith-reconciliation-to-end-violence",
+      "victims": 0
+    },
     {
       "date": "2026-04-07",
       "lat": 9.0148,
@@ -226,6 +239,45 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/the-biblical-backstory-of-iran",
       "victims": 0
+    },
+    {
+      "date": "2026-04-07",
+      "lat": 10.3026,
+      "lng": 7.2873,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "12 христиане убит в Пасха воскресенье церковь атаки в Nigeria",
+      "description": "Фулани террористы убит 12 христиане в атаки на two богослужение services на Пасха воскресенье в Kaduna штат, Nigeria, following убийство 17 христиане в Benue штат, sources said.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/12-christians-killed-in-easter-sunday-church-attacks-in-nigeria",
+      "victims": 12
+    },
+    {
+      "date": "2026-04-07",
+      "lat": 11.9362,
+      "lng": 8.708,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Пасха 2026 is overshadowed резни христиане в Nigeria",
+      "description": "Для христианские общины на ground, however, such distinctions offer little consolation. repeated targeting церкви во время major liturgical celebrations carries both symbolic и psychological weight, reinforcing sense vulnerability",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/04/07/easter-2026-is-overshadowed-by-massacres-of-christians-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-07",
+      "lat": 31.6511,
+      "lng": 74.5388,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "murder",
+      "title": "Пасха Mourning: 1 погибшие, Dozens ранен после Truck Rams в Sunrise Procession",
+      "description": "Time spiritual celebration turned в scene devastation рано Пасха воскресенье когда speeding cargo truck plowed в христианин sunrise procession в Wazirabad район Punjab, Pakistan. incident has left one мужчина погибшие и more t",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/07/easter-mourning-1-dead-dozens-injured-after-truck-rams-into-sunrise-procession/",
+      "victims": 1
     },
     {
       "date": "2026-04-06",
@@ -475,6 +527,32 @@
       "victims": 0
     },
     {
+      "date": "2026-04-06",
+      "lat": 12.1044,
+      "lng": 8.5264,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Dozens убит в Пасха атаки Across Nigeria",
+      "description": "Дни после Palm воскресенье резня в Jos left least 30 христиане погибшие, coordinated Пасха выходные атаки across central Nigeria claimed dozens more lives, с multiple communities в Benue, Kaduna, и Nasarawa штаты reporting убийства, abdu",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/06/dozens-killed-in-easter-attacks-across-nigeria/",
+      "victims": 30
+    },
+    {
+      "date": "2026-04-06",
+      "lat": 19.0598,
+      "lng": 73.0868,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "discrimination",
+      "title": "Христианская школа закрыт в Rajasthan, India",
+      "description": "Often targeted фанатик groups, христианская школа в Rajasthan, India, had its license revoked на прошлой неделе following allegations “brainwashing” дети и severe operational deficiencies found во время inspections. St. Paul школа в Patela,",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/06/christian-school-closed-in-rajasthan-india/",
+      "victims": 0
+    },
+    {
       "date": "2026-04-05",
       "lat": 11.7966,
       "lng": 8.7644,
@@ -701,6 +779,19 @@
       "lng": 71.7065,
       "country": "Pakistan",
       "city": "Peshawar",
+      "type": "other",
+      "title": "Parliamentary group raises concern о вынужден marriage христианин girl в Pakistan",
+      "description": "Girl’s father claims that she was underage time и was принуждён в обращение.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/parliamentary-group-raises-concern-about-forced-marriage-of-christian-girl-in-pakistan",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-05",
+      "lat": 31.5586,
+      "lng": 74.1717,
+      "country": "Pakistan",
+      "city": "Lahore",
       "type": "other",
       "title": "Parliamentary group raises concern о вынужден marriage христианин girl в Pakistan",
       "description": "Girl’s father claims that she was underage time и was принуждён в обращение.",
@@ -6413,97 +6504,6 @@
       "description": "Archbishop of Tehran-Isfahan Cardinal Dominique Mathieu was evacuated from his residence in the Iranian capital and arrived in Rome last weekend после witnessing the first days of военные clashes.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/cardinal-mathieu-evacuated-from-iran-many-catholics-leaving-the-country",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-10",
-      "lat": 35.6747,
-      "lng": 51.4029,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Cardinal of Iran safe in Rome после evacuation from Iran",
-      "description": "On March 9, 2026, Cardinal Dominique Mathieu, archbishop of Tehran-Isfahan, Iran, told CathoBel (a Catholic website of his native Belgium) that he is safe in Rome после evacuation from Iran. He arrived in that город on March 8, “not without regret and",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/03/10/cardinal-of-iran-safe-in-rome-after-evacuation-from-iran/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-10",
-      "lat": 36.4621,
-      "lng": 59.6598,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Cardinal Mathieu evacuated from Iran, many Catholics leaving the country",
-      "description": "Archbishop of Tehran-Isfahan Cardinal Dominique Mathieu was evacuated from his residence in the Iranian capital and arrived in Rome last weekend после witnessing the first days of военные clashes.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/cardinal-mathieu-evacuated-from-iran-many-catholics-leaving-the-country",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-10",
-      "lat": 36.3529,
-      "lng": 59.503,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "murder",
-      "title": "Two more христиане подтверждено убит in Iran protests",
-      "description": "A total of 19 христиане have been подтверждено погибшие as a result of a crackdown on anti-правительство protests.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/two-more-christians-confirmed-killed-in-iran-protests",
-      "victims": 19
-    },
-    {
-      "date": "2026-03-10",
-      "lat": 4.4045,
-      "lng": 18.3818,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "murder",
-      "title": "'We Carry Nothing But Weapons of Peace,' Said священник Days Before Israel убит Him in Lebanon",
-      "description": "Pope Leo XIV was среди those expressing grief Monday более the убийство of Father Pierre al-Rahi, a Maronite Catholic священник, in an Israeli strike in the southern Lebanese посёлок of Qlayaa, days после he had insisted on staying in the регион despite evac",
-      "source": "newsapi:Common Dreams",
-      "url": "https://www.commondreams.org/news/lebanon-priest",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-10",
-      "lat": 19.6663,
-      "lng": -99.2001,
-      "country": "Mexico",
-      "city": "Mexico City",
-      "type": "murder",
-      "title": "UPDATE: священник сообщается пропавший без вести found погибшие in southern Mexico",
-      "description": "Another священник gone пропавший без вести has been found погибшие in Mexico. So far there has been no statement from the власти whether foul play was or was not involved.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/americas/priest-reported-missing-found-dead-in-southern-mexico",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-10",
-      "lat": 29.3687,
-      "lng": 52.5678,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "Cardinal Mathieu evacuated from Iran, many Catholics leaving the country",
-      "description": "Archbishop of Tehran-Isfahan Cardinal Dominique Mathieu was evacuated from his residence in the Iranian capital and arrived in Rome last weekend после witnessing the first days of военные clashes.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/cardinal-mathieu-evacuated-from-iran-many-catholics-leaving-the-country",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-10",
-      "lat": 36.1728,
-      "lng": 59.8131,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Cardinal of Iran safe in Rome после evacuation from Iran",
-      "description": "On March 9, 2026, Cardinal Dominique Mathieu, archbishop of Tehran-Isfahan, Iran, told CathoBel (a Catholic website of his native Belgium) that he is safe in Rome после evacuation from Iran. He arrived in that город on March 8, “not without regret and",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/03/10/cardinal-of-iran-safe-in-rome-after-evacuation-from-iran/",
       "victims": 0
     }
   ]
