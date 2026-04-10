@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-10T12:41:25.873Z",
+    "lastUpdated": "2026-04-10T18:38:02.565Z",
     "totalEvents": 500
   },
   "events": [
@@ -134,6 +134,71 @@
       "description": "Епископы’ conferences в United штаты, Mexico, Philippines, Italy, и Spain have urged their faithful join папа Leo XIV на апрель 11 в молящийся для peace.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/vatican/peace-a-gift-and-a-mission-churches-worldwide-join-the-popes-vigil-on-april-11",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 12.0701,
+      "lng": 13.3029,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "1,400 христиане убит в Nigeria so far в этом году, new report claims",
+      "description": "Intersociety said that 1,800 христиане were похищен в same период - с 180 abductees убит.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/over-1-400-christians-killed-in-nigeria-so-far-this-year-new-report-claims",
+      "victims": 400
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 32.5576,
+      "lng": 51.4434,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Look Leo’s words, just wars, и what’s not considered",
+      "description": "На Palm воскресенье, папа Leo said в his проповедь that God “does not listen молитвы those who wage war.” Since start US-Iran conflict, папа has repeatedly called для peace и criticized war, и his comments have sparked lot",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/04/10/a-look-at-leos-words-just-wars-and-whats-not-considered/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 35.8789,
+      "lng": 51.4121,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "В open letter, Asian кардинал warns Americans ‘moral failure’ Iran war",
+      "description": "Filipino кардинал Pablo Virgilio David, one Asia’s most prominent Catholic prelates, wrote open letter Americans и warned them “moral failure” в U.S.-Israel war на Iran.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/04/in-open-letter-asian-cardinal-warns-americans-of-moral-failure-over-iran-war/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 35.86,
+      "lng": 51.6179,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "discrimination",
+      "title": "Israel lifts ограничения holy sites в Jerusalem после fragile ceasefire announced",
+      "description": "Прихожане were able pray снова Jerusalem’s holy sites четверг после Israel lifted ограничения it imposed на large public gatherings throughout war с Iran nearly six недели ago.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-middle-east/2026/04/israel-lifts-restrictions-at-holy-sites-in-jerusalem-after-fragile-ceasefire-announced/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 19.2799,
+      "lng": 72.9961,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "other",
+      "title": "Indian Supreme суд ruling could deprive 'untouchable' христиане protections",
+      "description": "Indian Supreme суд ruling could deprive христиане-конверты из among lowest castes access affirmative action programmes и other benefits.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/indian-supreme-court-ruling-could-deprive-untouchable-christians-of-protections",
       "victims": 0
     },
     {
@@ -342,6 +407,32 @@
       "description": "U.S. Embassy Holy See has strongly отказано reports that правительство demanded Vatican throw support behind U.S. военные actions.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/u-s-officials-continue-to-defend-iranian-conflict-amid-criticism-from-top-catholic-leaders",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-09",
+      "lat": 36.0731,
+      "lng": 59.7186,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "discrimination",
+      "title": "Continued Dangers для Lebanese христианское население, политический Leadership",
+      "description": "После период relative peace — least away из country’s southern border с Israel — Lebanon has снова found itself amid bloody kinetic war. U.N. estimates suggest that 1.1 million Lebanese have been перемещён в последний six недели as",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/09/continued-dangers-for-lebanese-christian-population-political-leadership/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-09",
+      "lat": 29.6131,
+      "lng": 52.6858,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "attack",
+      "title": "'Truly Insane': Pentagon угрожали папа после He Condemned Trump's военные атаки",
+      "description": "Папа Leo, первый American be named head worldwide католическая церковь, has spoken out against президент Donald Trump's policies frequently в этом году as US has invaded Venezuela и Iran и угрожали Cuba's 10 million люди с",
+      "source": "newsapi:Common Dreams",
+      "url": "https://www.commondreams.org/news/pope-leo-and-trump",
       "victims": 0
     },
     {
@@ -589,6 +680,19 @@
       "description": "В bid rally his база, президент Trump is tapping в христианин rhetoric reinforce backing для военные actions against Iran. Prominent evangelical figures are framing this situation as moral confrontation righteousness versus wickednes",
       "source": "newsapi:The Times of India",
       "url": "https://economictimes.indiatimes.com/news/international/global-trends/evangelicals-amplify-trumps-religious-framing-of-iran-war/articleshow/130109919.cms",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-08",
+      "lat": 9.123,
+      "lng": 7.3521,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Папа will address tensions between христианство и ислам в Africa, Nigerian епископ says",
+      "description": "Augustinian confrere папа Leo XIV discussed pontiff’s upcoming trip four African countries.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/vatican/pope-will-address-tensions-between-christianity-and-islam-in-africa-nigerian-bishop-says",
       "victims": 0
     },
     {
@@ -1460,6 +1564,19 @@
       "description": "Often targeted фанатик groups, христианская школа в Rajasthan, India, had its license revoked на прошлой неделе following allegations “brainwashing” дети и severe operational deficiencies found во время inspections. St. Paul школа в Patela,",
       "source": "persecution",
       "url": "https://persecution.org/2026/04/06/christian-school-closed-in-rajasthan-india/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-06",
+      "lat": 9.4581,
+      "lng": 9.6297,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Suspected джихадисты Terrorize христиане Throughout Nigeria на Пасха",
+      "description": "Nigerian христиане experienced deadly suspected джихадист атаки в least five штаты на Пасха воскресенье. post Suspected джихадисты Terrorize христиане Throughout Nigeria на Пасха appeared первый на Breitbart.",
+      "source": "newsapi:Breitbart News",
+      "url": "https://www.breitbart.com/africa/2026/04/06/suspected-jihadists-terrorize-christians-throughout-nigeria-easter/",
       "victims": 0
     },
     {
@@ -6387,123 +6504,6 @@
       "description": "This is how the war on Iran was framed to the мужчины and женщины ordered to fight it. “президент Trump has been anointed by Jesus to light the signal fire in Iran to cause Armageddon and mark his return to Earth.” This was not a проповедь at a rural megachur",
       "source": "newsapi:Activistpost.com",
       "url": "https://www.activistpost.com/crusader-in-chief-pete-hegseths-christian-zionist-mission-to-help-israel-confront-iran/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-15",
-      "lat": 8.9935,
-      "lng": 7.6622,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "UK MPs urge Starmer question Tinubu на христианин убийства",
-      "description": "UK парламент members call на Sir Keir Starmer confront Nigerian президент Tinubu о гонение и убийство христиане во время his штат visit Read More: https://punchng.com/uk-mps-urge-starmer--question-tinubu-на-христианин-убийства/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/uk-mps-urge-starmer-to-question-tinubu-on-christian-killings/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-15",
-      "lat": 36.4675,
-      "lng": 59.4281,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Crusader-в-Chief: Pete Hegseth’s христианин Zionist Mission Help Israel Confront Iran",
-      "description": "This is how war на Iran was framed мужчины и женщины ordered fight it. “президент Trump has been anointed Jesus light signal fire в Iran cause Armageddon и mark his return Earth.” This was not проповедь rural megachur",
-      "source": "newsapi:Activistpost.com",
-      "url": "https://www.activistpost.com/crusader-in-chief-pete-hegseths-christian-zionist-mission-to-help-israel-confront-iran/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-15",
-      "lat": 12.0204,
-      "lng": 12.976,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "UK MPs urge Starmer question Tinubu на христианин убийства",
-      "description": "UK парламент members call на Sir Keir Starmer confront Nigerian президент Tinubu о гонение и убийство христиане во время his штат visit Read More: https://punchng.com/uk-mps-urge-starmer--question-tinubu-на-христианин-убийства/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/uk-mps-urge-starmer-to-question-tinubu-on-christian-killings/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-15",
-      "lat": 10.3228,
-      "lng": 7.4644,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "UK MPs urge Starmer question Tinubu на христианин убийства",
-      "description": "UK парламент members call на Sir Keir Starmer confront Nigerian президент Tinubu о гонение и убийство христиане во время his штат visit Read More: https://punchng.com/uk-mps-urge-starmer--question-tinubu-на-христианин-убийства/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/uk-mps-urge-starmer-to-question-tinubu-on-christian-killings/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-14",
-      "lat": 10.636,
-      "lng": 7.3311,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Embrace ‘Good Shepherd’ role, TACN leader urges пасторы",
-      "description": "The Apostolic церковь Nigeria (TACN), LAWMA Territorial Chairman, пастор Gabriel Okpako Uyeh, has urged ministers to embody the spirit of the “Good Shepherd,” emphasising sacrificial service, humility and genuine care for their congregations above per",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/03/embrace-good-shepherd-role-tacn-leader-urges-pastors/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-14",
-      "lat": 10.4379,
-      "lng": 7.3062,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "VICM urges revival of value system to address Nigeria’s leadership challenges",
-      "description": "A вера-based leadership development organisation, Vision International христианин Ministry (VICM), has called on leaders across Nigeria’s public and private sectors to revive strong value systems as a strategy to tackle the country’s persistent leade",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/03/vicm-urges-revival-of-value-system-to-address-nigerias-leadership-challenges/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-14",
-      "lat": 36.2483,
-      "lng": 59.8355,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "discrimination",
-      "title": "What it’s like to be a христианин in the Holy Land right now",
-      "description": "Air рейд sirens echo through Jerusalem’s narrow streets. Schools remain закрыт. Pilgrimage groups cancel their visits. Stations of the крест prayed in a bunker. For many христиане in the Holy Land, the latest escalation between Israel and Iran has t",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/03/14/what-its-like-to-be-a-christian-in-the-holy-land-right-now/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-14",
-      "lat": 23.2342,
-      "lng": -82.5313,
-      "country": "Cuba",
-      "city": "Havana",
-      "type": "discrimination",
-      "title": "VIDEO: Cubana Chiefpriest admits ‘foolish’ mistake for not supporting Tinubu in 2023 election",
-      "description": "Cubana Chiefpriest calls his failure to support President Bola Tinubu in the 2023 election a ‘foolish’ mistake, pledging not to ‘waste votes’ again. Read More: https://punchng.com/video-cubana-chiefpriest-admits-foolish-mistake-for-not-supporting-ti",
-      "source": "punchng",
-      "url": "https://punchng.com/video-cubana-chiefpriest-admits-foolish-mistake-for-not-supporting-tinubu-in-2023-election/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-14",
-      "lat": 9.0203,
-      "lng": 7.6202,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "You must confront Tinubu более Nigerian христиане’ killings – UK lawmakers tell Starmer",
-      "description": "Sir Keir Starmer must confront Nigeria's president более the убийство of христиане while he is in the UK for a штат visit, MPs have demanded. The post You must confront Tinubu более Nigerian христиане’ killings – UK lawmakers tell Starmer appeared fi",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/03/you-must-confront-tinubu-over-nigerian-christians-killings-uk-lawmakers-tell-starmer/",
       "victims": 0
     }
   ]
