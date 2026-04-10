@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-10T07:13:54.432Z",
+    "lastUpdated": "2026-04-10T12:41:25.873Z",
     "totalEvents": 500
   },
   "events": [
@@ -56,6 +56,84 @@
       "description": "Indian Supreme суд ruling could deprive христиане-конверты из among lowest castes access affirmative action programmes и other benefits.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/indian-supreme-court-ruling-could-deprive-untouchable-christians-of-protections",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 11.7948,
+      "lng": 8.5379,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "kidnapping",
+      "title": "Kaduna прихожане атака: Odinkalu, CSOs fault армия rescue claim",
+      "description": "Civil society groups dispute Nigerian армия’s claim rescuing жертвы из Kaduna прихожане атака, stating all 38 abductees remain в плен Read More: https://punchng.com/kaduna-прихожане-атака-odinkalu-csos-fault-армия--rescue",
+      "source": "punchng",
+      "url": "https://punchng.com/kaduna-worshippers-attack-odinkalu-csos-fault-army-over-rescue-claim/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 29.4982,
+      "lng": 52.3508,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Look Leo’s words, just wars, и what’s not considered",
+      "description": "На Palm воскресенье, папа Leo said в his проповедь that God “does not listen молитвы those who wage war.” Since start US-Iran conflict, папа has repeatedly called для peace и criticized war, и his comments have sparked lot",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/04/10/a-look-at-leos-words-just-wars-and-whats-not-considered/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 29.8421,
+      "lng": 52.7564,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "В open letter, Asian кардинал warns Americans ‘moral failure’ Iran war",
+      "description": "Filipino кардинал Pablo Virgilio David, one Asia’s most prominent Catholic prelates, wrote open letter Americans и warned them “moral failure” в U.S.-Israel war на Iran.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/04/in-open-letter-asian-cardinal-warns-americans-of-moral-failure-over-iran-war/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 36.2927,
+      "lng": 59.5175,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "discrimination",
+      "title": "Israel lifts ограничения holy sites в Jerusalem после fragile ceasefire announced",
+      "description": "Прихожане were able pray снова Jerusalem’s holy sites четверг после Israel lifted ограничения it imposed на large public gatherings throughout war с Iran nearly six недели ago.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-middle-east/2026/04/israel-lifts-restrictions-at-holy-sites-in-jerusalem-after-fragile-ceasefire-announced/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 21.3284,
+      "lng": 81.6502,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Indian Supreme суд ruling could deprive 'untouchable' христиане protections",
+      "description": "Indian Supreme суд ruling could deprive христиане-конверты из among lowest castes access affirmative action programmes и other benefits.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/indian-supreme-court-ruling-could-deprive-untouchable-christians-of-protections",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 14.3736,
+      "lng": 121.1545,
+      "country": "Philippines",
+      "city": "Manila",
+      "type": "other",
+      "title": "Церкви worldwide join папа Leo’s молитва vigil для peace на апрель 11 amid ongoing global conflicts",
+      "description": "Епископы’ conferences в United штаты, Mexico, Philippines, Italy, и Spain have urged their faithful join папа Leo XIV на апрель 11 в молящийся для peace.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/vatican/peace-a-gift-and-a-mission-churches-worldwide-join-the-popes-vigil-on-april-11",
       "victims": 0
     },
     {
@@ -238,6 +316,32 @@
       "description": "“ core ecological и social crises is human heart enclosed в upon itself, alienated из God, our neighbor, и creation,” епископы said в new pastoral missive.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/in-ecological-letter-indiana-bishops-urge-catholics-to-care-for-god-s-good-world",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-09",
+      "lat": 36.4727,
+      "lng": 59.3688,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "attack",
+      "title": "'Truly Insane': Pentagon угрожали папа после He Condemned Trump's военные атаки",
+      "description": "Папа Leo, первый American be named head worldwide католическая церковь, has spoken out against президент Donald Trump's policies frequently в этом году as US has invaded Venezuela и Iran и угрожали Cuba's 10 million люди с",
+      "source": "newsapi:Common Dreams",
+      "url": "https://www.commondreams.org/news/pope-leo-and-trump",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-09",
+      "lat": 32.4306,
+      "lng": 51.5902,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "discrimination",
+      "title": "U.S. чиновники continue defend Iranian conflict amid criticism из top Catholic leaders",
+      "description": "U.S. Embassy Holy See has strongly отказано reports that правительство demanded Vatican throw support behind U.S. военные actions.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/u-s-officials-continue-to-defend-iranian-conflict-amid-criticism-from-top-catholic-leaders",
       "victims": 0
     },
     {
@@ -472,6 +576,19 @@
       "description": "Evangelical leaders say support для Israel has remained strong во время операция Epic Fury, joint U.S.-Israel военные кампания against Iran, as new ceasefire takes hold.",
       "source": "newsapi:Fox News",
       "url": "https://www.foxnews.com/world/evangelical-leaders-rally-trump-israel-operation-epic-fury-reshapes-region",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-08",
+      "lat": 36.2806,
+      "lng": 59.8155,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Evangelicals amplify Trump's религиозный framing Iran war",
+      "description": "В bid rally his база, президент Trump is tapping в христианин rhetoric reinforce backing для военные actions against Iran. Prominent evangelical figures are framing this situation as moral confrontation righteousness versus wickednes",
+      "source": "newsapi:The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/evangelicals-amplify-trumps-religious-framing-of-iran-war/articleshow/130109919.cms",
       "victims": 0
     },
     {
@@ -1005,6 +1122,19 @@
       "description": "Installation архиепископ Khalid Rehmat closes turbulent chapter для Pakistan’s largest Catholic diocese.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/from-chaos-into-new-life-pakistan-s-largest-diocese-installs-new-archbishop",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-07",
+      "lat": 20.9027,
+      "lng": 85.3284,
+      "country": "India",
+      "city": "Odisha",
+      "type": "attack",
+      "title": "Viral against Israel, silent о every other travesty",
+      "description": "Israeli полиция protecting кардинал vs. исламский террористы убийство христиане. Who does West villify? It’s same perverse logic that turned Gaza в global obsession пока ignoring Chinese лагеря для Uyghurs, церковь burnings в India, behe",
+      "source": "newsapi:Israelnationalnews.com",
+      "url": "https://www.israelnationalnews.com/news/425175",
       "victims": 0
     },
     {
@@ -6374,136 +6504,6 @@
       "description": "Sir Keir Starmer must confront Nigeria's president более the убийство of христиане while he is in the UK for a штат visit, MPs have demanded. The post You must confront Tinubu более Nigerian христиане’ killings – UK lawmakers tell Starmer appeared fi",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/03/you-must-confront-tinubu-over-nigerian-christians-killings-uk-lawmakers-tell-starmer/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-14",
-      "lat": 35.9223,
-      "lng": 51.4352,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "discrimination",
-      "title": "What it’s like to be a христианин in the Holy Land right now",
-      "description": "Air рейд sirens echo through Jerusalem’s narrow streets. Schools remain закрыт. Pilgrimage groups cancel their visits. Stations of the крест prayed in a bunker. For many христиане in the Holy Land, the latest escalation between Israel and Iran has t",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/03/14/what-its-like-to-be-a-christian-in-the-holy-land-right-now/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-14",
-      "lat": 29.7002,
-      "lng": 52.4327,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "discrimination",
-      "title": "What it’s like to be a христианин in the Holy Land right now",
-      "description": "Air рейд sirens echo through Jerusalem’s narrow streets. Schools remain закрыт. Pilgrimage groups cancel their visits. Stations of the крест prayed in a bunker. For many христиане in the Holy Land, the latest escalation between Israel and Iran has t",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/03/14/what-its-like-to-be-a-christian-in-the-holy-land-right-now/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-14",
-      "lat": 32.8885,
-      "lng": 51.7991,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "discrimination",
-      "title": "What it’s like to be a христианин in the Holy Land right now",
-      "description": "Air рейд sirens echo through Jerusalem’s narrow streets. Schools remain закрыт. Pilgrimage groups cancel their visits. Stations of the крест prayed in a bunker. For many христиане in the Holy Land, the latest escalation between Israel and Iran has t",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/03/14/what-its-like-to-be-a-christian-in-the-holy-land-right-now/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-13",
-      "lat": 12.2188,
-      "lng": 8.4548,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Фулани христиане Deny Link to Miyetti Allah as Plateau штат Violence Rages",
-      "description": "Фулани христиане in Nigeria say they are not members of Miyetti Allah, a фулани socio-political organization that civil society groups, lawmakers, and its жертвы have accused of being involved in terrorism and the гонение of христиане. Their",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/13/fulani-christians-deny-link-to-miyetti-allah-as-plateau-state-violence-rages/",
-      "victims": 16
-    },
-    {
-      "date": "2026-03-13",
-      "lat": 28.7007,
-      "lng": 77.2003,
-      "country": "India",
-      "city": "Delhi",
-      "type": "attack",
-      "title": "Cardinal of Iran arrives at the Vatican and meets with Pope Leo XIV после the взрыв of the country and days without news of him",
-      "description": "The Vatican has also recalled the Holy See’s diplomatic representative in Iran, the Indian священник Sebastian Febin, who had been serving as chargé d’affaires of the Apostolic Nunciature in the absence of a nuncio The post Cardinal of Iran arrives at t",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/03/12/cardinal-of-iran-arrives-at-the-vatican-and-meets-with-pope-leo-xiv-after-the-bombing-of-the-country-and-days-without-news-of-him/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-13",
-      "lat": 20.7951,
-      "lng": 84.8695,
-      "country": "India",
-      "city": "Odisha",
-      "type": "other",
-      "title": "The testimony of вера of христианин cricket champion Sanju Samson",
-      "description": "In the final of the 2026 ICC мужчины's T20 World Cup, India beat New Zealand. Indian player Sanju Samson attributed his success to God. A key athlete and the player of the match, the Kerala wicket-keeper-batter was seen молящийся on his knees. Simple gestu",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/03/12/the-testimony-of-faith-of-christian-cricket-champion-sanju-samson/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-13",
-      "lat": -4.6637,
-      "lng": 15.167,
-      "country": "Democratic Republic of the Congo",
-      "city": "Kinshasa",
-      "type": "murder",
-      "title": "Христиане Endure гонение, смерть, and разрушение in the DRC",
-      "description": "03/13/2026 DRC (International христианин Concern) – христиане are being атакован, убит, and похищен in the Democratic Republic of the Congo (DRC) every week, and the violence appears to be worse than ever. Between July 1, 2024, and July 1, 2025,",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/13/christians-endure-persecution-death-and-destruction-in-the-drc/",
-      "victims": 400
-    },
-    {
-      "date": "2026-03-13",
-      "lat": 11.8647,
-      "lng": 13.2192,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Фулани христиане Deny Link to Miyetti Allah as Plateau штат Violence Rages",
-      "description": "Фулани христиане in Nigeria say they are not members of Miyetti Allah, a фулани socio-political organization that civil society groups, lawmakers, and its жертвы have accused of being involved in terrorism and the гонение of христиане. Their",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/13/fulani-christians-deny-link-to-miyetti-allah-as-plateau-state-violence-rages/",
-      "victims": 16
-    },
-    {
-      "date": "2026-03-13",
-      "lat": 26.8371,
-      "lng": 80.8831,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "attack",
-      "title": "Cardinal of Iran arrives at the Vatican and meets with Pope Leo XIV после the взрыв of the country and days without news of him",
-      "description": "The Vatican has also recalled the Holy See’s diplomatic representative in Iran, the Indian священник Sebastian Febin, who had been serving as chargé d’affaires of the Apostolic Nunciature in the absence of a nuncio The post Cardinal of Iran arrives at t",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/03/12/cardinal-of-iran-arrives-at-the-vatican-and-meets-with-pope-leo-xiv-after-the-bombing-of-the-country-and-days-without-news-of-him/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-13",
-      "lat": 33.5767,
-      "lng": 72.8027,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "other",
-      "title": "Pakistani Catholics react to Vatican’s bishop reassignments",
-      "description": "Pope Leo XIV has named Bishop Khalid Rehmat of Quetta as the new archbishop of Lahore while transferring Archbishop Sebastian Shaw to lead the Quetta Apostolic Vicariate.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-catholics-react-to-vatican-s-bishop-reassignments",
       "victims": 0
     }
   ]
