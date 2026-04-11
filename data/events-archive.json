@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-11T06:46:16.147Z",
+    "lastUpdated": "2026-04-11T12:30:30.368Z",
     "totalEvents": 500
   },
   "events": [
@@ -342,6 +342,71 @@
       "description": "American папа is directly criticising American президент war в Iran. This is historic первый. папа's stance aligns с established церковь teachings. президент's administration claims divine endorsement для conflict.",
       "source": "newsapi:The Times of India",
       "url": "https://economictimes.indiatimes.com/news/international/global-trends/a-president-and-a-pope-the-worlds-most-influential-americans-are-at-odds-over-iran/articleshow/130159276.cms",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 35.4706,
+      "lng": 51.1861,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "Poll: Catholic support для президент Donald Trump drops below 50% amid Iran war",
+      "description": "Poll shows Catholics disapprove президент Donald Trump’s performance as президент, overall, including на how he has handled conflict с Iran.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/poll-trump-catholic-decline",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 35.7576,
+      "lng": 51.4701,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "Христианин right’s жертва complex fuels Trump’s Iran war",
+      "description": "Для evangelicals, there's no limit в defending президент's cruelty",
+      "source": "newsapi:Salon",
+      "url": "https://www.salon.com/2026/04/10/the-christian-rights-victim-complex-fuels-trumps-iran-war/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 21.1343,
+      "lng": 85.1539,
+      "country": "India",
+      "city": "Odisha",
+      "type": "other",
+      "title": "Biblical Story Esther в Context US-Iran War",
+      "description": "# chhotebhai – Shouldn’t Melania be jealous this relationship с another женщина? No, because Esther is not угроза her marriage. post Biblical Story Esther в Context US-Iran War appeared первый на Indian Catholic Matt",
+      "source": "newsapi:Indiancatholicmatters.org",
+      "url": "https://www.indiancatholicmatters.org/the-biblical-story-of-esther-in-the-context-of-us-iran-war/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 36.2747,
+      "lng": 59.6816,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Президент и папа: world's most influential Americans are odds Iran",
+      "description": "American папа is directly criticising American президент war в Iran. This is historic первый. папа's stance aligns с established церковь teachings. президент's administration claims divine endorsement для conflict.",
+      "source": "newsapi:The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/a-president-and-a-pope-the-worlds-most-influential-americans-are-at-odds-over-iran/articleshow/130159276.cms",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 35.7374,
+      "lng": 51.2817,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "Tehran кардинал breaks silence: ‘I celebrated Пасха Vigil carrying you all в my heart’",
+      "description": "Архиепископ Tehran reflects на being separated из his flock на Пасха, Filipino епископ speaks out для doves, French церковь is разгромлен, и more в на этой неделе’s world news roundup.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/tehran-cardinal-breaks-silence-i-celebrated-the-easter-vigil-carrying-you-all-in-my-heart",
       "victims": 0
     },
     {
@@ -901,6 +966,19 @@
       "description": "Augustinian confrere папа Leo XIV discussed pontiff’s upcoming trip four African countries.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/vatican/pope-will-address-tensions-between-christianity-and-islam-in-africa-nigerian-bishop-says",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-08",
+      "lat": 35.6765,
+      "lng": 51.5076,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "Evangelicals amplify Trump's религиозный framing Iran war",
+      "description": "В bid rally his база, президент Trump is tapping в христианин rhetoric reinforce backing для военные actions against Iran. Prominent evangelical figures are framing this situation as moral confrontation righteousness versus wickednes",
+      "source": "newsapi:The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/evangelicals-amplify-trumps-religious-framing-of-iran-war/articleshow/130109919.cms",
       "victims": 0
     },
     {
@@ -6426,84 +6504,6 @@
       "description": "Will Kharg’s христианин heritage survive present conflict, or will it become yet another пострадавший international strife?",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/beyond-oil-and-conflict-iran-s-kharg-island-holds-a-lost-christian-past",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-17",
-      "lat": 9.1562,
-      "lng": 9.4469,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "attack",
-      "title": "Атаки Against христиане в Nigeria Continue Despite U.S. военные Presence",
-      "description": "Христианский лидер в Nigeria’s плато штат has alleged that усилия secure international protection для communities facing repeated атаки в country’s Middle Belt did not result в assistance для most affected areas, despite раньше",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/17/attacks-against-christians-in-nigeria-continue-despite-u-s-military-presence/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-17",
-      "lat": 11.9103,
-      "lng": 13.309,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "attack",
-      "title": "Атаки Against христиане в Nigeria Continue Despite U.S. военные Presence",
-      "description": "Христианский лидер в Nigeria’s плато штат has alleged that усилия secure international protection для communities facing repeated атаки в country’s Middle Belt did not result в assistance для most affected areas, despite раньше",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/17/attacks-against-christians-in-nigeria-continue-despite-u-s-military-presence/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-17",
-      "lat": 10.3041,
-      "lng": 7.2236,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "attack",
-      "title": "Атаки Against христиане в Nigeria Continue Despite U.S. военные Presence",
-      "description": "Христианский лидер в Nigeria’s плато штат has alleged that усилия secure international protection для communities facing repeated атаки в country’s Middle Belt did not result в assistance для most affected areas, despite раньше",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/17/attacks-against-christians-in-nigeria-continue-despite-u-s-military-presence/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-17",
-      "lat": 40.1251,
-      "lng": 116.4159,
-      "country": "China",
-      "city": "Beijing",
-      "type": "other",
-      "title": "China’s гонение Has No Borders",
-      "description": "ICC Fellow Linda Burkle, PhD Fifteen годы ago, I traveled China с friend и министерство partner conduct training conference для подпольная церковь leaders. This was our второй trip equip и encourage them. Whereas my friend lives",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/17/chinas-persecution-has-no-borders/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-16",
-      "lat": 14.4163,
-      "lng": 121.0516,
-      "country": "Philippines",
-      "city": "Manila",
-      "type": "other",
-      "title": "March 17 marks 505 years of Christianity in the Philippines",
-      "description": "On March 17, 1521, Portuguese explorer Fernão de Magalhães (“Ferdinand Magellan”) arrived at Homonhon Island, making first contact with the local inhabitants. Along with Magellan was Father Pedro de Valderrama, as it was a legal requirement for exped",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/03/16/march-17-marks-505-years-of-christianity-in-the-philippines/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-16",
-      "lat": 19.0751,
-      "lng": 72.9265,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "discrimination",
-      "title": "Христианин семьи атакован после Being отказано правительство Assistance",
-      "description": "Twenty-eight христианин семьи in Chhattisgarh were brutally assaulted on March 10 после demanding justice from правительство власти, who have отказано them food rations for months. From November 2025 onwards, the head of the деревня council and the",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/16/christian-families-attacked-after-being-denied-government-assistance/",
       "victims": 0
     }
   ]
