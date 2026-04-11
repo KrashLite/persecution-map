@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-11T01:09:12.958Z",
+    "lastUpdated": "2026-04-11T06:46:16.147Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-04-11",
+      "lat": 12.0334,
+      "lng": 8.7179,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Bloody Holy неделя: 147 убит в Nigeria",
+      "description": "Nigeria was soaked в blood во время 2026 христианин Holy неделя, as no fewer than 147 лица were убит в wave coordinated атаки post Bloody Holy неделя: 147 убит в Nigeria appeared первый на Vanguard News.",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/04/bloody-holy-week-147-killed-in-nigeria/",
+      "victims": 147
+    },
     {
       "date": "2026-04-10",
       "lat": 10.6378,
@@ -277,6 +290,58 @@
       "description": "Архиепископ Tehran reflects на being separated из his flock на Пасха, Filipino епископ speaks out для doves, French церковь is разгромлен, и more в на этой неделе’s world news roundup.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/tehran-cardinal-breaks-silence-i-celebrated-the-easter-vigil-carrying-you-all-in-my-heart",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 36.1826,
+      "lng": 37.3678,
+      "country": "Syria",
+      "city": "Aleppo",
+      "type": "attack",
+      "title": "Syrian церкви Quietly Meet Following Violent атака",
+      "description": "Пока Syrian христиане usually celebrate Пасха с parades и various дети’s activities, no celebrations took place в этом году. христиане simply attended молитва meetings inside their церкви. This follows incident that happened в посёлок",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/10/syrian-churches-quietly-meet-following-violent-attack/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 6.648,
+      "lng": 3.5017,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "1,400 христиане убит в Nigeria so far в этом году, new report claims",
+      "description": "Intersociety said that 1,800 христиане were похищен в same период - с 180 abductees убит.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/over-1-400-christians-killed-in-nigeria-so-far-this-year-new-report-claims",
+      "victims": 400
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 32.729,
+      "lng": 51.4635,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Poll: Catholic support для президент Donald Trump drops below 50% amid Iran war",
+      "description": "Poll shows Catholics disapprove президент Donald Trump’s performance as президент, overall, including на how he has handled conflict с Iran.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/poll-trump-catholic-decline",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 29.8097,
+      "lng": 52.6726,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Президент и папа: world's most influential Americans are odds Iran",
+      "description": "American папа is directly criticising American президент war в Iran. This is historic первый. папа's stance aligns с established церковь teachings. президент's administration claims divine endorsement для conflict.",
+      "source": "newsapi:The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/a-president-and-a-pope-the-worlds-most-influential-americans-are-at-odds-over-iran/articleshow/130159276.cms",
       "victims": 0
     },
     {
@@ -563,6 +628,19 @@
       "description": "“ core ecological и social crises is human heart enclosed в upon itself, alienated из God, our neighbor, и creation,” епископы said в new pastoral missive.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/in-ecological-letter-indiana-bishops-urge-catholics-to-care-for-god-s-good-world",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-09",
+      "lat": 32.7201,
+      "lng": 51.9081,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "attack",
+      "title": "'Truly Insane': Pentagon угрожали папа после He Condemned Trump's военные атаки",
+      "description": "Папа Leo, первый American be named head worldwide католическая церковь, has spoken out against президент Donald Trump's policies frequently в этом году as US has invaded Venezuela и Iran и угрожали Cuba's 10 million люди с",
+      "source": "newsapi:Common Dreams",
+      "url": "https://www.commondreams.org/news/pope-leo-and-trump",
       "victims": 0
     },
     {
@@ -1372,6 +1450,19 @@
       "victims": 0
     },
     {
+      "date": "2026-04-07",
+      "lat": 6.3222,
+      "lng": 3.3029,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "12 христиане убит в Пасха воскресенье церковь атаки в Nigeria",
+      "description": "Фулани террористы убит 12 христиане в атаки на two богослужение services на Пасха воскресенье в Kaduna штат, Nigeria, following убийство 17 христиане в Benue штат, sources said.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/12-christians-killed-in-easter-sunday-church-attacks-in-nigeria",
+      "victims": 12
+    },
+    {
       "date": "2026-04-06",
       "lat": 9.3381,
       "lng": 9.6824,
@@ -1702,6 +1793,19 @@
       "lng": 9.6297,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "murder",
+      "title": "Suspected джихадисты Terrorize христиане Throughout Nigeria на Пасха",
+      "description": "Nigerian христиане experienced deadly suspected джихадист атаки в least five штаты на Пасха воскресенье. post Suspected джихадисты Terrorize христиане Throughout Nigeria на Пасха appeared первый на Breitbart.",
+      "source": "newsapi:Breitbart News",
+      "url": "https://www.breitbart.com/africa/2026/04/06/suspected-jihadists-terrorize-christians-throughout-nigeria-easter/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-06",
+      "lat": 10.4954,
+      "lng": 7.4621,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "murder",
       "title": "Suspected джихадисты Terrorize христиане Throughout Nigeria на Пасха",
       "description": "Nigerian христиане experienced deadly suspected джихадист атаки в least five штаты на Пасха воскресенье. post Suspected джихадисты Terrorize христиане Throughout Nigeria на Пасха appeared первый на Breitbart.",
@@ -6400,110 +6504,6 @@
       "description": "Twenty-eight христианин семьи in Chhattisgarh were brutally assaulted on March 10 после demanding justice from правительство власти, who have отказано them food rations for months. From November 2025 onwards, the head of the деревня council and the",
       "source": "persecution",
       "url": "https://persecution.org/2026/03/16/christian-families-attacked-after-being-denied-government-assistance/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-16",
-      "lat": 29.4477,
-      "lng": 52.5975,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "discrimination",
-      "title": "Israel steps up campaign in Lebanon; Iran hits near церковь of the Holy Sepulcher",
-      "description": "In Israel, an intercepted Iranian missile нападение sprayed shrapnel through Jerusalem’s Old город, hitting the rooftop of the Greek Orthodox Patriarchate, just meters from the церковь of the Holy Sepulcher.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/israel-steps-up-campaign-in-lebanon-iran-hits-near-church-of-the-holy-sepulcher/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-16",
-      "lat": 20.7797,
-      "lng": 85.3149,
-      "country": "India",
-      "city": "Odisha",
-      "type": "discrimination",
-      "title": "Христианин семьи атакован после Being отказано правительство Assistance",
-      "description": "Twenty-eight христианин семьи in Chhattisgarh were brutally assaulted on март 10 после demanding justice from правительство власти, who have отказано them food rations for месяцы. From ноябрь 2025 onwards, the head of the деревня совет and the",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/16/christian-families-attacked-after-being-denied-government-assistance/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-16",
-      "lat": 6.6991,
-      "lng": 3.3847,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "I Went To Nigeria — Here’s What The Media Gets Wrong",
-      "description": "I sat in a room in Sarkin Pawa, Niger штат, surrounded by мусульманин and христианин мужчины and женщины waiting to speak.",
-      "source": "newsapi:The Daily Caller",
-      "url": "https://dailycaller.com/2026/03/16/nigeria-media-fulani-christian-muslim-president-tinubu/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-16",
-      "lat": 21.0601,
-      "lng": 81.9349,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "discrimination",
-      "title": "Христианские семьи атакован после Being отказано правительство Assistance",
-      "description": "Twenty-eight христианские семьи в Chhattisgarh were brutally assaulted на март 10 после demanding justice из правительство власти, who have отказано them food rations для месяцы. из ноябрь 2025 onwards, head деревня совет и",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/16/christian-families-attacked-after-being-denied-government-assistance/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-16",
-      "lat": 11.9712,
-      "lng": 13.0926,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "I Went Nigeria — Here’s What Media Gets Wrong",
-      "description": "I sat в room в Sarkin Pawa, Niger штат, surrounded мусульманин и христиане и женщины waiting speak.",
-      "source": "newsapi:The Daily Caller",
-      "url": "https://dailycaller.com/2026/03/16/nigeria-media-fulani-christian-muslim-president-tinubu/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-16",
-      "lat": 11.9891,
-      "lng": 8.5529,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "I Went Nigeria — Here’s What Media Gets Wrong",
-      "description": "I sat в room в Sarkin Pawa, Niger штат, surrounded мусульманин и христиане и женщины waiting speak.",
-      "source": "newsapi:The Daily Caller",
-      "url": "https://dailycaller.com/2026/03/16/nigeria-media-fulani-christian-muslim-president-tinubu/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-16",
-      "lat": 18.9667,
-      "lng": 73.0828,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "discrimination",
-      "title": "Христианские семьи атакован после Being отказано правительство Assistance",
-      "description": "Twenty-eight христианские семьи в Chhattisgarh were brutally assaulted на март 10 после demanding justice из правительство власти, who have отказано them food rations для месяцы. из ноябрь 2025 onwards, head деревня совет и",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/16/christian-families-attacked-after-being-denied-government-assistance/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-16",
-      "lat": 10.3966,
-      "lng": 7.5238,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "I Went Nigeria — Here’s What Media Gets Wrong",
-      "description": "I sat в room в Sarkin Pawa, Niger штат, surrounded мусульманин и христиане и женщины waiting speak.",
-      "source": "newsapi:The Daily Caller",
-      "url": "https://dailycaller.com/2026/03/16/nigeria-media-fulani-christian-muslim-president-tinubu/",
       "victims": 0
     }
   ]
