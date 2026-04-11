@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-11T12:30:30.368Z",
+    "lastUpdated": "2026-04-11T18:27:02.591Z",
     "totalEvents": 500
   },
   "events": [
@@ -410,6 +410,58 @@
       "victims": 0
     },
     {
+      "date": "2026-04-10",
+      "lat": 33.5593,
+      "lng": 36.2948,
+      "country": "Syria",
+      "city": "Damascus",
+      "type": "attack",
+      "title": "Syrian церкви Quietly Meet Following Violent атака",
+      "description": "Пока Syrian христиане usually celebrate Пасха с parades и various дети’s activities, no celebrations took place в этом году. христиане simply attended молитва meetings inside their церкви. This follows incident that happened в посёлок",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/10/syrian-churches-quietly-meet-following-violent-attack/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 35.6735,
+      "lng": 51.5436,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "Look Leo’s words, just wars, и what’s not considered",
+      "description": "На Palm воскресенье, папа Leo said в his проповедь that God “does not listen молитвы those who wage war.” Since start US-Iran conflict, папа has repeatedly called для peace и criticized war, и his comments have sparked lot",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/04/10/a-look-at-leos-words-just-wars-and-whats-not-considered/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 21.4925,
+      "lng": 82.1095,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Biblical Story Esther в Context US-Iran War",
+      "description": "# chhotebhai – Shouldn’t Melania be jealous this relationship с another женщина? No, because Esther is not угроза her marriage. post Biblical Story Esther в Context US-Iran War appeared первый на Indian Catholic Matt",
+      "source": "newsapi:Indiancatholicmatters.org",
+      "url": "https://www.indiancatholicmatters.org/the-biblical-story-of-esther-in-the-context-of-us-iran-war/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 36.2555,
+      "lng": 59.7972,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Tehran кардинал breaks silence: ‘I celebrated Пасха Vigil carrying you all в my heart’",
+      "description": "Архиепископ Tehran reflects на being separated из his flock на Пасха, Filipino епископ speaks out для doves, French церковь is разгромлен, и more в на этой неделе’s world news roundup.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/tehran-cardinal-breaks-silence-i-celebrated-the-easter-vigil-carrying-you-all-in-my-heart",
+      "victims": 0
+    },
+    {
       "date": "2026-04-09",
       "lat": 36.0118,
       "lng": 59.8415,
@@ -706,6 +758,19 @@
       "description": "Папа Leo, первый American be named head worldwide католическая церковь, has spoken out against президент Donald Trump's policies frequently в этом году as US has invaded Venezuela и Iran и угрожали Cuba's 10 million люди с",
       "source": "newsapi:Common Dreams",
       "url": "https://www.commondreams.org/news/pope-leo-and-trump",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-09",
+      "lat": 32.6298,
+      "lng": 51.901,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Catholic moral theologians worry для гражданские amid shaky Iran ceasefire, Trump rhetoric",
+      "description": "Fighting is paused для о two недели, but Trump's угрозы against гражданский infrastructure alarm Catholic moral theologians, who emphasize that it is immoral intentionally harm noncombatants.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/catholic-theologians-comment-trump-iran-threats",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "Когда reading о страдания христиане в Nigeria, one fact stands out: Despite трудности attending месса there, report в 2023 showed that 94% self-identified Nigerian Catholics surveyed said they attend weekly or daily месса.",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/03/17/what-could-increase-attendance-rates-at-sunday-mass/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-17",
-      "lat": 8.8689,
-      "lng": 7.554,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "attack",
-      "title": "Атаки Against христиане в Nigeria Continue Despite U.S. военные Presence",
-      "description": "Христианский лидер в Nigeria’s плато штат has alleged that усилия secure international protection для communities facing repeated атаки в country’s Middle Belt did not result в assistance для most affected areas, despite раньше",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/17/attacks-against-christians-in-nigeria-continue-despite-u-s-military-presence/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-17",
-      "lat": 36.3016,
-      "lng": 59.6716,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Iranian ракета fragments осень near церковь Holy Sepulchre",
-      "description": "Правительство Israel condemned Iranian regime для “firing ракеты holy sites Jerusalem, endangering евреи, мусульмане, и христиане alike.”",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/iranian-missile-explodes-over-jerusalem-fragments-fall-near-church-of-the-holy-sepulchre",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-17",
-      "lat": 9.3128,
-      "lng": 7.3382,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "What could increase attendance rates воскресенье месса?",
-      "description": "Когда reading о страдания христиане в Nigeria, one fact stands out: Despite трудности attending месса there, report в 2023 showed that 94% self-identified Nigerian Catholics surveyed said they attend weekly or daily месса.",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/03/17/what-could-increase-attendance-rates-at-sunday-mass/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-17",
-      "lat": 36.1966,
-      "lng": 59.83,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Beyond oil и conflict, Iran’s Kharg остров holds lost христианин past",
-      "description": "Will Kharg’s христианин heritage survive present conflict, or will it become yet another пострадавший international strife?",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/beyond-oil-and-conflict-iran-s-kharg-island-holds-a-lost-christian-past",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-17",
-      "lat": 32.6637,
-      "lng": 51.5728,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Beyond oil и conflict, Iran’s Kharg остров holds lost христианин past",
-      "description": "Will Kharg’s христианин heritage survive present conflict, or will it become yet another пострадавший international strife?",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/beyond-oil-and-conflict-iran-s-kharg-island-holds-a-lost-christian-past",
       "victims": 0
     }
   ]
