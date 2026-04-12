@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-12T01:18:27.155Z",
+    "lastUpdated": "2026-04-12T07:02:24.416Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "Grim pattern terror атаки на религиозный праздники highlights Nigeria’s security crisis, с церкви и public spaces becoming убийство fields. Read More: https://punchng.com/Пасха-gets-bloodier/",
       "source": "punchng",
       "url": "https://punchng.com/easter-gets-bloodier/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-12",
+      "lat": 12.0662,
+      "lng": 13.3659,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "Foursquare церковь raises alarm rising insecurity",
+      "description": "Foursquare Gospel церковь в Nigeria has raised fresh concerns worsening security situation в country, calling на христиане intensify молитвы для peace и national stability. According statement на суббота, General Ove",
+      "source": "punchng",
+      "url": "https://punchng.com/foursquare-church-raises-the-alarm-over-rising-insecurity/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     },
     {
@@ -485,6 +498,32 @@
       "description": "Архиепископ Tehran reflects на being separated из his flock на Пасха, Filipino епископ speaks out для doves, French церковь is разгромлен, и more в на этой неделе’s world news roundup.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/tehran-cardinal-breaks-silence-i-celebrated-the-easter-vigil-carrying-you-all-in-my-heart",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 9.1671,
+      "lng": 7.514,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "1,400 христиане убит в Nigeria so far в этом году, new report claims",
+      "description": "Intersociety said that 1,800 христиане were похищен в same период - с 180 abductees убит.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/over-1-400-christians-killed-in-nigeria-so-far-this-year-new-report-claims",
+      "victims": 400
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 28.4789,
+      "lng": 77.1862,
+      "country": "India",
+      "city": "Delhi",
+      "type": "other",
+      "title": "Biblical Story Esther в Context US-Iran War",
+      "description": "# chhotebhai – Shouldn’t Melania be jealous this relationship с another женщина? No, because Esther is not угроза her marriage. post Biblical Story Esther в Context US-Iran War appeared первый на Indian Catholic Matt",
+      "source": "newsapi:Indiancatholicmatters.org",
+      "url": "https://www.indiancatholicmatters.org/the-biblical-story-of-esther-in-the-context-of-us-iran-war/",
       "victims": 0
     },
     {
@@ -1070,6 +1109,19 @@
       "description": "В bid rally his база, президент Trump is tapping в христианин rhetoric reinforce backing для военные actions against Iran. Prominent evangelical figures are framing this situation as moral confrontation righteousness versus wickednes",
       "source": "newsapi:The Times of India",
       "url": "https://economictimes.indiatimes.com/news/international/global-trends/evangelicals-amplify-trumps-religious-framing-of-iran-war/articleshow/130109919.cms",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-08",
+      "lat": 10.2658,
+      "lng": 7.6609,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Папа will address tensions between христианство и ислам в Africa, Nigerian епископ says",
+      "description": "Augustinian confrere папа Leo XIV discussed pontiff’s upcoming trip four African countries.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/vatican/pope-will-address-tensions-between-christianity-and-islam-in-africa-nigerian-bishop-says",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "Will Kharg’s христианин heritage survive present conflict, or will it become yet another пострадавший international strife?",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/beyond-oil-and-conflict-iran-s-kharg-island-holds-a-lost-christian-past",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-17",
-      "lat": 23.8783,
-      "lng": 90.2844,
-      "country": "Bangladesh",
-      "city": "Dhaka",
-      "type": "discrimination",
-      "title": "‘They want evict us’: Why Indigenous Catholics fight лес project в Bangladesh",
-      "description": "Catholic Indigenous leaders в Bangladesh say they will escalate protests if правительство does not halt лес development project they call pretext для выселение.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/they-want-to-evict-us-indigenous-catholics-fight-forest-project-in-bangladesh",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-17",
-      "lat": 43.5848,
-      "lng": 87.8401,
-      "country": "China",
-      "city": "Xinjiang",
-      "type": "other",
-      "title": "China’s гонение Has No Borders",
-      "description": "ICC Fellow Linda Burkle, PhD Fifteen годы ago, I traveled China с friend и министерство partner conduct training conference для подпольная церковь leaders. This was our второй trip equip и encourage them. Whereas my friend lives",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/17/chinas-persecution-has-no-borders/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-17",
-      "lat": 29.7215,
-      "lng": 52.4185,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "Beyond oil и conflict, Iran’s Kharg остров holds lost христианин past",
-      "description": "Will Kharg’s христианин heritage survive present conflict, or will it become yet another пострадавший international strife?",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/beyond-oil-and-conflict-iran-s-kharg-island-holds-a-lost-christian-past",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-17",
-      "lat": 6.7485,
-      "lng": 3.2404,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "attack",
-      "title": "Атаки Against христиане в Nigeria Continue Despite U.S. военные Presence",
-      "description": "Христианский лидер в Nigeria’s плато штат has alleged that усилия secure international protection для communities facing repeated атаки в country’s Middle Belt did not result в assistance для most affected areas, despite раньше",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/17/attacks-against-christians-in-nigeria-continue-despite-u-s-military-presence/",
       "victims": 0
     }
   ]
