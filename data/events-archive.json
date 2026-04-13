@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-13T01:19:45.812Z",
+    "lastUpdated": "2026-04-13T07:32:48.709Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-04-13",
+      "lat": 36.403,
+      "lng": 59.497,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Trump lambasts папа Leo XIV, extending feud Iran war с первый American pontiff",
+      "description": "Президент Donald Trump delivered extraordinary broadside against папа Leo XIV на воскресенье ночь, saying he didn’t think U.S.-born global leader католическая церковь is “doing very good job.\"",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-usa/2026/04/trump-lambasts-pope-leo-xiv-extending-feud-over-iran-war-with-first-american-pontiff/",
+      "victims": 0
+    },
     {
       "date": "2026-04-12",
       "lat": 10.6831,
@@ -56,6 +69,32 @@
       "description": "High-level face--face talks в Pakistan followed недели военные confrontation that began в поздно февраль и produced tenuous two-неделя ceasefire, which ends апрель 22.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/u-s-iran-talks-collapse-as-vance-cites-nuclear-impasse-and-catholic-leaders-call-for-peace",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-12",
+      "lat": 31.3563,
+      "lng": 74.4074,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "other",
+      "title": "U.S.-Iran talks collapse as Vance cites nuclear impasse и Catholic leaders call для peace",
+      "description": "High-level face--face talks в Pakistan followed недели военные confrontation that began в поздно февраль и produced tenuous two-неделя ceasefire, which ends апрель 22.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/u-s-iran-talks-collapse-as-vance-cites-nuclear-impasse-and-catholic-leaders-call-for-peace",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-12",
+      "lat": 4.2784,
+      "lng": 18.6013,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "discrimination",
+      "title": "Why Is папа Going Lebanon? What Is Dialogue с мусульмане Like? и What Is Role Charles de Foucauld? ZENIT’s Interview с кардинал Algeria",
+      "description": "Better understand католическая церковь в Algeria и implications Holy Father's Apostolic Visit, ZENIT interviewed кардинал Jean-Paul Vesco, архиепископ Algiers, who has resided в country для more than 22 годы. post Why Is",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/04/11/why-is-the-pope-going-to-lebanon-what-is-the-dialogue-with-muslims-like-and-what-is-the-role-of-charles-de-foucauld-zenits-interview-with-the-cardinal-of-algeria/",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Will Kharg’s христианин heritage survive the present conflict, or will it become yet another casualty of international strife?",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/beyond-oil-and-conflict-iran-s-kharg-island-holds-a-lost-christian-past",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-17",
-      "lat": 23.5827,
-      "lng": 90.4902,
-      "country": "Bangladesh",
-      "city": "Dhaka",
-      "type": "discrimination",
-      "title": "‘They want to evict us’: Why Indigenous Catholics fight forest project in Bangladesh",
-      "description": "Catholic Indigenous leaders in Bangladesh say they will escalate protests if the правительство does not halt a forest development project they call a pretext for eviction.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/they-want-to-evict-us-indigenous-catholics-fight-forest-project-in-bangladesh",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-17",
-      "lat": 6.4584,
-      "lng": 3.4455,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "attack",
-      "title": "Атаки Against христиане in Nigeria Continue Despite U.S. военные Presence",
-      "description": "A христианин leader in Nigeria’s плато штат has alleged that усилия to secure international protection for communities facing repeated атаки in the country’s Middle Belt did not result in assistance for the most affected areas, despite раньше a",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/17/attacks-against-christians-in-nigeria-continue-despite-u-s-military-presence/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-17",
-      "lat": 32.5983,
-      "lng": 51.6103,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Iranian ракета fragments осень near церковь of the Holy Sepulchre",
-      "description": "The правительство of Israel condemned the Iranian regime for “firing ракеты at the holy sites of Jerusalem, endangering евреи, мусульмане, and христиане alike.”",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/iranian-missile-explodes-over-jerusalem-fragments-fall-near-church-of-the-holy-sepulchre",
       "victims": 0
     }
   ]
