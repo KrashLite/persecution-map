@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-13T12:56:11.060Z",
+    "lastUpdated": "2026-04-13T18:58:40.439Z",
     "totalEvents": 500
   },
   "events": [
@@ -82,6 +82,71 @@
       "description": "Кардинал Jean-Paul Vesco said visit папа Leo is what церковь в Algeria needs this moment.",
       "source": "crux",
       "url": "https://cruxnow.com/pope-in-africa/2026/04/9000-christians-in-algeria-welcome-visit-by-pope-leo/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-13",
+      "lat": 6.2971,
+      "lng": 3.6142,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Фулани террористы kill 20 христиане в Nigeria's плато штат",
+      "description": "Боевики described as “фулани террористы” raided деревня в central Nigeria на четверг ночь и убит least 20 христиане, area residents said.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/fulani-terrorists-kill-20-christians-in-nigeria-s-plateau-state",
+      "victims": 20
+    },
+    {
+      "date": "2026-04-13",
+      "lat": 35.8425,
+      "lng": 51.286,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "Trump lambasts папа Leo XIV, extending feud Iran war с первый American pontiff",
+      "description": "Президент Donald Trump delivered extraordinary broadside against папа Leo XIV на воскресенье ночь, saying he didn’t think U.S.-born global leader католическая церковь is “doing very good job.\"",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-usa/2026/04/trump-lambasts-pope-leo-xiv-extending-feud-over-iran-war-with-first-american-pontiff/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-13",
+      "lat": 35.7095,
+      "lng": 51.3791,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "Папа calls для peace в Algeria against Iran war’s backdrop",
+      "description": "На his первый день в Algeria, Leo paid homage 19 martyrs и visiting remaining Augustinian монахини who run social services project out Algiers basilica that helps люди all веры.",
+      "source": "crux",
+      "url": "https://cruxnow.com/pope-in-africa/2026/04/pope-calls-for-peace-in-algeria-against-iran-wars-backdrop/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-13",
+      "lat": 12.2312,
+      "lng": 8.6862,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Папа’s Africa visit amid new смерть tolls в Nigeria, Congo, elsewhere",
+      "description": "As папа Francis begins his multi-country visit across Africa на этой неделе, journey unfolds against sobering backdrop: conflict, перемещение, и fragile hope across several регионы continent. His itinerary — including Algeria, Cameroon,",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/04/13/popes-africa-visit-amid-new-death-tolls-in-nigeria-congo-elsewhere/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-13",
+      "lat": 36.6199,
+      "lng": 2.9905,
+      "country": "Algeria",
+      "city": "Algiers",
+      "type": "other",
+      "title": "Папа Leo XIV recalls ‘living seed’ martyrs Algeria",
+      "description": "Meeting в Catholic Basilica Our Lady Africa concluded первый день папа’s journey Africa.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-recalls-the-living-seed-of-the-martyrs-of-algeria",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "Comprising о 10% Egypt’s current population, Copts are largest христианская община в Middle East и North Africa (MENA) регион. Among earliest all христиане, Copts inhabited Egypt для many века до исламский con",
       "source": "persecution",
       "url": "https://persecution.org/2026/03/18/how-christian-girls-become-muslim-wives-in-egypt/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-18",
-      "lat": 21.2285,
-      "lng": 81.6197,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "arrest",
-      "title": "Когда Help Arrives Just Right Time",
-      "description": "На Jan. 21, 2025, индус nationalists атакован пастор Ishan Prasad и his семья во время молитва meeting в their деревня в India, severely injuring each семья member. Following атака, власти скоро задержан пастор Prasad, charging him с",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/18/when-help-arrives-at-just-the-right-time/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-18",
-      "lat": 23.0358,
-      "lng": -82.5435,
-      "country": "Cuba",
-      "city": "Havana",
-      "type": "arrest",
-      "title": "Пастор арестован в Cuba после uploading Библия lesson YouTube",
-      "description": "Пастор Rolando Pérez Lora was accosted полиция mere moments после uploading video.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/pastor-arrested-in-cuba-after-uploading-bible-lesson-to-youtube",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-18",
-      "lat": 31.095,
-      "lng": 29.9466,
-      "country": "Egypt",
-      "city": "Alexandria",
-      "type": "other",
-      "title": "How христианин Girls Become мусульманин Wives в Egypt",
-      "description": "Comprising о 10% Egypt’s current population, Copts are largest христианская община в Middle East и North Africa (MENA) регион. Among earliest all христиане, Copts inhabited Egypt для many века до исламский con",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/18/how-christian-girls-become-muslim-wives-in-egypt/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-18",
-      "lat": 28.9096,
-      "lng": 77.0975,
-      "country": "India",
-      "city": "Delhi",
-      "type": "arrest",
-      "title": "Когда Help Arrives Just Right Time",
-      "description": "На Jan. 21, 2025, индус nationalists атакован пастор Ishan Prasad и his семья во время молитва meeting в their деревня в India, severely injuring each семья member. Following атака, власти скоро задержан пастор Prasad, charging him с",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/18/when-help-arrives-at-just-the-right-time/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-18",
-      "lat": 21.1225,
-      "lng": 85.0474,
-      "country": "India",
-      "city": "Odisha",
-      "type": "arrest",
-      "title": "Когда Help Arrives Just Right Time",
-      "description": "На Jan. 21, 2025, индус nationalists атакован пастор Ishan Prasad и his семья во время молитва meeting в their деревня в India, severely injuring each семья member. Following атака, власти скоро задержан пастор Prasad, charging him с",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/18/when-help-arrives-at-just-the-right-time/",
       "victims": 0
     }
   ]
