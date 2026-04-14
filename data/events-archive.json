@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-14T01:18:02.442Z",
+    "lastUpdated": "2026-04-14T07:16:04.491Z",
     "totalEvents": 500
   },
   "events": [
@@ -225,6 +225,58 @@
       "description": "Augustinian монахини were о enter Catholic chapel в Algiers когда they were gunned down. папа Leo ранее visited their community в 2009 когда he was prior Order St. Augustine.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/pope-leo-xiv-honors-two-spanish-nuns-murdered-in-algeria-in-1994",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-13",
+      "lat": 9.065,
+      "lng": 7.3982,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Фулани ополчения Kill More христиане после Holy неделя резни",
+      "description": "Христиане across central Nigeria are holding funerals following атаки во время и после Holy неделя that left least 157 люди погибшие в rural communities. Eight христиане were убит в поздно-ночь атака на Mbwelle деревня в Bokkos Local Govern",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/13/fulani-militias-kill-more-christians-after-holy-week-massacres/",
+      "victims": 157
+    },
+    {
+      "date": "2026-04-13",
+      "lat": 28.3141,
+      "lng": 30.7331,
+      "country": "Egypt",
+      "city": "Minya",
+      "type": "arrest",
+      "title": "Upcoming суд Threatens Egyptian христианин-конверт",
+      "description": "Egyptian христианин-конверт и internationally recognized prisoner conscience, Said Abdelrazek, is facing imminent суд hearing that защитники warn could determine whether he lives or disappears в Egypt’s notorious задержание system. Abd",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/13/upcoming-trial-threatens-egyptian-christian-convert/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-13",
+      "lat": 29.7247,
+      "lng": 52.5014,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Trump lambasts папа Leo XIV, extending feud Iran war с первый American pontiff",
+      "description": "Президент Donald Trump delivered extraordinary broadside against папа Leo XIV на воскресенье ночь, saying he didn’t think U.S.-born global leader католическая церковь is “doing very good job.\"",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-usa/2026/04/trump-lambasts-pope-leo-xiv-extending-feud-over-iran-war-with-first-american-pontiff/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-13",
+      "lat": 32.8619,
+      "lng": 51.6404,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Папа calls для peace в Algeria against Iran war’s backdrop",
+      "description": "На his первый день в Algeria, Leo paid homage 19 martyrs и visiting remaining Augustinian монахини who run social services project out Algiers basilica that helps люди all веры.",
+      "source": "crux",
+      "url": "https://cruxnow.com/pope-in-africa/2026/04/pope-calls-for-peace-in-algeria-against-iran-wars-backdrop/",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "As христиане в their country suffer increased гонение, Nigerian епископы bring hopes nation Rome.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/vatican/nigerian-bishops-tell-the-pope-our-people-are-dying",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-19",
-      "lat": 10.6862,
-      "lng": 7.3436,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Nigerian епископы tell папа: Our люди are dying",
-      "description": "As христиане в their country suffer increased гонение, Nigerian епископы bring hopes nation Rome.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/vatican/nigerian-bishops-tell-the-pope-our-people-are-dying",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-19",
-      "lat": 11.9041,
-      "lng": 8.789,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "Nigerian епископы tell папа: Our люди are dying",
-      "description": "As христиане в their country suffer increased гонение, Nigerian епископы bring hopes nation Rome.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/vatican/nigerian-bishops-tell-the-pope-our-people-are-dying",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-19",
-      "lat": 8.8983,
-      "lng": 7.733,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "Nigerian епископы tell папа: Our люди are dying",
-      "description": "As христиане в their country suffer increased гонение, Nigerian епископы bring hopes nation Rome.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/vatican/nigerian-bishops-tell-the-pope-our-people-are-dying",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-19",
-      "lat": 9.0624,
-      "lng": 9.269,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "UK urged press Nigeria на violence against христиане во время historic Tinubu visit",
-      "description": "Coalition христианин и human rights organisations has called на UK правительство use президент Bola Tinubu’s штат visit Britain press для stronger protections для христиане и other vulnerable communities в Nigeria, amid continuin",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/uk-urged-to-press-nigeria-on-violence-against-christians-during-historic-tinubu-visit",
       "victims": 0
     }
   ]
