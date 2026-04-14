@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-13T18:58:40.439Z",
+    "lastUpdated": "2026-04-14T01:18:02.442Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-04-14",
+      "lat": 9.0831,
+      "lng": 38.882,
+      "country": "Ethiopia",
+      "city": "Addis Ababa",
+      "type": "murder",
+      "title": "Violence Increases Against христианские общины в East Arsi, Ethiopia",
+      "description": "Series deadly атаки targeting христианские общины в Ethiopia’s East Arsi Zone, в Oromia регион, between поздно февраль и апрель, has raised deep concern among церковь leaders и local communities. Many сейчас warn that what is happening i",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/14/violence-increases-against-christian-communities-in-east-arsi-ethiopia/",
+      "victims": 0
+    },
     {
       "date": "2026-04-13",
       "lat": 36.403,
@@ -147,6 +160,71 @@
       "description": "Meeting в Catholic Basilica Our Lady Africa concluded первый день папа’s journey Africa.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-recalls-the-living-seed-of-the-martyrs-of-algeria",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-13",
+      "lat": 11.8646,
+      "lng": 8.4475,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Фулани ополчения Kill More христиане после Holy неделя резни",
+      "description": "Христиане across central Nigeria are holding funerals following атаки во время и после Holy неделя that left least 157 люди погибшие в rural communities. Eight христиане were убит в поздно-ночь атака на Mbwelle деревня в Bokkos Local Govern",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/13/fulani-militias-kill-more-christians-after-holy-week-massacres/",
+      "victims": 157
+    },
+    {
+      "date": "2026-04-13",
+      "lat": 9.0268,
+      "lng": 9.5679,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Фулани террористы kill 20 христиане в Nigeria's плато штат",
+      "description": "Боевики described as “фулани террористы” raided деревня в central Nigeria на четверг ночь и убит least 20 христиане, area residents said.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/fulani-terrorists-kill-20-christians-in-nigeria-s-plateau-state",
+      "victims": 20
+    },
+    {
+      "date": "2026-04-13",
+      "lat": 32.7745,
+      "lng": 51.4236,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "‘60 Minutes’ takes stock католическая церковь под Leo с top кардиналы",
+      "description": "Three influential American кардиналы spoke о церковь под папа Leo XIV в interview на “60 Minutes” that looked rising обращения, patriotism, Iran war, и immigration enforcement.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/60-minutes-takes-stock-of-catholic-church-under-leo-with-top-cardinals",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-13",
+      "lat": 31.022,
+      "lng": 29.7525,
+      "country": "Egypt",
+      "city": "Alexandria",
+      "type": "arrest",
+      "title": "Upcoming суд Threatens Egyptian христианин-конверт",
+      "description": "Egyptian христианин-конверт и internationally recognized prisoner conscience, Said Abdelrazek, is facing imminent суд hearing that защитники warn could determine whether he lives or disappears в Egypt’s notorious задержание system. Abd",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/13/upcoming-trial-threatens-egyptian-christian-convert/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-13",
+      "lat": 36.804,
+      "lng": 3.026,
+      "country": "Algeria",
+      "city": "Algiers",
+      "type": "murder",
+      "title": "Папа Leo XIV honors 2 Spanish монахини убит в Algeria в 1994",
+      "description": "Augustinian монахини were о enter Catholic chapel в Algiers когда they were gunned down. папа Leo ранее visited their community в 2009 когда he was prior Order St. Augustine.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/pope-leo-xiv-honors-two-spanish-nuns-murdered-in-algeria-in-1994",
       "victims": 0
     },
     {
@@ -798,6 +876,19 @@
       "source": "newsapi:Indiancatholicmatters.org",
       "url": "https://www.indiancatholicmatters.org/the-biblical-story-of-esther-in-the-context-of-us-iran-war/",
       "victims": 0
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 9.197,
+      "lng": 9.6322,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "1,400 христиане убит в Nigeria so far в этом году, new report claims",
+      "description": "Intersociety said that 1,800 христиане were похищен в same период - с 180 abductees убит.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/over-1-400-christians-killed-in-nigeria-so-far-this-year-new-report-claims",
+      "victims": 400
     },
     {
       "date": "2026-04-09",
@@ -6413,97 +6504,6 @@
       "description": "Coalition христианин и human rights organisations has called на UK правительство use президент Bola Tinubu’s штат visit Britain press для stronger protections для христиане и other vulnerable communities в Nigeria, amid continuin",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/uk-urged-to-press-nigeria-on-violence-against-christians-during-historic-tinubu-visit",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-19",
-      "lat": 12.225,
-      "lng": 8.6587,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "UK urged press Nigeria на violence against христиане во время historic Tinubu visit",
-      "description": "Coalition христианин и human rights organisations has called на UK правительство use президент Bola Tinubu’s штат visit Britain press для stronger protections для христиане и other vulnerable communities в Nigeria, amid continuin",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/uk-urged-to-press-nigeria-on-violence-against-christians-during-historic-tinubu-visit",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-19",
-      "lat": 6.3667,
-      "lng": 3.5529,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Nigerian епископы tell папа: Our люди are dying",
-      "description": "As христиане в their country suffer increased гонение, Nigerian епископы bring hopes nation Rome.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/vatican/nigerian-bishops-tell-the-pope-our-people-are-dying",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-18",
-      "lat": 28.1534,
-      "lng": 30.9809,
-      "country": "Egypt",
-      "city": "Minya",
-      "type": "other",
-      "title": "How христианин Girls Become мусульманин Wives in Egypt",
-      "description": "Comprising about 10% of Egypt’s current population, Copts are the largest христианин community in the Middle East and North Africa (MENA) регион. Among the earliest of all христиане, the Copts inhabited Egypt for many века до the исламский con",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/18/how-christian-girls-become-muslim-wives-in-egypt/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-18",
-      "lat": 26.9578,
-      "lng": 81.1778,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "arrest",
-      "title": "Когда Help Arrives at Just the Right Time",
-      "description": "On Jan. 21, 2025, индус nationalists атакован пастор Ishan Prasad and his семья во время a молитва meeting in their деревня in India, severely injuring each семья member. Following the атака, власти скоро задержан пастор Prasad, charging him with",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/18/when-help-arrives-at-just-the-right-time/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-18",
-      "lat": 15.4081,
-      "lng": 32.7868,
-      "country": "Sudan",
-      "city": "Khartoum",
-      "type": "murder",
-      "title": "U.S. Catholic епископы express solidarity with церковь in South Sudan as over 170 убит",
-      "description": "The USCCB has expressed solidarity with the церковь in South Sudan following the reported убийство of at least 170 люди in two separate incidents in the country.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/u-s-catholic-bishops-express-solidarity-with-church-in-south-sudan-as-over-170-killed",
-      "victims": 170
-    },
-    {
-      "date": "2026-03-18",
-      "lat": 23.2672,
-      "lng": -82.5038,
-      "country": "Cuba",
-      "city": "Havana",
-      "type": "arrest",
-      "title": "Пастор арестован in Cuba после uploading Библия lesson to YouTube",
-      "description": "Пастор Rolando Pérez Lora was accosted by полиция mere moments после uploading the video.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/pastor-arrested-in-cuba-after-uploading-bible-lesson-to-youtube",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-18",
-      "lat": 29.8828,
-      "lng": 31.3954,
-      "country": "Egypt",
-      "city": "Cairo",
-      "type": "other",
-      "title": "How христианин Girls Become мусульманин Wives в Egypt",
-      "description": "Comprising о 10% Egypt’s current population, Copts are largest христианская община в Middle East и North Africa (MENA) регион. Among earliest all христиане, Copts inhabited Egypt для many века до исламский con",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/18/how-christian-girls-become-muslim-wives-in-egypt/",
       "victims": 0
     }
   ]
