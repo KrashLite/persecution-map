@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-14T12:56:16.565Z",
+    "lastUpdated": "2026-04-14T18:56:13.039Z",
     "totalEvents": 500
   },
   "events": [
@@ -56,6 +56,45 @@
       "description": "Memory martyrs “Black десятилетие” was present из this very первый день папа Leo XIV’s visit Algeria: в Bab El Oued, папа made symbolic stop, away из cameras, pay tribute them. Then в his четвёртый и окончательный addres",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/04/14/in-algeria-pope-steps-away-from-cameras-to-pray-with-martyrs/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-14",
+      "lat": 12.1346,
+      "lng": 8.7396,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Video: ‘I drove car для two месяцы without fuel’ — пастор fuels debate online",
+      "description": "Nigerian cleric, Onu Emeka has sparked widespread reactions online после claiming he однажды drove car для two месяцы without putting fuel в it. post Video: ‘I drove car для two месяцы without fuel’ — пастор fuels debate online appeared первый на",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/04/video-i-drove-car-for-two-months-without-fuel-pastor-fuels-debate-online/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-14",
+      "lat": 32.8719,
+      "lng": 51.7409,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "’60 Minutes’ feature с 3 US кардиналы who lead dioceses",
+      "description": "Кардиналы Blase Cupich Chicago, Robert McElroy Washington, D.C., и Joseph Tobin Newark, N.J. are only three U.S. кардиналы в настоящее время leading dioceses. в joint conversation с CBS News’ 60 Minutes, they offered candid takes на",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/04/14/the-60-minutes-feature-with-the-3-us-cardinals-who-leaddioceses/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-14",
+      "lat": 36.7788,
+      "lng": 3.0114,
+      "country": "Algeria",
+      "city": "Algiers",
+      "type": "other",
+      "title": "Папа Leo XIV в Algeria: Where there is conflict церковь brings reconciliation",
+      "description": "Basilica St. Augustine, pontiff urged христиане bear свидетель through “simple gestures, genuine relationships и dialogue lived out день день.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-in-algeria-where-there-is-conflict-the-church-brings-reconciliation",
       "victims": 0
     },
     {
@@ -368,6 +407,58 @@
       "description": "На his первый день в Algeria, Leo paid homage 19 martyrs и visiting remaining Augustinian монахини who run social services project out Algiers basilica that helps люди all веры.",
       "source": "crux",
       "url": "https://cruxnow.com/pope-in-africa/2026/04/pope-calls-for-peace-in-algeria-against-iran-wars-backdrop/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-13",
+      "lat": 10.5385,
+      "lng": 7.1929,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Фулани ополчения Kill More христиане после Holy неделя резни",
+      "description": "Христиане across central Nigeria are holding funerals following атаки во время и после Holy неделя that left least 157 люди погибшие в rural communities. Eight христиане were убит в поздно-ночь атака на Mbwelle деревня в Bokkos Local Govern",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/13/fulani-militias-kill-more-christians-after-holy-week-massacres/",
+      "victims": 157
+    },
+    {
+      "date": "2026-04-13",
+      "lat": 29.5644,
+      "lng": 52.618,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "‘60 Minutes’ takes stock католическая церковь под Leo с top кардиналы",
+      "description": "Three influential American кардиналы spoke о церковь под папа Leo XIV в interview на “60 Minutes” that looked rising обращения, patriotism, Iran war, и immigration enforcement.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/60-minutes-takes-stock-of-catholic-church-under-leo-with-top-cardinals",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-13",
+      "lat": 32.8976,
+      "lng": 51.9031,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Trump refuses apologize папа Leo XIV Iran war dispute, dismisses backlash against since-deleted Jesus post",
+      "description": "Президент Trump отказано apologize понедельник папа Leo XIV amid their public fight US-Iran war, claiming leader Roman католическая церковь “said things that are wrong.” “He was very much against what I’m doing с regard Iran, и",
+      "source": "newsapi:Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4374752/posts",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-13",
+      "lat": 9.1533,
+      "lng": 7.4261,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Папа’s Africa visit amid new смерть tolls в Nigeria, Congo, elsewhere",
+      "description": "As папа Francis begins his multi-country visit across Africa на этой неделе, journey unfolds against sobering backdrop: conflict, перемещение, и fragile hope across several регионы continent. His itinerary — including Algeria, Cameroon,",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/04/13/popes-africa-visit-amid-new-death-tolls-in-nigeria-congo-elsewhere/",
       "victims": 0
     },
     {
@@ -6413,97 +6504,6 @@
       "description": "Since becoming defense secretary, Pete Hegseth has found no shortage ways bring his strand консерватор evangelicalism в Pentagon.",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-the-usa/2026/03/pete-hegseths-christian-rhetoric-draws-renewed-scrutiny-after-the-us-goes-to-war-with-iran/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-20",
-      "lat": 32.586,
-      "lng": 51.5629,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "arrest",
-      "title": "Христиане call для protection и release prisoners в Iran",
-      "description": "Iranian diaspora христиане are divided на current conflict.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christians-call-for-protection-and-release-of-prisoners-in-iran",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-19",
-      "lat": 9.003,
-      "lng": 7.7386,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "UK urged to press Nigeria on violence against христиане во время historic Tinubu visit",
-      "description": "A coalition of христианин and human rights organisations has called on the UK правительство to use президент Bola Tinubu’s штат visit to Britain to press for stronger protections for христиане and other vulnerable communities in Nigeria, amid continuin",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/uk-urged-to-press-nigeria-on-violence-against-christians-during-historic-tinubu-visit",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-19",
-      "lat": 4.468,
-      "lng": 18.5118,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "discrimination",
-      "title": "Lebanon faces ‘catastrophic’ situation, Catholic humanitarian leader says",
-      "description": "The президент of a leading Catholic charity organization in Lebanon is sounding the alarm over the increasingly precarious situation faced by христиане in the регион.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/lebanon-faces-catastrophic-situation-catholic-humanitarian-leader-says",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-19",
-      "lat": 26.7773,
-      "lng": 80.9343,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "discrimination",
-      "title": "‘Our presence is our mission’: Redemptorists from India remain in war-weary Lebanon",
-      "description": "In Lebanon, three Indian Redemptorist священники continue their mission: To stand with the poor and bring hope where it seems lost.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/our-presence-is-our-mission-redemptorists-from-india-remain-in-war-weary-lebanon/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-19",
-      "lat": 10.4719,
-      "lng": 7.3235,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "UK urged press Nigeria на violence against христиане во время historic Tinubu visit",
-      "description": "Coalition христианин и human rights organisations has called на UK правительство use президент Bola Tinubu’s штат visit Britain press для stronger protections для христиане и other vulnerable communities в Nigeria, amid continuin",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/uk-urged-to-press-nigeria-on-violence-against-christians-during-historic-tinubu-visit",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-19",
-      "lat": 11.8466,
-      "lng": 12.9326,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "UK urged press Nigeria на violence against христиане во время historic Tinubu visit",
-      "description": "Coalition христианин и human rights organisations has called на UK правительство use президент Bola Tinubu’s штат visit Britain press для stronger protections для христиане и other vulnerable communities в Nigeria, amid continuin",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/uk-urged-to-press-nigeria-on-violence-against-christians-during-historic-tinubu-visit",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-19",
-      "lat": 19.3039,
-      "lng": 72.7692,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "discrimination",
-      "title": "‘Our presence is our mission’: Redemptorists из India remain в war-weary Lebanon",
-      "description": "В Lebanon, three Indian Redemptorist священники continue their mission: stand с poor и bring hope where it seems lost.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/our-presence-is-our-mission-redemptorists-from-india-remain-in-war-weary-lebanon/",
       "victims": 0
     }
   ]
