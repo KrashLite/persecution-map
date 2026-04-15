@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-14T18:56:13.039Z",
+    "lastUpdated": "2026-04-15T01:16:03.063Z",
     "totalEvents": 500
   },
   "events": [
@@ -95,6 +95,19 @@
       "description": "Basilica St. Augustine, pontiff urged христиане bear свидетель through “simple gestures, genuine relationships и dialogue lived out день день.”",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-in-algeria-where-there-is-conflict-the-church-brings-reconciliation",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-14",
+      "lat": 36.4174,
+      "lng": 43.153,
+      "country": "Iraq",
+      "city": "Mosul",
+      "type": "other",
+      "title": "Leo XIV церковь в Iraq: No cause can justify shedding innocent blood",
+      "description": "“No interest can be worth lives weakest, дети, семьи; no cause can justify shedding innocent blood.” папа Leo XIV addressed these words епископы Synod церковь Baghdad Chaldeans (Iraq), gathered",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/04/14/leo-xiv-to-church-in-iraq-no-cause-can-justify-shedding-innocent-blood/",
       "victims": 0
     },
     {
@@ -459,6 +472,45 @@
       "description": "As папа Francis begins his multi-country visit across Africa на этой неделе, journey unfolds against sobering backdrop: conflict, перемещение, и fragile hope across several регионы continent. His itinerary — including Algeria, Cameroon,",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/04/13/popes-africa-visit-amid-new-death-tolls-in-nigeria-congo-elsewhere/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-13",
+      "lat": 10.6306,
+      "lng": 7.5797,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Фулани террористы kill 20 христиане в Nigeria's плато штат",
+      "description": "Боевики described as “фулани террористы” raided деревня в central Nigeria на четверг ночь и убит least 20 христиане, area residents said.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/fulani-terrorists-kill-20-christians-in-nigeria-s-plateau-state",
+      "victims": 20
+    },
+    {
+      "date": "2026-04-13",
+      "lat": 36.1911,
+      "lng": 59.7076,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "‘60 Minutes’ takes stock католическая церковь под Leo с top кардиналы",
+      "description": "Three influential American кардиналы spoke о церковь под папа Leo XIV в interview на “60 Minutes” that looked rising обращения, patriotism, Iran war, и immigration enforcement.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/60-minutes-takes-stock-of-catholic-church-under-leo-with-top-cardinals",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-13",
+      "lat": 29.314,
+      "lng": 33.1036,
+      "country": "Egypt",
+      "city": "Sinai",
+      "type": "arrest",
+      "title": "Upcoming суд Threatens Egyptian христианин-конверт",
+      "description": "Egyptian христианин-конверт и internationally recognized prisoner conscience, Said Abdelrazek, is facing imminent суд hearing that защитники warn could determine whether he lives or disappears в Egypt’s notorious задержание system. Abd",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/13/upcoming-trial-threatens-egyptian-christian-convert/",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "Iranian diaspora христиане are divided на current conflict.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/christians-call-for-protection-and-release-of-prisoners-in-iran",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-20",
-      "lat": 29.6639,
-      "lng": 52.3663,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "Pete Hegseth’s христианин rhetoric draws renewed scrutiny после US goes war с Iran",
-      "description": "Since becoming defense secretary, Pete Hegseth has found no shortage ways bring his strand консерватор evangelicalism в Pentagon.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-usa/2026/03/pete-hegseths-christian-rhetoric-draws-renewed-scrutiny-after-the-us-goes-to-war-with-iran/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-20",
-      "lat": 35.727,
-      "lng": 51.5857,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "arrest",
-      "title": "Христиане call для protection и release prisoners в Iran",
-      "description": "Iranian diaspora христиане are divided на current conflict.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christians-call-for-protection-and-release-of-prisoners-in-iran",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-20",
-      "lat": 35.5513,
-      "lng": 51.1621,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Pete Hegseth’s христианин rhetoric draws renewed scrutiny после US goes war с Iran",
-      "description": "Since becoming defense secretary, Pete Hegseth has found no shortage ways bring his strand консерватор evangelicalism в Pentagon.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-usa/2026/03/pete-hegseths-christian-rhetoric-draws-renewed-scrutiny-after-the-us-goes-to-war-with-iran/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-20",
-      "lat": 36.2722,
-      "lng": 59.5912,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Pete Hegseth’s христианин rhetoric draws renewed scrutiny после US goes war с Iran",
-      "description": "Since becoming defense secretary, Pete Hegseth has found no shortage ways bring his strand консерватор evangelicalism в Pentagon.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-usa/2026/03/pete-hegseths-christian-rhetoric-draws-renewed-scrutiny-after-the-us-goes-to-war-with-iran/",
       "victims": 0
     }
   ]
