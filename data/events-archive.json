@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-15T18:58:04.350Z",
+    "lastUpdated": "2026-04-16T01:20:21.775Z",
     "totalEvents": 500
   },
   "events": [
@@ -108,6 +108,19 @@
       "description": "Христианство faces increasingly hostile environment в India.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/indian-law-could-block-foreign-aid-to-missionaries-seize-church-properties",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-15",
+      "lat": 26.943,
+      "lng": 80.9212,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "other",
+      "title": "India’s правительство Plans Create христианин Welfare Board",
+      "description": "India has proposed National христианин Welfare Board address issues affecting христиане, particularly those related personal law и community practices. Although media announced proposal на прошлой неделе, no formal правительство statement has",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/15/indias-government-plans-to-create-christian-welfare-board/",
       "victims": 0
     },
     {
@@ -290,6 +303,19 @@
       "description": "“No interest can be worth lives weakest, дети, семьи; no cause can justify shedding innocent blood.” папа Leo XIV addressed these words епископы Synod церковь Baghdad Chaldeans (Iraq), gathered",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/04/14/leo-xiv-to-church-in-iraq-no-cause-can-justify-shedding-innocent-blood/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-14",
+      "lat": 6.3125,
+      "lng": 3.4005,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "John Cleese Blasts Black Lives Matter, либерал Silence amid Пасха резня Nigerian христиане исламист террористы",
+      "description": "John Cleese has blasted Black Lives Matter и либерал elites для their collective silence в wake Пасха резня христиане в Nigeria who were targeted исламский террористы.",
+      "source": "newsapi:Breitbart News",
+      "url": "https://www.breitbart.com/entertainment/2026/04/14/john-cleese-blasts-black-lives-matter-liberal-silence-amid-easter-massacre-of-nigerian-christians-by-islamist-terrorists/",
       "victims": 0
     },
     {
@@ -1707,6 +1733,19 @@
       "description": "“ core ecological и social crises is human heart enclosed в upon itself, alienated из God, our neighbor, и creation,” епископы said в new pastoral missive.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/in-ecological-letter-indiana-bishops-urge-catholics-to-care-for-god-s-good-world",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-09",
+      "lat": 32.7182,
+      "lng": 51.6815,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "discrimination",
+      "title": "Continued Dangers для Lebanese христианское население, политический Leadership",
+      "description": "После период relative peace — least away из country’s southern border с Israel — Lebanon has снова found itself amid bloody kinetic war. U.N. estimates suggest that 1.1 million Lebanese have been перемещён в последний six недели as",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/09/continued-dangers-for-lebanese-christian-population-political-leadership/",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Catholic епископы в India’s Maharashtra штат are calling newly passed anti-обращение bill — 13th such law в India — unjustified interference в церковь’s sacramental practice.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-bishops-demand-repeal-of-india-states-anti-conversion-bill",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-23",
-      "lat": 33.6172,
-      "lng": 36.0964,
-      "country": "Syria",
-      "city": "Damascus",
-      "type": "discrimination",
-      "title": "Damascus Experiments с Restrictive религиозный Social Codes",
-      "description": "Decree issued в Syrian столица Damascus на прошлой неделе ограничен sale alcohol, последний incident hinting increased религиозный conservatism под leadership исламист президент Ahmed al-Sharaa. Alcohol is frowned upon под cons",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/23/damascus-experiments-with-restrictive-religious-social-codes/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-23",
-      "lat": 35.9879,
-      "lng": 36.9974,
-      "country": "Syria",
-      "city": "Aleppo",
-      "type": "discrimination",
-      "title": "Damascus Experiments с Restrictive религиозный Social Codes",
-      "description": "Decree issued в Syrian столица Damascus на прошлой неделе ограничен sale alcohol, последний incident hinting increased религиозный conservatism под leadership исламист президент Ahmed al-Sharaa. Alcohol is frowned upon под cons",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/23/damascus-experiments-with-restrictive-religious-social-codes/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-23",
-      "lat": 6.4426,
-      "lng": 3.6169,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Христиане Mark Eid с мусульмане в Nigeria Despite Ongoing убийства",
-      "description": "Христиане joined мусульмане для Eid молитвы и visits as security warnings spread across Taraba, плато, и Southern Kaduna штаты. message unity came as христианин Association Nigeria (CAN) encouraged Nigerians use Eid-el-Fitr as",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/23/christians-mark-eid-with-muslims-in-nigeria-despite-ongoing-killings/",
       "victims": 0
     }
   ]
