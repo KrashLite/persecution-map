@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-16T07:17:18.909Z",
+    "lastUpdated": "2026-04-16T12:59:59.227Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,32 @@
       "description": "Chinese власти are increasing pressure на underground Catholic communities join штат-controlled чиновник церковь пока tightening surveillance и travel ограничения на all China's Catholics, rights group said среда.",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-asia/2026/04/china-raises-pressure-on-underground-catholics-to-join-official-church-human-rights-watch-finds/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-16",
+      "lat": 31.4431,
+      "lng": 121.2865,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "discrimination",
+      "title": "China raises pressure на underground Catholics join чиновник церковь, Human Rights Watch finds",
+      "description": "Chinese власти are increasing pressure на underground Catholic communities join штат-controlled чиновник церковь пока tightening surveillance и travel ограничения на all China's Catholics, rights group said среда.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/04/china-raises-pressure-on-underground-catholics-to-join-official-church-human-rights-watch-finds/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-16",
+      "lat": 6.436,
+      "lng": 3.6254,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Promote peace, healthy living, Anambra первый Lady urges CAN женщины",
+      "description": "Wife Anambra штат губернатор, Nonye Soludo, has urged newly inaugurated executive members женщины Wing христианин Association Nigeria, Anambra штат chapter, use their офисы promote peace, good morals, и healthy",
+      "source": "punchng",
+      "url": "https://punchng.com/promote-peace-healthy-living-anambra-first-lady-urges-can-women/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     },
     {
@@ -194,6 +220,45 @@
       "lng": 81.9831,
       "country": "India",
       "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Indian law could блокировка foreign aid миссионеры, seize церковь properties",
+      "description": "Христианство faces increasingly hostile environment в India.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/indian-law-could-block-foreign-aid-to-missionaries-seize-church-properties",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-15",
+      "lat": 36.1265,
+      "lng": 59.6117,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "What христиане Should Understand о Middle East Conflict",
+      "description": "Biblical perspective на Israel-Iran conflict, prophecy, и how христиане should respond сегодня с truth, молитва, и discernment.",
+      "source": "newsapi:Christianity.com",
+      "url": "https://www.christianity.com/wiki/current-events/what-christians-should-understand-about-the-middle-east-conflict.html",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-15",
+      "lat": 35.5844,
+      "lng": 51.2739,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "Из Iran fake Jesus image, Trump is facing growing backlash для his inflammatory rhetoric",
+      "description": "Trump deleted AI image himself as Jesus после backlash из Catholic leaders и консерватор allies, reigniting debate his mental fitness.",
+      "source": "newsapi:Fox News",
+      "url": "https://www.foxnews.com/opinion/iran-fake-jesus-image-trump-facing-growing-backlash-inflammatory-rhetoric",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-15",
+      "lat": 18.8822,
+      "lng": 73.0337,
+      "country": "India",
+      "city": "Mumbai",
       "type": "other",
       "title": "Indian law could блокировка foreign aid миссионеры, seize церковь properties",
       "description": "Христианство faces increasingly hostile environment в India.",
@@ -850,6 +915,19 @@
       "source": "aleteia",
       "url": "https://aleteia.org/2026/04/13/popes-africa-visit-amid-new-death-tolls-in-nigeria-congo-elsewhere/",
       "victims": 0
+    },
+    {
+      "date": "2026-04-13",
+      "lat": 6.498,
+      "lng": 3.5673,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Фулани ополчения Kill More христиане после Holy неделя резни",
+      "description": "Христиане across central Nigeria are holding funerals following атаки во время и после Holy неделя that left least 157 люди погибшие в rural communities. Eight христиане were убит в поздно-ночь атака на Mbwelle деревня в Bokkos Local Govern",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/13/fulani-militias-kill-more-christians-after-holy-week-massacres/",
+      "victims": 157
     },
     {
       "date": "2026-04-12",
@@ -1513,6 +1591,19 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/over-1-400-christians-killed-in-nigeria-so-far-this-year-new-report-claims",
       "victims": 400
+    },
+    {
+      "date": "2026-04-10",
+      "lat": 28.8304,
+      "lng": 77.254,
+      "country": "India",
+      "city": "Delhi",
+      "type": "other",
+      "title": "Indian Supreme суд ruling could deprive 'untouchable' христиане protections",
+      "description": "Indian Supreme суд ruling could deprive христиане-конверты из among lowest castes access affirmative action programmes и other benefits.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/indian-supreme-court-ruling-could-deprive-untouchable-christians-of-protections",
+      "victims": 0
     },
     {
       "date": "2026-04-09",
@@ -6413,97 +6504,6 @@
       "description": "Христианская община has отказано чиновник account that Mr Marqas Masih committed suicide, и claim instead that he was убит. Two мужчины have been арестован. post Pakistan: Demand для justice после Catholic мужчина found повешен appeared первый",
       "source": "zenit",
       "url": "https://zenit.org/2026/03/22/pakistan-demand-for-justice-after-catholic-man-found-hanged/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-23",
-      "lat": 26.7016,
-      "lng": 81.1691,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "other",
-      "title": "Catholic епископы demand repeal India штат’s anti-обращение bill",
-      "description": "Catholic епископы в India’s Maharashtra штат are calling newly passed anti-обращение bill — 13th such law в India — unjustified interference в церковь’s sacramental practice.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-bishops-demand-repeal-of-india-states-anti-conversion-bill",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-23",
-      "lat": 23.6701,
-      "lng": 90.6532,
-      "country": "Bangladesh",
-      "city": "Dhaka",
-      "type": "discrimination",
-      "title": "Bangladesh епископы decline правительство stipend для Catholic clerics",
-      "description": "Program provides для all clergy across религии и деноминации в Bangladesh, country 180 million inhabitants, only some 600,000 whom are христианин.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-asia/2026/03/bangladesh-bishops-decline-government-stipend-for-catholic-clerics/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-23",
-      "lat": 34.4833,
-      "lng": 36.502,
-      "country": "Syria",
-      "city": "Homs",
-      "type": "discrimination",
-      "title": "Syrian власти’ new limits на alcohol sales в Damascus spark backlash",
-      "description": "Христиане say they are being singled out в Syria после исламист leaders impose alcohol ограничения.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/syrian-authorities-new-limits-on-alcohol-sales-in-damascus-spark-backlash/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-23",
-      "lat": 31.7129,
-      "lng": 74.5197,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "murder",
-      "title": "Pakistan: Demand для justice после Catholic мужчина found повешен",
-      "description": "Христианская община has отказано чиновник account that Mr Marqas Masih committed suicide, и claim instead that he was убит. Two мужчины have been арестован. post Pakistan: Demand для justice после Catholic мужчина found повешен appeared первый",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/03/22/pakistan-demand-for-justice-after-catholic-man-found-hanged/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-23",
-      "lat": 21.3645,
-      "lng": 82.0768,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "other",
-      "title": "Catholic епископы demand repeal India штат’s anti-обращение bill",
-      "description": "Catholic епископы в India’s Maharashtra штат are calling newly passed anti-обращение bill — 13th such law в India — unjustified interference в церковь’s sacramental practice.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-bishops-demand-repeal-of-india-states-anti-conversion-bill",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-23",
-      "lat": 33.273,
-      "lng": 36.3487,
-      "country": "Syria",
-      "city": "Damascus",
-      "type": "discrimination",
-      "title": "Syrian власти’ new limits на alcohol sales в Damascus spark backlash",
-      "description": "Христиане say they are being singled out в Syria после исламист leaders impose alcohol ограничения.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/syrian-authorities-new-limits-on-alcohol-sales-in-damascus-spark-backlash/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-23",
-      "lat": 9.0058,
-      "lng": 7.5116,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "Христиане Mark Eid с мусульмане в Nigeria Despite Ongoing убийства",
-      "description": "Христиане joined мусульмане для Eid молитвы и visits as security warnings spread across Taraba, плато, и Southern Kaduna штаты. message unity came as христианин Association Nigeria (CAN) encouraged Nigerians use Eid-el-Fitr as",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/23/christians-mark-eid-with-muslims-in-nigeria-despite-ongoing-killings/",
       "victims": 0
     }
   ]
