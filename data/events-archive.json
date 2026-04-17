@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-17T12:51:37.655Z",
+    "lastUpdated": "2026-04-17T18:40:45.830Z",
     "totalEvents": 500
   },
   "events": [
@@ -56,6 +56,45 @@
       "description": "Private вертолёт crash в dense лес на Indonesia’s Borneo остров has убит all eight люди на board, including two crew и six passengers. Read More: https://punchng.com/indonesia-вертолёт-crash-kills-eight/",
       "source": "punchng",
       "url": "https://punchng.com/indonesia-helicopter-crash-kills-eight/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-17",
+      "lat": 9.4316,
+      "lng": 9.718,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "U.S. Embassy Vatican: Nigerian христиане are being targeted",
+      "description": "Посол Brian Burch described situation в Nigeria as “conflict between радикал исламский groups и христиане because their вера.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/vatican/us-embassy-to-the-vatican-nigerian-christians-are-being-targeted",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-17",
+      "lat": 32.4492,
+      "lng": 51.674,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Catholic theologians explain why war is ‘matter morality’ после Vance comments на папа Leo XIV",
+      "description": "Вице-президент JD Vance asked Vatican “stick matters morality” amid папа Leo XIV’s Iran war concerns. Catholic theologians say war и other public policies are “matters morality.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/catholic-theologians-comment-vance-pope-leo-xiv",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-17",
+      "lat": -6.0492,
+      "lng": 107.0434,
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "type": "other",
+      "title": "Former Indonesian VP Called Out для False Statment на христианство",
+      "description": "Central Executive Board Indonesian христианская молодёжь Movement (DPP GAMKI) и several other organizations reported former Indonesian вице-президент Muhammad Jusuf Kalla Jakarta митрополит полиция на апрель 12. controversy began wi",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/17/former-indonesian-vp-called-out-for-false-statment-on-christianity/",
       "victims": 0
     },
     {
@@ -207,6 +246,19 @@
       "lng": 116.3094,
       "country": "China",
       "city": "Beijing",
+      "type": "other",
+      "title": "China pressures underground Catholics join штат церковь, rights group says",
+      "description": "“ десятилетие в Xi Jinping’s Sinicization кампания и nearly eight годы since 2018 Holy See-China agreement, Catholics в China face escalating подавление” researcher Yalkun Uluyol said.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/china-pressures-underground-catholics-to-join-state-church-rights-group-says",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-16",
+      "lat": 43.8568,
+      "lng": 87.3957,
+      "country": "China",
+      "city": "Xinjiang",
       "type": "other",
       "title": "China pressures underground Catholics join штат церковь, rights group says",
       "description": "“ десятилетие в Xi Jinping’s Sinicization кампания и nearly eight годы since 2018 Holy See-China agreement, Catholics в China face escalating подавление” researcher Yalkun Uluyol said.",
@@ -6452,58 +6504,6 @@
       "description": "ICC Fellow Lisa Navarrette христианство has existed в modern Iran для nearly 2,000 годы. Long до rise ислам, христианские общины were already flourishing в Persian Empire. века, these верующие endured waves suspi",
       "source": "persecution",
       "url": "https://persecution.org/2026/03/25/a-brief-history-of-persecution-in-iran/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-25",
-      "lat": 35.8516,
-      "lng": 51.1709,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "discrimination",
-      "title": "Hope для Iranian христиане",
-      "description": "ICC Fellow Lisa Navarrette на Feb. 28, moment unfolded that many believed would never come. Through операция Epic Fury, Israel и United штаты struck heart Iran’s ruling regime. This regime had tightened its grip на its люди,",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/25/hope-for-iranian-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-25",
-      "lat": 32.4181,
-      "lng": 51.8801,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Pentagon христианин service, Hegseth prays для violence ‘against those who deserve no mercy’",
-      "description": "Defense Secretary Pete Hegseth, hosting his первый monthly христианин богослужение service Pentagon since Iran war began, prayed среда have “every round find its mark.”",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-usa/2026/03/at-pentagon-christian-service-hegseth-prays-for-violence-against-those-who-deserve-no-mercy/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-25",
-      "lat": 12.2034,
-      "lng": 8.4258,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "kidnapping",
-      "title": "Прихожане, пастор похищен во время атаки в Nigeria",
-      "description": "Евангелическая церковь Winning All has confirmed several violent атаки targeting its приход и clergy в north-central Nigeria, raising new concerns о safety христиане и ongoing insecurity linked armed groups, including Fula",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/25/worshippers-pastor-abducted-during-attacks-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-25",
-      "lat": 9.3485,
-      "lng": 9.6003,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "kidnapping",
-      "title": "Прихожане, пастор похищен во время атаки в Nigeria",
-      "description": "Евангелическая церковь Winning All has confirmed several violent атаки targeting its приход и clergy в north-central Nigeria, raising new concerns о safety христиане и ongoing insecurity linked armed groups, including Fula",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/25/worshippers-pastor-abducted-during-attacks-in-nigeria/",
       "victims": 0
     }
   ]
