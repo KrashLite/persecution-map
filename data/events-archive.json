@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-17T07:17:03.423Z",
+    "lastUpdated": "2026-04-17T12:51:37.655Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,19 @@
       "description": "63-год-old Lagos cleric, Chris Douglas, has been приговорён life заключение для raping церковь member’s daughter после being found guilty. Read More: https://punchng.com/lagos-пастор-bags-life-тюрьма-для-raping-церковь-members-daughter/",
       "source": "punchng",
       "url": "https://punchng.com/lagos-pastor-bags-life-jail-for-raping-church-members-daughter/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-17",
+      "lat": -6.0407,
+      "lng": 106.8152,
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "type": "murder",
+      "title": "Indonesia вертолёт crash kills eight",
+      "description": "Private вертолёт crash в dense лес на Indonesia’s Borneo остров has убит all eight люди на board, including two crew и six passengers. Read More: https://punchng.com/indonesia-вертолёт-crash-kills-eight/",
+      "source": "punchng",
+      "url": "https://punchng.com/indonesia-helicopter-crash-kills-eight/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     },
     {
@@ -173,6 +186,32 @@
       "description": "Архиепископ Sarah Mullally, who assumed her role as head церковь England в январь, said she stood с папа в his “courageous call для peace.”",
       "source": "crux",
       "url": "https://cruxnow.com/global-church/2026/04/archbishop-of-canterbury-expresses-solidarity-with-pope-leo-xiv-in-calling-for-peace-in-iran/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-16",
+      "lat": 35.6846,
+      "lng": 51.4378,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "Христианин satellite TV has broadcast evangelical вера – и end-times prophecies – в Iran для десятилетия",
+      "description": "Satellite television has been key tool для евангелические церкви reach христиане и potential converts в Iran.",
+      "source": "newsapi:The Conversation Africa",
+      "url": "https://theconversation.com/christian-satellite-tv-has-broadcast-evangelical-faith-and-end-times-prophecies-into-iran-for-decades-280349",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-16",
+      "lat": 39.9026,
+      "lng": 116.3094,
+      "country": "China",
+      "city": "Beijing",
+      "type": "other",
+      "title": "China pressures underground Catholics join штат церковь, rights group says",
+      "description": "“ десятилетие в Xi Jinping’s Sinicization кампания и nearly eight годы since 2018 Holy See-China agreement, Catholics в China face escalating подавление” researcher Yalkun Uluyol said.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/china-pressures-underground-catholics-to-join-state-church-rights-group-says",
       "victims": 0
     },
     {
@@ -485,6 +524,19 @@
       "description": "В practical terms, this means that clergy formation сейчас includes systematic instruction в политический doctrine post Between алтарь и штат: Catholic clergy formation в China reflects tightening framework “Sinicized” религия appeared fir",
       "source": "zenit",
       "url": "https://zenit.org/2026/04/15/between-altar-and-state-catholic-clergy-formation-in-china-reflects-the-tightening-framework-of-sinicized-religion/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-15",
+      "lat": 19.1491,
+      "lng": 72.8057,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "other",
+      "title": "India’s правительство Plans Create христианин Welfare Board",
+      "description": "India has proposed National христианин Welfare Board address issues affecting христиане, particularly those related personal law и community practices. Although media announced proposal на прошлой неделе, no formal правительство statement has",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/15/indias-government-plans-to-create-christian-welfare-board/",
       "victims": 0
     },
     {
@@ -1188,6 +1240,19 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/04/13/upcoming-trial-threatens-egyptian-christian-convert/",
       "victims": 0
+    },
+    {
+      "date": "2026-04-13",
+      "lat": 11.8652,
+      "lng": 13.193,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "Фулани ополчения Kill More христиане после Holy неделя резни",
+      "description": "Христиане across central Nigeria are holding funerals following атаки во время и после Holy неделя that left least 157 люди погибшие в rural communities. Eight христиане were убит в поздно-ночь атака на Mbwelle деревня в Bokkos Local Govern",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/13/fulani-militias-kill-more-christians-after-holy-week-massacres/",
+      "victims": 157
     },
     {
       "date": "2026-04-12",
@@ -6439,71 +6504,6 @@
       "description": "Евангелическая церковь Winning All has confirmed several violent атаки targeting its приход и clergy в north-central Nigeria, raising new concerns о safety христиане и ongoing insecurity linked armed groups, including Fula",
       "source": "persecution",
       "url": "https://persecution.org/2026/03/25/worshippers-pastor-abducted-during-attacks-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-24",
-      "lat": 31.2886,
-      "lng": 121.7088,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "other",
-      "title": "China: дети запрещён из церковь Doors. Mother Speaks Up",
-      "description": "Regulations prohibiting несовершеннолетние из entering церкви are сейчас strictly enforced. post China: дети запрещён из церковь Doors. Mother Speaks Up appeared первый на ZENIT - English.",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/03/23/china-children-barred-from-church-doors-a-mother-speaks-up/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-24",
-      "lat": 34.0416,
-      "lng": 71.3522,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "discrimination",
-      "title": "Pakistan temporarily halts plan evict христиане из поселение",
-      "description": "Faced с poverty и дискриминация, many христиане have nowhere go.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/pakistan-temporarily-halts-plan-to-evict-christians-from-settlement",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-24",
-      "lat": 40.0044,
-      "lng": 116.2753,
-      "country": "China",
-      "city": "Beijing",
-      "type": "other",
-      "title": "China: дети запрещён из церковь Doors. Mother Speaks Up",
-      "description": "Regulations prohibiting несовершеннолетние из entering церкви are сейчас strictly enforced. post China: дети запрещён из церковь Doors. Mother Speaks Up appeared первый на ZENIT - English.",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/03/23/china-children-barred-from-church-doors-a-mother-speaks-up/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-24",
-      "lat": 6.7247,
-      "lng": 3.4409,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Архиепископ warns угроза христианство в Nigeria",
-      "description": "Nigerian церковь leader also claimed that Trump's военные strikes have \"not achieved much\".",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/archbishop-warns-of-threat-to-christianity-in-nigeria",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-24",
-      "lat": 4.5018,
-      "lng": 18.7089,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "discrimination",
-      "title": "War силы Jerusalem’s Holy неделя behind закрыт doors",
-      "description": "Celebrations Holy неделя в Jerusalem — normally among most vivid expressions христианская вера — will be significantly reduced в этом году, as conflict в регион continues disrupt public богослужение. в март 22 letter, кардинал Pierbattist",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/03/24/war-forces-jerusalems-holy-week-behind-closed-doors/",
       "victims": 0
     }
   ]
