@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-18T06:55:33.645Z",
+    "lastUpdated": "2026-04-18T12:34:05.686Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,45 @@
       "description": "New release human rights NGO highlights increased pressure Chinese власти на Catholics в shadow \"sinicisation\" и agreement с Holy See на episcopal appointments. member underground community merged int",
       "source": "zenit",
       "url": "https://zenit.org/2026/04/17/human-rights-watch-church-ban-for-minors-in-china-violates-human-rights/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-18",
+      "lat": 33.6676,
+      "lng": 72.8499,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "arrest",
+      "title": "Pakistan: Truck Plows в Catholic Procession на Пасха воскресенье",
+      "description": "Driver, identified as Muhammad Bilal, fled scene, пока his assistant was задержан и vehicle изъят. обвинения have been filed под provisions related reckless driving, but investigators have not yet clarified whether negligence alone",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/04/17/pakistan-truck-plows-into-catholic-procession-on-easter-sunday/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-18",
+      "lat": 31.1351,
+      "lng": 121.4649,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "discrimination",
+      "title": "Human Rights Watch: церковь запрет для несовершеннолетние в China violates human rights",
+      "description": "New release human rights NGO highlights increased pressure Chinese власти на Catholics в shadow \"sinicisation\" и agreement с Holy See на episcopal appointments. member underground community merged int",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/04/17/human-rights-watch-church-ban-for-minors-in-china-violates-human-rights/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-18",
+      "lat": 3.6521,
+      "lng": 11.3732,
+      "country": "Cameroon",
+      "city": "Yaounde",
+      "type": "other",
+      "title": "Папа has unscheduled meeting с Cameroon религиозный",
+      "description": "“ папа has arrived, папа is leaving, but you have his words”: папа Leo XIV called на more than 4,000 Catholic религиозный в Cameroon take action, meeting с представители their религиозный приходы поздно в день на апрель 17,",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/04/18/pope-has-unscheduled-meeting-with-cameroon-religious/",
       "victims": 0
     },
     {
@@ -160,6 +199,19 @@
       "description": "Вице-президент JD Vance asked Vatican “stick matters morality” amid папа Leo XIV’s Iran war concerns. Catholic theologians say war и other public policies are “matters morality.”",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/catholic-theologians-comment-vance-pope-leo-xiv",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-17",
+      "lat": 10.3648,
+      "lng": 7.2068,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "U.S. Embassy Vatican: Nigerian христиане are being targeted",
+      "description": "Посол Brian Burch described situation в Nigeria as “conflict between радикал исламский groups и христиане because their вера.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/vatican/us-embassy-to-the-vatican-nigerian-christians-are-being-targeted",
       "victims": 0
     },
     {
@@ -350,6 +402,19 @@
       "lng": 51.557,
       "country": "Iran",
       "city": "Tehran",
+      "type": "other",
+      "title": "Архиепископ Canterbury expresses solidarity с папа Leo XIV в calling для peace в Iran",
+      "description": "Архиепископ Sarah Mullally, who assumed her role as head церковь England в январь, said she stood с папа в his “courageous call для peace.”",
+      "source": "crux",
+      "url": "https://cruxnow.com/global-church/2026/04/archbishop-of-canterbury-expresses-solidarity-with-pope-leo-xiv-in-calling-for-peace-in-iran/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-16",
+      "lat": 32.8437,
+      "lng": 51.7022,
+      "country": "Iran",
+      "city": "Isfahan",
       "type": "other",
       "title": "Архиепископ Canterbury expresses solidarity с папа Leo XIV в calling для peace в Iran",
       "description": "Архиепископ Sarah Mullally, who assumed her role as head церковь England в январь, said she stood с папа в his “courageous call для peace.”",
@@ -6439,71 +6504,6 @@
       "description": "Из рано годы his priestly formation, he worked promote evangelization в country that, после adopting коммунист ideology, showed its aversion христианская вера, causing могила losses церковь. post кардинал Pham Minh Mǎn,",
       "source": "zenit",
       "url": "https://zenit.org/2026/03/25/cardinal-pham-minh-man-the-face-of-catholic-resistance-in-vietnam-dies/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-25",
-      "lat": 32.7041,
-      "lng": 51.5606,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Security fears prompt changes Holy неделя и Пасха celebrations в Iraq",
-      "description": "Iraq’s христиане are signifcantly scaling back Palm воскресенье и Пасха observances amid ongoing security concerns due Iran war.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/security-fears-prompt-changes-to-holy-week-and-easter-celebrations-in-iraq",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-25",
-      "lat": 36.3057,
-      "lng": 59.7331,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Pentagon христианин service, Hegseth prays для violence ‘against those who deserve no mercy’",
-      "description": "Defense Secretary Pete Hegseth, hosting his первый monthly христианин богослужение service Pentagon since Iran war began, prayed среда have “every round find its mark.”",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-usa/2026/03/at-pentagon-christian-service-hegseth-prays-for-violence-against-those-who-deserve-no-mercy/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-25",
-      "lat": 9.2198,
-      "lng": 7.4629,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "kidnapping",
-      "title": "Прихожане, пастор похищен во время атаки в Nigeria",
-      "description": "Евангелическая церковь Winning All has confirmed several violent атаки targeting its приход и clergy в north-central Nigeria, raising new concerns о safety христиане и ongoing insecurity linked armed groups, including Fula",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/25/worshippers-pastor-abducted-during-attacks-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-25",
-      "lat": 35.791,
-      "lng": 51.2439,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Security fears prompt changes Holy неделя и Пасха celebrations в Iraq",
-      "description": "Iraq’s христиане are signifcantly scaling back Palm воскресенье и Пасха observances amid ongoing security concerns due Iran war.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/security-fears-prompt-changes-to-holy-week-and-easter-celebrations-in-iraq",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-25",
-      "lat": 29.8094,
-      "lng": 52.8304,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "Pentagon христианин service, Hegseth prays для violence ‘against those who deserve no mercy’",
-      "description": "Defense Secretary Pete Hegseth, hosting his первый monthly христианин богослужение service Pentagon since Iran war began, prayed среда have “every round find its mark.”",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-usa/2026/03/at-pentagon-christian-service-hegseth-prays-for-violence-against-those-who-deserve-no-mercy/",
       "victims": 0
     }
   ]
