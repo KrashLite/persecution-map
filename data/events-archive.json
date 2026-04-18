@@ -2,10 +2,49 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-18T01:11:31.313Z",
+    "lastUpdated": "2026-04-18T06:55:33.645Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-04-18",
+      "lat": 34.1578,
+      "lng": 71.6818,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "arrest",
+      "title": "Pakistan: Truck Plows в Catholic Procession на Пасха воскресенье",
+      "description": "Driver, identified as Muhammad Bilal, fled scene, пока his assistant was задержан и vehicle изъят. обвинения have been filed под provisions related reckless driving, but investigators have not yet clarified whether negligence alone",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/04/17/pakistan-truck-plows-into-catholic-procession-on-easter-sunday/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-18",
+      "lat": 6.3473,
+      "lng": 3.1847,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "discrimination",
+      "title": "Библия’s saddest story plays out в Nigeria, Emmanuel Aziken",
+      "description": "Раньше на этой неделе, I read what many consider as о most saddening story в Библия. It is story so dark that it силы painful reflection на depths which human society can descend когда власть collapses и morality is abandoned",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/04/bibles-saddest-story-plays-out-in-nigeria-by-emmanuel-aziken/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-18",
+      "lat": 39.8609,
+      "lng": 116.1843,
+      "country": "China",
+      "city": "Beijing",
+      "type": "discrimination",
+      "title": "Human Rights Watch: церковь запрет для несовершеннолетние в China violates human rights",
+      "description": "New release human rights NGO highlights increased pressure Chinese власти на Catholics в shadow \"sinicisation\" и agreement с Holy See на episcopal appointments. member underground community merged int",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/04/17/human-rights-watch-church-ban-for-minors-in-china-violates-human-rights/",
+      "victims": 0
+    },
     {
       "date": "2026-04-17",
       "lat": 12.0059,
@@ -103,6 +142,19 @@
       "lng": 51.6132,
       "country": "Iran",
       "city": "Tehran",
+      "type": "other",
+      "title": "Catholic theologians explain why war is ‘matter morality’ после Vance comments на папа Leo XIV",
+      "description": "Вице-президент JD Vance asked Vatican “stick matters morality” amid папа Leo XIV’s Iran war concerns. Catholic theologians say war и other public policies are “matters morality.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/catholic-theologians-comment-vance-pope-leo-xiv",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-17",
+      "lat": 36.4836,
+      "lng": 59.4311,
+      "country": "Iran",
+      "city": "Mashhad",
       "type": "other",
       "title": "Catholic theologians explain why war is ‘matter morality’ после Vance comments на папа Leo XIV",
       "description": "Вице-президент JD Vance asked Vatican “stick matters morality” amid папа Leo XIV’s Iran war concerns. Catholic theologians say war и other public policies are “matters morality.”",
@@ -290,6 +342,19 @@
       "description": "Federal high суд в Abuja, Nigeria, has осуждён 386 люди на terrorism обвинения в one largest месса осуждения в recent times. Those осуждён were linked Исламское государство West Africa провинция (ISWAP) or Боко Харам, deadly te",
       "source": "persecution",
       "url": "https://persecution.org/2026/04/16/nigerian-government-convicts-nearly-400-on-terrorism-charges/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-16",
+      "lat": 35.7429,
+      "lng": 51.557,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "Архиепископ Canterbury expresses solidarity с папа Leo XIV в calling для peace в Iran",
+      "description": "Архиепископ Sarah Mullally, who assumed her role as head церковь England в январь, said she stood с папа в his “courageous call для peace.”",
+      "source": "crux",
+      "url": "https://cruxnow.com/global-church/2026/04/archbishop-of-canterbury-expresses-solidarity-with-pope-leo-xiv-in-calling-for-peace-in-iran/",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "Defense Secretary Pete Hegseth, hosting his первый monthly христианин богослужение service Pentagon since Iran war began, prayed среда have “every round find its mark.”",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-the-usa/2026/03/at-pentagon-christian-service-hegseth-prays-for-violence-against-those-who-deserve-no-mercy/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-25",
-      "lat": 10.7304,
-      "lng": 7.1978,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "kidnapping",
-      "title": "Прихожане, пастор похищен во время атаки в Nigeria",
-      "description": "Евангелическая церковь Winning All has confirmed several violent атаки targeting its приход и clergy в north-central Nigeria, raising new concerns о safety христиане и ongoing insecurity linked armed groups, including Fula",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/25/worshippers-pastor-abducted-during-attacks-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-25",
-      "lat": 36.219,
-      "lng": 59.7934,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "discrimination",
-      "title": "Brief History гонение в Iran",
-      "description": "ICC Fellow Lisa Navarrette христианство has existed в modern Iran для nearly 2,000 годы. Long до rise ислам, христианские общины were already flourishing в Persian Empire. века, these верующие endured waves suspi",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/25/a-brief-history-of-persecution-in-iran/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-25",
-      "lat": 32.5215,
-      "lng": 51.7974,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "discrimination",
-      "title": "Hope для Iranian христиане",
-      "description": "ICC Fellow Lisa Navarrette на Feb. 28, moment unfolded that many believed would never come. Through операция Epic Fury, Israel и United штаты struck heart Iran’s ruling regime. This regime had tightened its grip на its люди,",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/25/hope-for-iranian-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-25",
-      "lat": 35.5239,
-      "lng": 51.5132,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Pentagon христианин service, Hegseth prays для violence ‘against those who deserve no mercy’",
-      "description": "Defense Secretary Pete Hegseth, hosting his первый monthly христианин богослужение service Pentagon since Iran war began, prayed среда have “every round find its mark.”",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-usa/2026/03/at-pentagon-christian-service-hegseth-prays-for-violence-against-those-who-deserve-no-mercy/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-25",
-      "lat": 32.7934,
-      "lng": 51.6116,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "discrimination",
-      "title": "Brief History гонение в Iran",
-      "description": "ICC Fellow Lisa Navarrette христианство has existed в modern Iran для nearly 2,000 годы. Long до rise ислам, христианские общины were already flourishing в Persian Empire. века, these верующие endured waves suspi",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/25/a-brief-history-of-persecution-in-iran/",
       "victims": 0
     }
   ]
