@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-17T18:40:45.830Z",
+    "lastUpdated": "2026-04-18T01:11:31.313Z",
     "totalEvents": 500
   },
   "events": [
@@ -95,6 +95,19 @@
       "description": "Central Executive Board Indonesian христианская молодёжь Movement (DPP GAMKI) и several other organizations reported former Indonesian вице-президент Muhammad Jusuf Kalla Jakarta митрополит полиция на апрель 12. controversy began wi",
       "source": "persecution",
       "url": "https://persecution.org/2026/04/17/former-indonesian-vp-called-out-for-false-statment-on-christianity/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-17",
+      "lat": 35.5304,
+      "lng": 51.6132,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "Catholic theologians explain why war is ‘matter morality’ после Vance comments на папа Leo XIV",
+      "description": "Вице-президент JD Vance asked Vatican “stick matters morality” amid папа Leo XIV’s Iran war concerns. Catholic theologians say war и other public policies are “matters morality.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/catholic-theologians-comment-vance-pope-leo-xiv",
       "victims": 0
     },
     {
@@ -264,6 +277,19 @@
       "description": "“ десятилетие в Xi Jinping’s Sinicization кампания и nearly eight годы since 2018 Holy See-China agreement, Catholics в China face escalating подавление” researcher Yalkun Uluyol said.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/china-pressures-underground-catholics-to-join-state-church-rights-group-says",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-16",
+      "lat": 10.4491,
+      "lng": 7.4734,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Nigerian правительство Convicts Nearly 400 на Terrorism обвинения",
+      "description": "Federal high суд в Abuja, Nigeria, has осуждён 386 люди на terrorism обвинения в one largest месса осуждения в recent times. Those осуждён were linked Исламское государство West Africa провинция (ISWAP) or Боко Харам, deadly te",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/16/nigerian-government-convicts-nearly-400-on-terrorism-charges/",
       "victims": 0
     },
     {
@@ -6473,32 +6499,6 @@
       "lng": 51.6116,
       "country": "Iran",
       "city": "Isfahan",
-      "type": "discrimination",
-      "title": "Brief History гонение в Iran",
-      "description": "ICC Fellow Lisa Navarrette христианство has existed в modern Iran для nearly 2,000 годы. Long до rise ислам, христианские общины were already flourishing в Persian Empire. века, these верующие endured waves suspi",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/25/a-brief-history-of-persecution-in-iran/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-25",
-      "lat": 29.5637,
-      "lng": 52.8182,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "discrimination",
-      "title": "Hope для Iranian христиане",
-      "description": "ICC Fellow Lisa Navarrette на Feb. 28, moment unfolded that many believed would never come. Through операция Epic Fury, Israel и United штаты struck heart Iran’s ruling regime. This regime had tightened its grip на its люди,",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/25/hope-for-iranian-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-25",
-      "lat": 29.4948,
-      "lng": 52.7724,
-      "country": "Iran",
-      "city": "Shiraz",
       "type": "discrimination",
       "title": "Brief History гонение в Iran",
       "description": "ICC Fellow Lisa Navarrette христианство has existed в modern Iran для nearly 2,000 годы. Long до rise ислам, христианские общины were already flourishing в Persian Empire. века, these верующие endured waves suspi",
