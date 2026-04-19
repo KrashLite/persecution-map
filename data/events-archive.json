@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-19T07:05:38.439Z",
+    "lastUpdated": "2026-04-19T12:33:40.842Z",
     "totalEvents": 500
   },
   "events": [
@@ -160,6 +160,19 @@
       "description": "New release human rights NGO highlights increased pressure Chinese власти на Catholics в shadow \"sinicisation\" и agreement с Holy See на episcopal appointments. member underground community merged int",
       "source": "zenit",
       "url": "https://zenit.org/2026/04/17/human-rights-watch-church-ban-for-minors-in-china-violates-human-rights/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-18",
+      "lat": 29.7303,
+      "lng": 52.7228,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "How dispute between Trump и папа Leo escalated",
+      "description": "Президент Trump has lobbed insults папа Leo XIV в response his criticisms war в Iran, marking unusually pronounced rupture between leaders world's most powerful country и world's largest христианская деноминация.",
+      "source": "newsapi:CBS News",
+      "url": "https://www.cbsnews.com/news/how-dispute-trump-pope-leo-escalated/",
       "victims": 0
     },
     {
@@ -558,6 +571,19 @@
       "lng": 9.573,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "murder",
+      "title": "Nigerian правительство Convicts Nearly 400 на Terrorism обвинения",
+      "description": "Federal high суд в Abuja, Nigeria, has осуждён 386 люди на terrorism обвинения в one largest месса осуждения в recent times. Those осуждён were linked Исламское государство West Africa провинция (ISWAP) or Боко Харам, deadly te",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/16/nigerian-government-convicts-nearly-400-on-terrorism-charges/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-16",
+      "lat": 9.0679,
+      "lng": 7.3159,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "murder",
       "title": "Nigerian правительство Convicts Nearly 400 на Terrorism обвинения",
       "description": "Federal high суд в Abuja, Nigeria, has осуждён 386 люди на terrorism обвинения в one largest месса осуждения в recent times. Those осуждён were linked Исламское государство West Africa провинция (ISWAP) or Боко Харам, deadly te",
@@ -6473,32 +6499,6 @@
       "lng": 77.1553,
       "country": "India",
       "city": "Delhi",
-      "type": "attack",
-      "title": "Индус Nationalists атака церковь в India",
-      "description": "Толпа радикал индус nationalists violently подвергнут засаде приход 20 христиане на fabricated обращение обвинения на Feb. 10 в Maharashtra, India. incident occurred пока христиане gathered в shed used as place богослужение. пастор Raj",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/26/hindu-nationalists-attack-church-in-india/",
-      "victims": 20
-    },
-    {
-      "date": "2026-03-26",
-      "lat": 33.5579,
-      "lng": 72.9978,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "other",
-      "title": "Thousands христианские семьи Face выселение в Pakistan",
-      "description": "Around 25,000 христиане living в Rimsha, Allama Iqbal, и Akram Masih Gill colonies в Islamabad, Pakistan, are facing выселение. власти have told them leave their homes within few дни. These are entire семьи who have been living",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/26/thousands-of-christian-families-face-eviction-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-26",
-      "lat": 18.9291,
-      "lng": 72.8721,
-      "country": "India",
-      "city": "Mumbai",
       "type": "attack",
       "title": "Индус Nationalists атака церковь в India",
       "description": "Толпа радикал индус nationalists violently подвергнут засаде приход 20 христиане на fabricated обращение обвинения на Feb. 10 в Maharashtra, India. incident occurred пока христиане gathered в shed used as place богослужение. пастор Raj",
