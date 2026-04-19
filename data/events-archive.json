@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-19T01:20:31.909Z",
+    "lastUpdated": "2026-04-19T07:05:38.439Z",
     "totalEvents": 500
   },
   "events": [
@@ -319,6 +319,19 @@
       "victims": 0
     },
     {
+      "date": "2026-04-17",
+      "lat": 6.5507,
+      "lng": 3.3423,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "U.S. Embassy Vatican: Nigerian христиане are being targeted",
+      "description": "Посол Brian Burch described situation в Nigeria as “conflict between радикал исламский groups и христиане because their вера.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/vatican/us-embassy-to-the-vatican-nigerian-christians-are-being-targeted",
+      "victims": 0
+    },
+    {
       "date": "2026-04-16",
       "lat": 23.1319,
       "lng": 113.5764,
@@ -537,6 +550,19 @@
       "description": "“ десятилетие в Xi Jinping’s Sinicization кампания и nearly eight годы since 2018 Holy See-China agreement, Catholics в China face escalating подавление” researcher Yalkun Uluyol said.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/china-pressures-underground-catholics-to-join-state-church-rights-group-says",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-16",
+      "lat": 9.3157,
+      "lng": 9.573,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Nigerian правительство Convicts Nearly 400 на Terrorism обвинения",
+      "description": "Federal high суд в Abuja, Nigeria, has осуждён 386 люди на terrorism обвинения в one largest месса осуждения в recent times. Those осуждён were linked Исламское государство West Africa провинция (ISWAP) or Боко Харам, deadly te",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/16/nigerian-government-convicts-nearly-400-on-terrorism-charges/",
       "victims": 0
     },
     {
@@ -6473,32 +6499,6 @@
       "lng": 72.8721,
       "country": "India",
       "city": "Mumbai",
-      "type": "attack",
-      "title": "Индус Nationalists атака церковь в India",
-      "description": "Толпа радикал индус nationalists violently подвергнут засаде приход 20 христиане на fabricated обращение обвинения на Feb. 10 в Maharashtra, India. incident occurred пока христиане gathered в shed used as place богослужение. пастор Raj",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/26/hindu-nationalists-attack-church-in-india/",
-      "victims": 20
-    },
-    {
-      "date": "2026-03-26",
-      "lat": 34.2502,
-      "lng": 71.5994,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "other",
-      "title": "Thousands христианские семьи Face выселение в Pakistan",
-      "description": "Around 25,000 христиане living в Rimsha, Allama Iqbal, и Akram Masih Gill colonies в Islamabad, Pakistan, are facing выселение. власти have told them leave their homes within few дни. These are entire семьи who have been living",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/26/thousands-of-christian-families-face-eviction-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-26",
-      "lat": 20.9428,
-      "lng": 85.1375,
-      "country": "India",
-      "city": "Odisha",
       "type": "attack",
       "title": "Индус Nationalists атака церковь в India",
       "description": "Толпа радикал индус nationalists violently подвергнут засаде приход 20 христиане на fabricated обращение обвинения на Feb. 10 в Maharashtra, India. incident occurred пока христиане gathered в shed used as place богослужение. пастор Raj",
