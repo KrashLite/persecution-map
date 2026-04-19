@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-19T12:33:40.842Z",
+    "lastUpdated": "2026-04-19T18:31:52.471Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-04-19",
+      "lat": 6.5094,
+      "lng": 3.2854,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "2027: Group backs Nwifuru, warns against ‘unfit’ lawmakers",
+      "description": "Dickson Omobola Young Ebonyi Businessmen Forum, Lagos штат Chapter, has said губернатор Francis Nwifuru Ebonyi штат deserves второй term в офис enable him complete all his signature projects being казнён across штат. associat",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/04/2027-group-backs-nwifuru-warns-against-unfit-lawmakers/",
+      "victims": 0
+    },
     {
       "date": "2026-04-18",
       "lat": 34.1578,
@@ -6492,19 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/03/26/thousands-of-christian-families-face-eviction-in-pakistan/",
       "victims": 0
-    },
-    {
-      "date": "2026-03-26",
-      "lat": 28.7613,
-      "lng": 77.1553,
-      "country": "India",
-      "city": "Delhi",
-      "type": "attack",
-      "title": "Индус Nationalists атака церковь в India",
-      "description": "Толпа радикал индус nationalists violently подвергнут засаде приход 20 христиане на fabricated обращение обвинения на Feb. 10 в Maharashtra, India. incident occurred пока христиане gathered в shed used as place богослужение. пастор Raj",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/26/hindu-nationalists-attack-church-in-india/",
-      "victims": 20
     }
   ]
 }
