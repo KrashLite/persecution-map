@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-18T18:31:30.316Z",
+    "lastUpdated": "2026-04-19T01:20:31.909Z",
     "totalEvents": 500
   },
   "events": [
@@ -116,6 +116,45 @@
       "lng": 87.823,
       "country": "China",
       "city": "Xinjiang",
+      "type": "discrimination",
+      "title": "Human Rights Watch: церковь запрет для несовершеннолетние в China violates human rights",
+      "description": "New release human rights NGO highlights increased pressure Chinese власти на Catholics в shadow \"sinicisation\" и agreement с Holy See на episcopal appointments. member underground community merged int",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/04/17/human-rights-watch-church-ban-for-minors-in-china-violates-human-rights/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-18",
+      "lat": 31.5946,
+      "lng": 74.368,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "arrest",
+      "title": "Pakistan: Truck Plows в Catholic Procession на Пасха воскресенье",
+      "description": "Driver, identified as Muhammad Bilal, fled scene, пока his assistant was задержан и vehicle изъят. обвинения have been filed под provisions related reckless driving, but investigators have not yet clarified whether negligence alone",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/04/17/pakistan-truck-plows-into-catholic-procession-on-easter-sunday/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-18",
+      "lat": 35.7512,
+      "lng": 51.4726,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "How dispute between Trump и папа Leo escalated",
+      "description": "Президент Trump has lobbed insults папа Leo XIV в response his criticisms war в Iran, marking unusually pronounced rupture between leaders world's most powerful country и world's largest христианская деноминация.",
+      "source": "newsapi:CBS News",
+      "url": "https://www.cbsnews.com/news/how-dispute-trump-pope-leo-escalated/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-18",
+      "lat": 23.2697,
+      "lng": 113.5545,
+      "country": "China",
+      "city": "Guangdong",
       "type": "discrimination",
       "title": "Human Rights Watch: церковь запрет для несовершеннолетние в China violates human rights",
       "description": "New release human rights NGO highlights increased pressure Chinese власти на Catholics в shadow \"sinicisation\" и agreement с Holy See на episcopal appointments. member underground community merged int",
@@ -264,6 +303,19 @@
       "description": "Посол Brian Burch described situation в Nigeria as “conflict between радикал исламский groups и христиане because their вера.”",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/vatican/us-embassy-to-the-vatican-nigerian-christians-are-being-targeted",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-17",
+      "lat": 29.5853,
+      "lng": 52.5513,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Catholic theologians explain why war is ‘matter morality’ после Vance comments на папа Leo XIV",
+      "description": "Вице-президент JD Vance asked Vatican “stick matters morality” amid папа Leo XIV’s Iran war concerns. Catholic theologians say war и other public policies are “matters morality.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/catholic-theologians-comment-vance-pope-leo-xiv",
       "victims": 0
     },
     {
@@ -472,6 +524,19 @@
       "description": "Архиепископ Sarah Mullally, who assumed her role as head церковь England в январь, said she stood с папа в his “courageous call для peace.”",
       "source": "crux",
       "url": "https://cruxnow.com/global-church/2026/04/archbishop-of-canterbury-expresses-solidarity-with-pope-leo-xiv-in-calling-for-peace-in-iran/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-16",
+      "lat": 31.2294,
+      "lng": 121.4056,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "other",
+      "title": "China pressures underground Catholics join штат церковь, rights group says",
+      "description": "“ десятилетие в Xi Jinping’s Sinicization кампания и nearly eight годы since 2018 Holy See-China agreement, Catholics в China face escalating подавление” researcher Yalkun Uluyol said.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/china-pressures-underground-catholics-to-join-state-church-rights-group-says",
       "victims": 0
     },
     {
@@ -6440,71 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/03/26/hindu-nationalists-attack-church-in-india/",
       "victims": 20
-    },
-    {
-      "date": "2026-03-26",
-      "lat": 24.9954,
-      "lng": 66.7772,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "other",
-      "title": "Thousands христианские семьи Face выселение в Pakistan",
-      "description": "Around 25,000 христиане living в Rimsha, Allama Iqbal, и Akram Masih Gill colonies в Islamabad, Pakistan, are facing выселение. власти have told them leave their homes within few дни. These are entire семьи who have been living",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/26/thousands-of-christian-families-face-eviction-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-26",
-      "lat": 31.5941,
-      "lng": 74.4702,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "other",
-      "title": "Pakistan епископы back армия amid Afghanistan tensions",
-      "description": "Catholic leaders в Pakistan expressed solidarity с nation's вооружённые силы пока calling для dialogue end недели крест-border fighting с Afghanistan.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-bishops-back-army-amid-afghanistan-tensions",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-26",
-      "lat": 21.2865,
-      "lng": 81.6711,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "attack",
-      "title": "Индус Nationalists атака церковь в India",
-      "description": "Толпа радикал индус nationalists violently подвергнут засаде приход 20 христиане на fabricated обращение обвинения на Feb. 10 в Maharashtra, India. incident occurred пока христиане gathered в shed used as place богослужение. пастор Raj",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/26/hindu-nationalists-attack-church-in-india/",
-      "victims": 20
-    },
-    {
-      "date": "2026-03-25",
-      "lat": 12.5676,
-      "lng": -7.8998,
-      "country": "Mali",
-      "city": "Bamako",
-      "type": "discrimination",
-      "title": "Церковь власти в Holy Land denounce изъятие и encroachment на христианин properties еврейский settlers",
-      "description": "Speaking из Jerusalem, William Shomali has described marked escalation в атаки against христианские общины в West Bank, particularly в areas historically associated с continuous христианское население post церковь власти в",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/03/24/church-authorities-in-the-holy-land-denounce-the-seizure-and-encroachment-on-christian-properties-by-jewish-settlers/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-25",
-      "lat": 36.2264,
-      "lng": 59.6743,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Security fears prompt changes Holy неделя и Пасха celebrations в Iraq",
-      "description": "Iraq’s христиане are signifcantly scaling back Palm воскресенье и Пасха observances amid ongoing security concerns due Iran war.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/security-fears-prompt-changes-to-holy-week-and-easter-celebrations-in-iraq",
-      "victims": 0
     }
   ]
 }
