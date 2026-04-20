@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-20T07:47:46.615Z",
+    "lastUpdated": "2026-04-20T13:00:53.279Z",
     "totalEvents": 500
   },
   "events": [
@@ -350,6 +350,19 @@
       "lng": 3.3423,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "other",
+      "title": "U.S. Embassy Vatican: Nigerian христиане are being targeted",
+      "description": "Посол Brian Burch described situation в Nigeria as “conflict between радикал исламский groups и христиане because their вера.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/vatican/us-embassy-to-the-vatican-nigerian-christians-are-being-targeted",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-17",
+      "lat": 9.2988,
+      "lng": 7.256,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "other",
       "title": "U.S. Embassy Vatican: Nigerian христиане are being targeted",
       "description": "Посол Brian Burch described situation в Nigeria as “conflict between радикал исламский groups и христиане because their вера.”",
@@ -6492,19 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/03/26/hindu-nationalists-attack-church-in-india/",
       "victims": 20
-    },
-    {
-      "date": "2026-03-26",
-      "lat": 31.5448,
-      "lng": 74.2743,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "other",
-      "title": "Thousands христианские семьи Face выселение в Pakistan",
-      "description": "Around 25,000 христиане living в Rimsha, Allama Iqbal, и Akram Masih Gill colonies в Islamabad, Pakistan, are facing выселение. власти have told them leave their homes within few дни. These are entire семьи who have been living",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/26/thousands-of-christian-families-face-eviction-in-pakistan/",
-      "victims": 0
     }
   ]
 }
