@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-20T18:48:20.810Z",
+    "lastUpdated": "2026-04-21T01:17:44.531Z",
     "totalEvents": 500
   },
   "events": [
@@ -18,6 +18,19 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/israel-soldier-destroy-crucifix",
       "victims": 0
+    },
+    {
+      "date": "2026-04-20",
+      "lat": 11.6147,
+      "lng": 13.004,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "8 христиане убит во время Overnight атаки в плато штат",
+      "description": "Least eight христиане were убит и 10 others ранен в series coordinated overnight атаки на communities в плато штат, Nigeria, according local sources. атаки were reported across Bassa, Barkin Ladi, и Riyom local gover",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/20/8-christians-killed-during-overnight-attacks-in-plateau-state/",
+      "victims": 8
     },
     {
       "date": "2026-04-19",
@@ -376,6 +389,19 @@
       "lng": 7.256,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "other",
+      "title": "U.S. Embassy Vatican: Nigerian христиане are being targeted",
+      "description": "Посол Brian Burch described situation в Nigeria as “conflict between радикал исламский groups и христиане because their вера.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/vatican/us-embassy-to-the-vatican-nigerian-christians-are-being-targeted",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-17",
+      "lat": 12.0399,
+      "lng": 8.5099,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "other",
       "title": "U.S. Embassy Vatican: Nigerian христиане are being targeted",
       "description": "Посол Brian Burch described situation в Nigeria as “conflict between радикал исламский groups и христиане because their вера.”",
@@ -6473,32 +6499,6 @@
       "lng": 73.1092,
       "country": "Pakistan",
       "city": "Islamabad",
-      "type": "other",
-      "title": "Pakistan епископы back армия amid Afghanistan tensions",
-      "description": "Catholic leaders в Pakistan expressed solidarity с nation's вооружённые силы пока calling для dialogue end недели крест-border fighting с Afghanistan.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-bishops-back-army-amid-afghanistan-tensions",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-26",
-      "lat": 23.9583,
-      "lng": 90.2865,
-      "country": "Bangladesh",
-      "city": "Dhaka",
-      "type": "discrimination",
-      "title": "How Catholic volunteers serve Bangladesh’s forgotten дети this Lent",
-      "description": "Catholic миссионер’s five-minute appeal воскресенье месса brought 50 new volunteers forward serve street дети в Dhaka — и most them are мусульманин.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/how-catholic-volunteers-serve-bangladesh-s-forgotten-children-this-lent",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-26",
-      "lat": 33.8349,
-      "lng": 71.666,
-      "country": "Pakistan",
-      "city": "Peshawar",
       "type": "other",
       "title": "Pakistan епископы back армия amid Afghanistan tensions",
       "description": "Catholic leaders в Pakistan expressed solidarity с nation's вооружённые силы пока calling для dialogue end недели крест-border fighting с Afghanistan.",
