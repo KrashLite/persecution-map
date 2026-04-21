@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-21T07:19:53.428Z",
+    "lastUpdated": "2026-04-21T12:57:38.932Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-04-21",
+      "lat": 4.35,
+      "lng": 18.5083,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "Папа Francis was true пастор, says leading African кардинал",
+      "description": "“с папа Francis, there is до и после, because после him, things will never be same для церковь,” says кардинал Fridolin Ambongo. This African кардинал is архиепископ Kinshasa (Democratic Republic Congo) и президент",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/04/21/pope-francis-was-a-true-pastor-says-leading-african-cardinal/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-21",
+      "lat": 3.8013,
+      "lng": 11.6752,
+      "country": "Cameroon",
+      "city": "Yaounde",
+      "type": "other",
+      "title": "Папа Leo XIV в Africa: 7 things know о католическая церковь в Equatorial Guinea",
+      "description": "Папа Leo XIV visits Equatorial Guinea на апрель 21 — his последний stop на 11-день, four-nation African apostolic journey that also included Algeria, Cameroon, и Angola.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/pope-leo-xiv-in-africa-7-things-to-know-about-the-catholic-church-in-equatorial-guinea",
+      "victims": 0
+    },
     {
       "date": "2026-04-20",
       "lat": 4.2209,
@@ -38,6 +64,19 @@
       "lng": 9.6678,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "murder",
+      "title": "8 христиане убит во время Overnight атаки в плато штат",
+      "description": "Least eight христиане were убит и 10 others ранен в series coordinated overnight атаки на communities в плато штат, Nigeria, according local sources. атаки were reported across Bassa, Barkin Ladi, и Riyom local gover",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/20/8-christians-killed-during-overnight-attacks-in-plateau-state/",
+      "victims": 8
+    },
+    {
+      "date": "2026-04-20",
+      "lat": 9.2433,
+      "lng": 7.6723,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "murder",
       "title": "8 христиане убит во время Overnight атаки в плато штат",
       "description": "Least eight христиане were убит и 10 others ранен в series coordinated overnight атаки на communities в плато штат, Nigeria, according local sources. атаки were reported across Bassa, Barkin Ladi, и Riyom local gover",
@@ -6465,45 +6504,6 @@
       "description": "22-год-old христианин was found погибшие farmhouse в Punjab, Pakistan. His семья claimed his смерть was made look like suicide после he endured пытки из his employers. Marqas Masih’s body was found на март 3, повешение из beam",
       "source": "persecution",
       "url": "https://persecution.org/2026/03/27/pakistani-christian-dies-after-alleged-torture/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-27",
-      "lat": 20.7119,
-      "lng": 85.0379,
-      "country": "India",
-      "city": "Odisha",
-      "type": "murder",
-      "title": "Католическая церковь в India ‘appalled’ country’s первый euthanasia смерть",
-      "description": "Catholic leaders reacted после India’s Supreme суд allowed withdrawal life support для мужчина в vegetative штат для 13 годы.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-in-india-appalled-by-country-s-first-euthanasia-death",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-27",
-      "lat": 23.3323,
-      "lng": 113.5248,
-      "country": "China",
-      "city": "Guangdong",
-      "type": "arrest",
-      "title": "Lawmakers urge Trump защитник для China’s release христианин пастор upcoming summit",
-      "description": "Пастор Ezra Jin was задержан along с dozens other церковь leaders в октябрь 2025.",
-      "source": "newsapi:Ewtnnews.com",
-      "url": "https://www.ewtnnews.com/world/us/lawmakers-urge-trump-to-advocate-for-china-s-release-of-christian-pastor-at-upcoming-summit",
-      "victims": 24
-    },
-    {
-      "date": "2026-03-26",
-      "lat": 11.9186,
-      "lng": 8.5031,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "How Nigeria can overcome security crisis – NCCC",
-      "description": "Nigeria христианин Civil Chaplain Corps suggests spiritual intervention alongside военные action tackle nation’s ongoing security crisis. Read More: https://punchng.com/how-nigeria-can-overcome-security-crisis-nccc/",
-      "source": "punchng",
-      "url": "https://punchng.com/how-nigeria-can-overcome-security-crisis-nccc/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     }
   ]
