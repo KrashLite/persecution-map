@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-21T01:17:44.531Z",
+    "lastUpdated": "2026-04-21T07:19:53.428Z",
     "totalEvents": 500
   },
   "events": [
@@ -25,6 +25,19 @@
       "lng": 13.004,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "murder",
+      "title": "8 христиане убит во время Overnight атаки в плато штат",
+      "description": "Least eight христиане were убит и 10 others ранен в series coordinated overnight атаки на communities в плато штат, Nigeria, according local sources. атаки were reported across Bassa, Barkin Ladi, и Riyom local gover",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/20/8-christians-killed-during-overnight-attacks-in-plateau-state/",
+      "victims": 8
+    },
+    {
+      "date": "2026-04-20",
+      "lat": 8.9827,
+      "lng": 9.6678,
+      "country": "Nigeria",
+      "city": "Plateau",
       "type": "murder",
       "title": "8 христиане убит во время Overnight атаки в плато штат",
       "description": "Least eight христиане were убит и 10 others ранен в series coordinated overnight атаки на communities в плато штат, Nigeria, according local sources. атаки were reported across Bassa, Barkin Ladi, и Riyom local gover",
@@ -6491,19 +6504,6 @@
       "description": "Nigeria христианин Civil Chaplain Corps suggests spiritual intervention alongside военные action tackle nation’s ongoing security crisis. Read More: https://punchng.com/how-nigeria-can-overcome-security-crisis-nccc/",
       "source": "punchng",
       "url": "https://punchng.com/how-nigeria-can-overcome-security-crisis-nccc/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-26",
-      "lat": 33.5351,
-      "lng": 73.1092,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "other",
-      "title": "Pakistan епископы back армия amid Afghanistan tensions",
-      "description": "Catholic leaders в Pakistan expressed solidarity с nation's вооружённые силы пока calling для dialogue end недели крест-border fighting с Afghanistan.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-bishops-back-army-amid-afghanistan-tensions",
       "victims": 0
     }
   ]
