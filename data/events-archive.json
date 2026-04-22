@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-21T18:54:42.847Z",
+    "lastUpdated": "2026-04-22T01:17:12.541Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,32 @@
       "description": "Папа Leo XIV visits Equatorial Guinea на апрель 21 — his последний stop на 11-день, four-nation African apostolic journey that also included Algeria, Cameroon, и Angola.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/pope-leo-xiv-in-africa-7-things-to-know-about-the-catholic-church-in-equatorial-guinea",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-21",
+      "lat": 4.9424,
+      "lng": -74.2559,
+      "country": "Colombia",
+      "city": "Bogota",
+      "type": "other",
+      "title": "Colombian президент Harasses Catholic священник Live на Air для Speaking Out Against коммунизм",
+      "description": "Center storm is президент Gustavo Petro, who, во время recent cabinet meeting, publicly rebuked священник из Parish Holy семья в Bogotá post Colombian президент Harasses Catholic священник Live на Air для Speaking Out Aga",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/04/21/colombian-president-harasses-catholic-priest-live-on-air-for-speaking-out-against-communism/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-21",
+      "lat": 19.3862,
+      "lng": -99.1032,
+      "country": "Mexico",
+      "city": "Mexico City",
+      "type": "murder",
+      "title": "Епископ urges ‘return христианин values’ после стрельба Mexican pyramid",
+      "description": "В response стрельба Mexican archeological site that left two погибшие и 13 ранен, епископ Guillermo Escobar urged люди look Jesus Christ и return христианин values.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/americas/bishop-urges-return-to-christian-values-after-shooting-at-mexican-pyramid",
       "victims": 0
     },
     {
@@ -90,6 +116,19 @@
       "lng": 52.376,
       "country": "Iran",
       "city": "Shiraz",
+      "type": "other",
+      "title": "'60 Minutes' accused using Catholic кардиналы push либерал agenda пока ignoring abortion stance",
+      "description": "\"60 Minutes\" featured three progressive-leaning American кардиналы criticizing президент Trump's immigration crackdown и war с Iran, prompting critics question its balance.",
+      "source": "newsapi:Fox News",
+      "url": "https://www.foxnews.com/media/60-minutes-accused-using-catholic-cardinals-push-liberal-agenda-while-ignoring-abortion-stance",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-20",
+      "lat": 35.7683,
+      "lng": 51.4923,
+      "country": "Iran",
+      "city": "Tehran",
       "type": "other",
       "title": "'60 Minutes' accused using Catholic кардиналы push либерал agenda пока ignoring abortion stance",
       "description": "\"60 Minutes\" featured three progressive-leaning American кардиналы criticizing президент Trump's immigration crackdown и war с Iran, prompting critics question its balance.",
@@ -714,6 +753,19 @@
       "lng": 7.3159,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "murder",
+      "title": "Nigerian правительство Convicts Nearly 400 на Terrorism обвинения",
+      "description": "Federal high суд в Abuja, Nigeria, has осуждён 386 люди на terrorism обвинения в one largest месса осуждения в recent times. Those осуждён were linked Исламское государство West Africa провинция (ISWAP) or Боко Харам, deadly te",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/16/nigerian-government-convicts-nearly-400-on-terrorism-charges/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-16",
+      "lat": 6.3062,
+      "lng": 3.4925,
+      "country": "Nigeria",
+      "city": "Lagos",
       "type": "murder",
       "title": "Nigerian правительство Convicts Nearly 400 на Terrorism обвинения",
       "description": "Federal high суд в Abuja, Nigeria, has осуждён 386 люди на terrorism обвинения в one largest месса осуждения в recent times. Those осуждён were linked Исламское государство West Africa провинция (ISWAP) or Боко Харам, deadly te",
@@ -6453,58 +6505,6 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-in-india-appalled-by-country-s-first-euthanasia-death",
       "victims": 0
-    },
-    {
-      "date": "2026-03-27",
-      "lat": 40.1125,
-      "lng": 116.1826,
-      "country": "China",
-      "city": "Beijing",
-      "type": "arrest",
-      "title": "Lawmakers urge Trump защитник для China’s release христианин пастор upcoming summit",
-      "description": "Пастор Ezra Jin was задержан along с dozens other церковь leaders в октябрь 2025.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/lawmakers-urge-trump-to-advocate-for-china-s-release-of-christian-pastor-at-upcoming-summit",
-      "victims": 24
-    },
-    {
-      "date": "2026-03-27",
-      "lat": 28.6279,
-      "lng": 77.1352,
-      "country": "India",
-      "city": "Delhi",
-      "type": "murder",
-      "title": "Католическая церковь в India ‘appalled’ country’s первый euthanasia смерть",
-      "description": "Catholic leaders reacted после India’s Supreme суд allowed withdrawal life support для мужчина в vegetative штат для 13 годы.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-in-india-appalled-by-country-s-first-euthanasia-death",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-27",
-      "lat": 34.03,
-      "lng": 71.3478,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "murder",
-      "title": "Pakistani христианин Dies после Alleged пытки",
-      "description": "22-год-old христианин was found погибшие farmhouse в Punjab, Pakistan. His семья claimed his смерть was made look like suicide после he endured пытки из his employers. Marqas Masih’s body was found на март 3, повешение из beam",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/27/pakistani-christian-dies-after-alleged-torture/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-27",
-      "lat": 31.0996,
-      "lng": 121.6678,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "arrest",
-      "title": "Lawmakers urge Trump защитник для China’s release христианин пастор upcoming summit",
-      "description": "Пастор Ezra Jin was задержан along с dozens other церковь leaders в октябрь 2025.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/lawmakers-urge-trump-to-advocate-for-china-s-release-of-christian-pastor-at-upcoming-summit",
-      "victims": 24
     }
   ]
 }
