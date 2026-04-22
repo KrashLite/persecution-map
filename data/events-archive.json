@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-22T01:17:12.541Z",
+    "lastUpdated": "2026-04-22T07:18:10.197Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-04-22",
+      "lat": 9.1621,
+      "lng": 9.6737,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Insecurity: You can’t silence me, US lawmaker tells Matawalle",
+      "description": "Daniels alleged that following her statement на целевые убийства христиане в Nigeria, she came под pressure из люди linked Matawalle post Insecurity: You can’t silence me, US lawmaker tells Matawalle appeared первый на Vanguard",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/04/insecurity-you-cant-silence-me-us-lawmaker-tells-matawalle/",
+      "victims": 0
+    },
     {
       "date": "2026-04-21",
       "lat": 4.35,
@@ -135,6 +148,19 @@
       "source": "newsapi:Fox News",
       "url": "https://www.foxnews.com/media/60-minutes-accused-using-catholic-cardinals-push-liberal-agenda-while-ignoring-abortion-stance",
       "victims": 0
+    },
+    {
+      "date": "2026-04-20",
+      "lat": 6.5343,
+      "lng": 3.3584,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "8 христиане убит во время Overnight атаки в плато штат",
+      "description": "Least eight христиане were убит и 10 others ранен в series coordinated overnight атаки на communities в плато штат, Nigeria, according local sources. атаки were reported across Bassa, Barkin Ladi, и Riyom local gover",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/20/8-christians-killed-during-overnight-attacks-in-plateau-state/",
+      "victims": 8
     },
     {
       "date": "2026-04-19",
@@ -6473,32 +6499,6 @@
       "lng": 80.8851,
       "country": "India",
       "city": "Uttar Pradesh",
-      "type": "murder",
-      "title": "Католическая церковь в India ‘appalled’ country’s первый euthanasia смерть",
-      "description": "Catholic leaders reacted после India’s Supreme суд allowed withdrawal life support для мужчина в vegetative штат для 13 годы.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-in-india-appalled-by-country-s-first-euthanasia-death",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-27",
-      "lat": 31.324,
-      "lng": 74.124,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "murder",
-      "title": "Pakistani христианин Dies после Alleged пытки",
-      "description": "22-год-old христианин was found погибшие farmhouse в Punjab, Pakistan. His семья claimed his смерть was made look like suicide после he endured пытки из his employers. Marqas Masih’s body was found на март 3, повешение из beam",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/27/pakistani-christian-dies-after-alleged-torture/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-27",
-      "lat": 21.4512,
-      "lng": 82.0938,
-      "country": "India",
-      "city": "Chhattisgarh",
       "type": "murder",
       "title": "Католическая церковь в India ‘appalled’ country’s первый euthanasia смерть",
       "description": "Catholic leaders reacted после India’s Supreme суд allowed withdrawal life support для мужчина в vegetative штат для 13 годы.",
