@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-22T07:18:10.197Z",
+    "lastUpdated": "2026-04-22T12:57:04.017Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,32 @@
       "description": "Daniels alleged that following her statement на целевые убийства христиане в Nigeria, she came под pressure из люди linked Matawalle post Insecurity: You can’t silence me, US lawmaker tells Matawalle appeared первый на Vanguard",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/04/insecurity-you-cant-silence-me-us-lawmaker-tells-matawalle/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-22",
+      "lat": 9.0148,
+      "lng": 7.4401,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "US senator accuses Nigerian чиновники complicity в убийства христиане",
+      "description": "US Senator Ted Cruz alleges Nigerian чиновники are complicit в массовое убийство христиане в Nigeria, citing thousands смерти и разрушен churche Read More: https://punchng.com/us-senator-accuses-nigerian-чиновники--complicity-в-убийство",
+      "source": "punchng",
+      "url": "https://punchng.com/us-senator-accuses-nigerian-officials-of-complicity-in-killings-of-christians/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-22",
+      "lat": 4.4697,
+      "lng": 18.5956,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "murder",
+      "title": "Martyr’s последний wish — help cancer patients",
+      "description": "Esther Paniagua Alonso was 45 годы old когда she was gunned down alongside her fellow Augustinian сестра, Caridad Álvarez, на октябрь 23, 1994. They were убит near their home в Bab El Oued, район в город Algiers that папа Leo XIV v",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/04/22/a-martyrs-last-wish-to-help-cancer-patients/",
       "victims": 0
     },
     {
@@ -6473,32 +6499,6 @@
       "lng": 72.6608,
       "country": "India",
       "city": "Mumbai",
-      "type": "murder",
-      "title": "Католическая церковь в India ‘appalled’ country’s первый euthanasia смерть",
-      "description": "Catholic leaders reacted после India’s Supreme суд allowed withdrawal life support для мужчина в vegetative штат для 13 годы.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-in-india-appalled-by-country-s-first-euthanasia-death",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-27",
-      "lat": 33.9152,
-      "lng": 73.0086,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "murder",
-      "title": "Pakistani христианин Dies после Alleged пытки",
-      "description": "22-год-old христианин was found погибшие farmhouse в Punjab, Pakistan. His семья claimed his смерть was made look like suicide после he endured пытки из his employers. Marqas Masih’s body was found на март 3, повешение из beam",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/27/pakistani-christian-dies-after-alleged-torture/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-27",
-      "lat": 26.6448,
-      "lng": 80.8851,
-      "country": "India",
-      "city": "Uttar Pradesh",
       "type": "murder",
       "title": "Католическая церковь в India ‘appalled’ country’s первый euthanasia смерть",
       "description": "Catholic leaders reacted после India’s Supreme суд allowed withdrawal life support для мужчина в vegetative штат для 13 годы.",
