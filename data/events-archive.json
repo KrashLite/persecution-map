@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-22T18:58:38.566Z",
+    "lastUpdated": "2026-04-23T01:21:18.438Z",
     "totalEvents": 500
   },
   "events": [
@@ -82,6 +82,32 @@
       "description": "Христианин Association Nigeria (CAN) denies rift rumors и allegations пропавший без вести relief funds, stating it remains united и will take legal action Read More: https://punchng.com/can-denies-rift-пропавший без вести-funds-threatens-legal-action/",
       "source": "punchng",
       "url": "https://punchng.com/can-denies-rift-missing-funds-threatens-legal-action/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-22",
+      "lat": 6.4968,
+      "lng": 3.2094,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Боко Харам has убит more мусульмане than христиане, no геноцид в Nigeria — Lai Mohammed",
+      "description": "Former министр Information и Culture, Lai Mohammed, has dismissed claims targeted геноцид against христиане в Nigeria, stating that повстанец groups, particularly Боко Харам, have убит more мусульмане than христиане. post Боко Харам",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/04/boko-haram-has-killed-more-muslims-than-christians-no-genocide-in-nigeria-lai-mohammed/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-22",
+      "lat": 33.57,
+      "lng": 72.9506,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "other",
+      "title": "Struggle для Justice в Islamabad’s христианин Slums",
+      "description": "Pakistan’s столица Development власть (CDA) недавно launched massive “anti-encroachment” drive reclaim land в country’s столица, Islamabad — much which is occupied христиане. правительство argues that these “atchi abadis,” or в",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/22/the-struggle-for-justice-in-islamabads-christian-slums/",
       "victims": 0
     },
     {
@@ -220,6 +246,19 @@
       "lng": 3.3584,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "murder",
+      "title": "8 христиане убит во время Overnight атаки в плато штат",
+      "description": "Least eight христиане were убит и 10 others ранен в series coordinated overnight атаки на communities в плато штат, Nigeria, according local sources. атаки were reported across Bassa, Barkin Ladi, и Riyom local gover",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/20/8-christians-killed-during-overnight-attacks-in-plateau-state/",
+      "victims": 8
+    },
+    {
+      "date": "2026-04-20",
+      "lat": 11.7949,
+      "lng": 8.6944,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "murder",
       "title": "8 христиане убит во время Overnight атаки в плато штат",
       "description": "Least eight христиане were убит и 10 others ранен в series coordinated overnight атаки на communities в плато штат, Nigeria, according local sources. атаки were reported across Bassa, Barkin Ladi, и Riyom local gover",
@@ -6465,45 +6504,6 @@
       "description": "Bangladesh епископы say “no” правительство support, Seoul архиепископ urges defense life amid war, второй церковь built в Mosul после ИГИЛ, и more в на этой неделе’s roundup Catholic world news.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/bangladesh-bishops-say-no-to-government-financial-support",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-28",
-      "lat": 33.5499,
-      "lng": 36.3044,
-      "country": "Syria",
-      "city": "Damascus",
-      "type": "attack",
-      "title": "Sectarian атаки rock христианин посёлок в Syria после dispute",
-      "description": "Argument between two мужчины в христианин посёлок в central Syria led sectarian атаки that caused widespread повреждение homes, shops и cars в reminder религиозный violence that followed осень longtime leader Bashar Assad two годы ago.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/sectarian-attacks-rock-a-christian-town-in-syria-after-a-dispute/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-28",
-      "lat": 35.2333,
-      "lng": 44.3502,
-      "country": "Iraq",
-      "city": "Kirkuk",
-      "type": "discrimination",
-      "title": "Bangladesh епископы say ‘no’ правительство financial support",
-      "description": "Bangladesh епископы say “no” правительство support, Seoul архиепископ urges defense life amid war, второй церковь built в Mosul после ИГИЛ, и more в на этой неделе’s roundup Catholic world news.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/bangladesh-bishops-say-no-to-government-financial-support",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-28",
-      "lat": 34.9471,
-      "lng": 36.9251,
-      "country": "Syria",
-      "city": "Homs",
-      "type": "attack",
-      "title": "Sectarian атаки rock христианин посёлок в Syria после dispute",
-      "description": "Argument between two мужчины в христианин посёлок в central Syria led sectarian атаки that caused widespread повреждение homes, shops и cars в reminder религиозный violence that followed осень longtime leader Bashar Assad two годы ago.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/sectarian-attacks-rock-a-christian-town-in-syria-after-a-dispute/",
       "victims": 0
     }
   ]
