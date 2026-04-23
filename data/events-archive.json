@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-23T01:21:18.438Z",
+    "lastUpdated": "2026-04-23T07:21:20.563Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-04-23",
+      "lat": 6.6098,
+      "lng": 3.13,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "attack",
+      "title": "Nigerian чиновники involved в убийство христиане — US Senator, Ted Cruz",
+      "description": "United штаты senator, Ted Cruz, has accused Nigerian правительство чиновники involvement в атаки against христиане в country post Nigerian чиновники involved в убийство христиане — US Senator, Ted Cruz appeared первый на Vanguard New",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/04/nigerian-officials-involved-in-killing-of-christians-us-senator-ted-cruz/",
+      "victims": 0
+    },
     {
       "date": "2026-04-22",
       "lat": 9.1621,
@@ -103,6 +116,19 @@
       "lng": 72.9506,
       "country": "Pakistan",
       "city": "Islamabad",
+      "type": "other",
+      "title": "Struggle для Justice в Islamabad’s христианин Slums",
+      "description": "Pakistan’s столица Development власть (CDA) недавно launched massive “anti-encroachment” drive reclaim land в country’s столица, Islamabad — much which is occupied христиане. правительство argues that these “atchi abadis,” or в",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/22/the-struggle-for-justice-in-islamabads-christian-slums/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-22",
+      "lat": 34.047,
+      "lng": 71.5701,
+      "country": "Pakistan",
+      "city": "Peshawar",
       "type": "other",
       "title": "Struggle для Justice в Islamabad’s христианин Slums",
       "description": "Pakistan’s столица Development власть (CDA) недавно launched massive “anti-encroachment” drive reclaim land в country’s столица, Islamabad — much which is occupied христиане. правительство argues that these “atchi abadis,” or в",
@@ -6478,32 +6504,6 @@
       "description": "Argument between two мужчины в христианин посёлок в central Syria led sectarian атаки that caused widespread повреждение homes, shops и cars в reminder религиозный violence that followed осень longtime leader Bashar Assad two годы ago.",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/sectarian-attacks-rock-a-christian-town-in-syria-after-a-dispute/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-28",
-      "lat": 14.4462,
-      "lng": 121.1007,
-      "country": "Philippines",
-      "city": "Manila",
-      "type": "murder",
-      "title": "St. Charbel relic tours Philippines; Guadalupe icon next",
-      "description": "St. Charbel Makhlouf is beloved around world, known для interceding для countless miracles both во время his life и после his смерть. сейчас первый-class bone relic is touring Philippines, remarkable opportunity ask для his молитвы и inte",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/03/28/st-charbel-relic-tours-philippines-guadalupe-icon-next/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-28",
-      "lat": 36.3022,
-      "lng": 42.9483,
-      "country": "Iraq",
-      "city": "Mosul",
-      "type": "discrimination",
-      "title": "Bangladesh епископы say ‘no’ правительство financial support",
-      "description": "Bangladesh епископы say “no” правительство support, Seoul архиепископ urges defense life amid war, второй церковь built в Mosul после ИГИЛ, и more в на этой неделе’s roundup Catholic world news.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/bangladesh-bishops-say-no-to-government-financial-support",
       "victims": 0
     }
   ]
