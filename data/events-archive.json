@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-23T12:56:38.419Z",
+    "lastUpdated": "2026-04-23T18:52:42.858Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,19 @@
       "description": "Епископ Sigifredo Noriega Zacatecas, Mexico, said best way honor sacrifice those who resisted гонение Cristero период is для Catholics know и defend their вера.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/americas/on-centenary-of-cristero-war-bishop-invites-catholics-to-defend-your-faith-by-knowing-it-better",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-23",
+      "lat": -4.4913,
+      "lng": 15.3098,
+      "country": "Democratic Republic of the Congo",
+      "city": "Kinshasa",
+      "type": "murder",
+      "title": "Христианин Truck Driver убит в Eastern DRC",
+      "description": "Смерть Kenyan truck driver в Eastern Democratic Republic Congo (DRC) has sparked renewed concern safety христиане working в регион. incident has not only shaken transport sector but also highlighted broad",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/23/christian-truck-driver-killed-in-eastern-drc/",
       "victims": 0
     },
     {
@@ -298,6 +311,19 @@
       "lng": 8.6944,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "murder",
+      "title": "8 христиане убит во время Overnight атаки в плато штат",
+      "description": "Least eight христиане were убит и 10 others ранен в series coordinated overnight атаки на communities в плато штат, Nigeria, according local sources. атаки were reported across Bassa, Barkin Ladi, и Riyom local gover",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/20/8-christians-killed-during-overnight-attacks-in-plateau-state/",
+      "victims": 8
+    },
+    {
+      "date": "2026-04-20",
+      "lat": 10.48,
+      "lng": 7.3515,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "murder",
       "title": "8 христиане убит во время Overnight атаки в плато штат",
       "description": "Least eight христиане were убит и 10 others ранен в series coordinated overnight атаки на communities в плато штат, Nigeria, according local sources. атаки were reported across Bassa, Barkin Ladi, и Riyom local gover",
@@ -6478,32 +6504,6 @@
       "description": "Пастор X - You don’t understand extreme version шиит ислам that is в обвинение here. It’s смерть культ...It has many committed followers high level look up в sky и say, “let взрыв come для me—its quick и paradise is waiting”.",
       "source": "newsapi:Freerepublic.com",
       "url": "https://freerepublic.com/focus/f-religion/4372693/posts",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-29",
-      "lat": 36.4274,
-      "lng": 43.8823,
-      "country": "Iraq",
-      "city": "Erbil",
-      "type": "other",
-      "title": "Iraqi христиане told cancel Palm воскресенье и Пасха celebrations",
-      "description": "Palm воскресенье celebrations в Northern Iraq usually are big celebrations commemorate Jesus entering Jerusalem.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iraqi-christians-told-to-cancel-palm-sunday-and-easter-celebrations",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-28",
-      "lat": 33.1394,
-      "lng": 44.5361,
-      "country": "Iraq",
-      "city": "Baghdad",
-      "type": "discrimination",
-      "title": "Bangladesh епископы say ‘no’ правительство financial support",
-      "description": "Bangladesh епископы say “no” правительство support, Seoul архиепископ urges defense life amid war, второй церковь built в Mosul после ИГИЛ, и more в на этой неделе’s roundup Catholic world news.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/bangladesh-bishops-say-no-to-government-financial-support",
       "victims": 0
     }
   ]
