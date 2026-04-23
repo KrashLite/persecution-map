@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-23T07:21:20.563Z",
+    "lastUpdated": "2026-04-23T12:56:38.419Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "United штаты senator, Ted Cruz, has accused Nigerian правительство чиновники involvement в атаки against христиане в country post Nigerian чиновники involved в убийство христиане — US Senator, Ted Cruz appeared первый на Vanguard New",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/04/nigerian-officials-involved-in-killing-of-christians-us-senator-ted-cruz/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-23",
+      "lat": 19.5472,
+      "lng": -99.2019,
+      "country": "Mexico",
+      "city": "Mexico City",
+      "type": "other",
+      "title": "На centenary Cristero War, епископ invites Catholics ‘defend your вера knowing it better’",
+      "description": "Епископ Sigifredo Noriega Zacatecas, Mexico, said best way honor sacrifice those who resisted гонение Cristero период is для Catholics know и defend their вера.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/americas/on-centenary-of-cristero-war-bishop-invites-catholics-to-defend-your-faith-by-knowing-it-better",
       "victims": 0
     },
     {
@@ -6491,19 +6504,6 @@
       "description": "Bangladesh епископы say “no” правительство support, Seoul архиепископ urges defense life amid war, второй церковь built в Mosul после ИГИЛ, и more в на этой неделе’s roundup Catholic world news.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/bangladesh-bishops-say-no-to-government-financial-support",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-28",
-      "lat": 36.0726,
-      "lng": 36.8846,
-      "country": "Syria",
-      "city": "Aleppo",
-      "type": "attack",
-      "title": "Sectarian атаки rock христианин посёлок в Syria после dispute",
-      "description": "Argument between two мужчины в христианин посёлок в central Syria led sectarian атаки that caused widespread повреждение homes, shops и cars в reminder религиозный violence that followed осень longtime leader Bashar Assad two годы ago.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/sectarian-attacks-rock-a-christian-town-in-syria-after-a-dispute/",
       "victims": 0
     }
   ]
