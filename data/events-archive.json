@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-24T12:55:09.558Z",
+    "lastUpdated": "2026-04-24T18:35:22.427Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "В представитель democracy, one would expect that fundamental characteristics society (including its религиозный identity) would be reflected some degree в its legislative bodies. post Mexico: Catholic Majority, Invisible Representati",
       "source": "zenit",
       "url": "https://zenit.org/2026/04/23/mexico-catholic-majority-invisible-representation-in-congress/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-24",
+      "lat": 31.5531,
+      "lng": 74.1356,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "other",
+      "title": "Христианская семья в Pakistan Fights для Justice для their Daughter",
+      "description": "Adan Sabir, 19-год-old христианин girl из Faisalabad, Pakistan, is living nightmare that no young женщина should ever have face. Despite winning her legal freedom месяцы ago, she и her семья are в настоящее время в hiding, fleeing из мужчина who",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/24/a-christian-family-in-pakistan-fights-for-justice-for-their-daughter/",
       "victims": 0
     },
     {
@@ -6491,19 +6504,6 @@
       "description": "Palm воскресенье celebrations в Northern Iraq usually are big celebrations commemorate Jesus entering Jerusalem.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/iraqi-christians-told-to-cancel-palm-sunday-and-easter-celebrations",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-29",
-      "lat": 35.4779,
-      "lng": 51.2315,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "discrimination",
-      "title": "Photos show Lebanon’s Catholics marking Palm воскресенье as shadow war weighs heavily",
-      "description": "As христиане packed церкви across Lebanon this Palm воскресенье commemorate their вера в Jesus’s triumphal entry в Jerusalem, renewed war between Israel и Iran-backed Hezbollah weighed на parishioners.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/photos-show-lebanons-catholics-marking-palm-sunday-as-the-shadow-of-war-weighs-heavily/",
       "victims": 0
     }
   ]
