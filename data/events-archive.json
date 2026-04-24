@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-23T18:52:42.858Z",
+    "lastUpdated": "2026-04-24T01:21:15.284Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,19 @@
       "description": "Смерть Kenyan truck driver в Eastern Democratic Republic Congo (DRC) has sparked renewed concern safety христиане working в регион. incident has not only shaken transport sector but also highlighted broad",
       "source": "persecution",
       "url": "https://persecution.org/2026/04/23/christian-truck-driver-killed-in-eastern-drc/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-23",
+      "lat": 8.8241,
+      "lng": 38.9814,
+      "country": "Ethiopia",
+      "city": "Addis Ababa",
+      "type": "other",
+      "title": "Ready Pay Price",
+      "description": "Гонение remains persistent reality в South Central Ethiopia, where those who convert христианство face оппозиция, social rejection, и significant personal risk. в this регион, gospel is постепенно taking root в challenging spiritu",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/23/ready-to-pay-the-price/",
       "victims": 0
     },
     {
@@ -160,6 +173,19 @@
       "description": "Pakistan’s столица Development власть (CDA) недавно launched massive “anti-encroachment” drive reclaim land в country’s столица, Islamabad — much which is occupied христиане. правительство argues that these “atchi abadis,” or в",
       "source": "persecution",
       "url": "https://persecution.org/2026/04/22/the-struggle-for-justice-in-islamabads-christian-slums/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-22",
+      "lat": 36.3561,
+      "lng": 59.6333,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "discrimination",
+      "title": "\"Let папа have his say\": Pennsylvania Catholics caught between Trump и папа Leo",
+      "description": "В key Pennsylvania округ, many Catholic voters are closely watching Iran war и президент Trump's feud с папа Leo XIV.",
+      "source": "newsapi:CBS News",
+      "url": "https://www.cbsnews.com/news/pope-trump-pennsylvania-catholics-bucks-county/",
       "victims": 0
     },
     {
@@ -6473,32 +6499,6 @@
       "lng": 51.719,
       "country": "Iran",
       "city": "Isfahan",
-      "type": "murder",
-      "title": "Three pastoral perspectives из within Iran",
-      "description": "Пастор X - You don’t understand extreme version шиит ислам that is в обвинение here. It’s смерть культ...It has many committed followers high level look up в sky и say, “let взрыв come для me—its quick и paradise is waiting”.",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-religion/4372693/posts",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-29",
-      "lat": 36.4925,
-      "lng": 59.8022,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "discrimination",
-      "title": "Photos show Lebanon’s Catholics marking Palm воскресенье as shadow war weighs heavily",
-      "description": "As христиане packed церкви across Lebanon this Palm воскресенье commemorate their вера в Jesus’s triumphal entry в Jerusalem, renewed war between Israel и Iran-backed Hezbollah weighed на parishioners.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-middle-east/2026/03/photos-show-lebanons-catholics-marking-palm-sunday-as-the-shadow-of-war-weighs-heavily/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-29",
-      "lat": 36.135,
-      "lng": 59.7934,
-      "country": "Iran",
-      "city": "Mashhad",
       "type": "murder",
       "title": "Three pastoral perspectives из within Iran",
       "description": "Пастор X - You don’t understand extreme version шиит ислам that is в обвинение here. It’s смерть культ...It has many committed followers high level look up в sky и say, “let взрыв come для me—its quick и paradise is waiting”.",
