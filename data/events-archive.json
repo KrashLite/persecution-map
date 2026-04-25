@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-25T07:01:37.983Z",
+    "lastUpdated": "2026-04-25T12:36:15.191Z",
     "totalEvents": 500
   },
   "events": [
@@ -51,6 +51,19 @@
       "lng": 59.7353,
       "country": "Iran",
       "city": "Mashhad",
+      "type": "other",
+      "title": "Папа urges US и Iran return peace talks и condemns смертная казнь",
+      "description": "Папа Leo XIV calls для renewed talks between United штаты и Iran end war. He strongly condemns смертная казнь и защитники для humane treatment migrants. папа also addresses церковь's focus на sexual morality, suggesting",
+      "source": "newsapi:The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/pope-leo-xiv-calls-for-us-iran-peace-talks-condemns-capital-punishment-and-advocates-for-migrant-rights/articleshow/130483066.cms",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-24",
+      "lat": 35.8169,
+      "lng": 51.1953,
+      "country": "Iran",
+      "city": "Tehran",
       "type": "other",
       "title": "Папа urges US и Iran return peace talks и condemns смертная казнь",
       "description": "Папа Leo XIV calls для renewed talks between United штаты и Iran end war. He strongly condemns смертная казнь и защитники для humane treatment migrants. папа also addresses церковь's focus на sexual morality, suggesting",
@@ -6491,19 +6504,6 @@
       "description": "Palm воскресенье celebrations в Northern Iraq usually are big celebrations commemorate Jesus entering Jerusalem.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/iraqi-christians-told-to-cancel-palm-sunday-and-easter-celebrations",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-29",
-      "lat": 4.2456,
-      "lng": 18.3364,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "other",
-      "title": "Israeli полиция блокировка кардинал, custos из entering церковь Holy Sepulchre",
-      "description": "Полиция stopped two церковь leaders на their way as they were proceeding privately “without any ceremonial or liturgical manifestations,” и вынужден them turn back.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/israeli-police-block-cardinal-custos-from-entering-church-of-the-holy-sepulchre",
       "victims": 0
     }
   ]
