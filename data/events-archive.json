@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-24T18:35:22.427Z",
+    "lastUpdated": "2026-04-25T01:14:46.740Z",
     "totalEvents": 500
   },
   "events": [
@@ -82,6 +82,19 @@
       "description": "Гонение remains persistent reality в South Central Ethiopia, where those who convert христианство face оппозиция, social rejection, и significant personal risk. в this регион, gospel is постепенно taking root в challenging spiritu",
       "source": "persecution",
       "url": "https://persecution.org/2026/04/23/ready-to-pay-the-price/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-23",
+      "lat": 4.6393,
+      "lng": 18.5769,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "murder",
+      "title": "Папа Leo says he carries photo убит мусульманин boy в his pocket: ‘I cannot be в favor war’",
+      "description": "Leo also suggested that U.S. церковь is excessively focused на sex.",
+      "source": "newsapi:Fortune",
+      "url": "https://fortune.com/2026/04/23/pope-leo-iran-war-carries-photo-lebanon-trump/",
       "victims": 0
     },
     {
@@ -6491,19 +6504,6 @@
       "description": "Catholic епископ Ondo Diocese, Jude Arogundade, has raised alarm worsening insecurity в Nigeria, declaring that террористы have effectively “declared war” на country, its правительство и citizens. post террористы have declared war",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/03/terrorists-have-declared-war-on-nigeria-catholic-bishop-slams-govt/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-29",
-      "lat": 33.5284,
-      "lng": 44.3934,
-      "country": "Iraq",
-      "city": "Baghdad",
-      "type": "other",
-      "title": "Iraqi христиане told cancel Palm воскресенье и Пасха celebrations",
-      "description": "Palm воскресенье celebrations в Northern Iraq usually are big celebrations commemorate Jesus entering Jerusalem.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iraqi-christians-told-to-cancel-palm-sunday-and-easter-celebrations",
       "victims": 0
     }
   ]
