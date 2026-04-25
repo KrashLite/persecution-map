@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-25T12:36:15.191Z",
+    "lastUpdated": "2026-04-25T18:34:28.281Z",
     "totalEvents": 500
   },
   "events": [
@@ -64,6 +64,32 @@
       "lng": 51.1953,
       "country": "Iran",
       "city": "Tehran",
+      "type": "other",
+      "title": "Папа urges US и Iran return peace talks и condemns смертная казнь",
+      "description": "Папа Leo XIV calls для renewed talks between United штаты и Iran end war. He strongly condemns смертная казнь и защитники для humane treatment migrants. папа also addresses церковь's focus на sexual morality, suggesting",
+      "source": "newsapi:The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/pope-leo-xiv-calls-for-us-iran-peace-talks-condemns-capital-punishment-and-advocates-for-migrant-rights/articleshow/130483066.cms",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-24",
+      "lat": 33.9318,
+      "lng": 71.5373,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "other",
+      "title": "Христианская семья в Pakistan Fights для Justice для their Daughter",
+      "description": "Adan Sabir, 19-год-old христианин girl из Faisalabad, Pakistan, is living nightmare that no young женщина should ever have face. Despite winning her legal freedom месяцы ago, she и her семья are в настоящее время в hiding, fleeing из мужчина who",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/24/a-christian-family-in-pakistan-fights-for-justice-for-their-daughter/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-24",
+      "lat": 29.4928,
+      "lng": 52.3957,
+      "country": "Iran",
+      "city": "Shiraz",
       "type": "other",
       "title": "Папа urges US и Iran return peace talks и condemns смертная казнь",
       "description": "Папа Leo XIV calls для renewed talks between United штаты и Iran end war. He strongly condemns смертная казнь и защитники для humane treatment migrants. папа also addresses церковь's focus на sexual morality, suggesting",
@@ -6479,32 +6505,6 @@
       "source": "newsapi:Breitbart News",
       "url": "https://www.breitbart.com/africa/2026/03/30/palm-sunday-massacre-30-killed-as-gunmen-open-fire-in-nigeria/",
       "victims": 30
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 12.0192,
-      "lng": 8.4567,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Dozens убит во время Palm воскресенье атаки в Nigeria",
-      "description": "Боевики убит least 30 люди во время Palm воскресенье атака в Ungwan Rukuba, community в Jos North Local правительство Area плато штат, Nigeria. incident occurred во время вечер, когда armed мужчины reportedly entered community и ope",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/30/dozens-killed-during-palm-sunday-attacks-in-nigeria/",
-      "victims": 30
-    },
-    {
-      "date": "2026-03-29",
-      "lat": 35.4082,
-      "lng": 44.4595,
-      "country": "Iraq",
-      "city": "Kirkuk",
-      "type": "other",
-      "title": "Iraqi христиане told cancel Palm воскресенье и Пасха celebrations",
-      "description": "Palm воскресенье celebrations в Northern Iraq usually are big celebrations commemorate Jesus entering Jerusalem.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iraqi-christians-told-to-cancel-palm-sunday-and-easter-celebrations",
-      "victims": 0
     }
   ]
 }
