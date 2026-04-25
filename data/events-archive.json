@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-25T01:14:46.740Z",
+    "lastUpdated": "2026-04-25T07:01:37.983Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,32 @@
       "description": "Adan Sabir, 19-год-old христианин girl из Faisalabad, Pakistan, is living nightmare that no young женщина should ever have face. Despite winning her legal freedom месяцы ago, she и her семья are в настоящее время в hiding, fleeing из мужчина who",
       "source": "persecution",
       "url": "https://persecution.org/2026/04/24/a-christian-family-in-pakistan-fights-for-justice-for-their-daughter/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-24",
+      "lat": 24.9226,
+      "lng": 67.1727,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "other",
+      "title": "Христианская семья в Pakistan Fights для Justice для their Daughter",
+      "description": "Adan Sabir, 19-год-old христианин girl из Faisalabad, Pakistan, is living nightmare that no young женщина should ever have face. Despite winning her legal freedom месяцы ago, she и her семья are в настоящее время в hiding, fleeing из мужчина who",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/24/a-christian-family-in-pakistan-fights-for-justice-for-their-daughter/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-24",
+      "lat": 36.4231,
+      "lng": 59.7353,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Папа urges US и Iran return peace talks и condemns смертная казнь",
+      "description": "Папа Leo XIV calls для renewed talks between United штаты и Iran end war. He strongly condemns смертная казнь и защитники для humane treatment migrants. папа also addresses церковь's focus на sexual morality, suggesting",
+      "source": "newsapi:The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/pope-leo-xiv-calls-for-us-iran-peace-talks-condemns-capital-punishment-and-advocates-for-migrant-rights/articleshow/130483066.cms",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Полиция stopped two церковь leaders на their way as they were proceeding privately “without any ceremonial or liturgical manifestations,” и вынужден them turn back.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/israeli-police-block-cardinal-custos-from-entering-church-of-the-holy-sepulchre",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-29",
-      "lat": 36.2052,
-      "lng": 43.2266,
-      "country": "Iraq",
-      "city": "Mosul",
-      "type": "other",
-      "title": "Iraqi христиане told cancel Palm воскресенье и Пасха celebrations",
-      "description": "Palm воскресенье celebrations в Northern Iraq usually are big celebrations commemorate Jesus entering Jerusalem.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iraqi-christians-told-to-cancel-palm-sunday-and-easter-celebrations",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-29",
-      "lat": 12.0092,
-      "lng": 13.1434,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "attack",
-      "title": "Террористы have declared war на Nigeria — Catholic епископ slams Govt",
-      "description": "Catholic епископ Ondo Diocese, Jude Arogundade, has raised alarm worsening insecurity в Nigeria, declaring that террористы have effectively “declared war” на country, its правительство и citizens. post террористы have declared war",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/03/terrorists-have-declared-war-on-nigeria-catholic-bishop-slams-govt/",
       "victims": 0
     }
   ]
