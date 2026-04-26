@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-26T07:15:14.439Z",
+    "lastUpdated": "2026-04-26T12:37:45.962Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,32 @@
       "description": "Христианский адвокат’s experience Nigerian Law школа в Yola led her embrace hijab, sparking journey identity и understanding. Read More: https://punchng.com/how-law-школа-posting-made-христианин-lawyer-embrace-hijab/",
       "source": "punchng",
       "url": "https://punchng.com/how-law-school-posting-made-christian-lawyer-embrace-hijab/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-26",
+      "lat": 4.0444,
+      "lng": 11.721,
+      "country": "Cameroon",
+      "city": "Yaounde",
+      "type": "other",
+      "title": "“Let люди в, и be prepared go out”: папа new священники",
+      "description": "На this Good Shepherd воскресенье, which is also World день молитва для Vocations, папа Leo celebrated месса в Rome и ordained 10 new священники. священники, для Diocese Rome, are mainly Italians, but also one из Cameroon и one из Colomb",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/04/26/let-people-in-and-be-prepared-to-go-out-pope-to-new-priests/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-26",
+      "lat": 4.3385,
+      "lng": 18.5532,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "Laywoman who has quietly formed generation священники и сёстры в South Asia",
+      "description": "На World Vocations день, EWTN News pays tribute женщина called “caregiver vocations” в place where Catholics are minority.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/the-laywoman-who-has-quietly-formed-a-generation-of-priests-and-sisters-in-south-asia",
       "victims": 0
     },
     {
@@ -6479,32 +6505,6 @@
       "source": "newsapi:Breitbart News",
       "url": "https://www.breitbart.com/africa/2026/03/30/palm-sunday-massacre-30-killed-as-gunmen-open-fire-in-nigeria/",
       "victims": 30
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 6.3439,
-      "lng": 3.4239,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Palm воскресенье резня: 30 убит as 'боевики' Open Fire в Nigeria",
-      "description": "Unknown боевики opened fire \"indiscriminately\" в residential area Jos, плато штат, Nigeria на воскресенье ночь, убийство estimated 30 люди во время time в which джихадисты в country tend orchestrate резни against христиане. p",
-      "source": "newsapi:Breitbart News",
-      "url": "https://www.breitbart.com/africa/2026/03/30/palm-sunday-massacre-30-killed-as-gunmen-open-fire-in-nigeria/",
-      "victims": 30
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 28.2991,
-      "lng": 30.6534,
-      "country": "Egypt",
-      "city": "Minya",
-      "type": "attack",
-      "title": "Why Do толпа атаки Happen в Egypt?",
-      "description": "В some parts Egypt, it can feel like every деревня is толпа атака waiting happen. Something as seemingly mundane as disagreement price eggs can быстро escalate в community-level нападение if one disputing sides is C",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/30/why-do-mob-attacks-happen-in-egypt/",
-      "victims": 0
     }
   ]
 }
