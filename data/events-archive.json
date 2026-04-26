@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-26T12:37:45.962Z",
+    "lastUpdated": "2026-04-26T18:34:24.124Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,19 @@
       "description": "На World Vocations день, EWTN News pays tribute женщина called “caregiver vocations” в place where Catholics are minority.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/the-laywoman-who-has-quietly-formed-a-generation-of-priests-and-sisters-in-south-asia",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-26",
+      "lat": 12.0892,
+      "lng": 8.4401,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Военно-морской флот deploys вертолёты, others curb crime в залив Guinea",
+      "description": "Nigerian военно-морской флот has deployed 10 ships и two вертолёты в special операция stamp out piracy и other maritime crimes в залив Guinea. Read More: https://punchng.com/военно-морской флот-deploys-вертолёты-others--curb-crime-в-залив--guinea/",
+      "source": "punchng",
+      "url": "https://punchng.com/navy-deploys-helicopters-others-to-curb-crime-in-gulf-of-guinea/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     },
     {
@@ -6492,19 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/03/30/why-do-mob-attacks-happen-in-egypt/",
       "victims": 0
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 12.0597,
-      "lng": 8.7748,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Palm воскресенье резня: 30 убит as 'боевики' Open Fire в Nigeria",
-      "description": "Unknown боевики opened fire \"indiscriminately\" в residential area Jos, плато штат, Nigeria на воскресенье ночь, убийство estimated 30 люди во время time в which джихадисты в country tend orchestrate резни against христиане. p",
-      "source": "newsapi:Breitbart News",
-      "url": "https://www.breitbart.com/africa/2026/03/30/palm-sunday-massacre-30-killed-as-gunmen-open-fire-in-nigeria/",
-      "victims": 30
     }
   ]
 }
