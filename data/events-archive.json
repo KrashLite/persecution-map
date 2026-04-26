@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-25T18:34:28.281Z",
+    "lastUpdated": "2026-04-26T01:23:47.298Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-04-26",
+      "lat": 9.2972,
+      "lng": 9.2961,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "How Law школа posting made христианский адвокат embrace hijab",
+      "description": "Христианский адвокат’s experience Nigerian Law школа в Yola led her embrace hijab, sparking journey identity и understanding. Read More: https://punchng.com/how-law-школа-posting-made-христианин-lawyer-embrace-hijab/",
+      "source": "punchng",
+      "url": "https://punchng.com/how-law-school-posting-made-christian-lawyer-embrace-hijab/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-04-24",
       "lat": 19.4294,
@@ -6492,19 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/03/30/why-do-mob-attacks-happen-in-egypt/",
       "victims": 0
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 10.7152,
-      "lng": 7.3724,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Palm воскресенье резня: 30 убит as 'боевики' Open Fire в Nigeria",
-      "description": "Unknown боевики opened fire \"indiscriminately\" в residential area Jos, плато штат, Nigeria на воскресенье ночь, убийство estimated 30 люди во время time в which джихадисты в country tend orchestrate резни against христиане. p",
-      "source": "newsapi:Breitbart News",
-      "url": "https://www.breitbart.com/africa/2026/03/30/palm-sunday-massacre-30-killed-as-gunmen-open-fire-in-nigeria/",
-      "victims": 30
     }
   ]
 }
