@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-26T18:34:24.124Z",
+    "lastUpdated": "2026-04-27T01:24:17.526Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-04-27",
+      "lat": 8.9201,
+      "lng": 7.5466,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Военно-морской флот deploys ships, вертолёты against maritime crimes",
+      "description": "Nigerian военно-морской флот enhances maritime security в залив Guinea, deploying 10 ships и 2 вертолёты combat piracy, oil theft, и other crimes. Read More: https://punchng.com/военно-морской флот-deploys-ships-вертолёты-against-maritime-crimes/",
+      "source": "punchng",
+      "url": "https://punchng.com/navy-deploys-ships-helicopters-against-maritime-crimes/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-04-26",
       "lat": 9.2972,
@@ -147,6 +160,19 @@
       "description": "Папа Leo XIV calls для renewed talks between United штаты и Iran end war. He strongly condemns смертная казнь и защитники для humane treatment migrants. папа also addresses церковь's focus на sexual morality, suggesting",
       "source": "newsapi:The Times of India",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/pope-leo-xiv-calls-for-us-iran-peace-talks-condemns-capital-punishment-and-advocates-for-migrant-rights/articleshow/130483066.cms",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-24",
+      "lat": 33.8081,
+      "lng": 73.2786,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "other",
+      "title": "Христианская семья в Pakistan Fights для Justice для their Daughter",
+      "description": "Adan Sabir, 19-год-old христианин girl из Faisalabad, Pakistan, is living nightmare that no young женщина should ever have face. Despite winning her legal freedom месяцы ago, she и her семья are в настоящее время в hiding, fleeing из мужчина who",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/24/a-christian-family-in-pakistan-fights-for-justice-for-their-daughter/",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Almost no one would be surprised learn that Evangelical support для war в Iran is disproportionately high когда compared other segments U.S. population. According CNN/SRSS research poll из февраль 28th, 67% white Evangelic",
       "source": "newsapi:Antiwar.com",
       "url": "https://www.antiwar.com/blog/2026/03/30/blessed-are-the-peacemakers-on-becoming-people-of-the-seventh-beatitude/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 11.9222,
-      "lng": 13.0699,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Palm воскресенье резня: 30 убит as 'боевики' Open Fire в Nigeria",
-      "description": "Unknown боевики opened fire \"indiscriminately\" в residential area Jos, плато штат, Nigeria на воскресенье ночь, убийство estimated 30 люди во время time в which джихадисты в country tend orchestrate резни against христиане. p",
-      "source": "newsapi:Breitbart News",
-      "url": "https://www.breitbart.com/africa/2026/03/30/palm-sunday-massacre-30-killed-as-gunmen-open-fire-in-nigeria/",
-      "victims": 30
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 29.933,
-      "lng": 31.1729,
-      "country": "Egypt",
-      "city": "Cairo",
-      "type": "attack",
-      "title": "Why Do толпа атаки Happen в Egypt?",
-      "description": "В some parts Egypt, it can feel like every деревня is толпа атака waiting happen. Something as seemingly mundane as disagreement price eggs can быстро escalate в community-level нападение if one disputing sides is C",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/30/why-do-mob-attacks-happen-in-egypt/",
       "victims": 0
     }
   ]
