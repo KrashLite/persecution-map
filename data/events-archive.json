@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-27T01:24:17.526Z",
+    "lastUpdated": "2026-04-27T08:02:36.542Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "Nigerian военно-морской флот enhances maritime security в залив Guinea, deploying 10 ships и 2 вертолёты combat piracy, oil theft, и other crimes. Read More: https://punchng.com/военно-морской флот-deploys-ships-вертолёты-against-maritime-crimes/",
       "source": "punchng",
       "url": "https://punchng.com/navy-deploys-ships-helicopters-against-maritime-crimes/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-27",
+      "lat": 34.7019,
+      "lng": 36.5911,
+      "country": "Syria",
+      "city": "Homs",
+      "type": "other",
+      "title": "Calls EU move beyond words as Syria’s христиане face escalating violence",
+      "description": "Fresh criticism is being directed European leaders what campaigners describe as failure take meaningful action protect Syria’s христианские общины amid renewed sectarian violence и reports incessant гонение.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/calls-to-eu-to-move-beyond-words-as-syrias-christians-face-escalating-violence",
       "victims": 0
     },
     {
@@ -407,6 +420,19 @@
       "description": "В key Pennsylvania округ, many Catholic voters are closely watching Iran war и президент Trump's feud с папа Leo XIV.",
       "source": "newsapi:CBS News",
       "url": "https://www.cbsnews.com/news/pope-trump-pennsylvania-catholics-bucks-county/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-22",
+      "lat": 25.007,
+      "lng": 66.7549,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "other",
+      "title": "Struggle для Justice в Islamabad’s христианин Slums",
+      "description": "Pakistan’s столица Development власть (CDA) недавно launched massive “anti-encroachment” drive reclaim land в country’s столица, Islamabad — much which is occupied христиане. правительство argues that these “atchi abadis,” or в",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/22/the-struggle-for-justice-in-islamabads-christian-slums/",
       "victims": 0
     },
     {
@@ -6473,32 +6499,6 @@
       "lng": 59.4092,
       "country": "Iran",
       "city": "Mashhad",
-      "type": "other",
-      "title": "Blessed Are миротворцы: на Becoming люди седьмой Beatitude",
-      "description": "Almost no one would be surprised learn that Evangelical support для war в Iran is disproportionately high когда compared other segments U.S. population. According CNN/SRSS research poll из февраль 28th, 67% white Evangelic",
-      "source": "newsapi:Antiwar.com",
-      "url": "https://www.antiwar.com/blog/2026/03/30/blessed-are-the-peacemakers-on-becoming-people-of-the-seventh-beatitude/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 35.5347,
-      "lng": 51.2267,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Can папа change course Iran war?",
-      "description": "Leo XIV is ‘navigating minefield’ с Trump administration as Middle East conflict risks major split в Trump’s христианин coalition",
-      "source": "newsapi:The Week Magazine",
-      "url": "https://theweek.com/religion/can-the-pope-change-the-course-of-the-iran-war",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 32.4633,
-      "lng": 51.7847,
-      "country": "Iran",
-      "city": "Isfahan",
       "type": "other",
       "title": "Blessed Are миротворцы: на Becoming люди седьмой Beatitude",
       "description": "Almost no one would be surprised learn that Evangelical support для war в Iran is disproportionately high когда compared other segments U.S. population. According CNN/SRSS research poll из февраль 28th, 67% white Evangelic",
