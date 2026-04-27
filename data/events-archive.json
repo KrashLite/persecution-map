@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-27T13:14:23.129Z",
+    "lastUpdated": "2026-04-27T19:03:29.955Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,19 @@
       "description": "Fresh criticism is being directed European leaders what campaigners describe as failure take meaningful action protect Syria’s христианские общины amid renewed sectarian violence и reports incessant гонение.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/calls-to-eu-to-move-beyond-words-as-syrias-christians-face-escalating-violence",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-27",
+      "lat": 9.3933,
+      "lng": 9.4278,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Боевики Kill пастор, семья в плато штат",
+      "description": "Residents Gako деревня в Rim community, Riyom Local правительство Area плато штат, Nigeria, reported that four members христианская семья were убит поздно на апрель 26, когда armed мужчины атакован their home. Local sources identified жертва",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/27/gunmen-kill-pastor-family-in-plateau-state/",
       "victims": 0
     },
     {
@@ -6492,19 +6505,6 @@
       "source": "newsapi:Breitbart News",
       "url": "https://www.breitbart.com/africa/2026/03/30/palm-sunday-massacre-30-killed-as-gunmen-open-fire-in-nigeria/",
       "victims": 30
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 36.0473,
-      "lng": 59.4092,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Blessed Are миротворцы: на Becoming люди седьмой Beatitude",
-      "description": "Almost no one would be surprised learn that Evangelical support для war в Iran is disproportionately high когда compared other segments U.S. population. According CNN/SRSS research poll из февраль 28th, 67% white Evangelic",
-      "source": "newsapi:Antiwar.com",
-      "url": "https://www.antiwar.com/blog/2026/03/30/blessed-are-the-peacemakers-on-becoming-people-of-the-seventh-beatitude/",
-      "victims": 0
     }
   ]
 }
