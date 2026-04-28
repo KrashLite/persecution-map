@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-28T01:30:16.201Z",
+    "lastUpdated": "2026-04-28T08:04:50.686Z",
     "totalEvents": 500
   },
   "events": [
@@ -69,6 +69,19 @@
       "description": "Fresh criticism is being directed European leaders what campaigners describe as failure take meaningful action protect Syria’s христианские общины amid renewed sectarian violence и reports incessant гонение.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/calls-to-eu-to-move-beyond-words-as-syrias-christians-face-escalating-violence",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-27",
+      "lat": 10.2768,
+      "lng": 7.2112,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Боевики Kill пастор, семья в плато штат",
+      "description": "Residents Gako деревня в Rim community, Riyom Local правительство Area плато штат, Nigeria, reported that four members христианская семья were убит поздно на апрель 26, когда armed мужчины атакован their home. Local sources identified жертва",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/27/gunmen-kill-pastor-family-in-plateau-state/",
       "victims": 0
     },
     {
@@ -6491,19 +6504,6 @@
       "description": "Almost no one would be surprised learn that Evangelical support для war в Iran is disproportionately high когда compared other segments U.S. population. According CNN/SRSS research poll из февраль 28th, 67% white Evangelic",
       "source": "newsapi:Antiwar.com",
       "url": "https://www.antiwar.com/blog/2026/03/30/blessed-are-the-peacemakers-on-becoming-people-of-the-seventh-beatitude/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 30.9883,
-      "lng": 29.8128,
-      "country": "Egypt",
-      "city": "Alexandria",
-      "type": "attack",
-      "title": "Why Do толпа атаки Happen в Egypt?",
-      "description": "В some parts Egypt, it can feel like every деревня is толпа атака waiting happen. Something as seemingly mundane as disagreement price eggs can быстро escalate в community-level нападение if one disputing sides is C",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/30/why-do-mob-attacks-happen-in-egypt/",
       "victims": 0
     }
   ]
