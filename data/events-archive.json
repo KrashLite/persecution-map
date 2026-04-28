@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-27T19:03:29.955Z",
+    "lastUpdated": "2026-04-28T01:30:16.201Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,32 @@
       "description": "Residents Gako деревня в Rim community, Riyom Local правительство Area плато штат, Nigeria, reported that four members христианская семья were убит поздно на апрель 26, когда armed мужчины атакован their home. Local sources identified жертва",
       "source": "persecution",
       "url": "https://persecution.org/2026/04/27/gunmen-kill-pastor-family-in-plateau-state/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-27",
+      "lat": 11.9394,
+      "lng": 8.5012,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Боевики Kill пастор, семья в плато штат",
+      "description": "Residents Gako деревня в Rim community, Riyom Local правительство Area плато штат, Nigeria, reported that four members христианская семья were убит поздно на апрель 26, когда armed мужчины атакован their home. Local sources identified жертва",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/27/gunmen-kill-pastor-family-in-plateau-state/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-27",
+      "lat": 36.1967,
+      "lng": 37.0442,
+      "country": "Syria",
+      "city": "Aleppo",
+      "type": "other",
+      "title": "Calls EU move beyond words as Syria’s христиане face escalating violence",
+      "description": "Fresh criticism is being directed European leaders what campaigners describe as failure take meaningful action protect Syria’s христианские общины amid renewed sectarian violence и reports incessant гонение.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/calls-to-eu-to-move-beyond-words-as-syrias-christians-face-escalating-violence",
       "victims": 0
     },
     {
@@ -6479,32 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/03/30/why-do-mob-attacks-happen-in-egypt/",
       "victims": 0
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 36.0761,
-      "lng": 59.634,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Can папа change course Iran war?",
-      "description": "Leo XIV is ‘navigating minefield’ с Trump administration as Middle East conflict risks major split в Trump’s христианин coalition",
-      "source": "newsapi:The Week Magazine",
-      "url": "https://theweek.com/religion/can-the-pope-change-the-course-of-the-iran-war",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 9.0363,
-      "lng": 9.6146,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Palm воскресенье резня: 30 убит as 'боевики' Open Fire в Nigeria",
-      "description": "Unknown боевики opened fire \"indiscriminately\" в residential area Jos, плато штат, Nigeria на воскресенье ночь, убийство estimated 30 люди во время time в which джихадисты в country tend orchestrate резни against христиане. p",
-      "source": "newsapi:Breitbart News",
-      "url": "https://www.breitbart.com/africa/2026/03/30/palm-sunday-massacre-30-killed-as-gunmen-open-fire-in-nigeria/",
-      "victims": 30
     }
   ]
 }
