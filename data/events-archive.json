@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-29T01:46:20.141Z",
+    "lastUpdated": "2026-04-29T07:56:32.582Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,19 @@
       "description": "Кардинал, who endured long годы заключение и вынужден labor для fidelity Christ, met с папа во время private audience. He was ordained 70 годы ago на апрель 7, 1956.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/vatican/living-martyr-of-communism-cardinal-simoni-presents-relic-of-albanian-martyrs-to-leo-xiv",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-28",
+      "lat": 9.1155,
+      "lng": 9.2708,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "kidnapping",
+      "title": "Боевики Abduct христианская школаgirls, Kill 1 в Nigeria",
+      "description": "Armed attackers похищен several христианская школа girls traveling школа в Kachia Local правительство Area на воскресенье, according field reporting TruthNigeria, which has documented series засады along Akwando–Kachia corridor since ear",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/28/gunmen-abduct-christian-schoolgirls-kill-1-in-nigeria/",
       "victims": 0
     },
     {
@@ -121,6 +134,19 @@
       "description": "Residents Gako деревня в Rim community, Riyom Local правительство Area плато штат, Nigeria, reported that four members христианская семья were убит поздно на апрель 26, когда armed мужчины атакован their home. Local sources identified жертва",
       "source": "persecution",
       "url": "https://persecution.org/2026/04/27/gunmen-kill-pastor-family-in-plateau-state/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-27",
+      "lat": 33.7589,
+      "lng": 36.4128,
+      "country": "Syria",
+      "city": "Damascus",
+      "type": "other",
+      "title": "Calls EU move beyond words as Syria’s христиане face escalating violence",
+      "description": "Fresh criticism is being directed European leaders what campaigners describe as failure take meaningful action protect Syria’s христианские общины amid renewed sectarian violence и reports incessant гонение.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/calls-to-eu-to-move-beyond-words-as-syrias-christians-face-escalating-violence",
       "victims": 0
     },
     {
@@ -6479,32 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/03/30/dozens-killed-during-palm-sunday-attacks-in-nigeria/",
       "victims": 30
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 35.4794,
-      "lng": 51.5289,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Trump пастор says Iran war is 'spiritual obligation'",
-      "description": "One Donald Trump’s most vocal христианин supporters has justified Israeli-US военные strike на Iran.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/trump-pastor-says-iran-war-is-a-spiritual-obligation",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 29.6154,
-      "lng": 52.335,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "Blessed Are миротворцы: на Becoming люди седьмой Beatitude",
-      "description": "Almost no one would be surprised learn that Evangelical support для war в Iran is disproportionately high когда compared other segments U.S. population. According CNN/SRSS research poll из февраль 28th, 67% white Evangelic",
-      "source": "newsapi:Antiwar.com",
-      "url": "https://www.antiwar.com/blog/2026/03/30/blessed-are-the-peacemakers-on-becoming-people-of-the-seventh-beatitude/",
-      "victims": 0
     }
   ]
 }
