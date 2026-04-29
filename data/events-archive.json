@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-29T13:17:28.421Z",
+    "lastUpdated": "2026-04-29T19:05:33.879Z",
     "totalEvents": 500
   },
   "events": [
@@ -25,6 +25,32 @@
       "lng": 52.5347,
       "country": "Iran",
       "city": "Shiraz",
+      "type": "other",
+      "title": "Христиане urge international action deepening humanitarian crisis в Iran",
+      "description": "Христианин advocacy group has issued urgent appeal для international intervention as humanitarian conditions в Iran continue worsen, warning that shortages medicine, food и essential supplies are placing millions vulnerable люди",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christians-urge-international-action-over-deepening-humanitarian-crisis-in-iran",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-29",
+      "lat": 29.2079,
+      "lng": 32.8586,
+      "country": "Egypt",
+      "city": "Sinai",
+      "type": "arrest",
+      "title": "Coptic христианин YouTuber приговорён five годы в Egypt вера-based online videos",
+      "description": "Мужчина has been приговорён five годы в тюрьма с hard labour в Egypt после posting online videos о христианство, according христианин legal advocacy group ADF International.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/coptic-christian-youtuber-sentenced-to-five-years-in-egypt-over-faith-based-online-videos",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-29",
+      "lat": 35.6967,
+      "lng": 51.3856,
+      "country": "Iran",
+      "city": "Tehran",
       "type": "other",
       "title": "Христиане urge international action deepening humanitarian crisis в Iran",
       "description": "Христианин advocacy group has issued urgent appeal для international intervention as humanitarian conditions в Iran continue worsen, warning that shortages medicine, food и essential supplies are placing millions vulnerable люди",
@@ -6479,32 +6505,6 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/trump-pastor-says-iran-war-is-a-spiritual-obligation",
       "victims": 0
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 29.1085,
-      "lng": 33.0524,
-      "country": "Egypt",
-      "city": "Sinai",
-      "type": "attack",
-      "title": "Why Do толпа атаки Happen в Egypt?",
-      "description": "В some parts Egypt, it can feel like every деревня is толпа атака waiting happen. Something as seemingly mundane as disagreement price eggs can быстро escalate в community-level нападение if one disputing sides is C",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/30/why-do-mob-attacks-happen-in-egypt/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 6.6086,
-      "lng": 3.5919,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Dozens убит во время Palm воскресенье атаки в Nigeria",
-      "description": "Боевики убит least 30 люди во время Palm воскресенье атака в Ungwan Rukuba, community в Jos North Local правительство Area плато штат, Nigeria. incident occurred во время вечер, когда armed мужчины reportedly entered community и ope",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/30/dozens-killed-during-palm-sunday-attacks-in-nigeria/",
-      "victims": 30
     }
   ]
 }
