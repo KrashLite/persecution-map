@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-29T07:56:32.582Z",
+    "lastUpdated": "2026-04-29T13:17:28.421Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-04-29",
+      "lat": 30.1591,
+      "lng": 30.9864,
+      "country": "Egypt",
+      "city": "Cairo",
+      "type": "arrest",
+      "title": "Coptic христианин YouTuber приговорён five годы в Egypt вера-based online videos",
+      "description": "Мужчина has been приговорён five годы в тюрьма с hard labour в Egypt после posting online videos о христианство, according христианин legal advocacy group ADF International.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/coptic-christian-youtuber-sentenced-to-five-years-in-egypt-over-faith-based-online-videos",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-29",
+      "lat": 29.6984,
+      "lng": 52.5347,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Христиане urge international action deepening humanitarian crisis в Iran",
+      "description": "Христианин advocacy group has issued urgent appeal для international intervention as humanitarian conditions в Iran continue worsen, warning that shortages medicine, food и essential supplies are placing millions vulnerable люди",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christians-urge-international-action-over-deepening-humanitarian-crisis-in-iran",
+      "victims": 0
+    },
     {
       "date": "2026-04-28",
       "lat": 10.7126,
@@ -6473,32 +6499,6 @@
       "lng": 3.5919,
       "country": "Nigeria",
       "city": "Lagos",
-      "type": "murder",
-      "title": "Dozens убит во время Palm воскресенье атаки в Nigeria",
-      "description": "Боевики убит least 30 люди во время Palm воскресенье атака в Ungwan Rukuba, community в Jos North Local правительство Area плато штат, Nigeria. incident occurred во время вечер, когда armed мужчины reportedly entered community и ope",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/30/dozens-killed-during-palm-sunday-attacks-in-nigeria/",
-      "victims": 30
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 36.3681,
-      "lng": 37.116,
-      "country": "Syria",
-      "city": "Aleppo",
-      "type": "attack",
-      "title": "Syrian церковь leaders speak out после атаки на христианин property",
-      "description": "Syrian церковь leaders have called для greater усилия preserve peace и stability после атаки на homes, shops и cars в predominantly христианин посёлок.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/syrian-church-leaders-speak-out-after-attacks-on-christian-property",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 10.5855,
-      "lng": 7.4481,
-      "country": "Nigeria",
-      "city": "Kaduna",
       "type": "murder",
       "title": "Dozens убит во время Palm воскресенье атаки в Nigeria",
       "description": "Боевики убит least 30 люди во время Palm воскресенье атака в Ungwan Rukuba, community в Jos North Local правительство Area плато штат, Nigeria. incident occurred во время вечер, когда armed мужчины reportedly entered community и ope",
