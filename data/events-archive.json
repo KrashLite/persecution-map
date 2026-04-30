@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-29T19:05:33.879Z",
+    "lastUpdated": "2026-04-30T01:31:38.392Z",
     "totalEvents": 500
   },
   "events": [
@@ -56,6 +56,32 @@
       "description": "Христианин advocacy group has issued urgent appeal для international intervention as humanitarian conditions в Iran continue worsen, warning that shortages medicine, food и essential supplies are placing millions vulnerable люди",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/christians-urge-international-action-over-deepening-humanitarian-crisis-in-iran",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-29",
+      "lat": 36.1036,
+      "lng": 59.5444,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Христиане urge international action deepening humanitarian crisis в Iran",
+      "description": "Христианин advocacy group has issued urgent appeal для international intervention as humanitarian conditions в Iran continue worsen, warning that shortages medicine, food и essential supplies are placing millions vulnerable люди",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christians-urge-international-action-over-deepening-humanitarian-crisis-in-iran",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-29",
+      "lat": 20.7565,
+      "lng": 85.1919,
+      "country": "India",
+      "city": "Odisha",
+      "type": "other",
+      "title": "India Uncovers Foreign Network Funding христианское служение",
+      "description": "На прошлой неделе, India’s Enforcement Directorate (ED) found foreign network using U.S.-based debit cards fund религиозный activities в country’s tribal areas. ED investigators claimed that nearly INR 950 million ($10 million) entered India through",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/29/india-uncovers-foreign-network-funding-christian-ministry/",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Христианин Association Nigeria (CAN) has condemned убийство residents в Palm воскресенье атака в Jos North, плато штат, calling it unacceptable и demanding swift justice для those responsible. post Palm воскресенье убийства в Jos: ‘N",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/03/palm-sunday-killings-in-jos-nigeria-cant-keep-bleeding-like-this-can-2/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 9.0718,
-      "lng": 7.2562,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Dozens убит во время Palm воскресенье атаки в Nigeria",
-      "description": "Боевики убит least 30 люди во время Palm воскресенье атака в Ungwan Rukuba, community в Jos North Local правительство Area плато штат, Nigeria. incident occurred во время вечер, когда armed мужчины reportedly entered community и ope",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/30/dozens-killed-during-palm-sunday-attacks-in-nigeria/",
-      "victims": 30
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 29.5796,
-      "lng": 52.7281,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "Trump пастор says Iran war is 'spiritual obligation'",
-      "description": "One Donald Trump’s most vocal христианин supporters has justified Israeli-US военные strike на Iran.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/trump-pastor-says-iran-war-is-a-spiritual-obligation",
       "victims": 0
     }
   ]
