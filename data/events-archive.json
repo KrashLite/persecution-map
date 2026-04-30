@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-30T01:31:38.392Z",
+    "lastUpdated": "2026-04-30T07:59:17.203Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-04-30",
+      "lat": 11.8967,
+      "lng": 8.711,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "kidnapping",
+      "title": "CAN demands swift rescue похищен Ekiti церковь members",
+      "description": "Христианин Association Nigeria (CAN) has condemned recent атака на церковь gathering в Eda Oniyo Ekiti, Ekiti штат. post CAN demands swift rescue похищен Ekiti церковь members appeared первый на Vanguard News.",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/04/can-demands-swift-rescue-of-abducted-ekiti-church-members/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-30",
+      "lat": 4.5804,
+      "lng": 18.6622,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "Церковь в Mexico кампании against euthanasia bill",
+      "description": "As bill decriminalize euthanasia в Mexico appears be gaining momentum, церковь is seeking mobilize Catholics defend life, betting that most Mexicans still believe it is their responsibility care для their пожилые и sick relativ",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-americas/2026/04/church-in-mexico-campaigns-against-euthanasia-bill/",
+      "victims": 0
+    },
     {
       "date": "2026-04-29",
       "lat": 30.1591,
@@ -85,6 +111,19 @@
       "victims": 0
     },
     {
+      "date": "2026-04-29",
+      "lat": 18.872,
+      "lng": 72.9921,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "other",
+      "title": "India Uncovers Foreign Network Funding христианское служение",
+      "description": "На прошлой неделе, India’s Enforcement Directorate (ED) found foreign network using U.S.-based debit cards fund религиозный activities в country’s tribal areas. ED investigators claimed that nearly INR 950 million ($10 million) entered India through",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/29/india-uncovers-foreign-network-funding-christian-ministry/",
+      "victims": 0
+    },
+    {
       "date": "2026-04-28",
       "lat": 10.7126,
       "lng": 7.3482,
@@ -129,6 +168,19 @@
       "lng": 9.2708,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "kidnapping",
+      "title": "Боевики Abduct христианская школаgirls, Kill 1 в Nigeria",
+      "description": "Armed attackers похищен several христианская школа girls traveling школа в Kachia Local правительство Area на воскресенье, according field reporting TruthNigeria, which has documented series засады along Akwando–Kachia corridor since ear",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/28/gunmen-abduct-christian-schoolgirls-kill-1-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-28",
+      "lat": 11.8145,
+      "lng": 12.9331,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "kidnapping",
       "title": "Боевики Abduct христианская школаgirls, Kill 1 в Nigeria",
       "description": "Armed attackers похищен several христианская школа girls traveling школа в Kachia Local правительство Area на воскресенье, according field reporting TruthNigeria, which has documented series засады along Akwando–Kachia corridor since ear",
@@ -225,6 +277,19 @@
       "description": "Fresh criticism is being directed European leaders what campaigners describe as failure take meaningful action protect Syria’s христианские общины amid renewed sectarian violence и reports incessant гонение.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/calls-to-eu-to-move-beyond-words-as-syrias-christians-face-escalating-violence",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-27",
+      "lat": 6.7431,
+      "lng": 3.2088,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Боевики Kill пастор, семья в плато штат",
+      "description": "Residents Gako деревня в Rim community, Riyom Local правительство Area плато штат, Nigeria, reported that four members христианская семья were убит поздно на апрель 26, когда armed мужчины атакован their home. Local sources identified жертва",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/27/gunmen-kill-pastor-family-in-plateau-state/",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "One Donald Trump’s most vocal христианин supporters has justified Israeli-US военные strike на Iran.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/trump-pastor-says-iran-war-is-a-spiritual-obligation",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 33.7402,
-      "lng": 36.2155,
-      "country": "Syria",
-      "city": "Damascus",
-      "type": "attack",
-      "title": "Syrian церковь leaders speak out после атаки на христианин property",
-      "description": "Syrian церковь leaders have called для greater усилия preserve peace и stability после атаки на homes, shops и cars в predominantly христианин посёлок.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/syrian-church-leaders-speak-out-after-attacks-on-christian-property",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 34.7171,
-      "lng": 36.9063,
-      "country": "Syria",
-      "city": "Homs",
-      "type": "attack",
-      "title": "Syrian церковь leaders speak out после атаки на христианин property",
-      "description": "Syrian церковь leaders have called для greater усилия preserve peace и stability после атаки на homes, shops и cars в predominantly христианин посёлок.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/syrian-church-leaders-speak-out-after-attacks-on-christian-property",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 12.0224,
-      "lng": 13.3704,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Dozens убит во время Palm воскресенье атаки в Nigeria",
-      "description": "Боевики убит least 30 люди во время Palm воскресенье атака в Ungwan Rukuba, community в Jos North Local правительство Area плато штат, Nigeria. incident occurred во время вечер, когда armed мужчины reportedly entered community и ope",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/03/30/dozens-killed-during-palm-sunday-attacks-in-nigeria/",
-      "victims": 30
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 36.1229,
-      "lng": 59.6255,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Trump пастор says Iran war is 'spiritual obligation'",
-      "description": "One Donald Trump’s most vocal христианин supporters has justified Israeli-US военные strike на Iran.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/trump-pastor-says-iran-war-is-a-spiritual-obligation",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 9.3384,
-      "lng": 9.7377,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "attack",
-      "title": "Palm воскресенье убийства в Jos: ‘Nigeria can’t keep bleeding like this’ — CAN",
-      "description": "Христианин Association Nigeria (CAN) has condemned убийство residents в Palm воскресенье атака в Jos North, плато штат, calling it unacceptable и demanding swift justice для those responsible. post Palm воскресенье убийства в Jos: ‘N",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/03/palm-sunday-killings-in-jos-nigeria-cant-keep-bleeding-like-this-can-2/",
       "victims": 0
     }
   ]
