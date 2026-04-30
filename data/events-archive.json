@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-30T13:16:24.889Z",
+    "lastUpdated": "2026-04-30T19:04:20.969Z",
     "totalEvents": 500
   },
   "events": [
@@ -176,6 +176,19 @@
       "victims": 0
     },
     {
+      "date": "2026-04-29",
+      "lat": 28.64,
+      "lng": 77.0068,
+      "country": "India",
+      "city": "Delhi",
+      "type": "other",
+      "title": "India Uncovers Foreign Network Funding христианское служение",
+      "description": "На прошлой неделе, India’s Enforcement Directorate (ED) found foreign network using U.S.-based debit cards fund религиозный activities в country’s tribal areas. ED investigators claimed that nearly INR 950 million ($10 million) entered India through",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/29/india-uncovers-foreign-network-funding-christian-ministry/",
+      "victims": 0
+    },
+    {
       "date": "2026-04-28",
       "lat": 10.7126,
       "lng": 7.3482,
@@ -246,6 +259,19 @@
       "lng": 3.4973,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "kidnapping",
+      "title": "Боевики Abduct христианская школаgirls, Kill 1 в Nigeria",
+      "description": "Armed attackers похищен several христианская школа girls traveling школа в Kachia Local правительство Area на воскресенье, according field reporting TruthNigeria, which has documented series засады along Akwando–Kachia corridor since ear",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/28/gunmen-abduct-christian-schoolgirls-kill-1-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-28",
+      "lat": 8.9453,
+      "lng": 7.3633,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "kidnapping",
       "title": "Боевики Abduct христианская школаgirls, Kill 1 в Nigeria",
       "description": "Armed attackers похищен several христианская школа girls traveling школа в Kachia Local правительство Area на воскресенье, according field reporting TruthNigeria, which has documented series засады along Akwando–Kachia corridor since ear",
@@ -6478,32 +6504,6 @@
       "description": "Palm воскресенье, which marks beginning Holy неделя для христиане worldwide, was marred в этом году violence в Nigerian город Jos, where боевики атакован local community, leaving multiple люди погибшие и many others shaken. атака took",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/03/31/deadly-palm-sunday-attack-hits-nigeria-death-toll-uncertain/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-31",
-      "lat": 8.9674,
-      "lng": 7.5023,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Deadly Palm воскресенье атака hits Nigeria, смерть toll uncertain",
-      "description": "Palm воскресенье, which marks beginning Holy неделя для христиане worldwide, was marred в этом году violence в Nigerian город Jos, where боевики атакован local community, leaving multiple люди погибшие и many others shaken. атака took",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/03/31/deadly-palm-sunday-attack-hits-nigeria-death-toll-uncertain/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-31",
-      "lat": 9.2474,
-      "lng": 9.5879,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Vatican чиновник warns ‘Christianophobia’ в мусульманин world и светский West",
-      "description": "Nigerian архиепископ said African миссионеры can evangelize Europe uneasy с its христианин past.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/vatican/vatican-official-warns-of-christianophobia-in-muslim-world-and-secular-west",
       "victims": 0
     }
   ]
