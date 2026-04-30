@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-30T07:59:17.203Z",
+    "lastUpdated": "2026-04-30T13:16:24.889Z",
     "totalEvents": 500
   },
   "events": [
@@ -124,6 +124,58 @@
       "victims": 0
     },
     {
+      "date": "2026-04-29",
+      "lat": 31.1466,
+      "lng": 29.9674,
+      "country": "Egypt",
+      "city": "Alexandria",
+      "type": "arrest",
+      "title": "Coptic христианин YouTuber приговорён five годы в Egypt вера-based online videos",
+      "description": "Мужчина has been приговорён five годы в тюрьма с hard labour в Egypt после posting online videos о христианство, according христианин legal advocacy group ADF International.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/coptic-christian-youtuber-sentenced-to-five-years-in-egypt-over-faith-based-online-videos",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-29",
+      "lat": 32.5396,
+      "lng": 51.6415,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Христиане urge international action deepening humanitarian crisis в Iran",
+      "description": "Христианин advocacy group has issued urgent appeal для international intervention as humanitarian conditions в Iran continue worsen, warning that shortages medicine, food и essential supplies are placing millions vulnerable люди",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christians-urge-international-action-over-deepening-humanitarian-crisis-in-iran",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-29",
+      "lat": 32.6397,
+      "lng": 51.4718,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Can MAGA Survive Great Evangelical Crack-Up?",
+      "description": "If Donald Trump is remembered для anything, it май be as war президент: His enemies so far have included migrants, trade, Venezuela, Iran, maybe Cuba—и сейчас религия. His последний full-на нападение was against папа Leo XIV, whom he called “weak на cri",
+      "source": "newsapi:Mother Jones",
+      "url": "https://www.motherjones.com/politics/2026/04/trump-maga-evangelical-crackup-pope-christian/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-29",
+      "lat": 27.0529,
+      "lng": 80.8751,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "other",
+      "title": "India Uncovers Foreign Network Funding христианское служение",
+      "description": "На прошлой неделе, India’s Enforcement Directorate (ED) found foreign network using U.S.-based debit cards fund религиозный activities в country’s tribal areas. ED investigators claimed that nearly INR 950 million ($10 million) entered India through",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/29/india-uncovers-foreign-network-funding-christian-ministry/",
+      "victims": 0
+    },
+    {
       "date": "2026-04-28",
       "lat": 10.7126,
       "lng": 7.3482,
@@ -181,6 +233,19 @@
       "lng": 12.9331,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "kidnapping",
+      "title": "Боевики Abduct христианская школаgirls, Kill 1 в Nigeria",
+      "description": "Armed attackers похищен several христианская школа girls traveling школа в Kachia Local правительство Area на воскресенье, according field reporting TruthNigeria, which has documented series засады along Akwando–Kachia corridor since ear",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/28/gunmen-abduct-christian-schoolgirls-kill-1-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-28",
+      "lat": 6.3389,
+      "lng": 3.4973,
+      "country": "Nigeria",
+      "city": "Lagos",
       "type": "kidnapping",
       "title": "Боевики Abduct христианская школаgirls, Kill 1 в Nigeria",
       "description": "Armed attackers похищен several христианская школа girls traveling школа в Kachia Local правительство Area на воскресенье, according field reporting TruthNigeria, which has documented series засады along Akwando–Kachia corridor since ear",
@@ -6439,71 +6504,6 @@
       "description": "Nigerian архиепископ said African миссионеры can evangelize Europe uneasy с its христианин past.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/vatican/vatican-official-warns-of-christianophobia-in-muslim-world-and-secular-west",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-31",
-      "lat": 11.8697,
-      "lng": 13.3377,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "Vatican чиновник warns ‘Christianophobia’ в мусульманин world и светский West",
-      "description": "Nigerian архиепископ said African миссионеры can evangelize Europe uneasy с its христианин past.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/vatican/vatican-official-warns-of-christianophobia-in-muslim-world-and-secular-west",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-31",
-      "lat": 6.5669,
-      "lng": 3.2464,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Vatican чиновник warns ‘Christianophobia’ в мусульманин world и светский West",
-      "description": "Nigerian архиепископ said African миссионеры can evangelize Europe uneasy с its христианин past.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/vatican/vatican-official-warns-of-christianophobia-in-muslim-world-and-secular-west",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-31",
-      "lat": 10.6261,
-      "lng": 7.5347,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Vatican чиновник warns ‘Christianophobia’ в мусульманин world и светский West",
-      "description": "Nigerian архиепископ said African миссионеры can evangelize Europe uneasy с its христианин past.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/vatican/vatican-official-warns-of-christianophobia-in-muslim-world-and-secular-west",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 9.0209,
-      "lng": 9.449,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Palm воскресенье: CAN urges leaders ease лишения",
-      "description": "Христианин Association Nigeria, CAN, has called на политический leaders all levels demonstrate empathy и take urgent steps ease growing economic лишения facing Nigerians, as христиане marked Palm воскресенье вчера. post Palm Su",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/03/palm-sunday-can-urges-leaders-to-ease-hardship/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-30",
-      "lat": 32.6896,
-      "lng": 51.6419,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Trump пастор says Iran war is 'spiritual obligation'",
-      "description": "One Donald Trump’s most vocal христианин supporters has justified Israeli-US военные strike на Iran.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/trump-pastor-says-iran-war-is-a-spiritual-obligation",
       "victims": 0
     }
   ]
