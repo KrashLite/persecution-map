@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-04-30T19:04:20.969Z",
+    "lastUpdated": "2026-05-01T01:47:42.628Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,19 @@
       "description": "As bill decriminalize euthanasia в Mexico appears be gaining momentum, церковь is seeking mobilize Catholics defend life, betting that most Mexicans still believe it is their responsibility care для their пожилые и sick relativ",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-the-americas/2026/04/church-in-mexico-campaigns-against-euthanasia-bill/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-30",
+      "lat": 1.976,
+      "lng": 45.4008,
+      "country": "Somalia",
+      "city": "Mogadishu",
+      "type": "discrimination",
+      "title": "Fighting Survive",
+      "description": "В 2024, в Elwak, посёлок на Kenya-Somalia border в Kenya’s northeastern регион, where survival relies на daily work, David Nzyima, husband и father four, experienced event that transformed his life. One утро, like other мужчины, he wen",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/30/fighting-to-survive/",
       "victims": 0
     },
     {
@@ -189,6 +202,32 @@
       "victims": 0
     },
     {
+      "date": "2026-04-29",
+      "lat": 6.4695,
+      "lng": 3.6037,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "attack",
+      "title": "ISWAP боевики Kill 29 христиане в Nigeria в One Several атаки на этой неделе",
+      "description": "Violence against христиане в Nigeria has continued without pause through первый four месяцы 2026. post ISWAP боевики Kill 29 христиане в Nigeria в One Several атаки на этой неделе appeared первый на Gateway Pundit.",
+      "source": "newsapi:Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/04/iswap-gunmen-kill-29-christians-nigeria-one-several/",
+      "victims": 29
+    },
+    {
+      "date": "2026-04-29",
+      "lat": 43.6757,
+      "lng": 87.6911,
+      "country": "China",
+      "city": "Xinjiang",
+      "type": "other",
+      "title": "Analysis Current Situation: католическая церковь в China",
+      "description": "После 2018 agreement, pressure на Chinese Catholics is escalating amid apparent indifference из Vatican, Human Rights Watch Report says. post Analysis Current Situation: католическая церковь в China appeared первый на ZENIT -",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/04/29/an-analysis-of-the-current-situation-the-catholic-church-in-china/",
+      "victims": 0
+    },
+    {
       "date": "2026-04-28",
       "lat": 10.7126,
       "lng": 7.3482,
@@ -272,6 +311,19 @@
       "lng": 7.3633,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "kidnapping",
+      "title": "Боевики Abduct христианская школаgirls, Kill 1 в Nigeria",
+      "description": "Armed attackers похищен several христианская школа girls traveling школа в Kachia Local правительство Area на воскресенье, according field reporting TruthNigeria, which has documented series засады along Akwando–Kachia corridor since ear",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/28/gunmen-abduct-christian-schoolgirls-kill-1-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-28",
+      "lat": 11.9019,
+      "lng": 8.8319,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "kidnapping",
       "title": "Боевики Abduct христианская школаgirls, Kill 1 в Nigeria",
       "description": "Armed attackers похищен several христианская школа girls traveling школа в Kachia Local правительство Area на воскресенье, according field reporting TruthNigeria, which has documented series засады along Akwando–Kachia corridor since ear",
@@ -6447,58 +6499,6 @@
       "lng": 9.5328,
       "country": "Nigeria",
       "city": "Plateau",
-      "type": "murder",
-      "title": "Deadly Palm воскресенье атака hits Nigeria, смерть toll uncertain",
-      "description": "Palm воскресенье, which marks beginning Holy неделя для христиане worldwide, was marred в этом году violence в Nigerian город Jos, where боевики атакован local community, leaving multiple люди погибшие и many others shaken. атака took",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/03/31/deadly-palm-sunday-attack-hits-nigeria-death-toll-uncertain/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-31",
-      "lat": 9.0817,
-      "lng": 7.5069,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "Vatican чиновник warns ‘Christianophobia’ в мусульманин world и светский West",
-      "description": "Nigerian архиепископ said African миссионеры can evangelize Europe uneasy с its христианин past.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/vatican/vatican-official-warns-of-christianophobia-in-muslim-world-and-secular-west",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-31",
-      "lat": -4.376,
-      "lng": 15.4686,
-      "country": "Democratic Republic of the Congo",
-      "city": "Kinshasa",
-      "type": "attack",
-      "title": "Религиозный freedom panel warns атаки against христиане в central Africa",
-      "description": "U.S. комиссия на International религиозный Freedom (USCIRF) sounded alarm Исламское государство groups в Democratic Republic Congo после escalating violence against христиане.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/religious-freedom-panel-warns-of-isis-attacks-against-christians-in-central-africa",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-31",
-      "lat": 6.573,
-      "lng": 3.4455,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Deadly Palm воскресенье атака hits Nigeria, смерть toll uncertain",
-      "description": "Palm воскресенье, which marks beginning Holy неделя для христиане worldwide, was marred в этом году violence в Nigerian город Jos, where боевики атакован local community, leaving multiple люди погибшие и many others shaken. атака took",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/03/31/deadly-palm-sunday-attack-hits-nigeria-death-toll-uncertain/",
-      "victims": 0
-    },
-    {
-      "date": "2026-03-31",
-      "lat": 11.7315,
-      "lng": 13.1359,
-      "country": "Nigeria",
-      "city": "Borno",
       "type": "murder",
       "title": "Deadly Palm воскресенье атака hits Nigeria, смерть toll uncertain",
       "description": "Palm воскресенье, which marks beginning Holy неделя для христиане worldwide, was marred в этом году violence в Nigerian город Jos, where боевики атакован local community, leaving multiple люди погибшие и many others shaken. атака took",
