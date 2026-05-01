@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-01T07:58:08.227Z",
+    "lastUpdated": "2026-05-01T12:50:31.267Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,19 @@
       "description": "Manchester город's owner is also deputy премьер-министр UAE.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/christians-disappointed-as-premier-league-refuses-to-receive-sudan-petition",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-01",
+      "lat": 12.1872,
+      "lng": 8.3773,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Англиканская церковь suspends Anambra Vicar alleged fake miracles",
+      "description": "Церковь Nigeria (Anglican причастие) has suspended Vicar St. Paul’s Parish, Nteje, в Oyi Local правительство Area Anambra штат, Ifunaya Maduka, allegations staging false prophecies и miracles. post англиканская церковь suspend",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/05/anglican-church-suspends-anambra-vicar-over-alleged-fake-miracles/",
       "victims": 0
     },
     {
@@ -303,6 +316,32 @@
       "description": "На прошлой неделе, India’s Enforcement Directorate (ED) found foreign network using U.S.-based debit cards fund религиозный activities в country’s tribal areas. ED investigators claimed that nearly INR 950 million ($10 million) entered India through",
       "source": "persecution",
       "url": "https://persecution.org/2026/04/29/india-uncovers-foreign-network-funding-christian-ministry/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-29",
+      "lat": 27.8835,
+      "lng": 30.6333,
+      "country": "Egypt",
+      "city": "Minya",
+      "type": "arrest",
+      "title": "Coptic христианин YouTuber приговорён five годы в Egypt вера-based online videos",
+      "description": "Мужчина has been приговорён five годы в тюрьма с hard labour в Egypt после posting online videos о христианство, according христианин legal advocacy group ADF International.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/coptic-christian-youtuber-sentenced-to-five-years-in-egypt-over-faith-based-online-videos",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-29",
+      "lat": 29.3665,
+      "lng": 52.4602,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Can MAGA Survive Great Evangelical Crack-Up?",
+      "description": "If Donald Trump is remembered для anything, it май be as war президент: His enemies so far have included migrants, trade, Venezuela, Iran, maybe Cuba—и сейчас религия. His последний full-на нападение was against папа Leo XIV, whom he called “weak на cri",
+      "source": "newsapi:Mother Jones",
+      "url": "https://www.motherjones.com/politics/2026/04/trump-maga-evangelical-crackup-pope-christian/",
       "victims": 0
     },
     {
@@ -6466,45 +6505,6 @@
       "source": "newsapi:The Punch",
       "url": "https://punchng.com/us-congressman-warns-of-direct-role-if-fg-fails-to-curb-killings/",
       "victims": 0
-    },
-    {
-      "date": "2026-04-01",
-      "lat": 9.2076,
-      "lng": 9.4935,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Nigeria's христиане на edge для Пасха после Palm воскресенье резня",
-      "description": "Nigeria, ranked седьмой-worst в world для христианин гонение, saw reported 28 убит на Palm воскресенье, с fears христиане could be targeted this Пасха.",
-      "source": "newsapi:Fox News",
-      "url": "https://www.foxnews.com/world/nigerias-christians-edge-easter-after-palm-sunday-massacre",
-      "victims": 28
-    },
-    {
-      "date": "2026-04-01",
-      "lat": 10.5978,
-      "lng": 7.2428,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "US congressman warns direct role if FG fails curb убийства",
-      "description": "US congressman warns direct intervention в Nigeria security crisis if правительство fails curb ongoing убийства, especially христиане. Read More: https://punchng.com/us-congressman-warns--direct-role-if-fg-fails--curb-убийства/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-congressman-warns-of-direct-role-if-fg-fails-to-curb-killings/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-01",
-      "lat": 10.6576,
-      "lng": 7.225,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Nigeria's христиане на edge для Пасха после Palm воскресенье резня",
-      "description": "Nigeria, ranked седьмой-worst в world для христианин гонение, saw reported 28 убит на Palm воскресенье, с fears христиане could be targeted this Пасха.",
-      "source": "newsapi:Fox News",
-      "url": "https://www.foxnews.com/world/nigerias-christians-edge-easter-after-palm-sunday-massacre",
-      "victims": 28
     }
   ]
 }
