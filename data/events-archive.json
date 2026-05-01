@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-01T12:50:31.267Z",
+    "lastUpdated": "2026-05-01T18:54:17.489Z",
     "totalEvents": 500
   },
   "events": [
@@ -56,6 +56,45 @@
       "description": "Церковь Nigeria (Anglican причастие) has suspended Vicar St. Paul’s Parish, Nteje, в Oyi Local правительство Area Anambra штат, Ifunaya Maduka, allegations staging false prophecies и miracles. post англиканская церковь suspend",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/05/anglican-church-suspends-anambra-vicar-over-alleged-fake-miracles/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-01",
+      "lat": 23.9146,
+      "lng": 90.1834,
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "type": "arrest",
+      "title": "Священник избит, robbed церковь amid wave атаки на Catholics в Bangladesh",
+      "description": "Власти задержан three мужчины в connection с поздно-ночь нападение и theft De Mazenod католическая церковь в Dhaka, последний в string атаки на Bangladesh's small христианское меньшинство.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/priest-beaten-robbed-at-church-amid-wave-of-attacks-on-catholics-in-bangladesh",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-01",
+      "lat": 34.7107,
+      "lng": 69.2644,
+      "country": "Afghanistan",
+      "city": "Kabul",
+      "type": "discrimination",
+      "title": "No Place Is Home: Life as Afghan христианин",
+      "description": "This world has few certainties. But для Afghan христиане, one is clear: being known as христианин в Талибан-controlled Afghanistan brings lethal danger. в this country 44 million люди, мусульмане comprise more than 99% population. Not lo",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/01/no-place-is-home-life-as-an-afghan-christian/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-01",
+      "lat": 31.5785,
+      "lng": 74.3799,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "other",
+      "title": "Pakistani епископы welcome new ребёнок marriage law but warn enforcement is испытание",
+      "description": "Catholic leaders called new law “defining move” safeguard childhood but said enforcement и unresolved consent rules will determine whether it actually protects vulnerable girls.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-bishops-welcome-new-child-marriage-law-but-warn-enforcement-is-the-test",
       "victims": 0
     },
     {
@@ -6460,45 +6499,6 @@
       "lng": 7.4168,
       "country": "Nigeria",
       "city": "Abuja",
-      "type": "other",
-      "title": "US congressman warns direct role if FG fails curb убийства",
-      "description": "US congressman warns direct intervention в Nigeria security crisis if правительство fails curb ongoing убийства, especially христиане. Read More: https://punchng.com/us-congressman-warns--direct-role-if-fg-fails--curb-убийства/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-congressman-warns-of-direct-role-if-fg-fails-to-curb-killings/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-01",
-      "lat": 11.6994,
-      "lng": 13.2929,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "US congressman warns direct role if FG fails curb убийства",
-      "description": "US congressman warns direct intervention в Nigeria security crisis if правительство fails curb ongoing убийства, especially христиане. Read More: https://punchng.com/us-congressman-warns--direct-role-if-fg-fails--curb-убийства/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-congressman-warns-of-direct-role-if-fg-fails-to-curb-killings/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-01",
-      "lat": 6.5262,
-      "lng": 3.1591,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Nigeria's христиане на edge для Пасха после Palm воскресенье резня",
-      "description": "Nigeria, ranked седьмой-worst в world для христианин гонение, saw reported 28 убит на Palm воскресенье, с fears христиане could be targeted this Пасха.",
-      "source": "newsapi:Fox News",
-      "url": "https://www.foxnews.com/world/nigerias-christians-edge-easter-after-palm-sunday-massacre",
-      "victims": 28
-    },
-    {
-      "date": "2026-04-01",
-      "lat": 6.4811,
-      "lng": 3.5708,
-      "country": "Nigeria",
-      "city": "Lagos",
       "type": "other",
       "title": "US congressman warns direct role if FG fails curb убийства",
       "description": "US congressman warns direct intervention в Nigeria security crisis if правительство fails curb ongoing убийства, especially христиане. Read More: https://punchng.com/us-congressman-warns--direct-role-if-fg-fails--curb-убийства/",
