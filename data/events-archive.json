@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-02T12:41:07.797Z",
+    "lastUpdated": "2026-05-02T18:40:26.026Z",
     "totalEvents": 500
   },
   "events": [
@@ -181,6 +181,19 @@
       "lng": 67.0227,
       "country": "Pakistan",
       "city": "Karachi",
+      "type": "other",
+      "title": "Pakistani епископы welcome new ребёнок marriage law but warn enforcement is испытание",
+      "description": "Catholic leaders called new law “defining move” safeguard childhood but said enforcement и unresolved consent rules will determine whether it actually protects vulnerable girls.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-bishops-welcome-new-child-marriage-law-but-warn-enforcement-is-the-test",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-01",
+      "lat": 33.7926,
+      "lng": 71.718,
+      "country": "Pakistan",
+      "city": "Peshawar",
       "type": "other",
       "title": "Pakistani епископы welcome new ребёнок marriage law but warn enforcement is испытание",
       "description": "Catholic leaders called new law “defining move” safeguard childhood but said enforcement и unresolved consent rules will determine whether it actually protects vulnerable girls.",
@@ -6486,19 +6499,6 @@
       "lng": 9.3135,
       "country": "Nigeria",
       "city": "Plateau",
-      "type": "murder",
-      "title": "Боевики в Nigeria kill 28 люди в predominantly христианин area",
-      "description": "Боевики на воскресенье reportedly убит 28 люди в densely populated, predominantly христианин area Jos, плато штат, Nigeria, sources said.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/gunmen-in-nigeria-kill-28-people-in-predominantly-christian-area",
-      "victims": 28
-    },
-    {
-      "date": "2026-04-01",
-      "lat": 6.7174,
-      "lng": 3.2937,
-      "country": "Nigeria",
-      "city": "Lagos",
       "type": "murder",
       "title": "Боевики в Nigeria kill 28 люди в predominantly христианин area",
       "description": "Боевики на воскресенье reportedly убит 28 люди в densely populated, predominantly христианин area Jos, плато штат, Nigeria, sources said.",
