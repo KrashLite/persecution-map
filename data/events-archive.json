@@ -2,10 +2,62 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-02T07:17:27.300Z",
+    "lastUpdated": "2026-05-02T12:41:07.797Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-05-02",
+      "lat": 9.2379,
+      "lng": 9.4593,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Ogun методистская церковь calls для tighter security measures, slams cybercrime",
+      "description": "Методистская церковь Nigeria, Diocese Remo в Ogun штат, has commended Bola Tinubu и губернатор Dapo Abiodun для their contributions national development, пока urging stronger measures address insecurity и economic лишения. position",
+      "source": "punchng",
+      "url": "https://punchng.com/ogun-methodist-church-calls-for-tighter-security-measures-slams-cybercrime/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-02",
+      "lat": 6.7463,
+      "lng": 3.1599,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Nigeria’s next президент already decided – пастор Adeboye",
+      "description": "“God is not going sit в heaven scratching His mighty head с His everlasting hand, saying who should rule Nigeria в 2027\" post Nigeria’s next президент already decided – пастор Adeboye appeared первый на Vanguard News.",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/05/nigerias-next-president-already-decided-pastor-adeboye/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-02",
+      "lat": 6.3622,
+      "lng": 3.3162,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Next президент has been decided God, says Adeboye",
+      "description": "Пастор Enoch Adeboye RCCG штаты that Nigeria’s next президент для 2027 election has already been decided God, urging citizens be prayerful. Read More: https://punchng.com/next-президент-has-been-decided--god-says-adeboye/",
+      "source": "punchng",
+      "url": "https://punchng.com/next-president-has-been-decided-by-god-says-adeboye/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-02",
+      "lat": 6.7346,
+      "lng": 3.5899,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Cleric urges govt address лишения",
+      "description": "Собрания God cleric urges правительство address economic лишения facing Nigerians, highlighting церковь’s role в national development. Read More: https://punchng.com/cleric-urges-govt--address-лишения/",
+      "source": "punchng",
+      "url": "https://punchng.com/cleric-urges-govt-to-address-hardship/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-05-01",
       "lat": 10.4048,
@@ -6453,58 +6505,6 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/gunmen-in-nigeria-kill-28-people-in-predominantly-christian-area",
       "victims": 28
-    },
-    {
-      "date": "2026-04-01",
-      "lat": 34.5022,
-      "lng": 36.5346,
-      "country": "Syria",
-      "city": "Homs",
-      "type": "attack",
-      "title": "Syria’s церкви scale back Пасха celebrations после атака на христианин посёлок",
-      "description": "После нападение на Syria’s посёлок Al-Suqaylabiyah, questions linger security и accountability, causing Syria’s христианские общины change Holy неделя и Пасха services.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/syria-s-churches-scale-back-easter-celebrations-after-attack-on-christian-town",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-01",
-      "lat": 10.6328,
-      "lng": 7.2138,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Боевики в Nigeria kill 28 люди в predominantly христианин area",
-      "description": "Боевики на воскресенье reportedly убит 28 люди в densely populated, predominantly христианин area Jos, плато штат, Nigeria, sources said.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/gunmen-in-nigeria-kill-28-people-in-predominantly-christian-area",
-      "victims": 28
-    },
-    {
-      "date": "2026-04-01",
-      "lat": 23.8406,
-      "lng": 90.6429,
-      "country": "Bangladesh",
-      "city": "Dhaka",
-      "type": "discrimination",
-      "title": "Bangladesh христиане form human chain demanding Пасха public праздник",
-      "description": "Христианские лидеры и Catholic clergy в мусульманин-majority South Asian nation are urging премьер-министр Tarique Rahman add Пасха воскресенье правительство праздник calendar.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/bangladesh-christians-form-human-chain-demanding-easter-public-holiday",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-01",
-      "lat": 33.3146,
-      "lng": 36.347,
-      "country": "Syria",
-      "city": "Damascus",
-      "type": "attack",
-      "title": "Syria’s церкви scale back Пасха celebrations после атака на христианин посёлок",
-      "description": "После нападение на Syria’s посёлок Al-Suqaylabiyah, questions linger security и accountability, causing Syria’s христианские общины change Holy неделя и Пасха services.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/syria-s-churches-scale-back-easter-celebrations-after-attack-on-christian-town",
-      "victims": 0
     }
   ]
 }
