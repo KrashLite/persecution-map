@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-02T01:25:51.869Z",
+    "lastUpdated": "2026-05-02T07:17:27.300Z",
     "totalEvents": 500
   },
   "events": [
@@ -124,6 +124,19 @@
       "victims": 0
     },
     {
+      "date": "2026-05-01",
+      "lat": 24.884,
+      "lng": 67.0227,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "other",
+      "title": "Pakistani епископы welcome new ребёнок marriage law but warn enforcement is испытание",
+      "description": "Catholic leaders called new law “defining move” safeguard childhood but said enforcement и unresolved consent rules will determine whether it actually protects vulnerable girls.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-bishops-welcome-new-child-marriage-law-but-warn-enforcement-is-the-test",
+      "victims": 0
+    },
+    {
       "date": "2026-04-30",
       "lat": 11.8967,
       "lng": 8.711,
@@ -168,6 +181,19 @@
       "lng": 13.2639,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "other",
+      "title": "Nigeria faces stricter US aid terms ‘религиозный гонение’",
+      "description": "US House комитет has advanced bill с stricter conditions на US aid Nigeria, citing concerns security и alleged религиозный гонение. Read More: https://punchng.com/nigeria-faces-stricter-us-aid-terms--религиозный-гонение/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/nigeria-faces-stricter-us-aid-terms-over-religious-persecution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-30",
+      "lat": 10.4154,
+      "lng": 7.3068,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "other",
       "title": "Nigeria faces stricter US aid terms ‘религиозный гонение’",
       "description": "US House комитет has advanced bill с stricter conditions на US aid Nigeria, citing concerns security и alleged религиозный гонение. Read More: https://punchng.com/nigeria-faces-stricter-us-aid-terms--религиозный-гонение/",
@@ -441,6 +467,32 @@
       "lng": 59.4421,
       "country": "Iran",
       "city": "Mashhad",
+      "type": "other",
+      "title": "Can MAGA Survive Great Evangelical Crack-Up?",
+      "description": "If Donald Trump is remembered для anything, it май be as war президент: His enemies so far have included migrants, trade, Venezuela, Iran, maybe Cuba—и сейчас религия. His последний full-на нападение was against папа Leo XIV, whom he called “weak на cri",
+      "source": "newsapi:Mother Jones",
+      "url": "https://www.motherjones.com/politics/2026/04/trump-maga-evangelical-crackup-pope-christian/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-29",
+      "lat": 11.6236,
+      "lng": 13.008,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "attack",
+      "title": "ISWAP боевики Kill 29 христиане в Nigeria в One Several атаки на этой неделе",
+      "description": "Violence against христиане в Nigeria has continued without pause through первый four месяцы 2026. post ISWAP боевики Kill 29 христиане в Nigeria в One Several атаки на этой неделе appeared первый на Gateway Pundit.",
+      "source": "newsapi:Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/04/iswap-gunmen-kill-29-christians-nigeria-one-several/",
+      "victims": 29
+    },
+    {
+      "date": "2026-04-29",
+      "lat": 35.7731,
+      "lng": 51.5469,
+      "country": "Iran",
+      "city": "Tehran",
       "type": "other",
       "title": "Can MAGA Survive Great Evangelical Crack-Up?",
       "description": "If Donald Trump is remembered для anything, it май be as war президент: His enemies so far have included migrants, trade, Venezuela, Iran, maybe Cuba—и сейчас религия. His последний full-на нападение was against папа Leo XIV, whom he called “weak на cri",
@@ -6453,58 +6505,6 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/syria-s-churches-scale-back-easter-celebrations-after-attack-on-christian-town",
       "victims": 0
-    },
-    {
-      "date": "2026-04-01",
-      "lat": 12.0057,
-      "lng": 12.9035,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Боевики в Nigeria kill 28 люди в predominantly христианин area",
-      "description": "Боевики на воскресенье reportedly убит 28 люди в densely populated, predominantly христианин area Jos, плато штат, Nigeria, sources said.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/gunmen-in-nigeria-kill-28-people-in-predominantly-christian-area",
-      "victims": 28
-    },
-    {
-      "date": "2026-04-01",
-      "lat": 9.2342,
-      "lng": 7.594,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Боевики в Nigeria kill 28 люди в predominantly христианин area",
-      "description": "Боевики на воскресенье reportedly убит 28 люди в densely populated, predominantly христианин area Jos, плато штат, Nigeria, sources said.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/gunmen-in-nigeria-kill-28-people-in-predominantly-christian-area",
-      "victims": 28
-    },
-    {
-      "date": "2026-04-01",
-      "lat": 35.9554,
-      "lng": 37.1549,
-      "country": "Syria",
-      "city": "Aleppo",
-      "type": "attack",
-      "title": "Syria’s церкви scale back Пасха celebrations после атака на христианин посёлок",
-      "description": "После нападение на Syria’s посёлок Al-Suqaylabiyah, questions linger security и accountability, causing Syria’s христианские общины change Holy неделя и Пасха services.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/syria-s-churches-scale-back-easter-celebrations-after-attack-on-christian-town",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-01",
-      "lat": 11.9398,
-      "lng": 8.7327,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Nigeria's христиане на edge для Пасха после Palm воскресенье резня",
-      "description": "Nigeria, ranked седьмой-worst в world для христианин гонение, saw reported 28 убит на Palm воскресенье, с fears христиане could be targeted this Пасха.",
-      "source": "newsapi:Fox News",
-      "url": "https://www.foxnews.com/world/nigerias-christians-edge-easter-after-palm-sunday-massacre",
-      "victims": 28
     }
   ]
 }
