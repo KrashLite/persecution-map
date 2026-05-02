@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-01T18:54:17.489Z",
+    "lastUpdated": "2026-05-02T01:25:51.869Z",
     "totalEvents": 500
   },
   "events": [
@@ -98,6 +98,32 @@
       "victims": 0
     },
     {
+      "date": "2026-05-01",
+      "lat": 1.8496,
+      "lng": 45.441,
+      "country": "Somalia",
+      "city": "Mogadishu",
+      "type": "murder",
+      "title": "Мусульманин Herders Kill 7 христианские фермеры в Kenya",
+      "description": "These дни, farmers в Eastern Kenya are unable find peace. Every waking moment is filled с unease. “Even во время день, you find yourself watching your surroundings, listening для noise or выстрелы,” one resident said. “You are not settled.”",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/01/muslim-herders-kill-7-christian-farmers-in-kenya/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-01",
+      "lat": 33.8078,
+      "lng": 73.0177,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "other",
+      "title": "Pakistani епископы welcome new ребёнок marriage law but warn enforcement is испытание",
+      "description": "Catholic leaders called new law “defining move” safeguard childhood but said enforcement и unresolved consent rules will determine whether it actually protects vulnerable girls.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-bishops-welcome-new-child-marriage-law-but-warn-enforcement-is-the-test",
+      "victims": 0
+    },
+    {
       "date": "2026-04-30",
       "lat": 11.8967,
       "lng": 8.711,
@@ -134,6 +160,19 @@
       "description": "В 2024, в Elwak, посёлок на Kenya-Somalia border в Kenya’s northeastern регион, where survival relies на daily work, David Nzyima, husband и father four, experienced event that transformed his life. One утро, like other мужчины, he wen",
       "source": "persecution",
       "url": "https://persecution.org/2026/04/30/fighting-to-survive/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-30",
+      "lat": 11.8671,
+      "lng": 13.2639,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "Nigeria faces stricter US aid terms ‘религиозный гонение’",
+      "description": "US House комитет has advanced bill с stricter conditions на US aid Nigeria, citing concerns security и alleged религиозный гонение. Read More: https://punchng.com/nigeria-faces-stricter-us-aid-terms--религиозный-гонение/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/nigeria-faces-stricter-us-aid-terms-over-religious-persecution/",
       "victims": 0
     },
     {
@@ -384,6 +423,32 @@
       "victims": 0
     },
     {
+      "date": "2026-04-29",
+      "lat": 10.4752,
+      "lng": 7.4835,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "attack",
+      "title": "ISWAP боевики Kill 29 христиане в Nigeria в One Several атаки на этой неделе",
+      "description": "Violence against христиане в Nigeria has continued without pause through первый four месяцы 2026. post ISWAP боевики Kill 29 христиане в Nigeria в One Several атаки на этой неделе appeared первый на Gateway Pundit.",
+      "source": "newsapi:Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/04/iswap-gunmen-kill-29-christians-nigeria-one-several/",
+      "victims": 29
+    },
+    {
+      "date": "2026-04-29",
+      "lat": 36.4433,
+      "lng": 59.4421,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Can MAGA Survive Great Evangelical Crack-Up?",
+      "description": "If Donald Trump is remembered для anything, it май be as war президент: His enemies so far have included migrants, trade, Venezuela, Iran, maybe Cuba—и сейчас религия. His последний full-на нападение was against папа Leo XIV, whom he called “weak на cri",
+      "source": "newsapi:Mother Jones",
+      "url": "https://www.motherjones.com/politics/2026/04/trump-maga-evangelical-crackup-pope-christian/",
+      "victims": 0
+    },
+    {
       "date": "2026-04-28",
       "lat": 10.7126,
       "lng": 7.3482,
@@ -597,6 +662,19 @@
       "lng": 13.0045,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "murder",
+      "title": "Боевики Kill пастор, семья в плато штат",
+      "description": "Residents Gako деревня в Rim community, Riyom Local правительство Area плато штат, Nigeria, reported that four members христианская семья were убит поздно на апрель 26, когда armed мужчины атакован their home. Local sources identified жертва",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/04/27/gunmen-kill-pastor-family-in-plateau-state/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-27",
+      "lat": 9.2256,
+      "lng": 7.3656,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "murder",
       "title": "Боевики Kill пастор, семья в плато штат",
       "description": "Residents Gako деревня в Rim community, Riyom Local правительство Area плато штат, Nigeria, reported that four members христианская семья were убит поздно на апрель 26, когда armed мужчины атакован their home. Local sources identified жертва",
@@ -6427,84 +6505,6 @@
       "source": "newsapi:Fox News",
       "url": "https://www.foxnews.com/world/nigerias-christians-edge-easter-after-palm-sunday-massacre",
       "victims": 28
-    },
-    {
-      "date": "2026-04-01",
-      "lat": 12.0554,
-      "lng": 8.7787,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "US congressman warns direct role if FG fails curb убийства",
-      "description": "US congressman warns direct intervention в Nigeria security crisis if правительство fails curb ongoing убийства, especially христиане. Read More: https://punchng.com/us-congressman-warns--direct-role-if-fg-fails--curb-убийства/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-congressman-warns-of-direct-role-if-fg-fails-to-curb-killings/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-01",
-      "lat": 8.8837,
-      "lng": 7.2507,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Nigeria's христиане на edge для Пасха после Palm воскресенье резня",
-      "description": "Nigeria, ranked седьмой-worst в world для христианин гонение, saw reported 28 убит на Palm воскресенье, с fears христиане could be targeted this Пасха.",
-      "source": "newsapi:Fox News",
-      "url": "https://www.foxnews.com/world/nigerias-christians-edge-easter-after-palm-sunday-massacre",
-      "victims": 28
-    },
-    {
-      "date": "2026-04-01",
-      "lat": 9.072,
-      "lng": 9.5422,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "US congressman warns direct role if FG fails curb убийства",
-      "description": "US congressman warns direct intervention в Nigeria security crisis if правительство fails curb ongoing убийства, especially христиане. Read More: https://punchng.com/us-congressman-warns--direct-role-if-fg-fails--curb-убийства/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-congressman-warns-of-direct-role-if-fg-fails-to-curb-killings/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-01",
-      "lat": 12.0095,
-      "lng": 13.3697,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Nigeria's христиане на edge для Пасха после Palm воскресенье резня",
-      "description": "Nigeria, ranked седьмой-worst в world для христианин гонение, saw reported 28 убит на Palm воскресенье, с fears христиане could be targeted this Пасха.",
-      "source": "newsapi:Fox News",
-      "url": "https://www.foxnews.com/world/nigerias-christians-edge-easter-after-palm-sunday-massacre",
-      "victims": 28
-    },
-    {
-      "date": "2026-04-01",
-      "lat": 11.8902,
-      "lng": 8.4051,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Боевики в Nigeria kill 28 люди в predominantly христианин area",
-      "description": "Боевики на воскресенье reportedly убит 28 люди в densely populated, predominantly христианин area Jos, плато штат, Nigeria, sources said.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/gunmen-in-nigeria-kill-28-people-in-predominantly-christian-area",
-      "victims": 28
-    },
-    {
-      "date": "2026-04-01",
-      "lat": 8.9231,
-      "lng": 7.4168,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "US congressman warns direct role if FG fails curb убийства",
-      "description": "US congressman warns direct intervention в Nigeria security crisis if правительство fails curb ongoing убийства, especially христиане. Read More: https://punchng.com/us-congressman-warns--direct-role-if-fg-fails--curb-убийства/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-congressman-warns-of-direct-role-if-fg-fails-to-curb-killings/",
-      "victims": 0
     }
   ]
 }
