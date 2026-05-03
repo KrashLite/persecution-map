@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-03T07:44:44.716Z",
+    "lastUpdated": "2026-05-03T12:40:44.458Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "Методистская церковь Nigeria calls на президент Tinubu intensify усилия tackle insecurity, citing banditry и похищение as угрозы national sta Read More: https://punchng.com/tackle-insecurity-methodist-церковь-urges-tinubu/",
       "source": "punchng",
       "url": "https://punchng.com/tackle-insecurity-methodist-church-urges-tinubu/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-03",
+      "lat": 36.906,
+      "lng": 2.8733,
+      "country": "Algeria",
+      "city": "Algiers",
+      "type": "other",
+      "title": "What was it like welcome Leo Augustine’s land?",
+      "description": "Папа Leo XIV’s visit Annaba, Algeria, на апрель 14, 2026, brought deep encouragement Fr. Fred Wekesa, OSA, rector Basilica Saint Augustine. для Augustinian священник serving в Algeria, visit affirmed dignity и mission",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/05/03/what-was-it-like-to-welcome-leo-to-augustines-land/",
       "victims": 0
     },
     {
@@ -6491,19 +6504,6 @@
       "description": "India’s Catholic епископы are pushing back на Supreme суд ruling that reaffirmed христиане are excluded из constitutional protections для lower-caste communities.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/indian-court-reaffirms-dalit-christians-have-no-right-to-lower-caste-protections",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-02",
-      "lat": 35.9107,
-      "lng": 51.463,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "attack",
-      "title": "Христианин Nationalists в US правительство Push атаки на Iran as Holy War",
-      "description": "С Pete Hegseth leading департамент Defense, line separating церковь и штат is increasingly blurred.",
-      "source": "newsapi:Truthout",
-      "url": "https://truthout.org/articles/christian-nationalists-in-us-government-push-attacks-on-iran-as-holy-war/",
       "victims": 0
     }
   ]
