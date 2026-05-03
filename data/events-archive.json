@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-02T18:40:26.026Z",
+    "lastUpdated": "2026-05-03T01:29:31.481Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-05-03",
+      "lat": 8.9132,
+      "lng": 7.2849,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "kidnapping",
+      "title": "Tackle insecurity, методистская церковь urges Tinubu",
+      "description": "Методистская церковь Nigeria calls на президент Tinubu intensify усилия tackle insecurity, citing banditry и похищение as угрозы national sta Read More: https://punchng.com/tackle-insecurity-methodist-церковь-urges-tinubu/",
+      "source": "punchng",
+      "url": "https://punchng.com/tackle-insecurity-methodist-church-urges-tinubu/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-05-02",
       "lat": 9.2379,
@@ -259,6 +272,19 @@
       "lng": 7.3068,
       "country": "Nigeria",
       "city": "Kaduna",
+      "type": "other",
+      "title": "Nigeria faces stricter US aid terms ‘религиозный гонение’",
+      "description": "US House комитет has advanced bill с stricter conditions на US aid Nigeria, citing concerns security и alleged религиозный гонение. Read More: https://punchng.com/nigeria-faces-stricter-us-aid-terms--религиозный-гонение/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/nigeria-faces-stricter-us-aid-terms-over-religious-persecution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-30",
+      "lat": 9.22,
+      "lng": 9.7257,
+      "country": "Nigeria",
+      "city": "Plateau",
       "type": "other",
       "title": "Nigeria faces stricter US aid terms ‘религиозный гонение’",
       "description": "US House комитет has advanced bill с stricter conditions на US aid Nigeria, citing concerns security и alleged религиозный гонение. Read More: https://punchng.com/nigeria-faces-stricter-us-aid-terms--религиозный-гонение/",
@@ -564,6 +590,19 @@
       "source": "newsapi:Mother Jones",
       "url": "https://www.motherjones.com/politics/2026/04/trump-maga-evangelical-crackup-pope-christian/",
       "victims": 0
+    },
+    {
+      "date": "2026-04-29",
+      "lat": 8.8946,
+      "lng": 7.6193,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "attack",
+      "title": "ISWAP боевики Kill 29 христиане в Nigeria в One Several атаки на этой неделе",
+      "description": "Violence against христиане в Nigeria has continued without pause through первый four месяцы 2026. post ISWAP боевики Kill 29 христиане в Nigeria в One Several атаки на этой неделе appeared первый на Gateway Pundit.",
+      "source": "newsapi:Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/04/iswap-gunmen-kill-29-christians-nigeria-one-several/",
+      "victims": 29
     },
     {
       "date": "2026-04-28",
@@ -6466,45 +6505,6 @@
       "source": "newsapi:Truthout",
       "url": "https://truthout.org/articles/christian-nationalists-in-us-government-push-attacks-on-iran-as-holy-war/",
       "victims": 0
-    },
-    {
-      "date": "2026-04-02",
-      "lat": 21.3325,
-      "lng": 81.768,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "discrimination",
-      "title": "India Further Restricts Funding Foreign NGOs",
-      "description": "India’s христианская община says federal amendments law на foreign funding give правительство excessive power organizations tied minority религии. They termed amendments as “draconian” и “constitutionally suspect.” Foreign",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/02/india-further-restricts-funding-of-foreign-ngos/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-02",
-      "lat": 28.5881,
-      "lng": 76.9677,
-      "country": "India",
-      "city": "Delhi",
-      "type": "discrimination",
-      "title": "India Further Restricts Funding Foreign NGOs",
-      "description": "India’s христианская община says federal amendments law на foreign funding give правительство excessive power organizations tied minority религии. They termed amendments as “draconian” и “constitutionally suspect.” Foreign",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/02/india-further-restricts-funding-of-foreign-ngos/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-01",
-      "lat": 9.1812,
-      "lng": 9.3135,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Боевики в Nigeria kill 28 люди в predominantly христианин area",
-      "description": "Боевики на воскресенье reportedly убит 28 люди в densely populated, predominantly христианин area Jos, плато штат, Nigeria, sources said.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/gunmen-in-nigeria-kill-28-people-in-predominantly-christian-area",
-      "victims": 28
     }
   ]
 }
