@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-03T12:40:44.458Z",
+    "lastUpdated": "2026-05-03T18:41:06.346Z",
     "totalEvents": 500
   },
   "events": [
@@ -82,6 +82,19 @@
       "description": "Собрания God cleric urges правительство address economic лишения facing Nigerians, highlighting церковь’s role в national development. Read More: https://punchng.com/cleric-urges-govt--address-лишения/",
       "source": "punchng",
       "url": "https://punchng.com/cleric-urges-govt-to-address-hardship/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-02",
+      "lat": 35.8647,
+      "lng": 51.4057,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "Iran’s подпольная церковь в Wartime",
+      "description": "“Life is hard,” Yahya, leader в Iran’s христианин домашняя церковь movement, told David Yeghnazar Elam министерства недавно. Yahya (not his real name) was sending voice messages due Iran’s wartime internet blackout, which makes it nearly impossibl",
+      "source": "newsapi:Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-religion/4377378/posts",
       "victims": 0
     },
     {
@@ -298,6 +311,19 @@
       "lng": 9.7257,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "other",
+      "title": "Nigeria faces stricter US aid terms ‘религиозный гонение’",
+      "description": "US House комитет has advanced bill с stricter conditions на US aid Nigeria, citing concerns security и alleged религиозный гонение. Read More: https://punchng.com/nigeria-faces-stricter-us-aid-terms--религиозный-гонение/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/nigeria-faces-stricter-us-aid-terms-over-religious-persecution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-04-30",
+      "lat": 6.4521,
+      "lng": 3.4293,
+      "country": "Nigeria",
+      "city": "Lagos",
       "type": "other",
       "title": "Nigeria faces stricter US aid terms ‘религиозный гонение’",
       "description": "US House комитет has advanced bill с stricter conditions на US aid Nigeria, citing concerns security и alleged религиозный гонение. Read More: https://punchng.com/nigeria-faces-stricter-us-aid-terms--религиозный-гонение/",
@@ -6478,32 +6504,6 @@
       "description": "Президент Trump’s первый address на Iran war signaled continued военные action, as Catholic leaders called для dialogue и ceasefire.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/trump-vows-to-hit-iran-extremely-hard-amid-catholic-calls-for-peace",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-02",
-      "lat": 23.1496,
-      "lng": 113.7887,
-      "country": "China",
-      "city": "Guangdong",
-      "type": "murder",
-      "title": "Kamikaze из Mar--Lago: Despite all смерть и разрушение, it's Advantage Iran",
-      "description": "Iran war: Tehran had capacity set регион alight и squeeze global economy. сейчас even more so после годы preparation и Chinese help. Trump is finding out hard way, as is Pete Hegseth, his secretary war и hardcore Christia",
-      "source": "newsapi:The Times of India",
-      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/kamikaze-from-mar-a-lago-despite-all-the-death-and-destruction-its-advantage-iran/articleshow/129985869.cms",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-02",
-      "lat": 21.102,
-      "lng": 81.7955,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "other",
-      "title": "Indian суд reaffirms Dalit христиане have no right lower-caste protections",
-      "description": "India’s Catholic епископы are pushing back на Supreme суд ruling that reaffirmed христиане are excluded из constitutional protections для lower-caste communities.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/indian-court-reaffirms-dalit-christians-have-no-right-to-lower-caste-protections",
       "victims": 0
     }
   ]
