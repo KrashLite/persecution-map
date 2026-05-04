@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-04T13:17:55.925Z",
+    "lastUpdated": "2026-05-04T19:10:32.838Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,45 @@
       "description": "62 Nigerians, part христианская миссия, held в Uganda are reportedly отказано access their lawyer, sparking concerns breach their legal righ Read More: https://punchng.com/62-nigerians-held-в-uganda-отказано-legal-access-lawyer/",
       "source": "punchng",
       "url": "https://punchng.com/62-nigerians-held-in-uganda-denied-legal-access-lawyer/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-04",
+      "lat": 12.1012,
+      "lng": 8.7719,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Why правительство Can’t Get Control в Nigeria",
+      "description": "Lisa Navarrette, ICC Fellow question why правительство cannot fully contain христианин гонение в Nigeria is often asked с frustration и urgency. первый glance, it май seem like failure политический will. It is easy assume t",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/04/why-the-government-cant-get-control-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-04",
+      "lat": -6.4431,
+      "lng": 106.6603,
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "type": "other",
+      "title": "Local Pressure Prevents церковь Construction в Indonesia",
+      "description": "Controversy surrounding construction Toraja церковь house богослужение в Sungai Keledang area ​​Samarinda Seberang район, в East Kalimantan, Indonesia, remains unresolved. All administrative и technical requirements для",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/04/local-pressure-prevents-church-construction-in-indonesia/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-04",
+      "lat": -25.8863,
+      "lng": 32.3817,
+      "country": "Mozambique",
+      "city": "Maputo",
+      "type": "attack",
+      "title": "Catholic community в shock после террористы torch historic церковь в Mozambique",
+      "description": "Епископ Pemba Diocese в northern Mozambique has expressed sadness и solidarity с жертвы violence в регион where исламист insurgency has persisted для nearly nine годы.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/catholic-community-in-shock-after-terrorists-torch-historic-church-in-mozambique",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "India’s христианская община says federal amendments law на foreign funding give правительство excessive power organizations tied minority религии. They termed amendments as “draconian” и “constitutionally suspect.” Foreign",
       "source": "persecution",
       "url": "https://persecution.org/2026/04/02/india-further-restricts-funding-of-foreign-ngos/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-02",
-      "lat": 33.4098,
-      "lng": 36.4782,
-      "country": "Syria",
-      "city": "Damascus",
-      "type": "other",
-      "title": "Пасха events cancelled в Syria после violence against христиане",
-      "description": "Syrian правительство силы were eventually able restore order.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/easter-events-cancelled-in-syria-after-violence-against-christians",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-02",
-      "lat": 26.7158,
-      "lng": 80.9603,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "other",
-      "title": "Indian суд reaffirms Dalit христиане have no right lower-caste protections",
-      "description": "India’s Catholic епископы are pushing back на Supreme суд ruling that reaffirmed христиане are excluded из constitutional protections для lower-caste communities.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/indian-court-reaffirms-dalit-christians-have-no-right-to-lower-caste-protections",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-02",
-      "lat": 32.8385,
-      "lng": 51.4778,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "attack",
-      "title": "Христианин Nationalists в US правительство Push атаки на Iran as Holy War",
-      "description": "С Pete Hegseth leading департамент Defense, line separating церковь и штат is increasingly blurred.",
-      "source": "newsapi:Truthout",
-      "url": "https://truthout.org/articles/christian-nationalists-in-us-government-push-attacks-on-iran-as-holy-war/",
       "victims": 0
     }
   ]
