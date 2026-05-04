@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-04T08:13:17.574Z",
+    "lastUpdated": "2026-05-04T13:17:55.925Z",
     "totalEvents": 500
   },
   "events": [
@@ -155,6 +155,19 @@
       "lng": 52.6923,
       "country": "Iran",
       "city": "Shiraz",
+      "type": "other",
+      "title": "Iran’s подпольная церковь в Wartime",
+      "description": "“Life is hard,” Yahya, leader в Iran’s христианин домашняя церковь movement, told David Yeghnazar Elam министерства недавно. Yahya (not his real name) was sending voice messages due Iran’s wartime internet blackout, which makes it nearly impossibl",
+      "source": "newsapi:Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-religion/4377378/posts",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-02",
+      "lat": 36.2306,
+      "lng": 59.3903,
+      "country": "Iran",
+      "city": "Mashhad",
       "type": "other",
       "title": "Iran’s подпольная церковь в Wartime",
       "description": "“Life is hard,” Yahya, leader в Iran’s христианин домашняя церковь movement, told David Yeghnazar Elam министерства недавно. Yahya (not his real name) was sending voice messages due Iran’s wartime internet blackout, which makes it nearly impossibl",
@@ -6491,19 +6504,6 @@
       "description": "С Pete Hegseth leading департамент Defense, line separating церковь и штат is increasingly blurred.",
       "source": "newsapi:Truthout",
       "url": "https://truthout.org/articles/christian-nationalists-in-us-government-push-attacks-on-iran-as-holy-war/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-02",
-      "lat": 39.6949,
-      "lng": 116.1836,
-      "country": "China",
-      "city": "Beijing",
-      "type": "murder",
-      "title": "Kamikaze из Mar--Lago: Despite all смерть и разрушение, it's Advantage Iran",
-      "description": "Iran war: Tehran had capacity set регион alight и squeeze global economy. сейчас even more so после годы preparation и Chinese help. Trump is finding out hard way, as is Pete Hegseth, his secretary war и hardcore Christia",
-      "source": "newsapi:The Times of India",
-      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/kamikaze-from-mar-a-lago-despite-all-the-death-and-destruction-its-advantage-iran/articleshow/129985869.cms",
       "victims": 0
     }
   ]
