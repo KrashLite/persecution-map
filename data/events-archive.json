@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-05T01:28:07.569Z",
+    "lastUpdated": "2026-05-05T07:51:58.623Z",
     "totalEvents": 500
   },
   "events": [
@@ -31,6 +31,19 @@
       "source": "crux",
       "url": "https://cruxnow.com/vatican/2026/05/secretary-of-state-rubio-a-catholic-plans-to-visit-the-vatican/",
       "victims": 0
+    },
+    {
+      "date": "2026-05-05",
+      "lat": 11.6585,
+      "lng": 13.2057,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "12 христиане убит в Nigeria",
+      "description": "Террористы из Исламское государство West Africa провинция (ISWAP) убит least 12 люди и сожжён церковь building в атака на христианин деревня в northeastern Nigeria’s Adamawa штат, according international христианин aid organizati",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/12-christians-killed-in-nigeria",
+      "victims": 12
     },
     {
       "date": "2026-05-04",
@@ -173,6 +186,58 @@
       "description": "Епископ Pemba Diocese в northern Mozambique has expressed sadness и solidarity с жертвы violence в регион where исламист insurgency has persisted для nearly nine годы.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/catholic-community-in-shock-after-terrorists-torch-historic-church-in-mozambique",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-04",
+      "lat": 12.1309,
+      "lng": 8.6356,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Nigerian армия Silent as экстремисты Kill 9, Destroy Crops",
+      "description": "Armed attackers убит least nine христиане, including Nigerian soldier, в devastating spree across плато штат. attackers also разрушен more than 40 hectares farmland в just three дни, according local sources. International C",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/04/nigerian-army-silent-as-extremists-kill-9-destroy-crops/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-04",
+      "lat": 26.8326,
+      "lng": 80.9748,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "other",
+      "title": "Three годы позже, Manipur христиане Still на Edge",
+      "description": "There’s no end в sight ethnic conflict that began three годы ago between христианин-majority Kuki-Zo и индус Meitei communities в Manipur, India. Even though месса riots have tapered off, armed и bloody violence в штат has effec",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/04/three-years-later-manipur-christians-still-on-edge/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-04",
+      "lat": 10.3523,
+      "lng": 7.2109,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Why правительство Can’t Get Control в Nigeria",
+      "description": "Lisa Navarrette, ICC Fellow question why правительство cannot fully contain христианин гонение в Nigeria is often asked с frustration и urgency. первый glance, it май seem like failure политический will. It is easy assume t",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/04/why-the-government-cant-get-control-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-04",
+      "lat": 9.3268,
+      "lng": 7.3553,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "kidnapping",
+      "title": "Боевики Abduct христианская школаgirls, Kill 1 в Nigeria",
+      "description": "This incident is part pattern засады along Akwando–Kachia road. Since январь, least seven separate атаки have been recorded на this route, targeting commercial vehicles, private transport, и motorcycles post боевики Abduct Ch",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/05/04/gunmen-abduct-christian-schoolgirls-kill-1-in-nigeria/",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "Президент Trump's первый address на Iran war signaled continued военные action, as Catholic leaders called для dialogue и ceasefire.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/trump-vows-to-hit-iran-extremely-hard-amid-catholic-calls-for-peace",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-02",
-      "lat": 34.569,
-      "lng": 36.6877,
-      "country": "Syria",
-      "city": "Homs",
-      "type": "other",
-      "title": "Пасха events cancelled в Syria после violence against христиане",
-      "description": "Syrian правительство силы were eventually able restore order.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/easter-events-cancelled-in-syria-after-violence-against-christians",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-02",
-      "lat": 4.4832,
-      "lng": 18.472,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "discrimination",
-      "title": "Кардинал Pizzaballa celebrates Christ’s гробница, doors закрыт",
-      "description": "Кардинал Pierbattista Pizzaballa celebrated Holy четверг месса inside церковь Holy Sepulchre behind закрыт doors, as tensions linked ongoing conflict continue affect daily life в город. Latin патриарх Jerusalem describ",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/04/02/cardinal-pizzaballa-celebrates-at-christs-tomb-doors-closed/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-02",
-      "lat": 32.4125,
-      "lng": 51.636,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Trump vows hit Iran 'extremely hard' amid Catholic calls для peace",
-      "description": "Президент Trump's первый address на Iran war signaled continued военные action, as Catholic leaders called для dialogue и ceasefire.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/trump-vows-to-hit-iran-extremely-hard-amid-catholic-calls-for-peace",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-02",
-      "lat": 24.0489,
-      "lng": 90.5039,
-      "country": "Bangladesh",
-      "city": "Dhaka",
-      "type": "discrimination",
-      "title": "‘God май clothe my heart с humility’: Monsignor marks 40 годы as священник",
-      "description": "Father Gabriel Corraya Dhaka, newly elevated title monsignor папа Leo XIV, reflects на priesthood, humility, и service as католическая церковь в Bangladesh marks Holy четверг.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/god-may-clothe-my-heart-with-humility-monsignor-marks-40-years-as-a-priest",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-02",
-      "lat": 36.2479,
-      "lng": 37.261,
-      "country": "Syria",
-      "city": "Aleppo",
-      "type": "other",
-      "title": "Пасха events cancelled в Syria после violence against христиане",
-      "description": "Syrian правительство силы were eventually able restore order.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/easter-events-cancelled-in-syria-after-violence-against-christians",
       "victims": 0
     }
   ]
