@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-05T07:51:58.623Z",
+    "lastUpdated": "2026-05-05T13:05:13.146Z",
     "totalEvents": 500
   },
   "events": [
@@ -44,6 +44,45 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/12-christians-killed-in-nigeria",
       "victims": 12
+    },
+    {
+      "date": "2026-05-05",
+      "lat": 10.6903,
+      "lng": 7.4846,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "12 христиане убит в Nigeria",
+      "description": "Террористы из Исламское государство West Africa провинция (ISWAP) убит least 12 люди и сожжён церковь building в атака на христианин деревня в northeastern Nigeria’s Adamawa штат, according international христианин aid organizati",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/12-christians-killed-in-nigeria",
+      "victims": 12
+    },
+    {
+      "date": "2026-05-05",
+      "lat": 29.7004,
+      "lng": 52.5575,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Secretary штат Rubio, Catholic, plans visit Vatican",
+      "description": "Secretary штат Marco Rubio will travel Rome и Vatican город на этой неделе в bid ease rising tensions between президент Donald Trump и папа Leo XIV U.S. policies, particularly Iran war.",
+      "source": "crux",
+      "url": "https://cruxnow.com/vatican/2026/05/secretary-of-state-rubio-a-catholic-plans-to-visit-the-vatican/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-05",
+      "lat": 12.2268,
+      "lng": 8.4807,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "‘God instructed me’, Apostle Femi Lazarus relocates семья Kenya",
+      "description": "Founder Light Nation церковь, Femi Lazarus has revealed plans temporarily relocate из Nigeria Kenya as part what he describes as new phase в his министерство. post ‘God instructed me’, Apostle Femi Lazarus relocates семья Keny",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/05/god-instructed-me-apostle-femi-lazarus-relocates-family-to-kenya/",
+      "victims": 0
     },
     {
       "date": "2026-05-04",
@@ -238,6 +277,32 @@
       "description": "This incident is part pattern засады along Akwando–Kachia road. Since январь, least seven separate атаки have been recorded на this route, targeting commercial vehicles, private transport, и motorcycles post боевики Abduct Ch",
       "source": "zenit",
       "url": "https://zenit.org/2026/05/04/gunmen-abduct-christian-schoolgirls-kill-1-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-04",
+      "lat": 10.7394,
+      "lng": 7.5624,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Nigerian армия Silent as экстремисты Kill 9, Destroy Crops",
+      "description": "Armed attackers убит least nine христиане, including Nigerian soldier, в devastating spree across плато штат. attackers also разрушен more than 40 hectares farmland в just three дни, according local sources. International C",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/04/nigerian-army-silent-as-extremists-kill-9-destroy-crops/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-04",
+      "lat": 9.1046,
+      "lng": 9.3982,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Why правительство Can’t Get Control в Nigeria",
+      "description": "Lisa Navarrette, ICC Fellow question why правительство cannot fully contain христианин гонение в Nigeria is often asked с frustration и urgency. первый glance, it май seem like failure политический will. It is easy assume t",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/04/why-the-government-cant-get-control-in-nigeria/",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "Filipino епископы have urged Catholic dioceses в Philippines support overseas workers, migrants, и their семьи back home amid economic crisis following war с Iran.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/philippines-church-mobilizes-support-for-migrant-workers-hit-by-war-oil-crisis",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-03",
-      "lat": 10.3747,
-      "lng": 7.3113,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "US lawmakers seek end гонение христиане в Nigeria",
-      "description": "U.S. lawmakers condemn escalating violence against христиане в Nigeria, tying future security aid правительство’s action end гонение. Read More: https://punchng.com/us-lawmakers-seek-end--гонение--христиане-в-nigeria/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-lawmakers-seek-end-to-persecution-of-christians-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-03",
-      "lat": 36.2777,
-      "lng": 59.7409,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Военные архиепископ Declares Iran War Unjust...",
-      "description": "Военные архиепископ told Catholic troops “do as little harm as you can” — и rebuked Pete Hegseth’s invocation Jesus из Pentagon press room. interview airs Пасха утро на CBS.",
-      "source": "newsapi:Thelettersfromleo.com",
-      "url": "https://www.thelettersfromleo.com/p/not-sponsored-by-the-lord-military",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-03",
-      "lat": 9.0345,
-      "lng": 7.5852,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "US lawmakers seek end гонение христиане в Nigeria",
-      "description": "U.S. lawmakers condemn escalating violence against христиане в Nigeria, tying future security aid правительство’s action end гонение. Read More: https://punchng.com/us-lawmakers-seek-end--гонение--христиане-в-nigeria/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-lawmakers-seek-end-to-persecution-of-christians-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-03",
-      "lat": 12.2416,
-      "lng": 8.4804,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "US lawmakers seek end гонение христиане в Nigeria",
-      "description": "U.S. lawmakers condemn escalating violence against христиане в Nigeria, tying future security aid правительство’s action end гонение. Read More: https://punchng.com/us-lawmakers-seek-end--гонение--христиане-в-nigeria/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-lawmakers-seek-end-to-persecution-of-christians-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-02",
-      "lat": 36.3428,
-      "lng": 59.3861,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Trump vows hit Iran 'extremely hard' amid Catholic calls для peace",
-      "description": "Президент Trump's первый address на Iran war signaled continued военные action, as Catholic leaders called для dialogue и ceasefire.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/trump-vows-to-hit-iran-extremely-hard-amid-catholic-calls-for-peace",
       "victims": 0
     }
   ]
