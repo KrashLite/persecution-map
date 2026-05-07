@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-07T13:25:15.202Z",
+    "lastUpdated": "2026-05-07T19:23:23.436Z",
     "totalEvents": 500
   },
   "events": [
@@ -264,6 +264,58 @@
       "description": "Христианские лидеры welcomed Kerala и Tamil Nadu outcomes but voiced alarm BJP's historic sweep West Bengal и третий-term win в Assam.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/india-s-state-elections-deliver-split-verdict-for-christian-community",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-06",
+      "lat": 32.7044,
+      "lng": 51.4452,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Папа Leo points церковь оппозиция nukes после Trump falsely claimed he said ‘Iran can have ядерное оружие’",
+      "description": "Папа Leo XIV pointed out май 5 that католическая церковь has long opposed nuclear arms после президент Donald Trump falsely claimed Pontiff had made “statement” saying “Iran can have ядерное оружие.”Trump reiterated accusation against",
+      "source": "newsapi:Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-religion/4377966/posts",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-06",
+      "lat": 4.301,
+      "lng": 18.4756,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "discrimination",
+      "title": "Here’s how папа Leo XIV’s surprise video call Lebanese священники в war zone went",
+      "description": "Encounter lasted only few minutes, yet those present described it as deeply moving. для clergy ministering among взорван streets, повреждён homes, и communities exhausted месяцы violence, brief conversation carried significance far g",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/05/06/heres-how-pope-leo-xivs-surprise-video-call-to-lebanese-priests-in-a-war-zone-went/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-06",
+      "lat": 14.3647,
+      "lng": 120.7628,
+      "country": "Philippines",
+      "city": "Manila",
+      "type": "other",
+      "title": "Twenty дни до his рукоположение as епископ, he says no. reason? “Personal shortcomings,” claims honest священник",
+      "description": "Announcement reverberated across Philippines, where such отказы are highly unusual в public view. Although священники sometimes decline episcopal appointments privately до they are officially announced, it is exceedingly rare для епископ",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/05/06/twenty-days-before-his-ordination-as-bishop-he-says-no-the-reason-personal-shortcomings-claims-the-honest-priest/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-06",
+      "lat": 29.4315,
+      "lng": 52.4429,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Trump accuses папа comforting Iran: ‘I think he’s endangering lot Catholics и lot люди’",
+      "description": "Папа, however, has not said Iran should obtain ядерное оружие.",
+      "source": "newsapi:Fortune",
+      "url": "https://fortune.com/2026/05/06/trump-accuses-pope-of-comforting-iran-i-think-hes-endangering-a-lot-of-catholics-and-a-lot-of-people/",
       "victims": 0
     },
     {
@@ -605,6 +657,19 @@
       "victims": 0
     },
     {
+      "date": "2026-05-05",
+      "lat": 23.359,
+      "lng": 113.5946,
+      "country": "China",
+      "city": "Guangdong",
+      "type": "arrest",
+      "title": "Папа Leo asks для truth после new criticism из Trump",
+      "description": "Though it wasn’t as widely reported, US президент Donald Trump made another comment о папа Leo на понедельник, в interview на Hugh Hewitt show. Hewitt spoke о Jimmy Lai, Catholic pro-democracy leader в Hong Kong who was приговорён Chi",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/05/05/pope-leo-asks-for-truth-after-new-criticism-from-trump/",
+      "victims": 0
+    },
+    {
       "date": "2026-05-04",
       "lat": 10.5033,
       "lng": 7.533,
@@ -914,6 +979,32 @@
       "description": "Lisa Navarrette, ICC Fellow question why правительство cannot fully contain христианин гонение в Nigeria is often asked с frustration и urgency. первый glance, it май seem like failure политический will. It is easy assume t",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/04/why-the-government-cant-get-control-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-04",
+      "lat": 9.3454,
+      "lng": 9.6398,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Nigerian армия Silent as экстремисты Kill 9, Destroy Crops",
+      "description": "Armed attackers убит least nine христиане, including Nigerian soldier, в devastating spree across плато штат. attackers also разрушен more than 40 hectares farmland в just three дни, according local sources. International C",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/04/nigerian-army-silent-as-extremists-kill-9-destroy-crops/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-04",
+      "lat": 20.7131,
+      "lng": 85.3004,
+      "country": "India",
+      "city": "Odisha",
+      "type": "other",
+      "title": "Three годы позже, Manipur христиане Still на Edge",
+      "description": "There’s no end в sight ethnic conflict that began three годы ago between христианин-majority Kuki-Zo и индус Meitei communities в Manipur, India. Even though месса riots have tapered off, armed и bloody violence в штат has effec",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/04/three-years-later-manipur-christians-still-on-edge/",
       "victims": 0
     },
     {
@@ -6413,97 +6504,6 @@
       "description": "NDLEA operatives арестован Lagos пастор и his wife после discovering 11 kilograms skunk concealed в hidden compartments their vehicle checkp Read More: https://punchng.com/ndlea-аресты-пастор-wife-с-drugs-hidden-в-vehicle/",
       "source": "punchng",
       "url": "https://punchng.com/ndlea-arrests-pastor-wife-with-drugs-hidden-in-vehicle/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-05",
-      "lat": 10.4084,
-      "lng": 7.2086,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Nigeria will rise снова despite испытания – CAN",
-      "description": "Христианин Association Nigeria (CAN) has urged Nigerians remain hopeful и united, asserting that country possesses resilience overcome its current socio-economic и security испытания. CAN президент, архиепископ Daniel Okoh",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/04/nigeria-will-rise-again-despite-challenges-can/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-05",
-      "lat": 9.0078,
-      "lng": 9.6777,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Пасха: CAN urges Nigerians unite, rise above испытания",
-      "description": "Read христианин Association Nigeria’s (CAN) Пасха message urging citizens unite, embrace hope, и rise above nation’s current испытания. Read More: https://punchng.com/Пасха-can-urges-nigerians--unite-rise-above-испытания/",
-      "source": "punchng",
-      "url": "https://punchng.com/easter-can-urges-nigerians-to-unite-rise-above-challenges/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-05",
-      "lat": 19.6009,
-      "lng": -99.113,
-      "country": "Mexico",
-      "city": "Mexico City",
-      "type": "other",
-      "title": "U.S., Canadian seminarians prepare в Mexico serve Hispanic community",
-      "description": "Seminary was established в Mexico в 1999 serve growing Hispanic community в North America, forming future священники who learn Spanish as well as ecclesial и cultural traditions.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/americas/us-canadian-seminarians-prepare-in-mexico-to-serve-hispanic-community",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-05",
-      "lat": 36.4147,
-      "lng": 43.1882,
-      "country": "Iraq",
-      "city": "Mosul",
-      "type": "other",
-      "title": "New Iraq report urges stronger action protect христиане и other религиозный minorities",
-      "description": "Jim Shannon MP said report records both “ progress observed” и “ ongoing испытания” that remain для религиозный minorities seeking live в safety и freedom в Iraq.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/new-iraq-report-urges-stronger-action-to-protect-christians-and-other-religious-minorities",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-05",
-      "lat": 4.5288,
-      "lng": 18.4518,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "discrimination",
-      "title": "Indonesia церковь вынужден Close после Good пятница Celebration",
-      "description": "Власти закрыт Thessalonika христианин Ecumenical Fellowship церковь в Teluknaga, Indonesia, после services на пятница “building permit issue,” forcing приход богослужение elsewhere на Пасха. Tangerang Regency Public Order U",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/05/indonesia-church-forced-to-close-after-good-friday-celebration/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-05",
-      "lat": 8.9708,
-      "lng": 7.5962,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "Пасха: ‘Nigeria will rise, if leaders act сейчас’ — CAN",
-      "description": "Apex христианин body spoke national mood, urging both leaders и citizens see Пасха сезон as opportunity turn things around through action, unity, и shared resolve. post Пасха: ‘Nigeria will rise, if leaders act сейчас’",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/04/easter-nigeria-will-rise-if-leaders-act-now-can/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-05",
-      "lat": 6.5185,
-      "lng": 3.4318,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "kidnapping",
-      "title": "Troops foil Kaduna церковь атака, rescue 31 похищен прихожане",
-      "description": "Ibrahim Hassan-Wuyo Kaduna — Troops Nigerian армия have foiled террорист атака и rescued 31 прихожане похищен во время Пасха service в Ariko деревня, Kachia Local правительство Area Kaduna штат. swift военные response follow",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/04/troops-foil-kaduna-church-attack-rescue-31-abducted-worshippers/",
       "victims": 0
     }
   ]
