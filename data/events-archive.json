@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-08T13:05:10.423Z",
+    "lastUpdated": "2026-05-08T19:01:57.321Z",
     "totalEvents": 500
   },
   "events": [
@@ -95,6 +95,45 @@
       "description": "US lawmaker is urging Trump administration take forceful action protect христиане following deadly плато атака на mourners в Nigeria. Read More: https://punchng.com/us-lawmaker-urges-trump--take-forceful-action--плато-atta",
       "source": "newsapi:The Punch",
       "url": "https://punchng.com/us-lawmaker-urges-trump-to-take-forceful-action-over-plateau-attack/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-07",
+      "lat": 12.002,
+      "lng": 13.3242,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "discrimination",
+      "title": "Joe Lonsdale: религиозный гонение в Nigeria is critical global issue, Iran’s destabilizing influence на Lebanon, и US is poised для nuclear energy resurgence | Shawn Ryan Show",
+      "description": "Религиозный tensions в Nigeria highlight global impact экстремист groups и geopolitical instability. post Joe Lonsdale: религиозный гонение в Nigeria is critical global issue, Iran’s destabilizing influence на Lebanon, и US is p",
+      "source": "newsapi:Crypto Briefing",
+      "url": "https://cryptobriefing.com/joe-lonsdale-religious-persecution-in-nigeria-is-a-critical-global-issue-irans-destabilizing-influence-on-lebanon-and-the-us-is-poised-for-a-nuclear-energy-resurgence-shawn-ryan-show/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-07",
+      "lat": 9.2721,
+      "lng": 7.4927,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "US lawmaker urges Trump take ‘forceful action’ плато атака",
+      "description": "US lawmaker is urging Trump administration take forceful action protect христиане following deadly плато атака на mourners в Nigeria. Read More: https://punchng.com/us-lawmaker-urges-trump--take-forceful-action--плато-atta",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-lawmaker-urges-trump-to-take-forceful-action-over-plateau-attack/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-07",
+      "lat": 4.3315,
+      "lng": 18.5456,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "discrimination",
+      "title": "Cigarette в mouth statue Virgin Mary: controversial act Israeli soldier в Lebanon",
+      "description": "Для many христиане в регион, cumulative effect these incidents is generating growing anxiety о their already precarious future в Middle East post cigarette в mouth statue Virgin Mary: controversial act",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/05/07/a-cigarette-in-the-mouth-of-a-statue-of-the-virgin-mary-the-controversial-act-of-an-israeli-soldier-in-lebanon/",
       "victims": 0
     },
     {
@@ -837,6 +876,19 @@
       "source": "newsapi:Freerepublic.com",
       "url": "https://freerepublic.com/focus/f-religion/4377685/posts",
       "victims": 0
+    },
+    {
+      "date": "2026-05-05",
+      "lat": 6.6621,
+      "lng": 3.1353,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "12 христиане убит в Nigeria",
+      "description": "Террористы из Исламское государство West Africa провинция (ISWAP) убит least 12 люди и сожжён церковь building в атака на христианин деревня в northeastern Nigeria’s Adamawa штат, according international христианин aid organizati",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/12-christians-killed-in-nigeria",
+      "victims": 12
     },
     {
       "date": "2026-05-04",
@@ -6447,58 +6499,6 @@
       "lng": 12.968,
       "country": "Nigeria",
       "city": "Borno",
-      "type": "murder",
-      "title": "Dozens убит в Пасха атаки Across Nigeria",
-      "description": "Дни после Palm воскресенье резня в Jos left least 30 христиане погибшие, coordinated Пасха выходные атаки across central Nigeria claimed dozens more lives, с multiple communities в Benue, Kaduna, и Nasarawa штаты reporting убийства, abdu",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/06/dozens-killed-in-easter-attacks-across-nigeria/",
-      "victims": 30
-    },
-    {
-      "date": "2026-04-06",
-      "lat": 12.1539,
-      "lng": 8.3828,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Suspected джихадисты Terrorize христиане Throughout Nigeria на Пасха",
-      "description": "Nigerian христиане experienced deadly suspected джихадист атаки в least five штаты на Пасха воскресенье. post Suspected джихадисты Terrorize христиане Throughout Nigeria на Пасха appeared первый на Breitbart.",
-      "source": "newsapi:Breitbart News",
-      "url": "https://www.breitbart.com/africa/2026/04/06/suspected-jihadists-terrorize-christians-throughout-nigeria-easter/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-06",
-      "lat": 11.6067,
-      "lng": 12.9443,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Suspected джихадисты Terrorize христиане Throughout Nigeria на Пасха",
-      "description": "Nigerian христиане experienced deadly suspected джихадист атаки в least five штаты на Пасха воскресенье. post Suspected джихадисты Terrorize христиане Throughout Nigeria на Пасха appeared первый на Breitbart.",
-      "source": "newsapi:Breitbart News",
-      "url": "https://www.breitbart.com/africa/2026/04/06/suspected-jihadists-terrorize-christians-throughout-nigeria-easter/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-06",
-      "lat": 21.368,
-      "lng": 81.9259,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "discrimination",
-      "title": "Христианская школа закрыт в Rajasthan, India",
-      "description": "Often targeted фанатик groups, христианская школа в Rajasthan, India, had its license revoked на прошлой неделе following allegations “brainwashing” дети и severe operational deficiencies found во время inspections. St. Paul школа в Patela,",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/06/christian-school-closed-in-rajasthan-india/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-06",
-      "lat": 12.1044,
-      "lng": 8.5264,
-      "country": "Nigeria",
-      "city": "Kano",
       "type": "murder",
       "title": "Dozens убит в Пасха атаки Across Nigeria",
       "description": "Дни после Palm воскресенье резня в Jos left least 30 христиане погибшие, coordinated Пасха выходные атаки across central Nigeria claimed dozens more lives, с multiple communities в Benue, Kaduna, и Nasarawa штаты reporting убийства, abdu",
