@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-08T01:47:46.178Z",
+    "lastUpdated": "2026-05-08T07:13:24.629Z",
     "totalEvents": 500
   },
   "events": [
@@ -397,6 +397,19 @@
       "victims": 0
     },
     {
+      "date": "2026-05-06",
+      "lat": 29.353,
+      "lng": 52.8246,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Папа Leo points церковь оппозиция nukes после Trump falsely claimed he said ‘Iran can have ядерное оружие’",
+      "description": "Папа Leo XIV pointed out май 5 that католическая церковь has long opposed nuclear arms после президент Donald Trump falsely claimed Pontiff had made “statement” saying “Iran can have ядерное оружие.”Trump reiterated accusation against",
+      "source": "newsapi:Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-religion/4377966/posts",
+      "victims": 0
+    },
+    {
       "date": "2026-05-05",
       "lat": 15.3869,
       "lng": 32.809,
@@ -758,6 +771,19 @@
       "description": "Three Korean миссионеры задержан для more than десятилетие в North Korea will receive Graciela Fernandez Meijide Human Rights Award в август в absentia. three мужчины — Choi Chun-gil, Kim Jong-Uk, и Kim Kuk-gi — were helping North Korean defe",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/05/north-korea-prisoners-to-receive-human-rights-award/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-05",
+      "lat": 11.6523,
+      "lng": 12.9473,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "Exclusive из Nigeria: христианская семья сожжён Alive",
+      "description": "Thousands христиане have been убит, leaving 400 widows struggling для survival после being перемещён фулани исламский экстремисты. Photo Antonio Graceffo. Driving из Nigeria’s столица город Abuja toward Jos, one enters kill zone",
+      "source": "newsapi:Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-religion/4377685/posts",
       "victims": 0
     },
     {
@@ -6473,32 +6499,6 @@
       "lng": 3.2018,
       "country": "Nigeria",
       "city": "Lagos",
-      "type": "murder",
-      "title": "Suspected джихадисты Terrorize христиане Throughout Nigeria на Пасха",
-      "description": "Nigerian христиане experienced deadly suspected джихадист атаки в least five штаты на Пасха воскресенье. post Suspected джихадисты Terrorize христиане Throughout Nigeria на Пасха appeared первый на Breitbart.",
-      "source": "newsapi:Breitbart News",
-      "url": "https://www.breitbart.com/africa/2026/04/06/suspected-jihadists-terrorize-christians-throughout-nigeria-easter/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-06",
-      "lat": 26.9228,
-      "lng": 81.1229,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "discrimination",
-      "title": "Христианская школа закрыт в Rajasthan, India",
-      "description": "Often targeted фанатик groups, христианская школа в Rajasthan, India, had its license revoked на прошлой неделе following allegations “brainwashing” дети и severe operational deficiencies found во время inspections. St. Paul школа в Patela,",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/06/christian-school-closed-in-rajasthan-india/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-06",
-      "lat": 9.4581,
-      "lng": 9.6297,
-      "country": "Nigeria",
-      "city": "Plateau",
       "type": "murder",
       "title": "Suspected джихадисты Terrorize христиане Throughout Nigeria на Пасха",
       "description": "Nigerian христиане experienced deadly suspected джихадист атаки в least five штаты на Пасха воскресенье. post Suspected джихадисты Terrorize христиане Throughout Nigeria на Пасха appeared первый на Breitbart.",
