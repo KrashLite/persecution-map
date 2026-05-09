@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-08T19:01:57.321Z",
+    "lastUpdated": "2026-05-09T01:31:35.953Z",
     "totalEvents": 500
   },
   "events": [
@@ -44,6 +44,19 @@
       "source": "crux",
       "url": "https://cruxnow.com/church-in-the-americas/2026/05/amid-guerrilla-attacks-and-ahead-of-elections-church-calls-for-peace-and-protection-of-the-vulnerable-in-colombia/",
       "victims": 0
+    },
+    {
+      "date": "2026-05-08",
+      "lat": 8.9123,
+      "lng": 7.3541,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "ICC Releases Report Exposing Nigeria’s $10 Million геноцид Cover-Up",
+      "description": "New report из International христианин Concern (ICC) highlights how Nigeria’s правительство is weaponizing misinformation hide десятилетия-long кампания violence against христиане. Written ICC Fellow Justin Joseph, “Nigeria’s $10 Million Geno",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/08/icc-releases-report-exposing-nigerias-10-million-genocide-cover-up/",
+      "victims": 190
     },
     {
       "date": "2026-05-07",
@@ -134,6 +147,32 @@
       "description": "Для many христиане в регион, cumulative effect these incidents is generating growing anxiety о their already precarious future в Middle East post cigarette в mouth statue Virgin Mary: controversial act",
       "source": "zenit",
       "url": "https://zenit.org/2026/05/07/a-cigarette-in-the-mouth-of-a-statue-of-the-virgin-mary-the-controversial-act-of-an-israeli-soldier-in-lebanon/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-07",
+      "lat": 9.1445,
+      "lng": 7.5283,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "discrimination",
+      "title": "Joe Lonsdale: религиозный гонение в Nigeria is critical global issue, Iran’s destabilizing influence на Lebanon, и US is poised для nuclear energy resurgence | Shawn Ryan Show",
+      "description": "Религиозный tensions в Nigeria highlight global impact экстремист groups и geopolitical instability. post Joe Lonsdale: религиозный гонение в Nigeria is critical global issue, Iran’s destabilizing influence на Lebanon, и US is p",
+      "source": "newsapi:Crypto Briefing",
+      "url": "https://cryptobriefing.com/joe-lonsdale-religious-persecution-in-nigeria-is-a-critical-global-issue-irans-destabilizing-influence-on-lebanon-and-the-us-is-poised-for-a-nuclear-energy-resurgence-shawn-ryan-show/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-07",
+      "lat": 9.0799,
+      "lng": 9.4587,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "US lawmaker urges Trump take ‘forceful action’ плато атака",
+      "description": "US lawmaker is urging Trump administration take forceful action protect христиане following deadly плато атака на mourners в Nigeria. Read More: https://punchng.com/us-lawmaker-urges-trump--take-forceful-action--плато-atta",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-lawmaker-urges-trump-to-take-forceful-action-over-plateau-attack/",
       "victims": 0
     },
     {
@@ -6466,45 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/04/06/christian-school-closed-in-rajasthan-india/",
       "victims": 0
-    },
-    {
-      "date": "2026-04-06",
-      "lat": 24.6735,
-      "lng": 66.867,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "kidnapping",
-      "title": "13-год-Old христианин Girl Returned Alleged Abductor после суд Ruling",
-      "description": "Future young христианин girl has taken heartbreaking turn после суд decision allowed her remain с мужчина her семья said had похищен и forcibly converted her, raising deep concerns among Pakistan’s христианская община. Maria Sha",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/06/13-year-old-christian-girl-returned-to-alleged-abductor-after-court-ruling/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-06",
-      "lat": 33.6291,
-      "lng": 73.0206,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "kidnapping",
-      "title": "13-год-Old христианин Girl Returned Alleged Abductor после суд Ruling",
-      "description": "Future young христианин girl has taken heartbreaking turn после суд decision allowed her remain с мужчина her семья said had похищен и forcibly converted her, raising deep concerns among Pakistan’s христианская община. Maria Sha",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/06/13-year-old-christian-girl-returned-to-alleged-abductor-after-court-ruling/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-06",
-      "lat": 12.078,
-      "lng": 12.968,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Dozens убит в Пасха атаки Across Nigeria",
-      "description": "Дни после Palm воскресенье резня в Jos left least 30 христиане погибшие, coordinated Пасха выходные атаки across central Nigeria claimed dozens more lives, с multiple communities в Benue, Kaduna, и Nasarawa штаты reporting убийства, abdu",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/06/dozens-killed-in-easter-attacks-across-nigeria/",
-      "victims": 30
     }
   ]
 }
