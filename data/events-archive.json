@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-09T12:47:04.454Z",
+    "lastUpdated": "2026-05-09T18:41:57.988Z",
     "totalEvents": 500
   },
   "events": [
@@ -82,6 +82,32 @@
       "description": "Церковь leaders в northern Mozambique have renewed calls для peace и религиозный unity после боевики разрушен historic церковь во время violent рейд в Cabo Delgado провинция.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/historic-mozambique-church-destroyed-in-extremist-attack-as-church-leaders-appeal-for-peace",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-08",
+      "lat": 10.4761,
+      "lng": 7.6375,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "ICC Releases Report Exposing Nigeria’s $10 Million геноцид Cover-Up",
+      "description": "New report из International христианин Concern (ICC) highlights how Nigeria’s правительство is weaponizing misinformation hide десятилетия-long кампания violence against христиане. Written ICC Fellow Justin Joseph, “Nigeria’s $10 Million Geno",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/08/icc-releases-report-exposing-nigerias-10-million-genocide-cover-up/",
+      "victims": 190
+    },
+    {
+      "date": "2026-05-08",
+      "lat": 26.8235,
+      "lng": 80.7394,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "attack",
+      "title": "Христиане decry гонение в India's heartland",
+      "description": "С христиане в India increasingly targeted индус дружинники, жертвы say полиция often side с their attackers.",
+      "source": "newsapi:DW (English)",
+      "url": "https://www.dw.com/en/christians-decry-persecution-in-indias-heartland/a-77095929",
       "victims": 0
     },
     {
@@ -1019,6 +1045,19 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/12-christians-killed-in-nigeria",
       "victims": 12
+    },
+    {
+      "date": "2026-05-05",
+      "lat": 31.3138,
+      "lng": 121.319,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "arrest",
+      "title": "North Korea Prisoners Receive Human Rights Award",
+      "description": "Three Korean миссионеры задержан для more than десятилетие в North Korea will receive Graciela Fernandez Meijide Human Rights Award в август в absentia. three мужчины — Choi Chun-gil, Kim Jong-Uk, и Kim Kuk-gi — were helping North Korean defe",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/05/north-korea-prisoners-to-receive-human-rights-award/",
+      "victims": 0
     },
     {
       "date": "2026-05-04",
@@ -6465,45 +6504,6 @@
       "description": "He disclosed that семьи жертвы are still в communication с abductors, who have reportedly confirmed that жертвы remain alive в плен. post Kaduna community denies rescue 31 похищен прихожане appeared первый на Va",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/04/kaduna-community-denies-rescue-of-31-abducted-worshippers/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-06",
-      "lat": 8.8697,
-      "lng": 7.5414,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Пасха: Yilwatda urges Nigerians remain hopeful, pray для nation",
-      "description": "He described Пасха as cornerstone христианская вера и сезон that reminded верующие redemptive sacrifice, смерть, и resurrection Jesus Christ. post Пасха: Yilwatda urges Nigerians remain hopeful, pray для nation appe",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/04/easter-yilwatda-urges-nigerians-to-remain-hopeful-pray-for-nation/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-06",
-      "lat": 11.783,
-      "lng": 13.1055,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "VIDEO: Actress Sunshine Rosman laments insecurity, economic лишения",
-      "description": "Nollywood actress Sunshine Rosman expresses deep frustration rising insecurity, economic испытания, и убийства христиане в Northern Nigeria. Read More: https://punchng.com/video-actress-sunshine-rosman-laments-insecurity-economic-hardsh",
-      "source": "punchng",
-      "url": "https://punchng.com/video-actress-sunshine-rosman-laments-insecurity-economic-hardship/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-06",
-      "lat": 10.4294,
-      "lng": 7.4507,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "kidnapping",
-      "title": "Kaduna community denies reported rescue 31 похищен прихожане",
-      "description": "Ibrahim Hassan-Wuyo community group в Kaduna штат has refuted claims that 31 прихожане похищен во время Пасха service в Ariko community, Kachia Local правительство Area, have been rescued Nigerian армия, describing reports as fals",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/04/kaduna-community-denies-reported-rescue-of-31-abducted-worshippers/",
       "victims": 0
     }
   ]
