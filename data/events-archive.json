@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-09T01:31:35.953Z",
+    "lastUpdated": "2026-05-09T07:30:05.652Z",
     "totalEvents": 500
   },
   "events": [
@@ -57,6 +57,32 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/05/08/icc-releases-report-exposing-nigerias-10-million-genocide-cover-up/",
       "victims": 190
+    },
+    {
+      "date": "2026-05-08",
+      "lat": 6.6391,
+      "lng": 3.1748,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "ICC Releases Report Exposing Nigeria’s $10 Million геноцид Cover-Up",
+      "description": "New report из International христианин Concern (ICC) highlights how Nigeria’s правительство is weaponizing misinformation hide десятилетия-long кампания violence against христиане. Written ICC Fellow Justin Joseph, “Nigeria’s $10 Million Geno",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/08/icc-releases-report-exposing-nigerias-10-million-genocide-cover-up/",
+      "victims": 190
+    },
+    {
+      "date": "2026-05-08",
+      "lat": -26.0469,
+      "lng": 32.7276,
+      "country": "Mozambique",
+      "city": "Maputo",
+      "type": "attack",
+      "title": "Historic Mozambique церковь разрушен в экстремист атака as церковь leaders appeal для peace",
+      "description": "Церковь leaders в northern Mozambique have renewed calls для peace и религиозный unity после боевики разрушен historic церковь во время violent рейд в Cabo Delgado провинция.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/historic-mozambique-church-destroyed-in-extremist-attack-as-church-leaders-appeal-for-peace",
+      "victims": 0
     },
     {
       "date": "2026-05-07",
@@ -168,6 +194,19 @@
       "lng": 9.4587,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "murder",
+      "title": "US lawmaker urges Trump take ‘forceful action’ плато атака",
+      "description": "US lawmaker is urging Trump administration take forceful action protect христиане following deadly плато атака на mourners в Nigeria. Read More: https://punchng.com/us-lawmaker-urges-trump--take-forceful-action--плато-atta",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-lawmaker-urges-trump-to-take-forceful-action-over-plateau-attack/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-07",
+      "lat": 11.9538,
+      "lng": 8.6222,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "murder",
       "title": "US lawmaker urges Trump take ‘forceful action’ плато атака",
       "description": "US lawmaker is urging Trump administration take forceful action protect христиане following deadly плато атака на mourners в Nigeria. Read More: https://punchng.com/us-lawmaker-urges-trump--take-forceful-action--плато-atta",
@@ -6460,45 +6499,6 @@
       "lng": 77.1051,
       "country": "India",
       "city": "Delhi",
-      "type": "discrimination",
-      "title": "Христианская школа закрыт в Rajasthan, India",
-      "description": "Often targeted фанатик groups, христианская школа в Rajasthan, India, had its license revoked на прошлой неделе following allegations “brainwashing” дети и severe operational deficiencies found во время inspections. St. Paul школа в Patela,",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/06/christian-school-closed-in-rajasthan-india/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-06",
-      "lat": 31.495,
-      "lng": 74.1899,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "kidnapping",
-      "title": "13-год-Old христианин Girl Returned Alleged Abductor после суд Ruling",
-      "description": "Future young христианин girl has taken heartbreaking turn после суд decision allowed her remain с мужчина her семья said had похищен и forcibly converted her, raising deep concerns among Pakistan’s христианская община. Maria Sha",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/06/13-year-old-christian-girl-returned-to-alleged-abductor-after-court-ruling/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-06",
-      "lat": 10.3653,
-      "lng": 7.21,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Dozens убит в Пасха атаки Across Nigeria",
-      "description": "Дни после Palm воскресенье резня в Jos left least 30 христиане погибшие, coordinated Пасха выходные атаки across central Nigeria claimed dozens more lives, с multiple communities в Benue, Kaduna, и Nasarawa штаты reporting убийства, abdu",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/06/dozens-killed-in-easter-attacks-across-nigeria/",
-      "victims": 30
-    },
-    {
-      "date": "2026-04-06",
-      "lat": 21.0627,
-      "lng": 84.9612,
-      "country": "India",
-      "city": "Odisha",
       "type": "discrimination",
       "title": "Христианская школа закрыт в Rajasthan, India",
       "description": "Often targeted фанатик groups, христианская школа в Rajasthan, India, had its license revoked на прошлой неделе following allegations “brainwashing” дети и severe operational deficiencies found во время inspections. St. Paul школа в Patela,",
