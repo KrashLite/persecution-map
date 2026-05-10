@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-10T07:53:00.903Z",
+    "lastUpdated": "2026-05-10T12:47:38.282Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-05-10",
+      "lat": 4.5957,
+      "lng": 18.3881,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "Кардинал: Leo XIV is unifier, but will surprise us",
+      "description": "“reliable и constant” мужчина who speaks “without guile” и will be able embody unifying figure в католическая церковь through his “audacious wisdom”: this is how кардинал Jean-Paul Vesco describes папа Leo XIV. One год после participating в",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/05/10/cardinal-leo-xiv-is-a-unifier-but-will-surprise-us/",
+      "victims": 0
+    },
     {
       "date": "2026-05-08",
       "lat": -12.4376,
@@ -135,6 +148,32 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/05/08/icc-releases-report-exposing-nigerias-10-million-genocide-cover-up/",
       "victims": 190
+    },
+    {
+      "date": "2026-05-08",
+      "lat": 11.8385,
+      "lng": 13.3988,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "ICC Releases Report Exposing Nigeria’s $10 Million геноцид Cover-Up",
+      "description": "New report из International христианин Concern (ICC) highlights how Nigeria’s правительство is weaponizing misinformation hide десятилетия-long кампания violence against христиане. Written ICC Fellow Justin Joseph, “Nigeria’s $10 Million Geno",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/08/icc-releases-report-exposing-nigerias-10-million-genocide-cover-up/",
+      "victims": 190
+    },
+    {
+      "date": "2026-05-08",
+      "lat": 28.9489,
+      "lng": 76.9646,
+      "country": "India",
+      "city": "Delhi",
+      "type": "attack",
+      "title": "Христиане decry гонение в India's heartland",
+      "description": "С христиане в India increasingly targeted индус дружинники, жертвы say полиция often side с their attackers.",
+      "source": "newsapi:DW (English)",
+      "url": "https://www.dw.com/en/christians-decry-persecution-in-indias-heartland/a-77095929",
+      "victims": 0
     },
     {
       "date": "2026-05-07",
@@ -298,6 +337,19 @@
       "lng": 7.402,
       "country": "Nigeria",
       "city": "Kaduna",
+      "type": "discrimination",
+      "title": "Joe Lonsdale: религиозный гонение в Nigeria is critical global issue, Iran’s destabilizing influence на Lebanon, и US is poised для nuclear energy resurgence | Shawn Ryan Show",
+      "description": "Религиозный tensions в Nigeria highlight global impact экстремист groups и geopolitical instability. post Joe Lonsdale: религиозный гонение в Nigeria is critical global issue, Iran’s destabilizing influence на Lebanon, и US is p",
+      "source": "newsapi:Crypto Briefing",
+      "url": "https://cryptobriefing.com/joe-lonsdale-religious-persecution-in-nigeria-is-a-critical-global-issue-irans-destabilizing-influence-on-lebanon-and-the-us-is-poised-for-a-nuclear-energy-resurgence-shawn-ryan-show/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-07",
+      "lat": 12.0771,
+      "lng": 8.4253,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "discrimination",
       "title": "Joe Lonsdale: религиозный гонение в Nigeria is critical global issue, Iran’s destabilizing influence на Lebanon, и US is poised для nuclear energy resurgence | Shawn Ryan Show",
       "description": "Религиозный tensions в Nigeria highlight global impact экстремист groups и geopolitical instability. post Joe Lonsdale: религиозный гонение в Nigeria is critical global issue, Iran’s destabilizing influence на Lebanon, и US is p",
@@ -6453,58 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/04/07/two-pastors-injured-in-attack-during-holy-week-in-india/",
       "victims": 0
-    },
-    {
-      "date": "2026-04-07",
-      "lat": 34.016,
-      "lng": 71.7225,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "murder",
-      "title": "Пасха Mourning: 1 погибшие, Dozens ранен после Truck Rams в Sunrise Procession",
-      "description": "Time spiritual celebration turned в scene devastation рано Пасха воскресенье когда speeding cargo truck plowed в христианин sunrise procession в Wazirabad район Punjab, Pakistan. incident has left one мужчина погибшие и more t",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/07/easter-mourning-1-dead-dozens-injured-after-truck-rams-into-sunrise-procession/",
-      "victims": 1
-    },
-    {
-      "date": "2026-04-07",
-      "lat": 34.042,
-      "lng": 71.3744,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "discrimination",
-      "title": "‘из chaos в new life’: Pakistan’s largest diocese installs new архиепископ",
-      "description": "Installation архиепископ Khalid Rehmat closes turbulent chapter для Pakistan’s largest Catholic diocese.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/from-chaos-into-new-life-pakistan-s-largest-diocese-installs-new-archbishop",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-07",
-      "lat": 20.9027,
-      "lng": 85.3284,
-      "country": "India",
-      "city": "Odisha",
-      "type": "attack",
-      "title": "Viral against Israel, silent о every other travesty",
-      "description": "Israeli полиция protecting кардинал vs. исламский террористы убийство христиане. Who does West villify? It’s same perverse logic that turned Gaza в global obsession пока ignoring Chinese лагеря для Uyghurs, церковь burnings в India, behe",
-      "source": "newsapi:Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/425175",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-07",
-      "lat": 6.3222,
-      "lng": 3.3029,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "12 христиане убит в Пасха воскресенье церковь атаки в Nigeria",
-      "description": "Фулани террористы убит 12 христиане в атаки на two богослужение services на Пасха воскресенье в Kaduna штат, Nigeria, following убийство 17 христиане в Benue штат, sources said.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/12-christians-killed-in-easter-sunday-church-attacks-in-nigeria",
-      "victims": 12
     }
   ]
 }
