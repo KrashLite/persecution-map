@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-10T12:47:38.282Z",
+    "lastUpdated": "2026-05-10T18:43:40.968Z",
     "totalEvents": 500
   },
   "events": [
@@ -174,6 +174,19 @@
       "source": "newsapi:DW (English)",
       "url": "https://www.dw.com/en/christians-decry-persecution-in-indias-heartland/a-77095929",
       "victims": 0
+    },
+    {
+      "date": "2026-05-08",
+      "lat": 12.0911,
+      "lng": 8.4761,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "ICC Releases Report Exposing Nigeria’s $10 Million геноцид Cover-Up",
+      "description": "New report из International христианин Concern (ICC) highlights how Nigeria’s правительство is weaponizing misinformation hide десятилетия-long кампания violence against христиане. Written ICC Fellow Justin Joseph, “Nigeria’s $10 Million Geno",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/08/icc-releases-report-exposing-nigerias-10-million-genocide-cover-up/",
+      "victims": 190
     },
     {
       "date": "2026-05-07",
@@ -732,6 +745,19 @@
       "description": "Христианские лидеры welcomed Kerala и Tamil Nadu outcomes but voiced alarm BJP's historic sweep West Bengal и третий-term win в Assam.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/india-s-state-elections-deliver-split-verdict-for-christian-community",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-06",
+      "lat": 6.4764,
+      "lng": 3.4083,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Христиане must defend themselves amid rising гонение, Nigerian prelate says",
+      "description": "Following resurgence violence в Nigeria, judicial vicar порт Harcourt Diocese has called для христиане promote peace пока not ignoring need protect their lives.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/christians-must-defend-themselves-amid-rising-persecution-nigerian-prelate-says",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Leader католическая церковь has denounced Donald Trump’s warmongering rhetoric.папа Leo XIV described U.S. президент’s recent угрозы obliterate Iranian civilization as “truly unacceptable.”“сегодня as we all know there was this угроза aga",
       "source": "newsapi:The New Republic",
       "url": "https://newrepublic.com/post/208755/pope-leo-donald-trump-threat-destroy-iran",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-07",
-      "lat": 19.3157,
-      "lng": 72.6511,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "attack",
-      "title": "Viral against Israel, silent о every other travesty",
-      "description": "Israeli полиция protecting кардинал vs. исламский террористы убийство христиане. Who does West villify? It’s same perverse logic that turned Gaza в global obsession пока ignoring Chinese лагеря для Uyghurs, церковь burnings в India, behe",
-      "source": "newsapi:Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/425175",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-07",
-      "lat": 20.7691,
-      "lng": 85.249,
-      "country": "India",
-      "city": "Odisha",
-      "type": "attack",
-      "title": "Two пасторы ранен в атака во время Holy неделя в India",
-      "description": "Two пасторы were атакован во время Holy неделя в Karnataka, India, as they distributed христианин literature в деревня в Shivamogga район. According local sources, на март 31, пасторы, who are part Brethren собрание, visited neighbo",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/07/two-pastors-injured-in-attack-during-holy-week-in-india/",
       "victims": 0
     }
   ]
