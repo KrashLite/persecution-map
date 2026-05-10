@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-09T18:41:57.988Z",
+    "lastUpdated": "2026-05-10T01:44:20.734Z",
     "totalEvents": 500
   },
   "events": [
@@ -103,6 +103,19 @@
       "lng": 80.7394,
       "country": "India",
       "city": "Uttar Pradesh",
+      "type": "attack",
+      "title": "Христиане decry гонение в India's heartland",
+      "description": "С христиане в India increasingly targeted индус дружинники, жертвы say полиция often side с their attackers.",
+      "source": "newsapi:DW (English)",
+      "url": "https://www.dw.com/en/christians-decry-persecution-in-indias-heartland/a-77095929",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-08",
+      "lat": 20.9175,
+      "lng": 85.1642,
+      "country": "India",
+      "city": "Odisha",
       "type": "attack",
       "title": "Христиане decry гонение в India's heartland",
       "description": "С христиане в India increasingly targeted индус дружинники, жертвы say полиция often side с their attackers.",
@@ -264,6 +277,19 @@
       "description": "US lawmaker is urging Trump administration take forceful action protect христиане following deadly плато атака на mourners в Nigeria. Read More: https://punchng.com/us-lawmaker-urges-trump--take-forceful-action--плато-atta",
       "source": "newsapi:The Punch",
       "url": "https://punchng.com/us-lawmaker-urges-trump-to-take-forceful-action-over-plateau-attack/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-07",
+      "lat": 10.6306,
+      "lng": 7.402,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "discrimination",
+      "title": "Joe Lonsdale: религиозный гонение в Nigeria is critical global issue, Iran’s destabilizing influence на Lebanon, и US is poised для nuclear energy resurgence | Shawn Ryan Show",
+      "description": "Религиозный tensions в Nigeria highlight global impact экстремист groups и geopolitical instability. post Joe Lonsdale: религиозный гонение в Nigeria is critical global issue, Iran’s destabilizing influence на Lebanon, и US is p",
+      "source": "newsapi:Crypto Briefing",
+      "url": "https://cryptobriefing.com/joe-lonsdale-religious-persecution-in-nigeria-is-a-critical-global-issue-irans-destabilizing-influence-on-lebanon-and-the-us-is-poised-for-a-nuclear-energy-resurgence-shawn-ryan-show/",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Lagos пастор и his wife were арестован NDLEA operatives после 11kg skunk was found hidden в their vehicle Seme border контрольно-пропускной пункт. Read More: https://punchng.com/lagos-пастор-wife-nabbed-с-illicit-drugs/",
       "source": "punchng",
       "url": "https://punchng.com/lagos-pastor-wife-nabbed-with-illicit-drugs/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-06",
-      "lat": 10.6357,
-      "lng": 7.4,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "kidnapping",
-      "title": "Kaduna community denies rescue 31 похищен прихожане",
-      "description": "Kaduna community group has отказано reports that 31 похищен прихожане were rescued, stating all жертвы из Пасха атака remain в плен. Read More: https://punchng.com/kaduna-community-denies-rescue--31-похищен-прихожане/",
-      "source": "punchng",
-      "url": "https://punchng.com/kaduna-community-denies-rescue-of-31-abducted-worshippers/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-06",
-      "lat": 11.8959,
-      "lng": 13.1196,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "kidnapping",
-      "title": "Kaduna community denies rescue 31 похищен прихожане",
-      "description": "He disclosed that семьи жертвы are still в communication с abductors, who have reportedly confirmed that жертвы remain alive в плен. post Kaduna community denies rescue 31 похищен прихожане appeared первый на Va",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/04/kaduna-community-denies-rescue-of-31-abducted-worshippers/",
       "victims": 0
     }
   ]
