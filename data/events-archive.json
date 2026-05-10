@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-10T01:44:20.734Z",
+    "lastUpdated": "2026-05-10T07:53:00.903Z",
     "totalEvents": 500
   },
   "events": [
@@ -122,6 +122,19 @@
       "source": "newsapi:DW (English)",
       "url": "https://www.dw.com/en/christians-decry-persecution-in-indias-heartland/a-77095929",
       "victims": 0
+    },
+    {
+      "date": "2026-05-08",
+      "lat": 9.1008,
+      "lng": 9.3384,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "ICC Releases Report Exposing Nigeria’s $10 Million геноцид Cover-Up",
+      "description": "New report из International христианин Concern (ICC) highlights how Nigeria’s правительство is weaponizing misinformation hide десятилетия-long кампания violence against христиане. Written ICC Fellow Justin Joseph, “Nigeria’s $10 Million Geno",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/08/icc-releases-report-exposing-nigerias-10-million-genocide-cover-up/",
+      "victims": 190
     },
     {
       "date": "2026-05-07",
@@ -6492,19 +6505,6 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/12-christians-killed-in-easter-sunday-church-attacks-in-nigeria",
       "victims": 12
-    },
-    {
-      "date": "2026-04-06",
-      "lat": 9.3381,
-      "lng": 9.6824,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "arrest",
-      "title": "Lagos пастор, wife nabbed с illicit drugs",
-      "description": "Lagos пастор и his wife were арестован NDLEA operatives после 11kg skunk was found hidden в their vehicle Seme border контрольно-пропускной пункт. Read More: https://punchng.com/lagos-пастор-wife-nabbed-с-illicit-drugs/",
-      "source": "punchng",
-      "url": "https://punchng.com/lagos-pastor-wife-nabbed-with-illicit-drugs/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
     }
   ]
 }
