@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-10T18:43:40.968Z",
+    "lastUpdated": "2026-05-11T01:51:46.093Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-05-11",
+      "lat": 14.831,
+      "lng": 120.7442,
+      "country": "Philippines",
+      "city": "Manila",
+      "type": "other",
+      "title": "В new signature drive, Filipino церковь breaks bonds политический dynasties",
+      "description": "New церковь-backed signature drive aims end политический dynasties в Philippines, which have controlled local правительства и worsened poverty для век.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/05/in-new-signature-drive-filipino-church-breaks-bonds-of-political-dynasties/",
+      "victims": 0
+    },
     {
       "date": "2026-05-10",
       "lat": 4.5957,
@@ -17,6 +30,19 @@
       "description": "“reliable и constant” мужчина who speaks “without guile” и will be able embody unifying figure в католическая церковь through his “audacious wisdom”: this is how кардинал Jean-Paul Vesco describes папа Leo XIV. One год после participating в",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/05/10/cardinal-leo-xiv-is-a-unifier-but-will-surprise-us/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-10",
+      "lat": 6.5065,
+      "lng": 3.5718,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "2027: Jonathan’s return май overheat system, CAN leader warns",
+      "description": "Luminous Jannamike ABUJA — христианин Association Nigeria, CAN, has expressed concern growing политический realignments ahead 2027 general elections, warning that possible return former президент Goodluck Jonathan pres",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/05/2027-jonathans-return-may-overheat-the-system-can-leader-warns/",
       "victims": 0
     },
     {
@@ -187,6 +213,19 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/05/08/icc-releases-report-exposing-nigerias-10-million-genocide-cover-up/",
       "victims": 190
+    },
+    {
+      "date": "2026-05-08",
+      "lat": 19.149,
+      "lng": 73.0334,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "attack",
+      "title": "Христиане decry гонение в India's heartland",
+      "description": "С христиане в India increasingly targeted индус дружинники, жертвы say полиция often side с their attackers.",
+      "source": "newsapi:DW (English)",
+      "url": "https://www.dw.com/en/christians-decry-persecution-in-indias-heartland/a-77095929",
+      "victims": 0
     },
     {
       "date": "2026-05-07",
@@ -6465,45 +6504,6 @@
       "description": "Two пасторы were атакован во время Holy неделя в Karnataka, India, as they distributed христианин literature в деревня в Shivamogga район. According local sources, на март 31, пасторы, who are part Brethren собрание, visited neighbo",
       "source": "persecution",
       "url": "https://persecution.org/2026/04/07/two-pastors-injured-in-attack-during-holy-week-in-india/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-07",
-      "lat": 32.6373,
-      "lng": 51.7641,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Папа Leo Condemns Trump’s “Unacceptable” угроза Destroy Iran",
-      "description": "Leader католическая церковь has denounced Donald Trump’s warmongering rhetoric.папа Leo XIV described U.S. президент’s recent угрозы obliterate Iranian civilization as “truly unacceptable.”“сегодня as we all know there was this угроза aga",
-      "source": "newsapi:The New Republic",
-      "url": "https://newrepublic.com/post/208755/pope-leo-donald-trump-threat-destroy-iran",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-07",
-      "lat": 29.7082,
-      "lng": 52.3922,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "What happens когда религиозный fundamentalists come power? (Part Two)",
-      "description": "Военные service members are filing flood complaints о религиозный justifications для U.S. war в Iran. How христианин extremism came influence Trump administration и offer moral underpinnings для new war в Middle East. *",
-      "source": "newsapi:WBUR",
-      "url": "https://www.wbur.org/onpoint/2026/04/07/religious-fundamentalists-christian-extremism-trump",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-07",
-      "lat": 29.5751,
-      "lng": 52.7482,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "Папа Leo Condemns Trump’s “Unacceptable” угроза Destroy Iran",
-      "description": "Leader католическая церковь has denounced Donald Trump’s warmongering rhetoric.папа Leo XIV described U.S. президент’s recent угрозы obliterate Iranian civilization as “truly unacceptable.”“сегодня as we all know there was this угроза aga",
-      "source": "newsapi:The New Republic",
-      "url": "https://newrepublic.com/post/208755/pope-leo-donald-trump-threat-destroy-iran",
       "victims": 0
     }
   ]
