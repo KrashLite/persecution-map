@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-11T14:17:35.525Z",
+    "lastUpdated": "2026-05-11T19:24:26.161Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "New церковь-backed signature drive aims end политический dynasties в Philippines, which have controlled local правительства и worsened poverty для век.",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-asia/2026/05/in-new-signature-drive-filipino-church-breaks-bonds-of-political-dynasties/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-11",
+      "lat": 21.434,
+      "lng": 39.4353,
+      "country": "Saudi Arabia",
+      "city": "Jeddah",
+      "type": "attack",
+      "title": "Growing Up христианин в Churchless Kingdom Saudi Arabia",
+      "description": "Атаки на церкви are harsh reality в many countries. But Saudi Arabia is not one them. birthplace both ислам и Wahhabi radicalism, this country more than 35 million люди has more than handful who would be up для task. B",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/11/growing-up-christian-in-the-churchless-kingdom-of-saudi-arabia/",
       "victims": 0
     },
     {
@@ -43,6 +56,19 @@
       "description": "Luminous Jannamike ABUJA — христианин Association Nigeria, CAN, has expressed concern growing политический realignments ahead 2027 general elections, warning that possible return former президент Goodluck Jonathan pres",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/05/2027-jonathans-return-may-overheat-the-system-can-leader-warns/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-10",
+      "lat": 32.5872,
+      "lng": 51.6182,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Trump Promotes Claim He Has 'Better Understanding' Библия Than папа Leo",
+      "description": "Trump shared clip controversial пастор declaring that папа is \"sincerely wrong когда it comes Iran\" just дни после Marco Rubio's Vatican meeting.",
+      "source": "newsapi:HuffPost",
+      "url": "https://www.huffpost.com/entry/baptist-pastor-robert-jeffress-trump-pope-better-understanding-bible_n_6a006d50e4b0cb033e521809",
       "victims": 0
     },
     {
@@ -809,6 +835,19 @@
       "title": "Христиане must defend themselves amid rising гонение, Nigerian prelate says",
       "description": "Following resurgence violence в Nigeria, judicial vicar порт Harcourt Diocese has called для христиане promote peace пока not ignoring need protect their lives.",
       "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/christians-must-defend-themselves-amid-rising-persecution-nigerian-prelate-says",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-06",
+      "lat": 11.5851,
+      "lng": 13.2269,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "Христиане must defend themselves amid rising гонение, Nigerian prelate says",
+      "description": "Following resurgence violence в Nigeria, judicial vicar порт Harcourt Diocese has called для христиане promote peace пока not ignoring need protect their lives.",
+      "source": "newsapi:Ewtnnews.com",
       "url": "https://www.ewtnnews.com/world/africa/christians-must-defend-themselves-amid-rising-persecution-nigerian-prelate-says",
       "victims": 0
     },
@@ -6465,45 +6504,6 @@
       "description": "Для христианские общины на ground, however, such distinctions offer little consolation. repeated targeting церкви во время major liturgical celebrations carries both symbolic и psychological weight, reinforcing sense vulnerability",
       "source": "zenit",
       "url": "https://zenit.org/2026/04/07/easter-2026-is-overshadowed-by-massacres-of-christians-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-07",
-      "lat": 33.7914,
-      "lng": 73.2744,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "discrimination",
-      "title": "‘из chaos в new life’: Pakistan’s largest diocese installs new архиепископ",
-      "description": "Installation архиепископ Khalid Rehmat closes turbulent chapter для Pakistan’s largest Catholic diocese.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/from-chaos-into-new-life-pakistan-s-largest-diocese-installs-new-archbishop",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-07",
-      "lat": 32.6258,
-      "lng": 51.7114,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "What happens когда религиозный fundamentalists come power? (Part Two)",
-      "description": "Военные service members are filing flood complaints о религиозный justifications для U.S. war в Iran. How христианин extremism came influence Trump administration и offer moral underpinnings для new war в Middle East. *",
-      "source": "newsapi:WBUR",
-      "url": "https://www.wbur.org/onpoint/2026/04/07/religious-fundamentalists-christian-extremism-trump",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-07",
-      "lat": 21.2954,
-      "lng": 81.6795,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "attack",
-      "title": "Viral against Israel, silent о every other travesty",
-      "description": "Israeli полиция protecting кардинал vs. исламский террористы убийство христиане. Who does West villify? It’s same perverse logic that turned Gaza в global obsession пока ignoring Chinese лагеря для Uyghurs, церковь burnings в India, behe",
-      "source": "newsapi:Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/425175",
       "victims": 0
     }
   ]
