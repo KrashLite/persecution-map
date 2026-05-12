@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-12T13:32:10.385Z",
+    "lastUpdated": "2026-05-12T19:26:35.719Z",
     "totalEvents": 500
   },
   "events": [
@@ -238,6 +238,32 @@
       "description": "Президент likened call free Lai complexity releasing indicted former FBI Director James Comey as семьи Chinese prisoners rallied outside White House.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/trump-vows-to-discuss-freedom-of-jimmy-lai-christian-leaders-detained-in-china",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-11",
+      "lat": 9.0029,
+      "lng": 9.5805,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "128,750 христиане в Nigeria убит 17 годы: $10 million cover-up геноцид в Nigeria",
+      "description": "Tinubu’s administration has launched $10 million lobbying front silence human rights accountability в U.S. и whitewash геноцид Nigerian христиане. This isn’t just spin — it’s calculated усилие rewrite history пока innocent",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/05/11/128750-christians-in-nigeria-killed-over-17-years-the-10-million-cover-up-of-the-genocide-in-nigeria/",
+      "victims": 750
+    },
+    {
+      "date": "2026-05-11",
+      "lat": 31.2906,
+      "lng": 121.5702,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "arrest",
+      "title": "Семьи Americans заключён в China have ‘glimmer hope’ that Trump can free loved ones во время Xi meeting",
+      "description": "\"This президент has just remarkable way doing things that most люди say are impossible,\" daughter заключён христианин пастор told Post.",
+      "source": "newsapi:New York Post",
+      "url": "https://nypost.com/2026/05/11/us-news/family-of-pastor-ezra-jin-dawn-hunt-ask-trump-to-free-them-from-china/",
       "victims": 0
     },
     {
@@ -6479,32 +6505,6 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/12-christians-killed-in-easter-sunday-church-attacks-in-nigeria",
       "victims": 12
-    },
-    {
-      "date": "2026-04-07",
-      "lat": 21.1165,
-      "lng": 81.7887,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "attack",
-      "title": "Two пасторы ранен в атака во время Holy неделя в India",
-      "description": "Two пасторы were атакован во время Holy неделя в Karnataka, India, as they distributed христианин literature в деревня в Shivamogga район. According local sources, на март 31, пасторы, who are part Brethren собрание, visited neighbo",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/07/two-pastors-injured-in-attack-during-holy-week-in-india/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-07",
-      "lat": 9.2917,
-      "lng": 9.6181,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Пасха 2026 is overshadowed резни христиане в Nigeria",
-      "description": "Для христианские общины на ground, however, such distinctions offer little consolation. repeated targeting церкви во время major liturgical celebrations carries both symbolic и psychological weight, reinforcing sense vulnerability",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/04/07/easter-2026-is-overshadowed-by-massacres-of-christians-in-nigeria/",
-      "victims": 0
     }
   ]
 }
