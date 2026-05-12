@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-12T01:46:26.875Z",
+    "lastUpdated": "2026-05-12T08:19:09.190Z",
     "totalEvents": 500
   },
   "events": [
@@ -98,6 +98,71 @@
       "victims": 0
     },
     {
+      "date": "2026-05-11",
+      "lat": 10.5542,
+      "lng": 7.3763,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "128,750 христиане в Nigeria убит 17 годы: $10 million cover-up геноцид в Nigeria",
+      "description": "Tinubu’s administration has launched $10 million lobbying front silence human rights accountability в U.S. и whitewash геноцид Nigerian христиане. This isn’t just spin — it’s calculated усилие rewrite history пока innocent",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/05/11/128750-christians-in-nigeria-killed-over-17-years-the-10-million-cover-up-of-the-genocide-in-nigeria/",
+      "victims": 750
+    },
+    {
+      "date": "2026-05-11",
+      "lat": 24.9678,
+      "lng": 66.9315,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "murder",
+      "title": "Христианин Dies Doing вынужден Labor в Pakistan",
+      "description": "Around 5.m. на май 7, Shabbir Masih, 33-год-old христианин sanitation worker в Pakistan, погиб после inhaling toxic gases пока doing dangerous job his руководители вынужден him do. Masih погиб working inside 25-foot-deep mainline sewer operat",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/11/christian-man-dies-doing-forced-labor-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-11",
+      "lat": 21.2339,
+      "lng": 82.0751,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Люди’s трибунал Claims Odisha правительство Complicit в христианин гонение",
+      "description": "Люди’s трибунал, led prominent civil rights activists в India, submitted letter на прошлой неделе Odisha правительство accusing штат administration being complicit в гонение христиане. letter called out conduct t",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/11/peoples-tribunal-claims-odisha-government-complicit-in-christian-persecution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-11",
+      "lat": 24.9541,
+      "lng": 46.438,
+      "country": "Saudi Arabia",
+      "city": "Riyadh",
+      "type": "attack",
+      "title": "Growing Up христианин в Churchless Kingdom Saudi Arabia",
+      "description": "Атаки на церкви are harsh reality в many countries. But Saudi Arabia is not one them. birthplace both ислам и Wahhabi radicalism, this country more than 35 million люди has more than handful who would be up для task. B",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/11/growing-up-christian-in-the-churchless-kingdom-of-saudi-arabia/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-11",
+      "lat": 32.6939,
+      "lng": 51.8538,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Donald Trump acknowledges limits Jacksonism, Thierry Meyssan",
+      "description": "Events are going badly. time когда президент Trump is launching his Kuturkampf against католическая церковь reaffirm Anglo-Saxon и not Aztec character his country, he is страдания heavy failure against Iran. He must note that his way",
+      "source": "newsapi:Red Voltaire",
+      "url": "https://www.voltairenet.org/article224467.html",
+      "victims": 0
+    },
+    {
       "date": "2026-05-10",
       "lat": 4.5957,
       "lng": 18.3881,
@@ -142,6 +207,19 @@
       "lng": 51.4795,
       "country": "Iran",
       "city": "Tehran",
+      "type": "other",
+      "title": "Trump Promotes Claim He Has 'Better Understanding' Библия Than папа Leo",
+      "description": "Trump shared clip controversial пастор declaring that папа is \"sincerely wrong когда it comes Iran\" just дни после Marco Rubio's Vatican meeting.",
+      "source": "newsapi:HuffPost",
+      "url": "https://www.huffpost.com/entry/baptist-pastor-robert-jeffress-trump-pope-better-understanding-bible_n_6a006d50e4b0cb033e521809",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-10",
+      "lat": 29.4155,
+      "lng": 52.3902,
+      "country": "Iran",
+      "city": "Shiraz",
       "type": "other",
       "title": "Trump Promotes Claim He Has 'Better Understanding' Библия Than папа Leo",
       "description": "Trump shared clip controversial пастор declaring that папа is \"sincerely wrong когда it comes Iran\" just дни после Marco Rubio's Vatican meeting.",
@@ -6427,84 +6505,6 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/12-christians-killed-in-easter-sunday-church-attacks-in-nigeria",
       "victims": 12
-    },
-    {
-      "date": "2026-04-07",
-      "lat": 11.9362,
-      "lng": 8.708,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Пасха 2026 is overshadowed резни христиане в Nigeria",
-      "description": "Для христианские общины на ground, however, such distinctions offer little consolation. repeated targeting церкви во время major liturgical celebrations carries both symbolic и psychological weight, reinforcing sense vulnerability",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/04/07/easter-2026-is-overshadowed-by-massacres-of-christians-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-07",
-      "lat": 31.6511,
-      "lng": 74.5388,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "murder",
-      "title": "Пасха Mourning: 1 погибшие, Dozens ранен после Truck Rams в Sunrise Procession",
-      "description": "Time spiritual celebration turned в scene devastation рано Пасха воскресенье когда speeding cargo truck plowed в христианин sunrise procession в Wazirabad район Punjab, Pakistan. incident has left one мужчина погибшие и more t",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/07/easter-mourning-1-dead-dozens-injured-after-truck-rams-into-sunrise-procession/",
-      "victims": 1
-    },
-    {
-      "date": "2026-04-07",
-      "lat": 33.8412,
-      "lng": 72.9329,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "murder",
-      "title": "Пасха Mourning: 1 погибшие, Dozens ранен после Truck Rams в Sunrise Procession",
-      "description": "Time spiritual celebration turned в scene devastation рано Пасха воскресенье когда speeding cargo truck plowed в христианин sunrise procession в Wazirabad район Punjab, Pakistan. incident has left one мужчина погибшие и more t",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/07/easter-mourning-1-dead-dozens-injured-after-truck-rams-into-sunrise-procession/",
-      "victims": 1
-    },
-    {
-      "date": "2026-04-07",
-      "lat": 28.9429,
-      "lng": 77.1265,
-      "country": "India",
-      "city": "Delhi",
-      "type": "attack",
-      "title": "Viral against Israel, silent о every other travesty",
-      "description": "Israeli полиция protecting кардинал vs. исламский террористы убийство христиане. Who does West villify? It’s same perverse logic that turned Gaza в global obsession пока ignoring Chinese лагеря для Uyghurs, церковь burnings в India, behe",
-      "source": "newsapi:Israelnationalnews.com",
-      "url": "https://www.israelnationalnews.com/news/425175",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-07",
-      "lat": 6.7437,
-      "lng": 3.2944,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Пасха 2026 is overshadowed резни христиане в Nigeria",
-      "description": "Для христианские общины на ground, however, such distinctions offer little consolation. repeated targeting церкви во время major liturgical celebrations carries both symbolic и psychological weight, reinforcing sense vulnerability",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/04/07/easter-2026-is-overshadowed-by-massacres-of-christians-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-07",
-      "lat": 31.687,
-      "lng": 74.5507,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "discrimination",
-      "title": "‘из chaos в new life’: Pakistan’s largest diocese installs new архиепископ",
-      "description": "Installation архиепископ Khalid Rehmat closes turbulent chapter для Pakistan’s largest Catholic diocese.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/from-chaos-into-new-life-pakistan-s-largest-diocese-installs-new-archbishop",
-      "victims": 0
     }
   ]
 }
