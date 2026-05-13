@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-13T08:29:46.770Z",
+    "lastUpdated": "2026-05-13T14:00:24.860Z",
     "totalEvents": 500
   },
   "events": [
@@ -56,6 +56,32 @@
       "description": "More than 200 Ethiopian migrants reportedly face imminent казнь в Saudi Arabia, despite repeated pleas для mercy из Catholic епископ close crisis. Three Ethiopian мужчины were казнён на апрель 21, raising fears that many more казни s",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/05/13/bishop-begs-for-mercy-as-ethiopians-face-execution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-13",
+      "lat": 28.8025,
+      "lng": 77.0603,
+      "country": "India",
+      "city": "Delhi",
+      "type": "murder",
+      "title": "Catholic архиепископ calls для calm после three Baptist министры убит в northeastern India",
+      "description": "Архиепископ Linus Neli Imphal has condemned убийство three христиане в Manipur, штат в far northeastern part India.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/05/catholic-archbishop-calls-for-calm-after-three-baptist-ministers-killed-in-northeastern-india/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-13",
+      "lat": 34.6651,
+      "lng": 36.5885,
+      "country": "Syria",
+      "city": "Homs",
+      "type": "murder",
+      "title": "Syrian архиепископ who stayed through war dies 83",
+      "description": "Архиепископ Jean-Clément Jeanbart, longtime Melkite Greek Catholic leader Aleppo, Syria, has погиб век 83, prompting tributes из Catholic charity Aid церковь в Need и христианские общины across Middle East. Archbis",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/05/13/syrian-archbishop-who-stayed-through-war-dies-at-83/",
       "victims": 0
     },
     {
@@ -447,6 +473,19 @@
       "source": "newsapi:Globalresearch.ca",
       "url": "https://www.globalresearch.ca/us-israel-war-attacks-ancient-christian-heritage/5925831",
       "victims": 0
+    },
+    {
+      "date": "2026-05-11",
+      "lat": 11.5989,
+      "lng": 13.1368,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "128,750 христиане в Nigeria убит 17 годы: $10 million cover-up геноцид в Nigeria",
+      "description": "Tinubu’s administration has launched $10 million lobbying front silence human rights accountability в U.S. и whitewash геноцид Nigerian христиане. This isn’t just spin — it’s calculated усилие rewrite history пока innocent",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/05/11/128750-christians-in-nigeria-killed-over-17-years-the-10-million-cover-up-of-the-genocide-in-nigeria/",
+      "victims": 750
     },
     {
       "date": "2026-05-10",
@@ -6465,45 +6504,6 @@
       "description": "Evangelical leaders say support для Israel has remained strong во время операция Epic Fury, joint U.S.-Israel военные кампания against Iran, as new ceasefire takes hold.",
       "source": "newsapi:Fox News",
       "url": "https://www.foxnews.com/world/evangelical-leaders-rally-trump-israel-operation-epic-fury-reshapes-region",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-08",
-      "lat": 36.0174,
-      "lng": 59.5244,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "attack",
-      "title": "Trump’s Iran War Is Tearing Apart His Catholic–Evangelical Coalition",
-      "description": "На прошлой неделе, в prime-time speech that was confused и discursive even his own standards, президент Donald Trump attempted justify current war в Iran. US атаки, he assured American public, were “ investment в your дети и yo",
-      "source": "newsapi:Mother Jones",
-      "url": "https://www.motherjones.com/politics/2026/04/trumps-iran-war-is-tearing-apart-his-catholic-evangelical-coalition/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-08",
-      "lat": 11.8912,
-      "lng": 8.7974,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "Папа will address tensions between христианство и ислам в Africa, Nigerian епископ says",
-      "description": "Augustinian confrere папа Leo XIV discussed pontiff’s upcoming trip four African countries.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/vatican/pope-will-address-tensions-between-christianity-and-islam-in-africa-nigerian-bishop-says",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-08",
-      "lat": 29.6653,
-      "lng": 52.5943,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "Evangelicals amplify Trump's религиозный framing Iran war",
-      "description": "В bid rally his база, президент Trump is tapping в христианин rhetoric reinforce backing для военные actions against Iran. Prominent evangelical figures are framing this situation as moral confrontation righteousness versus wickednes",
-      "source": "newsapi:The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/evangelicals-amplify-trumps-religious-framing-of-iran-war/articleshow/130109919.cms",
       "victims": 0
     }
   ]
