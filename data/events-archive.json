@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-13T14:00:24.860Z",
+    "lastUpdated": "2026-05-13T19:28:51.543Z",
     "totalEvents": 500
   },
   "events": [
@@ -85,6 +85,45 @@
       "victims": 0
     },
     {
+      "date": "2026-05-13",
+      "lat": 33.8951,
+      "lng": 73.0244,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "murder",
+      "title": "Смерти христианин sanitation workers в Pakistan highlight systemic дискриминация",
+      "description": "Least six христианин sanitation workers have погиб в recent недели cleaning sewers в Pakistan. Rights groups say minorities are systematically channeled в hazardous work.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/deaths-of-christian-sanitation-workers-in-pakistan-highlight-systemic-discrimination",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-13",
+      "lat": 20.7034,
+      "lng": 85.2536,
+      "country": "India",
+      "city": "Odisha",
+      "type": "murder",
+      "title": "Catholic архиепископ calls для calm после three Baptist министры убит в northeastern India",
+      "description": "Архиепископ Linus Neli Imphal has condemned убийство three христиане в Manipur, штат в far northeastern part India.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/05/catholic-archbishop-calls-for-calm-after-three-baptist-ministers-killed-in-northeastern-india/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-13",
+      "lat": 31.2521,
+      "lng": 121.5309,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "other",
+      "title": "Гонение в China Continues as Trump Lands в Beijing",
+      "description": "U.S. президент Donald Trump disembarked в Beijing just после 8 p.m. local time на среда, accompanied entourage top American business leaders и economic advisors. с trade и access technology as major points contention betwee",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/13/persecution-in-china-continues-as-trump-lands-in-beijing/",
+      "victims": 0
+    },
+    {
       "date": "2026-05-12",
       "lat": 11.9339,
       "lng": 12.9327,
@@ -103,6 +142,19 @@
       "lng": 7.5216,
       "country": "Nigeria",
       "city": "Kaduna",
+      "type": "murder",
+      "title": "Фулани ополчения Kill 19 христиане в плато атаки",
+      "description": "Least 19 христиане were убит в separate атаки across плато штат within 24 hours, including several residents из Ngbra-Zongo деревня в Bassa Local правительство Area (LGA) — home community International христианин Concern (ICC) wr",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/12/fulani-militias-kill-19-christians-in-plateau-attacks/",
+      "victims": 19
+    },
+    {
+      "date": "2026-05-12",
+      "lat": 9.038,
+      "lng": 9.3809,
+      "country": "Nigeria",
+      "city": "Plateau",
       "type": "murder",
       "title": "Фулани ополчения Kill 19 христиане в плато атаки",
       "description": "Least 19 христиане were убит в separate атаки across плато штат within 24 hours, including several residents из Ngbra-Zongo деревня в Bassa Local правительство Area (LGA) — home community International христианин Concern (ICC) wr",
@@ -486,6 +538,19 @@
       "source": "zenit",
       "url": "https://zenit.org/2026/05/11/128750-christians-in-nigeria-killed-over-17-years-the-10-million-cover-up-of-the-genocide-in-nigeria/",
       "victims": 750
+    },
+    {
+      "date": "2026-05-11",
+      "lat": 39.9882,
+      "lng": 116.4677,
+      "country": "China",
+      "city": "Beijing",
+      "type": "arrest",
+      "title": "Семьи Americans заключён в China have ‘glimmer hope’ that Trump can free loved ones во время Xi meeting",
+      "description": "\"This президент has just remarkable way doing things that most люди say are impossible,\" daughter заключён христианин пастор told Post.",
+      "source": "newsapi:New York Post",
+      "url": "https://nypost.com/2026/05/11/us-news/family-of-pastor-ezra-jin-dawn-hunt-ask-trump-to-free-them-from-china/",
+      "victims": 0
     },
     {
       "date": "2026-05-10",
@@ -6439,71 +6504,6 @@
       "description": "В bid rally his база, президент Trump is tapping в христианин rhetoric reinforce backing для военные actions against Iran. Prominent evangelical figures are framing this situation as moral confrontation righteousness versus wickednes",
       "source": "newsapi:The Times of India",
       "url": "https://economictimes.indiatimes.com/news/international/global-trends/evangelicals-amplify-trumps-religious-framing-of-iran-war/articleshow/130109919.cms",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-08",
-      "lat": 11.7974,
-      "lng": 12.9001,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Nigerian вера leaders call для interfaith reconciliation end violence",
-      "description": "Nigeria is deadliest country в world для христиане.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/nigerian-faith-leaders-call-for-interfaith-reconciliation-to-end-violence",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-08",
-      "lat": 35.5172,
-      "lng": 51.4518,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "attack",
-      "title": "Trump’s Iran War Is Tearing Apart His Catholic–Evangelical Coalition",
-      "description": "На прошлой неделе, в prime-time speech that was confused и discursive even his own standards, президент Donald Trump attempted justify current war в Iran. US атаки, he assured American public, were “ investment в your дети и yo",
-      "source": "newsapi:Mother Jones",
-      "url": "https://www.motherjones.com/politics/2026/04/trumps-iran-war-is-tearing-apart-his-catholic-evangelical-coalition/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-08",
-      "lat": 9.2956,
-      "lng": 7.2576,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Nigerian вера leaders call для interfaith reconciliation end violence",
-      "description": "Nigeria is deadliest country в world для христиане.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/nigerian-faith-leaders-call-for-interfaith-reconciliation-to-end-violence",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-08",
-      "lat": 32.5054,
-      "lng": 51.6625,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Evangelical leaders rally для Trump и Israel as операция Epic Fury reshapes регион",
-      "description": "Evangelical leaders say support для Israel has remained strong во время операция Epic Fury, joint U.S.-Israel военные кампания against Iran, as new ceasefire takes hold.",
-      "source": "newsapi:Fox News",
-      "url": "https://www.foxnews.com/world/evangelical-leaders-rally-trump-israel-operation-epic-fury-reshapes-region",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-08",
-      "lat": 36.2829,
-      "lng": 59.6784,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Evangelical leaders rally для Trump и Israel as операция Epic Fury reshapes регион",
-      "description": "Evangelical leaders say support для Israel has remained strong во время операция Epic Fury, joint U.S.-Israel военные кампания against Iran, as new ceasefire takes hold.",
-      "source": "newsapi:Fox News",
-      "url": "https://www.foxnews.com/world/evangelical-leaders-rally-trump-israel-operation-epic-fury-reshapes-region",
       "victims": 0
     }
   ]
