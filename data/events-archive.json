@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-14T08:24:15.167Z",
+    "lastUpdated": "2026-05-14T13:24:03.744Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,32 @@
       "description": "79-год-old Protestant миссионер has been пропавший без вести для more than six недели.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/calls-for-investigation-into-disappearance-of-protestant-missionary-in-southern-mexico",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-14",
+      "lat": 27.8704,
+      "lng": 30.772,
+      "country": "Egypt",
+      "city": "Minya",
+      "type": "arrest",
+      "title": "Защитник says приговор Egyptian Coptic scholar has created ‘chilling effect’ на христиане",
+      "description": "Sentencing Egyptian Coptic христианин scholar и YouTuber Augustinos Samaan five годы в тюрьма с hard labor has created 'chilling effect' на Coptic христиане в north African country.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-africa/2026/05/advocate-says-sentence-of-egyptian-coptic-scholar-has-created-a-chilling-effect-on-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-14",
+      "lat": 36.1078,
+      "lng": 43.0061,
+      "country": "Iraq",
+      "city": "Mosul",
+      "type": "other",
+      "title": "Iraqi суд rules в favour христианка challenging мусульманин религия status",
+      "description": "Суд в Iraq has delivered favourable ruling для young христианка seeking change her officially registered религия из ислам христианство.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/iraqi-court-rules-in-favour-of-christian-woman-challenging-muslim-religion-status",
       "victims": 0
     },
     {
@@ -228,6 +254,32 @@
       "victims": 0
     },
     {
+      "date": "2026-05-13",
+      "lat": 31.358,
+      "lng": 74.6083,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "kidnapping",
+      "title": "Stolen Innocence: похищение и вынужден Marriage христианин Girls в Pakistan",
+      "description": "Each год в Pakistan, roughly 1,000 young girls — many whom are христиане — are похищен из their homes. These girls are often found месяцы позже, после they’ve been вынужден convert ислам и marry older мусульманин мужчины. когда girl’s parents",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/13/stolen-innocence-the-abduction-and-forced-marriage-of-christian-girls-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-13",
+      "lat": 35.456,
+      "lng": 51.444,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "Global мусульманин Unity и Division в Shadow US-Iran Conflict {know main enemy USA}",
+      "description": "According new analysis data published в Daily опекун на апрель 5, 2017, Washington-based скамья Research Centre, number дети born мусульмане is expected overtake those born христиане within two десятилетия, making ислам",
+      "source": "newsapi:Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4379006/posts",
+      "victims": 0
+    },
+    {
       "date": "2026-05-12",
       "lat": 11.9339,
       "lng": 12.9327,
@@ -272,6 +324,19 @@
       "lng": 7.6428,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "murder",
+      "title": "Фулани ополчения Kill 19 христиане в плато атаки",
+      "description": "Least 19 христиане were убит в separate атаки across плато штат within 24 hours, including several residents из Ngbra-Zongo деревня в Bassa Local правительство Area (LGA) — home community International христианин Concern (ICC) wr",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/12/fulani-militias-kill-19-christians-in-plateau-attacks/",
+      "victims": 19
+    },
+    {
+      "date": "2026-05-12",
+      "lat": 11.9739,
+      "lng": 8.6833,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "murder",
       "title": "Фулани ополчения Kill 19 христиане в плато атаки",
       "description": "Least 19 христиане were убит в separate атаки across плато штат within 24 hours, including several residents из Ngbra-Zongo деревня в Bassa Local правительство Area (LGA) — home community International христианин Concern (ICC) wr",
@@ -6439,71 +6504,6 @@
       "description": "Fighting is paused для о two недели, but Trump's угрозы against гражданский infrastructure alarm Catholic moral theologians, who emphasize that it is immoral intentionally harm noncombatants.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/catholic-theologians-comment-trump-iran-threats",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-09",
-      "lat": 35.7504,
-      "lng": 51.4324,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "discrimination",
-      "title": "U.S. чиновники continue defend Iranian conflict amid criticism из top Catholic leaders",
-      "description": "U.S. Embassy Holy See has strongly отказано reports that правительство demanded Vatican throw support behind U.S. военные actions.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/u-s-officials-continue-to-defend-iranian-conflict-amid-criticism-from-top-catholic-leaders",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-09",
-      "lat": 20.9087,
-      "lng": 85.2135,
-      "country": "India",
-      "city": "Odisha",
-      "type": "discrimination",
-      "title": "В ecological letter, Indiana епископы urge Catholics care для ‘God’s good world’",
-      "description": "“ core ecological и social crises is human heart enclosed в upon itself, alienated из God, our neighbor, и creation,” епископы said в new pastoral missive.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/in-ecological-letter-indiana-bishops-urge-catholics-to-care-for-god-s-good-world",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-09",
-      "lat": 32.7201,
-      "lng": 51.9081,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "attack",
-      "title": "'Truly Insane': Pentagon угрожали папа после He Condemned Trump's военные атаки",
-      "description": "Папа Leo, первый American be named head worldwide католическая церковь, has spoken out against президент Donald Trump's policies frequently в этом году as US has invaded Venezuela и Iran и угрожали Cuba's 10 million люди с",
-      "source": "newsapi:Common Dreams",
-      "url": "https://www.commondreams.org/news/pope-leo-and-trump",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-09",
-      "lat": 32.6298,
-      "lng": 51.901,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Catholic moral theologians worry для гражданские amid shaky Iran ceasefire, Trump rhetoric",
-      "description": "Fighting is paused для о two недели, but Trump's угрозы against гражданский infrastructure alarm Catholic moral theologians, who emphasize that it is immoral intentionally harm noncombatants.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/catholic-theologians-comment-trump-iran-threats",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-09",
-      "lat": 21.1755,
-      "lng": 82.1086,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "discrimination",
-      "title": "В ecological letter, Indiana епископы urge Catholics care для ‘God’s good world’",
-      "description": "“ core ecological и social crises is human heart enclosed в upon itself, alienated из God, our neighbor, и creation,” епископы said в new pastoral missive.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/in-ecological-letter-indiana-bishops-urge-catholics-to-care-for-god-s-good-world",
       "victims": 0
     }
   ]
