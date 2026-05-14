@@ -2,10 +2,49 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-14T01:54:28.535Z",
+    "lastUpdated": "2026-05-14T08:24:15.167Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-05-14",
+      "lat": 15.2154,
+      "lng": 39.0921,
+      "country": "Eritrea",
+      "city": "Asmara",
+      "type": "other",
+      "title": "Христиане urge UN keep human rights spotlight на Eritrea",
+      "description": "Eritrea is sometimes called \"North Korea Africa\".",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christians-urge-un-to-keep-human-rights-spotlight-on-eritrea",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-14",
+      "lat": 33.0746,
+      "lng": 44.4225,
+      "country": "Iraq",
+      "city": "Baghdad",
+      "type": "other",
+      "title": "Iraqi суд rules в favour христианка challenging мусульманин религия status",
+      "description": "Суд в Iraq has delivered favourable ruling для young христианка seeking change her officially registered религия из ислам христианство.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/iraqi-court-rules-in-favour-of-christian-woman-challenging-muslim-religion-status",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-14",
+      "lat": 19.3769,
+      "lng": -99.2385,
+      "country": "Mexico",
+      "city": "Mexico City",
+      "type": "other",
+      "title": "Calls для investigation в disappearance Protestant миссионер в southern Mexico",
+      "description": "79-год-old Protestant миссионер has been пропавший без вести для more than six недели.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/calls-for-investigation-into-disappearance-of-protestant-missionary-in-southern-mexico",
+      "victims": 0
+    },
     {
       "date": "2026-05-13",
       "lat": -4.4024,
@@ -173,6 +212,19 @@
       "description": "U.S. президент Donald Trump disembarked в Beijing just после 8 p.m. local time на среда, accompanied entourage top American business leaders и economic advisors. с trade и access technology as major points contention betwee",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/13/persecution-in-china-continues-as-trump-lands-in-beijing/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-13",
+      "lat": 33.6131,
+      "lng": 36.3169,
+      "country": "Syria",
+      "city": "Damascus",
+      "type": "murder",
+      "title": "Syrian архиепископ who stayed through war dies 83",
+      "description": "Архиепископ Jean-Clément Jeanbart, longtime Melkite Greek Catholic leader Aleppo, Syria, has погиб век 83, prompting tributes из Catholic charity Aid церковь в Need и христианские общины across Middle East. Archbis",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/05/13/syrian-archbishop-who-stayed-through-war-dies-at-83/",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "“ core ecological и social crises is human heart enclosed в upon itself, alienated из God, our neighbor, и creation,” епископы said в new pastoral missive.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/in-ecological-letter-indiana-bishops-urge-catholics-to-care-for-god-s-good-world",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-09",
-      "lat": 32.7182,
-      "lng": 51.6815,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "discrimination",
-      "title": "Continued Dangers для Lebanese христианское население, политический Leadership",
-      "description": "После период relative peace — least away из country’s southern border с Israel — Lebanon has снова found itself amid bloody kinetic war. U.N. estimates suggest that 1.1 million Lebanese have been перемещён в последний six недели as",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/09/continued-dangers-for-lebanese-christian-population-political-leadership/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-08",
-      "lat": 10.4104,
-      "lng": 7.3721,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Nigerian вера leaders call для interfaith reconciliation end violence",
-      "description": "Nigeria is deadliest country в world для христиане.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/nigerian-faith-leaders-call-for-interfaith-reconciliation-to-end-violence",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-08",
-      "lat": 6.7098,
-      "lng": 3.4255,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Nigerian вера leaders call для interfaith reconciliation end violence",
-      "description": "Nigeria is deadliest country в world для христиане.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/nigerian-faith-leaders-call-for-interfaith-reconciliation-to-end-violence",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-08",
-      "lat": 4.2546,
-      "lng": 18.6235,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "other",
-      "title": "Algerian кардинал says папа’s upcoming visit not о interreligious dialogue but humanity",
-      "description": "Архиепископ Algiers discussed upcoming papal trip в context anti-христианин гонение.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/algerian-cardinal-says-pope-s-visit-not-about-interreligious-dialogue-but-humanity",
       "victims": 0
     }
   ]
