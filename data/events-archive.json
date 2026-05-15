@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-15T01:52:20.594Z",
+    "lastUpdated": "2026-05-15T08:35:44.875Z",
     "totalEvents": 500
   },
   "events": [
@@ -147,6 +147,32 @@
       "description": "Allied Democratic силы (ADF) повстанцы continue spread смерть и devastation в христианин-majority регион Eastern Democratic Republic Congo (DRC). According Mamove civil society organization, as reported its президент, Kinos Kat",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/14/washington-condemns-brutal-adf-attacks-in-eastern-drc/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-14",
+      "lat": 30.0989,
+      "lng": 31.4817,
+      "country": "Egypt",
+      "city": "Cairo",
+      "type": "arrest",
+      "title": "Защитник says приговор Egyptian Coptic scholar has created ‘chilling effect’ на христиане",
+      "description": "Sentencing Egyptian Coptic христианин scholar и YouTuber Augustinos Samaan five годы в тюрьма с hard labor has created 'chilling effect' на Coptic христиане в north African country.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-africa/2026/05/advocate-says-sentence-of-egyptian-coptic-scholar-has-created-a-chilling-effect-on-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-14",
+      "lat": 9.4103,
+      "lng": 9.7599,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "New program set up teach lay catechists для growing Catholic population в Africa",
+      "description": "90 percent Catholics в Nigeria are thought go месса every воскресенье, highest proportion в world. They need lay catechists.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-africa/2026/05/new-program-set-up-to-teach-lay-catechists-for-growing-catholic-population-in-africa/",
       "victims": 0
     },
     {
@@ -953,6 +979,19 @@
       "description": "Президент likened call free Lai complexity releasing indicted former FBI Director James Comey as семьи Chinese prisoners rallied outside White House.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/trump-vows-to-discuss-freedom-of-jimmy-lai-christian-leaders-detained-in-china",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-11",
+      "lat": 29.6093,
+      "lng": 52.4655,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "attack",
+      "title": "US-Israel War атаки Ancient христианин Heritage",
+      "description": "It does not take ракета scientist figure out that US-Israel’s conflicts are widespread и continuous throughout Middle East as they have сейчас initiated unprovoked атака against Iran. read this article в following languages, clic",
+      "source": "newsapi:Globalresearch.ca",
+      "url": "https://www.globalresearch.ca/us-israel-war-attacks-ancient-christian-heritage/5925831",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Spanish епископ has said recent images evangelical пасторы blessing Donald Trump и asking God для victory в U.S.’s war с Iran was shameful, и that it is important not “ take God’s name в vain.”",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-europe/2026/04/pastors-blessing-trump-and-asking-god-for-war-victory-was-shameful-says-spanish-bishop/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-09",
-      "lat": 32.7475,
-      "lng": 51.9124,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Пасторы blessing Trump и asking God для war victory was shameful, says Spanish епископ",
-      "description": "Spanish епископ has said recent images evangelical пасторы blessing Donald Trump и asking God для victory в U.S.’s war с Iran was shameful, и that it is important not “ take God’s name в vain.”",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-europe/2026/04/pastors-blessing-trump-and-asking-god-for-war-victory-was-shameful-says-spanish-bishop/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-09",
-      "lat": 10.5964,
-      "lng": 7.1875,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Nigeria христианин Civil Chaplain Corps gets FG recognition",
-      "description": "Nigeria христианин Civil Chaplain Corps has received чиновник recognition из Federal правительство для its national service и peacebuilding усилия Read More: https://punchng.com/nigeria-христианин-civil-chaplain-corps-gets-fg-recognition/",
-      "source": "punchng",
-      "url": "https://punchng.com/nigeria-christian-civil-chaplain-corps-gets-fg-recognition/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-09",
-      "lat": 29.3477,
-      "lng": 52.5022,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "U.S. чиновники continue defend Iranian conflict amid criticism из top Catholic leaders",
-      "description": "Правительство allegedly demanded раньше в год that Vatican throw support behind U.S. военные actions.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/u-s-officials-continue-to-defend-iranian-conflict-amid-criticism-from-top-catholic-leaders",
       "victims": 0
     }
   ]
