@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-15T13:23:04.866Z",
+    "lastUpdated": "2026-05-15T19:12:44.832Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-05-15",
+      "lat": 8.9864,
+      "lng": 9.4626,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "CAN distances self из политический endorsements, seeks credible poll",
+      "description": "Христианин Association Nigeria (CAN) Kwara chapter affirms its политический neutrality, distancing itself из any endorsements ahead 2027 electi Read More: https://punchng.com/can-distances-self-из-политический-endorsements-seeks-credible-",
+      "source": "punchng",
+      "url": "https://punchng.com/can-distances-self-from-political-endorsements-seeks-credible-poll/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-05-14",
       "lat": 15.2154,
@@ -199,6 +212,19 @@
       "description": "Суд в Iraq has delivered favourable ruling для young христианка seeking change her officially registered религия из ислам христианство.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/iraqi-court-rules-in-favour-of-christian-woman-challenging-muslim-religion-status",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-14",
+      "lat": 11.8179,
+      "lng": 12.9649,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "New program set up teach lay catechists для growing Catholic population в Africa",
+      "description": "90 percent Catholics в Nigeria are thought go месса every воскресенье, highest proportion в world. They need lay catechists.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-africa/2026/05/new-program-set-up-to-teach-lay-catechists-for-growing-catholic-population-in-africa/",
       "victims": 0
     },
     {
@@ -537,6 +563,19 @@
       "description": "Когда президент Donald Trump и Chinese leader Xi Jinping meet в Beijing позже на этой неделе, there will be lot discuss: war, peace, Iran, Taiwan, trade. Trump has vowed bring up another issue too: case Ezra Jin. христианин пастор и th",
       "source": "newsapi:Freerepublic.com",
       "url": "https://freerepublic.com/focus/f-religion/4379041/posts",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-13",
+      "lat": 40.1525,
+      "lng": 116.3415,
+      "country": "China",
+      "city": "Beijing",
+      "type": "other",
+      "title": "Гонение в China Continues as Trump Lands в Beijing",
+      "description": "U.S. президент Donald Trump disembarked в Beijing just после 8 p.m. local time на среда, accompanied entourage top American business leaders и economic advisors. с trade и access technology as major points contention betwee",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/13/persecution-in-china-continues-as-trump-lands-in-beijing/",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Архиепископ Tehran reflects на being separated из his flock на Пасха, Filipino епископ speaks out для doves, French церковь is разгромлен, и more в на этой неделе’s world news roundup.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/tehran-cardinal-breaks-silence-i-celebrated-the-easter-vigil-carrying-you-all-in-my-heart",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 12.1154,
-      "lng": 8.5112,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "1,400 христиане убит в Nigeria so far в этом году, new report claims",
-      "description": "Intersociety said that 1,800 христиане were похищен в same период - с 180 abductees убит.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/over-1-400-christians-killed-in-nigeria-so-far-this-year-new-report-claims",
-      "victims": 400
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 29.3597,
-      "lng": 52.6726,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "Poll: Catholic support для президент Donald Trump drops below 50% amid Iran war",
-      "description": "Poll shows Catholics disapprove президент Donald Trump’s performance as президент, overall, including на how he has handled conflict с Iran.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/poll-trump-catholic-decline",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 27.059,
-      "lng": 80.7372,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "other",
-      "title": "Biblical Story Esther в Context US-Iran War",
-      "description": "# chhotebhai – Shouldn’t Melania be jealous this relationship с another женщина? No, because Esther is not угроза her marriage. post Biblical Story Esther в Context US-Iran War appeared первый на Indian Catholic Matt",
-      "source": "newsapi:Indiancatholicmatters.org",
-      "url": "https://www.indiancatholicmatters.org/the-biblical-story-of-esther-in-the-context-of-us-iran-war/",
       "victims": 0
     }
   ]
