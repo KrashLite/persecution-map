@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-16T01:32:15.570Z",
+    "lastUpdated": "2026-05-16T07:46:46.451Z",
     "totalEvents": 500
   },
   "events": [
@@ -56,6 +56,19 @@
       "description": "Construction process для Indonesian пятидесятническая церковь (GPI) в Tanjung Senang деревня, Bandar Lampung, Indonesia, has однажды снова reached deadlock. conflict, which has been ongoing since 2004, has become even more complicated после th",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/15/church-construction-rejected-for-22-years/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-15",
+      "lat": 43.6209,
+      "lng": 87.5423,
+      "country": "China",
+      "city": "Xinjiang",
+      "type": "arrest",
+      "title": "Христианин Publishers Endure Harsh Conditions в тюрьма",
+      "description": "Chang Yuchun и his wife, Li Chenhui, remain в brutal conditions в separate тюрьмы в Xi’ город, Shaanxi провинция, China. couple was involved в printing христианин literature и materials в Xi’ в 2015. в июль 2020, their company was",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/15/christian-publishers-endure-harsh-conditions-in-prison/",
       "victims": 0
     },
     {
@@ -6491,19 +6504,6 @@
       "description": "На Palm воскресенье, папа Leo said в his проповедь that God “does not listen молитвы those who wage war.” Since start US-Iran conflict, папа has repeatedly called для peace и criticized war, и his comments have sparked lot",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/04/10/a-look-at-leos-words-just-wars-and-whats-not-considered/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 21.4925,
-      "lng": 82.1095,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "other",
-      "title": "Biblical Story Esther в Context US-Iran War",
-      "description": "# chhotebhai – Shouldn’t Melania be jealous this relationship с another женщина? No, because Esther is not угроза her marriage. post Biblical Story Esther в Context US-Iran War appeared первый на Indian Catholic Matt",
-      "source": "newsapi:Indiancatholicmatters.org",
-      "url": "https://www.indiancatholicmatters.org/the-biblical-story-of-esther-in-the-context-of-us-iran-war/",
       "victims": 0
     }
   ]
