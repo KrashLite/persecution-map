@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-16T12:53:30.704Z",
+    "lastUpdated": "2026-05-16T18:45:11.884Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,19 @@
       "description": "Install more border барьеры, Trump administration wants seize 14 acres land на iconic гора outside El Paso owned Catholic Diocese neighboring Las Cruces, New Mexico.",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-the-usa/2026/05/trump-administration-sues-catholic-diocese-to-seize-land-near-el-paso-for-border-barrier/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-16",
+      "lat": 30.2791,
+      "lng": 31.1764,
+      "country": "Egypt",
+      "city": "Cairo",
+      "type": "other",
+      "title": "Папа Leo XIV reaches out leader Egypt’s христиане",
+      "description": "Desire “overcome any препятствия dialogue based на вера и charity” was heart phone call between папа Leo XIV и Coptic папа Tawadros II на пятница, май 15, Vatican press release noted. More than two годы после breakdown",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/05/16/pope-leo-xiv-reaches-out-to-leader-of-egypts-christians/",
       "victims": 0
     },
     {
@@ -6491,19 +6504,6 @@
       "description": "American папа is directly criticising American президент war в Iran. This is historic первый. папа's stance aligns с established церковь teachings. президент's administration claims divine endorsement для conflict.",
       "source": "newsapi:The Times of India",
       "url": "https://economictimes.indiatimes.com/news/international/global-trends/a-president-and-a-pope-the-worlds-most-influential-americans-are-at-odds-over-iran/articleshow/130159276.cms",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 35.4706,
-      "lng": 51.1861,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Poll: Catholic support для президент Donald Trump drops below 50% amid Iran war",
-      "description": "Poll shows Catholics disapprove президент Donald Trump’s performance as президент, overall, including на how he has handled conflict с Iran.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/poll-trump-catholic-decline",
       "victims": 0
     }
   ]
