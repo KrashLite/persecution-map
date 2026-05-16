@@ -2,10 +2,49 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-16T07:46:46.451Z",
+    "lastUpdated": "2026-05-16T12:53:30.704Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-05-16",
+      "lat": 28.1248,
+      "lng": 30.5689,
+      "country": "Egypt",
+      "city": "Minya",
+      "type": "other",
+      "title": "Папа Leo XIV reaches out leader Egypt’s христиане",
+      "description": "Desire “overcome any препятствия dialogue based на вера и charity” was heart phone call between папа Leo XIV и Coptic папа Tawadros II на пятница, май 15, Vatican press release noted. More than two годы после breakdown",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/05/16/pope-leo-xiv-reaches-out-to-leader-of-egypts-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-16",
+      "lat": 8.9402,
+      "lng": 7.241,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Tarsus diocese restored после more than век",
+      "description": "There is сейчас episcopal presence в Tarsus; dioceses в Ireland и Canada are celebrating рукоположения; Nigerian священник is freed, и more в на этой неделе’s roundup world news.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/tarsus-diocese-restored-after-more-than-a-century",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-16",
+      "lat": 19.4867,
+      "lng": -99.1312,
+      "country": "Mexico",
+      "city": "Mexico City",
+      "type": "other",
+      "title": "Trump administration sues Catholic diocese seize land near El Paso для border барьер",
+      "description": "Install more border барьеры, Trump administration wants seize 14 acres land на iconic гора outside El Paso owned Catholic Diocese neighboring Las Cruces, New Mexico.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-usa/2026/05/trump-administration-sues-catholic-diocese-to-seize-land-near-el-paso-for-border-barrier/",
+      "victims": 0
+    },
     {
       "date": "2026-05-15",
       "lat": 8.9864,
@@ -69,6 +108,19 @@
       "description": "Chang Yuchun и his wife, Li Chenhui, remain в brutal conditions в separate тюрьмы в Xi’ город, Shaanxi провинция, China. couple was involved в printing христианин literature и materials в Xi’ в 2015. в июль 2020, their company was",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/15/christian-publishers-endure-harsh-conditions-in-prison/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-15",
+      "lat": 43.8523,
+      "lng": 87.5152,
+      "country": "China",
+      "city": "Xinjiang",
+      "type": "arrest",
+      "title": "Trump says Xi is considering задержан пастор’s case, but freeing Catholic activist Jimmy Lai is ‘tough’",
+      "description": "Президент Donald Trump said пятница he raised issue с Chinese президент Xi Jinping releasing prominent задержан пастор и заключён Hong Kong activist Jimmy Lai, Catholic, и quoted Xi as saying Lai’s case is “tough one.”",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/05/trump-says-xi-is-considering-a-detained-pastors-case-but-freeing-catholic-activist-jimmy-lai-is-tough/",
       "victims": 0
     },
     {
@@ -285,6 +337,19 @@
       "lng": 8.4924,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "other",
+      "title": "New program set up teach lay catechists для growing Catholic population в Africa",
+      "description": "90 percent Catholics в Nigeria are thought go месса every воскресенье, highest proportion в world. They need lay catechists.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-africa/2026/05/new-program-set-up-to-teach-lay-catechists-for-growing-catholic-population-in-africa/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-14",
+      "lat": 6.5743,
+      "lng": 3.2101,
+      "country": "Nigeria",
+      "city": "Lagos",
       "type": "other",
       "title": "New program set up teach lay catechists для growing Catholic population в Africa",
       "description": "90 percent Catholics в Nigeria are thought go месса every воскресенье, highest proportion в world. They need lay catechists.",
@@ -641,6 +706,19 @@
       "description": "U.S. президент Donald Trump disembarked в Beijing just после 8 p.m. local time на среда, accompanied entourage top American business leaders и economic advisors. с trade и access technology as major points contention betwee",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/13/persecution-in-china-continues-as-trump-lands-in-beijing/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-13",
+      "lat": 39.6935,
+      "lng": 116.1919,
+      "country": "China",
+      "city": "Beijing",
+      "type": "other",
+      "title": "China vs. God",
+      "description": "Когда президент Donald Trump и Chinese leader Xi Jinping meet в Beijing позже на этой неделе, there will be lot discuss: war, peace, Iran, Taiwan, trade. Trump has vowed bring up another issue too: case Ezra Jin. христианин пастор и th",
+      "source": "newsapi:Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-religion/4379041/posts",
       "victims": 0
     },
     {
@@ -6426,84 +6504,6 @@
       "description": "Poll shows Catholics disapprove президент Donald Trump’s performance as президент, overall, including на how he has handled conflict с Iran.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/poll-trump-catholic-decline",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 35.7576,
-      "lng": 51.4701,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Христианин right’s жертва complex fuels Trump’s Iran war",
-      "description": "Для evangelicals, there's no limit в defending президент's cruelty",
-      "source": "newsapi:Salon",
-      "url": "https://www.salon.com/2026/04/10/the-christian-rights-victim-complex-fuels-trumps-iran-war/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 21.1343,
-      "lng": 85.1539,
-      "country": "India",
-      "city": "Odisha",
-      "type": "other",
-      "title": "Biblical Story Esther в Context US-Iran War",
-      "description": "# chhotebhai – Shouldn’t Melania be jealous this relationship с another женщина? No, because Esther is not угроза her marriage. post Biblical Story Esther в Context US-Iran War appeared первый на Indian Catholic Matt",
-      "source": "newsapi:Indiancatholicmatters.org",
-      "url": "https://www.indiancatholicmatters.org/the-biblical-story-of-esther-in-the-context-of-us-iran-war/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 36.2747,
-      "lng": 59.6816,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Президент и папа: world's most influential Americans are odds Iran",
-      "description": "American папа is directly criticising American президент war в Iran. This is historic первый. папа's stance aligns с established церковь teachings. президент's administration claims divine endorsement для conflict.",
-      "source": "newsapi:The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/a-president-and-a-pope-the-worlds-most-influential-americans-are-at-odds-over-iran/articleshow/130159276.cms",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 35.7374,
-      "lng": 51.2817,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Tehran кардинал breaks silence: ‘I celebrated Пасха Vigil carrying you all в my heart’",
-      "description": "Архиепископ Tehran reflects на being separated из his flock на Пасха, Filipino епископ speaks out для doves, French церковь is разгромлен, и more в на этой неделе’s world news roundup.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/tehran-cardinal-breaks-silence-i-celebrated-the-easter-vigil-carrying-you-all-in-my-heart",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 33.5593,
-      "lng": 36.2948,
-      "country": "Syria",
-      "city": "Damascus",
-      "type": "attack",
-      "title": "Syrian церкви Quietly Meet Following Violent атака",
-      "description": "Пока Syrian христиане usually celebrate Пасха с parades и various дети’s activities, no celebrations took place в этом году. христиане simply attended молитва meetings inside their церкви. This follows incident that happened в посёлок",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/10/syrian-churches-quietly-meet-following-violent-attack/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 35.6735,
-      "lng": 51.5436,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Look Leo’s words, just wars, и what’s not considered",
-      "description": "На Palm воскресенье, папа Leo said в his проповедь that God “does not listen молитвы those who wage war.” Since start US-Iran conflict, папа has repeatedly called для peace и criticized war, и his comments have sparked lot",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/04/10/a-look-at-leos-words-just-wars-and-whats-not-considered/",
       "victims": 0
     }
   ]
