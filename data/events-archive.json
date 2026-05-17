@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-16T18:45:11.884Z",
+    "lastUpdated": "2026-05-17T01:49:29.764Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-05-17",
+      "lat": 9.0195,
+      "lng": 7.7084,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Makinde grace BSN board meeting",
+      "description": "Oyo штат губернатор Seyi Makinde will declare open 59th National Board Meeting Библия Society Nigeria (BSN) в Ogbomoso на май 20, 2026. Read More: https://punchng.com/makinde--grace-bsn-board-meeting/",
+      "source": "punchng",
+      "url": "https://punchng.com/makinde-to-grace-bsn-board-meeting/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-05-16",
       "lat": 28.1248,
@@ -56,6 +69,45 @@
       "description": "Desire “overcome any препятствия dialogue based на вера и charity” was heart phone call between папа Leo XIV и Coptic папа Tawadros II на пятница, май 15, Vatican press release noted. More than two годы после breakdown",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/05/16/pope-leo-xiv-reaches-out-to-leader-of-egypts-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-16",
+      "lat": 31.2912,
+      "lng": 29.6844,
+      "country": "Egypt",
+      "city": "Alexandria",
+      "type": "other",
+      "title": "Папа Leo XIV reaches out leader Egypt’s христиане",
+      "description": "Desire “overcome any препятствия dialogue based на вера и charity” was heart phone call between папа Leo XIV и Coptic папа Tawadros II на пятница, май 15, Vatican press release noted. More than two годы после breakdown",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/05/16/pope-leo-xiv-reaches-out-to-leader-of-egypts-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-16",
+      "lat": 9.2963,
+      "lng": 9.4062,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Tarsus diocese restored после more than век",
+      "description": "There is сейчас episcopal presence в Tarsus; dioceses в Ireland и Canada are celebrating рукоположения; Nigerian священник is freed, и more в на этой неделе’s roundup world news.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/tarsus-diocese-restored-after-more-than-a-century",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-16",
+      "lat": 23.341,
+      "lng": -82.5221,
+      "country": "Cuba",
+      "city": "Havana",
+      "type": "discrimination",
+      "title": "Cubana Chief священник loses bid для БТР reps ticket в Imo",
+      "description": "Cubana Chief священник has lost All Progressives конгресс, БТР, primary election для seat в House представители. post Cubana Chief священник loses bid для БТР reps ticket в Imo appeared первый на Vanguard News.",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/05/cubana-chief-priest-loses-bid-for-apc-reps-ticket-in-imo/",
       "victims": 0
     },
     {
@@ -134,6 +186,32 @@
       "description": "Президент Donald Trump said пятница he raised issue с Chinese президент Xi Jinping releasing prominent задержан пастор и заключён Hong Kong activist Jimmy Lai, Catholic, и quoted Xi as saying Lai’s case is “tough one.”",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-asia/2026/05/trump-says-xi-is-considering-a-detained-pastors-case-but-freeing-catholic-activist-jimmy-lai-is-tough/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-15",
+      "lat": 31.1829,
+      "lng": 121.4475,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "arrest",
+      "title": "Христианин Publishers Endure Harsh Conditions в тюрьма",
+      "description": "Chang Yuchun и his wife, Li Chenhui, remain в brutal conditions в separate тюрьмы в Xi’ город, Shaanxi провинция, China. couple was involved в printing христианин literature и materials в Xi’ в 2015. в июль 2020, their company was",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/15/christian-publishers-endure-harsh-conditions-in-prison/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-15",
+      "lat": 44.0133,
+      "lng": 87.6316,
+      "country": "China",
+      "city": "Xinjiang",
+      "type": "arrest",
+      "title": "Trump Wavers на Freeing заключён Chinese Catholic Activist Despite 2024 кампания Promise: ‘Would Be Tough One’",
+      "description": "Президент Donald Trump cast doubt на possibility freeing Catholic activist из Chinese тюрьма following his recent meeting с президент Xi. post Trump Wavers на Freeing заключён Chinese Catholic Activist Despite 2024 кампания Prom",
+      "source": "newsapi:Mediaite",
+      "url": "https://www.mediaite.com/politics/trump-wavers-on-freeing-imprisoned-chinese-catholic-activist-despite-2024-campaign-promise-would-be-a-tough-one/",
       "victims": 0
     },
     {
@@ -363,6 +441,19 @@
       "lng": 3.2101,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "other",
+      "title": "New program set up teach lay catechists для growing Catholic population в Africa",
+      "description": "90 percent Catholics в Nigeria are thought go месса every воскресенье, highest proportion в world. They need lay catechists.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-africa/2026/05/new-program-set-up-to-teach-lay-catechists-for-growing-catholic-population-in-africa/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-14",
+      "lat": 8.832,
+      "lng": 7.495,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "other",
       "title": "New program set up teach lay catechists для growing Catholic population в Africa",
       "description": "90 percent Catholics в Nigeria are thought go месса every воскресенье, highest proportion в world. They need lay catechists.",
@@ -6413,97 +6504,6 @@
       "description": "На Palm воскресенье, папа Leo said в his проповедь that God “does not listen молитвы those who wage war.” Since start US-Iran conflict, папа has repeatedly called для peace и criticized war, и his comments have sparked lot",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/04/10/a-look-at-leos-words-just-wars-and-whats-not-considered/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 36.3147,
-      "lng": 59.7117,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "В open letter, Asian кардинал warns Americans ‘moral failure’ Iran war",
-      "description": "Filipino кардинал Pablo Virgilio David, one Asia’s most prominent Catholic prelates, wrote open letter Americans и warned them “moral failure” в U.S.-Israel war на Iran.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-asia/2026/04/in-open-letter-asian-cardinal-warns-americans-of-moral-failure-over-iran-war/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 27.0904,
-      "lng": 81.1228,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "other",
-      "title": "Indian Supreme суд ruling could deprive 'untouchable' христиане protections",
-      "description": "Indian Supreme суд ruling could deprive христиане-конверты из among lowest castes access affirmative action programmes и other benefits.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/indian-supreme-court-ruling-could-deprive-untouchable-christians-of-protections",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 32.7837,
-      "lng": 51.8873,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Tehran кардинал breaks silence: ‘I celebrated Пасха Vigil carrying you all в my heart’",
-      "description": "Архиепископ Tehran reflects на being separated из his flock на Пасха, Filipino епископ speaks out для doves, French церковь is разгромлен, и more в на этой неделе’s world news roundup.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/tehran-cardinal-breaks-silence-i-celebrated-the-easter-vigil-carrying-you-all-in-my-heart",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 36.1826,
-      "lng": 37.3678,
-      "country": "Syria",
-      "city": "Aleppo",
-      "type": "attack",
-      "title": "Syrian церкви Quietly Meet Following Violent атака",
-      "description": "Пока Syrian христиане usually celebrate Пасха с parades и various дети’s activities, no celebrations took place в этом году. христиане simply attended молитва meetings inside their церкви. This follows incident that happened в посёлок",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/10/syrian-churches-quietly-meet-following-violent-attack/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 6.648,
-      "lng": 3.5017,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "1,400 христиане убит в Nigeria so far в этом году, new report claims",
-      "description": "Intersociety said that 1,800 христиане were похищен в same период - с 180 abductees убит.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/over-1-400-christians-killed-in-nigeria-so-far-this-year-new-report-claims",
-      "victims": 400
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 32.729,
-      "lng": 51.4635,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Poll: Catholic support для президент Donald Trump drops below 50% amid Iran war",
-      "description": "Poll shows Catholics disapprove президент Donald Trump’s performance as президент, overall, including на how he has handled conflict с Iran.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/poll-trump-catholic-decline",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 29.8097,
-      "lng": 52.6726,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "Президент и папа: world's most influential Americans are odds Iran",
-      "description": "American папа is directly criticising American президент war в Iran. This is historic первый. папа's stance aligns с established церковь teachings. президент's administration claims divine endorsement для conflict.",
-      "source": "newsapi:The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/a-president-and-a-pope-the-worlds-most-influential-americans-are-at-odds-over-iran/articleshow/130159276.cms",
       "victims": 0
     }
   ]
