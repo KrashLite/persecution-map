@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-17T12:50:14.889Z",
+    "lastUpdated": "2026-05-17T18:50:46.594Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,19 @@
       "description": "Seyi Tinubu offers encouragement Cubana Chief священник после socialite lost БТР primary election для House представители seat в Imo штат. Read More: https://punchng.com/seyi-tinubu-consoles-cubana-chief-священник-после-БТР-primary-def",
       "source": "punchng",
       "url": "https://punchng.com/seyi-tinubu-consoles-cubana-chief-priest-after-apc-primary-defeat/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-17",
+      "lat": 31.046,
+      "lng": 121.6443,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "other",
+      "title": "Христианин церковь в mainland China since 1949",
+      "description": "History христианин церковь в mainland China since 1949 is story characterised times dramatic upheaval, near разрушение и мученичество, и unexpected revival.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/the-christian-church-in-mainland-china-since-1949",
       "victims": 0
     },
     {
@@ -285,6 +298,19 @@
       "lng": 113.7541,
       "country": "China",
       "city": "Guangdong",
+      "type": "arrest",
+      "title": "Trump Wavers на Freeing заключён Chinese Catholic Activist Despite 2024 кампания Promise: ‘Would Be Tough One’",
+      "description": "Президент Donald Trump cast doubt на possibility freeing Catholic activist из Chinese тюрьма following his recent meeting с президент Xi. post Trump Wavers на Freeing заключён Chinese Catholic Activist Despite 2024 кампания Prom",
+      "source": "newsapi:Mediaite",
+      "url": "https://www.mediaite.com/politics/trump-wavers-on-freeing-imprisoned-chinese-catholic-activist-despite-2024-campaign-promise-would-be-a-tough-one/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-15",
+      "lat": 39.9747,
+      "lng": 116.6551,
+      "country": "China",
+      "city": "Beijing",
       "type": "arrest",
       "title": "Trump Wavers на Freeing заключён Chinese Catholic Activist Despite 2024 кампания Promise: ‘Would Be Tough One’",
       "description": "Президент Donald Trump cast doubt на possibility freeing Catholic activist из Chinese тюрьма following his recent meeting с президент Xi. post Trump Wavers на Freeing заключён Chinese Catholic Activist Despite 2024 кампания Prom",
@@ -6479,32 +6505,6 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/indian-supreme-court-ruling-could-deprive-untouchable-christians-of-protections",
       "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 14.3736,
-      "lng": 121.1545,
-      "country": "Philippines",
-      "city": "Manila",
-      "type": "other",
-      "title": "Церкви worldwide join папа Leo’s молитва vigil для peace на апрель 11 amid ongoing global conflicts",
-      "description": "Епископы’ conferences в United штаты, Mexico, Philippines, Italy, и Spain have urged their faithful join папа Leo XIV на апрель 11 в молящийся для peace.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/vatican/peace-a-gift-and-a-mission-churches-worldwide-join-the-popes-vigil-on-april-11",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 12.0701,
-      "lng": 13.3029,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "1,400 христиане убит в Nigeria so far в этом году, new report claims",
-      "description": "Intersociety said that 1,800 христиане were похищен в same период - с 180 abductees убит.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/over-1-400-christians-killed-in-nigeria-so-far-this-year-new-report-claims",
-      "victims": 400
     }
   ]
 }
