@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-17T01:49:29.764Z",
+    "lastUpdated": "2026-05-17T08:08:33.374Z",
     "totalEvents": 500
   },
   "events": [
@@ -111,6 +111,19 @@
       "victims": 0
     },
     {
+      "date": "2026-05-16",
+      "lat": 12.1558,
+      "lng": 8.4143,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Tarsus diocese restored после more than век",
+      "description": "There is сейчас episcopal presence в Tarsus; dioceses в Ireland и Canada are celebrating рукоположения; Nigerian священник is freed, и more в на этой неделе’s roundup world news.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/tarsus-diocese-restored-after-more-than-a-century",
+      "victims": 0
+    },
+    {
       "date": "2026-05-15",
       "lat": 8.9864,
       "lng": 9.4626,
@@ -207,6 +220,32 @@
       "lng": 87.6316,
       "country": "China",
       "city": "Xinjiang",
+      "type": "arrest",
+      "title": "Trump Wavers на Freeing заключён Chinese Catholic Activist Despite 2024 кампания Promise: ‘Would Be Tough One’",
+      "description": "Президент Donald Trump cast doubt на possibility freeing Catholic activist из Chinese тюрьма following his recent meeting с президент Xi. post Trump Wavers на Freeing заключён Chinese Catholic Activist Despite 2024 кампания Prom",
+      "source": "newsapi:Mediaite",
+      "url": "https://www.mediaite.com/politics/trump-wavers-on-freeing-imprisoned-chinese-catholic-activist-despite-2024-campaign-promise-would-be-a-tough-one/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-15",
+      "lat": 31.2992,
+      "lng": 121.2825,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "arrest",
+      "title": "Trump says Xi is considering задержан пастор’s case, but freeing Catholic activist Jimmy Lai is ‘tough’",
+      "description": "Президент Donald Trump said пятница he raised issue с Chinese президент Xi Jinping releasing prominent задержан пастор и заключён Hong Kong activist Jimmy Lai, Catholic, и quoted Xi as saying Lai’s case is “tough one.”",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/05/trump-says-xi-is-considering-a-detained-pastors-case-but-freeing-catholic-activist-jimmy-lai-is-tough/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-15",
+      "lat": 23.3387,
+      "lng": 113.7541,
+      "country": "China",
+      "city": "Guangdong",
       "type": "arrest",
       "title": "Trump Wavers на Freeing заключён Chinese Catholic Activist Despite 2024 кампания Promise: ‘Would Be Tough One’",
       "description": "Президент Donald Trump cast doubt на possibility freeing Catholic activist из Chinese тюрьма following his recent meeting с президент Xi. post Trump Wavers на Freeing заключён Chinese Catholic Activist Despite 2024 кампания Prom",
@@ -6465,45 +6504,6 @@
       "description": "Indian Supreme суд ruling could deprive христиане-конверты из among lowest castes access affirmative action programmes и other benefits.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/indian-supreme-court-ruling-could-deprive-untouchable-christians-of-protections",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 34.6851,
-      "lng": 36.5838,
-      "country": "Syria",
-      "city": "Homs",
-      "type": "attack",
-      "title": "Syrian церкви Quietly Meet Following Violent атака",
-      "description": "Пока Syrian христиане usually celebrate Пасха с parades и various дети’s activities, no celebrations took place в этом году. христиане simply attended молитва meetings inside their церкви. This follows incident that happened в посёлок",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/10/syrian-churches-quietly-meet-following-violent-attack/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 36.1613,
-      "lng": 59.3793,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Poll: Catholic support для президент Donald Trump drops below 50% amid Iran war",
-      "description": "Poll shows Catholics disapprove президент Donald Trump’s performance as президент, overall, including на how he has handled conflict с Iran.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/poll-trump-catholic-decline",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 36.2232,
-      "lng": 59.5795,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Look Leo’s words, just wars, и what’s not considered",
-      "description": "На Palm воскресенье, папа Leo said в his проповедь that God “does not listen молитвы those who wage war.” Since start US-Iran conflict, папа has repeatedly called для peace и criticized war, и his comments have sparked lot",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/04/10/a-look-at-leos-words-just-wars-and-whats-not-considered/",
       "victims": 0
     }
   ]
