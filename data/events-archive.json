@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-18T09:34:56.472Z",
+    "lastUpdated": "2026-05-18T14:50:30.001Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-05-18",
+      "lat": 12.0055,
+      "lng": 13.3621,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "Do not испытание Trump’s resolve, US lawmaker warns террористы в Nigeria",
+      "description": "US congressman warns террористы targeting христиане в Nigeria, highlighting joint US-Nigerian strike that убит top ИГИЛ commander. Read More: https://punchng.com/do-not-испытание-trumps-resolve-us-lawmaker-warns-террористы-в-nigeria/",
+      "source": "punchng",
+      "url": "https://punchng.com/do-not-test-trumps-resolve-us-lawmaker-warns-terrorists-in-nigeria/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-18",
+      "lat": 10.3775,
+      "lng": 7.5265,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "kidnapping",
+      "title": "CAN condemns Oyo школа похищения, demands urgent action",
+      "description": "Христианин Association Nigeria (CAN) condemns recent Oyo школа похищения, calling them ‘national disgrace’ и demanding urgent правительство ac Read More: https://punchng.com/can-condemns-oyo-школа-похищения-demands-urgent-action/",
+      "source": "punchng",
+      "url": "https://punchng.com/can-condemns-oyo-school-abductions-demands-urgent-action/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-05-17",
       "lat": 9.0195,
@@ -181,6 +207,19 @@
       "lng": 7.4252,
       "country": "Nigeria",
       "city": "Kaduna",
+      "type": "other",
+      "title": "Tarsus diocese restored после more than век",
+      "description": "There is сейчас episcopal presence в Tarsus; dioceses в Ireland и Canada are celebrating рукоположения; Nigerian священник is freed, и more в на этой неделе’s roundup world news.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/tarsus-diocese-restored-after-more-than-a-century",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-16",
+      "lat": 11.6891,
+      "lng": 13.309,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "other",
       "title": "Tarsus diocese restored после more than век",
       "description": "There is сейчас episcopal presence в Tarsus; dioceses в Ireland и Canada are celebrating рукоположения; Nigerian священник is freed, и more в на этой неделе’s roundup world news.",
@@ -6465,45 +6504,6 @@
       "description": "Indian Supreme суд ruling could deprive христиане-конверты из among lowest castes access affirmative action programmes и other benefits.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/indian-supreme-court-ruling-could-deprive-untouchable-christians-of-protections",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 11.7948,
-      "lng": 8.5379,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "kidnapping",
-      "title": "Kaduna прихожане атака: Odinkalu, CSOs fault армия rescue claim",
-      "description": "Civil society groups dispute Nigerian армия’s claim rescuing жертвы из Kaduna прихожане атака, stating all 38 abductees remain в плен Read More: https://punchng.com/kaduna-прихожане-атака-odinkalu-csos-fault-армия--rescue",
-      "source": "punchng",
-      "url": "https://punchng.com/kaduna-worshippers-attack-odinkalu-csos-fault-army-over-rescue-claim/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 29.4982,
-      "lng": 52.3508,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "Look Leo’s words, just wars, и what’s not considered",
-      "description": "На Palm воскресенье, папа Leo said в his проповедь that God “does not listen молитвы those who wage war.” Since start US-Iran conflict, папа has repeatedly called для peace и criticized war, и his comments have sparked lot",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/04/10/a-look-at-leos-words-just-wars-and-whats-not-considered/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 29.8421,
-      "lng": 52.7564,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "В open letter, Asian кардинал warns Americans ‘moral failure’ Iran war",
-      "description": "Filipino кардинал Pablo Virgilio David, one Asia’s most prominent Catholic prelates, wrote open letter Americans и warned them “moral failure” в U.S.-Israel war на Iran.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-asia/2026/04/in-open-letter-asian-cardinal-warns-americans-of-moral-failure-over-iran-war/",
       "victims": 0
     }
   ]
