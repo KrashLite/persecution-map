@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-17T18:50:46.594Z",
+    "lastUpdated": "2026-05-18T01:59:14.144Z",
     "totalEvents": 500
   },
   "events": [
@@ -51,6 +51,19 @@
       "lng": 121.6443,
       "country": "China",
       "city": "Shanghai",
+      "type": "other",
+      "title": "Христианин церковь в mainland China since 1949",
+      "description": "History христианин церковь в mainland China since 1949 is story characterised times dramatic upheaval, near разрушение и мученичество, и unexpected revival.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/the-christian-church-in-mainland-china-since-1949",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-17",
+      "lat": 23.1562,
+      "lng": 113.9862,
+      "country": "China",
+      "city": "Guangdong",
       "type": "other",
       "title": "Христианин церковь в mainland China since 1949",
       "description": "History христианин церковь в mainland China since 1949 is story characterised times dramatic upheaval, near разрушение и мученичество, и unexpected revival.",
@@ -6491,19 +6504,6 @@
       "description": "Прихожане were able pray снова Jerusalem’s holy sites четверг после Israel lifted ограничения it imposed на large public gatherings throughout war с Iran nearly six недели ago.",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-the-middle-east/2026/04/israel-lifts-restrictions-at-holy-sites-in-jerusalem-after-fragile-ceasefire-announced/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 21.3284,
-      "lng": 81.6502,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "other",
-      "title": "Indian Supreme суд ruling could deprive 'untouchable' христиане protections",
-      "description": "Indian Supreme суд ruling could deprive христиане-конверты из among lowest castes access affirmative action programmes и other benefits.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/indian-supreme-court-ruling-could-deprive-untouchable-christians-of-protections",
       "victims": 0
     }
   ]
