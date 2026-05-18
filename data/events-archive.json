@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-18T14:50:30.001Z",
+    "lastUpdated": "2026-05-18T19:22:15.788Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,32 @@
       "description": "Христианин Association Nigeria (CAN) condemns recent Oyo школа похищения, calling them ‘national disgrace’ и demanding urgent правительство ac Read More: https://punchng.com/can-condemns-oyo-школа-похищения-demands-urgent-action/",
       "source": "punchng",
       "url": "https://punchng.com/can-condemns-oyo-school-abductions-demands-urgent-action/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-18",
+      "lat": 12.134,
+      "lng": 8.7028,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Nigeria Catholic больница fire leaves Marian statue untouched, draws non-Catholics молитва",
+      "description": "Fire Mother Christ Specialist больница в Diocese Enugu broke out на май 12, causing vast повреждение — but Marian statue was left untouched amid flames.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/nigeria-catholic-hospital-fire-leaves-marian-statue-untouched-draws-non-catholics-to-prayer",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-18",
+      "lat": 21.2774,
+      "lng": 81.6309,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "discrimination",
+      "title": "Indian Catholics отказано залог после confronting толпа that disrupted месса",
+      "description": "Nine parishioners face обращение и attempted убийство обвинения после forcing out intruders who штурмован деревня церковь во время месса в Rajasthan.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/indian-catholics-denied-bail-after-confronting-mob-that-disrupted-mass",
       "victims": 0
     },
     {
@@ -228,6 +254,19 @@
       "victims": 0
     },
     {
+      "date": "2026-05-16",
+      "lat": 6.7419,
+      "lng": 3.5572,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Tarsus diocese restored после more than век",
+      "description": "There is сейчас episcopal presence в Tarsus; dioceses в Ireland и Canada are celebrating рукоположения; Nigerian священник is freed, и more в на этой неделе’s roundup world news.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/tarsus-diocese-restored-after-more-than-a-century",
+      "victims": 0
+    },
+    {
       "date": "2026-05-15",
       "lat": 8.9864,
       "lng": 9.4626,
@@ -381,6 +420,19 @@
       "description": "Chang Yuchun и his wife, Li Chenhui, remain в brutal conditions в separate тюрьмы в Xi’ город, Shaanxi провинция, China. couple was involved в printing христианин literature и materials в Xi’ в 2015. в июль 2020, their company was",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/15/christian-publishers-endure-harsh-conditions-in-prison/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-15",
+      "lat": 30.1628,
+      "lng": 31.0768,
+      "country": "Egypt",
+      "city": "Cairo",
+      "type": "other",
+      "title": "На friendship в letter Egyptian Copts: this is what папа Rome says папа Egypt",
+      "description": "Letter из Holy Father His Holiness Tawadros II на occasion Coptic-Catholic Friendship день post на friendship в letter Egyptian Copts: this is what папа Rome says папа Egypt appeared первый на ZENIT - English.",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/05/15/on-friendship-in-a-letter-to-egyptian-copts-this-is-what-the-pope-of-rome-says-to-the-pope-of-egypt/",
       "victims": 0
     },
     {
@@ -1005,6 +1057,19 @@
       "description": "Least six христианин sanitation workers have погиб в recent недели cleaning sewers в Pakistan. Rights groups say minorities are systematically channeled в hazardous work.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/deaths-of-christian-sanitation-workers-in-pakistan-highlight-systemic-discrimination",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-13",
+      "lat": 24.8476,
+      "lng": 67.0777,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "kidnapping",
+      "title": "Stolen Innocence: похищение и вынужден Marriage христианин Girls в Pakistan",
+      "description": "Each год в Pakistan, roughly 1,000 young girls — many whom are христиане — are похищен из their homes. These girls are often found месяцы позже, после they’ve been вынужден convert ислам и marry older мусульманин мужчины. когда girl’s parents",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/13/stolen-innocence-the-abduction-and-forced-marriage-of-christian-girls-in-pakistan/",
       "victims": 0
     },
     {
@@ -6440,71 +6505,6 @@
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/04/bloody-holy-week-147-killed-in-nigeria/",
       "victims": 147
-    },
-    {
-      "date": "2026-04-11",
-      "lat": 10.7072,
-      "lng": 7.6234,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Lights democracy are going out в Nigeria, Dele Sobowale",
-      "description": "“There are some situations one simply cannot be neutral о; because когда you are neutral, you become accomplice” – Christiana Anampour, CNN. для reasons too numerous discuss, I had since my дни в университет vowed never participate в po",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/04/the-lights-of-democracy-are-going-out-in-nigeria-by-dele-sobowale/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 10.6378,
-      "lng": 7.4971,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "1,400 христиане убит в Nigeria so far в этом году, new report claims",
-      "description": "Intersociety said that 1,800 христиане were похищен в same период - с 180 abductees убит.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/over-1-400-christians-killed-in-nigeria-so-far-this-year-new-report-claims",
-      "victims": 400
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 29.5754,
-      "lng": 52.6094,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "discrimination",
-      "title": "Israel lifts ограничения holy sites в Jerusalem после fragile ceasefire announced",
-      "description": "Прихожане were able pray снова Jerusalem’s holy sites четверг после Israel lifted ограничения it imposed на large public gatherings throughout war с Iran nearly six недели ago.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-middle-east/2026/04/israel-lifts-restrictions-at-holy-sites-in-jerusalem-after-fragile-ceasefire-announced/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 10.5056,
-      "lng": 7.4929,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "attack",
-      "title": "Плато, Benue убийства: Nigeria под-policed, says cleric",
-      "description": "Abuja cleric calls для more полиция recruitment, stating Nigeria is под-policed, leading unabated атаки на христианские общины в North. Read More: https://punchng.com/плато-benue-убийства-nigeria-под-policed-says-cleric/",
-      "source": "punchng",
-      "url": "https://punchng.com/plateau-benue-killings-nigeria-under-policed-says-cleric/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 21.1556,
-      "lng": 85.3061,
-      "country": "India",
-      "city": "Odisha",
-      "type": "other",
-      "title": "Indian Supreme суд ruling could deprive 'untouchable' христиане protections",
-      "description": "Indian Supreme суд ruling could deprive христиане-конверты из among lowest castes access affirmative action programmes и other benefits.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/indian-supreme-court-ruling-could-deprive-untouchable-christians-of-protections",
-      "victims": 0
     }
   ]
 }
