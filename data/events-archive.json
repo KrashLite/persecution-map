@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-18T01:59:14.144Z",
+    "lastUpdated": "2026-05-18T09:34:56.472Z",
     "totalEvents": 500
   },
   "events": [
@@ -329,6 +329,19 @@
       "description": "Президент Donald Trump cast doubt на possibility freeing Catholic activist из Chinese тюрьма following his recent meeting с президент Xi. post Trump Wavers на Freeing заключён Chinese Catholic Activist Despite 2024 кампания Prom",
       "source": "newsapi:Mediaite",
       "url": "https://www.mediaite.com/politics/trump-wavers-on-freeing-imprisoned-chinese-catholic-activist-despite-2024-campaign-promise-would-be-a-tough-one/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-15",
+      "lat": 39.6562,
+      "lng": 116.3062,
+      "country": "China",
+      "city": "Beijing",
+      "type": "arrest",
+      "title": "Христианин Publishers Endure Harsh Conditions в тюрьма",
+      "description": "Chang Yuchun и his wife, Li Chenhui, remain в brutal conditions в separate тюрьмы в Xi’ город, Shaanxi провинция, China. couple was involved в printing христианин literature и materials в Xi’ в 2015. в июль 2020, their company was",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/15/christian-publishers-endure-harsh-conditions-in-prison/",
       "victims": 0
     },
     {
@@ -6491,19 +6504,6 @@
       "description": "Filipino кардинал Pablo Virgilio David, one Asia’s most prominent Catholic prelates, wrote open letter Americans и warned them “moral failure” в U.S.-Israel war на Iran.",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-asia/2026/04/in-open-letter-asian-cardinal-warns-americans-of-moral-failure-over-iran-war/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-10",
-      "lat": 36.2927,
-      "lng": 59.5175,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "discrimination",
-      "title": "Israel lifts ограничения holy sites в Jerusalem после fragile ceasefire announced",
-      "description": "Прихожане were able pray снова Jerusalem’s holy sites четверг после Israel lifted ограничения it imposed на large public gatherings throughout war с Iran nearly six недели ago.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-middle-east/2026/04/israel-lifts-restrictions-at-holy-sites-in-jerusalem-after-fragile-ceasefire-announced/",
       "victims": 0
     }
   ]
