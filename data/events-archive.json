@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-19T14:28:52.869Z",
+    "lastUpdated": "2026-05-19T19:32:16.332Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-05-19",
+      "lat": 21.092,
+      "lng": 81.8342,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "murder",
+      "title": "Salesians honor 3 members убит в India 25 годы ago as ethnic tensions persist",
+      "description": "Relatives и former novices gathered в northeast India honor two священники и брат убит боевики в 2001 — even as fresh ethnic violence roils регион.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/salesians-honor-three-members-killed-in-india-25-years-ago-as-ethnic-tensions-persist",
+      "victims": 3
+    },
     {
       "date": "2026-05-18",
       "lat": 12.0055,
@@ -160,6 +173,32 @@
       "description": "В недели leading up президент Donald Trump’s recent trip Beijing, broad array lawmakers и human rights защитники pressed him push для release пастор Ezra Jin, Jimmy Lai, и others unjustly заключён в China. Trump publi",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/18/president-trump-advocates-for-religious-prisoners-during-beijing-trip/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-18",
+      "lat": 6.519,
+      "lng": 3.2153,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Nigeria Catholic больница fire leaves Marian statue untouched, draws non-Catholics молитва",
+      "description": "Fire Mother Christ Specialist больница в Diocese Enugu broke out на май 12, causing vast повреждение — but Marian statue was left untouched amid flames.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/nigeria-catholic-hospital-fire-leaves-marian-statue-untouched-draws-non-catholics-to-prayer",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-18",
+      "lat": 18.9715,
+      "lng": 72.7018,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "discrimination",
+      "title": "Indian Catholics отказано залог после confronting толпа that disrupted месса",
+      "description": "Nine parishioners face обращение и attempted убийство обвинения после forcing out intruders who штурмован деревня церковь во время месса в Rajasthan.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/indian-catholics-denied-bail-after-confronting-mob-that-disrupted-mass",
       "victims": 0
     },
     {
@@ -6466,45 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/04/13/upcoming-trial-threatens-egyptian-christian-convert/",
       "victims": 0
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 9.1405,
-      "lng": 9.6326,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Фулани ополчения Kill More христиане после Holy неделя резни",
-      "description": "Христиане across central Nigeria are holding funerals following атаки во время и после Holy неделя that left least 157 люди погибшие в rural communities. Eight христиане were убит в поздно-ночь атака на Mbwelle деревня в Bokkos Local Govern",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/13/fulani-militias-kill-more-christians-after-holy-week-massacres/",
-      "victims": 157
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 11.7741,
-      "lng": 13.0393,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Папа’s Africa visit amid new смерть tolls в Nigeria, Congo, elsewhere",
-      "description": "As папа Francis begins his multi-country visit across Africa на этой неделе, journey unfolds against sobering backdrop: conflict, перемещение, и fragile hope across several регионы continent. His itinerary — including Algeria, Cameroon,",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/04/13/popes-africa-visit-amid-new-death-tolls-in-nigeria-congo-elsewhere/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 6.498,
-      "lng": 3.5673,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Фулани ополчения Kill More христиане после Holy неделя резни",
-      "description": "Христиане across central Nigeria are holding funerals following атаки во время и после Holy неделя that left least 157 люди погибшие в rural communities. Eight христиане were убит в поздно-ночь атака на Mbwelle деревня в Bokkos Local Govern",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/13/fulani-militias-kill-more-christians-after-holy-week-massacres/",
-      "victims": 157
     }
   ]
 }
