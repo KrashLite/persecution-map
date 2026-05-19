@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-19T01:59:52.274Z",
+    "lastUpdated": "2026-05-19T08:55:03.796Z",
     "totalEvents": 500
   },
   "events": [
@@ -95,6 +95,32 @@
       "description": "В недели leading up президент Donald Trump’s recent trip Beijing, broad array lawmakers и human rights защитники pressed him push для release пастор Ezra Jin, Jimmy Lai, и others unjustly заключён в China. Trump publi",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/18/president-trump-advocates-for-religious-prisoners-during-beijing-trip/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-18",
+      "lat": 10.4246,
+      "lng": 7.3175,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Nigeria Catholic больница fire leaves Marian statue untouched, draws non-Catholics молитва",
+      "description": "Fire Mother Christ Specialist больница в Diocese Enugu broke out на май 12, causing vast повреждение — but Marian statue was left untouched amid flames.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/nigeria-catholic-hospital-fire-leaves-marian-statue-untouched-draws-non-catholics-to-prayer",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-18",
+      "lat": 28.915,
+      "lng": 77.0524,
+      "country": "India",
+      "city": "Delhi",
+      "type": "discrimination",
+      "title": "Indian Catholics отказано залог после confronting толпа that disrupted месса",
+      "description": "Nine parishioners face обращение и attempted убийство обвинения после forcing out intruders who штурмован деревня церковь во время месса в Rajasthan.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/indian-catholics-denied-bail-after-confronting-mob-that-disrupted-mass",
       "victims": 0
     },
     {
@@ -467,6 +493,19 @@
       "lng": 31.0768,
       "country": "Egypt",
       "city": "Cairo",
+      "type": "other",
+      "title": "На friendship в letter Egyptian Copts: this is what папа Rome says папа Egypt",
+      "description": "Letter из Holy Father His Holiness Tawadros II на occasion Coptic-Catholic Friendship день post на friendship в letter Egyptian Copts: this is what папа Rome says папа Egypt appeared первый на ZENIT - English.",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/05/15/on-friendship-in-a-letter-to-egyptian-copts-this-is-what-the-pope-of-rome-says-to-the-pope-of-egypt/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-15",
+      "lat": 29.4569,
+      "lng": 32.9204,
+      "country": "Egypt",
+      "city": "Sinai",
       "type": "other",
       "title": "На friendship в letter Egyptian Copts: this is what папа Rome says папа Egypt",
       "description": "Letter из Holy Father His Holiness Tawadros II на occasion Coptic-Catholic Friendship день post на friendship в letter Egyptian Copts: this is what папа Rome says папа Egypt appeared первый на ZENIT - English.",
@@ -6465,45 +6504,6 @@
       "description": "Foursquare Gospel церковь в Nigeria has raised fresh concerns worsening security situation в country, calling на христиане intensify молитвы для peace и national stability. According statement на суббота, General Ove",
       "source": "punchng",
       "url": "https://punchng.com/foursquare-church-raises-the-alarm-over-rising-insecurity/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-12",
-      "lat": 34.1058,
-      "lng": 71.2764,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "other",
-      "title": "U.S.-Iran talks collapse as Vance cites nuclear impasse и Catholic leaders call для peace",
-      "description": "High-level face--face talks в Pakistan followed недели военные confrontation that began в поздно февраль и produced tenuous two-неделя ceasefire, which ends апрель 22.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/u-s-iran-talks-collapse-as-vance-cites-nuclear-impasse-and-catholic-leaders-call-for-peace",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-12",
-      "lat": 24.7225,
-      "lng": 67.2069,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "other",
-      "title": "U.S.-Iran talks collapse as Vance cites nuclear impasse и Catholic leaders call для peace",
-      "description": "High-level face--face talks в Pakistan followed недели военные confrontation that began в поздно февраль и produced tenuous two-неделя ceasefire, which ends апрель 22.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/u-s-iran-talks-collapse-as-vance-cites-nuclear-impasse-and-catholic-leaders-call-for-peace",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-12",
-      "lat": 31.3563,
-      "lng": 74.4074,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "other",
-      "title": "U.S.-Iran talks collapse as Vance cites nuclear impasse и Catholic leaders call для peace",
-      "description": "High-level face--face talks в Pakistan followed недели военные confrontation that began в поздно февраль и produced tenuous two-неделя ceasefire, which ends апрель 22.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/u-s-iran-talks-collapse-as-vance-cites-nuclear-impasse-and-catholic-leaders-call-for-peace",
       "victims": 0
     }
   ]
