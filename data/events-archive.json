@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-19T08:55:03.796Z",
+    "lastUpdated": "2026-05-19T14:28:52.869Z",
     "totalEvents": 500
   },
   "events": [
@@ -121,6 +121,45 @@
       "description": "Nine parishioners face обращение и attempted убийство обвинения после forcing out intruders who штурмован деревня церковь во время месса в Rajasthan.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/indian-catholics-denied-bail-after-confronting-mob-that-disrupted-mass",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-18",
+      "lat": 9.0484,
+      "lng": 7.6772,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Do not испытание Trump’s resolve, US lawmaker warns террористы в Nigeria",
+      "description": "US congressman warns террористы targeting христиане в Nigeria, highlighting joint US-Nigerian strike that убит top ИГИЛ commander. Read More: https://punchng.com/do-not-испытание-trumps-resolve-us-lawmaker-warns-террористы-в-nigeria/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/do-not-test-trumps-resolve-us-lawmaker-warns-terrorists-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-18",
+      "lat": 26.7219,
+      "lng": 81.0352,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "discrimination",
+      "title": "Indian Catholics отказано залог после confronting толпа that disrupted месса",
+      "description": "Nine parishioners face обращение и attempted убийство обвинения после forcing out intruders who штурмован деревня церковь во время месса в Rajasthan.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/indian-catholics-denied-bail-after-confronting-mob-that-disrupted-mass",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-18",
+      "lat": 39.9022,
+      "lng": 116.533,
+      "country": "China",
+      "city": "Beijing",
+      "type": "arrest",
+      "title": "Президент Trump защитники для религиозный Prisoners во время Beijing Trip",
+      "description": "В недели leading up президент Donald Trump’s recent trip Beijing, broad array lawmakers и human rights защитники pressed him push для release пастор Ezra Jin, Jimmy Lai, и others unjustly заключён в China. Trump publi",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/18/president-trump-advocates-for-religious-prisoners-during-beijing-trip/",
       "victims": 0
     },
     {
@@ -506,6 +545,19 @@
       "lng": 32.9204,
       "country": "Egypt",
       "city": "Sinai",
+      "type": "other",
+      "title": "На friendship в letter Egyptian Copts: this is what папа Rome says папа Egypt",
+      "description": "Letter из Holy Father His Holiness Tawadros II на occasion Coptic-Catholic Friendship день post на friendship в letter Egyptian Copts: this is what папа Rome says папа Egypt appeared первый на ZENIT - English.",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/05/15/on-friendship-in-a-letter-to-egyptian-copts-this-is-what-the-pope-of-rome-says-to-the-pope-of-egypt/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-15",
+      "lat": 28.1899,
+      "lng": 30.6254,
+      "country": "Egypt",
+      "city": "Minya",
       "type": "other",
       "title": "На friendship в letter Egyptian Copts: this is what папа Rome says папа Egypt",
       "description": "Letter из Holy Father His Holiness Tawadros II на occasion Coptic-Catholic Friendship день post на friendship в letter Egyptian Copts: this is what папа Rome says папа Egypt appeared первый на ZENIT - English.",
@@ -6453,58 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/04/13/fulani-militias-kill-more-christians-after-holy-week-massacres/",
       "victims": 157
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 29.9979,
-      "lng": 31.2161,
-      "country": "Egypt",
-      "city": "Cairo",
-      "type": "arrest",
-      "title": "Upcoming суд Threatens Egyptian христианин-конверт",
-      "description": "Egyptian христианин-конверт и internationally recognized prisoner conscience, Said Abdelrazek, is facing imminent суд hearing that защитники warn could determine whether he lives or disappears в Egypt’s notorious задержание system. Abd",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/13/upcoming-trial-threatens-egyptian-christian-convert/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 11.8652,
-      "lng": 13.193,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Фулани ополчения Kill More христиане после Holy неделя резни",
-      "description": "Христиане across central Nigeria are holding funerals following атаки во время и после Holy неделя that left least 157 люди погибшие в rural communities. Eight христиане were убит в поздно-ночь атака на Mbwelle деревня в Bokkos Local Govern",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/13/fulani-militias-kill-more-christians-after-holy-week-massacres/",
-      "victims": 157
-    },
-    {
-      "date": "2026-04-12",
-      "lat": 10.6831,
-      "lng": 7.5048,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "attack",
-      "title": "Пасха gets bloodier",
-      "description": "Grim pattern terror атаки на религиозный праздники highlights Nigeria’s security crisis, с церкви и public spaces becoming убийство fields. Read More: https://punchng.com/Пасха-gets-bloodier/",
-      "source": "punchng",
-      "url": "https://punchng.com/easter-gets-bloodier/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-12",
-      "lat": 12.0662,
-      "lng": 13.3659,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "Foursquare церковь raises alarm rising insecurity",
-      "description": "Foursquare Gospel церковь в Nigeria has raised fresh concerns worsening security situation в country, calling на христиане intensify молитвы для peace и national stability. According statement на суббота, General Ove",
-      "source": "punchng",
-      "url": "https://punchng.com/foursquare-church-raises-the-alarm-over-rising-insecurity/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
     }
   ]
 }
