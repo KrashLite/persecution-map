@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-18T19:22:15.788Z",
+    "lastUpdated": "2026-05-19T01:59:52.274Z",
     "totalEvents": 500
   },
   "events": [
@@ -56,6 +56,45 @@
       "description": "Nine parishioners face обращение и attempted убийство обвинения после forcing out intruders who штурмован деревня церковь во время месса в Rajasthan.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/indian-catholics-denied-bail-after-confronting-mob-that-disrupted-mass",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-18",
+      "lat": -4.2901,
+      "lng": 15.3215,
+      "country": "Democratic Republic of the Congo",
+      "city": "Kinshasa",
+      "type": "attack",
+      "title": "DRC христиане Face религиозный Extremism, Ebola",
+      "description": "В eastern Democratic Republic Congo (DRC), where ADF атаки have claimed countless lives и вынужден many христиане flee, new Ebola outbreak has begun. на май 14, власти confirmed this is country’s 17th epidemic since 1976. out",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/18/drc-christians-face-religious-extremism-ebola/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-18",
+      "lat": 20.8259,
+      "lng": 85.2204,
+      "country": "India",
+      "city": "Odisha",
+      "type": "discrimination",
+      "title": "Indian Catholics отказано залог после confronting толпа that disrupted месса",
+      "description": "Nine parishioners face обращение и attempted убийство обвинения после forcing out intruders who штурмован деревня церковь во время месса в Rajasthan.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/indian-catholics-denied-bail-after-confronting-mob-that-disrupted-mass",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-18",
+      "lat": 43.9501,
+      "lng": 87.4561,
+      "country": "China",
+      "city": "Xinjiang",
+      "type": "arrest",
+      "title": "Президент Trump защитники для религиозный Prisoners во время Beijing Trip",
+      "description": "В недели leading up президент Donald Trump’s recent trip Beijing, broad array lawmakers и human rights защитники pressed him push для release пастор Ezra Jin, Jimmy Lai, и others unjustly заключён в China. Trump publi",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/18/president-trump-advocates-for-religious-prisoners-during-beijing-trip/",
       "victims": 0
     },
     {
@@ -6466,45 +6505,6 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/u-s-iran-talks-collapse-as-vance-cites-nuclear-impasse-and-catholic-leaders-call-for-peace",
       "victims": 0
-    },
-    {
-      "date": "2026-04-12",
-      "lat": 4.2784,
-      "lng": 18.6013,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "discrimination",
-      "title": "Why Is папа Going Lebanon? What Is Dialogue с мусульмане Like? и What Is Role Charles de Foucauld? ZENIT’s Interview с кардинал Algeria",
-      "description": "Better understand католическая церковь в Algeria и implications Holy Father's Apostolic Visit, ZENIT interviewed кардинал Jean-Paul Vesco, архиепископ Algiers, who has resided в country для more than 22 годы. post Why Is",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/04/11/why-is-the-pope-going-to-lebanon-what-is-the-dialogue-with-muslims-like-and-what-is-the-role-of-charles-de-foucauld-zenits-interview-with-the-cardinal-of-algeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-12",
-      "lat": 33.5303,
-      "lng": 73.2702,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "other",
-      "title": "U.S.-Iran talks collapse as Vance cites nuclear impasse и Catholic leaders call для peace",
-      "description": "High-level face--face talks в Pakistan followed недели военные confrontation that began в поздно февраль и produced tenuous two-неделя ceasefire, which ends апрель 22.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/u-s-iran-talks-collapse-as-vance-cites-nuclear-impasse-and-catholic-leaders-call-for-peace",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-11",
-      "lat": 12.0334,
-      "lng": 8.7179,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Bloody Holy неделя: 147 убит в Nigeria",
-      "description": "Nigeria was soaked в blood во время 2026 христианин Holy неделя, as no fewer than 147 лица were убит в wave coordinated атаки post Bloody Holy неделя: 147 убит в Nigeria appeared первый на Vanguard News.",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/04/bloody-holy-week-147-killed-in-nigeria/",
-      "victims": 147
     }
   ]
 }
