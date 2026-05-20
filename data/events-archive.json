@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-20T14:29:40.793Z",
+    "lastUpdated": "2026-05-20T20:00:12.843Z",
     "totalEvents": 500
   },
   "events": [
@@ -72,6 +72,58 @@
       "victims": 0
     },
     {
+      "date": "2026-05-20",
+      "lat": 9.2715,
+      "lng": 7.3777,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Христианский учитель обезглавлен после школа атаки в Nigeria",
+      "description": "Michael Oyedokun, христианин math teacher в Nigeria, was убит после being похищен во время coordinated атаки на школы в Oriire Local правительство Area Oyo штат. According local sources, armed мужчины штурмован three школы along Ahoro-Es",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/20/christian-teacher-beheaded-after-school-attacks-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-20",
+      "lat": 21.4088,
+      "lng": 81.9546,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "murder",
+      "title": "3 пасторы убит Returning из Peace Conference",
+      "description": "Three tribal церковь пасторы из Thadou Baptist Association (TBA) India were убит, и four others were ранен в armed засада на май 13 в Kangpokpi район Manipur. Roughly 10 armed мужчины used автоматическое оружие shoot two vehicles",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/20/3-pastors-killed-returning-from-peace-conference/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-20",
+      "lat": 12.2167,
+      "lng": 8.8281,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "attack",
+      "title": "Bad news из Nigeria: школы raided, церкви сожжён",
+      "description": "Armed мужчины одновременно штурмован three школы— secondary школа и two primary школы—в Ahoro Esinele community Oriire район, Oyo штат, на пятница, май 16, seizing 39 students и seven teachers в what полиция described as coordinate",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/05/20/bad-news-from-nigeria-schools-raided-churches-burned/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-20",
+      "lat": 33.541,
+      "lng": 72.8097,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "other",
+      "title": "Pakistan епископ tells Crux сейчас meeting с папа Leo was ‘fruitful’",
+      "description": "Епископ Samson Shukardin Hyderabad, президент Catholic епископы' Conference Pakistan, spoke Crux сейчас о причастие и fraternity among our брат епископы во время their ad limina visit Rome meet папа Leo XIV.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/05/pakistan-bishop-tells-crux-now-meeting-with-pope-leo-was-fruitful/",
+      "victims": 0
+    },
+    {
       "date": "2026-05-19",
       "lat": 21.092,
       "lng": 81.8342,
@@ -108,6 +160,32 @@
       "description": "Around 12:15 p.m. на воскресенье, май 17, взрыв shattered silence following месса St. Paulus Nabuni Mbamogo Station церковь, Saint Michael Bilogai Parish, в Sugapa, Intan Jaya, Indonesia. closing молитва had barely begun waft through t",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/19/bomb-explodes-in-churchyard-following-worship-service/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-19",
+      "lat": 6.5681,
+      "lng": 3.5062,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "kidnapping",
+      "title": "Nigeria: священник Released после Three месяцы в плен",
+      "description": "Father Nathaniel Asuwaye was похищен на суббота, 7th февраль, когда боевики атакован Holy Trinity Parish в Karku, Kaduna штат, where he serves as Parish священник. post Nigeria: священник Released после Three месяцы в плен appeared первый на Z",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/05/19/nigeria-priest-released-after-three-months-in-captivity/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-19",
+      "lat": 9.0734,
+      "lng": 38.9111,
+      "country": "Ethiopia",
+      "city": "Addis Ababa",
+      "type": "other",
+      "title": "Growing Up христианин в Churchless Kingdom Saudi Arabia",
+      "description": "Полиция surveillance и intrusion are far more reality if you’re poorer и live в apartments that have illegal immigrants. These were types places where foreigners — often из Ethiopia or Philippines — would get caught as group p",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/05/19/growing-up-christian-in-the-churchless-kingdom-of-saudi-arabia/",
       "victims": 0
     },
     {
@@ -342,6 +420,19 @@
       "description": "В недели leading up президент Donald Trump’s recent trip Beijing, broad array lawmakers и human rights защитники pressed him push для release пастор Ezra Jin, Jimmy Lai, и others unjustly заключён в China. Trump publi",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/18/president-trump-advocates-for-religious-prisoners-during-beijing-trip/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-18",
+      "lat": 6.7665,
+      "lng": 3.3596,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Do not испытание Trump’s resolve, US lawmaker warns террористы в Nigeria",
+      "description": "US congressman warns террористы targeting христиане в Nigeria, highlighting joint US-Nigerian strike that убит top ИГИЛ commander. Read More: https://punchng.com/do-not-испытание-trumps-resolve-us-lawmaker-warns-террористы-в-nigeria/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/do-not-test-trumps-resolve-us-lawmaker-warns-terrorists-in-nigeria/",
       "victims": 0
     },
     {
@@ -6413,97 +6504,6 @@
       "description": "Meeting в Catholic Basilica Our Lady Africa concluded первый день папа’s journey Africa.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-recalls-the-living-seed-of-the-martyrs-of-algeria",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 11.8646,
-      "lng": 8.4475,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Фулани ополчения Kill More христиане после Holy неделя резни",
-      "description": "Христиане across central Nigeria are holding funerals following атаки во время и после Holy неделя that left least 157 люди погибшие в rural communities. Eight христиане were убит в поздно-ночь атака на Mbwelle деревня в Bokkos Local Govern",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/13/fulani-militias-kill-more-christians-after-holy-week-massacres/",
-      "victims": 157
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 9.0268,
-      "lng": 9.5679,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Фулани террористы kill 20 христиане в Nigeria's плато штат",
-      "description": "Боевики described as “фулани террористы” raided деревня в central Nigeria на четверг ночь и убит least 20 христиане, area residents said.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/fulani-terrorists-kill-20-christians-in-nigeria-s-plateau-state",
-      "victims": 20
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 32.7745,
-      "lng": 51.4236,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "‘60 Minutes’ takes stock католическая церковь под Leo с top кардиналы",
-      "description": "Three influential American кардиналы spoke о церковь под папа Leo XIV в interview на “60 Minutes” that looked rising обращения, patriotism, Iran war, и immigration enforcement.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/60-minutes-takes-stock-of-catholic-church-under-leo-with-top-cardinals",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 31.022,
-      "lng": 29.7525,
-      "country": "Egypt",
-      "city": "Alexandria",
-      "type": "arrest",
-      "title": "Upcoming суд Threatens Egyptian христианин-конверт",
-      "description": "Egyptian христианин-конверт и internationally recognized prisoner conscience, Said Abdelrazek, is facing imminent суд hearing that защитники warn could determine whether he lives or disappears в Egypt’s notorious задержание system. Abd",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/13/upcoming-trial-threatens-egyptian-christian-convert/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 36.804,
-      "lng": 3.026,
-      "country": "Algeria",
-      "city": "Algiers",
-      "type": "murder",
-      "title": "Папа Leo XIV honors 2 Spanish монахини убит в Algeria в 1994",
-      "description": "Augustinian монахини were о enter Catholic chapel в Algiers когда they were gunned down. папа Leo ранее visited their community в 2009 когда he was prior Order St. Augustine.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/pope-leo-xiv-honors-two-spanish-nuns-murdered-in-algeria-in-1994",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 9.065,
-      "lng": 7.3982,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Фулани ополчения Kill More христиане после Holy неделя резни",
-      "description": "Христиане across central Nigeria are holding funerals following атаки во время и после Holy неделя that left least 157 люди погибшие в rural communities. Eight христиане were убит в поздно-ночь атака на Mbwelle деревня в Bokkos Local Govern",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/13/fulani-militias-kill-more-christians-after-holy-week-massacres/",
-      "victims": 157
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 28.3141,
-      "lng": 30.7331,
-      "country": "Egypt",
-      "city": "Minya",
-      "type": "arrest",
-      "title": "Upcoming суд Threatens Egyptian христианин-конверт",
-      "description": "Egyptian христианин-конверт и internationally recognized prisoner conscience, Said Abdelrazek, is facing imminent суд hearing that защитники warn could determine whether he lives or disappears в Egypt’s notorious задержание system. Abd",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/13/upcoming-trial-threatens-egyptian-christian-convert/",
       "victims": 0
     }
   ]
