@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-20T08:50:37.441Z",
+    "lastUpdated": "2026-05-20T14:29:40.793Z",
     "totalEvents": 500
   },
   "events": [
@@ -18,6 +18,58 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/christians-call-for-ceasefire-amid-drc-s-ebola-crisis",
       "victims": 131
+    },
+    {
+      "date": "2026-05-20",
+      "lat": 9.2852,
+      "lng": 9.6873,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "attack",
+      "title": "Bad news из Nigeria: школы raided, церкви сожжён",
+      "description": "Armed мужчины одновременно штурмован three школы— secondary школа и two primary школы—в Ahoro Esinele community Oriire район, Oyo штат, на пятница, май 16, seizing 39 students и seven teachers в what полиция described as coordinate",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/05/20/bad-news-from-nigeria-schools-raided-churches-burned/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-20",
+      "lat": 23.092,
+      "lng": -82.4266,
+      "country": "Cuba",
+      "city": "Havana",
+      "type": "discrimination",
+      "title": "Cuba’s breaking point испытания церковь",
+      "description": "Cuba’s humanitarian crisis has reached breaking point, и католическая церковь is increasingly becoming one последний places where neediest can turn. епископ Arturo González Amador Santa Clara, президент Cuban епископы’ Conference,",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/05/20/cubas-breaking-point-tests-the-church/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-20",
+      "lat": 24.9492,
+      "lng": 67.0503,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "other",
+      "title": "Pakistan епископ tells Crux сейчас meeting с папа Leo was ‘fruitful’",
+      "description": "Епископ Samson Shukardin Hyderabad, президент Catholic епископы' Conference Pakistan, spoke Crux сейчас о причастие и fraternity among our брат епископы во время their ad limina visit Rome meet папа Leo XIV.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/05/pakistan-bishop-tells-crux-now-meeting-with-pope-leo-was-fruitful/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-20",
+      "lat": 23.2277,
+      "lng": -82.5144,
+      "country": "Cuba",
+      "city": "Havana",
+      "type": "discrimination",
+      "title": "Tinubu doesn’t fully trust me because I supported Peter Obi — Cubana Chief священник",
+      "description": "Socialite Cubana Chief священник says президент Bola Tinubu remains wary him because his past support для Peter Obi в 2023 presidential election. Read More: https://punchng.com/tinubu-doesnt-fully-trust-me-because-i-supported-peter-obi-cuban",
+      "source": "punchng",
+      "url": "https://punchng.com/tinubu-doesnt-fully-trust-me-because-i-supported-peter-obi-cubana-chief-priest/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
     },
     {
       "date": "2026-05-19",
@@ -350,6 +402,19 @@
       "lng": 113.9862,
       "country": "China",
       "city": "Guangdong",
+      "type": "other",
+      "title": "Христианин церковь в mainland China since 1949",
+      "description": "History христианин церковь в mainland China since 1949 is story characterised times dramatic upheaval, near разрушение и мученичество, и unexpected revival.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/the-christian-church-in-mainland-china-since-1949",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-17",
+      "lat": 43.7294,
+      "lng": 87.6816,
+      "country": "China",
+      "city": "Xinjiang",
       "type": "other",
       "title": "Христианин церковь в mainland China since 1949",
       "description": "History христианин церковь в mainland China since 1949 is story characterised times dramatic upheaval, near разрушение и мученичество, и unexpected revival.",
@@ -6439,71 +6504,6 @@
       "description": "Egyptian христианин-конверт и internationally recognized prisoner conscience, Said Abdelrazek, is facing imminent суд hearing that защитники warn could determine whether he lives or disappears в Egypt’s notorious задержание system. Abd",
       "source": "persecution",
       "url": "https://persecution.org/2026/04/13/upcoming-trial-threatens-egyptian-christian-convert/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 29.7247,
-      "lng": 52.5014,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "Trump lambasts папа Leo XIV, extending feud Iran war с первый American pontiff",
-      "description": "Президент Donald Trump delivered extraordinary broadside against папа Leo XIV на воскресенье ночь, saying he didn’t think U.S.-born global leader католическая церковь is “doing very good job.\"",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-usa/2026/04/trump-lambasts-pope-leo-xiv-extending-feud-over-iran-war-with-first-american-pontiff/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 32.8619,
-      "lng": 51.6404,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Папа calls для peace в Algeria against Iran war’s backdrop",
-      "description": "На his первый день в Algeria, Leo paid homage 19 martyrs и visiting remaining Augustinian монахини who run social services project out Algiers basilica that helps люди all веры.",
-      "source": "crux",
-      "url": "https://cruxnow.com/pope-in-africa/2026/04/pope-calls-for-peace-in-algeria-against-iran-wars-backdrop/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 9.1642,
-      "lng": 7.3879,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Фулани террористы Kill 20 христиане в плато штат, Nigeria",
-      "description": "Nigeria (христианин Daily International–утро Star News) – боевики described as “фулани террористы” raided деревня в central Nigeria на четверг ночь (апрель 9) и убит least 20 христиане, area residents said. assailants атакован Mbwell",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-bloggers/4374709/posts",
-      "victims": 20
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 11.8734,
-      "lng": 8.3715,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Фулани террористы kill 20 христиане в Nigeria's плато штат",
-      "description": "Боевики described as “фулани террористы” raided деревня в central Nigeria на четверг ночь и убит least 20 христиане, area residents said.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/fulani-terrorists-kill-20-christians-in-nigeria-s-plateau-state",
-      "victims": 20
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 35.9131,
-      "lng": 51.638,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "‘60 Minutes’ takes stock католическая церковь под Leo с top кардиналы",
-      "description": "Three influential American кардиналы spoke о церковь под папа Leo XIV в interview на “60 Minutes” that looked rising обращения, patriotism, Iran war, и immigration enforcement.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/60-minutes-takes-stock-of-catholic-church-under-leo-with-top-cardinals",
       "victims": 0
     }
   ]
