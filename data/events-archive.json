@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-20T01:58:09.747Z",
+    "lastUpdated": "2026-05-20T08:50:37.441Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-05-20",
+      "lat": -4.6311,
+      "lng": 15.4509,
+      "country": "Democratic Republic of the Congo",
+      "city": "Kinshasa",
+      "type": "murder",
+      "title": "Христиане call для ceasefire amid DRC's Ebola crisis",
+      "description": "So far 131 люди have been убит outbreak.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christians-call-for-ceasefire-amid-drc-s-ebola-crisis",
+      "victims": 131
+    },
     {
       "date": "2026-05-19",
       "lat": 21.092,
@@ -238,6 +251,45 @@
       "description": "US congressman warns террористы targeting христиане в Nigeria, highlighting joint US-Nigerian strike that убит top ИГИЛ commander. Read More: https://punchng.com/do-not-испытание-trumps-resolve-us-lawmaker-warns-террористы-в-nigeria/",
       "source": "newsapi:The Punch",
       "url": "https://punchng.com/do-not-test-trumps-resolve-us-lawmaker-warns-terrorists-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-18",
+      "lat": 10.294,
+      "lng": 7.2077,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Do not испытание Trump’s resolve, US lawmaker warns террористы в Nigeria",
+      "description": "US congressman warns террористы targeting христиане в Nigeria, highlighting joint US-Nigerian strike that убит top ИГИЛ commander. Read More: https://punchng.com/do-not-испытание-trumps-resolve-us-lawmaker-warns-террористы-в-nigeria/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/do-not-test-trumps-resolve-us-lawmaker-warns-terrorists-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-18",
+      "lat": 8.8832,
+      "lng": 7.6048,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Nigeria Catholic больница fire leaves Marian statue untouched, draws non-Catholics молитва",
+      "description": "Fire Mother Christ Specialist больница в Diocese Enugu broke out на май 12, causing vast повреждение — but Marian statue was left untouched amid flames.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/nigeria-catholic-hospital-fire-leaves-marian-statue-untouched-draws-non-catholics-to-prayer",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-18",
+      "lat": 23.31,
+      "lng": 113.8964,
+      "country": "China",
+      "city": "Guangdong",
+      "type": "arrest",
+      "title": "Президент Trump защитники для религиозный Prisoners во время Beijing Trip",
+      "description": "В недели leading up президент Donald Trump’s recent trip Beijing, broad array lawmakers и human rights защитники pressed him push для release пастор Ezra Jin, Jimmy Lai, и others unjustly заключён в China. Trump publi",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/18/president-trump-advocates-for-religious-prisoners-during-beijing-trip/",
       "victims": 0
     },
     {
@@ -641,6 +693,19 @@
       "description": "Letter из Holy Father His Holiness Tawadros II на occasion Coptic-Catholic Friendship день post на friendship в letter Egyptian Copts: this is what папа Rome says папа Egypt appeared первый на ZENIT - English.",
       "source": "zenit",
       "url": "https://zenit.org/2026/05/15/on-friendship-in-a-letter-to-egyptian-copts-this-is-what-the-pope-of-rome-says-to-the-pope-of-egypt/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-15",
+      "lat": 31.2798,
+      "lng": 121.5193,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "arrest",
+      "title": "Trump Wavers на Freeing заключён Chinese Catholic Activist Despite 2024 кампания Promise: ‘Would Be Tough One’",
+      "description": "Президент Donald Trump cast doubt на possibility freeing Catholic activist из Chinese тюрьма following his recent meeting с президент Xi. post Trump Wavers на Freeing заключён Chinese Catholic Activist Despite 2024 кампания Prom",
+      "source": "newsapi:Mediaite",
+      "url": "https://www.mediaite.com/politics/trump-wavers-on-freeing-imprisoned-chinese-catholic-activist-despite-2024-campaign-promise-would-be-a-tough-one/",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "Three influential American кардиналы spoke о церковь под папа Leo XIV в interview на “60 Minutes” that looked rising обращения, patriotism, Iran war, и immigration enforcement.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/60-minutes-takes-stock-of-catholic-church-under-leo-with-top-cardinals",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 29.7846,
-      "lng": 52.6685,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "Папа calls для peace в Algeria against Iran war’s backdrop",
-      "description": "На his первый день в Algeria, Leo paid homage 19 martyrs и visiting remaining Augustinian монахини who run social services project out Algiers basilica that helps люди all веры.",
-      "source": "crux",
-      "url": "https://cruxnow.com/pope-in-africa/2026/04/pope-calls-for-peace-in-algeria-against-iran-wars-backdrop/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 10.5385,
-      "lng": 7.1929,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Фулани ополчения Kill More христиане после Holy неделя резни",
-      "description": "Христиане across central Nigeria are holding funerals following атаки во время и после Holy неделя that left least 157 люди погибшие в rural communities. Eight христиане were убит в поздно-ночь атака на Mbwelle деревня в Bokkos Local Govern",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/13/fulani-militias-kill-more-christians-after-holy-week-massacres/",
-      "victims": 157
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 29.5644,
-      "lng": 52.618,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "‘60 Minutes’ takes stock католическая церковь под Leo с top кардиналы",
-      "description": "Three influential American кардиналы spoke о церковь под папа Leo XIV в interview на “60 Minutes” that looked rising обращения, patriotism, Iran war, и immigration enforcement.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/60-minutes-takes-stock-of-catholic-church-under-leo-with-top-cardinals",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 32.8976,
-      "lng": 51.9031,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Trump refuses apologize папа Leo XIV Iran war dispute, dismisses backlash against since-deleted Jesus post",
-      "description": "Президент Trump отказано apologize понедельник папа Leo XIV amid their public fight US-Iran war, claiming leader Roman католическая церковь “said things that are wrong.” “He was very much against what I’m doing с regard Iran, и",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4374752/posts",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 9.1533,
-      "lng": 7.4261,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Папа’s Africa visit amid new смерть tolls в Nigeria, Congo, elsewhere",
-      "description": "As папа Francis begins his multi-country visit across Africa на этой неделе, journey unfolds against sobering backdrop: conflict, перемещение, и fragile hope across several регионы continent. His itinerary — including Algeria, Cameroon,",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/04/13/popes-africa-visit-amid-new-death-tolls-in-nigeria-congo-elsewhere/",
       "victims": 0
     }
   ]
