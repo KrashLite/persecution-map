@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-20T20:00:12.843Z",
+    "lastUpdated": "2026-05-21T01:57:26.607Z",
     "totalEvents": 500
   },
   "events": [
@@ -124,6 +124,71 @@
       "victims": 0
     },
     {
+      "date": "2026-05-20",
+      "lat": 6.5117,
+      "lng": 3.3179,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Христианский учитель обезглавлен после школа атаки в Nigeria",
+      "description": "Michael Oyedokun, христианин math teacher в Nigeria, was убит после being похищен во время coordinated атаки на школы в Oriire Local правительство Area Oyo штат. According local sources, armed мужчины штурмован three школы along Ahoro-Es",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/20/christian-teacher-beheaded-after-school-attacks-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-20",
+      "lat": 28.5313,
+      "lng": 77.1567,
+      "country": "India",
+      "city": "Delhi",
+      "type": "murder",
+      "title": "3 пасторы убит Returning из Peace Conference",
+      "description": "Three tribal церковь пасторы из Thadou Baptist Association (TBA) India were убит, и four others were ранен в armed засада на май 13 в Kangpokpi район Manipur. Roughly 10 armed мужчины used автоматическое оружие shoot two vehicles",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/20/3-pastors-killed-returning-from-peace-conference/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-20",
+      "lat": 33.893,
+      "lng": 71.3869,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "other",
+      "title": "Pakistan епископ tells Crux сейчас meeting с папа Leo was ‘fruitful’",
+      "description": "Епископ Samson Shukardin Hyderabad, президент Catholic епископы' Conference Pakistan, spoke Crux сейчас о причастие и fraternity among our брат епископы во время their ad limina visit Rome meet папа Leo XIV.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/05/pakistan-bishop-tells-crux-now-meeting-with-pope-leo-was-fruitful/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-20",
+      "lat": 12.5931,
+      "lng": -8.2284,
+      "country": "Mali",
+      "city": "Bamako",
+      "type": "attack",
+      "title": "U.S. епископы publish letter solidarity с церковь в Mali following violent атаки",
+      "description": "United штаты Conference Catholic епископы has published letter solidarity с церковь в Mali expressing its condolences following several атаки в area.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/u-s-bishops-publish-letter-of-solidarity-with-church-in-mali-following-violent-attacks",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-20",
+      "lat": 4.2748,
+      "lng": 18.5694,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "Catholic Relief Services strives curb Ebola crisis в Central Africa",
+      "description": "CRS is partnering с Caritas медицинские центры across seven Catholic dioceses, along с Democratic Republic Congo министерство Health и World Health Organization.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/catholic-relief-services-strives-to-curb-ebola-crisis-in-central-africa",
+      "victims": 0
+    },
+    {
       "date": "2026-05-19",
       "lat": 21.092,
       "lng": 81.8342,
@@ -187,6 +252,32 @@
       "source": "zenit",
       "url": "https://zenit.org/2026/05/19/growing-up-christian-in-the-churchless-kingdom-of-saudi-arabia/",
       "victims": 0
+    },
+    {
+      "date": "2026-05-19",
+      "lat": 10.4653,
+      "lng": 7.3261,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "kidnapping",
+      "title": "Nigeria: священник Released после Three месяцы в плен",
+      "description": "Father Nathaniel Asuwaye was похищен на суббота, 7th февраль, когда боевики атакован Holy Trinity Parish в Karku, Kaduna штат, where he serves as Parish священник. post Nigeria: священник Released после Three месяцы в плен appeared первый на Z",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/05/19/nigeria-priest-released-after-three-months-in-captivity/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-19",
+      "lat": 18.8456,
+      "lng": 72.8354,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "murder",
+      "title": "Salesians honor 3 members убит в India 25 годы ago as ethnic tensions persist",
+      "description": "Relatives и former novices gathered в northeast India honor two священники и брат убит боевики в 2001 — even as fresh ethnic violence roils регион.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/salesians-honor-three-members-killed-in-india-25-years-ago-as-ethnic-tensions-persist",
+      "victims": 3
     },
     {
       "date": "2026-05-18",
@@ -6413,97 +6504,6 @@
       "description": "As папа Francis begins his multi-country visit across Africa на этой неделе, journey unfolds against sobering backdrop: conflict, перемещение, и fragile hope across several регионы continent. His itinerary — including Algeria, Cameroon,",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/04/13/popes-africa-visit-amid-new-death-tolls-in-nigeria-congo-elsewhere/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 36.5549,
-      "lng": 3.2477,
-      "country": "Algeria",
-      "city": "Algiers",
-      "type": "other",
-      "title": "Папа Leo XIV в Africa: 7 things know о католическая церковь в Algeria",
-      "description": "Папа Leo XIV kicks off his trip Africa в country Algeria, which is home small but lively Catholic population.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/pope-leo-in-africa-7-things-to-know-about-the-catholic-church-in-algeria",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 4.3918,
-      "lng": 18.7735,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "other",
-      "title": "9,000 христиане в Algeria welcome visit папа Leo",
-      "description": "Кардинал Jean-Paul Vesco said visit папа Leo is what церковь в Algeria needs this moment.",
-      "source": "crux",
-      "url": "https://cruxnow.com/pope-in-africa/2026/04/9000-christians-in-algeria-welcome-visit-by-pope-leo/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 6.2971,
-      "lng": 3.6142,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Фулани террористы kill 20 христиане в Nigeria's плато штат",
-      "description": "Боевики described as “фулани террористы” raided деревня в central Nigeria на четверг ночь и убит least 20 христиане, area residents said.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/fulani-terrorists-kill-20-christians-in-nigeria-s-plateau-state",
-      "victims": 20
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 35.8425,
-      "lng": 51.286,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Trump lambasts папа Leo XIV, extending feud Iran war с первый American pontiff",
-      "description": "Президент Donald Trump delivered extraordinary broadside against папа Leo XIV на воскресенье ночь, saying he didn’t think U.S.-born global leader католическая церковь is “doing very good job.\"",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-usa/2026/04/trump-lambasts-pope-leo-xiv-extending-feud-over-iran-war-with-first-american-pontiff/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 35.7095,
-      "lng": 51.3791,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Папа calls для peace в Algeria against Iran war’s backdrop",
-      "description": "На his первый день в Algeria, Leo paid homage 19 martyrs и visiting remaining Augustinian монахини who run social services project out Algiers basilica that helps люди all веры.",
-      "source": "crux",
-      "url": "https://cruxnow.com/pope-in-africa/2026/04/pope-calls-for-peace-in-algeria-against-iran-wars-backdrop/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 12.2312,
-      "lng": 8.6862,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Папа’s Africa visit amid new смерть tolls в Nigeria, Congo, elsewhere",
-      "description": "As папа Francis begins his multi-country visit across Africa на этой неделе, journey unfolds against sobering backdrop: conflict, перемещение, и fragile hope across several регионы continent. His itinerary — including Algeria, Cameroon,",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/04/13/popes-africa-visit-amid-new-death-tolls-in-nigeria-congo-elsewhere/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-13",
-      "lat": 36.6199,
-      "lng": 2.9905,
-      "country": "Algeria",
-      "city": "Algiers",
-      "type": "other",
-      "title": "Папа Leo XIV recalls ‘living seed’ martyrs Algeria",
-      "description": "Meeting в Catholic Basilica Our Lady Africa concluded первый день папа’s journey Africa.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-recalls-the-living-seed-of-the-martyrs-of-algeria",
       "victims": 0
     }
   ]
