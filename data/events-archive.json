@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-22T14:10:40.231Z",
+    "lastUpdated": "2026-05-22T19:20:52.152Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,32 @@
       "description": "As Mali reels из one deadliest waves violence в its recent history, католическая церковь в United штаты has reached across continents offer comfort и solidarity her сестра церковь в West Africa. епископ. Elias Zaidan",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/05/22/u-s-bishops-stand-with-mali-after-terror-attacks/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-22",
+      "lat": 43.5473,
+      "lng": 87.6932,
+      "country": "China",
+      "city": "Xinjiang",
+      "type": "arrest",
+      "title": "Six христиане арестован в China",
+      "description": "Six христиане were недавно арестован в China и are being accused fraud и “organizing activities несовершеннолетние that undermine public order.” Several sources spoke с ChinaAid, confirming that чиновники арестован five мужчины — Wei Yongqiang, He",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/22/six-christians-arrested-in-china/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-22",
+      "lat": 4.3376,
+      "lng": 18.3663,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "arrest",
+      "title": "Czech кардинал reflects на martyrs под коммунизм ahead священник beatifications",
+      "description": "Two священники were заключён и казнён Czechoslovak коммунист regime because its hatred Catholic вера, according Dicastery для Causes Saints.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/vatican/czech-cardinal-martyrs-under-communism",
       "victims": 0
     },
     {
@@ -616,6 +642,19 @@
       "source": "zenit",
       "url": "https://zenit.org/2026/05/20/nigeria-fulani-militias-kill-19-christians-in-plateau-attacks/",
       "victims": 19
+    },
+    {
+      "date": "2026-05-20",
+      "lat": 10.5234,
+      "lng": 7.4638,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "attack",
+      "title": "Bad news из Nigeria: школы raided, церкви сожжён",
+      "description": "Armed мужчины одновременно штурмован three школы— secondary школа и two primary школы—в Ahoro Esinele community Oriire район, Oyo штат, на пятница, май 16, seizing 39 students и seven teachers в what полиция described as coordinate",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/05/20/bad-news-from-nigeria-schools-raided-churches-burned/",
+      "victims": 0
     },
     {
       "date": "2026-05-19",
@@ -6465,45 +6504,6 @@
       "description": "Христианство faces increasingly hostile environment в India.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/indian-law-could-block-foreign-aid-to-missionaries-seize-church-properties",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-15",
-      "lat": 26.943,
-      "lng": 80.9212,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "other",
-      "title": "India’s правительство Plans Create христианин Welfare Board",
-      "description": "India has proposed National христианин Welfare Board address issues affecting христиане, particularly those related personal law и community practices. Although media announced proposal на прошлой неделе, no formal правительство statement has",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/15/indias-government-plans-to-create-christian-welfare-board/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-15",
-      "lat": 28.594,
-      "lng": 77.2689,
-      "country": "India",
-      "city": "Delhi",
-      "type": "other",
-      "title": "India’s правительство Plans Create христианин Welfare Board",
-      "description": "India has proposed National христианин Welfare Board address issues affecting христиане, particularly those related personal law и community practices. Although media announced proposal на прошлой неделе, no formal правительство statement has",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/15/indias-government-plans-to-create-christian-welfare-board/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-15",
-      "lat": 29.3799,
-      "lng": 52.791,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "What христиане Should Understand о Middle East Conflict",
-      "description": "Biblical perspective на Israel-Iran conflict, prophecy, и how христиане should respond сегодня с truth, молитва, и discernment.",
-      "source": "newsapi:Christianity.com",
-      "url": "https://www.christianity.com/wiki/current-events/what-christians-should-understand-about-the-middle-east-conflict.html",
       "victims": 0
     }
   ]
