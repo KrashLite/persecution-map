@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-23T08:02:45.418Z",
+    "lastUpdated": "2026-05-23T12:54:31.457Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-05-23",
+      "lat": 21.2535,
+      "lng": 81.7028,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "murder",
+      "title": "Three Baptist пасторы убит в Manipur засада после peace conference",
+      "description": "Жертвы were senior leaders Thadou Baptist Association India (TBAI), Baptist деноминация rooted в Thadou-Kuki community Manipur.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/three-baptist-pastors-killed-in-manipur-ambush-after-peace-conference",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-23",
+      "lat": 23.5787,
+      "lng": 90.2202,
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "type": "murder",
+      "title": "Hundreds Catholic leaders protest Israel смерть penalty law",
+      "description": "Catholic leaders protest new law в Israel expanding смертная казнь для Palestinians, Bangladesh запреты finding out sex дети в womb, и more в на этой неделе’s world news roundup.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/hundreds-of-catholic-leaders-protest-israel-death-penalty-law",
+      "victims": 150
+    },
     {
       "date": "2026-05-22",
       "lat": 9.1243,
@@ -688,6 +714,19 @@
       "lng": 7.2169,
       "country": "Nigeria",
       "city": "Kaduna",
+      "type": "attack",
+      "title": "Nigeria: фулани ополчения Kill 19 христиане в плато атаки",
+      "description": "Those ранен included женщины и дети between века 4 и 30 годы old. post Nigeria: фулани ополчения Kill 19 христиане в плато атаки appeared первый на ZENIT - English.",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/05/20/nigeria-fulani-militias-kill-19-christians-in-plateau-attacks/",
+      "victims": 19
+    },
+    {
+      "date": "2026-05-20",
+      "lat": 11.7955,
+      "lng": 13.2499,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "attack",
       "title": "Nigeria: фулани ополчения Kill 19 христиане в плато атаки",
       "description": "Those ранен included женщины и дети between века 4 и 30 годы old. post Nigeria: фулани ополчения Kill 19 христиане в плато атаки appeared первый на ZENIT - English.",
@@ -6465,45 +6504,6 @@
       "description": "Христианин Association Nigeria (CAN) warns верующие against engaging в религиозный hostility, stating you cannot fight для God с insults. Read More: https://punchng.com/you-cannot-fight-для-god-can-warns-against-религиозный-hostility/",
       "source": "punchng",
       "url": "https://punchng.com/you-cannot-fight-for-god-can-warns-against-religious-hostility/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-15",
-      "lat": 4.0035,
-      "lng": 11.2817,
-      "country": "Cameroon",
-      "city": "Yaounde",
-      "type": "other",
-      "title": "Папа Leo XIV в Africa: 8 things know о католическая церковь в Cameroon",
-      "description": "После concluding первый leg his African apostolic journey в Algeria, папа Leo XIV travels на среда Cameroon.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/pope-leo-xiv-in-africa-8-things-to-know-about-the-catholic-church-in-cameroon",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-15",
-      "lat": 21.1493,
-      "lng": 85.2468,
-      "country": "India",
-      "city": "Odisha",
-      "type": "other",
-      "title": "Indian law could блокировка foreign aid миссионеры, seize церковь properties",
-      "description": "Христианство faces increasingly hostile environment в India.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/indian-law-could-block-foreign-aid-to-missionaries-seize-church-properties",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-15",
-      "lat": 15.5433,
-      "lng": 32.6285,
-      "country": "Sudan",
-      "city": "Khartoum",
-      "type": "other",
-      "title": "Христиане call на British правительство help end Sudan war",
-      "description": "Sudan has been в штат civil war для most its post-independence history.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christians-call-on-british-government-to-help-end-sudan-war",
       "victims": 0
     }
   ]
