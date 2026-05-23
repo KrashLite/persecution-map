@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-22T19:20:52.152Z",
+    "lastUpdated": "2026-05-23T01:50:10.852Z",
     "totalEvents": 500
   },
   "events": [
@@ -290,6 +290,19 @@
       "description": "После students, teachers и young дети were похищен в Nigeria's Oyo штат на май 15, епископ Emmanuel Adetoyese Badejo has urged Catholics pray для жертвы.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/nigerian-bishop-appeals-for-prayers-for-safe-release-of-abducted-teachers-students-children",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-21",
+      "lat": 34.1551,
+      "lng": 71.3433,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "other",
+      "title": "Pakistani епископы invite папа Leo XIV visit, citing minority concerns",
+      "description": "Епископ Samson Shukardin extended invitation во время papal audience as христианские активисты urged Vatican attention богохульство cases и вынужден обращения.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-bishops-invite-pope-leo-xiv-to-visit-citing-minority-concerns",
       "victims": 0
     },
     {
@@ -655,6 +668,19 @@
       "source": "aleteia",
       "url": "https://aleteia.org/2026/05/20/bad-news-from-nigeria-schools-raided-churches-burned/",
       "victims": 0
+    },
+    {
+      "date": "2026-05-20",
+      "lat": 10.2662,
+      "lng": 7.2169,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "attack",
+      "title": "Nigeria: фулани ополчения Kill 19 христиане в плато атаки",
+      "description": "Those ранен included женщины и дети between века 4 и 30 годы old. post Nigeria: фулани ополчения Kill 19 христиане в плато атаки appeared первый на ZENIT - English.",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/05/20/nigeria-fulani-militias-kill-19-christians-in-plateau-attacks/",
+      "victims": 19
     },
     {
       "date": "2026-05-19",
@@ -6478,32 +6504,6 @@
       "description": "Supreme Knight Patrick Kelly is asking Catholics pray для папа и президент, as президент Trump снова criticized Leo’s comments о Iran war.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/kofc-responds-trump-leo-criticism",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-15",
-      "lat": 3.7271,
-      "lng": 11.6823,
-      "country": "Cameroon",
-      "city": "Yaounde",
-      "type": "other",
-      "title": "Христиане и мусульмане can ‘live together в peace’ – папа Leo says на plane leaving Algeria",
-      "description": "Departing one war-scarred nation для another, папа Leo XIV, en route из Algeria Cameroon на среда, pointed Saint Augustine и his emphasis на unity и harmonious life в common as guide для contemporary society.",
-      "source": "crux",
-      "url": "https://cruxnow.com/pope-in-africa/2026/04/christians-and-muslims-can-live-together-in-peace-pope-leo-says-on-plane-leaving-algeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-15",
-      "lat": 27.0604,
-      "lng": 81.1602,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "other",
-      "title": "Indian law could блокировка foreign aid миссионеры, seize церковь properties",
-      "description": "Христианство faces increasingly hostile environment в India.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/indian-law-could-block-foreign-aid-to-missionaries-seize-church-properties",
       "victims": 0
     }
   ]
