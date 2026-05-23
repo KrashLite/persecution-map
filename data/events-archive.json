@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-23T12:54:31.457Z",
+    "lastUpdated": "2026-05-23T18:52:23.494Z",
     "totalEvents": 500
   },
   "events": [
@@ -31,6 +31,19 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/hundreds-of-catholic-leaders-protest-israel-death-penalty-law",
       "victims": 150
+    },
+    {
+      "date": "2026-05-23",
+      "lat": -4.2394,
+      "lng": 15.4964,
+      "country": "Democratic Republic of the Congo",
+      "city": "Kinshasa",
+      "type": "murder",
+      "title": "Христианин aid organisations mobilise emergency Ebola response в Democratic Republic Congo",
+      "description": "Христианин aid organisations are mobilising emergency health responses в Democratic Republic Congo (DRC) following deadly Ebola outbreak в country’s north-east that has prompted international concern.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christian-aid-organisations-mobilise-emergency-ebola-response-in-democratic-republic-of-congo",
+      "victims": 0
     },
     {
       "date": "2026-05-22",
@@ -90,6 +103,19 @@
       "lng": 116.587,
       "country": "China",
       "city": "Beijing",
+      "type": "arrest",
+      "title": "Six христиане арестован в China",
+      "description": "Six христиане were недавно арестован в China и are being accused fraud и “organizing activities несовершеннолетние that undermine public order.” Several sources spoke с ChinaAid, confirming that чиновники арестован five мужчины — Wei Yongqiang, He",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/22/six-christians-arrested-in-china/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-22",
+      "lat": 31.0781,
+      "lng": 121.3411,
+      "country": "China",
+      "city": "Shanghai",
       "type": "arrest",
       "title": "Six христиане арестован в China",
       "description": "Six христиане were недавно арестован в China и are being accused fraud и “organizing activities несовершеннолетние that undermine public order.” Several sources spoke с ChinaAid, confirming that чиновники арестован five мужчины — Wei Yongqiang, He",
@@ -6478,32 +6504,6 @@
       "description": "Federal high суд в Abuja, Nigeria, has осуждён 386 люди на terrorism обвинения в one largest месса осуждения в recent times. Those осуждён were linked Исламское государство West Africa провинция (ISWAP) or Боко Харам, deadly te",
       "source": "persecution",
       "url": "https://persecution.org/2026/04/16/nigerian-government-convicts-nearly-400-on-terrorism-charges/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-15",
-      "lat": 36.5157,
-      "lng": 3.0777,
-      "country": "Algeria",
-      "city": "Algiers",
-      "type": "discrimination",
-      "title": "Algerian христиане ‘encouraged’ папа Leo’s visit после церковь закрытия",
-      "description": "Algerian правительство has “закрыт, course последний nine 10 годы, almost 50 церкви across country,” Kelsey Zorzi said.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/algerian-christians-encouraged-by-pope-leo-s-visit-after-church-closures",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-15",
-      "lat": 11.8849,
-      "lng": 13.3965,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "You cannot fight для God, CAN warns against религиозный hostility",
-      "description": "Христианин Association Nigeria (CAN) warns верующие against engaging в религиозный hostility, stating you cannot fight для God с insults. Read More: https://punchng.com/you-cannot-fight-для-god-can-warns-against-религиозный-hostility/",
-      "source": "punchng",
-      "url": "https://punchng.com/you-cannot-fight-for-god-can-warns-against-religious-hostility/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     }
   ]
