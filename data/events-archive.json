@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-23T18:52:23.494Z",
+    "lastUpdated": "2026-05-24T01:56:31.439Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,19 @@
       "description": "Христианин aid organisations are mobilising emergency health responses в Democratic Republic Congo (DRC) following deadly Ebola outbreak в country’s north-east that has prompted international concern.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/christian-aid-organisations-mobilise-emergency-ebola-response-in-democratic-republic-of-congo",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-23",
+      "lat": 18.9861,
+      "lng": 73.113,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "murder",
+      "title": "Three Baptist пасторы убит в Manipur засада после peace conference",
+      "description": "Жертвы were senior leaders Thadou Baptist Association India (TBAI), Baptist деноминация rooted в Thadou-Kuki community Manipur.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/three-baptist-pastors-killed-in-manipur-ambush-after-peace-conference",
       "victims": 0
     },
     {
@@ -116,6 +129,19 @@
       "lng": 121.3411,
       "country": "China",
       "city": "Shanghai",
+      "type": "arrest",
+      "title": "Six христиане арестован в China",
+      "description": "Six христиане were недавно арестован в China и are being accused fraud и “organizing activities несовершеннолетние that undermine public order.” Several sources spoke с ChinaAid, confirming that чиновники арестован five мужчины — Wei Yongqiang, He",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/22/six-christians-arrested-in-china/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-22",
+      "lat": 23.1907,
+      "lng": 113.5757,
+      "country": "China",
+      "city": "Guangdong",
       "type": "arrest",
       "title": "Six христиане арестован в China",
       "description": "Six христиане were недавно арестован в China и are being accused fraud и “organizing activities несовершеннолетние that undermine public order.” Several sources spoke с ChinaAid, confirming that чиновники арестован five мужчины — Wei Yongqiang, He",
@@ -369,6 +395,19 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-bishops-invite-pope-leo-xiv-to-visit-citing-minority-concerns",
       "victims": 0
+    },
+    {
+      "date": "2026-05-21",
+      "lat": 33.5701,
+      "lng": 73.0377,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "murder",
+      "title": "Justice Delayed: 13-год Struggle Peshawar церковь Blast выжившие",
+      "description": "На Sept. 22, 2013, twin suicide blasts tore through All Saints церковь Kohati Gate в Peshawar, Pakistan, убийство nearly 100 люди и wounding more than 200 others. атака, claimed Tehrik-e-Талибан Pakistan as retaliation для American dro",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/21/justice-delayed-the-13-year-struggle-of-the-peshawar-church-blast-survivors/",
+      "victims": 100
     },
     {
       "date": "2026-05-20",
@@ -6465,45 +6504,6 @@
       "description": "“ десятилетие в Xi Jinping’s Sinicization кампания и nearly eight годы since 2018 Holy See-China agreement, Catholics в China face escalating подавление” researcher Yalkun Uluyol said.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/china-pressures-underground-catholics-to-join-state-church-rights-group-says",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-16",
-      "lat": 9.3157,
-      "lng": 9.573,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Nigerian правительство Convicts Nearly 400 на Terrorism обвинения",
-      "description": "Federal high суд в Abuja, Nigeria, has осуждён 386 люди на terrorism обвинения в one largest месса осуждения в recent times. Those осуждён were linked Исламское государство West Africa провинция (ISWAP) or Боко Харам, deadly te",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/16/nigerian-government-convicts-nearly-400-on-terrorism-charges/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-16",
-      "lat": 9.0679,
-      "lng": 7.3159,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Nigerian правительство Convicts Nearly 400 на Terrorism обвинения",
-      "description": "Federal high суд в Abuja, Nigeria, has осуждён 386 люди на terrorism обвинения в one largest месса осуждения в recent times. Those осуждён were linked Исламское государство West Africa провинция (ISWAP) or Боко Харам, deadly te",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/16/nigerian-government-convicts-nearly-400-on-terrorism-charges/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-16",
-      "lat": 6.3062,
-      "lng": 3.4925,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Nigerian правительство Convicts Nearly 400 на Terrorism обвинения",
-      "description": "Federal high суд в Abuja, Nigeria, has осуждён 386 люди на terrorism обвинения в one largest месса осуждения в recent times. Those осуждён were linked Исламское государство West Africa провинция (ISWAP) or Боко Харам, deadly te",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/16/nigerian-government-convicts-nearly-400-on-terrorism-charges/",
       "victims": 0
     }
   ]
