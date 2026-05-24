@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-24T08:13:48.783Z",
+    "lastUpdated": "2026-05-24T12:55:00.950Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-05-24",
+      "lat": 39.7829,
+      "lng": 116.1859,
+      "country": "China",
+      "city": "Beijing",
+      "type": "other",
+      "title": "Why май 24 is день pray для Catholics в China",
+      "description": "Пока Catholics are slim minority в China, they certainly do exist и are not always well respected. It’s not easy professing your вера в land where nearly everyone you know is different вера system и who май not understand your choi",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/05/24/why-may-24-is-a-day-to-pray-for-catholics-in-china/",
+      "victims": 0
+    },
     {
       "date": "2026-05-23",
       "lat": 21.2535,
@@ -56,6 +69,32 @@
       "description": "Жертвы were senior leaders Thadou Baptist Association India (TBAI), Baptist деноминация rooted в Thadou-Kuki community Manipur.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/three-baptist-pastors-killed-in-manipur-ambush-after-peace-conference",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-23",
+      "lat": 26.7427,
+      "lng": 81.1632,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "murder",
+      "title": "Three Baptist пасторы убит в Manipur засада после peace conference",
+      "description": "Жертвы were senior leaders Thadou Baptist Association India (TBAI), Baptist деноминация rooted в Thadou-Kuki community Manipur.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/three-baptist-pastors-killed-in-manipur-ambush-after-peace-conference",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-23",
+      "lat": 20.9432,
+      "lng": 85.2725,
+      "country": "India",
+      "city": "Odisha",
+      "type": "murder",
+      "title": "Three Baptist пасторы убит в Manipur засада после peace conference",
+      "description": "Жертвы were senior leaders Thadou Baptist Association India (TBAI), Baptist деноминация rooted в Thadou-Kuki community Manipur.",
+      "source": "newsapi:Christiandaily.com",
+      "url": "https://www.christiandaily.com/news/three-baptist-pastors-killed-in-manipur-ambush-after-peace-conference",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Federal high суд в Abuja, Nigeria, has осуждён 386 люди на terrorism обвинения в one largest месса осуждения в recent times. Those осуждён were linked Исламское государство West Africa провинция (ISWAP) or Боко Харам, deadly te",
       "source": "persecution",
       "url": "https://persecution.org/2026/04/16/nigerian-government-convicts-nearly-400-on-terrorism-charges/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-16",
-      "lat": 35.7429,
-      "lng": 51.557,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Архиепископ Canterbury expresses solidarity с папа Leo XIV в calling для peace в Iran",
-      "description": "Архиепископ Sarah Mullally, who assumed her role as head церковь England в январь, said she stood с папа в his “courageous call для peace.”",
-      "source": "crux",
-      "url": "https://cruxnow.com/global-church/2026/04/archbishop-of-canterbury-expresses-solidarity-with-pope-leo-xiv-in-calling-for-peace-in-iran/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-16",
-      "lat": 32.8437,
-      "lng": 51.7022,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Архиепископ Canterbury expresses solidarity с папа Leo XIV в calling для peace в Iran",
-      "description": "Архиепископ Sarah Mullally, who assumed her role as head церковь England в январь, said she stood с папа в his “courageous call для peace.”",
-      "source": "crux",
-      "url": "https://cruxnow.com/global-church/2026/04/archbishop-of-canterbury-expresses-solidarity-with-pope-leo-xiv-in-calling-for-peace-in-iran/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-16",
-      "lat": 31.2294,
-      "lng": 121.4056,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "other",
-      "title": "China pressures underground Catholics join штат церковь, rights group says",
-      "description": "“ десятилетие в Xi Jinping’s Sinicization кампания и nearly eight годы since 2018 Holy See-China agreement, Catholics в China face escalating подавление” researcher Yalkun Uluyol said.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/china-pressures-underground-catholics-to-join-state-church-rights-group-says",
       "victims": 0
     }
   ]
