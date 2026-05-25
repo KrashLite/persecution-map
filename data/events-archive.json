@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-25T02:03:09.442Z",
+    "lastUpdated": "2026-05-25T09:44:10.939Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-05-25",
+      "lat": 10.3035,
+      "lng": 7.2977,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "discrimination",
+      "title": "Cardoso recommits orthodox monetary policy, transparency",
+      "description": "Emma Ujah губернатор Central Bank Nigeria, Olayemi Cardoso, has reaffirmed apex bank’s commitment orthodox monetary policy, transparency и evidence-based decision-making, warning against renewed calls для interventionist progr",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/05/cardoso-recommits-to-orthodox-monetary-policy-transparency/",
+      "victims": 0
+    },
     {
       "date": "2026-05-24",
       "lat": 39.7829,
@@ -129,6 +142,32 @@
       "lng": 52.8333,
       "country": "Iran",
       "city": "Shiraz",
+      "type": "other",
+      "title": "Мусульманин Countries Build мечети в West пока Persecuting христиане Home",
+      "description": "Construction исламский богослужение centers funded Turkey, Qatar, и Iran has been welcomed Western политики eager суд мусульманин immigrant vote. This general view taken на апрель 6, 2021, shows construction site Eyyub султан Mos",
+      "source": "newsapi:Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4380631/posts",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-23",
+      "lat": 28.748,
+      "lng": 77.3137,
+      "country": "India",
+      "city": "Delhi",
+      "type": "murder",
+      "title": "Three Baptist пасторы убит в Manipur засада после peace conference",
+      "description": "Жертвы were senior leaders Thadou Baptist Association India (TBAI), Baptist деноминация rooted в Thadou-Kuki community Manipur.",
+      "source": "newsapi:Christiandaily.com",
+      "url": "https://www.christiandaily.com/news/three-baptist-pastors-killed-in-manipur-ambush-after-peace-conference",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-23",
+      "lat": 35.8387,
+      "lng": 51.3298,
+      "country": "Iran",
+      "city": "Tehran",
       "type": "other",
       "title": "Мусульманин Countries Build мечети в West пока Persecuting христиане Home",
       "description": "Construction исламский богослужение centers funded Turkey, Qatar, и Iran has been welcomed Western политики eager суд мусульманин immigrant vote. This general view taken на апрель 6, 2021, shows construction site Eyyub султан Mos",
@@ -6465,45 +6504,6 @@
       "description": "“ десятилетие в Xi Jinping’s Sinicization кампания и nearly eight годы since 2018 Holy See-China agreement, Catholics в China face escalating подавление” researcher Yalkun Uluyol said.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/china-pressures-underground-catholics-to-join-state-church-rights-group-says",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-16",
-      "lat": 11.9181,
-      "lng": 8.7647,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Nigerian правительство Convicts Nearly 400 на Terrorism обвинения",
-      "description": "Federal high суд в Abuja, Nigeria, has осуждён 386 люди на terrorism обвинения в one largest месса осуждения в recent times. Those осуждён were linked Исламское государство West Africa провинция (ISWAP) or Боко Харам, deadly te",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/16/nigerian-government-convicts-nearly-400-on-terrorism-charges/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-16",
-      "lat": 29.4982,
-      "lng": 52.7993,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "Архиепископ Canterbury expresses solidarity с папа Leo XIV в calling для peace в Iran",
-      "description": "Архиепископ Sarah Mullally, who assumed her role as head церковь England в январь, said she stood с папа в his “courageous call для peace.”",
-      "source": "crux",
-      "url": "https://cruxnow.com/global-church/2026/04/archbishop-of-canterbury-expresses-solidarity-with-pope-leo-xiv-in-calling-for-peace-in-iran/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-16",
-      "lat": 35.6846,
-      "lng": 51.4378,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Христианин satellite TV has broadcast evangelical вера – и end-times prophecies – в Iran для десятилетия",
-      "description": "Satellite television has been key tool для евангелические церкви reach христиане и potential converts в Iran.",
-      "source": "newsapi:The Conversation Africa",
-      "url": "https://theconversation.com/christian-satellite-tv-has-broadcast-evangelical-faith-and-end-times-prophecies-into-iran-for-decades-280349",
       "victims": 0
     }
   ]
