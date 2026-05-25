@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-25T14:29:06.192Z",
+    "lastUpdated": "2026-05-25T19:12:50.876Z",
     "totalEvents": 500
   },
   "events": [
@@ -25,6 +25,19 @@
       "lng": 51.6301,
       "country": "Iran",
       "city": "Isfahan",
+      "type": "arrest",
+      "title": "Христианка преследуемый Iranian regime приговорён 9 годы в тюрьма",
+      "description": "Христианин-конверт в Iran has been приговорён nine годы и eight месяцы в тюрьма на trumped-up обвинения linked штат security и anti-правительство activity.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christian-woman-persecuted-by-iranian-regime-sentenced-to-9-years-in-prison",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-25",
+      "lat": 29.6068,
+      "lng": 52.4518,
+      "country": "Iran",
+      "city": "Shiraz",
       "type": "arrest",
       "title": "Христианка преследуемый Iranian regime приговорён 9 годы в тюрьма",
       "description": "Христианин-конверт в Iran has been приговорён nine годы и eight месяцы в тюрьма на trumped-up обвинения linked штат security и anti-правительство activity.",
@@ -6491,19 +6504,6 @@
       "description": "Federal high суд в Abuja, Nigeria, has осуждён 386 люди на terrorism обвинения в one largest месса осуждения в recent times. Those осуждён were linked Исламское государство West Africa провинция (ISWAP) or Боко Харам, deadly te",
       "source": "persecution",
       "url": "https://persecution.org/2026/04/16/nigerian-government-convicts-nearly-400-on-terrorism-charges/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-16",
-      "lat": 36.3529,
-      "lng": 59.4831,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Архиепископ Canterbury expresses solidarity с папа Leo XIV в calling для peace в Iran",
-      "description": "Архиепископ Sarah Mullally, who assumed her role as head церковь England в январь, said she stood с папа в his “courageous call для peace.”",
-      "source": "crux",
-      "url": "https://cruxnow.com/global-church/2026/04/archbishop-of-canterbury-expresses-solidarity-with-pope-leo-xiv-in-calling-for-peace-in-iran/",
       "victims": 0
     }
   ]
