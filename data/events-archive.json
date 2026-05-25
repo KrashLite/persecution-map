@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-25T09:44:10.939Z",
+    "lastUpdated": "2026-05-25T14:29:06.192Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "Emma Ujah губернатор Central Bank Nigeria, Olayemi Cardoso, has reaffirmed apex bank’s commitment orthodox monetary policy, transparency и evidence-based decision-making, warning against renewed calls для interventionist progr",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/05/cardoso-recommits-to-orthodox-monetary-policy-transparency/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-25",
+      "lat": 32.5125,
+      "lng": 51.6301,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "arrest",
+      "title": "Христианка преследуемый Iranian regime приговорён 9 годы в тюрьма",
+      "description": "Христианин-конверт в Iran has been приговорён nine годы и eight месяцы в тюрьма на trumped-up обвинения linked штат security и anti-правительство activity.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christian-woman-persecuted-by-iranian-regime-sentenced-to-9-years-in-prison",
       "victims": 0
     },
     {
@@ -6491,19 +6504,6 @@
       "description": "Архиепископ Sarah Mullally, who assumed her role as head церковь England в январь, said she stood с папа в his “courageous call для peace.”",
       "source": "crux",
       "url": "https://cruxnow.com/global-church/2026/04/archbishop-of-canterbury-expresses-solidarity-with-pope-leo-xiv-in-calling-for-peace-in-iran/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-16",
-      "lat": 23.6139,
-      "lng": 113.7505,
-      "country": "China",
-      "city": "Guangdong",
-      "type": "other",
-      "title": "China pressures underground Catholics join штат церковь, rights group says",
-      "description": "“ десятилетие в Xi Jinping’s Sinicization кампания и nearly eight годы since 2018 Holy See-China agreement, Catholics в China face escalating подавление” researcher Yalkun Uluyol said.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/china-pressures-underground-catholics-to-join-state-church-rights-group-says",
       "victims": 0
     }
   ]
