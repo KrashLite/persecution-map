@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-24T18:57:25.071Z",
+    "lastUpdated": "2026-05-25T02:03:09.442Z",
     "totalEvents": 500
   },
   "events": [
@@ -116,6 +116,19 @@
       "lng": 51.8327,
       "country": "Iran",
       "city": "Isfahan",
+      "type": "other",
+      "title": "Мусульманин Countries Build мечети в West пока Persecuting христиане Home",
+      "description": "Construction исламский богослужение centers funded Turkey, Qatar, и Iran has been welcomed Western политики eager суд мусульманин immigrant vote. This general view taken на апрель 6, 2021, shows construction site Eyyub султан Mos",
+      "source": "newsapi:Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4380631/posts",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-23",
+      "lat": 29.6927,
+      "lng": 52.8333,
+      "country": "Iran",
+      "city": "Shiraz",
       "type": "other",
       "title": "Мусульманин Countries Build мечети в West пока Persecuting христиане Home",
       "description": "Construction исламский богослужение centers funded Turkey, Qatar, и Iran has been welcomed Western политики eager суд мусульманин immigrant vote. This general view taken на апрель 6, 2021, shows construction site Eyyub султан Mos",
@@ -6491,19 +6504,6 @@
       "description": "Satellite television has been key tool для евангелические церкви reach христиане и potential converts в Iran.",
       "source": "newsapi:The Conversation Africa",
       "url": "https://theconversation.com/christian-satellite-tv-has-broadcast-evangelical-faith-and-end-times-prophecies-into-iran-for-decades-280349",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-16",
-      "lat": 39.9026,
-      "lng": 116.3094,
-      "country": "China",
-      "city": "Beijing",
-      "type": "other",
-      "title": "China pressures underground Catholics join штат церковь, rights group says",
-      "description": "“ десятилетие в Xi Jinping’s Sinicization кампания и nearly eight годы since 2018 Holy See-China agreement, Catholics в China face escalating подавление” researcher Yalkun Uluyol said.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/china-pressures-underground-catholics-to-join-state-church-rights-group-says",
       "victims": 0
     }
   ]
