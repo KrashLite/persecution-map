@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-26T01:54:36.733Z",
+    "lastUpdated": "2026-05-26T09:31:26.864Z",
     "totalEvents": 500
   },
   "events": [
@@ -46,6 +46,19 @@
       "victims": 0
     },
     {
+      "date": "2026-05-25",
+      "lat": 35.6966,
+      "lng": 51.4759,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "arrest",
+      "title": "Христианка преследуемый Iranian regime приговорён 9 годы в тюрьма",
+      "description": "Христианин-конверт в Iran has been приговорён nine годы и eight месяцы в тюрьма на trumped-up обвинения linked штат security и anti-правительство activity.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christian-woman-persecuted-by-iranian-regime-sentenced-to-9-years-in-prison",
+      "victims": 0
+    },
+    {
       "date": "2026-05-24",
       "lat": 39.7829,
       "lng": 116.1859,
@@ -64,6 +77,19 @@
       "lng": 121.4132,
       "country": "China",
       "city": "Shanghai",
+      "type": "other",
+      "title": "Why май 24 is день pray для Catholics в China",
+      "description": "Пока Catholics are slim minority в China, they certainly do exist и are not always well respected. It’s not easy professing your вера в land where nearly everyone you know is different вера system и who май not understand your choi",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/05/24/why-may-24-is-a-day-to-pray-for-catholics-in-china/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-24",
+      "lat": 23.3372,
+      "lng": 113.7216,
+      "country": "China",
+      "city": "Guangdong",
       "type": "other",
       "title": "Why май 24 is день pray для Catholics в China",
       "description": "Пока Catholics are slim minority в China, they certainly do exist и are not always well respected. It’s not easy professing your вера в land where nearly everyone you know is different вера system и who май not understand your choi",
@@ -6478,32 +6504,6 @@
       "description": "Wife Anambra штат губернатор, Nonye Soludo, has urged newly inaugurated executive members женщины Wing христианин Association Nigeria, Anambra штат chapter, use their офисы promote peace, good morals, и healthy",
       "source": "punchng",
       "url": "https://punchng.com/promote-peace-healthy-living-anambra-first-lady-urges-can-women/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-16",
-      "lat": 39.749,
-      "lng": 116.3763,
-      "country": "China",
-      "city": "Beijing",
-      "type": "discrimination",
-      "title": "China raises pressure на underground Catholics join чиновник церковь, Human Rights Watch finds",
-      "description": "Chinese власти are increasing pressure на underground Catholic communities join штат-controlled чиновник церковь пока tightening surveillance и travel ограничения на all China's Catholics, rights group said среда.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-asia/2026/04/china-raises-pressure-on-underground-catholics-to-join-official-church-human-rights-watch-finds/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-16",
-      "lat": 3.9198,
-      "lng": 11.6951,
-      "country": "Cameroon",
-      "city": "Yaounde",
-      "type": "other",
-      "title": "Папа Leo XIV в Cameroon urges христиане и мусульмане heal раны conflict",
-      "description": "Peace gathering в Bamenda’s Cathedral, папа praised interreligious solidarity и urged “true обращение” away из war.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-in-cameroon-urges-christians-and-muslims-to-heal-wounds-of-conflict",
       "victims": 0
     }
   ]
