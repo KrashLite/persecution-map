@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-26T14:32:08.584Z",
+    "lastUpdated": "2026-05-26T19:52:10.530Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,45 @@
       "description": "Папа Leo seems providentially destined be very close Algeria. main reason is that St. Augustine was епископ there, и в his recent trip country, he spent time ancient Hippo. But there’s another close link: martyrs Algeria,",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/05/26/the-martyr-who-gives-leo-his-love-for-disarm-idea/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-26",
+      "lat": 12.1449,
+      "lng": 8.7336,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "attack",
+      "title": "Фулани христиане Reject Violence, Bias в Nigeria’s Conflict Zones",
+      "description": "Фулани христианские лидеры и converts в Nigeria’s Middle Belt are calling для greater recognition peaceful фулани communities, saying they are increasingly trapped between атаки armed ополчения и growing public suspicion tied their ethni",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/26/fulani-christians-reject-violence-bias-in-nigerias-conflict-zones/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-26",
+      "lat": 8.9824,
+      "lng": 7.2975,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "kidnapping",
+      "title": "Епископ urges христиане в Nigeria speak ‘ language Pentecost’ amid insecurity",
+      "description": "В his Pentecost message, епископ Emmanuel Adetoyese Badejo Nigeria’s Diocese Oyo called на христиане invoke Holy Spirit against violence, похищение, и hatred.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/bishop-urges-christians-in-nigeria-to-speak-the-language-of-pentecost-amid-insecurity",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-26",
+      "lat": 33.8045,
+      "lng": 71.7566,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "kidnapping",
+      "title": "Full обращение: из христианский ребёнок мусульманин ребёнок Bride в Pakistan",
+      "description": "Though ребёнок marriage overall has decreased в recent десятилетия в Pakistan, there has been rise в похищение underage girls из minority веры who then undergo forcible обращение ислам и ensuing marriage мусульманин. Because thi",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/26/full-conversion-from-christian-child-to-muslim-child-bride-in-pakistan/",
       "victims": 0
     },
     {
@@ -69,6 +108,19 @@
       "description": "Христианин-конверт в Iran has been приговорён nine годы и eight месяцы в тюрьма на trumped-up обвинения linked штат security и anti-правительство activity.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/christian-woman-persecuted-by-iranian-regime-sentenced-to-9-years-in-prison",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-25",
+      "lat": 36.3335,
+      "lng": 59.5844,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "arrest",
+      "title": "Христианка преследуемый Iranian regime приговорён 9 годы в тюрьма",
+      "description": "Христианин-конверт в Iran has been приговорён nine годы и eight месяцы в тюрьма на trumped-up обвинения linked штат security и anti-правительство activity.",
+      "source": "newsapi:The Christian Post",
+      "url": "https://www.christianpost.com/news/iran-sentences-persecuted-christian-woman-to-9-years-in-prison.html",
       "victims": 0
     },
     {
@@ -1395,6 +1447,19 @@
       "description": "Fire Mother Christ Specialist больница в Diocese Enugu broke out на май 12, causing vast повреждение — but Marian statue was left untouched amid flames.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/nigeria-catholic-hospital-fire-leaves-marian-statue-untouched-draws-non-catholics-to-prayer",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-18",
+      "lat": 9.3396,
+      "lng": 9.7313,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Do not испытание Trump’s resolve, US lawmaker warns террористы в Nigeria",
+      "description": "US congressman warns террористы targeting христиане в Nigeria, highlighting joint US-Nigerian strike that убит top ИГИЛ commander. Read More: https://punchng.com/do-not-испытание-trumps-resolve-us-lawmaker-warns-террористы-в-nigeria/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/do-not-test-trumps-resolve-us-lawmaker-warns-terrorists-in-nigeria/",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "Вице-президент JD Vance asked Vatican “stick matters morality” amid папа Leo XIV’s Iran war concerns. Catholic theologians say war и other public policies are “matters morality.”",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/catholic-theologians-comment-vance-pope-leo-xiv",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-17",
-      "lat": 6.5507,
-      "lng": 3.3423,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "U.S. Embassy Vatican: Nigerian христиане are being targeted",
-      "description": "Посол Brian Burch described situation в Nigeria as “conflict between радикал исламский groups и христиане because their вера.”",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/vatican/us-embassy-to-the-vatican-nigerian-christians-are-being-targeted",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-17",
-      "lat": 9.2988,
-      "lng": 7.256,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "U.S. Embassy Vatican: Nigerian христиане are being targeted",
-      "description": "Посол Brian Burch described situation в Nigeria as “conflict between радикал исламский groups и христиане because their вера.”",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/vatican/us-embassy-to-the-vatican-nigerian-christians-are-being-targeted",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-17",
-      "lat": 12.0399,
-      "lng": 8.5099,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "U.S. Embassy Vatican: Nigerian христиане are being targeted",
-      "description": "Посол Brian Burch described situation в Nigeria as “conflict between радикал исламский groups и христиане because their вера.”",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/vatican/us-embassy-to-the-vatican-nigerian-christians-are-being-targeted",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-16",
-      "lat": 23.1319,
-      "lng": 113.5764,
-      "country": "China",
-      "city": "Guangdong",
-      "type": "discrimination",
-      "title": "China raises pressure на underground Catholics join чиновник церковь, Human Rights Watch finds",
-      "description": "Chinese власти are increasing pressure на underground Catholic communities join штат-controlled чиновник церковь пока tightening surveillance и travel ограничения на all China's Catholics, rights group said среда.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-asia/2026/04/china-raises-pressure-on-underground-catholics-to-join-official-church-human-rights-watch-finds/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-16",
-      "lat": 31.4431,
-      "lng": 121.2865,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "discrimination",
-      "title": "China raises pressure на underground Catholics join чиновник церковь, Human Rights Watch finds",
-      "description": "Chinese власти are increasing pressure на underground Catholic communities join штат-controlled чиновник церковь пока tightening surveillance и travel ограничения на all China's Catholics, rights group said среда.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-asia/2026/04/china-raises-pressure-on-underground-catholics-to-join-official-church-human-rights-watch-finds/",
       "victims": 0
     }
   ]
