@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-26T09:31:26.864Z",
+    "lastUpdated": "2026-05-26T14:32:08.584Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-05-26",
+      "lat": 36.5802,
+      "lng": 2.9792,
+      "country": "Algeria",
+      "city": "Algiers",
+      "type": "discrimination",
+      "title": "Martyr who gives Leo his love для “disarm” idea",
+      "description": "Папа Leo seems providentially destined be very close Algeria. main reason is that St. Augustine was епископ there, и в his recent trip country, he spent time ancient Hippo. But there’s another close link: martyrs Algeria,",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/05/26/the-martyr-who-gives-leo-his-love-for-disarm-idea/",
+      "victims": 0
+    },
     {
       "date": "2026-05-25",
       "lat": 10.3035,
@@ -6491,19 +6504,6 @@
       "description": "Chinese власти are increasing pressure на underground Catholic communities join штат-controlled чиновник церковь пока tightening surveillance и travel ограничения на all China's Catholics, rights group said среда.",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-asia/2026/04/china-raises-pressure-on-underground-catholics-to-join-official-church-human-rights-watch-finds/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-16",
-      "lat": 6.436,
-      "lng": 3.6254,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Promote peace, healthy living, Anambra первый Lady urges CAN женщины",
-      "description": "Wife Anambra штат губернатор, Nonye Soludo, has urged newly inaugurated executive members женщины Wing христианин Association Nigeria, Anambra штат chapter, use their офисы promote peace, good morals, и healthy",
-      "source": "punchng",
-      "url": "https://punchng.com/promote-peace-healthy-living-anambra-first-lady-urges-can-women/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     }
   ]
