@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-25T19:12:50.876Z",
+    "lastUpdated": "2026-05-26T01:54:36.733Z",
     "totalEvents": 500
   },
   "events": [
@@ -194,6 +194,19 @@
       "lng": 51.3298,
       "country": "Iran",
       "city": "Tehran",
+      "type": "other",
+      "title": "Мусульманин Countries Build мечети в West пока Persecuting христиане Home",
+      "description": "Construction исламский богослужение centers funded Turkey, Qatar, и Iran has been welcomed Western политики eager суд мусульманин immigrant vote. This general view taken на апрель 6, 2021, shows construction site Eyyub султан Mos",
+      "source": "newsapi:Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4380631/posts",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-23",
+      "lat": 36.1589,
+      "lng": 59.384,
+      "country": "Iran",
+      "city": "Mashhad",
       "type": "other",
       "title": "Мусульманин Countries Build мечети в West пока Persecuting христиане Home",
       "description": "Construction исламский богослужение centers funded Turkey, Qatar, и Iran has been welcomed Western политики eager суд мусульманин immigrant vote. This general view taken на апрель 6, 2021, shows construction site Eyyub султан Mos",
@@ -6491,19 +6504,6 @@
       "description": "Peace gathering в Bamenda’s Cathedral, папа praised interreligious solidarity и urged “true обращение” away из war.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-in-cameroon-urges-christians-and-muslims-to-heal-wounds-of-conflict",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-16",
-      "lat": 11.8984,
-      "lng": 13.3036,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Nigerian правительство Convicts Nearly 400 на Terrorism обвинения",
-      "description": "Federal high суд в Abuja, Nigeria, has осуждён 386 люди на terrorism обвинения в one largest месса осуждения в recent times. Those осуждён were linked Исламское государство West Africa провинция (ISWAP) or Боко Харам, deadly te",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/16/nigerian-government-convicts-nearly-400-on-terrorism-charges/",
       "victims": 0
     }
   ]
