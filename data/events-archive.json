@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-28T15:00:58.065Z",
+    "lastUpdated": "2026-05-28T20:01:56.640Z",
     "totalEvents": 500
   },
   "events": [
@@ -25,6 +25,32 @@
       "lng": 32.9933,
       "country": "Egypt",
       "city": "Sinai",
+      "type": "discrimination",
+      "title": "Egyptian правительство grants legal status 191 церкви и affiliated buildings",
+      "description": "Despite constitutional guarantees религиозный freedom, many христиане continue report дискриминация и social pressure.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/egyptian-government-grants-legal-status-to-191-churches-and-affiliated-buildings",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-28",
+      "lat": 10.6167,
+      "lng": 7.5052,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "5 убит, several похищен в fresh атаки на христианские общины в Nigeria",
+      "description": "Последний атака occurred на май 21 в outstation Kurmin Bongo, в Dangana район Kaduna штат.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/5-killed-several-abducted-in-fresh-attacks-on-christian-communities-in-nigeria",
+      "victims": 5
+    },
+    {
+      "date": "2026-05-28",
+      "lat": 31.232,
+      "lng": 30.0403,
+      "country": "Egypt",
+      "city": "Alexandria",
       "type": "discrimination",
       "title": "Egyptian правительство grants legal status 191 церкви и affiliated buildings",
       "description": "Despite constitutional guarantees религиозный freedom, many христиане continue report дискриминация и social pressure.",
@@ -200,6 +226,19 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/05/27/rss-whitewashes-record-amid-growing-scrutiny-over-persecution-in-india/",
       "victims": 0
+    },
+    {
+      "date": "2026-05-27",
+      "lat": 20.7191,
+      "lng": 84.989,
+      "country": "India",
+      "city": "Odisha",
+      "type": "murder",
+      "title": "20 христиане Still Held заложник в Manipur",
+      "description": "Hours после боевики убит three пасторы returning из peace conference на май 13 в India, other armed groups started похищение христиане. сегодня, 20 верующие are still being held заложник. three Kuki-Thadou пасторы had just attended Unit",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/27/20-christians-still-held-hostage-in-manipur/",
+      "victims": 20
     },
     {
       "date": "2026-05-26",
@@ -6466,45 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/04/20/8-christians-killed-during-overnight-attacks-in-plateau-state/",
       "victims": 8
-    },
-    {
-      "date": "2026-04-20",
-      "lat": 10.48,
-      "lng": 7.3515,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "8 христиане убит во время Overnight атаки в плато штат",
-      "description": "Least eight христиане were убит и 10 others ранен в series coordinated overnight атаки на communities в плато штат, Nigeria, according local sources. атаки were reported across Bassa, Barkin Ladi, и Riyom local gover",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/20/8-christians-killed-during-overnight-attacks-in-plateau-state/",
-      "victims": 8
-    },
-    {
-      "date": "2026-04-19",
-      "lat": 6.5094,
-      "lng": 3.2854,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "2027: Group backs Nwifuru, warns against ‘unfit’ lawmakers",
-      "description": "Dickson Omobola Young Ebonyi Businessmen Forum, Lagos штат Chapter, has said губернатор Francis Nwifuru Ebonyi штат deserves второй term в офис enable him complete all his signature projects being казнён across штат. associat",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/04/2027-group-backs-nwifuru-warns-against-unfit-lawmakers/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-18",
-      "lat": 34.1578,
-      "lng": 71.6818,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "arrest",
-      "title": "Pakistan: Truck Plows в Catholic Procession на Пасха воскресенье",
-      "description": "Driver, identified as Muhammad Bilal, fled scene, пока his assistant was задержан и vehicle изъят. обвинения have been filed под provisions related reckless driving, but investigators have not yet clarified whether negligence alone",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/04/17/pakistan-truck-plows-into-catholic-procession-on-easter-sunday/",
-      "victims": 0
     }
   ]
 }
