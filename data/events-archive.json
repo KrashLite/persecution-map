@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-28T01:46:59.401Z",
+    "lastUpdated": "2026-05-28T09:40:44.138Z",
     "totalEvents": 500
   },
   "events": [
@@ -116,6 +116,45 @@
       "lng": 77.0948,
       "country": "India",
       "city": "Delhi",
+      "type": "other",
+      "title": "RSS Whitewashes Record Amid Growing Scrutiny гонение в India",
+      "description": "Rashtriya Swayamsevak Sangh (RSS), индус nationalist organization widely regarded as ideological backbone India’s ruling Bharatiya Janata Party (BJP), has launched international outreach кампания aimed countering growing criticis",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/27/rss-whitewashes-record-amid-growing-scrutiny-over-persecution-in-india/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-27",
+      "lat": 18.9336,
+      "lng": 72.7635,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "murder",
+      "title": "20 христиане Still Held заложник в Manipur",
+      "description": "Hours после боевики убит three пасторы returning из peace conference на май 13 в India, other armed groups started похищение христиане. сегодня, 20 верующие are still being held заложник. three Kuki-Thadou пасторы had just attended Unit",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/27/20-christians-still-held-hostage-in-manipur/",
+      "victims": 20
+    },
+    {
+      "date": "2026-05-27",
+      "lat": 31.5956,
+      "lng": 74.4109,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "murder",
+      "title": "2 годы после Pakistan толпа самосуд, христианская семья still seeks justice",
+      "description": "As Pakistan marks Eid al-Adha, son христианин убит толпа богохульство allegations says his семья has received no compensation и no one has been punished.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/2-years-after-pakistan-mob-lynching-christian-family-still-seeks-justice",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-27",
+      "lat": 21.3945,
+      "lng": 81.87,
+      "country": "India",
+      "city": "Chhattisgarh",
       "type": "other",
       "title": "RSS Whitewashes Record Amid Growing Scrutiny гонение в India",
       "description": "Rashtriya Swayamsevak Sangh (RSS), индус nationalist organization widely regarded as ideological backbone India’s ruling Bharatiya Janata Party (BJP), has launched international outreach кампания aimed countering growing criticis",
@@ -6465,45 +6504,6 @@
       "description": "New release human rights NGO highlights increased pressure Chinese власти на Catholics в shadow \"sinicisation\" и agreement с Holy See на episcopal appointments. member underground community merged int",
       "source": "zenit",
       "url": "https://zenit.org/2026/04/17/human-rights-watch-church-ban-for-minors-in-china-violates-human-rights/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-18",
-      "lat": 3.6521,
-      "lng": 11.3732,
-      "country": "Cameroon",
-      "city": "Yaounde",
-      "type": "other",
-      "title": "Папа has unscheduled meeting с Cameroon религиозный",
-      "description": "“ папа has arrived, папа is leaving, but you have his words”: папа Leo XIV called на more than 4,000 Catholic религиозный в Cameroon take action, meeting с представители their религиозный приходы поздно в день на апрель 17,",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/04/18/pope-has-unscheduled-meeting-with-cameroon-religious/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-18",
-      "lat": 11.8274,
-      "lng": 13.1676,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "Adeboye, Kumuyi, Olukoya are denominational heads, not fathers Nigerian церковь, cleric says",
-      "description": "Cleric argues prominent Nigerian церковь leaders like Adeboye и Kumuyi are denominational heads, not unifying fathers для all Nigerian христиане. Read More: https://punchng.com/adeboye-kumuyi-olukoya-are-denominational-heads-not-fathers--niger",
-      "source": "punchng",
-      "url": "https://punchng.com/adeboye-kumuyi-olukoya-are-denominational-heads-not-fathers-of-nigerian-church-cleric-says/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-18",
-      "lat": 24.8334,
-      "lng": 66.9264,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "arrest",
-      "title": "Pakistan: Truck Plows в Catholic Procession на Пасха воскресенье",
-      "description": "Driver, identified as Muhammad Bilal, fled scene, пока his assistant was задержан и vehicle изъят. обвинения have been filed под provisions related reckless driving, but investigators have not yet clarified whether negligence alone",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/04/17/pakistan-truck-plows-into-catholic-procession-on-easter-sunday/",
       "victims": 0
     }
   ]
