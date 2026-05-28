@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-27T19:56:52.768Z",
+    "lastUpdated": "2026-05-28T01:46:59.401Z",
     "totalEvents": 500
   },
   "events": [
@@ -82,6 +82,45 @@
       "description": "Христианин Association Nigeria (CAN) calls на Nigerian правительство urgently protect Nigerian дети и школы из insecurity и violence. Read More: https://punchng.com/can-urges-fg--prioritise-protection--школы-дети/",
       "source": "punchng",
       "url": "https://punchng.com/can-urges-fg-to-prioritise-protection-of-schools-children/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-27",
+      "lat": 26.9251,
+      "lng": 81.0816,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "murder",
+      "title": "20 христиане Still Held заложник в Manipur",
+      "description": "Hours после боевики убит three пасторы returning из peace conference на май 13 в India, other armed groups started похищение христиане. сегодня, 20 верующие are still being held заложник. three Kuki-Thadou пасторы had just attended Unit",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/27/20-christians-still-held-hostage-in-manipur/",
+      "victims": 20
+    },
+    {
+      "date": "2026-05-27",
+      "lat": 33.8733,
+      "lng": 71.5995,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "murder",
+      "title": "2 годы после Pakistan толпа самосуд, христианская семья still seeks justice",
+      "description": "As Pakistan marks Eid al-Adha, son христианин убит толпа богохульство allegations says his семья has received no compensation и no one has been punished.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/2-years-after-pakistan-mob-lynching-christian-family-still-seeks-justice",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-27",
+      "lat": 28.6301,
+      "lng": 77.0948,
+      "country": "India",
+      "city": "Delhi",
+      "type": "other",
+      "title": "RSS Whitewashes Record Amid Growing Scrutiny гонение в India",
+      "description": "Rashtriya Swayamsevak Sangh (RSS), индус nationalist organization widely regarded as ideological backbone India’s ruling Bharatiya Janata Party (BJP), has launched international outreach кампания aimed countering growing criticis",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/27/rss-whitewashes-record-amid-growing-scrutiny-over-persecution-in-india/",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Driver, identified as Muhammad Bilal, fled scene, пока his assistant was задержан и vehicle изъят. обвинения have been filed под provisions related reckless driving, but investigators have not yet clarified whether negligence alone",
       "source": "zenit",
       "url": "https://zenit.org/2026/04/17/pakistan-truck-plows-into-catholic-procession-on-easter-sunday/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-18",
-      "lat": 43.7306,
-      "lng": 87.823,
-      "country": "China",
-      "city": "Xinjiang",
-      "type": "discrimination",
-      "title": "Human Rights Watch: церковь запрет для несовершеннолетние в China violates human rights",
-      "description": "New release human rights NGO highlights increased pressure Chinese власти на Catholics в shadow \"sinicisation\" и agreement с Holy See на episcopal appointments. member underground community merged int",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/04/17/human-rights-watch-church-ban-for-minors-in-china-violates-human-rights/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-18",
-      "lat": 31.5946,
-      "lng": 74.368,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "arrest",
-      "title": "Pakistan: Truck Plows в Catholic Procession на Пасха воскресенье",
-      "description": "Driver, identified as Muhammad Bilal, fled scene, пока his assistant was задержан и vehicle изъят. обвинения have been filed под provisions related reckless driving, but investigators have not yet clarified whether negligence alone",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/04/17/pakistan-truck-plows-into-catholic-procession-on-easter-sunday/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-18",
-      "lat": 35.7512,
-      "lng": 51.4726,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "How dispute between Trump и папа Leo escalated",
-      "description": "Президент Trump has lobbed insults папа Leo XIV в response his criticisms war в Iran, marking unusually pronounced rupture between leaders world's most powerful country и world's largest христианская деноминация.",
-      "source": "newsapi:CBS News",
-      "url": "https://www.cbsnews.com/news/how-dispute-trump-pope-leo-escalated/",
       "victims": 0
     }
   ]
