@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-28T09:40:44.138Z",
+    "lastUpdated": "2026-05-28T15:00:58.065Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-05-28",
+      "lat": 12.1075,
+      "lng": 8.3586,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "5 убит, several похищен в fresh атаки на христианские общины в Nigeria",
+      "description": "Последний атака occurred на май 21 в outstation Kurmin Bongo, в Dangana район Kaduna штат.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/5-killed-several-abducted-in-fresh-attacks-on-christian-communities-in-nigeria",
+      "victims": 5
+    },
+    {
+      "date": "2026-05-28",
+      "lat": 29.0742,
+      "lng": 32.9933,
+      "country": "Egypt",
+      "city": "Sinai",
+      "type": "discrimination",
+      "title": "Egyptian правительство grants legal status 191 церкви и affiliated buildings",
+      "description": "Despite constitutional guarantees религиозный freedom, many христиане continue report дискриминация и social pressure.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/egyptian-government-grants-legal-status-to-191-churches-and-affiliated-buildings",
+      "victims": 0
+    },
     {
       "date": "2026-05-27",
       "lat": 11.9926,
@@ -155,6 +181,19 @@
       "lng": 81.87,
       "country": "India",
       "city": "Chhattisgarh",
+      "type": "other",
+      "title": "RSS Whitewashes Record Amid Growing Scrutiny гонение в India",
+      "description": "Rashtriya Swayamsevak Sangh (RSS), индус nationalist organization widely regarded as ideological backbone India’s ruling Bharatiya Janata Party (BJP), has launched international outreach кампания aimed countering growing criticis",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/27/rss-whitewashes-record-amid-growing-scrutiny-over-persecution-in-india/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-27",
+      "lat": 21.0471,
+      "lng": 85.1954,
+      "country": "India",
+      "city": "Odisha",
       "type": "other",
       "title": "RSS Whitewashes Record Amid Growing Scrutiny гонение в India",
       "description": "Rashtriya Swayamsevak Sangh (RSS), индус nationalist organization widely regarded as ideological backbone India’s ruling Bharatiya Janata Party (BJP), has launched international outreach кампания aimed countering growing criticis",
@@ -316,6 +355,19 @@
       "description": "В his Pentecost message, епископ Emmanuel Adetoyese Badejo Nigeria’s Diocese Oyo called на христиане invoke Holy Spirit against violence, похищение, и hatred.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/bishop-urges-christians-in-nigeria-to-speak-the-language-of-pentecost-amid-insecurity",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-26",
+      "lat": 9.3067,
+      "lng": 9.5636,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "attack",
+      "title": "Фулани христиане Reject Violence, Bias в Nigeria’s Conflict Zones",
+      "description": "Фулани христианские лидеры и converts в Nigeria’s Middle Belt are calling для greater recognition peaceful фулани communities, saying they are increasingly trapped between атаки armed ополчения и growing public suspicion tied their ethni",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/26/fulani-christians-reject-violence-bias-in-nigerias-conflict-zones/",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "Driver, identified as Muhammad Bilal, fled scene, пока his assistant was задержан и vehicle изъят. обвинения have been filed под provisions related reckless driving, but investigators have not yet clarified whether negligence alone",
       "source": "zenit",
       "url": "https://zenit.org/2026/04/17/pakistan-truck-plows-into-catholic-procession-on-easter-sunday/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-18",
-      "lat": 6.3473,
-      "lng": 3.1847,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "discrimination",
-      "title": "Библия’s saddest story plays out в Nigeria, Emmanuel Aziken",
-      "description": "Раньше на этой неделе, I read what many consider as о most saddening story в Библия. It is story so dark that it силы painful reflection на depths which human society can descend когда власть collapses и morality is abandoned",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/04/bibles-saddest-story-plays-out-in-nigeria-by-emmanuel-aziken/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-18",
-      "lat": 39.8609,
-      "lng": 116.1843,
-      "country": "China",
-      "city": "Beijing",
-      "type": "discrimination",
-      "title": "Human Rights Watch: церковь запрет для несовершеннолетние в China violates human rights",
-      "description": "New release human rights NGO highlights increased pressure Chinese власти на Catholics в shadow \"sinicisation\" и agreement с Holy See на episcopal appointments. member underground community merged int",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/04/17/human-rights-watch-church-ban-for-minors-in-china-violates-human-rights/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-18",
-      "lat": 33.6676,
-      "lng": 72.8499,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "arrest",
-      "title": "Pakistan: Truck Plows в Catholic Procession на Пасха воскресенье",
-      "description": "Driver, identified as Muhammad Bilal, fled scene, пока his assistant was задержан и vehicle изъят. обвинения have been filed под provisions related reckless driving, but investigators have not yet clarified whether negligence alone",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/04/17/pakistan-truck-plows-into-catholic-procession-on-easter-sunday/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-18",
-      "lat": 31.1351,
-      "lng": 121.4649,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "discrimination",
-      "title": "Human Rights Watch: церковь запрет для несовершеннолетние в China violates human rights",
-      "description": "New release human rights NGO highlights increased pressure Chinese власти на Catholics в shadow \"sinicisation\" и agreement с Holy See на episcopal appointments. member underground community merged int",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/04/17/human-rights-watch-church-ban-for-minors-in-china-violates-human-rights/",
       "victims": 0
     }
   ]
