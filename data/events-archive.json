@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-28T20:01:56.640Z",
+    "lastUpdated": "2026-05-29T01:56:43.257Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-05-29",
+      "lat": 21.3855,
+      "lng": 81.97,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "discrimination",
+      "title": "180 христианские семьи отказано Water, Economic Rights в Chhattisgarh",
+      "description": "More than 180 христианские семьи в 32 деревни across Chhattisgarh’s Kanker район в India have reportedly been отказано access communal water sources и livelihood opportunities для past three недели as punishment для refusing leave thei",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/29/180-christian-families-denied-water-economic-rights-in-chhattisgarh/",
+      "victims": 0
+    },
     {
       "date": "2026-05-28",
       "lat": 12.1075,
@@ -57,6 +70,19 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/egyptian-government-grants-legal-status-to-191-churches-and-affiliated-buildings",
       "victims": 0
+    },
+    {
+      "date": "2026-05-28",
+      "lat": 12.0809,
+      "lng": 13.0464,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "5 убит, several похищен в fresh атаки на христианские общины в Nigeria",
+      "description": "Последний атака occurred на май 21 в outstation Kurmin Bongo, в Dangana район Kaduna штат.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/5-killed-several-abducted-in-fresh-attacks-on-christian-communities-in-nigeria",
+      "victims": 5
     },
     {
       "date": "2026-05-27",
@@ -6479,32 +6505,6 @@
       "source": "newsapi:Fox News",
       "url": "https://www.foxnews.com/media/60-minutes-accused-using-catholic-cardinals-push-liberal-agenda-while-ignoring-abortion-stance",
       "victims": 0
-    },
-    {
-      "date": "2026-04-20",
-      "lat": 6.5343,
-      "lng": 3.3584,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "8 христиане убит во время Overnight атаки в плато штат",
-      "description": "Least eight христиане were убит и 10 others ранен в series coordinated overnight атаки на communities в плато штат, Nigeria, according local sources. атаки were reported across Bassa, Barkin Ladi, и Riyom local gover",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/20/8-christians-killed-during-overnight-attacks-in-plateau-state/",
-      "victims": 8
-    },
-    {
-      "date": "2026-04-20",
-      "lat": 11.7949,
-      "lng": 8.6944,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "8 христиане убит во время Overnight атаки в плато штат",
-      "description": "Least eight христиане were убит и 10 others ранен в series coordinated overnight атаки на communities в плато штат, Nigeria, according local sources. атаки were reported across Bassa, Barkin Ladi, и Riyom local gover",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/20/8-christians-killed-during-overnight-attacks-in-plateau-state/",
-      "victims": 8
     }
   ]
 }
