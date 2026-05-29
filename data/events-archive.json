@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-29T14:35:22.220Z",
+    "lastUpdated": "2026-05-29T20:05:34.647Z",
     "totalEvents": 500
   },
   "events": [
@@ -38,6 +38,32 @@
       "lng": 80.7852,
       "country": "India",
       "city": "Uttar Pradesh",
+      "type": "discrimination",
+      "title": "180 христианские семьи отказано Water, Economic Rights в Chhattisgarh",
+      "description": "More than 180 христианские семьи в 32 деревни across Chhattisgarh’s Kanker район в India have reportedly been отказано access communal water sources и livelihood opportunities для past three недели as punishment для refusing leave thei",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/29/180-christian-families-denied-water-economic-rights-in-chhattisgarh/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-29",
+      "lat": 10.6507,
+      "lng": 7.5877,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Май 30: армия faults MASSOB’s directive на церкви",
+      "description": "**Says it’s targeted Disrupting Peace в South East : Kingsley Omonobi Nigerian армия has said that recent directive Movement для Actualization Sovereign штат Biafra, MASSOB церкви, observe memorial для civil w",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/05/may-30-army-faults-massobs-directive-on-churches/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-29",
+      "lat": 19.0495,
+      "lng": 72.6337,
+      "country": "India",
+      "city": "Mumbai",
       "type": "discrimination",
       "title": "180 христианские семьи отказано Water, Economic Rights в Chhattisgarh",
       "description": "More than 180 христианские семьи в 32 деревни across Chhattisgarh’s Kanker район в India have reportedly been отказано access communal water sources и livelihood opportunities для past three недели as punishment для refusing leave thei",
@@ -122,6 +148,19 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/5-killed-several-abducted-in-fresh-attacks-on-christian-communities-in-nigeria",
       "victims": 5
+    },
+    {
+      "date": "2026-05-28",
+      "lat": 30.193,
+      "lng": 31.1306,
+      "country": "Egypt",
+      "city": "Cairo",
+      "type": "discrimination",
+      "title": "Egyptian правительство grants legal status 191 церкви и affiliated buildings",
+      "description": "Despite constitutional guarantees религиозный freedom, many христиане continue report дискриминация и social pressure.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/egyptian-government-grants-legal-status-to-191-churches-and-affiliated-buildings",
+      "victims": 0
     },
     {
       "date": "2026-05-27",
@@ -6465,45 +6504,6 @@
       "description": "“с папа Francis, there is до и после, because после him, things will never be same для церковь,” says кардинал Fridolin Ambongo. This African кардинал is архиепископ Kinshasa (Democratic Republic Congo) и президент",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/04/21/pope-francis-was-a-true-pastor-says-leading-african-cardinal/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-21",
-      "lat": 3.8013,
-      "lng": 11.6752,
-      "country": "Cameroon",
-      "city": "Yaounde",
-      "type": "other",
-      "title": "Папа Leo XIV в Africa: 7 things know о католическая церковь в Equatorial Guinea",
-      "description": "Папа Leo XIV visits Equatorial Guinea на апрель 21 — his последний stop на 11-день, four-nation African apostolic journey that also included Algeria, Cameroon, и Angola.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/pope-leo-xiv-in-africa-7-things-to-know-about-the-catholic-church-in-equatorial-guinea",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-21",
-      "lat": 4.9424,
-      "lng": -74.2559,
-      "country": "Colombia",
-      "city": "Bogota",
-      "type": "other",
-      "title": "Colombian президент Harasses Catholic священник Live на Air для Speaking Out Against коммунизм",
-      "description": "Center storm is президент Gustavo Petro, who, во время recent cabinet meeting, publicly rebuked священник из Parish Holy семья в Bogotá post Colombian президент Harasses Catholic священник Live на Air для Speaking Out Aga",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/04/21/colombian-president-harasses-catholic-priest-live-on-air-for-speaking-out-against-communism/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-21",
-      "lat": 19.3862,
-      "lng": -99.1032,
-      "country": "Mexico",
-      "city": "Mexico City",
-      "type": "murder",
-      "title": "Епископ urges ‘return христианин values’ после стрельба Mexican pyramid",
-      "description": "В response стрельба Mexican archeological site that left two погибшие и 13 ранен, епископ Guillermo Escobar urged люди look Jesus Christ и return христианин values.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/americas/bishop-urges-return-to-christian-values-after-shooting-at-mexican-pyramid",
       "victims": 0
     }
   ]
