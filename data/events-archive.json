@@ -2,10 +2,49 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-30T08:13:50.300Z",
+    "lastUpdated": "2026-05-30T12:58:31.587Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-05-30",
+      "lat": 8.8336,
+      "lng": 7.6901,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "arrest",
+      "title": "Nigerian Catholic священник осуждён в US для sexually assaulting женщины под spiritual care",
+      "description": "Nigerian Catholic священник Anthony Odiong has been осуждён в US для sexually assaulting женщины под his spiritual care. Read more на this case. Read More: https://punchng.com/nigerian-catholic-священник-осуждён-в-us-для-sexually-assaulting-wome",
+      "source": "punchng",
+      "url": "https://punchng.com/nigerian-catholic-priest-convicted-in-us-for-sexually-assaulting-women-under-spiritual-care/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-30",
+      "lat": 9.2232,
+      "lng": 9.3211,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "arrest",
+      "title": "Nigerian Catholic священник осуждён сексуальное насилие в US",
+      "description": "Jury, comprising eight женщины и four мужчины, found Odiong, 57, guilty one count первый-degree сексуальное насилие и two counts второй-degree сексуальное насилие involving two женщины who testified во время суд в Waco. post Nigerian Catholic",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/05/nigerian-catholic-priest-convicted-of-sexual-assault-in-us/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-30",
+      "lat": 24.0256,
+      "lng": 90.5969,
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "type": "discrimination",
+      "title": "Bangladeshi христиане continue live в fear following elections",
+      "description": "Treatment христиане has declined since осень шейх Hasina.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/bangladeshi-christians-continue-to-live-in-fear-following-elections",
+      "victims": 0
+    },
     {
       "date": "2026-05-29",
       "lat": 21.3855,
@@ -108,6 +147,19 @@
       "description": "This месяц, Catholic епископы из Pakistan visited Vatican для their special Ad Limina visit. group included three архиепископы, four епископы, и кардинал. во время visit, епископы went different Vatican департаменты submit their",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/29/bishops-raise-human-rights-concerns-invite-pope-to-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-29",
+      "lat": 21.0809,
+      "lng": 85.1625,
+      "country": "India",
+      "city": "Odisha",
+      "type": "discrimination",
+      "title": "180 христианские семьи отказано Water, Economic Rights в Chhattisgarh",
+      "description": "More than 180 христианские семьи в 32 деревни across Chhattisgarh’s Kanker район в India have reportedly been отказано access communal water sources и livelihood opportunities для past three недели as punishment для refusing leave thei",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/29/180-christian-families-denied-water-economic-rights-in-chhattisgarh/",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "CAN cautions cleric his public remarks на Nigerian церковь leaders, refuting claims division и threatening legal action для comments. Read More: https://punchng.com/can-cautions-cleric--remarks-на-oyedepo-adeboye-kumuyi/",
       "source": "punchng",
       "url": "https://punchng.com/can-cautions-cleric-over-remarks-on-oyedepo-adeboye-kumuyi/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-22",
-      "lat": 10.4632,
-      "lng": 7.2736,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "CAN denies rift, пропавший без вести funds, threatens legal action",
-      "description": "Христианин Association Nigeria (CAN) denies rift rumors и allegations пропавший без вести relief funds, stating it remains united и will take legal action Read More: https://punchng.com/can-denies-rift-пропавший без вести-funds-threatens-legal-action/",
-      "source": "punchng",
-      "url": "https://punchng.com/can-denies-rift-missing-funds-threatens-legal-action/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-22",
-      "lat": 6.4968,
-      "lng": 3.2094,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Боко Харам has убит more мусульмане than христиане, no геноцид в Nigeria — Lai Mohammed",
-      "description": "Former министр Information и Culture, Lai Mohammed, has dismissed claims targeted геноцид against христиане в Nigeria, stating that повстанец groups, particularly Боко Харам, have убит more мусульмане than христиане. post Боко Харам",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/04/boko-haram-has-killed-more-muslims-than-christians-no-genocide-in-nigeria-lai-mohammed/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-22",
-      "lat": 33.57,
-      "lng": 72.9506,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "other",
-      "title": "Struggle для Justice в Islamabad’s христианин Slums",
-      "description": "Pakistan’s столица Development власть (CDA) недавно launched massive “anti-encroachment” drive reclaim land в country’s столица, Islamabad — much which is occupied христиане. правительство argues that these “atchi abadis,” or в",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/22/the-struggle-for-justice-in-islamabads-christian-slums/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-22",
-      "lat": 34.047,
-      "lng": 71.5701,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "other",
-      "title": "Struggle для Justice в Islamabad’s христианин Slums",
-      "description": "Pakistan’s столица Development власть (CDA) недавно launched massive “anti-encroachment” drive reclaim land в country’s столица, Islamabad — much which is occupied христиане. правительство argues that these “atchi abadis,” or в",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/22/the-struggle-for-justice-in-islamabads-christian-slums/",
       "victims": 0
     }
   ]
