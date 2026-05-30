@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-30T01:51:24.802Z",
+    "lastUpdated": "2026-05-30T08:13:50.300Z",
     "totalEvents": 500
   },
   "events": [
@@ -95,6 +95,19 @@
       "description": "Папа Leo receives praise из Spain’s chief executive, Catholic и Coptic dialogue resumes, Catholic агентство в South Sudan issues Ebola alert, и more в на этой неделе’s roundup world news.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/spain-s-president-congratulates-pope-leo-xiv-on-magnifica-humanitas",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-29",
+      "lat": 33.8444,
+      "lng": 71.505,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "discrimination",
+      "title": "Епископы Raise Human Rights Concerns, Invite папа Pakistan",
+      "description": "This месяц, Catholic епископы из Pakistan visited Vatican для their special Ad Limina visit. group included three архиепископы, four епископы, и кардинал. во время visit, епископы went different Vatican департаменты submit their",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/29/bishops-raise-human-rights-concerns-invite-pope-to-pakistan/",
       "victims": 0
     },
     {
@@ -200,6 +213,19 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/5-killed-several-abducted-in-fresh-attacks-on-christian-communities-in-nigeria",
       "victims": 5
+    },
+    {
+      "date": "2026-05-28",
+      "lat": 27.9929,
+      "lng": 30.8268,
+      "country": "Egypt",
+      "city": "Minya",
+      "type": "discrimination",
+      "title": "Egyptian правительство grants legal status 191 церкви и affiliated buildings",
+      "description": "Despite constitutional guarantees религиозный freedom, many христиане continue report дискриминация и social pressure.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/egyptian-government-grants-legal-status-to-191-churches-and-affiliated-buildings",
+      "victims": 0
     },
     {
       "date": "2026-05-27",
@@ -6473,32 +6499,6 @@
       "lng": 71.5701,
       "country": "Pakistan",
       "city": "Peshawar",
-      "type": "other",
-      "title": "Struggle для Justice в Islamabad’s христианин Slums",
-      "description": "Pakistan’s столица Development власть (CDA) недавно launched massive “anti-encroachment” drive reclaim land в country’s столица, Islamabad — much which is occupied христиане. правительство argues that these “atchi abadis,” or в",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/22/the-struggle-for-justice-in-islamabads-christian-slums/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-22",
-      "lat": 36.3561,
-      "lng": 59.6333,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "discrimination",
-      "title": "\"Let папа have his say\": Pennsylvania Catholics caught between Trump и папа Leo",
-      "description": "В key Pennsylvania округ, many Catholic voters are closely watching Iran war и президент Trump's feud с папа Leo XIV.",
-      "source": "newsapi:CBS News",
-      "url": "https://www.cbsnews.com/news/pope-trump-pennsylvania-catholics-bucks-county/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-22",
-      "lat": 31.7392,
-      "lng": 74.2997,
-      "country": "Pakistan",
-      "city": "Lahore",
       "type": "other",
       "title": "Struggle для Justice в Islamabad’s христианин Slums",
       "description": "Pakistan’s столица Development власть (CDA) недавно launched massive “anti-encroachment” drive reclaim land в country’s столица, Islamabad — much which is occupied христиане. правительство argues that these “atchi abadis,” or в",
