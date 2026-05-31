@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-31T08:32:44.504Z",
+    "lastUpdated": "2026-05-31T13:07:42.852Z",
     "totalEvents": 500
   },
   "events": [
@@ -207,6 +207,19 @@
       "lng": 3.5188,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "murder",
+      "title": "Христианин farming communities под siege as US report names фулани боевики Nigeria's deadliest угроза",
+      "description": "USCIRF report штаты that фулани боевик violence в Nigeria surpasses that Боко Харам и ИГИЛ, с mostly христиане и also some мусульмане being targeted в widespread атаки.",
+      "source": "newsapi:Fox News",
+      "url": "https://www.foxnews.com/world/christian-farming-communities-under-siege-us-report-names-fulani-militants-nigerias-deadliest-threat",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-29",
+      "lat": 11.7382,
+      "lng": 12.913,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "murder",
       "title": "Христианин farming communities под siege as US report names фулани боевики Nigeria's deadliest угроза",
       "description": "USCIRF report штаты that фулани боевик violence в Nigeria surpasses that Боко Харам и ИГИЛ, с mostly христиане и also some мусульмане being targeted в widespread атаки.",
@@ -551,6 +564,19 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/05/27/rss-whitewashes-record-amid-growing-scrutiny-over-persecution-in-india/",
       "victims": 0
+    },
+    {
+      "date": "2026-05-27",
+      "lat": 21.4094,
+      "lng": 81.9536,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "murder",
+      "title": "20 христиане Still Held заложник в Manipur",
+      "description": "Hours после боевики убит three пасторы returning из peace conference на май 13 в India, other armed groups started похищение христиане. сегодня, 20 верующие are still being held заложник. three Kuki-Thadou пасторы had just attended Unit",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/27/20-christians-still-held-hostage-in-manipur/",
+      "victims": 20
     },
     {
       "date": "2026-05-26",
@@ -6478,32 +6504,6 @@
       "description": "Смерть Kenyan truck driver в Eastern Democratic Republic Congo (DRC) has sparked renewed concern safety христиане working в регион. incident has not only shaken transport sector but also highlighted broad",
       "source": "persecution",
       "url": "https://persecution.org/2026/04/23/christian-truck-driver-killed-in-eastern-drc/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-23",
-      "lat": 8.8241,
-      "lng": 38.9814,
-      "country": "Ethiopia",
-      "city": "Addis Ababa",
-      "type": "other",
-      "title": "Ready Pay Price",
-      "description": "Гонение remains persistent reality в South Central Ethiopia, where those who convert христианство face оппозиция, social rejection, и significant personal risk. в this регион, gospel is постепенно taking root в challenging spiritu",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/23/ready-to-pay-the-price/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-23",
-      "lat": 4.6393,
-      "lng": 18.5769,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "murder",
-      "title": "Папа Leo says he carries photo убит мусульманин boy в his pocket: ‘I cannot be в favor war’",
-      "description": "Leo also suggested that U.S. церковь is excessively focused на sex.",
-      "source": "newsapi:Fortune",
-      "url": "https://fortune.com/2026/04/23/pope-leo-iran-war-carries-photo-lebanon-trump/",
       "victims": 0
     }
   ]
