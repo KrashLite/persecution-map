@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-31T02:03:52.707Z",
+    "lastUpdated": "2026-05-31T08:32:44.504Z",
     "totalEvents": 500
   },
   "events": [
@@ -194,6 +194,19 @@
       "lng": 8.4006,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "murder",
+      "title": "Христианин farming communities под siege as US report names фулани боевики Nigeria's deadliest угроза",
+      "description": "USCIRF report штаты that фулани боевик violence в Nigeria surpasses that Боко Харам и ИГИЛ, с mostly христиане и also some мусульмане being targeted в widespread атаки.",
+      "source": "newsapi:Fox News",
+      "url": "https://www.foxnews.com/world/christian-farming-communities-under-siege-us-report-names-fulani-militants-nigerias-deadliest-threat",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-29",
+      "lat": 6.4078,
+      "lng": 3.5188,
+      "country": "Nigeria",
+      "city": "Lagos",
       "type": "murder",
       "title": "Христианин farming communities под siege as US report names фулани боевики Nigeria's deadliest угроза",
       "description": "USCIRF report штаты that фулани боевик violence в Nigeria surpasses that Боко Харам и ИГИЛ, с mostly христиане и also some мусульмане being targeted в widespread атаки.",
@@ -6491,19 +6504,6 @@
       "description": "Leo also suggested that U.S. церковь is excessively focused на sex.",
       "source": "newsapi:Fortune",
       "url": "https://fortune.com/2026/04/23/pope-leo-iran-war-carries-photo-lebanon-trump/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-22",
-      "lat": 9.1621,
-      "lng": 9.6737,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Insecurity: You can’t silence me, US lawmaker tells Matawalle",
-      "description": "Daniels alleged that following her statement на целевые убийства христиане в Nigeria, she came под pressure из люди linked Matawalle post Insecurity: You can’t silence me, US lawmaker tells Matawalle appeared первый на Vanguard",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/04/insecurity-you-cant-silence-me-us-lawmaker-tells-matawalle/",
       "victims": 0
     }
   ]
