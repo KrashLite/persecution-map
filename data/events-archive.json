@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-01T17:11:17.549Z",
+    "lastUpdated": "2026-06-01T21:20:17.344Z",
     "totalEvents": 500
   },
   "events": [
@@ -51,6 +51,19 @@
       "lng": 7.6983,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "other",
+      "title": "UN urged investigate ‘геноцид attrition’ against христиане в Nigeria",
+      "description": "Memorandum has been submitted United Nations Special Rapporteur на Freedom религия or вера, alleging that escalating violence against христиане и умеренный мусульмане в country amounts геноцид.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/un-urged-to-investigate-genocide-by-attrition-against-christians-in-nigeria",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-01",
+      "lat": 10.4895,
+      "lng": 7.2724,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "other",
       "title": "UN urged investigate ‘геноцид attrition’ against христиане в Nigeria",
       "description": "Memorandum has been submitted United Nations Special Rapporteur на Freedom религия or вера, alleging that escalating violence against христиане и умеренный мусульмане в country amounts геноцид.",
@@ -368,6 +381,19 @@
       "description": "More than 180 христианские семьи в 32 деревни across Chhattisgarh’s Kanker район в India have reportedly been отказано access communal water sources и livelihood opportunities для past three недели as punishment для refusing leave thei",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/29/180-christian-families-denied-water-economic-rights-in-chhattisgarh/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-29",
+      "lat": 10.3429,
+      "lng": 7.1903,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Христианин farming communities под siege as US report names фулани боевики Nigeria's deadliest угроза",
+      "description": "USCIRF report штаты that фулани боевик violence в Nigeria surpasses that Боко Харам и ИГИЛ, с mostly христиане и also some мусульмане being targeted в widespread атаки.",
+      "source": "newsapi:Fox News",
+      "url": "https://www.foxnews.com/world/christian-farming-communities-under-siege-us-report-names-fulani-militants-nigerias-deadliest-threat",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Христианский адвокат’s experience Nigerian Law школа в Yola led her embrace hijab, sparking journey identity и understanding. Read More: https://punchng.com/how-law-школа-posting-made-христианин-lawyer-embrace-hijab/",
       "source": "punchng",
       "url": "https://punchng.com/how-law-school-posting-made-christian-lawyer-embrace-hijab/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-26",
-      "lat": 4.0444,
-      "lng": 11.721,
-      "country": "Cameroon",
-      "city": "Yaounde",
-      "type": "other",
-      "title": "“Let люди в, и be prepared go out”: папа new священники",
-      "description": "На this Good Shepherd воскресенье, which is also World день молитва для Vocations, папа Leo celebrated месса в Rome и ordained 10 new священники. священники, для Diocese Rome, are mainly Italians, but also one из Cameroon и one из Colomb",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/04/26/let-people-in-and-be-prepared-to-go-out-pope-to-new-priests/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-26",
-      "lat": 4.3385,
-      "lng": 18.5532,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "other",
-      "title": "Laywoman who has quietly formed generation священники и сёстры в South Asia",
-      "description": "На World Vocations день, EWTN News pays tribute женщина called “caregiver vocations” в place where Catholics are minority.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/the-laywoman-who-has-quietly-formed-a-generation-of-priests-and-sisters-in-south-asia",
       "victims": 0
     }
   ]
