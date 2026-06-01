@@ -2,10 +2,49 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-01T02:12:35.249Z",
+    "lastUpdated": "2026-06-01T11:04:10.263Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-06-01",
+      "lat": 4.1977,
+      "lng": 18.3266,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "murder",
+      "title": "Vatican кардинал returns native город для beatification священники убит коммунисты",
+      "description": "Кардинал Michael Czerny, whose семья fled коммунизм, will preside as two казнён священники become первый martyrs коммунизм beatified в Czech Republic.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/europe/czech-born-cardinal-returns-home-for-beatification-of-priests-killed-by-communists",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-01",
+      "lat": 11.7958,
+      "lng": 13.1469,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "UN urged investigate ‘геноцид attrition’ against христиане в Nigeria",
+      "description": "Memorandum has been submitted United Nations Special Rapporteur на Freedom религия or вера, alleging that escalating violence against христиане и умеренный мусульмане в country amounts геноцид.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/un-urged-to-investigate-genocide-by-attrition-against-christians-in-nigeria",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-01",
+      "lat": 20.936,
+      "lng": 85.3379,
+      "country": "India",
+      "city": "Odisha",
+      "type": "other",
+      "title": "Powerful symbolism Marco Rubio’s visit Mother Teresa’s home",
+      "description": "Blatant demonization и targeting христиане harms not only community but also millions needy Indians who benefit из христианин-run школы, больницы, и social services.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/the-powerful-symbolism-of-marco-rubios-visit-to-mother-teresas-home",
+      "victims": 0
+    },
     {
       "date": "2026-05-31",
       "lat": 13.3254,
@@ -303,6 +342,19 @@
       "description": "This месяц, Catholic епископы из Pakistan visited Vatican для their special Ad Limina visit. group included three архиепископы, four епископы, и кардинал. во время visit, епископы went different Vatican департаменты submit their",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/29/bishops-raise-human-rights-concerns-invite-pope-to-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-29",
+      "lat": 28.505,
+      "lng": 77.0655,
+      "country": "India",
+      "city": "Delhi",
+      "type": "discrimination",
+      "title": "180 христианские семьи отказано Water, Economic Rights в Chhattisgarh",
+      "description": "More than 180 христианские семьи в 32 деревни across Chhattisgarh’s Kanker район в India have reportedly been отказано access communal water sources и livelihood opportunities для past three недели as punishment для refusing leave thei",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/05/29/180-christian-families-denied-water-economic-rights-in-chhattisgarh/",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "В представитель democracy, one would expect that fundamental characteristics society (including its религиозный identity) would be reflected some degree в its legislative bodies. post Mexico: Catholic Majority, Invisible Representati",
       "source": "zenit",
       "url": "https://zenit.org/2026/04/23/mexico-catholic-majority-invisible-representation-in-congress/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-24",
-      "lat": 31.5531,
-      "lng": 74.1356,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "other",
-      "title": "Христианская семья в Pakistan Fights для Justice для their Daughter",
-      "description": "Adan Sabir, 19-год-old христианин girl из Faisalabad, Pakistan, is living nightmare that no young женщина should ever have face. Despite winning her legal freedom месяцы ago, she и her семья are в настоящее время в hiding, fleeing из мужчина who",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/24/a-christian-family-in-pakistan-fights-for-justice-for-their-daughter/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-24",
-      "lat": 24.9226,
-      "lng": 67.1727,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "other",
-      "title": "Христианская семья в Pakistan Fights для Justice для their Daughter",
-      "description": "Adan Sabir, 19-год-old христианин girl из Faisalabad, Pakistan, is living nightmare that no young женщина should ever have face. Despite winning her legal freedom месяцы ago, she и her семья are в настоящее время в hiding, fleeing из мужчина who",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/24/a-christian-family-in-pakistan-fights-for-justice-for-their-daughter/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-24",
-      "lat": 36.4231,
-      "lng": 59.7353,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Папа urges US и Iran return peace talks и condemns смертная казнь",
-      "description": "Папа Leo XIV calls для renewed talks between United штаты и Iran end war. He strongly condemns смертная казнь и защитники для humane treatment migrants. папа also addresses церковь's focus на sexual morality, suggesting",
-      "source": "newsapi:The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/pope-leo-xiv-calls-for-us-iran-peace-talks-condemns-capital-punishment-and-advocates-for-migrant-rights/articleshow/130483066.cms",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-24",
-      "lat": 35.8169,
-      "lng": 51.1953,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Папа urges US и Iran return peace talks и condemns смертная казнь",
-      "description": "Папа Leo XIV calls для renewed talks between United штаты и Iran end war. He strongly condemns смертная казнь и защитники для humane treatment migrants. папа also addresses церковь's focus на sexual morality, suggesting",
-      "source": "newsapi:The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/pope-leo-xiv-calls-for-us-iran-peace-talks-condemns-capital-punishment-and-advocates-for-migrant-rights/articleshow/130483066.cms",
       "victims": 0
     }
   ]
