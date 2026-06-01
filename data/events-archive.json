@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-05-31T19:00:01.933Z",
+    "lastUpdated": "2026-06-01T02:12:35.249Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-05-31",
+      "lat": 13.3254,
+      "lng": 2.2578,
+      "country": "Niger",
+      "city": "Niamey",
+      "type": "kidnapping",
+      "title": "Papiri школа похищение: DSS аресты suspected arms couriers, recovers 15 AK rifles",
+      "description": "Департамент штат Services, DSS, has reportedly арестован five suspected arms couriers, including two Nigerien nationals, their alleged role в supplying weapons боевики who похищен nearly 300 students и staff из St. Mary's Catho",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/05/papiri-school-abduction-dss-arrests-suspected-arms-couriers-recovers-15-ak-rifles/",
+      "victims": 0
+    },
     {
       "date": "2026-05-30",
       "lat": 8.8336,
@@ -64,6 +77,32 @@
       "lng": 113.9248,
       "country": "China",
       "city": "Guangdong",
+      "type": "arrest",
+      "title": "Daughter’s hope для her father, пастор в Chinese тюрьма",
+      "description": "Founder stunningly successful Zion церковь заключён в правительство's попытка control вера",
+      "source": "newsapi:Wnd.com",
+      "url": "https://www.wnd.com/2026/05/daughters-hope-her-father-pastor-chinese-jail/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-30",
+      "lat": 10.7193,
+      "lng": 7.2812,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Фулани боевики cause more смерти than Боко Харам в Nigeria - US lawmaker Riley Moore",
+      "description": "United штаты Congressman, Riley Moore, says фулани боевики have убит more Nigerians, especially христиане, than Боко Харам. Moore said this в post на his verified X handle на суббота. He was reacting report United штаты Com",
+      "source": "newsapi:Daily Post Nigeria",
+      "url": "https://dailypost.ng/2026/05/30/fulani-militants-cause-more-deaths-than-boko-haram-in-nigeria-us-lawmaker-riley-moore/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-30",
+      "lat": 31.1275,
+      "lng": 121.5876,
+      "country": "China",
+      "city": "Shanghai",
       "type": "arrest",
       "title": "Daughter’s hope для her father, пастор в Chinese тюрьма",
       "description": "Founder stunningly successful Zion церковь заключён в правительство's попытка control вера",
@@ -6465,45 +6504,6 @@
       "description": "Папа Leo XIV calls для renewed talks between United штаты и Iran end war. He strongly condemns смертная казнь и защитники для humane treatment migrants. папа also addresses церковь's focus на sexual morality, suggesting",
       "source": "newsapi:The Times of India",
       "url": "https://economictimes.indiatimes.com/news/international/world-news/pope-leo-xiv-calls-for-us-iran-peace-talks-condemns-capital-punishment-and-advocates-for-migrant-rights/articleshow/130483066.cms",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-24",
-      "lat": 33.9318,
-      "lng": 71.5373,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "other",
-      "title": "Христианская семья в Pakistan Fights для Justice для their Daughter",
-      "description": "Adan Sabir, 19-год-old христианин girl из Faisalabad, Pakistan, is living nightmare that no young женщина should ever have face. Despite winning her legal freedom месяцы ago, she и her семья are в настоящее время в hiding, fleeing из мужчина who",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/24/a-christian-family-in-pakistan-fights-for-justice-for-their-daughter/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-24",
-      "lat": 29.4928,
-      "lng": 52.3957,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "Папа urges US и Iran return peace talks и condemns смертная казнь",
-      "description": "Папа Leo XIV calls для renewed talks between United штаты и Iran end war. He strongly condemns смертная казнь и защитники для humane treatment migrants. папа also addresses церковь's focus на sexual morality, suggesting",
-      "source": "newsapi:The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/pope-leo-xiv-calls-for-us-iran-peace-talks-condemns-capital-punishment-and-advocates-for-migrant-rights/articleshow/130483066.cms",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-24",
-      "lat": 33.8081,
-      "lng": 73.2786,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "other",
-      "title": "Христианская семья в Pakistan Fights для Justice для their Daughter",
-      "description": "Adan Sabir, 19-год-old христианин girl из Faisalabad, Pakistan, is living nightmare that no young женщина should ever have face. Despite winning her legal freedom месяцы ago, she и her семья are в настоящее время в hiding, fleeing из мужчина who",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/24/a-christian-family-in-pakistan-fights-for-justice-for-their-daughter/",
       "victims": 0
     }
   ]
