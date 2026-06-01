@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-01T11:04:10.263Z",
+    "lastUpdated": "2026-06-01T17:11:17.549Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,19 @@
       "description": "Blatant demonization и targeting христиане harms not only community but also millions needy Indians who benefit из христианин-run школы, больницы, и social services.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/the-powerful-symbolism-of-marco-rubios-visit-to-mother-teresas-home",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-01",
+      "lat": 8.9219,
+      "lng": 7.6983,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "UN urged investigate ‘геноцид attrition’ against христиане в Nigeria",
+      "description": "Memorandum has been submitted United Nations Special Rapporteur на Freedom религия or вера, alleging that escalating violence against христиане и умеренный мусульмане в country amounts геноцид.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/un-urged-to-investigate-genocide-by-attrition-against-christians-in-nigeria",
       "victims": 0
     },
     {
@@ -473,6 +486,19 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/egyptian-government-grants-legal-status-to-191-churches-and-affiliated-buildings",
       "victims": 0
+    },
+    {
+      "date": "2026-05-28",
+      "lat": 8.9274,
+      "lng": 7.2988,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "5 убит, several похищен в fresh атаки на христианские общины в Nigeria",
+      "description": "Последний атака occurred на май 21 в outstation Kurmin Bongo, в Dangana район Kaduna штат.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/5-killed-several-abducted-in-fresh-attacks-on-christian-communities-in-nigeria",
+      "victims": 5
     },
     {
       "date": "2026-05-27",
@@ -6478,32 +6504,6 @@
       "description": "На World Vocations день, EWTN News pays tribute женщина called “caregiver vocations” в place where Catholics are minority.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/the-laywoman-who-has-quietly-formed-a-generation-of-priests-and-sisters-in-south-asia",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-26",
-      "lat": 12.0892,
-      "lng": 8.4401,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "Военно-морской флот deploys вертолёты, others curb crime в залив Guinea",
-      "description": "Nigerian военно-морской флот has deployed 10 ships и two вертолёты в special операция stamp out piracy и other maritime crimes в залив Guinea. Read More: https://punchng.com/военно-морской флот-deploys-вертолёты-others--curb-crime-в-залив--guinea/",
-      "source": "punchng",
-      "url": "https://punchng.com/navy-deploys-helicopters-others-to-curb-crime-in-gulf-of-guinea/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-24",
-      "lat": 19.4294,
-      "lng": -98.9348,
-      "country": "Mexico",
-      "city": "Mexico City",
-      "type": "other",
-      "title": "Mexico: Catholic Majority, Invisible Representation в конгресс",
-      "description": "В представитель democracy, one would expect that fundamental characteristics society (including its религиозный identity) would be reflected some degree в its legislative bodies. post Mexico: Catholic Majority, Invisible Representati",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/04/23/mexico-catholic-majority-invisible-representation-in-congress/",
       "victims": 0
     }
   ]
