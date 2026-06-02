@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-02T09:58:04.541Z",
+    "lastUpdated": "2026-06-02T15:52:43.755Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-06-02",
+      "lat": 34.1193,
+      "lng": 71.5317,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "murder",
+      "title": "Pakistan полиция стрельба христианин driver renews ‘encounter’ concerns",
+      "description": "Catholic justice чиновники и rights защитники say стрельба христианин driver в Rawalpindi reflects broader pattern deadly полиция \"encounters\" в Pakistan's Punjab провинция.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-police-shooting-of-christian-driver-renews-encounter-concerns",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-02",
+      "lat": 10.596,
+      "lng": 7.6011,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "End terrorism within 90 дни or quit, Adeboye tells service chiefs",
+      "description": "Пастор Adeboye urges Nigerian правительство give security chiefs 90-день ultimatum end terrorism or resign, citing worsening insecurity. Read More: https://punchng.com/end-terrorism-within-90-дни-or-quit-adeboye-tells-service-chiefs/",
+      "source": "punchng",
+      "url": "https://punchng.com/end-terrorism-within-90-days-or-quit-adeboye-tells-service-chiefs/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-06-01",
       "lat": 4.1977,
@@ -189,6 +215,45 @@
       "victims": 0
     },
     {
+      "date": "2026-06-01",
+      "lat": 6.5583,
+      "lng": 3.5119,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "attack",
+      "title": "Фулани мусульмане Kill 8 христиане, Injure 15",
+      "description": "Suspected фулани боевики атакован христианин farming community в central Nigeria’s плато штат на воскресенье вечер, убийство eight христиане и injuring least 15 others, according residents и правительство чиновники. атака occurred в Gwo",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/01/fulani-muslims-kill-8-christians-injure-15/",
+      "victims": 8
+    },
+    {
+      "date": "2026-06-01",
+      "lat": 10.3238,
+      "lng": 7.364,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Secretary War Pete Hegseth says US has eliminated hundreds ИГИЛ боевики в Nigeria, praises Trump",
+      "description": "Secretary War Pete Hegseth said U.S. силы have убит “hundreds” Исламское государство боевики в Nigeria, crediting президент Donald Trump’s directive protect христиане в country из исламист violence.во время Cabinet meeting Whit",
+      "source": "newsapi:Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4381811/posts",
+      "victims": 150
+    },
+    {
+      "date": "2026-06-01",
+      "lat": 28.695,
+      "lng": 77.0823,
+      "country": "India",
+      "city": "Delhi",
+      "type": "other",
+      "title": "Chhattisgarh: Where вера в Christ Comes с Price",
+      "description": "Sutures protruding из deep, still-fresh рана на 32-год-old Mangu’s head are последний evidence гонение faced христиане в tribal belt Bastar в Chhattisgarh, India. семьи like Mangu’s are willing pay heavy",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/01/chhattisgarh-where-faith-in-christ-comes-with-a-price/",
+      "victims": 0
+    },
+    {
       "date": "2026-05-31",
       "lat": 13.3254,
       "lng": 2.2578,
@@ -298,6 +363,19 @@
       "lng": 8.4762,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "murder",
+      "title": "Фулани боевики cause more смерти than Боко Харам в Nigeria - US lawmaker Riley Moore",
+      "description": "United штаты Congressman, Riley Moore, says фулани боевики have убит more Nigerians, especially христиане, than Боко Харам. Moore said this в post на his verified X handle на суббота. He was reacting report United штаты Com",
+      "source": "newsapi:Daily Post Nigeria",
+      "url": "https://dailypost.ng/2026/05/30/fulani-militants-cause-more-deaths-than-boko-haram-in-nigeria-us-lawmaker-riley-moore/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-30",
+      "lat": 11.8173,
+      "lng": 13.2528,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "murder",
       "title": "Фулани боевики cause more смерти than Боко Харам в Nigeria - US lawmaker Riley Moore",
       "description": "United штаты Congressman, Riley Moore, says фулани боевики have убит more Nigerians, especially христиане, than Боко Харам. Moore said this в post на his verified X handle на суббота. He was reacting report United штаты Com",
@@ -6426,84 +6504,6 @@
       "description": "Кардинал, who endured long годы заключение и вынужден labor для fidelity Christ, met с папа во время private audience. He was ordained 70 годы ago на апрель 7, 1956.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/vatican/living-martyr-of-communism-cardinal-simoni-presents-relic-of-albanian-martyrs-to-leo-xiv",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-28",
-      "lat": 9.1155,
-      "lng": 9.2708,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "kidnapping",
-      "title": "Боевики Abduct христианская школаgirls, Kill 1 в Nigeria",
-      "description": "Armed attackers похищен several христианская школа girls traveling школа в Kachia Local правительство Area на воскресенье, according field reporting TruthNigeria, which has documented series засады along Akwando–Kachia corridor since ear",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/28/gunmen-abduct-christian-schoolgirls-kill-1-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-28",
-      "lat": 11.8145,
-      "lng": 12.9331,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "kidnapping",
-      "title": "Боевики Abduct христианская школаgirls, Kill 1 в Nigeria",
-      "description": "Armed attackers похищен several христианская школа girls traveling школа в Kachia Local правительство Area на воскресенье, according field reporting TruthNigeria, which has documented series засады along Akwando–Kachia corridor since ear",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/28/gunmen-abduct-christian-schoolgirls-kill-1-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-28",
-      "lat": 6.3389,
-      "lng": 3.4973,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "kidnapping",
-      "title": "Боевики Abduct христианская школаgirls, Kill 1 в Nigeria",
-      "description": "Armed attackers похищен several христианская школа girls traveling школа в Kachia Local правительство Area на воскресенье, according field reporting TruthNigeria, which has documented series засады along Akwando–Kachia corridor since ear",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/28/gunmen-abduct-christian-schoolgirls-kill-1-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-28",
-      "lat": 8.9453,
-      "lng": 7.3633,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "kidnapping",
-      "title": "Боевики Abduct христианская школаgirls, Kill 1 в Nigeria",
-      "description": "Armed attackers похищен several христианская школа girls traveling школа в Kachia Local правительство Area на воскресенье, according field reporting TruthNigeria, which has documented series засады along Akwando–Kachia corridor since ear",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/28/gunmen-abduct-christian-schoolgirls-kill-1-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-28",
-      "lat": 11.9019,
-      "lng": 8.8319,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "kidnapping",
-      "title": "Боевики Abduct христианская школаgirls, Kill 1 в Nigeria",
-      "description": "Armed attackers похищен several христианская школа girls traveling школа в Kachia Local правительство Area на воскресенье, according field reporting TruthNigeria, which has documented series засады along Akwando–Kachia corridor since ear",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/28/gunmen-abduct-christian-schoolgirls-kill-1-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-27",
-      "lat": 8.9201,
-      "lng": 7.5466,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "Военно-морской флот deploys ships, вертолёты against maritime crimes",
-      "description": "Nigerian военно-морской флот enhances maritime security в залив Guinea, deploying 10 ships и 2 вертолёты combat piracy, oil theft, и other crimes. Read More: https://punchng.com/военно-морской флот-deploys-ships-вертолёты-against-maritime-crimes/",
-      "source": "punchng",
-      "url": "https://punchng.com/navy-deploys-ships-helicopters-against-maritime-crimes/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     }
   ]
