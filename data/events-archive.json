@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-01T21:20:17.344Z",
+    "lastUpdated": "2026-06-02T02:13:24.792Z",
     "totalEvents": 500
   },
   "events": [
@@ -69,6 +69,71 @@
       "description": "Memorandum has been submitted United Nations Special Rapporteur на Freedom религия or вера, alleging that escalating violence against христиане и умеренный мусульмане в country amounts геноцид.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/un-urged-to-investigate-genocide-by-attrition-against-christians-in-nigeria",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-01",
+      "lat": 9.217,
+      "lng": 7.5145,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "attack",
+      "title": "Фулани мусульмане Kill 8 христиане, Injure 15",
+      "description": "Suspected фулани боевики атакован христианин farming community в central Nigeria’s плато штат на воскресенье вечер, убийство eight христиане и injuring least 15 others, according residents и правительство чиновники. атака occurred в Gwo",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/01/fulani-muslims-kill-8-christians-injure-15/",
+      "victims": 8
+    },
+    {
+      "date": "2026-06-01",
+      "lat": -4.4408,
+      "lng": 15.3986,
+      "country": "Democratic Republic of the Congo",
+      "city": "Kinshasa",
+      "type": "murder",
+      "title": "ADF Kills Least 7 христиане в Beni",
+      "description": "Allied Democratic силы (ADF) убит least seven христиане во время overnight атака на май 30 в Beni, located в North Kivu провинция в eastern Democratic Republic Congo. According local chief, жертвы belonged Py",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/01/adf-kills-at-least-7-christians-in-beni/",
+      "victims": 7
+    },
+    {
+      "date": "2026-06-01",
+      "lat": 12.2209,
+      "lng": 8.8189,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "UN urged investigate ‘геноцид attrition’ against христиане в Nigeria",
+      "description": "Memorandum has been submitted United Nations Special Rapporteur на Freedom религия or вера, alleging that escalating violence against христиане и умеренный мусульмане в country amounts геноцид.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/un-urged-to-investigate-genocide-by-attrition-against-christians-in-nigeria",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-01",
+      "lat": 21.0326,
+      "lng": 84.8998,
+      "country": "India",
+      "city": "Odisha",
+      "type": "other",
+      "title": "Chhattisgarh: Where вера в Christ Comes с Price",
+      "description": "Sutures protruding из deep, still-fresh рана на 32-год-old Mangu’s head are последний evidence гонение faced христиане в tribal belt Bastar в Chhattisgarh, India. семьи like Mangu’s are willing pay heavy",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/01/chhattisgarh-where-faith-in-christ-comes-with-a-price/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-01",
+      "lat": 19.2441,
+      "lng": 72.7329,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "other",
+      "title": "Powerful symbolism Marco Rubio’s visit Mother Teresa’s home",
+      "description": "Blatant demonization и targeting христиане harms not only community but also millions needy Indians who benefit из христианин-run школы, больницы, и social services.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/the-powerful-symbolism-of-marco-rubios-visit-to-mother-teresas-home",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "Residents Gako деревня в Rim community, Riyom Local правительство Area плато штат, Nigeria, reported that four members христианская семья were убит поздно на апрель 26, когда armed мужчины атакован their home. Local sources identified жертва",
       "source": "persecution",
       "url": "https://persecution.org/2026/04/27/gunmen-kill-pastor-family-in-plateau-state/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-27",
-      "lat": 33.7589,
-      "lng": 36.4128,
-      "country": "Syria",
-      "city": "Damascus",
-      "type": "other",
-      "title": "Calls EU move beyond words as Syria’s христиане face escalating violence",
-      "description": "Fresh criticism is being directed European leaders what campaigners describe as failure take meaningful action protect Syria’s христианские общины amid renewed sectarian violence и reports incessant гонение.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/calls-to-eu-to-move-beyond-words-as-syrias-christians-face-escalating-violence",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-27",
-      "lat": 6.7431,
-      "lng": 3.2088,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Боевики Kill пастор, семья в плато штат",
-      "description": "Residents Gako деревня в Rim community, Riyom Local правительство Area плато штат, Nigeria, reported that four members христианская семья were убит поздно на апрель 26, когда armed мужчины атакован their home. Local sources identified жертва",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/27/gunmen-kill-pastor-family-in-plateau-state/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-27",
-      "lat": 11.6568,
-      "lng": 13.0045,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Боевики Kill пастор, семья в плато штат",
-      "description": "Residents Gako деревня в Rim community, Riyom Local правительство Area плато штат, Nigeria, reported that four members христианская семья were убит поздно на апрель 26, когда armed мужчины атакован their home. Local sources identified жертва",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/27/gunmen-kill-pastor-family-in-plateau-state/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-27",
-      "lat": 9.2256,
-      "lng": 7.3656,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Боевики Kill пастор, семья в плато штат",
-      "description": "Residents Gako деревня в Rim community, Riyom Local правительство Area плато штат, Nigeria, reported that four members христианская семья were убит поздно на апрель 26, когда armed мужчины атакован their home. Local sources identified жертва",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/27/gunmen-kill-pastor-family-in-plateau-state/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-26",
-      "lat": 9.2972,
-      "lng": 9.2961,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "How Law школа posting made христианский адвокат embrace hijab",
-      "description": "Христианский адвокат’s experience Nigerian Law школа в Yola led her embrace hijab, sparking journey identity и understanding. Read More: https://punchng.com/how-law-школа-posting-made-христианин-lawyer-embrace-hijab/",
-      "source": "punchng",
-      "url": "https://punchng.com/how-law-school-posting-made-christian-lawyer-embrace-hijab/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     }
   ]
