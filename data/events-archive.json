@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-02T02:13:24.792Z",
+    "lastUpdated": "2026-06-02T09:58:04.541Z",
     "totalEvents": 500
   },
   "events": [
@@ -137,6 +137,58 @@
       "victims": 0
     },
     {
+      "date": "2026-06-01",
+      "lat": 11.6995,
+      "lng": 13.2904,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "attack",
+      "title": "Фулани мусульмане Kill 8 христиане, Injure 15",
+      "description": "Suspected фулани боевики атакован христианин farming community в central Nigeria’s плато штат на воскресенье вечер, убийство eight христиане и injuring least 15 others, according residents и правительство чиновники. атака occurred в Gwo",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/01/fulani-muslims-kill-8-christians-injure-15/",
+      "victims": 8
+    },
+    {
+      "date": "2026-06-01",
+      "lat": 12.0254,
+      "lng": 13.3572,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "Secretary War Pete Hegseth says US has eliminated hundreds ИГИЛ боевики в Nigeria, praises Trump",
+      "description": "Secretary War Pete Hegseth said U.S. силы have убит “hundreds” Исламское государство боевики в Nigeria, crediting президент Donald Trump’s directive protect христиане в country из исламист violence.во время Cabinet meeting Whit",
+      "source": "newsapi:Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4381811/posts",
+      "victims": 150
+    },
+    {
+      "date": "2026-06-01",
+      "lat": 6.6741,
+      "lng": 3.4652,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "UN urged investigate ‘геноцид attrition’ against христиане в Nigeria",
+      "description": "Memorandum has been submitted United Nations Special Rapporteur на Freedom религия or вера, alleging that escalating violence against христиане и умеренный мусульмане в country amounts геноцид.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/un-urged-to-investigate-genocide-by-attrition-against-christians-in-nigeria",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-01",
+      "lat": 28.4821,
+      "lng": 77.2788,
+      "country": "India",
+      "city": "Delhi",
+      "type": "other",
+      "title": "Powerful symbolism Marco Rubio’s visit Mother Teresa’s home",
+      "description": "Blatant demonization и targeting христиане harms not only community but also millions needy Indians who benefit из христианин-run школы, больницы, и social services.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/the-powerful-symbolism-of-marco-rubios-visit-to-mother-teresas-home",
+      "victims": 0
+    },
+    {
       "date": "2026-05-31",
       "lat": 13.3254,
       "lng": 2.2578,
@@ -238,6 +290,19 @@
       "description": "Founder stunningly successful Zion церковь заключён в правительство's попытка control вера",
       "source": "newsapi:Wnd.com",
       "url": "https://www.wnd.com/2026/05/daughters-hope-her-father-pastor-chinese-jail/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-30",
+      "lat": 12.2471,
+      "lng": 8.4762,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Фулани боевики cause more смерти than Боко Харам в Nigeria - US lawmaker Riley Moore",
+      "description": "United штаты Congressman, Riley Moore, says фулани боевики have убит more Nigerians, especially христиане, than Боко Харам. Moore said this в post на his verified X handle на суббота. He was reacting report United штаты Com",
+      "source": "newsapi:Daily Post Nigeria",
+      "url": "https://dailypost.ng/2026/05/30/fulani-militants-cause-more-deaths-than-boko-haram-in-nigeria-us-lawmaker-riley-moore/",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "Nigerian военно-морской флот enhances maritime security в залив Guinea, deploying 10 ships и 2 вертолёты combat piracy, oil theft, и other crimes. Read More: https://punchng.com/военно-морской флот-deploys-ships-вертолёты-against-maritime-crimes/",
       "source": "punchng",
       "url": "https://punchng.com/navy-deploys-ships-helicopters-against-maritime-crimes/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-27",
-      "lat": 34.7019,
-      "lng": 36.5911,
-      "country": "Syria",
-      "city": "Homs",
-      "type": "other",
-      "title": "Calls EU move beyond words as Syria’s христиане face escalating violence",
-      "description": "Fresh criticism is being directed European leaders what campaigners describe as failure take meaningful action protect Syria’s христианские общины amid renewed sectarian violence и reports incessant гонение.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/calls-to-eu-to-move-beyond-words-as-syrias-christians-face-escalating-violence",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-27",
-      "lat": 9.3933,
-      "lng": 9.4278,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Боевики Kill пастор, семья в плато штат",
-      "description": "Residents Gako деревня в Rim community, Riyom Local правительство Area плато штат, Nigeria, reported that four members христианская семья were убит поздно на апрель 26, когда armed мужчины атакован their home. Local sources identified жертва",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/27/gunmen-kill-pastor-family-in-plateau-state/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-27",
-      "lat": 11.9394,
-      "lng": 8.5012,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Боевики Kill пастор, семья в плато штат",
-      "description": "Residents Gako деревня в Rim community, Riyom Local правительство Area плато штат, Nigeria, reported that four members христианская семья were убит поздно на апрель 26, когда armed мужчины атакован their home. Local sources identified жертва",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/27/gunmen-kill-pastor-family-in-plateau-state/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-27",
-      "lat": 36.1967,
-      "lng": 37.0442,
-      "country": "Syria",
-      "city": "Aleppo",
-      "type": "other",
-      "title": "Calls EU move beyond words as Syria’s христиане face escalating violence",
-      "description": "Fresh criticism is being directed European leaders what campaigners describe as failure take meaningful action protect Syria’s христианские общины amid renewed sectarian violence и reports incessant гонение.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/calls-to-eu-to-move-beyond-words-as-syrias-christians-face-escalating-violence",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-27",
-      "lat": 10.2768,
-      "lng": 7.2112,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Боевики Kill пастор, семья в плато штат",
-      "description": "Residents Gako деревня в Rim community, Riyom Local правительство Area плато штат, Nigeria, reported that four members христианская семья were убит поздно на апрель 26, когда armed мужчины атакован their home. Local sources identified жертва",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/27/gunmen-kill-pastor-family-in-plateau-state/",
       "victims": 0
     }
   ]
