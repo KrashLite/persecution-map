@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-03T10:29:33.986Z",
+    "lastUpdated": "2026-06-03T16:10:43.737Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,45 @@
       "description": "Христианин Association Nigeria (CAN) declares three-день national mourning период и demands штат emergency на security due escalating vio Read More: https://punchng.com/insecurity-can-declares-national-mourning-demands-emergency/",
       "source": "punchng",
       "url": "https://punchng.com/insecurity-can-declares-national-mourning-demands-emergency/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-03",
+      "lat": 20.8066,
+      "lng": 85.062,
+      "country": "India",
+      "city": "Odisha",
+      "type": "attack",
+      "title": "India трибунал urges end 'impunity' as anti-христианин violence climbs",
+      "description": "Христианин, индус, и мусульманин groups joined люди's трибунал в New Delhi that documented sharp rise в атаки на христиане и demanded правительство curb 'impunity.'",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/india-tribunal-urges-end-to-impunity-as-anti-christian-violence-climbs",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-03",
+      "lat": 24.9824,
+      "lng": 66.7855,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "other",
+      "title": "Concerns для христианин Afghans депортирован из Pakistan",
+      "description": "В прошлом году Pakistan депортирован approximately million Afghans.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/concerns-for-christian-afghans-deported-from-pakistan",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-03",
+      "lat": 24.0235,
+      "lng": 90.5584,
+      "country": "Bangladesh",
+      "city": "Dhaka",
+      "type": "discrimination",
+      "title": "Bangladesh церковь взрыв: 25 годы на, Catholic жертвы still await justice",
+      "description": "Взрыв tore through воскресенье месса Most Holy Redeemer церковь в Gopalganj на июнь 3, 2001; quarter-век позже, полиция have yet file single обвинение sheet в case.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/no-charge-sheet-25-years-after-bangladesh-church-bombing-that-killed-10-at-mass",
       "victims": 0
     },
     {
@@ -225,6 +264,45 @@
       "description": "Two Montagnard Vietnamese христиане — пастор Siu Yúi, 68, и церковь member Siu Dok, 40 — were недавно арестован в Gia Lai Central провинция в Vietnam’s Central Highlands регион. Both мужчины were обвинён с “религиозный teachings” mobilize ethni",
       "source": "persecution",
       "url": "https://persecution.org/2026/06/02/two-more-vietnamese-christians-detained-in-central-highlands/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-02",
+      "lat": 23.4207,
+      "lng": 113.8736,
+      "country": "China",
+      "city": "Guangdong",
+      "type": "arrest",
+      "title": "Chinese пасторы отказано Access Библии в тюрьма",
+      "description": "Three leaders Maizhong Reformed церковь — пастор Zhang Sen, пастор Chang Shun, и старейшина Ma Tao — have been reportedly отказано access God’s Word пока в тюрьма в China. three мужчины were арестован в июнь 2025 когда церковь was raided. Commun",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/02/chinese-pastors-denied-access-to-bibles-in-prison/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-02",
+      "lat": 31.5539,
+      "lng": 74.1104,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "attack",
+      "title": "Pakistani полиция Shoot христианин",
+      "description": "Alayan Johnson, 22-год-old христианин auto-rickshaw driver в Punjab, Pakistan, was застрелен полиция после being mistaken для suspect. сейчас, полиция are reportedly pressuring him call off investigation в стрельба. в video statement fr",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/02/pakistani-police-shoot-christian-man/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-02",
+      "lat": 27.0565,
+      "lng": 80.855,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "discrimination",
+      "title": "India: 180 христианские семьи отказано Water, Economic Rights в Chhattisgarh",
+      "description": "Nearly 41 семьи have reportedly been отказано employment opportunities под Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA). More than 100 семьи have allegedly been excluded из Tendu leaf procurement activities. post",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/06/02/india-180-christian-families-denied-water-economic-rights-in-chhattisgarh/",
       "victims": 0
     },
     {
@@ -540,6 +618,19 @@
       "victims": 150
     },
     {
+      "date": "2026-06-01",
+      "lat": 8.9939,
+      "lng": 9.3675,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Secretary War Pete Hegseth says US has eliminated hundreds ИГИЛ боевики в Nigeria, praises Trump",
+      "description": "Secretary War Pete Hegseth said U.S. силы have убит “hundreds” Исламское государство боевики в Nigeria, crediting президент Donald Trump’s directive protect христиане в country из исламист violence.во время Cabinet meeting Whit",
+      "source": "newsapi:Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4381811/posts",
+      "victims": 150
+    },
+    {
       "date": "2026-05-31",
       "lat": 13.3254,
       "lng": 2.2578,
@@ -680,6 +771,19 @@
       "description": "United штаты Congressman, Riley Moore, says фулани боевики have убит more Nigerians, especially христиане, than Боко Харам. Moore said this в post на his verified X handle на суббота. He was reacting report United штаты Com",
       "source": "newsapi:Daily Post Nigeria",
       "url": "https://dailypost.ng/2026/05/30/fulani-militants-cause-more-deaths-than-boko-haram-in-nigeria-us-lawmaker-riley-moore/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-30",
+      "lat": 40.0879,
+      "lng": 116.6034,
+      "country": "China",
+      "city": "Beijing",
+      "type": "arrest",
+      "title": "Daughter’s hope для her father, пастор в Chinese тюрьма",
+      "description": "Founder stunningly successful Zion церковь заключён в правительство's попытка control вера",
+      "source": "newsapi:Wnd.com",
+      "url": "https://www.wnd.com/2026/05/daughters-hope-her-father-pastor-chinese-jail/",
       "victims": 0
     },
     {
@@ -6400,110 +6504,6 @@
       "description": "US House комитет has advanced bill с stricter conditions на US aid Nigeria, citing concerns security и alleged религиозный гонение. Read More: https://punchng.com/nigeria-faces-stricter-us-aid-terms--религиозный-гонение/",
       "source": "newsapi:The Punch",
       "url": "https://punchng.com/nigeria-faces-stricter-us-aid-terms-over-religious-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-30",
-      "lat": 9.22,
-      "lng": 9.7257,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Nigeria faces stricter US aid terms ‘религиозный гонение’",
-      "description": "US House комитет has advanced bill с stricter conditions на US aid Nigeria, citing concerns security и alleged религиозный гонение. Read More: https://punchng.com/nigeria-faces-stricter-us-aid-terms--религиозный-гонение/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/nigeria-faces-stricter-us-aid-terms-over-religious-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-30",
-      "lat": 6.4521,
-      "lng": 3.4293,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Nigeria faces stricter US aid terms ‘религиозный гонение’",
-      "description": "US House комитет has advanced bill с stricter conditions на US aid Nigeria, citing concerns security и alleged религиозный гонение. Read More: https://punchng.com/nigeria-faces-stricter-us-aid-terms--религиозный-гонение/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/nigeria-faces-stricter-us-aid-terms-over-religious-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-30",
-      "lat": 12.2225,
-      "lng": 8.7494,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "Nigeria faces stricter US aid terms ‘религиозный гонение’",
-      "description": "US House комитет has advanced bill с stricter conditions на US aid Nigeria, citing concerns security и alleged религиозный гонение. Read More: https://punchng.com/nigeria-faces-stricter-us-aid-terms--религиозный-гонение/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/nigeria-faces-stricter-us-aid-terms-over-religious-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-30",
-      "lat": 8.8805,
-      "lng": 7.4353,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "Nigeria faces stricter US aid terms ‘религиозный гонение’",
-      "description": "US House комитет has advanced bill с stricter conditions на US aid Nigeria, citing concerns security и alleged религиозный гонение. Read More: https://punchng.com/nigeria-faces-stricter-us-aid-terms--религиозный-гонение/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/nigeria-faces-stricter-us-aid-terms-over-religious-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-29",
-      "lat": 30.1591,
-      "lng": 30.9864,
-      "country": "Egypt",
-      "city": "Cairo",
-      "type": "arrest",
-      "title": "Coptic христианин YouTuber приговорён five годы в Egypt вера-based online videos",
-      "description": "Мужчина has been приговорён five годы в тюрьма с hard labour в Egypt после posting online videos о христианство, according христианин legal advocacy group ADF International.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/coptic-christian-youtuber-sentenced-to-five-years-in-egypt-over-faith-based-online-videos",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-29",
-      "lat": 29.6984,
-      "lng": 52.5347,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "Христиане urge international action deepening humanitarian crisis в Iran",
-      "description": "Христианин advocacy group has issued urgent appeal для international intervention as humanitarian conditions в Iran continue worsen, warning that shortages medicine, food и essential supplies are placing millions vulnerable люди",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christians-urge-international-action-over-deepening-humanitarian-crisis-in-iran",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-29",
-      "lat": 29.2079,
-      "lng": 32.8586,
-      "country": "Egypt",
-      "city": "Sinai",
-      "type": "arrest",
-      "title": "Coptic христианин YouTuber приговорён five годы в Egypt вера-based online videos",
-      "description": "Мужчина has been приговорён five годы в тюрьма с hard labour в Egypt после posting online videos о христианство, according христианин legal advocacy group ADF International.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/coptic-christian-youtuber-sentenced-to-five-years-in-egypt-over-faith-based-online-videos",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-29",
-      "lat": 35.6967,
-      "lng": 51.3856,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Христиане urge international action deepening humanitarian crisis в Iran",
-      "description": "Христианин advocacy group has issued urgent appeal для international intervention as humanitarian conditions в Iran continue worsen, warning that shortages medicine, food и essential supplies are placing millions vulnerable люди",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christians-urge-international-action-over-deepening-humanitarian-crisis-in-iran",
       "victims": 0
     }
   ]
