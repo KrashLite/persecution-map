@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-03T02:31:12.302Z",
+    "lastUpdated": "2026-06-03T10:29:33.986Z",
     "totalEvents": 500
   },
   "events": [
@@ -15,6 +15,32 @@
       "type": "other",
       "title": "Insecurity: CAN declares national mourning, demands emergency",
       "description": "Христианин Association Nigeria (CAN) declares three-день national mourning период и demands Federal правительство declare штат emergency на Read More: https://punchng.com/insecurity-can-declares-national-mourning-demands-emergency/",
+      "source": "punchng",
+      "url": "https://punchng.com/insecurity-can-declares-national-mourning-demands-emergency/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-03",
+      "lat": 34.0668,
+      "lng": 71.5075,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "other",
+      "title": "Concerns для христианин Afghans депортирован из Pakistan",
+      "description": "В прошлом году Pakistan депортирован approximately million Afghans.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/concerns-for-christian-afghans-deported-from-pakistan",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-03",
+      "lat": 12.111,
+      "lng": 8.599,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Insecurity: CAN declares national mourning, demands emergency",
+      "description": "Христианин Association Nigeria (CAN) declares three-день national mourning период и demands штат emergency на security due escalating vio Read More: https://punchng.com/insecurity-can-declares-national-mourning-demands-emergency/",
       "source": "punchng",
       "url": "https://punchng.com/insecurity-can-declares-national-mourning-demands-emergency/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
@@ -173,6 +199,32 @@
       "description": "Catholic justice чиновники и rights защитники say стрельба христианин driver в Rawalpindi reflects broader pattern deadly полиция \"encounters\" в Pakistan's Punjab провинция.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-police-shooting-of-christian-driver-renews-encounter-concerns",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-02",
+      "lat": 31.2202,
+      "lng": 121.6678,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "arrest",
+      "title": "Chinese пасторы отказано Access Библии в тюрьма",
+      "description": "Three leaders Maizhong Reformed церковь — пастор Zhang Sen, пастор Chang Shun, и старейшина Ma Tao — have been reportedly отказано access God’s Word пока в тюрьма в China. three мужчины were арестован в июнь 2025 когда церковь was raided. Commun",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/02/chinese-pastors-denied-access-to-bibles-in-prison/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-02",
+      "lat": 10.8528,
+      "lng": 106.6551,
+      "country": "Vietnam",
+      "city": "Ho Chi Minh City",
+      "type": "arrest",
+      "title": "Two More Vietnamese христиане задержан в Central Highlands",
+      "description": "Two Montagnard Vietnamese христиане — пастор Siu Yúi, 68, и церковь member Siu Dok, 40 — were недавно арестован в Gia Lai Central провинция в Vietnam’s Central Highlands регион. Both мужчины were обвинён с “религиозный teachings” mobilize ethni",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/02/two-more-vietnamese-christians-detained-in-central-highlands/",
       "victims": 0
     },
     {
@@ -473,6 +525,19 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/the-powerful-symbolism-of-marco-rubios-visit-to-mother-teresas-home",
       "victims": 0
+    },
+    {
+      "date": "2026-06-01",
+      "lat": 11.9325,
+      "lng": 8.769,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Secretary War Pete Hegseth says US has eliminated hundreds ИГИЛ боевики в Nigeria, praises Trump",
+      "description": "Secretary War Pete Hegseth said U.S. силы have убит “hundreds” Исламское государство боевики в Nigeria, crediting президент Donald Trump’s directive protect христиане в country из исламист violence.во время Cabinet meeting Whit",
+      "source": "newsapi:Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4381811/posts",
+      "victims": 150
     },
     {
       "date": "2026-05-31",
@@ -6434,71 +6499,6 @@
       "lng": 51.3856,
       "country": "Iran",
       "city": "Tehran",
-      "type": "other",
-      "title": "Христиане urge international action deepening humanitarian crisis в Iran",
-      "description": "Христианин advocacy group has issued urgent appeal для international intervention as humanitarian conditions в Iran continue worsen, warning that shortages medicine, food и essential supplies are placing millions vulnerable люди",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christians-urge-international-action-over-deepening-humanitarian-crisis-in-iran",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-29",
-      "lat": 36.1036,
-      "lng": 59.5444,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Христиане urge international action deepening humanitarian crisis в Iran",
-      "description": "Христианин advocacy group has issued urgent appeal для international intervention as humanitarian conditions в Iran continue worsen, warning that shortages medicine, food и essential supplies are placing millions vulnerable люди",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christians-urge-international-action-over-deepening-humanitarian-crisis-in-iran",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-29",
-      "lat": 20.7565,
-      "lng": 85.1919,
-      "country": "India",
-      "city": "Odisha",
-      "type": "other",
-      "title": "India Uncovers Foreign Network Funding христианское служение",
-      "description": "На прошлой неделе, India’s Enforcement Directorate (ED) found foreign network using U.S.-based debit cards fund религиозный activities в country’s tribal areas. ED investigators claimed that nearly INR 950 million ($10 million) entered India through",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/29/india-uncovers-foreign-network-funding-christian-ministry/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-29",
-      "lat": 18.872,
-      "lng": 72.9921,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "other",
-      "title": "India Uncovers Foreign Network Funding христианское служение",
-      "description": "На прошлой неделе, India’s Enforcement Directorate (ED) found foreign network using U.S.-based debit cards fund религиозный activities в country’s tribal areas. ED investigators claimed that nearly INR 950 million ($10 million) entered India through",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/29/india-uncovers-foreign-network-funding-christian-ministry/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-29",
-      "lat": 31.1466,
-      "lng": 29.9674,
-      "country": "Egypt",
-      "city": "Alexandria",
-      "type": "arrest",
-      "title": "Coptic христианин YouTuber приговорён five годы в Egypt вера-based online videos",
-      "description": "Мужчина has been приговорён five годы в тюрьма с hard labour в Egypt после posting online videos о христианство, according христианин legal advocacy group ADF International.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/coptic-christian-youtuber-sentenced-to-five-years-in-egypt-over-faith-based-online-videos",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-29",
-      "lat": 32.5396,
-      "lng": 51.6415,
-      "country": "Iran",
-      "city": "Isfahan",
       "type": "other",
       "title": "Христиане urge international action deepening humanitarian crisis в Iran",
       "description": "Христианин advocacy group has issued urgent appeal для international intervention as humanitarian conditions в Iran continue worsen, warning that shortages medicine, food и essential supplies are placing millions vulnerable люди",
