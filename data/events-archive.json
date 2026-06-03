@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-03T16:10:43.737Z",
+    "lastUpdated": "2026-06-03T20:45:12.134Z",
     "totalEvents": 500
   },
   "events": [
@@ -82,6 +82,58 @@
       "description": "Взрыв tore through воскресенье месса Most Holy Redeemer церковь в Gopalganj на июнь 3, 2001; quarter-век позже, полиция have yet file single обвинение sheet в case.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/no-charge-sheet-25-years-after-bangladesh-church-bombing-that-killed-10-at-mass",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-03",
+      "lat": 6.4105,
+      "lng": 3.4344,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "discrimination",
+      "title": "You can’t pray away bad roads, bandits, Nollywood actress Njoku tells христиане",
+      "description": "Nollywood actress Mary Remmy Njoku urges Nigerian христиане combine молитва с practical action solve issues like bad roads и insecurity. Read More: https://punchng.com/you-cant-pray-away-bad-roads-bandits-nollywood-actress-njoku-tells-chr",
+      "source": "punchng",
+      "url": "https://punchng.com/you-cant-pray-away-bad-roads-bandits-nollywood-actress-njoku-tells-christians/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-03",
+      "lat": 4.5042,
+      "lng": 18.8003,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "murder",
+      "title": "4 годы после Owo резня, we still nurse раны — епископ Arogundade",
+      "description": "Catholic епископ Ondo Diocese, Most Rev. Jude Arogundade, says церковь continues live с emotional и psychological scars июнь 5, 2022 атака на St. Francis католическая церковь, Owo, four годы после 41 прихожане were убит",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/06/4-years-after-owo-massacre-we-still-nurse-wounds-bishop-arogundade/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-03",
+      "lat": 21.4649,
+      "lng": 81.6331,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "attack",
+      "title": "India трибунал urges end 'impunity' as anti-христианин violence climbs",
+      "description": "Христианин, индус, и мусульманин groups joined люди's трибунал в New Delhi that documented sharp rise в атаки на христиане и demanded правительство curb 'impunity.'",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/india-tribunal-urges-end-to-impunity-as-anti-christian-violence-climbs",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-03",
+      "lat": 33.4475,
+      "lng": 73.2821,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "other",
+      "title": "Concerns для христианин Afghans депортирован из Pakistan",
+      "description": "В прошлом году Pakistan депортирован approximately million Afghans.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/concerns-for-christian-afghans-deported-from-pakistan",
       "victims": 0
     },
     {
@@ -298,6 +350,19 @@
       "lng": 80.855,
       "country": "India",
       "city": "Uttar Pradesh",
+      "type": "discrimination",
+      "title": "India: 180 христианские семьи отказано Water, Economic Rights в Chhattisgarh",
+      "description": "Nearly 41 семьи have reportedly been отказано employment opportunities под Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA). More than 100 семьи have allegedly been excluded из Tendu leaf procurement activities. post",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/06/02/india-180-christian-families-denied-water-economic-rights-in-chhattisgarh/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-02",
+      "lat": 28.4697,
+      "lng": 77.2029,
+      "country": "India",
+      "city": "Delhi",
       "type": "discrimination",
       "title": "India: 180 христианские семьи отказано Water, Economic Rights в Chhattisgarh",
       "description": "Nearly 41 семьи have reportedly been отказано employment opportunities под Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA). More than 100 семьи have allegedly been excluded из Tendu leaf procurement activities. post",
@@ -784,6 +849,19 @@
       "description": "Founder stunningly successful Zion церковь заключён в правительство's попытка control вера",
       "source": "newsapi:Wnd.com",
       "url": "https://www.wnd.com/2026/05/daughters-hope-her-father-pastor-chinese-jail/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-30",
+      "lat": 9.4505,
+      "lng": 9.4663,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Фулани боевики cause more смерти than Боко Харам в Nigeria - US lawmaker Riley Moore",
+      "description": "United штаты Congressman, Riley Moore, says фулани боевики have убит more Nigerians, especially христиане, than Боко Харам. Moore said this в post на his verified X handle на суббота. He was reacting report United штаты Com",
+      "source": "newsapi:Daily Post Nigeria",
+      "url": "https://dailypost.ng/2026/05/30/fulani-militants-cause-more-deaths-than-boko-haram-in-nigeria-us-lawmaker-riley-moore/",
       "victims": 0
     },
     {
@@ -6426,84 +6504,6 @@
       "description": "Catholic leaders called new law “defining move” safeguard childhood but said enforcement и unresolved consent rules will determine whether it actually protects vulnerable girls.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-bishops-welcome-new-child-marriage-law-but-warn-enforcement-is-the-test",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-01",
-      "lat": 33.7926,
-      "lng": 71.718,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "other",
-      "title": "Pakistani епископы welcome new ребёнок marriage law but warn enforcement is испытание",
-      "description": "Catholic leaders called new law “defining move” safeguard childhood but said enforcement и unresolved consent rules will determine whether it actually protects vulnerable girls.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-bishops-welcome-new-child-marriage-law-but-warn-enforcement-is-the-test",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-30",
-      "lat": 11.8967,
-      "lng": 8.711,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "kidnapping",
-      "title": "CAN demands swift rescue похищен Ekiti церковь members",
-      "description": "Христианин Association Nigeria (CAN) has condemned recent атака на церковь gathering в Eda Oniyo Ekiti, Ekiti штат. post CAN demands swift rescue похищен Ekiti церковь members appeared первый на Vanguard News.",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/04/can-demands-swift-rescue-of-abducted-ekiti-church-members/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-30",
-      "lat": 4.5804,
-      "lng": 18.6622,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "other",
-      "title": "Церковь в Mexico кампании against euthanasia bill",
-      "description": "As bill decriminalize euthanasia в Mexico appears be gaining momentum, церковь is seeking mobilize Catholics defend life, betting that most Mexicans still believe it is their responsibility care для their пожилые и sick relativ",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-americas/2026/04/church-in-mexico-campaigns-against-euthanasia-bill/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-30",
-      "lat": 1.976,
-      "lng": 45.4008,
-      "country": "Somalia",
-      "city": "Mogadishu",
-      "type": "discrimination",
-      "title": "Fighting Survive",
-      "description": "В 2024, в Elwak, посёлок на Kenya-Somalia border в Kenya’s northeastern регион, where survival relies на daily work, David Nzyima, husband и father four, experienced event that transformed his life. One утро, like other мужчины, he wen",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/04/30/fighting-to-survive/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-30",
-      "lat": 11.8671,
-      "lng": 13.2639,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "Nigeria faces stricter US aid terms ‘религиозный гонение’",
-      "description": "US House комитет has advanced bill с stricter conditions на US aid Nigeria, citing concerns security и alleged религиозный гонение. Read More: https://punchng.com/nigeria-faces-stricter-us-aid-terms--религиозный-гонение/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/nigeria-faces-stricter-us-aid-terms-over-religious-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-04-30",
-      "lat": 10.4154,
-      "lng": 7.3068,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Nigeria faces stricter US aid terms ‘религиозный гонение’",
-      "description": "US House комитет has advanced bill с stricter conditions на US aid Nigeria, citing concerns security и alleged религиозный гонение. Read More: https://punchng.com/nigeria-faces-stricter-us-aid-terms--религиозный-гонение/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/nigeria-faces-stricter-us-aid-terms-over-religious-persecution/",
       "victims": 0
     }
   ]
