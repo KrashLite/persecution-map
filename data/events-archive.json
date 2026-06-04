@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-04T14:28:19.784Z",
+    "lastUpdated": "2026-06-04T19:53:17.947Z",
     "totalEvents": 500
   },
   "events": [
@@ -77,6 +77,32 @@
       "lng": 31.1049,
       "country": "Egypt",
       "city": "Cairo",
+      "type": "arrest",
+      "title": "Parliamentary group highlights plight христианин YouTuber задержан в Egypt",
+      "description": "Пока not \"worst offender\" Egypt still makes 42 на Open Doors watchlist.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/parliamentary-group-highlights-plight-of-christian-youtuber-detained-in-egypt",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-04",
+      "lat": 6.5941,
+      "lng": 3.4779,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Nigeria’s убийства Offer Perspective для Policy Change",
+      "description": "Dr. Greg Cochran, ICC Fellow Violence — particularly gun violence — features prominently в политический debates across U.S. “Gun violence is epidemic в this country, yet конгресс remains hamstrung obstructionists когда it comes passing",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/04/nigerias-killings-offer-perspective-for-policy-change/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-04",
+      "lat": 27.9341,
+      "lng": 30.8264,
+      "country": "Egypt",
+      "city": "Minya",
       "type": "arrest",
       "title": "Parliamentary group highlights plight христианин YouTuber задержан в Egypt",
       "description": "Пока not \"worst offender\" Egypt still makes 42 на Open Doors watchlist.",
@@ -540,6 +566,19 @@
       "victims": 0
     },
     {
+      "date": "2026-06-02",
+      "lat": 34.0586,
+      "lng": 71.4043,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "attack",
+      "title": "Pakistani полиция Shoot христианин",
+      "description": "Alayan Johnson, 22-год-old христианин auto-rickshaw driver в Punjab, Pakistan, was застрелен полиция после being mistaken для suspect. сейчас, полиция are reportedly pressuring him call off investigation в стрельба. в video statement fr",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/02/pakistani-police-shoot-christian-man/",
+      "victims": 0
+    },
+    {
       "date": "2026-06-01",
       "lat": 4.1977,
       "lng": 18.3266,
@@ -889,6 +928,19 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/the-powerful-symbolism-of-marco-rubios-visit-to-mother-teresas-home",
       "victims": 0
+    },
+    {
+      "date": "2026-06-01",
+      "lat": 9.3335,
+      "lng": 9.3738,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "attack",
+      "title": "Фулани мусульмане Kill 8 христиане, Injure 15",
+      "description": "Suspected фулани боевики атакован христианин farming community в central Nigeria’s плато штат на воскресенье вечер, убийство eight христиане и injuring least 15 others, according residents и правительство чиновники. атака occurred в Gwo",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/01/fulani-muslims-kill-8-christians-injure-15/",
+      "victims": 8
     },
     {
       "date": "2026-05-31",
@@ -6452,58 +6504,6 @@
       "description": "Методистская церковь Nigeria calls на президент Tinubu intensify усилия tackle insecurity, citing banditry и похищение as угрозы national sta Read More: https://punchng.com/tackle-insecurity-methodist-церковь-urges-tinubu/",
       "source": "punchng",
       "url": "https://punchng.com/tackle-insecurity-methodist-church-urges-tinubu/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-03",
-      "lat": 36.906,
-      "lng": 2.8733,
-      "country": "Algeria",
-      "city": "Algiers",
-      "type": "other",
-      "title": "What was it like welcome Leo Augustine’s land?",
-      "description": "Папа Leo XIV’s visit Annaba, Algeria, на апрель 14, 2026, brought deep encouragement Fr. Fred Wekesa, OSA, rector Basilica Saint Augustine. для Augustinian священник serving в Algeria, visit affirmed dignity и mission",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/05/03/what-was-it-like-to-welcome-leo-to-augustines-land/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-02",
-      "lat": 9.2379,
-      "lng": 9.4593,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Ogun методистская церковь calls для tighter security measures, slams cybercrime",
-      "description": "Методистская церковь Nigeria, Diocese Remo в Ogun штат, has commended Bola Tinubu и губернатор Dapo Abiodun для their contributions national development, пока urging stronger measures address insecurity и economic лишения. position",
-      "source": "punchng",
-      "url": "https://punchng.com/ogun-methodist-church-calls-for-tighter-security-measures-slams-cybercrime/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-02",
-      "lat": 6.7463,
-      "lng": 3.1599,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Nigeria’s next президент already decided – пастор Adeboye",
-      "description": "“God is not going sit в heaven scratching His mighty head с His everlasting hand, saying who should rule Nigeria в 2027\" post Nigeria’s next президент already decided – пастор Adeboye appeared первый на Vanguard News.",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/05/nigerias-next-president-already-decided-pastor-adeboye/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-02",
-      "lat": 6.3622,
-      "lng": 3.3162,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Next президент has been decided God, says Adeboye",
-      "description": "Пастор Enoch Adeboye RCCG штаты that Nigeria’s next президент для 2027 election has already been decided God, urging citizens be prayerful. Read More: https://punchng.com/next-президент-has-been-decided--god-says-adeboye/",
-      "source": "punchng",
-      "url": "https://punchng.com/next-president-has-been-decided-by-god-says-adeboye/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     }
   ]
