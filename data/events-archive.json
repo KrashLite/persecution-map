@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-04T02:28:02.800Z",
+    "lastUpdated": "2026-06-04T09:39:58.380Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-06-04",
+      "lat": 9.0663,
+      "lng": 7.3649,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Obi defends пастор Adeboye, warns Nigerians against ethnic division",
+      "description": "According him, conversations that should have focused на development и future country were diverted в divisive debates that weakened national cohesion. post Obi defends пастор Adeboye, warns Nigerians against ethnic division ap",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/06/obi-defends-pastor-adeboye-warns-nigerians-against-ethnic-division/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-04",
+      "lat": 31.3927,
+      "lng": 30.0788,
+      "country": "Egypt",
+      "city": "Alexandria",
+      "type": "arrest",
+      "title": "Parliamentary group highlights plight христианин YouTuber задержан в Egypt",
+      "description": "Пока not \"worst offender\" Egypt still makes 42 на Open Doors watchlist.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/parliamentary-group-highlights-plight-of-christian-youtuber-detained-in-egypt",
+      "victims": 0
+    },
     {
       "date": "2026-06-03",
       "lat": 11.9476,
@@ -147,6 +173,32 @@
       "description": "Христианин, индус, и мусульманин groups joined люди's трибунал в New Delhi that documented sharp rise в атаки на христиане и demanded правительство curb “impunity.”",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/india-tribunal-urges-end-to-impunity-as-anti-christian-violence-climbs",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-03",
+      "lat": 21.0587,
+      "lng": 81.845,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "attack",
+      "title": "India трибунал urges end ‘impunity’ as anti-христианин violence climbs",
+      "description": "Христианин, индус, и мусульманин groups joined люди's трибунал в New Delhi that documented sharp rise в атаки на христиане и demanded правительство curb “impunity.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/india-tribunal-urges-end-to-impunity-as-anti-christian-violence-climbs",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-03",
+      "lat": 31.3168,
+      "lng": 74.5811,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "other",
+      "title": "Concerns для христианин Afghans депортирован из Pakistan",
+      "description": "В прошлом году Pakistan депортирован approximately million Afghans.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/concerns-for-christian-afghans-deported-from-pakistan",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "Jerry Eze Foundation, charitable arm пастор Jerry Eze, has disbursed grants totaling N1.0 billion 240 small и micro business owners, each receiving о $3,000 scale, transform or start new business. в lead-up event,",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/05/jerry-eze-foundation-distributes-n1bn-business-grants-to-240-nigerian-entrepreneurs/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-01",
-      "lat": 15.7133,
-      "lng": 32.6996,
-      "country": "Sudan",
-      "city": "Khartoum",
-      "type": "other",
-      "title": "Христиане disappointed as Premier League refuses receive Sudan petition",
-      "description": "Manchester город's owner is also deputy премьер-министр UAE.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christians-disappointed-as-premier-league-refuses-to-receive-sudan-petition",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-01",
-      "lat": 12.1872,
-      "lng": 8.3773,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "Англиканская церковь suspends Anambra Vicar alleged fake miracles",
-      "description": "Церковь Nigeria (Anglican причастие) has suspended Vicar St. Paul’s Parish, Nteje, в Oyi Local правительство Area Anambra штат, Ifunaya Maduka, allegations staging false prophecies и miracles. post англиканская церковь suspend",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/05/anglican-church-suspends-anambra-vicar-over-alleged-fake-miracles/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-01",
-      "lat": 23.9146,
-      "lng": 90.1834,
-      "country": "Bangladesh",
-      "city": "Dhaka",
-      "type": "arrest",
-      "title": "Священник избит, robbed церковь amid wave атаки на Catholics в Bangladesh",
-      "description": "Власти задержан three мужчины в connection с поздно-ночь нападение и theft De Mazenod католическая церковь в Dhaka, последний в string атаки на Bangladesh's small христианское меньшинство.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/priest-beaten-robbed-at-church-amid-wave-of-attacks-on-catholics-in-bangladesh",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-01",
-      "lat": 34.7107,
-      "lng": 69.2644,
-      "country": "Afghanistan",
-      "city": "Kabul",
-      "type": "discrimination",
-      "title": "No Place Is Home: Life as Afghan христианин",
-      "description": "This world has few certainties. But для Afghan христиане, one is clear: being known as христианин в Талибан-controlled Afghanistan brings lethal danger. в this country 44 million люди, мусульмане comprise more than 99% population. Not lo",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/01/no-place-is-home-life-as-an-afghan-christian/",
       "victims": 0
     }
   ]
