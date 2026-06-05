@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-05T14:18:01.528Z",
+    "lastUpdated": "2026-06-05T19:27:51.025Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,58 @@
       "description": "Super Eagles midfielder Alex Iwobi и защитник христианин Akpan have joined Nigeria's training лагерь в Lisbon as preparations continue для international friendly against Portugal. post Updated: Iwobi, Chukwueze join Super Eagles лагерь в Lisbo",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/06/iwobi-akpan-join-super-eagles-camp-in-lisbon-chukwueze-expected/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-05",
+      "lat": -4.566,
+      "lng": 15.2228,
+      "country": "Democratic Republic of the Congo",
+      "city": "Kinshasa",
+      "type": "murder",
+      "title": "Дни после резня, ADF Kills 24 More христиане",
+      "description": "Во время ночь июнь 2, Allied Democratic силы (ADF) атакован деревня Mbau, located о 12 miles из Beni город в eastern Democratic Republic Congo (DRC), leaving least 24 христиане погибшие, according preliminary report",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/05/days-after-massacre-adf-kills-24-more-christians/",
+      "victims": 24
+    },
+    {
+      "date": "2026-06-05",
+      "lat": 10.7497,
+      "lng": 106.472,
+      "country": "Vietnam",
+      "city": "Ho Chi Minh City",
+      "type": "other",
+      "title": "ICC Publishes New Report на религиозный Freedom в Vietnam",
+      "description": "New report из International христианин Concern (ICC), “Freedom богослужение: False Reality в Vietnam,” examines current штат религиозный freedom и христианин гонение под коммунизм в Vietnam. в country where правительство tightly",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/05/icc-publishes-new-report-on-religious-freedom-in-vietnam/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-05",
+      "lat": 6.4023,
+      "lng": 3.587,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Nigeria приговоры 4 perpetrators 2022 Pentecost резня смерть",
+      "description": "Суд в Nigeria осуждён four мужчины heinous crime, acquitting пятый. defense will appeal verdict. казни are rare в Nigeria и католическая церковь opposes смерть penalty.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/nigeria-sentences-4-perpetrators-of-2022-pentecost-massacre-to-death",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-05",
+      "lat": 4.6409,
+      "lng": 18.7754,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "murder",
+      "title": "Catholic-backed truth комиссия launched probe Duterte drug war убийства в Philippines",
+      "description": "Кардинал Pablo Virgilio David is advising new гражданский-led body seeking document thousands убит во время Rodrigo Duterte's anti-drug кампания.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-backed-truth-commission-launched-to-probe-duterte-drug-war-killings",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "Lisa Navarrette, ICC Fellow question why правительство cannot fully contain христианин гонение в Nigeria is often asked с frustration и urgency. первый glance, it май seem like failure политический will. It is easy assume t",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/04/why-the-government-cant-get-control-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-04",
-      "lat": 9.3268,
-      "lng": 7.3553,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "kidnapping",
-      "title": "Боевики Abduct христианская школаgirls, Kill 1 в Nigeria",
-      "description": "This incident is part pattern засады along Akwando–Kachia road. Since январь, least seven separate атаки have been recorded на this route, targeting commercial vehicles, private transport, и motorcycles post боевики Abduct Ch",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/05/04/gunmen-abduct-christian-schoolgirls-kill-1-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-04",
-      "lat": 10.7394,
-      "lng": 7.5624,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Nigerian армия Silent as экстремисты Kill 9, Destroy Crops",
-      "description": "Armed attackers убит least nine христиане, including Nigerian soldier, в devastating spree across плато штат. attackers also разрушен more than 40 hectares farmland в just three дни, according local sources. International C",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/04/nigerian-army-silent-as-extremists-kill-9-destroy-crops/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-04",
-      "lat": 9.1046,
-      "lng": 9.3982,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Why правительство Can’t Get Control в Nigeria",
-      "description": "Lisa Navarrette, ICC Fellow question why правительство cannot fully contain христианин гонение в Nigeria is often asked с frustration и urgency. первый glance, it май seem like failure политический will. It is easy assume t",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/04/why-the-government-cant-get-control-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-04",
-      "lat": 6.7071,
-      "lng": 3.2989,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Nigerian армия Silent as экстремисты Kill 9, Destroy Crops",
-      "description": "Armed attackers убит least nine христиане, including Nigerian soldier, в devastating spree across плато штат. attackers also разрушен more than 40 hectares farmland в just three дни, according local sources. International C",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/04/nigerian-army-silent-as-extremists-kill-9-destroy-crops/",
       "victims": 0
     }
   ]
