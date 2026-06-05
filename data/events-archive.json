@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-04T19:53:17.947Z",
+    "lastUpdated": "2026-06-05T02:02:49.897Z",
     "totalEvents": 500
   },
   "events": [
@@ -108,6 +108,19 @@
       "description": "Пока not \"worst offender\" Egypt still makes 42 на Open Doors watchlist.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/parliamentary-group-highlights-plight-of-christian-youtuber-detained-in-egypt",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-04",
+      "lat": 12.0014,
+      "lng": 12.9706,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "Nigeria’s убийства Offer Perspective для Policy Change",
+      "description": "Dr. Greg Cochran, ICC Fellow Violence — particularly gun violence — features prominently в политический debates across U.S. “Gun violence is epidemic в this country, yet конгресс remains hamstrung obstructionists когда it comes passing",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/04/nigerias-killings-offer-perspective-for-policy-change/",
       "victims": 0
     },
     {
@@ -277,6 +290,19 @@
       "description": "В прошлом году Pakistan депортирован approximately million Afghans.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/concerns-for-christian-afghans-deported-from-pakistan",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-03",
+      "lat": 28.5602,
+      "lng": 77.2498,
+      "country": "India",
+      "city": "Delhi",
+      "type": "attack",
+      "title": "India трибунал urges end ‘impunity’ as anti-христианин violence climbs",
+      "description": "Христианин, индус, и мусульманин groups joined люди's трибунал в New Delhi that documented sharp rise в атаки на христиане и demanded правительство curb “impunity.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/india-tribunal-urges-end-to-impunity-as-anti-christian-violence-climbs",
       "victims": 0
     },
     {
@@ -576,6 +602,19 @@
       "description": "Alayan Johnson, 22-год-old христианин auto-rickshaw driver в Punjab, Pakistan, was застрелен полиция после being mistaken для suspect. сейчас, полиция are reportedly pressuring him call off investigation в стрельба. в video statement fr",
       "source": "persecution",
       "url": "https://persecution.org/2026/06/02/pakistani-police-shoot-christian-man/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-02",
+      "lat": 18.9138,
+      "lng": 73.0158,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "discrimination",
+      "title": "India: 180 христианские семьи отказано Water, Economic Rights в Chhattisgarh",
+      "description": "Nearly 41 семьи have reportedly been отказано employment opportunities под Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA). More than 100 семьи have allegedly been excluded из Tendu leaf procurement activities. post",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/06/02/india-180-christian-families-denied-water-economic-rights-in-chhattisgarh/",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Lisa Navarrette, ICC Fellow question why правительство cannot fully contain христианин гонение в Nigeria is often asked с frustration и urgency. первый glance, it май seem like failure политический will. It is easy assume t",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/04/why-the-government-cant-get-control-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-04",
-      "lat": 9.3454,
-      "lng": 9.6398,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Nigerian армия Silent as экстремисты Kill 9, Destroy Crops",
-      "description": "Armed attackers убит least nine христиане, including Nigerian soldier, в devastating spree across плато штат. attackers also разрушен more than 40 hectares farmland в just three дни, according local sources. International C",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/04/nigerian-army-silent-as-extremists-kill-9-destroy-crops/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-04",
-      "lat": 20.7131,
-      "lng": 85.3004,
-      "country": "India",
-      "city": "Odisha",
-      "type": "other",
-      "title": "Three годы позже, Manipur христиане Still на Edge",
-      "description": "There’s no end в sight ethnic conflict that began three годы ago between христианин-majority Kuki-Zo и индус Meitei communities в Manipur, India. Even though месса riots have tapered off, armed и bloody violence в штат has effec",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/04/three-years-later-manipur-christians-still-on-edge/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-03",
-      "lat": 8.9132,
-      "lng": 7.2849,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "kidnapping",
-      "title": "Tackle insecurity, методистская церковь urges Tinubu",
-      "description": "Методистская церковь Nigeria calls на президент Tinubu intensify усилия tackle insecurity, citing banditry и похищение as угрозы national sta Read More: https://punchng.com/tackle-insecurity-methodist-церковь-urges-tinubu/",
-      "source": "punchng",
-      "url": "https://punchng.com/tackle-insecurity-methodist-church-urges-tinubu/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     }
   ]
