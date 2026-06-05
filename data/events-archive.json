@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-05T09:01:47.473Z",
+    "lastUpdated": "2026-06-05T14:18:01.528Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-06-05",
+      "lat": 11.596,
+      "lng": 12.9155,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "Updated: Iwobi, Chukwueze join Super Eagles лагерь в Lisbon ahead Portugal friendly",
+      "description": "Super Eagles midfielder Alex Iwobi и защитник христианин Akpan have joined Nigeria's training лагерь в Lisbon as preparations continue для international friendly against Portugal. post Updated: Iwobi, Chukwueze join Super Eagles лагерь в Lisbo",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/06/iwobi-akpan-join-super-eagles-camp-in-lisbon-chukwueze-expected/",
+      "victims": 0
+    },
     {
       "date": "2026-06-04",
       "lat": 9.0663,
@@ -147,6 +160,19 @@
       "description": "Пока not \"worst offender\" Egypt still makes 42 на Open Doors watchlist.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/parliamentary-group-highlights-plight-of-christian-youtuber-detained-in-egypt",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-04",
+      "lat": 9.3491,
+      "lng": 9.4247,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Nigeria’s убийства Offer Perspective для Policy Change",
+      "description": "Dr. Greg Cochran, ICC Fellow Violence — particularly gun violence — features prominently в политический debates across U.S. “Gun violence is epidemic в this country, yet конгресс remains hamstrung obstructionists когда it comes passing",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/04/nigerias-killings-offer-perspective-for-policy-change/",
       "victims": 0
     },
     {
@@ -1187,6 +1213,19 @@
       "description": "United штаты Congressman, Riley Moore, says фулани боевики have убит more Nigerians, especially христиане, than Боко Харам. Moore said this в post на his verified X handle на суббота. He was reacting report United штаты Com",
       "source": "newsapi:Daily Post Nigeria",
       "url": "https://dailypost.ng/2026/05/30/fulani-militants-cause-more-deaths-than-boko-haram-in-nigeria-us-lawmaker-riley-moore/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-30",
+      "lat": 43.9198,
+      "lng": 87.6261,
+      "country": "China",
+      "city": "Xinjiang",
+      "type": "arrest",
+      "title": "Daughter’s hope для her father, пастор в Chinese тюрьма",
+      "description": "Founder stunningly successful Zion церковь заключён в правительство's попытка control вера",
+      "source": "newsapi:Wnd.com",
+      "url": "https://www.wnd.com/2026/05/daughters-hope-her-father-pastor-chinese-jail/",
       "victims": 0
     },
     {
@@ -6460,45 +6499,6 @@
       "lng": 3.2989,
       "country": "Nigeria",
       "city": "Lagos",
-      "type": "murder",
-      "title": "Nigerian армия Silent as экстремисты Kill 9, Destroy Crops",
-      "description": "Armed attackers убит least nine христиане, including Nigerian soldier, в devastating spree across плато штат. attackers also разрушен more than 40 hectares farmland в just three дни, according local sources. International C",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/04/nigerian-army-silent-as-extremists-kill-9-destroy-crops/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-04",
-      "lat": 21.1051,
-      "lng": 81.6619,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "other",
-      "title": "Three годы позже, Manipur христиане Still на Edge",
-      "description": "There’s no end в sight ethnic conflict that began three годы ago between христианин-majority Kuki-Zo и индус Meitei communities в Manipur, India. Even though месса riots have tapered off, armed и bloody violence в штат has effec",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/04/three-years-later-manipur-christians-still-on-edge/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-04",
-      "lat": 9.047,
-      "lng": 9.6705,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "kidnapping",
-      "title": "Боевики Abduct христианская школаgirls, Kill 1 в Nigeria",
-      "description": "This incident is part pattern засады along Akwando–Kachia road. Since январь, least seven separate атаки have been recorded на this route, targeting commercial vehicles, private transport, и motorcycles post боевики Abduct Ch",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/05/04/gunmen-abduct-christian-schoolgirls-kill-1-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-04",
-      "lat": 9.2429,
-      "lng": 7.7354,
-      "country": "Nigeria",
-      "city": "Abuja",
       "type": "murder",
       "title": "Nigerian армия Silent as экстремисты Kill 9, Destroy Crops",
       "description": "Armed attackers убит least nine христиане, including Nigerian soldier, в devastating spree across плато штат. attackers also разрушен more than 40 hectares farmland в just three дни, according local sources. International C",
