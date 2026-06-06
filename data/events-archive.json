@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-05T19:27:51.025Z",
+    "lastUpdated": "2026-06-06T01:54:16.282Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-06-06",
+      "lat": 9.0823,
+      "lng": 7.6153,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Bakare, VC advise молодёжь на personal devt",
+      "description": "Пастор Tunde Bakare и Prof Olalekan Asikhia urge Nigerian молодёжь embrace personal development, leadership, и continuous learning для national growth Read More: https://punchng.com/bakare-vc-advise-молодёжь-на-personal-devt/",
+      "source": "punchng",
+      "url": "https://punchng.com/bakare-vc-advise-youths-on-personal-devt/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-06",
+      "lat": 10.7248,
+      "lng": 7.4291,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Ogunsanya wins Nigeria’s первый medal в Mongolia",
+      "description": "Christianah Ogunsanya secures Nigeria’s первый medal World Wrestling Ranking Series в Mongolia, claiming bronze. Read о her historic win. Read More: https://punchng.com/ogunsanya-wins-nigerias-первый-medal-в-mongolia/",
+      "source": "punchng",
+      "url": "https://punchng.com/ogunsanya-wins-nigerias-first-medal-in-mongolia/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-06-05",
       "lat": 11.596,
@@ -69,6 +95,32 @@
       "description": "Кардинал Pablo Virgilio David is advising new гражданский-led body seeking document thousands убит во время Rodrigo Duterte's anti-drug кампания.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-backed-truth-commission-launched-to-probe-duterte-drug-war-killings",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-05",
+      "lat": 8.8687,
+      "lng": 7.5091,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Nigeria приговоры 4 perpetrators 2022 Pentecost резня смерть",
+      "description": "Суд в Nigeria осуждён four мужчины heinous crime, acquitting пятый. defense will appeal verdict. казни are rare в Nigeria и католическая церковь opposes смерть penalty.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/nigeria-sentences-4-perpetrators-of-2022-pentecost-massacre-to-death",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-05",
+      "lat": 2.2308,
+      "lng": 45.0886,
+      "country": "Somalia",
+      "city": "Mogadishu",
+      "type": "other",
+      "title": "Leaving Everything Follow Christ",
+      "description": "Для Teshome Getachew, following Jesus пока living near Ethiopian-Somali border means walking path marked угрозы, fear, перемещение, и uncertainty. Despite dangers being христианин among Somali мусульмане, Getachew said journey",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/05/leaving-everything-to-follow-christ/",
       "victims": 0
     },
     {
@@ -402,6 +454,19 @@
       "lng": 77.2498,
       "country": "India",
       "city": "Delhi",
+      "type": "attack",
+      "title": "India трибунал urges end ‘impunity’ as anti-христианин violence climbs",
+      "description": "Христианин, индус, и мусульманин groups joined люди's трибунал в New Delhi that documented sharp rise в атаки на христиане и demanded правительство curb “impunity.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/india-tribunal-urges-end-to-impunity-as-anti-christian-violence-climbs",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-03",
+      "lat": 19.2127,
+      "lng": 73.1006,
+      "country": "India",
+      "city": "Mumbai",
       "type": "attack",
       "title": "India трибунал urges end ‘impunity’ as anti-христианин violence climbs",
       "description": "Христианин, индус, и мусульманин groups joined люди's трибунал в New Delhi that documented sharp rise в атаки на христиане и demanded правительство curb “impunity.”",
@@ -1097,6 +1162,19 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/06/01/fulani-muslims-kill-8-christians-injure-15/",
       "victims": 8
+    },
+    {
+      "date": "2026-06-01",
+      "lat": 9.1977,
+      "lng": 9.424,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "UN urged investigate ‘геноцид attrition’ against христиане в Nigeria",
+      "description": "Memorandum has been submitted United Nations Special Rapporteur на Freedom религия or вера, alleging that escalating violence against христиане и умеренный мусульмане в country amounts геноцид.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/un-urged-to-investigate-genocide-by-attrition-against-christians-in-nigeria",
+      "victims": 0
     },
     {
       "date": "2026-05-31",
@@ -6426,84 +6504,6 @@
       "description": "There’s no end в sight ethnic conflict that began three годы ago between христианин-majority Kuki-Zo и индус Meitei communities в Manipur, India. Even though месса riots have tapered off, armed и bloody violence в штат has effec",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/04/three-years-later-manipur-christians-still-on-edge/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-04",
-      "lat": 9.0894,
-      "lng": 7.3746,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "Why правительство Can’t Get Control в Nigeria",
-      "description": "Lisa Navarrette, ICC Fellow question why правительство cannot fully contain христианин гонение в Nigeria is often asked с frustration и urgency. первый glance, it май seem like failure политический will. It is easy assume t",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/04/why-the-government-cant-get-control-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-04",
-      "lat": 6.7382,
-      "lng": 3.2554,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "kidnapping",
-      "title": "Боевики Abduct христианская школаgirls, Kill 1 в Nigeria",
-      "description": "This incident is part pattern засады along Akwando–Kachia road. Since январь, least seven separate атаки have been recorded на this route, targeting commercial vehicles, private transport, и motorcycles post боевики Abduct Ch",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/05/04/gunmen-abduct-christian-schoolgirls-kill-1-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-04",
-      "lat": -12.5126,
-      "lng": 40.3057,
-      "country": "Mozambique",
-      "city": "Cabo Delgado",
-      "type": "attack",
-      "title": "Catholic community в shock после террористы torch historic церковь в Mozambique",
-      "description": "Епископ Pemba Diocese в northern Mozambique has expressed sadness и solidarity с жертвы violence в регион where исламист insurgency has persisted для nearly nine годы.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/catholic-community-in-shock-after-terrorists-torch-historic-church-in-mozambique",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-04",
-      "lat": 12.1309,
-      "lng": 8.6356,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Nigerian армия Silent as экстремисты Kill 9, Destroy Crops",
-      "description": "Armed attackers убит least nine христиане, including Nigerian soldier, в devastating spree across плато штат. attackers also разрушен more than 40 hectares farmland в just three дни, according local sources. International C",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/04/nigerian-army-silent-as-extremists-kill-9-destroy-crops/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-04",
-      "lat": 26.8326,
-      "lng": 80.9748,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "other",
-      "title": "Three годы позже, Manipur христиане Still на Edge",
-      "description": "There’s no end в sight ethnic conflict that began three годы ago between христианин-majority Kuki-Zo и индус Meitei communities в Manipur, India. Even though месса riots have tapered off, armed и bloody violence в штат has effec",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/04/three-years-later-manipur-christians-still-on-edge/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-04",
-      "lat": 10.3523,
-      "lng": 7.2109,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Why правительство Can’t Get Control в Nigeria",
-      "description": "Lisa Navarrette, ICC Fellow question why правительство cannot fully contain христианин гонение в Nigeria is often asked с frustration и urgency. первый glance, it май seem like failure политический will. It is easy assume t",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/04/why-the-government-cant-get-control-in-nigeria/",
       "victims": 0
     }
   ]
