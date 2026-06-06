@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-06T08:21:20.813Z",
+    "lastUpdated": "2026-06-06T13:03:02.446Z",
     "totalEvents": 500
   },
   "events": [
@@ -121,6 +121,32 @@
       "description": "Для Teshome Getachew, following Jesus пока living near Ethiopian-Somali border means walking path marked угрозы, fear, перемещение, и uncertainty. Despite dangers being христианин among Somali мусульмане, Getachew said journey",
       "source": "persecution",
       "url": "https://persecution.org/2026/06/05/leaving-everything-to-follow-christ/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-05",
+      "lat": 21.1038,
+      "lng": 105.7163,
+      "country": "Vietnam",
+      "city": "Hanoi",
+      "type": "other",
+      "title": "ICC Publishes New Report на религиозный Freedom в Vietnam",
+      "description": "New report из International христианин Concern (ICC), “Freedom богослужение: False Reality в Vietnam,” examines current штат религиозный freedom и христианин гонение под коммунизм в Vietnam. в country where правительство tightly",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/05/icc-publishes-new-report-on-religious-freedom-in-vietnam/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-05",
+      "lat": 11.9215,
+      "lng": 13.0504,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "Nigeria приговоры 4 perpetrators 2022 Pentecost резня смерть",
+      "description": "Суд в Nigeria осуждён four мужчины heinous crime, acquitting пятый. defense will appeal verdict. казни are rare в Nigeria и католическая церковь opposes смерть penalty.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/nigeria-sentences-4-perpetrators-of-2022-pentecost-massacre-to-death",
       "victims": 0
     },
     {
@@ -467,6 +493,19 @@
       "lng": 73.1006,
       "country": "India",
       "city": "Mumbai",
+      "type": "attack",
+      "title": "India трибунал urges end ‘impunity’ as anti-христианин violence climbs",
+      "description": "Христианин, индус, и мусульманин groups joined люди's трибунал в New Delhi that documented sharp rise в атаки на христиане и demanded правительство curb “impunity.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/india-tribunal-urges-end-to-impunity-as-anti-christian-violence-climbs",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-03",
+      "lat": 21.1671,
+      "lng": 84.9927,
+      "country": "India",
+      "city": "Odisha",
       "type": "attack",
       "title": "India трибунал urges end ‘impunity’ as anti-христианин violence climbs",
       "description": "Христианин, индус, и мусульманин groups joined люди's трибунал в New Delhi that documented sharp rise в атаки на христиане и demanded правительство curb “impunity.”",
@@ -6465,45 +6504,6 @@
       "description": "Controversy surrounding construction Toraja церковь house богослужение в Sungai Keledang area ​​Samarinda Seberang район, в East Kalimantan, Indonesia, remains unresolved. All administrative и technical requirements для",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/04/local-pressure-prevents-church-construction-in-indonesia/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-04",
-      "lat": -25.8863,
-      "lng": 32.3817,
-      "country": "Mozambique",
-      "city": "Maputo",
-      "type": "attack",
-      "title": "Catholic community в shock после террористы torch historic церковь в Mozambique",
-      "description": "Епископ Pemba Diocese в northern Mozambique has expressed sadness и solidarity с жертвы violence в регион where исламист insurgency has persisted для nearly nine годы.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/catholic-community-in-shock-after-terrorists-torch-historic-church-in-mozambique",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-04",
-      "lat": 11.7272,
-      "lng": 13.2216,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Nigerian армия Silent as экстремисты Kill 9, Destroy Crops",
-      "description": "Armed attackers убит least nine христиане, including Nigerian soldier, в devastating spree across плато штат. attackers also разрушен more than 40 hectares farmland в just three дни, according local sources. International C",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/04/nigerian-army-silent-as-extremists-kill-9-destroy-crops/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-04",
-      "lat": 18.9941,
-      "lng": 73.0061,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "other",
-      "title": "Three годы позже, Manipur христиане Still на Edge",
-      "description": "There’s no end в sight ethnic conflict that began three годы ago between христианин-majority Kuki-Zo и индус Meitei communities в Manipur, India. Even though месса riots have tapered off, armed и bloody violence в штат has effec",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/04/three-years-later-manipur-christians-still-on-edge/",
       "victims": 0
     }
   ]
