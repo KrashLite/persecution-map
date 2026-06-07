@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-06T19:03:13.941Z",
+    "lastUpdated": "2026-06-07T02:08:50.739Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-06-07",
+      "lat": 9.3028,
+      "lng": 7.3399,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "BSN donates Библии worth N14.4m",
+      "description": "Библия Society Nigeria (BSN) donated Библии, New Testaments, и Portions worth N14.4m в 2025 various beneficiaries, including visually impai Read More: https://punchng.com/bsn-donates-Библии-worth-n14-4m/",
+      "source": "punchng",
+      "url": "https://punchng.com/bsn-donates-bibles-worth-n14-4m/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-06-06",
       "lat": 9.0823,
@@ -95,6 +108,45 @@
       "description": "Pentecostal Fellowship Nigeria (PFN) refutes claims linking its nationwide молитва programme пастор Adeboye or RCCG, calling allegations false и Read More: https://punchng.com/national-молитва-not-tied--adeboye-rccg-pfn-slams-critics/",
       "source": "punchng",
       "url": "https://punchng.com/national-prayer-not-tied-to-adeboye-rccg-pfn-slams-critics/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-06",
+      "lat": -12.3765,
+      "lng": 40.4575,
+      "country": "Mozambique",
+      "city": "Cabo Delgado",
+      "type": "murder",
+      "title": "Mozambique епископ застрелен и убит, details unknown",
+      "description": "Епископ Osorio Citora Quelimane, Mozambique, was застрелен погибшие в рано hours this утро, июнь 6, и his body was found в corridor episcopal residence, according Aid церковь в Need. perpetrator crime remains unk",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/06/06/mozambique-bishop-shot-and-killed-details-unknown/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-06",
+      "lat": 6.3517,
+      "lng": 3.1798,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "SCOAN Commemorates 5 годы T.B. Joshua’s legacy с global tribute event",
+      "description": "На пятница, thousands прихожане, министры, dignitaries и partners из across world gathered Synagogue, церковь All Nations (SCOAN) в Lagos, Nigeria, commemorate пятый anniversary transition glory Prophet T.B.",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/06/scoan-commemorates-5-years-of-t-b-joshuas-legacy-with-global-tribute-event/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-06",
+      "lat": 8.9238,
+      "lng": 7.6566,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Roll call without Nigeria, Patrick Omorodion",
+      "description": "As young месса Server (or алтарь boy as they are called these дни) St. Christopher’s Catholic школа на Ikot-Ekpene Street, near famous Mile 1 market в Diobu area порт Harcourt, one song I loved so much в my Hymn Book back then was ‘",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/06/roll-call-without-nigeria-by-patrick-omorodion/",
       "victims": 0
     },
     {
@@ -207,6 +259,19 @@
       "lng": 13.0504,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "murder",
+      "title": "Nigeria приговоры 4 perpetrators 2022 Pentecost резня смерть",
+      "description": "Суд в Nigeria осуждён four мужчины heinous crime, acquitting пятый. defense will appeal verdict. казни are rare в Nigeria и католическая церковь opposes смерть penalty.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/nigeria-sentences-4-perpetrators-of-2022-pentecost-massacre-to-death",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-05",
+      "lat": 9.0714,
+      "lng": 9.6819,
+      "country": "Nigeria",
+      "city": "Plateau",
       "type": "murder",
       "title": "Nigeria приговоры 4 perpetrators 2022 Pentecost резня смерть",
       "description": "Суд в Nigeria осуждён four мужчины heinous crime, acquitting пятый. defense will appeal verdict. казни are rare в Nigeria и католическая церковь opposes смерть penalty.",
@@ -6439,71 +6504,6 @@
       "description": "Though it wasn’t as widely reported, US президент Donald Trump made another comment о папа Leo на понедельник, в interview на Hugh Hewitt show. Hewitt spoke о Jimmy Lai, Catholic pro-democracy leader в Hong Kong who was приговорён Chi",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/05/05/pope-leo-asks-for-truth-after-new-criticism-from-trump/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-05",
-      "lat": 39.8979,
-      "lng": 116.4807,
-      "country": "China",
-      "city": "Beijing",
-      "type": "arrest",
-      "title": "North Korea Prisoners Receive Human Rights Award",
-      "description": "Three Korean миссионеры задержан для more than десятилетие в North Korea will receive Graciela Fernandez Meijide Human Rights Award в август в absentia. three мужчины — Choi Chun-gil, Kim Jong-Uk, и Kim Kuk-gi — were helping North Korean defe",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/05/north-korea-prisoners-to-receive-human-rights-award/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-05",
-      "lat": 11.6523,
-      "lng": 12.9473,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Exclusive из Nigeria: христианская семья сожжён Alive",
-      "description": "Thousands христиане have been убит, leaving 400 widows struggling для survival после being перемещён фулани исламский экстремисты. Photo Antonio Graceffo. Driving из Nigeria’s столица город Abuja toward Jos, one enters kill zone",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-religion/4377685/posts",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-05",
-      "lat": 6.6621,
-      "lng": 3.1353,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "12 христиане убит в Nigeria",
-      "description": "Террористы из Исламское государство West Africa провинция (ISWAP) убит least 12 люди и сожжён церковь building в атака на христианин деревня в northeastern Nigeria’s Adamawa штат, according international христианин aid organizati",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/12-christians-killed-in-nigeria",
-      "victims": 12
-    },
-    {
-      "date": "2026-05-05",
-      "lat": 11.966,
-      "lng": 8.3902,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "12 христиане убит в Nigeria",
-      "description": "Террористы из Исламское государство West Africa провинция (ISWAP) убит least 12 люди и сожжён церковь building в атака на христианин деревня в northeastern Nigeria’s Adamawa штат, according international христианин aid organizati",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/12-christians-killed-in-nigeria",
-      "victims": 12
-    },
-    {
-      "date": "2026-05-05",
-      "lat": 31.3138,
-      "lng": 121.319,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "arrest",
-      "title": "North Korea Prisoners Receive Human Rights Award",
-      "description": "Three Korean миссионеры задержан для more than десятилетие в North Korea will receive Graciela Fernandez Meijide Human Rights Award в август в absentia. three мужчины — Choi Chun-gil, Kim Jong-Uk, и Kim Kuk-gi — were helping North Korean defe",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/05/north-korea-prisoners-to-receive-human-rights-award/",
       "victims": 0
     }
   ]
