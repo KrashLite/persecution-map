@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-07T02:08:50.739Z",
+    "lastUpdated": "2026-06-07T08:42:20.538Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "Библия Society Nigeria (BSN) donated Библии, New Testaments, и Portions worth N14.4m в 2025 various beneficiaries, including visually impai Read More: https://punchng.com/bsn-donates-Библии-worth-n14-4m/",
       "source": "punchng",
       "url": "https://punchng.com/bsn-donates-bibles-worth-n14-4m/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-07",
+      "lat": 12.1715,
+      "lng": 8.6835,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "CAC президент knocks leaders лишения, insecurity",
+      "description": "CAC президент, пастор Samuel Oladele, criticizes Nigerian leaders для failing deliver на electoral promises, citing лишения и insecurity. He urge Read More: https://punchng.com/cac-президент-knocks-leaders--лишения-insecurity/",
+      "source": "punchng",
+      "url": "https://punchng.com/cac-president-knocks-leaders-over-hardship-insecurity/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     },
     {
@@ -6491,19 +6504,6 @@
       "description": "Thousands христиане have been убит, leaving 400 widows struggling для survival после being перемещён фулани исламский экстремисты. Photo Antonio Graceffo. Driving из Nigeria’s столица город Abuja toward Jos, one enters kill zone",
       "source": "newsapi:Freerepublic.com",
       "url": "https://freerepublic.com/focus/f-religion/4377685/posts",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-05",
-      "lat": 23.359,
-      "lng": 113.5946,
-      "country": "China",
-      "city": "Guangdong",
-      "type": "arrest",
-      "title": "Папа Leo asks для truth после new criticism из Trump",
-      "description": "Though it wasn’t as widely reported, US президент Donald Trump made another comment о папа Leo на понедельник, в interview на Hugh Hewitt show. Hewitt spoke о Jimmy Lai, Catholic pro-democracy leader в Hong Kong who was приговорён Chi",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/05/05/pope-leo-asks-for-truth-after-new-criticism-from-trump/",
       "victims": 0
     }
   ]
