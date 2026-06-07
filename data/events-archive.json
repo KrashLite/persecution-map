@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-07T13:15:15.147Z",
+    "lastUpdated": "2026-06-07T19:03:08.437Z",
     "totalEvents": 500
   },
   "events": [
@@ -56,6 +56,32 @@
       "description": "Says атаки threatening national peace Dayo Johnson Akure христианин Association Nigeria, CAN, в South-West has asked Federal правительство немедленно declare штат emergency на security tackle похищения, banditry, и",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/06/insecurity-south-west-can-demands-state-of-emergency-backs-state-police/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-07",
+      "lat": 12.0016,
+      "lng": 13.3107,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "kidnapping",
+      "title": "Akpabio urges unity against insecurity",
+      "description": "Henry Umoru, Abuja президент сенат, Godswill Akpabio, has called на Nigerians support усилия combat terrorism, похищение и other forms violent crime, stressing that security requires collective vigilance и cooperation",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/06/akpabio-urges-unity-against-insecurity/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-07",
+      "lat": 11.8466,
+      "lng": 8.7722,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "kidnapping",
+      "title": "CAN urges FG declare штат emergency на insecurity",
+      "description": "Христианин Association Nigeria (CAN) calls на Federal правительство declare штат emergency на insecurity в Nigeria amid rising похищения Read More: https://punchng.com/can-urges-fg--declare-штат--emergency-на-insecurity/",
+      "source": "punchng",
+      "url": "https://punchng.com/can-urges-fg-to-declare-state-of-emergency-on-insecurity/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     },
     {
@@ -6479,32 +6505,6 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/families-of-pakistan-church-bombing-victims-call-delayed-compensation-mockery-of-justice",
       "victims": 0
-    },
-    {
-      "date": "2026-05-05",
-      "lat": 35.4687,
-      "lng": 51.4159,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Secretary штат Rubio, Catholic, plans visit Vatican",
-      "description": "Secretary штат Marco Rubio will travel Rome и Vatican город на этой неделе в bid ease rising tensions between президент Donald Trump и папа Leo XIV U.S. policies, particularly Iran war.",
-      "source": "crux",
-      "url": "https://cruxnow.com/vatican/2026/05/secretary-of-state-rubio-a-catholic-plans-to-visit-the-vatican/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-05",
-      "lat": 9.2033,
-      "lng": 9.6994,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "12 христиане убит в Nigeria",
-      "description": "Террористы из Исламское государство West Africa провинция (ISWAP) убит least 12 люди и сожжён церковь building в атака на христианин деревня в northeastern Nigeria’s Adamawa штат, according international христианин aid organizati",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/12-christians-killed-in-nigeria",
-      "victims": 12
     }
   ]
 }
