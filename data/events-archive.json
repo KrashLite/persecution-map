@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-07T08:42:20.538Z",
+    "lastUpdated": "2026-06-07T13:15:15.147Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,32 @@
       "description": "CAC президент, пастор Samuel Oladele, criticizes Nigerian leaders для failing deliver на electoral promises, citing лишения и insecurity. He urge Read More: https://punchng.com/cac-президент-knocks-leaders--лишения-insecurity/",
       "source": "punchng",
       "url": "https://punchng.com/cac-president-knocks-leaders-over-hardship-insecurity/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-07",
+      "lat": 11.9528,
+      "lng": 8.5644,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "kidnapping",
+      "title": "Армия foils kidnap попытки на пастор, wife; rescues 10 жертвы в плато, Kaduna",
+      "description": "Nigerian армия troops операция Enduring Peace foiled multiple kidnap попытки, rescuing пастор, his wife, и 10 other жертвы в плато и Kaduna s Read More: https://punchng.com/армия-foils-kidnap-попытки-на-пастор-wife-rescues-10-жертвы-i",
+      "source": "punchng",
+      "url": "https://punchng.com/army-foils-kidnap-attempts-on-pastor-wife-rescues-10-victims-in-plateau-kaduna/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 10
+    },
+    {
+      "date": "2026-06-07",
+      "lat": 11.9981,
+      "lng": 8.6715,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "kidnapping",
+      "title": "Insecurity: South-West CAN demands штат emergency, backs штат полиция",
+      "description": "Says атаки threatening national peace Dayo Johnson Akure христианин Association Nigeria, CAN, в South-West has asked Federal правительство немедленно declare штат emergency на security tackle похищения, banditry, и",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/06/insecurity-south-west-can-demands-state-of-emergency-backs-state-police/",
       "victims": 0
     },
     {
@@ -6479,32 +6505,6 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/12-christians-killed-in-nigeria",
       "victims": 12
-    },
-    {
-      "date": "2026-05-05",
-      "lat": 43.6088,
-      "lng": 87.7078,
-      "country": "China",
-      "city": "Xinjiang",
-      "type": "arrest",
-      "title": "North Korea Prisoners Receive Human Rights Award",
-      "description": "Three Korean миссионеры задержан для more than десятилетие в North Korea will receive Graciela Fernandez Meijide Human Rights Award в август в absentia. three мужчины — Choi Chun-gil, Kim Jong-Uk, и Kim Kuk-gi — were helping North Korean defe",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/05/north-korea-prisoners-to-receive-human-rights-award/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-05",
-      "lat": 9.2511,
-      "lng": 7.698,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Exclusive из Nigeria: христианская семья сожжён Alive",
-      "description": "Thousands христиане have been убит, leaving 400 widows struggling для survival после being перемещён фулани исламский экстремисты. Photo Antonio Graceffo. Driving из Nigeria’s столица город Abuja toward Jos, one enters kill zone",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-religion/4377685/posts",
-      "victims": 0
     }
   ]
 }
