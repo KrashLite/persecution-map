@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-07T19:03:08.437Z",
+    "lastUpdated": "2026-06-08T02:13:42.410Z",
     "totalEvents": 500
   },
   "events": [
@@ -337,6 +337,19 @@
       "lng": 9.6819,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "murder",
+      "title": "Nigeria приговоры 4 perpetrators 2022 Pentecost резня смерть",
+      "description": "Суд в Nigeria осуждён four мужчины heinous crime, acquitting пятый. defense will appeal verdict. казни are rare в Nigeria и католическая церковь opposes смерть penalty.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/nigeria-sentences-4-perpetrators-of-2022-pentecost-massacre-to-death",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-05",
+      "lat": 11.9398,
+      "lng": 8.5676,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "murder",
       "title": "Nigeria приговоры 4 perpetrators 2022 Pentecost резня смерть",
       "description": "Суд в Nigeria осуждён four мужчины heinous crime, acquitting пятый. defense will appeal verdict. казни are rare в Nigeria и католическая церковь opposes смерть penalty.",
@@ -6491,19 +6504,6 @@
       "description": "Thousands христиане have been убит, leaving 400 widows struggling для survival после being перемещён фулани исламский экстремисты. Photo Antonio Graceffo. Driving из Nigeria’s столица город Abuja toward Jos, one enters kill zone",
       "source": "newsapi:Freerepublic.com",
       "url": "https://freerepublic.com/focus/f-religion/4377685/posts",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-05",
-      "lat": 31.3402,
-      "lng": 74.5888,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "attack",
-      "title": "Семьи Pakistan церковь взрыв жертвы call delayed compensation ‘mockery justice’",
-      "description": "More than 12 годы после twin самоубийственные теракты All Saints церковь в Peshawar, выжившие say правительство aid is too little и too поздно.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/families-of-pakistan-church-bombing-victims-call-delayed-compensation-mockery-of-justice",
       "victims": 0
     }
   ]
