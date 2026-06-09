@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-09T01:51:23.478Z",
+    "lastUpdated": "2026-06-09T08:55:49.037Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-06-09",
+      "lat": 10.3025,
+      "lng": 7.5683,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Aig-Imoukhuede Memorial Lecture: политический position isn’t leadership, Kukah tells Nigerians",
+      "description": "Catholic епископ Sokoto Diocese, Matthew Kukah, вчера challenged Nigerians rethink their understanding leadership. post Aig-Imoukhuede Memorial Lecture: политический position isn’t leadership, Kukah tells Nigerians appeared первый",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/06/at-aig-imoukhuede-memorial-lecture-political-position-isnt-leadership-kukah-tells-nigerians/",
+      "victims": 0
+    },
     {
       "date": "2026-06-08",
       "lat": 26.7777,
@@ -6491,19 +6504,6 @@
       "description": "More than 12 годы после twin самоубийственные теракты All Saints церковь в Peshawar, выжившие say правительство aid is too little и too поздно.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/families-of-pakistan-church-bombing-victims-call-delayed-compensation-mockery-of-justice",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-05",
-      "lat": 32.8954,
-      "lng": 51.5744,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Secretary штат Rubio, Catholic, plans visit Vatican",
-      "description": "Secretary штат Marco Rubio will travel Rome и Vatican город на этой неделе в bid ease rising tensions between президент Donald Trump и папа Leo XIV U.S. policies, particularly Iran war.",
-      "source": "crux",
-      "url": "https://cruxnow.com/vatican/2026/05/secretary-of-state-rubio-a-catholic-plans-to-visit-the-vatican/",
       "victims": 0
     }
   ]
