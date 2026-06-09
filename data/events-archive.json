@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-08T19:57:53.824Z",
+    "lastUpdated": "2026-06-09T01:51:23.478Z",
     "totalEvents": 500
   },
   "events": [
@@ -69,6 +69,45 @@
       "description": "Церковь leaders и aid groups are calling для assistance и молитвы для жертвы после offshore magnitude 7.8 earthquake struck Mindanao, southern Philippines, на июнь 8.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-leaders-call-for-prayers-support-for-philippine-earthquake-victims",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-08",
+      "lat": 21.0689,
+      "lng": 85.2883,
+      "country": "India",
+      "city": "Odisha",
+      "type": "attack",
+      "title": "Индус Nationalists атака церковь, Injure 25 прихожане",
+      "description": "Индус nationalist толпа brutally атакован богослужение service на воскресенье, май 31, в remote Sadrapal деревня Sukma район в central Indian штат Chhattisgarh, injuring least 25 прихожане, including пастор’s pregnant wife. th",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/08/hindu-nationalists-attack-church-injure-25-worshippers/",
+      "victims": 30
+    },
+    {
+      "date": "2026-06-08",
+      "lat": 9.2827,
+      "lng": 7.7008,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "kidnapping",
+      "title": "Hundreds Freed из Боко Харам плен после месяцы в гора Hideout",
+      "description": "Hundreds Nigerians похищен Боко Харам боевики во время devastating март атака на деревня в northeastern Nigeria have been freed после месяцы в плен, marking one largest releases заложники в регион в recent годы.",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/08/hundreds-freed-from-boko-haram-captivity-after-months-in-mountain-hideout/",
+      "victims": 360
+    },
+    {
+      "date": "2026-06-08",
+      "lat": 12.0532,
+      "lng": 13.3002,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "Nigerians should rethink as leadership is influence, not офис — епископ Kukah",
+      "description": "Епископ Sokoto Catholic Diocese, Matthew Kukah, has challenged Nigerians rethink their understanding leadership, arguing that leadership should not be confused с политический офис or position. post Nigerians should rethink as leadership",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/06/nigerians-should-rethink-as-leadership-is-influence-not-office-bishop-kukah/",
       "victims": 0
     },
     {
@@ -155,6 +194,19 @@
       "lng": 72.9367,
       "country": "Pakistan",
       "city": "Islamabad",
+      "type": "other",
+      "title": "Americans travel Pakistan free христиане trapped в modern-день slavery: 'God's hand was в it'",
+      "description": "Aaron Hutchings says he was shocked see дети making bricks под hot sun в Pakistan pay off семья debts that had accumulated generations.",
+      "source": "newsapi:Fox News",
+      "url": "https://www.foxnews.com/world/americans-travel-pakistan-free-christians-trapped-modern-day-slavery-gods-hand",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-07",
+      "lat": 34.1934,
+      "lng": 71.3017,
+      "country": "Pakistan",
+      "city": "Peshawar",
       "type": "other",
       "title": "Americans travel Pakistan free христиане trapped в modern-день slavery: 'God's hand was в it'",
       "description": "Aaron Hutchings says he was shocked see дети making bricks под hot sun в Pakistan pay off семья debts that had accumulated generations.",
@@ -6452,58 +6504,6 @@
       "description": "Secretary штат Marco Rubio will travel Rome и Vatican город на этой неделе в bid ease rising tensions between президент Donald Trump и папа Leo XIV U.S. policies, particularly Iran war.",
       "source": "crux",
       "url": "https://cruxnow.com/vatican/2026/05/secretary-of-state-rubio-a-catholic-plans-to-visit-the-vatican/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-05",
-      "lat": 6.5166,
-      "lng": 3.5038,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Exclusive из Nigeria: христианская семья сожжён Alive",
-      "description": "Thousands христиане have been убит, leaving 400 widows struggling для survival после being перемещён фулани исламский экстремисты. Photo Antonio Graceffo. Driving из Nigeria’s столица город Abuja toward Jos, one enters kill zone",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-religion/4377685/posts",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-05",
-      "lat": 23.5695,
-      "lng": 113.615,
-      "country": "China",
-      "city": "Guangdong",
-      "type": "arrest",
-      "title": "North Korea Prisoners Receive Human Rights Award",
-      "description": "Three Korean миссионеры задержан для more than десятилетие в North Korea will receive Graciela Fernandez Meijide Human Rights Award в август в absentia. three мужчины — Choi Chun-gil, Kim Jong-Uk, и Kim Kuk-gi — were helping North Korean defe",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/05/north-korea-prisoners-to-receive-human-rights-award/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-05",
-      "lat": 1.9603,
-      "lng": 45.3681,
-      "country": "Somalia",
-      "city": "Mogadishu",
-      "type": "murder",
-      "title": "Community Grieves Teenage христианин’s смерть",
-      "description": "Смерть христианин подросток has left void в Mwingi, Kenya. во время recent вечер в Nguni area, Somali боевики moving through grazing routes along local farmland застрелен 14-год-old James Mutemi, убийство him. Another local escaped с inj",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/05/community-grieves-teenage-christians-death/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-05",
-      "lat": 34.1062,
-      "lng": 71.4472,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "attack",
-      "title": "Семьи Pakistan церковь взрыв жертвы call delayed compensation ‘mockery justice’",
-      "description": "More than 12 годы после twin самоубийственные теракты All Saints церковь в Peshawar, выжившие say правительство aid is too little и too поздно.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/families-of-pakistan-church-bombing-victims-call-delayed-compensation-mockery-of-justice",
       "victims": 0
     }
   ]
