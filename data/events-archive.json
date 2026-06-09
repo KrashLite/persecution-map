@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-09T08:55:49.037Z",
+    "lastUpdated": "2026-06-09T14:15:30.415Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "Catholic епископ Sokoto Diocese, Matthew Kukah, вчера challenged Nigerians rethink their understanding leadership. post Aig-Imoukhuede Memorial Lecture: политический position isn’t leadership, Kukah tells Nigerians appeared первый",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/06/at-aig-imoukhuede-memorial-lecture-political-position-isnt-leadership-kukah-tells-nigerians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-09",
+      "lat": 12.1067,
+      "lng": 8.4022,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Enenche opposes calls для removal service chiefs insecurity",
+      "description": "Major General John Enenche (retd.) argues that replacing service chiefs won’t solve Nigeria’s persistent insecurity, despite calls из пастор Adeboye. Read More: https://punchng.com/enenche-opposes-calls-для-removal--service-chiefs--insecurit",
+      "source": "punchng",
+      "url": "https://punchng.com/enenche-opposes-calls-for-removal-of-service-chiefs-over-insecurity/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     },
     {
@@ -124,6 +137,19 @@
       "victims": 0
     },
     {
+      "date": "2026-06-08",
+      "lat": 10.4797,
+      "lng": 7.5409,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "kidnapping",
+      "title": "Hundreds Freed из Боко Харам плен после месяцы в гора Hideout",
+      "description": "Hundreds Nigerians похищен Боко Харам боевики во время devastating март атака на деревня в northeastern Nigeria have been freed после месяцы в плен, marking one largest releases заложники в регион в recent годы.",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/08/hundreds-freed-from-boko-haram-captivity-after-months-in-mountain-hideout/",
+      "victims": 360
+    },
+    {
       "date": "2026-06-07",
       "lat": 9.3028,
       "lng": 7.3399,
@@ -220,6 +246,19 @@
       "lng": 71.3017,
       "country": "Pakistan",
       "city": "Peshawar",
+      "type": "other",
+      "title": "Americans travel Pakistan free христиане trapped в modern-день slavery: 'God's hand was в it'",
+      "description": "Aaron Hutchings says he was shocked see дети making bricks под hot sun в Pakistan pay off семья debts that had accumulated generations.",
+      "source": "newsapi:Fox News",
+      "url": "https://www.foxnews.com/world/americans-travel-pakistan-free-christians-trapped-modern-day-slavery-gods-hand",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-07",
+      "lat": 31.4326,
+      "lng": 74.1822,
+      "country": "Pakistan",
+      "city": "Lahore",
       "type": "other",
       "title": "Americans travel Pakistan free христиане trapped в modern-день slavery: 'God's hand was в it'",
       "description": "Aaron Hutchings says he was shocked see дети making bricks под hot sun в Pakistan pay off семья debts that had accumulated generations.",
@@ -6465,45 +6504,6 @@
       "description": "Secretary штат Marco Rubio will travel Rome и Vatican город на этой неделе в bid ease rising tensions between президент Donald Trump и папа Leo XIV U.S. policies, particularly Iran war.",
       "source": "crux",
       "url": "https://cruxnow.com/vatican/2026/05/secretary-of-state-rubio-a-catholic-plans-to-visit-the-vatican/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-05",
-      "lat": 12.2268,
-      "lng": 8.4807,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "‘God instructed me’, Apostle Femi Lazarus relocates семья Kenya",
-      "description": "Founder Light Nation церковь, Femi Lazarus has revealed plans temporarily relocate из Nigeria Kenya as part what he describes as new phase в his министерство. post ‘God instructed me’, Apostle Femi Lazarus relocates семья Keny",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/05/god-instructed-me-apostle-femi-lazarus-relocates-family-to-kenya/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-05",
-      "lat": 9.1413,
-      "lng": 7.7048,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "12 христиане убит в Nigeria",
-      "description": "Террористы из Исламское государство West Africa провинция (ISWAP) убит least 12 люди и сожжён церковь building в атака на христианин деревня в northeastern Nigeria’s Adamawa штат, according international христианин aid organizati",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/12-christians-killed-in-nigeria",
-      "victims": 12
-    },
-    {
-      "date": "2026-05-05",
-      "lat": 33.8736,
-      "lng": 73.2775,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "attack",
-      "title": "Семьи Pakistan церковь взрыв жертвы call delayed compensation ‘mockery justice’",
-      "description": "More than 12 годы после twin самоубийственные теракты All Saints церковь в Peshawar, выжившие say правительство aid is too little и too поздно.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/families-of-pakistan-church-bombing-victims-call-delayed-compensation-mockery-of-justice",
       "victims": 0
     }
   ]
