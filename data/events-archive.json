@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-10T14:46:20.372Z",
+    "lastUpdated": "2026-06-10T20:05:22.654Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,71 @@
       "description": "Pakistani армия вертолёт crashed в Pakistan-controlled Kashmir due technical fault, убийство all personnel на board. Read more о Pakistan h Read More: https://punchng.com/pakistan-армия-вертолёт-crashes-убийство-all-на-board/",
       "source": "punchng",
       "url": "https://punchng.com/pakistan-army-helicopter-crashes-killing-all-on-board/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-10",
+      "lat": 10.2772,
+      "lng": 7.4362,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "kidnapping",
+      "title": "U.N. Experts Warn Rights Violations Against христианки, Girls в Nigeria",
+      "description": "Офис United Nations High Commissioner для Human Rights has raised alarm credible reports могила human rights violations affecting женщины и girls в Nigeria, including убийства, похищения, sexual violence, вынужден обращение, forc",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/10/un-experts-warn-of-rights-violations-against-christian-women-girls-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-10",
+      "lat": 24.8049,
+      "lng": 66.9212,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "other",
+      "title": "Pakistani церкви shift месса times, offer water amid record heat wave",
+      "description": "As \"feels-like\" temperatures near 48 degrees Celsius (118 F), parishes в Karachi и Lahore are shifting молитва times, distributing water, и improving ventilation protect прихожане.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-churches-shift-mass-times-offer-water-amid-record-heat-wave",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-10",
+      "lat": -12.2365,
+      "lng": 40.4674,
+      "country": "Mozambique",
+      "city": "Cabo Delgado",
+      "type": "murder",
+      "title": "Catholic leaders across Africa, Vatican mourn убит Mozambique епископ, call для justice",
+      "description": "African Catholic епископы, Vatican Dicastery для Evangelization, и Aid церковь в Need (ACN) joined папа Leo в mourning 54-год-old епископ, calling для justice.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/catholic-leaders-across-africa-vatican-mourn-slain-mozambique-bishop-call-for-justice",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-10",
+      "lat": -4.5287,
+      "lng": 15.2912,
+      "country": "Democratic Republic of the Congo",
+      "city": "Kinshasa",
+      "type": "other",
+      "title": "Исламский экстремисты Release Photos Indoctrinated дети в DRC",
+      "description": "Following publication photos из 2026 Tabaski celebrations в Democratic Republic Congo (DRC), Исламское государство’s Central Africa провинция (ISCAP), which includes Allied Democratic силы (ADF), released numerous images, в",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/10/islamic-extremists-release-photos-of-indoctrinated-children-in-drc/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-10",
+      "lat": 14.3693,
+      "lng": 121.1046,
+      "country": "Philippines",
+      "city": "Manila",
+      "type": "murder",
+      "title": "Церковь в Philippines rallies aid после Mindanao earthquake",
+      "description": "As смерть toll из июнь 8 Mindanao earthquake climbs, Catholic епископы across Philippines are urging faithful give relief и rehabilitation усилия.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/church-in-the-philippines-rallies-aid-after-mindanao-earthquake",
       "victims": 0
     },
     {
@@ -160,6 +225,19 @@
       "description": "“жертвы и выжившие must not be left without protection, justice, reparations, including rehabilitation и meaningful support,” experts wrote.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/un-experts-warn-of-deeply-troubling-rights-violations-against-christian-women-and-girls-in",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-09",
+      "lat": 10.3982,
+      "lng": 7.3665,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Federal суд в New Mexico lets Nigerian священник remain в U.S. во время visa case",
+      "description": "Outcome newly-ordained Father Martin Umeatuegbu’s case could set precedent для other foreign-born священники из countries designated U.S. as “high risk.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/federal-court-in-new-mexico-lets-nigerian-priest-remain-in-u-s-during-visa-case",
       "victims": 0
     },
     {
@@ -317,6 +395,19 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/06/08/hundreds-freed-from-boko-haram-captivity-after-months-in-mountain-hideout/",
       "victims": 360
+    },
+    {
+      "date": "2026-06-08",
+      "lat": 21.3338,
+      "lng": 81.8819,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "attack",
+      "title": "Индус Nationalists атака церковь, Injure 25 прихожане",
+      "description": "Индус nationalist толпа brutally атакован богослужение service на воскресенье, май 31, в remote Sadrapal деревня Sukma район в central Indian штат Chhattisgarh, injuring least 25 прихожане, including пастор’s pregnant wife. th",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/08/hindu-nationalists-attack-church-injure-25-worshippers/",
+      "victims": 30
     },
     {
       "date": "2026-06-07",
@@ -6413,97 +6504,6 @@
       "description": "Rajasthan полиция have арестован four Catholic мужчины, обвинён them под various sections India’s penal code после around dozen members right-wing индус толпа disrupted месса celebrations, accusing lay faithful религиозный обращение.",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-asia/2026/05/four-catholics-arrested-after-hindu-activists-disrupt-mass-in-india/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-06",
-      "lat": 26.8377,
-      "lng": 80.7232,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "attack",
-      "title": "Interview: Indian епископы say hostility toward христиане is rising",
-      "description": "Crux сейчас spoke епископ Devprasad Ganawa Udaipur и архиепископ Thomas Menamparampil, Emeritus Guwahati о атаки на христиане в India.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-asia/2026/05/interview-indian-bishops-say-hostility-toward-christians-is-rising/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-06",
-      "lat": 26.7113,
-      "lng": 81.1333,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "other",
-      "title": "India’s штат elections deliver split verdict для христианская община",
-      "description": "Христианские лидеры welcomed Kerala и Tamil Nadu outcomes but voiced alarm BJP's historic sweep West Bengal и третий-term win в Assam.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/india-s-state-elections-deliver-split-verdict-for-christian-community",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-06",
-      "lat": 32.7044,
-      "lng": 51.4452,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Папа Leo points церковь оппозиция nukes после Trump falsely claimed he said ‘Iran can have ядерное оружие’",
-      "description": "Папа Leo XIV pointed out май 5 that католическая церковь has long opposed nuclear arms после президент Donald Trump falsely claimed Pontiff had made “statement” saying “Iran can have ядерное оружие.”Trump reiterated accusation against",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-religion/4377966/posts",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-06",
-      "lat": 4.301,
-      "lng": 18.4756,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "discrimination",
-      "title": "Here’s how папа Leo XIV’s surprise video call Lebanese священники в war zone went",
-      "description": "Encounter lasted only few minutes, yet those present described it as deeply moving. для clergy ministering among взорван streets, повреждён homes, и communities exhausted месяцы violence, brief conversation carried significance far g",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/05/06/heres-how-pope-leo-xivs-surprise-video-call-to-lebanese-priests-in-a-war-zone-went/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-06",
-      "lat": 14.3647,
-      "lng": 120.7628,
-      "country": "Philippines",
-      "city": "Manila",
-      "type": "other",
-      "title": "Twenty дни до his рукоположение as епископ, he says no. reason? “Personal shortcomings,” claims honest священник",
-      "description": "Announcement reverberated across Philippines, where such отказы are highly unusual в public view. Although священники sometimes decline episcopal appointments privately до they are officially announced, it is exceedingly rare для епископ",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/05/06/twenty-days-before-his-ordination-as-bishop-he-says-no-the-reason-personal-shortcomings-claims-the-honest-priest/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-06",
-      "lat": 29.4315,
-      "lng": 52.4429,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "Trump accuses папа comforting Iran: ‘I think he’s endangering lot Catholics и lot люди’",
-      "description": "Папа, however, has not said Iran should obtain ядерное оружие.",
-      "source": "newsapi:Fortune",
-      "url": "https://fortune.com/2026/05/06/trump-accuses-pope-of-comforting-iran-i-think-hes-endangering-a-lot-of-catholics-and-a-lot-of-people/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-06",
-      "lat": 9.1743,
-      "lng": 9.434,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Христиане must defend themselves amid rising гонение, Nigerian prelate says",
-      "description": "Following resurgence violence в Nigeria, judicial vicar порт Harcourt Diocese has called для христиане promote peace пока not ignoring need protect their lives.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/christians-must-defend-themselves-amid-rising-persecution-nigerian-prelate-says",
       "victims": 0
     }
   ]
