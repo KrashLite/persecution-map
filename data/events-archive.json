@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-09T19:53:26.449Z",
+    "lastUpdated": "2026-06-10T02:02:41.789Z",
     "totalEvents": 500
   },
   "events": [
@@ -77,6 +77,32 @@
       "lng": 7.4307,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "other",
+      "title": "UN experts warn ‘deeply troubling’ rights violations against христианки и girls в Nigeria",
+      "description": "“жертвы и выжившие must not be left without protection, justice, reparations, including rehabilitation и meaningful support,” experts wrote.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/un-experts-warn-of-deeply-troubling-rights-violations-against-christian-women-and-girls-in",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-09",
+      "lat": 12.1357,
+      "lng": 8.4002,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Federal суд в New Mexico lets Nigerian священник remain в U.S. во время visa case",
+      "description": "Outcome newly-ordained Father Martin Umeatuegbu’s case could set precedent для other foreign-born священники из countries designated U.S. as “high risk.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/federal-court-in-new-mexico-lets-nigerian-priest-remain-in-u-s-during-visa-case",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-09",
+      "lat": 11.7767,
+      "lng": 8.662,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "other",
       "title": "UN experts warn ‘deeply troubling’ rights violations against христианки и girls в Nigeria",
       "description": "“жертвы и выжившие must not be left without protection, justice, reparations, including rehabilitation и meaningful support,” experts wrote.",
@@ -194,6 +220,19 @@
       "lng": 7.5409,
       "country": "Nigeria",
       "city": "Kaduna",
+      "type": "kidnapping",
+      "title": "Hundreds Freed из Боко Харам плен после месяцы в гора Hideout",
+      "description": "Hundreds Nigerians похищен Боко Харам боевики во время devastating март атака на деревня в northeastern Nigeria have been freed после месяцы в плен, marking one largest releases заложники в регион в recent годы.",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/08/hundreds-freed-from-boko-haram-captivity-after-months-in-mountain-hideout/",
+      "victims": 360
+    },
+    {
+      "date": "2026-06-08",
+      "lat": 11.6791,
+      "lng": 13.3898,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "kidnapping",
       "title": "Hundreds Freed из Боко Харам плен после месяцы в гора Hideout",
       "description": "Hundreds Nigerians похищен Боко Харам боевики во время devastating март атака на деревня в northeastern Nigeria have been freed после месяцы в плен, marking one largest releases заложники в регион в recent годы.",
@@ -6465,45 +6504,6 @@
       "description": "Христианские лидеры welcomed Kerala и Tamil Nadu outcomes but voiced alarm BJP's historic sweep West Bengal и третий-term win в Assam.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/india-s-state-elections-deliver-split-verdict-for-christian-community",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-06",
-      "lat": 6.4764,
-      "lng": 3.4083,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Христиане must defend themselves amid rising гонение, Nigerian prelate says",
-      "description": "Following resurgence violence в Nigeria, judicial vicar порт Harcourt Diocese has called для христиане promote peace пока not ignoring need protect their lives.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/christians-must-defend-themselves-amid-rising-persecution-nigerian-prelate-says",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-06",
-      "lat": 11.5851,
-      "lng": 13.2269,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "Христиане must defend themselves amid rising гонение, Nigerian prelate says",
-      "description": "Following resurgence violence в Nigeria, judicial vicar порт Harcourt Diocese has called для христиане promote peace пока not ignoring need protect their lives.",
-      "source": "newsapi:Ewtnnews.com",
-      "url": "https://www.ewtnnews.com/world/africa/christians-must-defend-themselves-amid-rising-persecution-nigerian-prelate-says",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-05",
-      "lat": 15.3869,
-      "lng": 32.809,
-      "country": "Sudan",
-      "city": "Khartoum",
-      "type": "murder",
-      "title": "Sudan’s Forgotten War: церковь leader cries out для peace",
-      "description": "As conflict в Sudan enters its третий год, nation faces humanitarian catastrophe: Millions have been перемещён, thousands убит, и critical infrastructure left в ruins.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-africa/2026/05/sudans-forgotten-war-a-church-leader-cries-out-for-peace/",
       "victims": 0
     }
   ]
