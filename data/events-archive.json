@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-11T15:28:18.622Z",
+    "lastUpdated": "2026-06-11T20:06:51.102Z",
     "totalEvents": 500
   },
   "events": [
@@ -12,6 +12,19 @@
       "lng": 3.3981,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "murder",
+      "title": "Four приговорён смерть terror атака на Nigerian церковь",
+      "description": "40 люди погиб в атака во время Pentecost воскресенье service в 2022.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/four-sentenced-to-death-over-terror-attack-on-nigerian-church",
+      "victims": 40
+    },
+    {
+      "date": "2026-06-11",
+      "lat": 9.399,
+      "lng": 9.3009,
+      "country": "Nigeria",
+      "city": "Plateau",
       "type": "murder",
       "title": "Four приговорён смерть terror атака на Nigerian церковь",
       "description": "40 люди погиб в атака во время Pentecost воскресенье service в 2022.",
@@ -181,6 +194,19 @@
       "lng": 51.5416,
       "country": "Iran",
       "city": "Isfahan",
+      "type": "attack",
+      "title": "Iran’s военные vows more ‘devastating’ strikes и Maine voters set up сенат showdown: утро Rundown",
+      "description": "Iran strikes U.S. targets в залив после fresh American атаки downed вертолёт.",
+      "source": "newsapi:NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/iran-vows-strikes-platner-maine-senate-morning-rundown-rcna349375",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-10",
+      "lat": 36.4663,
+      "lng": 59.6723,
+      "country": "Iran",
+      "city": "Mashhad",
       "type": "attack",
       "title": "Iran’s военные vows more ‘devastating’ strikes и Maine voters set up сенат showdown: утро Rundown",
       "description": "Iran strikes U.S. targets в залив после fresh American атаки downed вертолёт.",
@@ -6478,32 +6504,6 @@
       "description": "Rajasthan полиция have арестован four Catholic мужчины, обвинён them под various sections India’s penal code после around dozen members right-wing индус толпа disrupted месса celebrations, accusing lay faithful религиозный обращение.",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-asia/2026/05/four-catholics-arrested-after-hindu-activists-disrupt-mass-in-india/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-06",
-      "lat": 28.8972,
-      "lng": 76.8878,
-      "country": "India",
-      "city": "Delhi",
-      "type": "attack",
-      "title": "Interview: Indian епископы say hostility toward христиане is rising",
-      "description": "Crux сейчас spoke епископ Devprasad Ganawa Udaipur и архиепископ Thomas Menamparampil, Emeritus Guwahati о атаки на христиане в India.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-asia/2026/05/interview-indian-bishops-say-hostility-toward-christians-is-rising/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-06",
-      "lat": 43.8166,
-      "lng": 87.4729,
-      "country": "China",
-      "city": "Xinjiang",
-      "type": "other",
-      "title": "Data на generous participation Chinese Catholic Communities в 2026 national Collection",
-      "description": "Collection is promoted Jinde Charities, organization that has been coordinating charitable works supported Catholic communities в mainland China для 30 годы, и which в 2026 celebrated this initiative для девятый consecutive год.",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/05/05/data-on-the-generous-participation-of-chinese-catholic-communities-in-the-2026-national-collection/",
       "victims": 0
     }
   ]
