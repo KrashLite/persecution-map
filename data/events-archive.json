@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-11T02:13:21.110Z",
+    "lastUpdated": "2026-06-11T10:00:54.036Z",
     "totalEvents": 500
   },
   "events": [
@@ -108,6 +108,32 @@
       "description": "As \"feels-like\" temperatures near 48 degrees Celsius (118 F), parishes в Karachi и Lahore are shifting молитва times, distributing water, и improving ventilation protect прихожане.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-churches-shift-mass-times-offer-water-amid-record-heat-wave",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-10",
+      "lat": 9.2593,
+      "lng": 7.3219,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "kidnapping",
+      "title": "U.N. Experts Warn Rights Violations Against христианки, Girls в Nigeria",
+      "description": "Офис United Nations High Commissioner для Human Rights has raised alarm credible reports могила human rights violations affecting женщины и girls в Nigeria, including убийства, похищения, sexual violence, вынужден обращение, forc",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/10/un-experts-warn-of-rights-violations-against-christian-women-girls-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-10",
+      "lat": -26.2011,
+      "lng": 32.6026,
+      "country": "Mozambique",
+      "city": "Maputo",
+      "type": "murder",
+      "title": "Catholic leaders across Africa, Vatican mourn убит Mozambique епископ, call для justice",
+      "description": "African Catholic епископы, Vatican Dicastery для Evangelization, и Aid церковь в Need (ACN) joined папа Leo в mourning 54-год-old епископ, calling для justice.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/catholic-leaders-across-africa-vatican-mourn-slain-mozambique-bishop-call-for-justice",
       "victims": 0
     },
     {
@@ -272,6 +298,19 @@
       "lng": 3.411,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "other",
+      "title": "UN experts warn ‘deeply troubling’ rights violations against христианки и girls в Nigeria",
+      "description": "“жертвы и выжившие must not be left without protection, justice, reparations, including rehabilitation и meaningful support,” experts wrote.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/un-experts-warn-of-deeply-troubling-rights-violations-against-christian-women-and-girls-in",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-09",
+      "lat": 10.6397,
+      "lng": 7.5431,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "other",
       "title": "UN experts warn ‘deeply troubling’ rights violations against христианки и girls в Nigeria",
       "description": "“жертвы и выжившие must not be left without protection, justice, reparations, including rehabilitation и meaningful support,” experts wrote.",
@@ -6465,45 +6504,6 @@
       "description": "Crux сейчас spoke епископ Devprasad Ganawa Udaipur и архиепископ Thomas Menamparampil, Emeritus Guwahati о атаки на христиане в India.",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-asia/2026/05/interview-indian-bishops-say-hostility-toward-christians-is-rising/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-06",
-      "lat": -25.9363,
-      "lng": 32.3527,
-      "country": "Mozambique",
-      "city": "Maputo",
-      "type": "attack",
-      "title": "Исламисты reduce historic церковь rubble в northern Mozambique",
-      "description": "Атака на parish St Louis de Montfort did not inflict any пострадавшие на миссионеры but generated widespread panic among христианское население. post исламисты reduce historic церковь rubble в northern Mozambique appeared fir",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/05/05/islamists-reduce-historic-church-to-rubble-in-northern-mozambique/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-06",
-      "lat": 28.8517,
-      "lng": 76.9382,
-      "country": "India",
-      "city": "Delhi",
-      "type": "other",
-      "title": "India’s штат elections deliver split verdict для христианская община",
-      "description": "Христианские лидеры welcomed Kerala и Tamil Nadu outcomes but voiced alarm BJP's historic sweep West Bengal и третий-term win в Assam.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/india-s-state-elections-deliver-split-verdict-for-christian-community",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-06",
-      "lat": 12.1542,
-      "lng": 8.6978,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "Христиане must defend themselves amid rising гонение, Nigerian prelate says",
-      "description": "Following resurgence violence в Nigeria, judicial vicar порт Harcourt Diocese has called для христиане promote peace пока not ignoring need protect their lives.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/christians-must-defend-themselves-amid-rising-persecution-nigerian-prelate-says",
       "victims": 0
     }
   ]
