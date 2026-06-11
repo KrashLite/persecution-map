@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-10T20:05:22.654Z",
+    "lastUpdated": "2026-06-11T02:13:21.110Z",
     "totalEvents": 500
   },
   "events": [
@@ -82,6 +82,32 @@
       "description": "As смерть toll из июнь 8 Mindanao earthquake climbs, Catholic епископы across Philippines are urging faithful give relief и rehabilitation усилия.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/church-in-the-philippines-rallies-aid-after-mindanao-earthquake",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-10",
+      "lat": 12.0528,
+      "lng": 13.1062,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "kidnapping",
+      "title": "U.N. Experts Warn Rights Violations Against христианки, Girls в Nigeria",
+      "description": "Офис United Nations High Commissioner для Human Rights has raised alarm credible reports могила human rights violations affecting женщины и girls в Nigeria, including убийства, похищения, sexual violence, вынужден обращение, forc",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/10/un-experts-warn-of-rights-violations-against-christian-women-girls-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-10",
+      "lat": 33.7271,
+      "lng": 72.9791,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "other",
+      "title": "Pakistani церкви shift месса times, offer water amid record heat wave",
+      "description": "As \"feels-like\" temperatures near 48 degrees Celsius (118 F), parishes в Karachi и Lahore are shifting молитва times, distributing water, и improving ventilation protect прихожане.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-churches-shift-mass-times-offer-water-amid-record-heat-wave",
       "victims": 0
     },
     {
@@ -238,6 +264,19 @@
       "description": "Outcome newly-ordained Father Martin Umeatuegbu’s case could set precedent для other foreign-born священники из countries designated U.S. as “high risk.”",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/federal-court-in-new-mexico-lets-nigerian-priest-remain-in-u-s-during-visa-case",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-09",
+      "lat": 6.3178,
+      "lng": 3.411,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "UN experts warn ‘deeply troubling’ rights violations against христианки и girls в Nigeria",
+      "description": "“жертвы и выжившие must not be left without protection, justice, reparations, including rehabilitation и meaningful support,” experts wrote.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/un-experts-warn-of-deeply-troubling-rights-violations-against-christian-women-and-girls-in",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Following resurgence violence в Nigeria, judicial vicar порт Harcourt Diocese has called для христиане promote peace пока not ignoring need protect their lives.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/christians-must-defend-themselves-amid-rising-persecution-nigerian-prelate-says",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-06",
-      "lat": 23.1505,
-      "lng": 113.7587,
-      "country": "China",
-      "city": "Guangdong",
-      "type": "other",
-      "title": "Data на generous participation Chinese Catholic Communities в 2026 national Collection",
-      "description": "Collection is promoted Jinde Charities, organization that has been coordinating charitable works supported Catholic communities в mainland China для 30 годы, и which в 2026 celebrated this initiative для девятый consecutive год.",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/05/05/data-on-the-generous-participation-of-chinese-catholic-communities-in-the-2026-national-collection/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-06",
-      "lat": 10.3328,
-      "lng": 7.6562,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Христиане must defend themselves amid rising гонение, Nigerian prelate says",
-      "description": "Following resurgence violence в Nigeria, judicial vicar порт Harcourt Diocese has called для христиане promote peace пока not ignoring need protect their lives.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/christians-must-defend-themselves-amid-rising-persecution-nigerian-prelate-says",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-06",
-      "lat": 20.7478,
-      "lng": 84.8578,
-      "country": "India",
-      "city": "Odisha",
-      "type": "arrest",
-      "title": "Four Catholics арестован после индус activists disrupt месса в India",
-      "description": "Rajasthan полиция have арестован four Catholic мужчины, обвинён them под various sections India’s penal code после around dozen members right-wing индус толпа disrupted месса celebrations, accusing lay faithful религиозный обращение.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-asia/2026/05/four-catholics-arrested-after-hindu-activists-disrupt-mass-in-india/",
       "victims": 0
     }
   ]
