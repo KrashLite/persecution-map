@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-12T14:28:35.032Z",
+    "lastUpdated": "2026-06-12T19:49:20.399Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,19 @@
       "description": "Епископы, кардиналы и архиепископы were accused not standing с ordinary христиане страдания violence в their communities.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/systemic-anti-christian-violence-laid-bare-at-public-hearing-in-india",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-12",
+      "lat": 14.7988,
+      "lng": 121.0568,
+      "country": "Philippines",
+      "city": "Manila",
+      "type": "other",
+      "title": "Our Lady Guadalupe image begins 6-месяц паломничество в Philippines",
+      "description": "Церковь leaders launched six-месяц journey для Marian icon, which will travel more than 50 церкви до its permanent installation Manila Cathedral в декабрь.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/our-lady-of-guadalupe-image-begins-6-month-pilgrimage-in-the-philippines",
       "victims": 0
     },
     {
@@ -6491,19 +6504,6 @@
       "description": "Религиозный tensions в Nigeria highlight global impact экстремист groups и geopolitical instability. post Joe Lonsdale: религиозный гонение в Nigeria is critical global issue, Iran’s destabilizing influence на Lebanon, и US is p",
       "source": "newsapi:Crypto Briefing",
       "url": "https://cryptobriefing.com/joe-lonsdale-religious-persecution-in-nigeria-is-a-critical-global-issue-irans-destabilizing-influence-on-lebanon-and-the-us-is-poised-for-a-nuclear-energy-resurgence-shawn-ryan-show/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-07",
-      "lat": 9.0799,
-      "lng": 9.4587,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "US lawmaker urges Trump take ‘forceful action’ плато атака",
-      "description": "US lawmaker is urging Trump administration take forceful action protect христиане following deadly плато атака на mourners в Nigeria. Read More: https://punchng.com/us-lawmaker-urges-trump--take-forceful-action--плато-atta",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-lawmaker-urges-trump-to-take-forceful-action-over-plateau-attack/",
       "victims": 0
     }
   ]
