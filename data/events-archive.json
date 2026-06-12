@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-12T09:52:38.337Z",
+    "lastUpdated": "2026-06-12T14:28:35.032Z",
     "totalEvents": 500
   },
   "events": [
@@ -12,6 +12,19 @@
       "lng": 72.6732,
       "country": "India",
       "city": "Mumbai",
+      "type": "other",
+      "title": "Systemic anti-христианин violence laid bare public hearing в India",
+      "description": "Епископы, кардиналы и архиепископы were accused not standing с ordinary христиане страдания violence в their communities.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/systemic-anti-christian-violence-laid-bare-at-public-hearing-in-india",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-12",
+      "lat": 20.8789,
+      "lng": 85.0731,
+      "country": "India",
+      "city": "Odisha",
       "type": "other",
       "title": "Systemic anti-христианин violence laid bare public hearing в India",
       "description": "Епископы, кардиналы и архиепископы were accused not standing с ordinary христиане страдания violence в their communities.",
@@ -57,6 +70,19 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/06/11/21-days-of-prayer-underway-for-christians-imprisoned-in-north-korea/",
       "victims": 0
+    },
+    {
+      "date": "2026-06-11",
+      "lat": 8.9161,
+      "lng": 7.2707,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Four приговорён смерть terror атака на Nigerian церковь",
+      "description": "40 люди погиб в атака во время Pentecost воскресенье service в 2022.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/four-sentenced-to-death-over-terror-attack-on-nigerian-church",
+      "victims": 40
     },
     {
       "date": "2026-06-10",
@@ -264,6 +290,19 @@
       "description": "Iran strikes U.S. targets в залив после fresh American атаки downed вертолёт.",
       "source": "newsapi:NBC News",
       "url": "https://www.nbcnews.com/news/us-news/iran-vows-strikes-platner-maine-senate-morning-rundown-rcna349375",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-10",
+      "lat": 12.0328,
+      "lng": 8.8251,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "kidnapping",
+      "title": "U.N. Experts Warn Rights Violations Against христианки, Girls в Nigeria",
+      "description": "Офис United Nations High Commissioner для Human Rights has raised alarm credible reports могила human rights violations affecting женщины и girls в Nigeria, including убийства, похищения, sexual violence, вынужден обращение, forc",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/10/un-experts-warn-of-rights-violations-against-christian-women-girls-in-nigeria/",
       "victims": 0
     },
     {
@@ -6460,45 +6499,6 @@
       "lng": 9.4587,
       "country": "Nigeria",
       "city": "Plateau",
-      "type": "murder",
-      "title": "US lawmaker urges Trump take ‘forceful action’ плато атака",
-      "description": "US lawmaker is urging Trump administration take forceful action protect христиане following deadly плато атака на mourners в Nigeria. Read More: https://punchng.com/us-lawmaker-urges-trump--take-forceful-action--плато-atta",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-lawmaker-urges-trump-to-take-forceful-action-over-plateau-attack/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-07",
-      "lat": 11.9538,
-      "lng": 8.6222,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "US lawmaker urges Trump take ‘forceful action’ плато атака",
-      "description": "US lawmaker is urging Trump administration take forceful action protect христиане following deadly плато атака на mourners в Nigeria. Read More: https://punchng.com/us-lawmaker-urges-trump--take-forceful-action--плато-atta",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-lawmaker-urges-trump-to-take-forceful-action-over-plateau-attack/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-07",
-      "lat": 6.648,
-      "lng": 3.5644,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "discrimination",
-      "title": "Joe Lonsdale: религиозный гонение в Nigeria is critical global issue, Iran’s destabilizing influence на Lebanon, и US is poised для nuclear energy resurgence | Shawn Ryan Show",
-      "description": "Религиозный tensions в Nigeria highlight global impact экстремист groups и geopolitical instability. post Joe Lonsdale: религиозный гонение в Nigeria is critical global issue, Iran’s destabilizing influence на Lebanon, и US is p",
-      "source": "newsapi:Crypto Briefing",
-      "url": "https://cryptobriefing.com/joe-lonsdale-religious-persecution-in-nigeria-is-a-critical-global-issue-irans-destabilizing-influence-on-lebanon-and-the-us-is-poised-for-a-nuclear-energy-resurgence-shawn-ryan-show/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-07",
-      "lat": 6.7739,
-      "lng": 3.5508,
-      "country": "Nigeria",
-      "city": "Lagos",
       "type": "murder",
       "title": "US lawmaker urges Trump take ‘forceful action’ плато атака",
       "description": "US lawmaker is urging Trump administration take forceful action protect христиане following deadly плато атака на mourners в Nigeria. Read More: https://punchng.com/us-lawmaker-urges-trump--take-forceful-action--плато-atta",
