@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-11T20:06:51.102Z",
+    "lastUpdated": "2026-06-12T02:09:02.417Z",
     "totalEvents": 500
   },
   "events": [
@@ -31,6 +31,19 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/four-sentenced-to-death-over-terror-attack-on-nigerian-church",
       "victims": 40
+    },
+    {
+      "date": "2026-06-11",
+      "lat": 39.098,
+      "lng": 125.6531,
+      "country": "North Korea",
+      "city": "Pyongyang",
+      "type": "arrest",
+      "title": "21 дни молитва Underway для христиане заключён в North Korea",
+      "description": "Из июнь 5-25, 48 церкви и христианские организации across South Korea are joining together pray для gospel reunify North Korea и South Korea, и для заключён миссионеры в North Korea be released. Peace Korea has held 21-день",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/11/21-days-of-prayer-underway-for-christians-imprisoned-in-north-korea/",
+      "victims": 0
     },
     {
       "date": "2026-06-10",
@@ -212,6 +225,19 @@
       "description": "Iran strikes U.S. targets в залив после fresh American атаки downed вертолёт.",
       "source": "newsapi:NBC News",
       "url": "https://www.nbcnews.com/news/us-news/iran-vows-strikes-platner-maine-senate-morning-rundown-rcna349375",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-10",
+      "lat": 33.8773,
+      "lng": 71.5313,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "other",
+      "title": "Pakistani церкви shift месса times, offer water amid record heat wave",
+      "description": "As \"feels-like\" temperatures near 48 degrees Celsius (118 F), parishes в Karachi и Lahore are shifting молитва times, distributing water, и improving ventilation protect прихожане.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-churches-shift-mass-times-offer-water-amid-record-heat-wave",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Религиозный tensions в Nigeria highlight global impact экстремист groups и geopolitical instability. post Joe Lonsdale: религиозный гонение в Nigeria is critical global issue, Iran’s destabilizing influence на Lebanon, и US is p",
       "source": "newsapi:Crypto Briefing",
       "url": "https://cryptobriefing.com/joe-lonsdale-religious-persecution-in-nigeria-is-a-critical-global-issue-irans-destabilizing-influence-on-lebanon-and-the-us-is-poised-for-a-nuclear-energy-resurgence-shawn-ryan-show/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-07",
-      "lat": 9.2054,
-      "lng": 9.3354,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "discrimination",
-      "title": "Joe Lonsdale: религиозный гонение в Nigeria is critical global issue, Iran’s destabilizing influence на Lebanon, и US is poised для nuclear energy resurgence | Shawn Ryan Show",
-      "description": "Религиозный tensions в Nigeria highlight global impact экстремист groups и geopolitical instability. post Joe Lonsdale: религиозный гонение в Nigeria is critical global issue, Iran’s destabilizing influence на Lebanon, и US is p",
-      "source": "newsapi:Crypto Briefing",
-      "url": "https://cryptobriefing.com/joe-lonsdale-religious-persecution-in-nigeria-is-a-critical-global-issue-irans-destabilizing-influence-on-lebanon-and-the-us-is-poised-for-a-nuclear-energy-resurgence-shawn-ryan-show/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-06",
-      "lat": 21.1296,
-      "lng": 82.0844,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "arrest",
-      "title": "Four Catholics арестован после индус activists disrupt месса в India",
-      "description": "Rajasthan полиция have арестован four Catholic мужчины, обвинён them под various sections India’s penal code после around dozen members right-wing индус толпа disrupted месса celebrations, accusing lay faithful религиозный обращение.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-asia/2026/05/four-catholics-arrested-after-hindu-activists-disrupt-mass-in-india/",
       "victims": 0
     }
   ]
