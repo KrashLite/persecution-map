@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-13T13:19:16.030Z",
+    "lastUpdated": "2026-06-13T19:04:34.740Z",
     "totalEvents": 500
   },
   "events": [
@@ -12,6 +12,19 @@
       "lng": 37.0091,
       "country": "Kenya",
       "city": "Nairobi",
+      "type": "arrest",
+      "title": "Полиция арест prime suspect в убийство Kenyan Catholic священник",
+      "description": "Kenyan полиция have арестован suspect в май 2025 убийство Father Allois Cheruiyot Bett, who was застрелен пока returning из Eucharistic celebration в Kenya’s troubled Kerio долина регион.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/police-arrest-prime-suspect-in-killing-of-kenyan-catholic-priest",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-13",
+      "lat": -4.0406,
+      "lng": 39.4869,
+      "country": "Kenya",
+      "city": "Mombasa",
       "type": "arrest",
       "title": "Полиция арест prime suspect в убийство Kenyan Catholic священник",
       "description": "Kenyan полиция have арестован suspect в май 2025 убийство Father Allois Cheruiyot Bett, who was застрелен пока returning из Eucharistic celebration в Kenya’s troubled Kerio долина регион.",
@@ -173,6 +186,19 @@
       "description": "Епископы, кардиналы и архиепископы were accused not standing с ordinary христиане страдания violence в their communities.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/systemic-anti-christian-violence-laid-bare-at-public-hearing-in-india",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-12",
+      "lat": 8.9089,
+      "lng": 7.3173,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Nigeria Advances штат полиция Reform Amid Longstanding Security Failures",
+      "description": "Nigeria’s парламент has taken major step toward one country’s most consequential security reforms в десятилетия, approving legislation that would allow each country’s 36 штаты establish и operate their own полиция силы alongside",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/12/nigeria-advances-state-police-reform-amid-longstanding-security-failures/",
       "victims": 0
     },
     {
@@ -472,6 +498,19 @@
       "description": "Офис United Nations High Commissioner для Human Rights has raised alarm credible reports могила human rights violations affecting женщины и girls в Nigeria, including убийства, похищения, sexual violence, вынужден обращение, forc",
       "source": "persecution",
       "url": "https://persecution.org/2026/06/10/un-experts-warn-of-rights-violations-against-christian-women-girls-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-10",
+      "lat": 29.5992,
+      "lng": 52.4332,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "attack",
+      "title": "Iran’s военные vows more ‘devastating’ strikes и Maine voters set up сенат showdown: утро Rundown",
+      "description": "Iran strikes U.S. targets в залив после fresh American атаки downed вертолёт.",
+      "source": "newsapi:NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/iran-vows-strikes-platner-maine-senate-morning-rundown-rcna349375",
       "victims": 0
     },
     {
@@ -6460,45 +6499,6 @@
       "lng": 7.6375,
       "country": "Nigeria",
       "city": "Kaduna",
-      "type": "other",
-      "title": "ICC Releases Report Exposing Nigeria’s $10 Million геноцид Cover-Up",
-      "description": "New report из International христианин Concern (ICC) highlights how Nigeria’s правительство is weaponizing misinformation hide десятилетия-long кампания violence against христиане. Written ICC Fellow Justin Joseph, “Nigeria’s $10 Million Geno",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/08/icc-releases-report-exposing-nigerias-10-million-genocide-cover-up/",
-      "victims": 190
-    },
-    {
-      "date": "2026-05-08",
-      "lat": 26.8235,
-      "lng": 80.7394,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "attack",
-      "title": "Христиане decry гонение в India's heartland",
-      "description": "С христиане в India increasingly targeted индус дружинники, жертвы say полиция often side с their attackers.",
-      "source": "newsapi:DW (English)",
-      "url": "https://www.dw.com/en/christians-decry-persecution-in-indias-heartland/a-77095929",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-08",
-      "lat": 20.9175,
-      "lng": 85.1642,
-      "country": "India",
-      "city": "Odisha",
-      "type": "attack",
-      "title": "Христиане decry гонение в India's heartland",
-      "description": "С христиане в India increasingly targeted индус дружинники, жертвы say полиция often side с their attackers.",
-      "source": "newsapi:DW (English)",
-      "url": "https://www.dw.com/en/christians-decry-persecution-in-indias-heartland/a-77095929",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-08",
-      "lat": 9.1008,
-      "lng": 9.3384,
-      "country": "Nigeria",
-      "city": "Plateau",
       "type": "other",
       "title": "ICC Releases Report Exposing Nigeria’s $10 Million геноцид Cover-Up",
       "description": "New report из International христианин Concern (ICC) highlights how Nigeria’s правительство is weaponizing misinformation hide десятилетия-long кампания violence against христиане. Written ICC Fellow Justin Joseph, “Nigeria’s $10 Million Geno",
