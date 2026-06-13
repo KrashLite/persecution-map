@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-13T02:02:44.972Z",
+    "lastUpdated": "2026-06-13T08:43:53.001Z",
     "totalEvents": 500
   },
   "events": [
@@ -95,6 +95,45 @@
       "description": "Nigeria’s парламент has taken major step toward one country’s most consequential security reforms в десятилетия, approving legislation that would allow each country’s 36 штаты establish и operate their own полиция силы alongside",
       "source": "persecution",
       "url": "https://persecution.org/2026/06/12/nigeria-advances-state-police-reform-amid-longstanding-security-failures/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-12",
+      "lat": 33.6672,
+      "lng": 73.2071,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "kidnapping",
+      "title": "Activists, Legal Experts Claim Forged Documents Used в Maria Shahbaz Case",
+      "description": "На июнь 6, христианин rights activists и legal experts revealed во время press conference в Lahore, Pakistan, that documents used validate marriage 13-год-old Maria Shahbaz were extensively forged. These documents were presented t",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/12/activists-legal-experts-claim-forged-documents-used-in-maria-shahbaz-case/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-12",
+      "lat": 11.8405,
+      "lng": 8.5554,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Nigeria Advances штат полиция Reform Amid Longstanding Security Failures",
+      "description": "Nigeria’s парламент has taken major step toward one country’s most consequential security reforms в десятилетия, approving legislation that would allow each country’s 36 штаты establish и operate their own полиция силы alongside",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/12/nigeria-advances-state-police-reform-amid-longstanding-security-failures/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-12",
+      "lat": 21.3587,
+      "lng": 81.9084,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Systemic anti-христианин violence laid bare public hearing в India",
+      "description": "Епископы, кардиналы и архиепископы were accused not standing с ordinary христиане страдания violence в their communities.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/systemic-anti-christian-violence-laid-bare-at-public-hearing-in-india",
       "victims": 0
     },
     {
@@ -6466,45 +6505,6 @@
       "source": "newsapi:DW (English)",
       "url": "https://www.dw.com/en/christians-decry-persecution-in-indias-heartland/a-77095929",
       "victims": 0
-    },
-    {
-      "date": "2026-05-07",
-      "lat": 12.0393,
-      "lng": 8.6693,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "We’re not planning wipe out христиане — султан",
-      "description": "ABUJA— султан Sokoto, Sa’ad Abubakar III, вчера pushed back against fears религиозный agenda в Nigeria, declaring that мусульмане were not planning wipe out христиане, as религиозный и правительство leaders called для reset в how",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/05/were-not-planning-to-wipe-out-christians-sultan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-07",
-      "lat": 11.6542,
-      "lng": 13.3124,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "US lawmaker urges Trump take ‘forceful action’ плато атака",
-      "description": "US lawmaker urges Trump administration take forceful action protect христиане в Nigeria following deadly плато атака на mourners. Read More: https://punchng.com/us-lawmaker-urges-trump--take-forceful-action--плато-атака/",
-      "source": "punchng",
-      "url": "https://punchng.com/us-lawmaker-urges-trump-to-take-forceful-action-over-plateau-attack/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-07",
-      "lat": -4.1996,
-      "lng": 15.3036,
-      "country": "Democratic Republic of the Congo",
-      "city": "Kinshasa",
-      "type": "murder",
-      "title": "ADF атаки Several деревни в Eastern DRC",
-      "description": "После brief calm, христиане who had fled и resettled в Eastern DRC faced renewed ADF нападения. на май 5, ADF атаки occurred Katerrain и Mangambo, деревни situated along borders North Kivu и Ituri провинции, resulting в leas",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/07/adf-attacks-several-villages-in-eastern-drc/",
-      "victims": 24
     }
   ]
 }
