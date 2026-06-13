@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-12T19:49:20.399Z",
+    "lastUpdated": "2026-06-13T02:02:44.972Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,58 @@
       "description": "Церковь leaders launched six-месяц journey для Marian icon, which will travel more than 50 церкви до its permanent installation Manila Cathedral в декабрь.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/our-lady-of-guadalupe-image-begins-6-month-pilgrimage-in-the-philippines",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-12",
+      "lat": 27.9124,
+      "lng": 85.2983,
+      "country": "Nepal",
+      "city": "Kathmandu",
+      "type": "discrimination",
+      "title": "New ICC Report Explores Nepal’s Growing индус Nationalism, христианин гонение",
+      "description": "Following Nepal’s nearly 200-год запрет на христианство, вера has experienced steady growth since 1951 as number церкви, христианские школы, и больницы has постепенно expanded. Despite this growth, христиане only make up о 1.76%",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/12/new-icc-report-explores-nepals-growing-hindu-nationalism-christian-persecution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-12",
+      "lat": 34.1565,
+      "lng": 71.5253,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "kidnapping",
+      "title": "Activists, Legal Experts Claim Forged Documents Used в Maria Shahbaz Case",
+      "description": "На июнь 6, христианин rights activists и legal experts revealed во время press conference в Lahore, Pakistan, that documents used validate marriage 13-год-old Maria Shahbaz were extensively forged. These documents were presented t",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/12/activists-legal-experts-claim-forged-documents-used-in-maria-shahbaz-case/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-12",
+      "lat": 9.0807,
+      "lng": 7.3829,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "US lawmaker hails Nigeria’s штат полиция Bill passage",
+      "description": "He said, \"I am thankful see that Nigeria’s House представители passed this important policy that I’ve been calling для since @POTUS первый asked me investigate геноцид against христиане в Nigeria. post US lawmaker hails Nigeria’s",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/06/us-lawmaker-hails-nigerias-state-police-bill-passage/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-12",
+      "lat": 9.4366,
+      "lng": 9.7636,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Nigeria Advances штат полиция Reform Amid Longstanding Security Failures",
+      "description": "Nigeria’s парламент has taken major step toward one country’s most consequential security reforms в десятилетия, approving legislation that would allow each country’s 36 штаты establish и operate their own полиция силы alongside",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/12/nigeria-advances-state-police-reform-amid-longstanding-security-failures/",
       "victims": 0
     },
     {
@@ -90,6 +142,19 @@
       "lng": 7.2707,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "murder",
+      "title": "Four приговорён смерть terror атака на Nigerian церковь",
+      "description": "40 люди погиб в атака во время Pentecost воскресенье service в 2022.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/four-sentenced-to-death-over-terror-attack-on-nigerian-church",
+      "victims": 40
+    },
+    {
+      "date": "2026-06-11",
+      "lat": 10.2683,
+      "lng": 7.2101,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "murder",
       "title": "Four приговорён смерть terror атака на Nigerian церковь",
       "description": "40 люди погиб в атака во время Pentecost воскресенье service в 2022.",
@@ -6440,71 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/05/07/adf-attacks-several-villages-in-eastern-drc/",
       "victims": 24
-    },
-    {
-      "date": "2026-05-07",
-      "lat": 10.3393,
-      "lng": 7.243,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "US lawmaker urges Trump take ‘forceful action’ плато атака",
-      "description": "US lawmaker is urging Trump administration take forceful action protect христиане following deadly плато атака на mourners в Nigeria. Read More: https://punchng.com/us-lawmaker-urges-trump--take-forceful-action--плато-atta",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-lawmaker-urges-trump-to-take-forceful-action-over-plateau-attack/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-07",
-      "lat": 12.002,
-      "lng": 13.3242,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "discrimination",
-      "title": "Joe Lonsdale: религиозный гонение в Nigeria is critical global issue, Iran’s destabilizing influence на Lebanon, и US is poised для nuclear energy resurgence | Shawn Ryan Show",
-      "description": "Религиозный tensions в Nigeria highlight global impact экстремист groups и geopolitical instability. post Joe Lonsdale: религиозный гонение в Nigeria is critical global issue, Iran’s destabilizing influence на Lebanon, и US is p",
-      "source": "newsapi:Crypto Briefing",
-      "url": "https://cryptobriefing.com/joe-lonsdale-religious-persecution-in-nigeria-is-a-critical-global-issue-irans-destabilizing-influence-on-lebanon-and-the-us-is-poised-for-a-nuclear-energy-resurgence-shawn-ryan-show/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-07",
-      "lat": 9.2721,
-      "lng": 7.4927,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "US lawmaker urges Trump take ‘forceful action’ плато атака",
-      "description": "US lawmaker is urging Trump administration take forceful action protect христиане following deadly плато атака на mourners в Nigeria. Read More: https://punchng.com/us-lawmaker-urges-trump--take-forceful-action--плато-atta",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-lawmaker-urges-trump-to-take-forceful-action-over-plateau-attack/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-07",
-      "lat": 4.3315,
-      "lng": 18.5456,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "discrimination",
-      "title": "Cigarette в mouth statue Virgin Mary: controversial act Israeli soldier в Lebanon",
-      "description": "Для many христиане в регион, cumulative effect these incidents is generating growing anxiety о their already precarious future в Middle East post cigarette в mouth statue Virgin Mary: controversial act",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/05/07/a-cigarette-in-the-mouth-of-a-statue-of-the-virgin-mary-the-controversial-act-of-an-israeli-soldier-in-lebanon/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-07",
-      "lat": 9.1445,
-      "lng": 7.5283,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "discrimination",
-      "title": "Joe Lonsdale: религиозный гонение в Nigeria is critical global issue, Iran’s destabilizing influence на Lebanon, и US is poised для nuclear energy resurgence | Shawn Ryan Show",
-      "description": "Религиозный tensions в Nigeria highlight global impact экстремист groups и geopolitical instability. post Joe Lonsdale: религиозный гонение в Nigeria is critical global issue, Iran’s destabilizing influence на Lebanon, и US is p",
-      "source": "newsapi:Crypto Briefing",
-      "url": "https://cryptobriefing.com/joe-lonsdale-religious-persecution-in-nigeria-is-a-critical-global-issue-irans-destabilizing-influence-on-lebanon-and-the-us-is-poised-for-a-nuclear-energy-resurgence-shawn-ryan-show/",
-      "victims": 0
     }
   ]
 }
