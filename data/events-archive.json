@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-14T02:12:25.241Z",
+    "lastUpdated": "2026-06-14T08:59:58.573Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "African церковь Primate, Julius Abbe, штаты self-defence is not solution Nigeria’s worsening insecurity, urging правительство action и молитвы. Read More: https://punchng.com/self-defence-not-answer--worsening-insecurity-african-церковь-prima",
       "source": "punchng",
       "url": "https://punchng.com/self-defence-not-answer-to-worsening-insecurity-african-church-primate-abbe/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-14",
+      "lat": 9.0212,
+      "lng": 9.4923,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "CAN declares Black воскресенье mourn insecurity жертвы",
+      "description": "CAN declares nationwide Black воскресенье mourn жертвы insecurity across Nigeria. христианин body calls для urgent action из правительство add Read More: https://punchng.com/can-declares-black-воскресенье--mourn-insecurity-жертвы/",
+      "source": "punchng",
+      "url": "https://punchng.com/can-declares-black-sunday-to-mourn-insecurity-victims/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     },
     {
@@ -298,6 +311,19 @@
       "lng": 7.2101,
       "country": "Nigeria",
       "city": "Kaduna",
+      "type": "murder",
+      "title": "Four приговорён смерть terror атака на Nigerian церковь",
+      "description": "40 люди погиб в атака во время Pentecost воскресенье service в 2022.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/four-sentenced-to-death-over-terror-attack-on-nigerian-church",
+      "victims": 40
+    },
+    {
+      "date": "2026-06-11",
+      "lat": 11.7949,
+      "lng": 8.5658,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "murder",
       "title": "Four приговорён смерть terror атака на Nigerian церковь",
       "description": "40 люди погиб в атака во время Pentecost воскресенье service в 2022.",
@@ -6479,32 +6505,6 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/christians-petition-for-protection-of-pastors-in-colombia-following-murders",
       "victims": 0
-    },
-    {
-      "date": "2026-05-08",
-      "lat": 4.853,
-      "lng": -74.234,
-      "country": "Colombia",
-      "city": "Bogota",
-      "type": "attack",
-      "title": "Amid guerrilla атаки и ahead elections, церковь calls для peace и protection vulnerable в Colombia",
-      "description": "Церковь в South American nation has been accompanying жертвы и working make their voices heard власти и peace переговорщики.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-americas/2026/05/amid-guerrilla-attacks-and-ahead-of-elections-church-calls-for-peace-and-protection-of-the-vulnerable-in-colombia/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-08",
-      "lat": 8.9123,
-      "lng": 7.3541,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "ICC Releases Report Exposing Nigeria’s $10 Million геноцид Cover-Up",
-      "description": "New report из International христианин Concern (ICC) highlights how Nigeria’s правительство is weaponizing misinformation hide десятилетия-long кампания violence against христиане. Written ICC Fellow Justin Joseph, “Nigeria’s $10 Million Geno",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/08/icc-releases-report-exposing-nigerias-10-million-genocide-cover-up/",
-      "victims": 190
     }
   ]
 }
