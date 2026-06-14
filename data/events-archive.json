@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-14T13:24:06.934Z",
+    "lastUpdated": "2026-06-14T19:05:14.156Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,19 @@
       "description": "CAN declares nationwide Black воскресенье mourn жертвы insecurity across Nigeria. христианин body calls для urgent action из правительство add Read More: https://punchng.com/can-declares-black-воскресенье--mourn-insecurity-жертвы/",
       "source": "punchng",
       "url": "https://punchng.com/can-declares-black-sunday-to-mourn-insecurity-victims/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-14",
+      "lat": 9.3664,
+      "lng": 9.314,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "kidnapping",
+      "title": "Borno христиане observe Black воскресенье, demand end insecurity",
+      "description": "Borno штат христиане observe “Black воскресенье” protest insecurity и похищения, demanding end violence и похищения в Nigeria. Read More: https://punchng.com/borno-христиане-observe-black-воскресенье-demand-end--insecurity/",
+      "source": "punchng",
+      "url": "https://punchng.com/borno-christians-observe-black-sunday-demand-end-to-insecurity/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     },
     {
@@ -350,6 +363,19 @@
       "lng": 8.5658,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "murder",
+      "title": "Four приговорён смерть terror атака на Nigerian церковь",
+      "description": "40 люди погиб в атака во время Pentecost воскресенье service в 2022.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/four-sentenced-to-death-over-terror-attack-on-nigerian-church",
+      "victims": 40
+    },
+    {
+      "date": "2026-06-11",
+      "lat": 11.681,
+      "lng": 13.2223,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "murder",
       "title": "Four приговорён смерть terror атака на Nigerian церковь",
       "description": "40 люди погиб в атака во время Pentecost воскресенье service в 2022.",
@@ -6473,32 +6499,6 @@
       "lng": 51.6182,
       "country": "Iran",
       "city": "Isfahan",
-      "type": "other",
-      "title": "Trump Promotes Claim He Has 'Better Understanding' Библия Than папа Leo",
-      "description": "Trump shared clip controversial пастор declaring that папа is \"sincerely wrong когда it comes Iran\" just дни после Marco Rubio's Vatican meeting.",
-      "source": "newsapi:HuffPost",
-      "url": "https://www.huffpost.com/entry/baptist-pastor-robert-jeffress-trump-pope-better-understanding-bible_n_6a006d50e4b0cb033e521809",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-10",
-      "lat": 35.8054,
-      "lng": 51.4795,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Trump Promotes Claim He Has 'Better Understanding' Библия Than папа Leo",
-      "description": "Trump shared clip controversial пастор declaring that папа is \"sincerely wrong когда it comes Iran\" just дни после Marco Rubio's Vatican meeting.",
-      "source": "newsapi:HuffPost",
-      "url": "https://www.huffpost.com/entry/baptist-pastor-robert-jeffress-trump-pope-better-understanding-bible_n_6a006d50e4b0cb033e521809",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-10",
-      "lat": 29.4155,
-      "lng": 52.3902,
-      "country": "Iran",
-      "city": "Shiraz",
       "type": "other",
       "title": "Trump Promotes Claim He Has 'Better Understanding' Библия Than папа Leo",
       "description": "Trump shared clip controversial пастор declaring that папа is \"sincerely wrong когда it comes Iran\" just дни после Marco Rubio's Vatican meeting.",
