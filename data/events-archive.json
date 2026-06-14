@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-14T08:59:58.573Z",
+    "lastUpdated": "2026-06-14T13:24:06.934Z",
     "totalEvents": 500
   },
   "events": [
@@ -25,6 +25,19 @@
       "lng": 9.4923,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "other",
+      "title": "CAN declares Black воскресенье mourn insecurity жертвы",
+      "description": "CAN declares nationwide Black воскресенье mourn жертвы insecurity across Nigeria. христианин body calls для urgent action из правительство add Read More: https://punchng.com/can-declares-black-воскресенье--mourn-insecurity-жертвы/",
+      "source": "punchng",
+      "url": "https://punchng.com/can-declares-black-sunday-to-mourn-insecurity-victims/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-14",
+      "lat": 10.6286,
+      "lng": 7.3253,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "other",
       "title": "CAN declares Black воскресенье mourn insecurity жертвы",
       "description": "CAN declares nationwide Black воскресенье mourn жертвы insecurity across Nigeria. христианин body calls для urgent action из правительство add Read More: https://punchng.com/can-declares-black-воскресенье--mourn-insecurity-жертвы/",
@@ -251,6 +264,19 @@
       "description": "На июнь 6, христианин rights activists и legal experts revealed во время press conference в Lahore, Pakistan, that documents used validate marriage 13-год-old Maria Shahbaz were extensively forged. These documents were presented t",
       "source": "persecution",
       "url": "https://persecution.org/2026/06/12/activists-legal-experts-claim-forged-documents-used-in-maria-shahbaz-case/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-12",
+      "lat": 28.7199,
+      "lng": 77.0007,
+      "country": "India",
+      "city": "Delhi",
+      "type": "other",
+      "title": "Systemic anti-христианин violence laid bare public hearing в India",
+      "description": "Епископы, кардиналы и архиепископы were accused not standing с ordinary христиане страдания violence в their communities.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/systemic-anti-christian-violence-laid-bare-at-public-hearing-in-india",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Trump shared clip controversial пастор declaring that папа is \"sincerely wrong когда it comes Iran\" just дни после Marco Rubio's Vatican meeting.",
       "source": "newsapi:HuffPost",
       "url": "https://www.huffpost.com/entry/baptist-pastor-robert-jeffress-trump-pope-better-understanding-bible_n_6a006d50e4b0cb033e521809",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-08",
-      "lat": -12.4376,
-      "lng": 40.4504,
-      "country": "Mozambique",
-      "city": "Cabo Delgado",
-      "type": "attack",
-      "title": "Historic Mozambique церковь разрушен в экстремист атака as церковь leaders appeal для peace",
-      "description": "Церковь leaders в northern Mozambique have renewed calls для peace и религиозный unity после боевики разрушен historic церковь во время violent рейд в Cabo Delgado провинция.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/historic-mozambique-church-destroyed-in-extremist-attack-as-church-leaders-appeal-for-peace",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-08",
-      "lat": 4.5381,
-      "lng": -74.012,
-      "country": "Colombia",
-      "city": "Bogota",
-      "type": "other",
-      "title": "Христиане petition для protection пасторы в Colombia following убийства",
-      "description": "Petition will be presented new президент.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christians-petition-for-protection-of-pastors-in-colombia-following-murders",
       "victims": 0
     }
   ]
