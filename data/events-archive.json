@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-13T19:04:34.740Z",
+    "lastUpdated": "2026-06-14T02:12:25.241Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-06-14",
+      "lat": 10.4532,
+      "lng": 7.576,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Self-defence not answer worsening insecurity — African церковь Primate, Abbe",
+      "description": "African церковь Primate, Julius Abbe, штаты self-defence is not solution Nigeria’s worsening insecurity, urging правительство action и молитвы. Read More: https://punchng.com/self-defence-not-answer--worsening-insecurity-african-церковь-prima",
+      "source": "punchng",
+      "url": "https://punchng.com/self-defence-not-answer-to-worsening-insecurity-african-church-primate-abbe/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-06-13",
       "lat": -1.1625,
@@ -30,6 +43,19 @@
       "description": "Kenyan полиция have арестован suspect в май 2025 убийство Father Allois Cheruiyot Bett, who was застрелен пока returning из Eucharistic celebration в Kenya’s troubled Kerio долина регион.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/police-arrest-prime-suspect-in-killing-of-kenyan-catholic-priest",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-13",
+      "lat": 10.4483,
+      "lng": 7.2852,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Real Warri Pikin wraps up successful US tour featuring Kofi Da Guru, старший пастор",
+      "description": "Nigerian comedian и actress Real Warri Pikin has successfully concluded American leg her \"в My Element\" Tour, drawing large audiences в Dallas и Houston, Texas, и reinforcing her growing international profile. post Real Warri Pikin",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/06/real-warri-pikin-wraps-up-successful-us-tour-featuring-kofi-da-guru-senior-pastor/",
       "victims": 0
     },
     {
@@ -199,6 +225,19 @@
       "description": "Nigeria’s парламент has taken major step toward one country’s most consequential security reforms в десятилетия, approving legislation that would allow each country’s 36 штаты establish и operate their own полиция силы alongside",
       "source": "persecution",
       "url": "https://persecution.org/2026/06/12/nigeria-advances-state-police-reform-amid-longstanding-security-failures/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-12",
+      "lat": 31.5586,
+      "lng": 74.3989,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "kidnapping",
+      "title": "Activists, Legal Experts Claim Forged Documents Used в Maria Shahbaz Case",
+      "description": "На июнь 6, христианин rights activists и legal experts revealed во время press conference в Lahore, Pakistan, that documents used validate marriage 13-год-old Maria Shahbaz were extensively forged. These documents were presented t",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/12/activists-legal-experts-claim-forged-documents-used-in-maria-shahbaz-case/",
       "victims": 0
     },
     {
@@ -6460,45 +6499,6 @@
       "lng": 7.3541,
       "country": "Nigeria",
       "city": "Abuja",
-      "type": "other",
-      "title": "ICC Releases Report Exposing Nigeria’s $10 Million геноцид Cover-Up",
-      "description": "New report из International христианин Concern (ICC) highlights how Nigeria’s правительство is weaponizing misinformation hide десятилетия-long кампания violence against христиане. Written ICC Fellow Justin Joseph, “Nigeria’s $10 Million Geno",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/08/icc-releases-report-exposing-nigerias-10-million-genocide-cover-up/",
-      "victims": 190
-    },
-    {
-      "date": "2026-05-08",
-      "lat": 6.6391,
-      "lng": 3.1748,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "ICC Releases Report Exposing Nigeria’s $10 Million геноцид Cover-Up",
-      "description": "New report из International христианин Concern (ICC) highlights how Nigeria’s правительство is weaponizing misinformation hide десятилетия-long кампания violence against христиане. Written ICC Fellow Justin Joseph, “Nigeria’s $10 Million Geno",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/08/icc-releases-report-exposing-nigerias-10-million-genocide-cover-up/",
-      "victims": 190
-    },
-    {
-      "date": "2026-05-08",
-      "lat": -26.0469,
-      "lng": 32.7276,
-      "country": "Mozambique",
-      "city": "Maputo",
-      "type": "attack",
-      "title": "Historic Mozambique церковь разрушен в экстремист атака as церковь leaders appeal для peace",
-      "description": "Церковь leaders в northern Mozambique have renewed calls для peace и религиозный unity после боевики разрушен historic церковь во время violent рейд в Cabo Delgado провинция.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/historic-mozambique-church-destroyed-in-extremist-attack-as-church-leaders-appeal-for-peace",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-08",
-      "lat": 10.4761,
-      "lng": 7.6375,
-      "country": "Nigeria",
-      "city": "Kaduna",
       "type": "other",
       "title": "ICC Releases Report Exposing Nigeria’s $10 Million геноцид Cover-Up",
       "description": "New report из International христианин Concern (ICC) highlights how Nigeria’s правительство is weaponizing misinformation hide десятилетия-long кампания violence against христиане. Written ICC Fellow Justin Joseph, “Nigeria’s $10 Million Geno",
