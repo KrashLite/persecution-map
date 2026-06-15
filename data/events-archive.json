@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-15T16:50:00.388Z",
+    "lastUpdated": "2026-06-15T20:43:18.856Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,45 @@
       "description": "Punjab власти have изъят Ewing Hall, век-old building tied Lahore's Forman христианин колледж, as христианские лидеры и rights groups warn it could be lost для good.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-government-seizes-historic-christian-college-building-in-lahore",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-15",
+      "lat": 9.0486,
+      "lng": 9.5467,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "kidnapping",
+      "title": "VIDEO: Cherubim и Seraphim members protest insecurity, demand release похищен Oyo students",
+      "description": "Members Cherubim и Seraphim церковь protest rising insecurity в Nigeria, demanding immediate release похищен Oyo students и end ba Read More: https://punchng.com/video-cherubim-и-seraphim-members-protest-insecurity-demand-",
+      "source": "punchng",
+      "url": "https://punchng.com/video-cherubim-and-seraphim-members-protest-insecurity-demand-release-of-abducted-oyo-students/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-15",
+      "lat": 24.9363,
+      "lng": 67.1046,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "other",
+      "title": "Pakistan правительство takes historic христианин колледж building в Lahore",
+      "description": "Punjab власти have изъят Ewing Hall, век-old building tied Lahore's Forman христианин колледж, as христианские лидеры и rights groups warn it could be lost для good.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-government-seizes-historic-christian-college-building-in-lahore",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-15",
+      "lat": 33.8437,
+      "lng": 71.6671,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "other",
+      "title": "Богохульство Inc.: Accusations для Profit в Pakistan",
+      "description": "Using богохульство accusations as weapon is nothing new в Pakistan. situation сейчас goes beyond that. Members growing organized богохульство business network are actively trying trap люди в committing “богохульство” на social media. Some Pak",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/15/blasphemy-inc-accusations-for-profit-in-pakistan/",
       "victims": 0
     },
     {
@@ -2282,6 +2321,19 @@
       "victims": 0
     },
     {
+      "date": "2026-06-02",
+      "lat": 26.762,
+      "lng": 81.0722,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "discrimination",
+      "title": "‘Sacrilege Law’ в Punjab, India Further Threatens христиане",
+      "description": "NEW DELHI (утро Star News) – Thanks misuse law against “outraging религиозный feelings,” христианин пастор в Punjab штат, India still cannot return home. His церковь is shut. He survives на daily physical labor, и some месяцы there is no",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/sacrilege-law-in-punjab-india-further-threatens-christians/",
+      "victims": 0
+    },
+    {
       "date": "2026-06-01",
       "lat": 4.1977,
       "lng": 18.3266,
@@ -3751,6 +3803,19 @@
       "victims": 0
     },
     {
+      "date": "2026-05-25",
+      "lat": 10.5601,
+      "lng": 7.275,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Three христиане убит молитва Vigil в Western Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – боевики на суббота ночь (май 23) убит three христиане и похищен 15 others в атака на церковь молитва vigil в western Nigeria’s Kwara штат, sources said. атакован oc",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/05/three-christians-killed-at-prayer-vigil-in-western-nigeria/",
+      "victims": 0
+    },
+    {
       "date": "2026-05-24",
       "lat": 39.7829,
       "lng": 116.1859,
@@ -4055,6 +4120,19 @@
       "lng": 66.8568,
       "country": "Pakistan",
       "city": "Karachi",
+      "type": "arrest",
+      "title": "Pakistan Fails Make аресты в Violence against христиане",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – полиция в Pakistan have failed comply с Supreme суд orders арест all suspects involved в август 2023 атаки на multiple церкви и христианин homes в Jaranwala,",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/05/pakistan-fails-to-make-arrests-in-violence-against-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-22",
+      "lat": 33.4952,
+      "lng": 73.086,
+      "country": "Pakistan",
+      "city": "Islamabad",
       "type": "arrest",
       "title": "Pakistan Fails Make аресты в Violence against христиане",
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – полиция в Pakistan have failed comply с Supreme суд orders арест all suspects involved в август 2023 атаки на multiple церкви и христианин homes в Jaranwala,",
@@ -6260,6 +6338,19 @@
       "victims": 0
     },
     {
+      "date": "2026-05-13",
+      "lat": 9.1566,
+      "lng": 9.4515,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "kidnapping",
+      "title": "Fulanis Face Rare сопротивление as атаки Mount в Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани атаки на христиане в Nigeria were partially thwarted с rare сопротивление выходные, и похищен священник was released, sources said. пока coordinated нападения в",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/05/fulanis-face-rare-resistance-as-attacks-mount-in-nigeria/",
+      "victims": 34
+    },
+    {
       "date": "2026-05-12",
       "lat": 11.9339,
       "lng": 12.9327,
@@ -6413,97 +6504,6 @@
       "description": "Папа Leo XIV pointed out that both science и церковь clearly teach that caring для planet is угрожали irresponsible exploitation both люди и natural world.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/vatican/pope-warns-main-threat-common-to-religion-and-science-is-denial-of-objective-truth",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-11",
-      "lat": 23.4189,
-      "lng": 113.8141,
-      "country": "China",
-      "city": "Guangdong",
-      "type": "arrest",
-      "title": "Trump vows discuss freedom Jimmy Lai, христианские лидеры задержан в China",
-      "description": "Президент likened call free Lai complexity releasing indicted former FBI Director James Comey as семьи Chinese prisoners rallied outside White House.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/trump-vows-to-discuss-freedom-of-jimmy-lai-christian-leaders-detained-in-china",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-11",
-      "lat": 10.5542,
-      "lng": 7.3763,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "128,750 христиане в Nigeria убит 17 годы: $10 million cover-up геноцид в Nigeria",
-      "description": "Tinubu’s administration has launched $10 million lobbying front silence human rights accountability в U.S. и whitewash геноцид Nigerian христиане. This isn’t just spin — it’s calculated усилие rewrite history пока innocent",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/05/11/128750-christians-in-nigeria-killed-over-17-years-the-10-million-cover-up-of-the-genocide-in-nigeria/",
-      "victims": 750
-    },
-    {
-      "date": "2026-05-11",
-      "lat": 24.9678,
-      "lng": 66.9315,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "murder",
-      "title": "Христианин Dies Doing вынужден Labor в Pakistan",
-      "description": "Around 5.m. на май 7, Shabbir Masih, 33-год-old христианин sanitation worker в Pakistan, погиб после inhaling toxic gases пока doing dangerous job his руководители вынужден him do. Masih погиб working inside 25-foot-deep mainline sewer operat",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/11/christian-man-dies-doing-forced-labor-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-11",
-      "lat": 21.2339,
-      "lng": 82.0751,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "other",
-      "title": "Люди’s трибунал Claims Odisha правительство Complicit в христианин гонение",
-      "description": "Люди’s трибунал, led prominent civil rights activists в India, submitted letter на прошлой неделе Odisha правительство accusing штат administration being complicit в гонение христиане. letter called out conduct t",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/11/peoples-tribunal-claims-odisha-government-complicit-in-christian-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-11",
-      "lat": 24.9541,
-      "lng": 46.438,
-      "country": "Saudi Arabia",
-      "city": "Riyadh",
-      "type": "attack",
-      "title": "Growing Up христианин в Churchless Kingdom Saudi Arabia",
-      "description": "Атаки на церкви are harsh reality в many countries. But Saudi Arabia is not one them. birthplace both ислам и Wahhabi radicalism, this country more than 35 million люди has more than handful who would be up для task. B",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/11/growing-up-christian-in-the-churchless-kingdom-of-saudi-arabia/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-11",
-      "lat": 32.6939,
-      "lng": 51.8538,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Donald Trump acknowledges limits Jacksonism, Thierry Meyssan",
-      "description": "Events are going badly. time когда президент Trump is launching his Kuturkampf against католическая церковь reaffirm Anglo-Saxon и not Aztec character his country, he is страдания heavy failure against Iran. He must note that his way",
-      "source": "newsapi:Red Voltaire",
-      "url": "https://www.voltairenet.org/article224467.html",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-11",
-      "lat": 34.0831,
-      "lng": 71.7376,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "murder",
-      "title": "Христианин Dies Doing вынужден Labor в Pakistan",
-      "description": "Around 5.m. на май 7, Shabbir Masih, 33-год-old христианин sanitation worker в Pakistan, погиб после inhaling toxic gases пока doing dangerous job his руководители вынужден him do. Masih погиб working inside 25-foot-deep mainline sewer operat",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/11/christian-man-dies-doing-forced-labor-in-pakistan/",
       "victims": 0
     }
   ]
