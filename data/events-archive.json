@@ -2,10 +2,49 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-16T02:31:45.807Z",
+    "lastUpdated": "2026-06-16T10:49:34.436Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-06-16",
+      "lat": 11.971,
+      "lng": 13.193,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "kidnapping",
+      "title": "‘Eight годы is too long’: христианин advocacy groups rally для похищен Nigerian schoolgirl's freedom",
+      "description": "Христианин Nigerian schoolgirl Leah Sharibu was похищен eight годы ago исламский экстремисты. Unlike most classmates she was похищен с, she has never been freed.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/eight-years-is-too-long-christian-advocacy-groups-rally-for-abducted-nigerian-schoolgirl-s-freedom",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-16",
+      "lat": 28.9538,
+      "lng": 76.9653,
+      "country": "India",
+      "city": "Delhi",
+      "type": "murder",
+      "title": "Пасторы among заложники found погибшие amid tensions between христианин groups в Manipur",
+      "description": "Пока number люди unaccounted для в northeastern Indian штат Manipur has fallen из 20 two, с four six bodies recovered identified на этой неделе, retaliatory атаки continue following cycle похищения between Kuki-Zo",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/pastors-among-hostages-found-dead-amid-tensions-between-christian-groups-in-manipur",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-16",
+      "lat": 35.4784,
+      "lng": 51.3955,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "New AI tool makes it easier для Iranians access Gospel",
+      "description": "Министерство seeking bring христианство люди Iran has developed AI tool answer common questions о вера.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/new-ai-tool-makes-it-easier-for-iranians-to-access-the-gospel",
+      "victims": 0
+    },
     {
       "date": "2026-06-15",
       "lat": 12.0414,
@@ -246,6 +285,19 @@
       "lng": 7.3811,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "other",
+      "title": "Self-defence not answer worsening insecurity — African церковь Primate, Abbe",
+      "description": "African церковь Primate, Julius Abbe, штаты self-defence is not solution Nigeria’s worsening insecurity, urging правительство action и молитвы. Read More: https://punchng.com/self-defence-not-answer--worsening-insecurity-african-церковь-prima",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/?p=2165268",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-13",
+      "lat": 6.7565,
+      "lng": 3.4726,
+      "country": "Nigeria",
+      "city": "Lagos",
       "type": "other",
       "title": "Self-defence not answer worsening insecurity — African церковь Primate, Abbe",
       "description": "African церковь Primate, Julius Abbe, штаты self-defence is not solution Nigeria’s worsening insecurity, urging правительство action и молитвы. Read More: https://punchng.com/self-defence-not-answer--worsening-insecurity-african-церковь-prima",
@@ -3894,6 +3946,19 @@
       "victims": 0
     },
     {
+      "date": "2026-05-25",
+      "lat": 9.2869,
+      "lng": 9.5612,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Three христиане убит молитва Vigil в Western Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – боевики на суббота ночь (май 23) убит three христиане и похищен 15 others в атака на церковь молитва vigil в western Nigeria’s Kwara штат, sources said. атакован oc",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/05/three-christians-killed-at-prayer-vigil-in-western-nigeria/",
+      "victims": 0
+    },
+    {
       "date": "2026-05-24",
       "lat": 39.7829,
       "lng": 116.1859,
@@ -5017,6 +5082,19 @@
       "lng": 73.0967,
       "country": "Pakistan",
       "city": "Islamabad",
+      "type": "kidnapping",
+      "title": "Married мусульманин Said Forcibly Convert, Marry христианин Girl",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – married мусульманин похищен 14-год-old girl на май 12, forcibly converted her ислам и married her, exploiting her medical и mental health vulnerabilities sexually насилие h",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/05/married-muslim-said-to-forcibly-convert-marry-christian-girl/",
+      "victims": 0
+    },
+    {
+      "date": "2026-05-19",
+      "lat": 31.2709,
+      "lng": 74.5861,
+      "country": "Pakistan",
+      "city": "Lahore",
       "type": "kidnapping",
       "title": "Married мусульманин Said Forcibly Convert, Marry христианин Girl",
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – married мусульманин похищен 14-год-old girl на май 12, forcibly converted her ислам и married her, exploiting her medical и mental health vulnerabilities sexually насилие h",
@@ -6427,84 +6505,6 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/05/convert-to-christianity-in-uganda-seriously-wounded/",
       "victims": 0
-    },
-    {
-      "date": "2026-05-13",
-      "lat": 9.1566,
-      "lng": 9.4515,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "kidnapping",
-      "title": "Fulanis Face Rare сопротивление as атаки Mount в Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани атаки на христиане в Nigeria were partially thwarted с rare сопротивление выходные, и похищен священник was released, sources said. пока coordinated нападения в",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/05/fulanis-face-rare-resistance-as-attacks-mount-in-nigeria/",
-      "victims": 34
-    },
-    {
-      "date": "2026-05-13",
-      "lat": 12.071,
-      "lng": 8.7257,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "kidnapping",
-      "title": "Fulanis Face Rare сопротивление as атаки Mount в Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани атаки на христиане в Nigeria were partially thwarted с rare сопротивление выходные, и похищен священник was released, sources said. пока coordinated нападения в",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/05/fulanis-face-rare-resistance-as-attacks-mount-in-nigeria/",
-      "victims": 34
-    },
-    {
-      "date": "2026-05-12",
-      "lat": 11.9339,
-      "lng": 12.9327,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Фулани ополчения Kill 19 христиане в плато атаки",
-      "description": "Least 19 христиане were убит в separate атаки across плато штат within 24 hours, including several residents из Ngbra-Zongo деревня в Bassa Local правительство Area (LGA) — home community International христианин Concern (ICC) wr",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/12/fulani-militias-kill-19-christians-in-plateau-attacks/",
-      "victims": 19
-    },
-    {
-      "date": "2026-05-12",
-      "lat": 10.2881,
-      "lng": 7.5216,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Фулани ополчения Kill 19 христиане в плато атаки",
-      "description": "Least 19 христиане were убит в separate атаки across плато штат within 24 hours, including several residents из Ngbra-Zongo деревня в Bassa Local правительство Area (LGA) — home community International христианин Concern (ICC) wr",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/12/fulani-militias-kill-19-christians-in-plateau-attacks/",
-      "victims": 19
-    },
-    {
-      "date": "2026-05-12",
-      "lat": 9.038,
-      "lng": 9.3809,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Фулани ополчения Kill 19 христиане в плато атаки",
-      "description": "Least 19 христиане were убит в separate атаки across плато штат within 24 hours, including several residents из Ngbra-Zongo деревня в Bassa Local правительство Area (LGA) — home community International христианин Concern (ICC) wr",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/12/fulani-militias-kill-19-christians-in-plateau-attacks/",
-      "victims": 19
-    },
-    {
-      "date": "2026-05-12",
-      "lat": 9.0008,
-      "lng": 7.6428,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Фулани ополчения Kill 19 христиане в плато атаки",
-      "description": "Least 19 христиане were убит в separate атаки across плато штат within 24 hours, including several residents из Ngbra-Zongo деревня в Bassa Local правительство Area (LGA) — home community International христианин Concern (ICC) wr",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/12/fulani-militias-kill-19-christians-in-plateau-attacks/",
-      "victims": 19
     }
   ]
 }
