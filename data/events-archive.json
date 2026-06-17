@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-17T10:22:04.345Z",
+    "lastUpdated": "2026-06-17T14:46:04.687Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,19 @@
       "description": "70 дни после their похищение, Пасха прихожане в Kaduna remain пропавший без вести. community group accuses правительство neglecting insecurity в Kachi Read More: https://punchng.com/похищен-Пасха-прихожане-still-пропавший без вести-после-70-дни-kaduna",
       "source": "punchng",
       "url": "https://punchng.com/abducted-easter-worshippers-still-missing-after-70-days-kaduna-community/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-17",
+      "lat": 36.1186,
+      "lng": 44.2473,
+      "country": "Iraq",
+      "city": "Erbil",
+      "type": "other",
+      "title": "Chaldean архиепископ urges патриарх defend Iraqi христианин посёлок’s identity",
+      "description": "Архиепископ Bashar Matti Warda appealed Chaldean патриарх Paul III Nona be voice для Ankawa, Iraq's largest христианин район.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/chaldean-archbishop-urges-patriarch-to-defend-iraqi-christian-town-s-identity",
       "victims": 0
     },
     {
@@ -285,6 +298,32 @@
       "lng": 52.7035,
       "country": "Iran",
       "city": "Shiraz",
+      "type": "other",
+      "title": "New AI tool makes it easier для Iranians access Gospel",
+      "description": "Министерство seeking bring христианство люди Iran has developed AI tool answer common questions о вера.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/new-ai-tool-makes-it-easier-for-iranians-to-access-the-gospel",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-16",
+      "lat": 11.8478,
+      "lng": 8.7724,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "kidnapping",
+      "title": "‘Eight годы is too long’: христианин advocacy groups rally для похищен Nigerian schoolgirl's freedom",
+      "description": "Христианин Nigerian schoolgirl Leah Sharibu was похищен eight годы ago исламский экстремисты. Unlike most classmates she was похищен с, she has never been freed.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/eight-years-is-too-long-christian-advocacy-groups-rally-for-abducted-nigerian-schoolgirl-s-freedom",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-16",
+      "lat": 36.3493,
+      "lng": 59.6323,
+      "country": "Iran",
+      "city": "Mashhad",
       "type": "other",
       "title": "New AI tool makes it easier для Iranians access Gospel",
       "description": "Министерство seeking bring христианство люди Iran has developed AI tool answer common questions о вера.",
@@ -2768,6 +2807,19 @@
       "lng": 81.0722,
       "country": "India",
       "city": "Uttar Pradesh",
+      "type": "discrimination",
+      "title": "‘Sacrilege Law’ в Punjab, India Further Threatens христиане",
+      "description": "NEW DELHI (утро Star News) – Thanks misuse law against “outraging религиозный feelings,” христианин пастор в Punjab штат, India still cannot return home. His церковь is shut. He survives на daily physical labor, и some месяцы there is no",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/sacrilege-law-in-punjab-india-further-threatens-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-02",
+      "lat": 21.159,
+      "lng": 85.1108,
+      "country": "India",
+      "city": "Odisha",
       "type": "discrimination",
       "title": "‘Sacrilege Law’ в Punjab, India Further Threatens христиане",
       "description": "NEW DELHI (утро Star News) – Thanks misuse law against “outraging религиозный feelings,” христианин пастор в Punjab штат, India still cannot return home. His церковь is shut. He survives на daily physical labor, и some месяцы there is no",
@@ -6452,58 +6504,6 @@
       "description": "More than 200 Ethiopian migrants reportedly face imminent казнь в Saudi Arabia, despite repeated pleas для mercy из Catholic епископ close crisis. Three Ethiopian мужчины were казнён на апрель 21, raising fears that many more казни s",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/05/13/bishop-begs-for-mercy-as-ethiopians-face-execution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-13",
-      "lat": 28.8025,
-      "lng": 77.0603,
-      "country": "India",
-      "city": "Delhi",
-      "type": "murder",
-      "title": "Catholic архиепископ calls для calm после three Baptist министры убит в northeastern India",
-      "description": "Архиепископ Linus Neli Imphal has condemned убийство three христиане в Manipur, штат в far northeastern part India.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-asia/2026/05/catholic-archbishop-calls-for-calm-after-three-baptist-ministers-killed-in-northeastern-india/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-13",
-      "lat": 34.6651,
-      "lng": 36.5885,
-      "country": "Syria",
-      "city": "Homs",
-      "type": "murder",
-      "title": "Syrian архиепископ who stayed through war dies 83",
-      "description": "Архиепископ Jean-Clément Jeanbart, longtime Melkite Greek Catholic leader Aleppo, Syria, has погиб век 83, prompting tributes из Catholic charity Aid церковь в Need и христианские общины across Middle East. Archbis",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/05/13/syrian-archbishop-who-stayed-through-war-dies-at-83/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-13",
-      "lat": 33.8951,
-      "lng": 73.0244,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "murder",
-      "title": "Смерти христианин sanitation workers в Pakistan highlight systemic дискриминация",
-      "description": "Least six христианин sanitation workers have погиб в recent недели cleaning sewers в Pakistan. Rights groups say minorities are systematically channeled в hazardous work.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/deaths-of-christian-sanitation-workers-in-pakistan-highlight-systemic-discrimination",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-13",
-      "lat": 20.7034,
-      "lng": 85.2536,
-      "country": "India",
-      "city": "Odisha",
-      "type": "murder",
-      "title": "Catholic архиепископ calls для calm после three Baptist министры убит в northeastern India",
-      "description": "Архиепископ Linus Neli Imphal has condemned убийство three христиане в Manipur, штат в far northeastern part India.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-asia/2026/05/catholic-archbishop-calls-for-calm-after-three-baptist-ministers-killed-in-northeastern-india/",
       "victims": 0
     }
   ]
