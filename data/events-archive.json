@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-18T02:14:07.565Z",
+    "lastUpdated": "2026-06-18T10:01:58.849Z",
     "totalEvents": 500
   },
   "events": [
@@ -108,6 +108,19 @@
       "description": "Архиепископ Bashar Matti Warda appealed Chaldean патриарх Paul III Nona be voice для Ankawa, Iraq's largest христианин район.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/chaldean-archbishop-urges-patriarch-to-defend-iraqi-christian-town-s-identity",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-17",
+      "lat": 9.2555,
+      "lng": 9.6856,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Христиане похищен в NE Nigeria, убит в плато штат",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани на вторник (июнь 16) убит five христиане в mining site плато штат, central Nigeria, sources said. five христиане were working mining site в Ger",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/christians-kidnapped-in-ne-nigeria-slain-in-plateau-state/",
       "victims": 0
     },
     {
@@ -402,6 +415,32 @@
       "lng": 3.4548,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "other",
+      "title": "В Volatile Nigeria, мужчина Converted христианство. His семья Wasn’t Pleased.",
+      "description": "Рассвет new тысячелетие в northern Nigeria, пока христианин was petitioning God с his полночь молитвы, his 19-год-old мусульманин neighbor was calling upon Allah through молитва. Little did мусульманин молодёжь know time is that hi",
+      "source": "newsapi:Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-religion/4384061/posts",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-16",
+      "lat": 9.1604,
+      "lng": 7.3419,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "kidnapping",
+      "title": "‘Eight годы is too long’: христианин advocacy groups rally для похищен Nigerian schoolgirl's freedom",
+      "description": "Христианин Nigerian schoolgirl Leah Sharibu was похищен eight годы ago исламский экстремисты. Unlike most classmates she was похищен с, she has never been freed.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/eight-years-is-too-long-christian-advocacy-groups-rally-for-abducted-nigerian-schoolgirl-s-freedom",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-16",
+      "lat": 12.0844,
+      "lng": 8.3753,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "other",
       "title": "В Volatile Nigeria, мужчина Converted христианство. His семья Wasn’t Pleased.",
       "description": "Рассвет new тысячелетие в northern Nigeria, пока христианин was petitioning God с his полночь молитвы, his 19-год-old мусульманин neighbor was calling upon Allah through молитва. Little did мусульманин молодёжь know time is that hi",
@@ -6460,45 +6499,6 @@
       "lng": 9.7599,
       "country": "Nigeria",
       "city": "Plateau",
-      "type": "other",
-      "title": "New program set up teach lay catechists для growing Catholic population в Africa",
-      "description": "90 percent Catholics в Nigeria are thought go месса every воскресенье, highest proportion в world. They need lay catechists.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-africa/2026/05/new-program-set-up-to-teach-lay-catechists-for-growing-catholic-population-in-africa/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-14",
-      "lat": 29.4075,
-      "lng": 33.0002,
-      "country": "Egypt",
-      "city": "Sinai",
-      "type": "arrest",
-      "title": "Защитник says приговор Egyptian Coptic scholar has created ‘chilling effect’ на христиане",
-      "description": "Sentencing Egyptian Coptic христианин scholar и YouTuber Augustinos Samaan five годы в тюрьма с hard labor has created 'chilling effect' на Coptic христиане в north African country.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-africa/2026/05/advocate-says-sentence-of-egyptian-coptic-scholar-has-created-a-chilling-effect-on-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-14",
-      "lat": 35.4087,
-      "lng": 44.1919,
-      "country": "Iraq",
-      "city": "Kirkuk",
-      "type": "other",
-      "title": "Iraqi суд rules в favour христианка challenging мусульманин религия status",
-      "description": "Суд в Iraq has delivered favourable ruling для young христианка seeking change her officially registered религия из ислам христианство.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iraqi-court-rules-in-favour-of-christian-woman-challenging-muslim-religion-status",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-14",
-      "lat": 11.8179,
-      "lng": 12.9649,
-      "country": "Nigeria",
-      "city": "Borno",
       "type": "other",
       "title": "New program set up teach lay catechists для growing Catholic population в Africa",
       "description": "90 percent Catholics в Nigeria are thought go месса every воскресенье, highest proportion в world. They need lay catechists.",
