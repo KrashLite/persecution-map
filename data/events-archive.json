@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-18T14:39:31.567Z",
+    "lastUpdated": "2026-06-18T20:05:32.159Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,32 @@
       "description": "Catholic священники в Archdiocese Kinshasa в Democratic Republic Congo have raised alarm what they describe as worsening wave insecurity targeting ecclesial institutions.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/catholic-priests-in-democratic-republic-of-congo-decry-rising-insecurity-targeting-parishes",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-18",
+      "lat": 31.6473,
+      "lng": 74.3383,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "kidnapping",
+      "title": "Пропавший без вести христианин Girl в Pakistan Feared Be Trafficked",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – христианин relatives 13-год-old girl в Pakistan allegedly похищен, forcibly converted ислам и married older мусульманин мужчина fear she could be trafficked, as they contin",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/missing-christian-girl-in-pakistan-feared-to-be-trafficked/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-18",
+      "lat": 19.1486,
+      "lng": 72.6851,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "attack",
+      "title": "No Room Inn",
+      "description": "Editor’s Note: following is written International христианин Concern (ICC) staffer based в India. после my house was разгромлен и разрушен радикал индус толпа, we were атакован, избит mercilessly, и forcibly driven out our vill",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/18/no-room-at-the-inn-2/",
       "victims": 0
     },
     {
@@ -160,6 +186,19 @@
       "description": "Архиепископ Bashar Matti Warda appealed Chaldean патриарх Paul III Nona be voice для Ankawa, Iraq's largest христианин район.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/chaldean-archbishop-urges-patriarch-to-defend-iraqi-christian-town-s-identity",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-17",
+      "lat": 9.205,
+      "lng": 7.6407,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Христиане похищен в NE Nigeria, убит в плато штат",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани на вторник (июнь 16) убит five христиане в mining site плато штат, central Nigeria, sources said. five христиане were working mining site в Ger",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/christians-kidnapped-in-ne-nigeria-slain-in-plateau-state/",
       "victims": 0
     },
     {
@@ -493,6 +532,19 @@
       "lng": 7.7197,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "other",
+      "title": "В Volatile Nigeria, мужчина Converted христианство. His семья Wasn’t Pleased.",
+      "description": "Рассвет new тысячелетие в northern Nigeria, пока христианин was petitioning God с his полночь молитвы, his 19-год-old мусульманин neighbor was calling upon Allah through молитва. Little did мусульманин молодёжь know time is that hi",
+      "source": "newsapi:Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-religion/4384061/posts",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-16",
+      "lat": 9.291,
+      "lng": 9.3456,
+      "country": "Nigeria",
+      "city": "Plateau",
       "type": "other",
       "title": "В Volatile Nigeria, мужчина Converted христианство. His семья Wasn’t Pleased.",
       "description": "Рассвет new тысячелетие в northern Nigeria, пока христианин was petitioning God с his полночь молитвы, his 19-год-old мусульманин neighbor was calling upon Allah through молитва. Little did мусульманин молодёжь know time is that hi",
@@ -6453,58 +6505,6 @@
       "source": "crux",
       "url": "https://cruxnow.com/church-in-africa/2026/05/advocate-says-sentence-of-egyptian-coptic-scholar-has-created-a-chilling-effect-on-christians/",
       "victims": 0
-    },
-    {
-      "date": "2026-05-14",
-      "lat": 36.1078,
-      "lng": 43.0061,
-      "country": "Iraq",
-      "city": "Mosul",
-      "type": "other",
-      "title": "Iraqi суд rules в favour христианка challenging мусульманин религия status",
-      "description": "Суд в Iraq has delivered favourable ruling для young христианка seeking change her officially registered религия из ислам христианство.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iraqi-court-rules-in-favour-of-christian-woman-challenging-muslim-religion-status",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-14",
-      "lat": 31.0731,
-      "lng": 29.6768,
-      "country": "Egypt",
-      "city": "Alexandria",
-      "type": "arrest",
-      "title": "Защитник says приговор Egyptian Coptic scholar has created ‘chilling effect’ на христиане",
-      "description": "Sentencing Egyptian Coptic христианин scholar и YouTuber Augustinos Samaan five годы в тюрьма с hard labor has created 'chilling effect' на Coptic христиане в north African country.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-africa/2026/05/advocate-says-sentence-of-egyptian-coptic-scholar-has-created-a-chilling-effect-on-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-14",
-      "lat": 36.2095,
-      "lng": 44.2407,
-      "country": "Iraq",
-      "city": "Erbil",
-      "type": "other",
-      "title": "Iraqi суд rules в favour христианка challenging мусульманин религия status",
-      "description": "Суд в Iraq has delivered favourable ruling для young христианка seeking change her officially registered религия из ислам христианство.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iraqi-court-rules-in-favour-of-christian-woman-challenging-muslim-religion-status",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-14",
-      "lat": -4.5246,
-      "lng": 15.2967,
-      "country": "Democratic Republic of the Congo",
-      "city": "Kinshasa",
-      "type": "discrimination",
-      "title": "More христиане зарезан в Biakato, DRC",
-      "description": "На май 13, ADF повстанцы атакован христиане в Biakato, Mambassa Territory, Ituri провинция, Democratic Republic Congo (DRC), slaughtering 21 люди и сожжение down homes. “ повстанцы came во время ночь и started tying люди,” villager named",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/14/more-christians-slaughtered-in-biakato-drc/",
-      "victims": 21
     }
   ]
 }
