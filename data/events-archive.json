@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-19T02:41:51.182Z",
+    "lastUpdated": "2026-06-19T10:08:32.854Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-06-19",
+      "lat": 27.0802,
+      "lng": 81.194,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "discrimination",
+      "title": "Indian христиане атакован в церковь толпа",
+      "description": "Chhattisgarh has allegedly запрещён домашние церкви promote \"cultural harmony\".",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/indian-christians-attacked-in-church-by-mob",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-19",
+      "lat": 11.901,
+      "lng": 8.5987,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "kidnapping",
+      "title": "Appeals для release Nigerian христианин girl still held ИГИЛ после 8 годы",
+      "description": "Leah, who was 14 когда she was похищен, could have been released if she renounced her вера but she отказано.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/appeals-for-release-of-nigerian-christian-girl-still-held-by-isis-after-8-years",
+      "victims": 0
+    },
     {
       "date": "2026-06-18",
       "lat": -4.4075,
@@ -233,6 +259,19 @@
       "lng": 8.7128,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "murder",
+      "title": "Христиане похищен в NE Nigeria, убит в плато штат",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани на вторник (июнь 16) убит five христиане в mining site плато штат, central Nigeria, sources said. five христиане were working mining site в Ger",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/christians-kidnapped-in-ne-nigeria-slain-in-plateau-state/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-17",
+      "lat": 12.0427,
+      "lng": 13.1925,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "murder",
       "title": "Христиане похищен в NE Nigeria, убит в плато штат",
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани на вторник (июнь 16) убит five христиане в mining site плато штат, central Nigeria, sources said. five христиане were working mining site в Ger",
@@ -589,6 +628,19 @@
       "description": "Рассвет new тысячелетие в northern Nigeria, пока христианин was petitioning God с his полночь молитвы, his 19-год-old мусульманин neighbor was calling upon Allah through молитва. Little did мусульманин молодёжь know time is that hi",
       "source": "newsapi:Freerepublic.com",
       "url": "https://freerepublic.com/focus/f-religion/4384061/posts",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-16",
+      "lat": 11.7584,
+      "lng": 8.6746,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Пастухи Kill Four христиане в плато штат, Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани среда through пятница (июнь 10-12) убит four христиане в плато штат, Nigeria, sources said. пастухи атакован Torok деревня, Riyom округ, на пятница (июнь 12",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/herdsmen-kill-four-christians-in-plateau-state-nigeria/",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "Chang Yuchun и his wife, Li Chenhui, remain в brutal conditions в separate тюрьмы в Xi’ город, Shaanxi провинция, China. couple was involved в printing христианин literature и materials в Xi’ в 2015. в июль 2020, their company was",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/15/christian-publishers-endure-harsh-conditions-in-prison/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-15",
-      "lat": 30.1628,
-      "lng": 31.0768,
-      "country": "Egypt",
-      "city": "Cairo",
-      "type": "other",
-      "title": "На friendship в letter Egyptian Copts: this is what папа Rome says папа Egypt",
-      "description": "Letter из Holy Father His Holiness Tawadros II на occasion Coptic-Catholic Friendship день post на friendship в letter Egyptian Copts: this is what папа Rome says папа Egypt appeared первый на ZENIT - English.",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/05/15/on-friendship-in-a-letter-to-egyptian-copts-this-is-what-the-pope-of-rome-says-to-the-pope-of-egypt/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-15",
-      "lat": 29.4569,
-      "lng": 32.9204,
-      "country": "Egypt",
-      "city": "Sinai",
-      "type": "other",
-      "title": "На friendship в letter Egyptian Copts: this is what папа Rome says папа Egypt",
-      "description": "Letter из Holy Father His Holiness Tawadros II на occasion Coptic-Catholic Friendship день post на friendship в letter Egyptian Copts: this is what папа Rome says папа Egypt appeared первый на ZENIT - English.",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/05/15/on-friendship-in-a-letter-to-egyptian-copts-this-is-what-the-pope-of-rome-says-to-the-pope-of-egypt/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-15",
-      "lat": 28.1899,
-      "lng": 30.6254,
-      "country": "Egypt",
-      "city": "Minya",
-      "type": "other",
-      "title": "На friendship в letter Egyptian Copts: this is what папа Rome says папа Egypt",
-      "description": "Letter из Holy Father His Holiness Tawadros II на occasion Coptic-Catholic Friendship день post на friendship в letter Egyptian Copts: this is what папа Rome says папа Egypt appeared первый на ZENIT - English.",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/05/15/on-friendship-in-a-letter-to-egyptian-copts-this-is-what-the-pope-of-rome-says-to-the-pope-of-egypt/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-15",
-      "lat": 31.2798,
-      "lng": 121.5193,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "arrest",
-      "title": "Trump Wavers на Freeing заключён Chinese Catholic Activist Despite 2024 кампания Promise: ‘Would Be Tough One’",
-      "description": "Президент Donald Trump cast doubt на possibility freeing Catholic activist из Chinese тюрьма following his recent meeting с президент Xi. post Trump Wavers на Freeing заключён Chinese Catholic Activist Despite 2024 кампания Prom",
-      "source": "newsapi:Mediaite",
-      "url": "https://www.mediaite.com/politics/trump-wavers-on-freeing-imprisoned-chinese-catholic-activist-despite-2024-campaign-promise-would-be-a-tough-one/",
       "victims": 0
     }
   ]
