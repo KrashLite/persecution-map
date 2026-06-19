@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-18T20:05:32.159Z",
+    "lastUpdated": "2026-06-19T02:41:51.182Z",
     "totalEvents": 500
   },
   "events": [
@@ -38,6 +38,32 @@
       "lng": 72.6851,
       "country": "India",
       "city": "Mumbai",
+      "type": "attack",
+      "title": "No Room Inn",
+      "description": "Editor’s Note: following is written International христианин Concern (ICC) staffer based в India. после my house was разгромлен и разрушен радикал индус толпа, we were атакован, избит mercilessly, и forcibly driven out our vill",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/18/no-room-at-the-inn-2/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-18",
+      "lat": 33.6726,
+      "lng": 73.0335,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "kidnapping",
+      "title": "Пропавший без вести христианин Girl в Pakistan Feared Be Trafficked",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – христианин relatives 13-год-old girl в Pakistan allegedly похищен, forcibly converted ислам и married older мусульманин мужчина fear she could be trafficked, as they contin",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/missing-christian-girl-in-pakistan-feared-to-be-trafficked/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-18",
+      "lat": 28.6211,
+      "lng": 77.3393,
+      "country": "India",
+      "city": "Delhi",
       "type": "attack",
       "title": "No Room Inn",
       "description": "Editor’s Note: following is written International христианин Concern (ICC) staffer based в India. после my house was разгромлен и разрушен радикал индус толпа, we were атакован, избит mercilessly, и forcibly driven out our vill",
@@ -194,6 +220,19 @@
       "lng": 7.6407,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "murder",
+      "title": "Христиане похищен в NE Nigeria, убит в плато штат",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани на вторник (июнь 16) убит five христиане в mining site плато штат, central Nigeria, sources said. five христиане were working mining site в Ger",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/christians-kidnapped-in-ne-nigeria-slain-in-plateau-state/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-17",
+      "lat": 11.9393,
+      "lng": 8.7128,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "murder",
       "title": "Христиане похищен в NE Nigeria, убит в плато штат",
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани на вторник (июнь 16) убит five христиане в mining site плато штат, central Nigeria, sources said. five христиане were working mining site в Ger",
@@ -706,6 +745,19 @@
       "description": "Punjab власти have изъят Ewing Hall, век-old building tied Lahore's Forman христианин колледж, as христианские лидеры и rights groups warn it could be lost для good.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-government-seizes-historic-christian-college-building-in-lahore",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-15",
+      "lat": 31.5374,
+      "lng": 74.3256,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "other",
+      "title": "Богохульство Inc.: Accusations для Profit в Pakistan",
+      "description": "Using богохульство accusations as weapon is nothing new в Pakistan. situation сейчас goes beyond that. Members growing organized богохульство business network are actively trying trap люди в committing “богохульство” на social media. Some Pak",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/15/blasphemy-inc-accusations-for-profit-in-pakistan/",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "Президент Donald Trump cast doubt на possibility freeing Catholic activist из Chinese тюрьма following his recent meeting с президент Xi. post Trump Wavers на Freeing заключён Chinese Catholic Activist Despite 2024 кампания Prom",
       "source": "newsapi:Mediaite",
       "url": "https://www.mediaite.com/politics/trump-wavers-on-freeing-imprisoned-chinese-catholic-activist-despite-2024-campaign-promise-would-be-a-tough-one/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-14",
-      "lat": 15.2154,
-      "lng": 39.0921,
-      "country": "Eritrea",
-      "city": "Asmara",
-      "type": "other",
-      "title": "Христиане urge UN keep human rights spotlight на Eritrea",
-      "description": "Eritrea is sometimes called \"North Korea Africa\".",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christians-urge-un-to-keep-human-rights-spotlight-on-eritrea",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-14",
-      "lat": 33.0746,
-      "lng": 44.4225,
-      "country": "Iraq",
-      "city": "Baghdad",
-      "type": "other",
-      "title": "Iraqi суд rules в favour христианка challenging мусульманин религия status",
-      "description": "Суд в Iraq has delivered favourable ruling для young христианка seeking change her officially registered религия из ислам христианство.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iraqi-court-rules-in-favour-of-christian-woman-challenging-muslim-religion-status",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-14",
-      "lat": 19.3769,
-      "lng": -99.2385,
-      "country": "Mexico",
-      "city": "Mexico City",
-      "type": "other",
-      "title": "Calls для investigation в disappearance Protestant миссионер в southern Mexico",
-      "description": "79-год-old Protestant миссионер has been пропавший без вести для more than six недели.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/calls-for-investigation-into-disappearance-of-protestant-missionary-in-southern-mexico",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-14",
-      "lat": 27.8704,
-      "lng": 30.772,
-      "country": "Egypt",
-      "city": "Minya",
-      "type": "arrest",
-      "title": "Защитник says приговор Egyptian Coptic scholar has created ‘chilling effect’ на христиане",
-      "description": "Sentencing Egyptian Coptic христианин scholar и YouTuber Augustinos Samaan five годы в тюрьма с hard labor has created 'chilling effect' на Coptic христиане в north African country.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-africa/2026/05/advocate-says-sentence-of-egyptian-coptic-scholar-has-created-a-chilling-effect-on-christians/",
       "victims": 0
     }
   ]
