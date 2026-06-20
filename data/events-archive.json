@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-20T02:03:03.571Z",
+    "lastUpdated": "2026-06-20T08:38:04.451Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-06-20",
+      "lat": 19.2143,
+      "lng": 73.073,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "other",
+      "title": "Церковь hails acquittal миссионеры Charity монахиня в India trafficking case",
+      "description": "Indian суд has cleared пожилые монахиня и two others после eight-год ordeal церковь leaders call politically driven попытка malign Mother Teresa's order.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/church-hails-acquittal-of-missionaries-of-charity-nun-in-india-trafficking-case",
+      "victims": 0
+    },
     {
       "date": "2026-06-19",
       "lat": 27.0802,
@@ -176,6 +189,45 @@
       "victims": 0
     },
     {
+      "date": "2026-06-19",
+      "lat": 8.8863,
+      "lng": 7.6272,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Террористы Kill Nine христиане, Injure 11 в Northern Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected пастухи фулани убит nine христиане и ранен 11 others в ночь атака в Kaduna штат, Nigeria на вторник (июнь 16), area residents said. assailants атакован",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/terrorists-kill-nine-christians-injure-11-in-northern-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-19",
+      "lat": 29.2571,
+      "lng": 32.8767,
+      "country": "Egypt",
+      "city": "Sinai",
+      "type": "arrest",
+      "title": "Egyptian христианин заключён для Social Media Posts",
+      "description": "На Jan. 3, Egyptian христианин Augustinos Samaan was приговорён five годы hard labor после he was осуждён “contempt религия” и “misuse social media.” Samaan has YouTube channel на which he posts apologetics videos comparing Chris",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/19/egyptian-christian-imprisoned-for-social-media-posts/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-19",
+      "lat": 34.2186,
+      "lng": 71.463,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "other",
+      "title": "Delayed Wages Push христианин Commit Suicide в Punjab, Pakistan",
+      "description": "Для several месяцы, Waseem Masih took pride в his work, doing his part keep провинция Punjab в Pakistan clean. Masih, христианин, was employed под Suthra Punjab initiative — провинция-wide sanitation reform launched Punjab Chi",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/19/delayed-wages-push-christian-to-commit-suicide-in-punjab-pakistan/",
+      "victims": 0
+    },
+    {
       "date": "2026-06-18",
       "lat": -4.4075,
       "lng": 15.3291,
@@ -303,6 +355,19 @@
       "description": "Provincial суд Zambézia is also investigating involvement gardener и guard. investigation is допрос suspects clarify facts и determine their possible criminal liability. post Catholic священник Suspected i",
       "source": "zenit",
       "url": "https://zenit.org/2026/06/18/catholic-priest-suspected-in-bishops-murder-in-mozambique/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-18",
+      "lat": 24.978,
+      "lng": 67.1283,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "kidnapping",
+      "title": "Пропавший без вести христианин Girl в Pakistan Feared Be Trafficked",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – христианин relatives 13-год-old girl в Pakistan allegedly похищен, forcibly converted ислам и married older мусульманин мужчина fear she could be trafficked, as they contin",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/missing-christian-girl-in-pakistan-feared-to-be-trafficked/",
       "victims": 0
     },
     {
@@ -1208,6 +1273,19 @@
       "lng": 8.7104,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "other",
+      "title": "Self-defence not answer worsening insecurity — African церковь Primate, Abbe",
+      "description": "African церковь Primate, Julius Abbe, штаты self-defence is not solution Nigeria’s worsening insecurity, urging правительство action и молитвы. Read More: https://punchng.com/self-defence-not-answer--worsening-insecurity-african-церковь-prima",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/?p=2165268",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-13",
+      "lat": 10.3137,
+      "lng": 7.4413,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "other",
       "title": "Self-defence not answer worsening insecurity — African церковь Primate, Abbe",
       "description": "African церковь Primate, Julius Abbe, штаты self-defence is not solution Nigeria’s worsening insecurity, urging правительство action и молитвы. Read More: https://punchng.com/self-defence-not-answer--worsening-insecurity-african-церковь-prima",
@@ -6426,84 +6504,6 @@
       "description": "Seyi Tinubu offers encouragement Cubana Chief священник после socialite lost БТР primary election для House представители seat в Imo штат. Read More: https://punchng.com/seyi-tinubu-consoles-cubana-chief-священник-после-БТР-primary-def",
       "source": "punchng",
       "url": "https://punchng.com/seyi-tinubu-consoles-cubana-chief-priest-after-apc-primary-defeat/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-17",
-      "lat": 31.046,
-      "lng": 121.6443,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "other",
-      "title": "Христианин церковь в mainland China since 1949",
-      "description": "History христианин церковь в mainland China since 1949 is story characterised times dramatic upheaval, near разрушение и мученичество, и unexpected revival.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/the-christian-church-in-mainland-china-since-1949",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-17",
-      "lat": 23.1562,
-      "lng": 113.9862,
-      "country": "China",
-      "city": "Guangdong",
-      "type": "other",
-      "title": "Христианин церковь в mainland China since 1949",
-      "description": "History христианин церковь в mainland China since 1949 is story characterised times dramatic upheaval, near разрушение и мученичество, и unexpected revival.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/the-christian-church-in-mainland-china-since-1949",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-17",
-      "lat": 43.7294,
-      "lng": 87.6816,
-      "country": "China",
-      "city": "Xinjiang",
-      "type": "other",
-      "title": "Христианин церковь в mainland China since 1949",
-      "description": "History христианин церковь в mainland China since 1949 is story characterised times dramatic upheaval, near разрушение и мученичество, и unexpected revival.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/the-christian-church-in-mainland-china-since-1949",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-16",
-      "lat": 28.1248,
-      "lng": 30.5689,
-      "country": "Egypt",
-      "city": "Minya",
-      "type": "other",
-      "title": "Папа Leo XIV reaches out leader Egypt’s христиане",
-      "description": "Desire “overcome any препятствия dialogue based на вера и charity” was heart phone call between папа Leo XIV и Coptic папа Tawadros II на пятница, май 15, Vatican press release noted. More than two годы после breakdown",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/05/16/pope-leo-xiv-reaches-out-to-leader-of-egypts-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-16",
-      "lat": 8.9402,
-      "lng": 7.241,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "Tarsus diocese restored после more than век",
-      "description": "There is сейчас episcopal presence в Tarsus; dioceses в Ireland и Canada are celebrating рукоположения; Nigerian священник is freed, и more в на этой неделе’s roundup world news.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/tarsus-diocese-restored-after-more-than-a-century",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-16",
-      "lat": 19.4867,
-      "lng": -99.1312,
-      "country": "Mexico",
-      "city": "Mexico City",
-      "type": "other",
-      "title": "Trump administration sues Catholic diocese seize land near El Paso для border барьер",
-      "description": "Install more border барьеры, Trump administration wants seize 14 acres land на iconic гора outside El Paso owned Catholic Diocese neighboring Las Cruces, New Mexico.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-usa/2026/05/trump-administration-sues-catholic-diocese-to-seize-land-near-el-paso-for-border-barrier/",
       "victims": 0
     }
   ]
