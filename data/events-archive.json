@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-20T13:21:25.583Z",
+    "lastUpdated": "2026-06-20T19:06:19.204Z",
     "totalEvents": 500
   },
   "events": [
@@ -51,6 +51,19 @@
       "lng": 85.207,
       "country": "India",
       "city": "Odisha",
+      "type": "other",
+      "title": "Церковь hails acquittal миссионеры Charity монахиня в India trafficking case",
+      "description": "Indian суд has cleared пожилые монахиня и two others после eight-год ordeal церковь leaders call politically driven попытка malign Mother Teresa's order.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/church-hails-acquittal-of-missionaries-of-charity-nun-in-india-trafficking-case",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-20",
+      "lat": 26.9004,
+      "lng": 81.0439,
+      "country": "India",
+      "city": "Uttar Pradesh",
       "type": "other",
       "title": "Церковь hails acquittal миссионеры Charity монахиня в India trafficking case",
       "description": "Indian суд has cleared пожилые монахиня и two others после eight-год ordeal церковь leaders call politically driven попытка malign Mother Teresa's order.",
@@ -316,6 +329,45 @@
       "description": "Для several месяцы, Waseem Masih took pride в his work, doing his part keep провинция Punjab в Pakistan clean. Masih, христианин, was employed под Suthra Punjab initiative — провинция-wide sanitation reform launched Punjab Chi",
       "source": "persecution",
       "url": "https://persecution.org/2026/06/19/delayed-wages-push-christian-to-commit-suicide-in-punjab-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-19",
+      "lat": 28.3444,
+      "lng": 30.7421,
+      "country": "Egypt",
+      "city": "Minya",
+      "type": "arrest",
+      "title": "Egyptian христианин заключён для Social Media Posts",
+      "description": "На Jan. 3, Egyptian христианин Augustinos Samaan was приговорён five годы hard labor после he was осуждён “contempt религия” и “misuse social media.” Samaan has YouTube channel на which he posts apologetics videos comparing Chris",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/19/egyptian-christian-imprisoned-for-social-media-posts/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-19",
+      "lat": 25.0264,
+      "lng": 66.7894,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "other",
+      "title": "Delayed Wages Push христианин Commit Suicide в Punjab, Pakistan",
+      "description": "Для several месяцы, Waseem Masih took pride в his work, doing his part keep провинция Punjab в Pakistan clean. Masih, христианин, was employed под Suthra Punjab initiative — провинция-wide sanitation reform launched Punjab Chi",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/19/delayed-wages-push-christian-to-commit-suicide-in-punjab-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-19",
+      "lat": 9.1439,
+      "lng": 9.2799,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "kidnapping",
+      "title": "Appeals для release Nigerian христианин girl still held ИГИЛ после 8 годы",
+      "description": "Leah, who was 14 когда she was похищен, could have been released if she renounced her вера but she отказано.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/appeals-for-release-of-nigerian-christian-girl-still-held-by-isis-after-8-years",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "В недели leading up президент Donald Trump’s recent trip Beijing, broad array lawmakers и human rights защитники pressed him push для release пастор Ezra Jin, Jimmy Lai, и others unjustly заключён в China. Trump publi",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/18/president-trump-advocates-for-religious-prisoners-during-beijing-trip/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-18",
-      "lat": 6.519,
-      "lng": 3.2153,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Nigeria Catholic больница fire leaves Marian statue untouched, draws non-Catholics молитва",
-      "description": "Fire Mother Christ Specialist больница в Diocese Enugu broke out на май 12, causing vast повреждение — but Marian statue was left untouched amid flames.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/nigeria-catholic-hospital-fire-leaves-marian-statue-untouched-draws-non-catholics-to-prayer",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-18",
-      "lat": 18.9715,
-      "lng": 72.7018,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "discrimination",
-      "title": "Indian Catholics отказано залог после confronting толпа that disrupted месса",
-      "description": "Nine parishioners face обращение и attempted убийство обвинения после forcing out intruders who штурмован деревня церковь во время месса в Rajasthan.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/indian-catholics-denied-bail-after-confronting-mob-that-disrupted-mass",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-18",
-      "lat": 12.1102,
-      "lng": 8.3809,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Do not испытание Trump’s resolve, US lawmaker warns террористы в Nigeria",
-      "description": "US congressman warns террористы targeting христиане в Nigeria, highlighting joint US-Nigerian strike that убит top ИГИЛ commander. Read More: https://punchng.com/do-not-испытание-trumps-resolve-us-lawmaker-warns-террористы-в-nigeria/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/do-not-test-trumps-resolve-us-lawmaker-warns-terrorists-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-18",
-      "lat": 10.294,
-      "lng": 7.2077,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Do not испытание Trump’s resolve, US lawmaker warns террористы в Nigeria",
-      "description": "US congressman warns террористы targeting христиане в Nigeria, highlighting joint US-Nigerian strike that убит top ИГИЛ commander. Read More: https://punchng.com/do-not-испытание-trumps-resolve-us-lawmaker-warns-террористы-в-nigeria/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/do-not-test-trumps-resolve-us-lawmaker-warns-terrorists-in-nigeria/",
       "victims": 0
     }
   ]
