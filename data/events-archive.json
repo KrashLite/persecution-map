@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-21T02:15:17.602Z",
+    "lastUpdated": "2026-06-21T09:32:45.685Z",
     "totalEvents": 500
   },
   "events": [
@@ -108,6 +108,32 @@
       "description": "Indian суд has cleared пожилые монахиня и two others после eight-год ordeal церковь leaders call politically driven попытка malign Mother Teresa's order.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/church-hails-acquittal-of-missionaries-of-charity-nun-in-india-trafficking-case",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-20",
+      "lat": 10.4186,
+      "lng": 7.3153,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Nigerian activists rally для преследуемый христиане near White House",
+      "description": "Save Nigeria Rally included speakers such as Alveda король, PhD, niece civil rights activist Martin Luther король Jr., along с представители из all six geopolitical zones Nigeria.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/nigerian-activists-rally-for-persecuted-christians-near-white-house",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-20",
+      "lat": 35.5357,
+      "lng": 51.2423,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "Папа Leo's popularity с Republican Catholics plummets после his bitter feuds с Trump",
+      "description": "Chicago-born pontiff и президент were odds Iran War и other issues, as Trump one point issued frequent blistering statements slamming папа Leo.",
+      "source": "newsapi:Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15914299/Pope-Leo-popularity-Republican-Catholics-Trump.html",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Fire Mother Christ Specialist больница в Diocese Enugu broke out на май 12, causing vast повреждение — but Marian statue was left untouched amid flames.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/nigeria-catholic-hospital-fire-leaves-marian-statue-untouched-draws-non-catholics-to-prayer",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-18",
-      "lat": 21.2774,
-      "lng": 81.6309,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "discrimination",
-      "title": "Indian Catholics отказано залог после confronting толпа that disrupted месса",
-      "description": "Nine parishioners face обращение и attempted убийство обвинения после forcing out intruders who штурмован деревня церковь во время месса в Rajasthan.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/indian-catholics-denied-bail-after-confronting-mob-that-disrupted-mass",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-18",
-      "lat": -4.2901,
-      "lng": 15.3215,
-      "country": "Democratic Republic of the Congo",
-      "city": "Kinshasa",
-      "type": "attack",
-      "title": "DRC христиане Face религиозный Extremism, Ebola",
-      "description": "В eastern Democratic Republic Congo (DRC), where ADF атаки have claimed countless lives и вынужден many христиане flee, new Ebola outbreak has begun. на май 14, власти confirmed this is country’s 17th epidemic since 1976. out",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/18/drc-christians-face-religious-extremism-ebola/",
       "victims": 0
     }
   ]
