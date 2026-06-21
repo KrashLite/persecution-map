@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-21T09:32:45.685Z",
+    "lastUpdated": "2026-06-21T13:31:01.193Z",
     "totalEvents": 500
   },
   "events": [
@@ -134,6 +134,32 @@
       "description": "Chicago-born pontiff и президент were odds Iran War и other issues, as Trump one point issued frequent blistering statements slamming папа Leo.",
       "source": "newsapi:Dailymail.com",
       "url": "https://www.dailymail.com/news/article-15914299/Pope-Leo-popularity-Republican-Catholics-Trump.html",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-20",
+      "lat": 36.2879,
+      "lng": 59.4283,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Папа Leo's popularity с Republican Catholics plummets после his bitter feuds с Trump",
+      "description": "Chicago-born pontiff и президент were odds Iran War и other issues, as Trump one point issued frequent blistering statements slamming папа Leo.",
+      "source": "newsapi:Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-15914299/Pope-Leo-popularity-Republican-Catholics-Trump.html",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-20",
+      "lat": 28.7515,
+      "lng": 77.019,
+      "country": "India",
+      "city": "Delhi",
+      "type": "other",
+      "title": "Церковь hails acquittal миссионеры Charity монахиня в India trafficking case",
+      "description": "Indian суд has cleared пожилые монахиня и two others после eight-год ordeal церковь leaders call politically driven попытка malign Mother Teresa's order.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/church-hails-acquittal-of-missionaries-of-charity-nun-in-india-trafficking-case",
       "victims": 0
     },
     {
@@ -475,6 +501,19 @@
       "victims": 0
     },
     {
+      "date": "2026-06-19",
+      "lat": 10.3655,
+      "lng": 7.4522,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Террористы Kill Nine христиане, Injure 11 в Northern Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected пастухи фулани убит nine христиане и ранен 11 others в ночь атака в Kaduna штат, Nigeria на вторник (июнь 16), area residents said. assailants атакован",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/terrorists-kill-nine-christians-injure-11-in-northern-nigeria/",
+      "victims": 0
+    },
+    {
       "date": "2026-06-18",
       "lat": -4.4075,
       "lng": 15.3291,
@@ -615,6 +654,19 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – христианин relatives 13-год-old girl в Pakistan allegedly похищен, forcibly converted ислам и married older мусульманин мужчина fear she could be trafficked, as they contin",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/06/missing-christian-girl-in-pakistan-feared-to-be-trafficked/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-18",
+      "lat": 21.019,
+      "lng": 85.2462,
+      "country": "India",
+      "city": "Odisha",
+      "type": "attack",
+      "title": "No Room Inn",
+      "description": "Editor’s Note: following is written International христианин Concern (ICC) staffer based в India. после my house was разгромлен и разрушен радикал индус толпа, we were атакован, избит mercilessly, и forcibly driven out our vill",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/18/no-room-at-the-inn-2/",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – married мусульманин похищен 14-год-old girl на май 12, forcibly converted her ислам и married her, exploiting her medical и mental health vulnerabilities sexually насилие h",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/05/married-muslim-said-to-forcibly-convert-marry-christian-girl/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-19",
-      "lat": 25.035,
-      "lng": 67.2278,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "kidnapping",
-      "title": "Married мусульманин Said Forcibly Convert, Marry христианин Girl",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – married мусульманин похищен 14-год-old girl на май 12, forcibly converted her ислам и married her, exploiting her medical и mental health vulnerabilities sexually насилие h",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/05/married-muslim-said-to-forcibly-convert-marry-christian-girl/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-18",
-      "lat": 12.0055,
-      "lng": 13.3621,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Do not испытание Trump’s resolve, US lawmaker warns террористы в Nigeria",
-      "description": "US congressman warns террористы targeting христиане в Nigeria, highlighting joint US-Nigerian strike that убит top ИГИЛ commander. Read More: https://punchng.com/do-not-испытание-trumps-resolve-us-lawmaker-warns-террористы-в-nigeria/",
-      "source": "punchng",
-      "url": "https://punchng.com/do-not-test-trumps-resolve-us-lawmaker-warns-terrorists-in-nigeria/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-18",
-      "lat": 10.3775,
-      "lng": 7.5265,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "kidnapping",
-      "title": "CAN condemns Oyo школа похищения, demands urgent action",
-      "description": "Христианин Association Nigeria (CAN) condemns recent Oyo школа похищения, calling them ‘national disgrace’ и demanding urgent правительство ac Read More: https://punchng.com/can-condemns-oyo-школа-похищения-demands-urgent-action/",
-      "source": "punchng",
-      "url": "https://punchng.com/can-condemns-oyo-school-abductions-demands-urgent-action/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-18",
-      "lat": 12.134,
-      "lng": 8.7028,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "Nigeria Catholic больница fire leaves Marian statue untouched, draws non-Catholics молитва",
-      "description": "Fire Mother Christ Specialist больница в Diocese Enugu broke out на май 12, causing vast повреждение — but Marian statue was left untouched amid flames.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/nigeria-catholic-hospital-fire-leaves-marian-statue-untouched-draws-non-catholics-to-prayer",
       "victims": 0
     }
   ]
