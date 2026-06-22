@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-22T11:29:03.996Z",
+    "lastUpdated": "2026-06-22T16:23:02.275Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-06-22",
+      "lat": 11.8395,
+      "lng": 8.3515,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Фулани террористы Kill more than 20 христиане в Central Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани в рано hours понедельник (июнь 22) убит more than 20 христиане в атака в плато штат, Nigeria, sources said. assailants raided predominantly Christi",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/fulani-terrorists-kill-more-than-20-christians-in-central-nigeria/",
+      "victims": 20
+    },
+    {
+      "date": "2026-06-22",
+      "lat": 9.182,
+      "lng": 9.6156,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "discrimination",
+      "title": "Catholic епископы condemn reintegration repentant bandits",
+      "description": "Catholic епископы Ibadan Ecclesiastical провинция have criticised reintegration so-called repentant bandits в society и security structures, describing practice as unjust и disservice жертвы violent crimes across N",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/06/catholic-bishops-condemn-reintegration-of-repentant-bandits/",
+      "victims": 0
+    },
     {
       "date": "2026-06-20",
       "lat": 19.2143,
@@ -6473,32 +6499,6 @@
       "lng": 7.3261,
       "country": "Nigeria",
       "city": "Kaduna",
-      "type": "kidnapping",
-      "title": "Nigeria: священник Released после Three месяцы в плен",
-      "description": "Father Nathaniel Asuwaye was похищен на суббота, 7th февраль, когда боевики атакован Holy Trinity Parish в Karku, Kaduna штат, where he serves as Parish священник. post Nigeria: священник Released после Three месяцы в плен appeared первый на Z",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/05/19/nigeria-priest-released-after-three-months-in-captivity/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-19",
-      "lat": 18.8456,
-      "lng": 72.8354,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "murder",
-      "title": "Salesians honor 3 members убит в India 25 годы ago as ethnic tensions persist",
-      "description": "Relatives и former novices gathered в northeast India honor two священники и брат убит боевики в 2001 — even as fresh ethnic violence roils регион.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/salesians-honor-three-members-killed-in-india-25-years-ago-as-ethnic-tensions-persist",
-      "victims": 3
-    },
-    {
-      "date": "2026-05-19",
-      "lat": 12.1681,
-      "lng": 8.6432,
-      "country": "Nigeria",
-      "city": "Kano",
       "type": "kidnapping",
       "title": "Nigeria: священник Released после Three месяцы в плен",
       "description": "Father Nathaniel Asuwaye was похищен на суббота, 7th февраль, когда боевики атакован Holy Trinity Parish в Karku, Kaduna штат, where he serves as Parish священник. post Nigeria: священник Released после Three месяцы в плен appeared первый на Z",
