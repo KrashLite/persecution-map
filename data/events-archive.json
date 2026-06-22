@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-21T19:10:15.733Z",
+    "lastUpdated": "2026-06-22T02:30:14.619Z",
     "totalEvents": 500
   },
   "events": [
@@ -173,6 +173,19 @@
       "description": "Chicago-born pontiff и президент were odds Iran War и other issues, as Trump one point issued frequent blistering statements slamming папа Leo.",
       "source": "newsapi:Dailymail.com",
       "url": "https://www.dailymail.com/news/article-15914299/Pope-Leo-popularity-Republican-Catholics-Trump.html",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-20",
+      "lat": 6.5102,
+      "lng": 3.1779,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Nigerian activists rally для преследуемый христиане near White House",
+      "description": "Save Nigeria Rally included speakers such as Alveda король, PhD, niece civil rights activist Martin Luther король Jr., along с представители из all six geopolitical zones Nigeria.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/nigerian-activists-rally-for-persecuted-christians-near-white-house",
       "victims": 0
     },
     {
@@ -6492,19 +6505,6 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/salesians-honor-three-members-killed-in-india-25-years-ago-as-ethnic-tensions-persist",
       "victims": 3
-    },
-    {
-      "date": "2026-05-19",
-      "lat": 34.0183,
-      "lng": 71.4223,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "kidnapping",
-      "title": "Married мусульманин Said Forcibly Convert, Marry христианин Girl",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – married мусульманин похищен 14-год-old girl на май 12, forcibly converted her ислам и married her, exploiting her medical и mental health vulnerabilities sexually насилие h",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/05/married-muslim-said-to-forcibly-convert-marry-christian-girl/",
-      "victims": 0
     }
   ]
 }
