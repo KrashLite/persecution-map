@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-22T02:30:14.619Z",
+    "lastUpdated": "2026-06-22T11:29:03.996Z",
     "totalEvents": 500
   },
   "events": [
@@ -181,6 +181,19 @@
       "lng": 3.1779,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "other",
+      "title": "Nigerian activists rally для преследуемый христиане near White House",
+      "description": "Save Nigeria Rally included speakers such as Alveda король, PhD, niece civil rights activist Martin Luther король Jr., along с представители из all six geopolitical zones Nigeria.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/nigerian-activists-rally-for-persecuted-christians-near-white-house",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-20",
+      "lat": 12.1805,
+      "lng": 8.3755,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "other",
       "title": "Nigerian activists rally для преследуемый христиане near White House",
       "description": "Save Nigeria Rally included speakers such as Alveda король, PhD, niece civil rights activist Martin Luther король Jr., along с представители из all six geopolitical zones Nigeria.",
@@ -550,6 +563,19 @@
       "description": "Videos circulating на social media на этой неделе appear show extensive повреждение inside Mar Kiryakos церковь в деревня Sharanish в Iraq’s Dohuk Governorate, prompting concern among Assyrians и other христиане fate one area’s",
       "source": "persecution",
       "url": "https://persecution.org/2026/06/19/videos-show-damage-to-historic-iraqi-assyrian-church/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-19",
+      "lat": 6.772,
+      "lng": 3.3572,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "kidnapping",
+      "title": "Appeals для release Nigerian христианин girl still held ИГИЛ после 8 годы",
+      "description": "Leah, who was 14 когда she was похищен, could have been released if she renounced her вера but she отказано.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/appeals-for-release-of-nigerian-christian-girl-still-held-by-isis-after-8-years",
       "victims": 0
     },
     {
@@ -6479,32 +6505,6 @@
       "source": "zenit",
       "url": "https://zenit.org/2026/05/19/nigeria-priest-released-after-three-months-in-captivity/",
       "victims": 0
-    },
-    {
-      "date": "2026-05-19",
-      "lat": 28.8333,
-      "lng": 77.2554,
-      "country": "India",
-      "city": "Delhi",
-      "type": "murder",
-      "title": "Salesians honor 3 members убит в India 25 годы ago as ethnic tensions persist",
-      "description": "Relatives и former novices gathered в northeast India honor two священники и брат убит боевики в 2001 — even as fresh ethnic violence roils регион.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/salesians-honor-three-members-killed-in-india-25-years-ago-as-ethnic-tensions-persist",
-      "victims": 3
-    },
-    {
-      "date": "2026-05-19",
-      "lat": 26.6196,
-      "lng": 80.9316,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "murder",
-      "title": "Salesians honor 3 members убит в India 25 годы ago as ethnic tensions persist",
-      "description": "Relatives и former novices gathered в northeast India honor two священники и брат убит боевики в 2001 — even as fresh ethnic violence roils регион.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/salesians-honor-three-members-killed-in-india-25-years-ago-as-ethnic-tensions-persist",
-      "victims": 3
     }
   ]
 }
