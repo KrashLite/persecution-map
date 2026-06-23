@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-23T01:57:13.827Z",
+    "lastUpdated": "2026-06-23T08:53:59.948Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-06-23",
+      "lat": 9.2543,
+      "lng": 9.586,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Первый memorial христиане убит в Nigeria unveiled",
+      "description": "Every год thousands are убит в Nigeria.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/first-memorial-to-christians-killed-in-nigeria-unveiled",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-23",
+      "lat": 4.6161,
+      "lng": -73.9759,
+      "country": "Colombia",
+      "city": "Bogota",
+      "type": "attack",
+      "title": "Церковь leaders угрожали боевики в run-up Colombian presidential election, says rights group",
+      "description": "CSW is urging new Colombian президент reinstate special protection measures для религиозный leaders",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/church-leaders-threatened-by-militants-in-run-up-to-colombian-presidential-election-says-rights-group",
+      "victims": 0
+    },
     {
       "date": "2026-06-22",
       "lat": 11.8395,
@@ -70,6 +96,19 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/religious-freedom-week-kicks-off-in-the-u-s",
       "victims": 0
+    },
+    {
+      "date": "2026-06-22",
+      "lat": 6.6213,
+      "lng": 3.2975,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Мусульманин боевики Kill 31 христиане в атаки Across плато, Kaduna штаты",
+      "description": "Armed мусульманин Tribesmen убит least 31 люди в two separate нападения на rural христианские общины в плато и Kaduna штаты within one неделя, according various sources. deadliest атака occurred поздно на июнь 21 в Kawel community, Mus",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/22/muslim-gunmen-kill-31-christians-in-attacks-across-plateau-kaduna-states/",
+      "victims": 31
     },
     {
       "date": "2026-06-20",
@@ -6466,45 +6505,6 @@
       "source": "zenit",
       "url": "https://zenit.org/2026/05/20/nigeria-fulani-militias-kill-19-christians-in-plateau-attacks/",
       "victims": 19
-    },
-    {
-      "date": "2026-05-19",
-      "lat": 21.092,
-      "lng": 81.8342,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "murder",
-      "title": "Salesians honor 3 members убит в India 25 годы ago as ethnic tensions persist",
-      "description": "Relatives и former novices gathered в northeast India honor two священники и брат убит боевики в 2001 — even as fresh ethnic violence roils регион.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/salesians-honor-three-members-killed-in-india-25-years-ago-as-ethnic-tensions-persist",
-      "victims": 3
-    },
-    {
-      "date": "2026-05-19",
-      "lat": 21.0467,
-      "lng": 85.1488,
-      "country": "India",
-      "city": "Odisha",
-      "type": "murder",
-      "title": "Salesians honor 3 members убит в India 25 годы ago as ethnic tensions persist",
-      "description": "Relatives и former novices gathered в northeast India honor two священники и брат убит боевики в 2001 — even as fresh ethnic violence roils регион.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/salesians-honor-three-members-killed-in-india-25-years-ago-as-ethnic-tensions-persist",
-      "victims": 3
-    },
-    {
-      "date": "2026-05-19",
-      "lat": -5.9901,
-      "lng": 106.8274,
-      "country": "Indonesia",
-      "city": "Jakarta",
-      "type": "attack",
-      "title": "Взрыв Explodes в Churchyard Following богослужение Service",
-      "description": "Around 12:15 p.m. на воскресенье, май 17, взрыв shattered silence following месса St. Paulus Nabuni Mbamogo Station церковь, Saint Michael Bilogai Parish, в Sugapa, Intan Jaya, Indonesia. closing молитва had barely begun waft through t",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/19/bomb-explodes-in-churchyard-following-worship-service/",
-      "victims": 0
     }
   ]
 }
