@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-22T20:29:31.667Z",
+    "lastUpdated": "2026-06-23T01:57:13.827Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,45 @@
       "description": "Catholic епископы Ibadan Ecclesiastical провинция have criticised reintegration so-called repentant bandits в society и security structures, describing practice as unjust и disservice жертвы violent crimes across N",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/06/catholic-bishops-condemn-reintegration-of-repentant-bandits/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-22",
+      "lat": 8.9816,
+      "lng": 9.4162,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Фулани террористы Kill more than 20 христиане в Central Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани в рано hours понедельник (июнь 22) убит more than 20 христиане в атака в плато штат, Nigeria, sources said. assailants raided predominantly Christi",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/fulani-terrorists-kill-more-than-20-christians-in-central-nigeria/",
+      "victims": 20
+    },
+    {
+      "date": "2026-06-22",
+      "lat": 10.4946,
+      "lng": 7.5668,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Мусульманин боевики Kill 31 христиане в атаки Across плато, Kaduna штаты",
+      "description": "Armed мусульманин Tribesmen убит least 31 люди в two separate нападения на rural христианские общины в плато и Kaduna штаты within one неделя, according various sources. deadliest атака occurred поздно на июнь 21 в Kawel community, Mus",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/22/muslim-gunmen-kill-31-christians-in-attacks-across-plateau-kaduna-states/",
+      "victims": 31
+    },
+    {
+      "date": "2026-06-22",
+      "lat": 4.406,
+      "lng": 18.4783,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "discrimination",
+      "title": "Религиозный Freedom неделя kicks off в U.S.",
+      "description": "Catholics are invited pray, reflect, и act на религиозный дискриминация, education, immigration enforcement, Africa, gender ideology, политический и anti-религиозный violence, и Nicaragua.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/religious-freedom-week-kicks-off-in-the-u-s",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Around 12:15 p.m. на воскресенье, май 17, взрыв shattered silence following месса St. Paulus Nabuni Mbamogo Station церковь, Saint Michael Bilogai Parish, в Sugapa, Intan Jaya, Indonesia. closing молитва had barely begun waft through t",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/19/bomb-explodes-in-churchyard-following-worship-service/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-19",
-      "lat": 6.5681,
-      "lng": 3.5062,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "kidnapping",
-      "title": "Nigeria: священник Released после Three месяцы в плен",
-      "description": "Father Nathaniel Asuwaye was похищен на суббота, 7th февраль, когда боевики атакован Holy Trinity Parish в Karku, Kaduna штат, where he serves as Parish священник. post Nigeria: священник Released после Three месяцы в плен appeared первый на Z",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/05/19/nigeria-priest-released-after-three-months-in-captivity/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-19",
-      "lat": 9.0734,
-      "lng": 38.9111,
-      "country": "Ethiopia",
-      "city": "Addis Ababa",
-      "type": "other",
-      "title": "Growing Up христианин в Churchless Kingdom Saudi Arabia",
-      "description": "Полиция surveillance и intrusion are far more reality if you’re poorer и live в apartments that have illegal immigrants. These were types places where foreigners — often из Ethiopia or Philippines — would get caught as group p",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/05/19/growing-up-christian-in-the-churchless-kingdom-of-saudi-arabia/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-19",
-      "lat": 10.4653,
-      "lng": 7.3261,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "kidnapping",
-      "title": "Nigeria: священник Released после Three месяцы в плен",
-      "description": "Father Nathaniel Asuwaye was похищен на суббота, 7th февраль, когда боевики атакован Holy Trinity Parish в Karku, Kaduna штат, where he serves as Parish священник. post Nigeria: священник Released после Three месяцы в плен appeared первый на Z",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/05/19/nigeria-priest-released-after-three-months-in-captivity/",
       "victims": 0
     }
   ]
