@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-23T08:53:59.948Z",
+    "lastUpdated": "2026-06-23T14:16:17.839Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,45 @@
       "description": "CSW is urging new Colombian президент reinstate special protection measures для религиозный leaders",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/church-leaders-threatened-by-militants-in-run-up-to-colombian-presidential-election-says-rights-group",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-23",
+      "lat": 10.3264,
+      "lng": 7.5606,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Фулани group urges pastoralists deepen security cooperation в South-West",
+      "description": "Concerned фулани люди Nigeria (CFPN) has urged фулани pastoralists across South-West sustain cooperation с security агентства и host communities strengthen peace и tackle criminal activities в регион. group made",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/06/fulani-group-urges-pastoralists-to-deepen-security-cooperation-in-south-west/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-23",
+      "lat": 31.7529,
+      "lng": 74.5275,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "murder",
+      "title": "Pakistani суд acquits blind Catholic мужчина в богохульство case",
+      "description": "Lahore суд cited insufficient evidence в clearing Nadeem Masih, blind Catholic who spent nearly 10 месяцы в тюрьма на богохульство обвинение carrying mandatory смерть penalty.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-court-acquits-blind-catholic-man-in-blasphemy-case",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-23",
+      "lat": 11.4805,
+      "lng": 104.8112,
+      "country": "Cambodia",
+      "city": "Phnom Penh",
+      "type": "other",
+      "title": "Cambodia's буддист leaders honor Catholic епископ для десятилетия cooperation",
+      "description": "Recognition для епископ Olivier Schmitthaeusler is rare gesture из буддист establishment country where Catholics number barely 20,000.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/cambodia-s-buddhist-leaders-honor-catholic-bishop-for-decades-of-cooperation",
       "victims": 0
     },
     {
@@ -103,6 +142,19 @@
       "lng": 3.2975,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "murder",
+      "title": "Мусульманин боевики Kill 31 христиане в атаки Across плато, Kaduna штаты",
+      "description": "Armed мусульманин Tribesmen убит least 31 люди в two separate нападения на rural христианские общины в плато и Kaduna штаты within one неделя, according various sources. deadliest атака occurred поздно на июнь 21 в Kawel community, Mus",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/22/muslim-gunmen-kill-31-christians-in-attacks-across-plateau-kaduna-states/",
+      "victims": 31
+    },
+    {
+      "date": "2026-06-22",
+      "lat": 8.9705,
+      "lng": 9.634,
+      "country": "Nigeria",
+      "city": "Plateau",
       "type": "murder",
       "title": "Мусульманин боевики Kill 31 христиане в атаки Across плато, Kaduna штаты",
       "description": "Armed мусульманин Tribesmen убит least 31 люди в two separate нападения на rural христианские общины в плато и Kaduna штаты within one неделя, according various sources. deadliest атака occurred поздно на июнь 21 в Kawel community, Mus",
@@ -6453,58 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/05/20/christian-teacher-beheaded-after-school-attacks-in-nigeria/",
       "victims": 0
-    },
-    {
-      "date": "2026-05-20",
-      "lat": 9.2009,
-      "lng": 9.3756,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "attack",
-      "title": "Nigeria: фулани ополчения Kill 19 христиане в плато атаки",
-      "description": "Those ранен included женщины и дети between века 4 и 30 годы old. post Nigeria: фулани ополчения Kill 19 христиане в плато атаки appeared первый на ZENIT - English.",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/05/20/nigeria-fulani-militias-kill-19-christians-in-plateau-attacks/",
-      "victims": 19
-    },
-    {
-      "date": "2026-05-20",
-      "lat": 10.5234,
-      "lng": 7.4638,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "attack",
-      "title": "Bad news из Nigeria: школы raided, церкви сожжён",
-      "description": "Armed мужчины одновременно штурмован three школы— secondary школа и two primary школы—в Ahoro Esinele community Oriire район, Oyo штат, на пятница, май 16, seizing 39 students и seven teachers в what полиция described as coordinate",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/05/20/bad-news-from-nigeria-schools-raided-churches-burned/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-20",
-      "lat": 10.2662,
-      "lng": 7.2169,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "attack",
-      "title": "Nigeria: фулани ополчения Kill 19 христиане в плато атаки",
-      "description": "Those ранен included женщины и дети between века 4 и 30 годы old. post Nigeria: фулани ополчения Kill 19 христиане в плато атаки appeared первый на ZENIT - English.",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/05/20/nigeria-fulani-militias-kill-19-christians-in-plateau-attacks/",
-      "victims": 19
-    },
-    {
-      "date": "2026-05-20",
-      "lat": 11.7955,
-      "lng": 13.2499,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "attack",
-      "title": "Nigeria: фулани ополчения Kill 19 христиане в плато атаки",
-      "description": "Those ранен included женщины и дети between века 4 и 30 годы old. post Nigeria: фулани ополчения Kill 19 христиане в плато атаки appeared первый на ZENIT - English.",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/05/20/nigeria-fulani-militias-kill-19-christians-in-plateau-attacks/",
-      "victims": 19
     }
   ]
 }
