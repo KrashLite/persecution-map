@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-23T19:47:31.664Z",
+    "lastUpdated": "2026-06-24T01:56:44.550Z",
     "totalEvents": 500
   },
   "events": [
@@ -137,6 +137,45 @@
       "victims": 0
     },
     {
+      "date": "2026-06-23",
+      "lat": 6.5057,
+      "lng": 3.2264,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Первый memorial христиане убит в Nigeria unveiled",
+      "description": "Every год thousands are убит в Nigeria.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/first-memorial-to-christians-killed-in-nigeria-unveiled",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-23",
+      "lat": 34.9534,
+      "lng": 36.7971,
+      "country": "Syria",
+      "city": "Homs",
+      "type": "attack",
+      "title": "One год после St. Elias церковь взрыв, Syrian христиане find strength в вера",
+      "description": "Для many Syrian христиане, террорист атака became defining moment that shook community в way not seen since окончательный годы Ottoman Empire.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/one-year-after-st-elias-church-bombing-syrian-christians-find-strength-in-faith",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-23",
+      "lat": 33.9261,
+      "lng": 71.4847,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "murder",
+      "title": "Pakistani суд acquits blind Catholic мужчина в богохульство case",
+      "description": "Lahore суд cited insufficient evidence в clearing Nadeem Masih, blind Catholic who spent nearly 10 месяцы в тюрьма на богохульство обвинение carrying mandatory смерть penalty.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-court-acquits-blind-catholic-man-in-blasphemy-case",
+      "victims": 0
+    },
+    {
       "date": "2026-06-22",
       "lat": 11.8395,
       "lng": 8.3515,
@@ -246,6 +285,19 @@
       "lng": 13.1907,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "murder",
+      "title": "Мусульманин боевики Kill 31 христиане в атаки Across плато, Kaduna штаты",
+      "description": "Armed мусульманин Tribesmen убит least 31 люди в two separate нападения на rural христианские общины в плато и Kaduna штаты within one неделя, according various sources. deadliest атака occurred поздно на июнь 21 в Kawel community, Mus",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/22/muslim-gunmen-kill-31-christians-in-attacks-across-plateau-kaduna-states/",
+      "victims": 31
+    },
+    {
+      "date": "2026-06-22",
+      "lat": 9.0606,
+      "lng": 7.4326,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "murder",
       "title": "Мусульманин боевики Kill 31 христиане в атаки Across плато, Kaduna штаты",
       "description": "Armed мусульманин Tribesmen убит least 31 люди в two separate нападения на rural христианские общины в плато и Kaduna штаты within one неделя, according various sources. deadliest атака occurred поздно на июнь 21 в Kawel community, Mus",
@@ -441,6 +493,19 @@
       "lng": 8.3755,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "other",
+      "title": "Nigerian activists rally для преследуемый христиане near White House",
+      "description": "Save Nigeria Rally included speakers such as Alveda король, PhD, niece civil rights activist Martin Luther король Jr., along с представители из all six geopolitical zones Nigeria.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/nigerian-activists-rally-for-persecuted-christians-near-white-house",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-20",
+      "lat": 9.1358,
+      "lng": 7.5187,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "other",
       "title": "Nigerian activists rally для преследуемый христиане near White House",
       "description": "Save Nigeria Rally included speakers such as Alveda король, PhD, niece civil rights activist Martin Luther король Jr., along с представители из all six geopolitical zones Nigeria.",
@@ -836,6 +901,19 @@
       "description": "Chhattisgarh has allegedly запрещён домашние церкви promote \"cultural harmony\".",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/indian-christians-attacked-in-church-by-mob",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-19",
+      "lat": 35.5215,
+      "lng": 44.1517,
+      "country": "Iraq",
+      "city": "Kirkuk",
+      "type": "other",
+      "title": "Videos Show повреждение Historic Iraqi Assyrian церковь",
+      "description": "Videos circulating на social media на этой неделе appear show extensive повреждение inside Mar Kiryakos церковь в деревня Sharanish в Iraq’s Dohuk Governorate, prompting concern among Assyrians и other христиане fate one area’s",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/19/videos-show-damage-to-historic-iraqi-assyrian-church/",
       "victims": 0
     },
     {
@@ -6426,84 +6504,6 @@
       "description": "Епископ Samson Shukardin Hyderabad, президент Catholic епископы' Conference Pakistan, spoke Crux сейчас о причастие и fraternity among our брат епископы во время their ad limina visit Rome meet папа Leo XIV.",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-asia/2026/05/pakistan-bishop-tells-crux-now-meeting-with-pope-leo-was-fruitful/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-20",
-      "lat": 12.5931,
-      "lng": -8.2284,
-      "country": "Mali",
-      "city": "Bamako",
-      "type": "attack",
-      "title": "U.S. епископы publish letter solidarity с церковь в Mali following violent атаки",
-      "description": "United штаты Conference Catholic епископы has published letter solidarity с церковь в Mali expressing its condolences following several атаки в area.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/u-s-bishops-publish-letter-of-solidarity-with-church-in-mali-following-violent-attacks",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-20",
-      "lat": 4.2748,
-      "lng": 18.5694,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "other",
-      "title": "Catholic Relief Services strives curb Ebola crisis в Central Africa",
-      "description": "CRS is partnering с Caritas медицинские центры across seven Catholic dioceses, along с Democratic Republic Congo министерство Health и World Health Organization.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/catholic-relief-services-strives-to-curb-ebola-crisis-in-central-africa",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-20",
-      "lat": 12.1641,
-      "lng": 8.5292,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Христианский учитель обезглавлен после школа атаки в Nigeria",
-      "description": "Michael Oyedokun, христианин math teacher в Nigeria, was убит после being похищен во время coordinated атаки на школы в Oriire Local правительство Area Oyo штат. According local sources, armed мужчины штурмован three школы along Ahoro-Es",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/20/christian-teacher-beheaded-after-school-attacks-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-20",
-      "lat": 18.8493,
-      "lng": 72.8876,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "murder",
-      "title": "3 пасторы убит Returning из Peace Conference",
-      "description": "Three tribal церковь пасторы из Thadou Baptist Association (TBA) India were убит, и four others were ранен в armed засада на май 13 в Kangpokpi район Manipur. Roughly 10 armed мужчины used автоматическое оружие shoot two vehicles",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/20/3-pastors-killed-returning-from-peace-conference/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-20",
-      "lat": 9.0909,
-      "lng": 7.6198,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "attack",
-      "title": "Bad news из Nigeria: школы raided, церкви сожжён",
-      "description": "Armed мужчины одновременно штурмован three школы— secondary школа и two primary школы—в Ahoro Esinele community Oriire район, Oyo штат, на пятница, май 16, seizing 39 students и seven teachers в what полиция described as coordinate",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/05/20/bad-news-from-nigeria-schools-raided-churches-burned/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-20",
-      "lat": 6.3888,
-      "lng": 3.4529,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "attack",
-      "title": "Bad news из Nigeria: школы raided, церкви сожжён",
-      "description": "Armed мужчины одновременно штурмован three школы— secondary школа и two primary школы—в Ahoro Esinele community Oriire район, Oyo штат, на пятница, май 16, seizing 39 students и seven teachers в what полиция described as coordinate",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/05/20/bad-news-from-nigeria-schools-raided-churches-burned/",
       "victims": 0
     }
   ]
