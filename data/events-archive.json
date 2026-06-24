@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-24T08:50:31.422Z",
+    "lastUpdated": "2026-06-24T14:01:05.755Z",
     "totalEvents": 500
   },
   "events": [
@@ -189,6 +189,32 @@
       "victims": 0
     },
     {
+      "date": "2026-06-23",
+      "lat": 10.7371,
+      "lng": 7.6103,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Первый memorial христиане убит в Nigeria unveiled",
+      "description": "Every год thousands are убит в Nigeria.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/first-memorial-to-christians-killed-in-nigeria-unveiled",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-23",
+      "lat": 33.5914,
+      "lng": 72.8886,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "murder",
+      "title": "Pakistani суд acquits blind Catholic мужчина в богохульство case",
+      "description": "Lahore суд cited insufficient evidence в clearing Nadeem Masih, blind Catholic who spent nearly 10 месяцы в тюрьма на богохульство обвинение carrying mandatory смерть penalty.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-court-acquits-blind-catholic-man-in-blasphemy-case",
+      "victims": 0
+    },
+    {
       "date": "2026-06-22",
       "lat": 11.8395,
       "lng": 8.3515,
@@ -311,6 +337,19 @@
       "lng": 7.4326,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "murder",
+      "title": "Мусульманин боевики Kill 31 христиане в атаки Across плато, Kaduna штаты",
+      "description": "Armed мусульманин Tribesmen убит least 31 люди в two separate нападения на rural христианские общины в плато и Kaduna штаты within one неделя, according various sources. deadliest атака occurred поздно на июнь 21 в Kawel community, Mus",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/22/muslim-gunmen-kill-31-christians-in-attacks-across-plateau-kaduna-states/",
+      "victims": 31
+    },
+    {
+      "date": "2026-06-22",
+      "lat": 11.8742,
+      "lng": 8.6898,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "murder",
       "title": "Мусульманин боевики Kill 31 христиане в атаки Across плато, Kaduna штаты",
       "description": "Armed мусульманин Tribesmen убит least 31 люди в two separate нападения на rural христианские общины в плато и Kaduna штаты within one неделя, according various sources. deadliest атака occurred поздно на июнь 21 в Kawel community, Mus",
@@ -6465,45 +6504,6 @@
       "description": "Michael Oyedokun, христианин math teacher в Nigeria, was убит после being похищен во время coordinated атаки на школы в Oriire Local правительство Area Oyo штат. According local sources, armed мужчины штурмован three школы along Ahoro-Es",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/20/christian-teacher-beheaded-after-school-attacks-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-20",
-      "lat": 21.4088,
-      "lng": 81.9546,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "murder",
-      "title": "3 пасторы убит Returning из Peace Conference",
-      "description": "Three tribal церковь пасторы из Thadou Baptist Association (TBA) India were убит, и four others were ранен в armed засада на май 13 в Kangpokpi район Manipur. Roughly 10 armed мужчины used автоматическое оружие shoot two vehicles",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/20/3-pastors-killed-returning-from-peace-conference/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-20",
-      "lat": 12.2167,
-      "lng": 8.8281,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "attack",
-      "title": "Bad news из Nigeria: школы raided, церкви сожжён",
-      "description": "Armed мужчины одновременно штурмован three школы— secondary школа и two primary школы—в Ahoro Esinele community Oriire район, Oyo штат, на пятница, май 16, seizing 39 students и seven teachers в what полиция described as coordinate",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/05/20/bad-news-from-nigeria-schools-raided-churches-burned/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-20",
-      "lat": 33.541,
-      "lng": 72.8097,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "other",
-      "title": "Pakistan епископ tells Crux сейчас meeting с папа Leo was ‘fruitful’",
-      "description": "Епископ Samson Shukardin Hyderabad, президент Catholic епископы' Conference Pakistan, spoke Crux сейчас о причастие и fraternity among our брат епископы во время their ad limina visit Rome meet папа Leo XIV.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-asia/2026/05/pakistan-bishop-tells-crux-now-meeting-with-pope-leo-was-fruitful/",
       "victims": 0
     }
   ]
