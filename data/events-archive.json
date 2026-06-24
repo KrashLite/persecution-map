@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-24T01:56:44.550Z",
+    "lastUpdated": "2026-06-24T08:50:31.422Z",
     "totalEvents": 500
   },
   "events": [
@@ -173,6 +173,19 @@
       "description": "Lahore суд cited insufficient evidence в clearing Nadeem Masih, blind Catholic who spent nearly 10 месяцы в тюрьма на богохульство обвинение carrying mandatory смерть penalty.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-court-acquits-blind-catholic-man-in-blasphemy-case",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-23",
+      "lat": 12.05,
+      "lng": 8.6032,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Первый memorial христиане убит в Nigeria unveiled",
+      "description": "Every год thousands are убит в Nigeria.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/first-memorial-to-christians-killed-in-nigeria-unveiled",
       "victims": 0
     },
     {
@@ -914,6 +927,32 @@
       "description": "Videos circulating на social media на этой неделе appear show extensive повреждение inside Mar Kiryakos церковь в деревня Sharanish в Iraq’s Dohuk Governorate, prompting concern among Assyrians и other христиане fate one area’s",
       "source": "persecution",
       "url": "https://persecution.org/2026/06/19/videos-show-damage-to-historic-iraqi-assyrian-church/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-19",
+      "lat": 30.0694,
+      "lng": 31.2605,
+      "country": "Egypt",
+      "city": "Cairo",
+      "type": "arrest",
+      "title": "Egyptian христианин заключён для Social Media Posts",
+      "description": "На Jan. 3, Egyptian христианин Augustinos Samaan was приговорён five годы hard labor после he was осуждён “contempt религия” и “misuse social media.” Samaan has YouTube channel на which he posts apologetics videos comparing Chris",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/19/egyptian-christian-imprisoned-for-social-media-posts/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-19",
+      "lat": 10.5845,
+      "lng": 7.4509,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "kidnapping",
+      "title": "Appeals для release Nigerian христианин girl still held ИГИЛ после 8 годы",
+      "description": "Leah, who was 14 когда she was похищен, could have been released if she renounced her вера but she отказано.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/appeals-for-release-of-nigerian-christian-girl-still-held-by-isis-after-8-years",
       "victims": 0
     },
     {
@@ -6460,45 +6499,6 @@
       "lng": 72.8097,
       "country": "Pakistan",
       "city": "Islamabad",
-      "type": "other",
-      "title": "Pakistan епископ tells Crux сейчас meeting с папа Leo was ‘fruitful’",
-      "description": "Епископ Samson Shukardin Hyderabad, президент Catholic епископы' Conference Pakistan, spoke Crux сейчас о причастие и fraternity among our брат епископы во время their ad limina visit Rome meet папа Leo XIV.",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-asia/2026/05/pakistan-bishop-tells-crux-now-meeting-with-pope-leo-was-fruitful/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-20",
-      "lat": 6.5117,
-      "lng": 3.3179,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Христианский учитель обезглавлен после школа атаки в Nigeria",
-      "description": "Michael Oyedokun, христианин math teacher в Nigeria, was убит после being похищен во время coordinated атаки на школы в Oriire Local правительство Area Oyo штат. According local sources, armed мужчины штурмован three школы along Ahoro-Es",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/20/christian-teacher-beheaded-after-school-attacks-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-20",
-      "lat": 28.5313,
-      "lng": 77.1567,
-      "country": "India",
-      "city": "Delhi",
-      "type": "murder",
-      "title": "3 пасторы убит Returning из Peace Conference",
-      "description": "Three tribal церковь пасторы из Thadou Baptist Association (TBA) India were убит, и four others were ранен в armed засада на май 13 в Kangpokpi район Manipur. Roughly 10 armed мужчины used автоматическое оружие shoot two vehicles",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/20/3-pastors-killed-returning-from-peace-conference/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-20",
-      "lat": 33.893,
-      "lng": 71.3869,
-      "country": "Pakistan",
-      "city": "Peshawar",
       "type": "other",
       "title": "Pakistan епископ tells Crux сейчас meeting с папа Leo was ‘fruitful’",
       "description": "Епископ Samson Shukardin Hyderabad, президент Catholic епископы' Conference Pakistan, spoke Crux сейчас о причастие и fraternity among our брат епископы во время their ad limina visit Rome meet папа Leo XIV.",
