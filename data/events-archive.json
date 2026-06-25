@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-25T08:45:23.586Z",
+    "lastUpdated": "2026-06-25T13:57:45.408Z",
     "totalEvents": 500
   },
   "events": [
@@ -95,6 +95,19 @@
       "description": "Uyghur христианин пастор в China’s Xinjiang Uyghur Autonomous регион is facing possible закрытие his церковь и гонение his семья после власти imposed burdensome compliance requirements и intensified surveillance церковь",
       "source": "persecution",
       "url": "https://persecution.org/2026/06/24/uyghur-christian-pastor-faces-church-closure-amid-intensifying-pressure-in-xinjiang/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-24",
+      "lat": 31.5829,
+      "lng": 74.3115,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "murder",
+      "title": "Мусульманин в Pakistan Kills христианин Co-Worker",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – мусульманин в Pakistan убит христианин co-worker на понедельник (июнь 22) после telling him he could not drink water из cooler used other laborers, sources said. Local пастор и",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/muslim-in-pakistan-kills-christian-co-worker/",
       "victims": 0
     },
     {
@@ -329,6 +342,19 @@
       "description": "Для many Syrian христиане, террорист атака became defining moment that shook community в way not seen since окончательный годы Ottoman Empire.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/one-year-after-st-elias-church-bombing-syrian-christians-find-strength-in-faith",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-23",
+      "lat": 11.8489,
+      "lng": 13.0653,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "Первый memorial христиане убит в Nigeria unveiled",
+      "description": "Every год thousands are убит в Nigeria.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/first-memorial-to-christians-killed-in-nigeria-unveiled",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Епископ Samson Shukardin extended invitation во время papal audience as христианские активисты urged Vatican attention богохульство cases и вынужден обращения.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-bishops-invite-pope-leo-xiv-to-visit-citing-minority-concerns",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-21",
-      "lat": 31.2961,
-      "lng": 74.4729,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "murder",
-      "title": "Justice Delayed: 13-год Struggle Peshawar церковь Blast выжившие",
-      "description": "На Sept. 22, 2013, twin suicide blasts tore through All Saints церковь Kohati Gate в Peshawar, Pakistan, убийство nearly 100 люди и wounding more than 200 others. атака, claimed Tehrik-e-Талибан Pakistan as retaliation для American dro",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/21/justice-delayed-the-13-year-struggle-of-the-peshawar-church-blast-survivors/",
-      "victims": 100
-    },
-    {
-      "date": "2026-05-21",
-      "lat": 9.0153,
-      "lng": 7.6026,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "kidnapping",
-      "title": "Nigerian епископ appeals для молитвы для 'safe release' похищен teachers, students, дети",
-      "description": "После students, teachers и young дети were похищен в Nigeria's Oyo штат на май 15, епископ Emmanuel Adetoyese Badejo has urged Catholics pray для жертвы.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/nigerian-bishop-appeals-for-prayers-for-safe-release-of-abducted-teachers-students-children",
       "victims": 0
     }
   ]
