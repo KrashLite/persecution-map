@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-25T01:59:49.239Z",
+    "lastUpdated": "2026-06-25T08:45:23.586Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-06-25",
+      "lat": 10.4223,
+      "lng": 7.4714,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Штат полиция will protect преследуемый Nigerian христиане – US lawmaker",
+      "description": "US lawmaker welcomes Nigeria’s штат полиция bill, stating it will empower штаты protect преследуемый христиане и address insecurity effectively. Read More: https://punchng.com/штат-полиция-will-protect-преследуемый-nigerian-христиане-us-lawmak",
+      "source": "punchng",
+      "url": "https://punchng.com/state-police-will-protect-persecuted-nigerian-christians-us-lawmaker/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-06-24",
       "lat": 33.5903,
@@ -69,6 +82,19 @@
       "description": "Вице-президентial candidate Nigeria Democratic конгресс, NDC и former губернатор Kano штат, Senator Rabiu Musa Kwankwaso, has угрожали legal action against Primate Babatunde Elijah Ayodele INRI Evangelical Spiritual церковь, de",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/06/kwankwaso-threatens-n10bn-lawsuit-against-primate-ayodele-over-alleged-defamatory-remarks/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-24",
+      "lat": 40.0427,
+      "lng": 116.4484,
+      "country": "China",
+      "city": "Beijing",
+      "type": "other",
+      "title": "Uyghur христианин пастор Faces церковь закрытие Amid Intensifying Pressure в Xinjiang",
+      "description": "Uyghur христианин пастор в China’s Xinjiang Uyghur Autonomous регион is facing possible закрытие his церковь и гонение his семья после власти imposed burdensome compliance requirements и intensified surveillance церковь",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/24/uyghur-christian-pastor-faces-church-closure-amid-intensifying-pressure-in-xinjiang/",
       "victims": 0
     },
     {
@@ -6479,32 +6505,6 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/nigerian-bishop-appeals-for-prayers-for-safe-release-of-abducted-teachers-students-children",
       "victims": 0
-    },
-    {
-      "date": "2026-05-21",
-      "lat": 33.5027,
-      "lng": 73.1129,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "other",
-      "title": "Pakistani епископы invite папа Leo XIV visit, citing minority concerns",
-      "description": "Епископ Samson Shukardin extended invitation во время papal audience as христианские активисты urged Vatican attention богохульство cases и вынужден обращения.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-bishops-invite-pope-leo-xiv-to-visit-citing-minority-concerns",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-21",
-      "lat": 33.8498,
-      "lng": 71.5367,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "murder",
-      "title": "Justice Delayed: 13-год Struggle Peshawar церковь Blast выжившие",
-      "description": "На Sept. 22, 2013, twin suicide blasts tore through All Saints церковь Kohati Gate в Peshawar, Pakistan, убийство nearly 100 люди и wounding more than 200 others. атака, claimed Tehrik-e-Талибан Pakistan as retaliation для American dro",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/21/justice-delayed-the-13-year-struggle-of-the-peshawar-church-blast-survivors/",
-      "victims": 100
     }
   ]
 }
