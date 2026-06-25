@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-24T19:24:05.875Z",
+    "lastUpdated": "2026-06-25T01:59:49.239Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,45 @@
       "description": "Amid economic collapse, widespread hunger, и frequent outbreaks violence, Yemen is not easy place для anyone live these дни. Much country is beyond правительство’s control, и most population inhabits areas occupied Hou",
       "source": "persecution",
       "url": "https://persecution.org/2026/06/24/no-going-back-living-openly-as-a-christian-convert-from-yemen/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-24",
+      "lat": 43.9563,
+      "lng": 87.4374,
+      "country": "China",
+      "city": "Xinjiang",
+      "type": "other",
+      "title": "Uyghur христианин пастор Faces церковь закрытие Amid Intensifying Pressure в Xinjiang",
+      "description": "Uyghur христианин пастор в China’s Xinjiang Uyghur Autonomous регион is facing possible закрытие his церковь и гонение his семья после власти imposed burdensome compliance requirements и intensified surveillance церковь",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/24/uyghur-christian-pastor-faces-church-closure-amid-intensifying-pressure-in-xinjiang/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-24",
+      "lat": 24.8854,
+      "lng": 66.9822,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "murder",
+      "title": "Мусульманин в Pakistan Kills христианин Co-Worker",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – мусульманин в Pakistan убит христианин co-worker на понедельник (июнь 22) после telling him he could not drink water из cooler used other laborers, sources said. Local пастор и",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/muslim-in-pakistan-kills-christian-co-worker/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-24",
+      "lat": 9.233,
+      "lng": 9.4266,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Kwankwaso threatens N10bn lawsuit against Primate Ayodele alleged defamatory remarks",
+      "description": "Вице-президентial candidate Nigeria Democratic конгресс, NDC и former губернатор Kano штат, Senator Rabiu Musa Kwankwaso, has угрожали legal action against Primate Babatunde Elijah Ayodele INRI Evangelical Spiritual церковь, de",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/06/kwankwaso-threatens-n10bn-lawsuit-against-primate-ayodele-over-alleged-defamatory-remarks/",
       "victims": 0
     },
     {
@@ -254,6 +293,19 @@
       "victims": 0
     },
     {
+      "date": "2026-06-23",
+      "lat": 33.7499,
+      "lng": 36.4383,
+      "country": "Syria",
+      "city": "Damascus",
+      "type": "attack",
+      "title": "One год после St. Elias церковь взрыв, Syrian христиане find strength в вера",
+      "description": "Для many Syrian христиане, террорист атака became defining moment that shook community в way not seen since окончательный годы Ottoman Empire.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/one-year-after-st-elias-church-bombing-syrian-christians-find-strength-in-faith",
+      "victims": 0
+    },
+    {
       "date": "2026-06-22",
       "lat": 11.8395,
       "lng": 8.3515,
@@ -402,6 +454,19 @@
       "lng": 7.3403,
       "country": "Nigeria",
       "city": "Kaduna",
+      "type": "murder",
+      "title": "Фулани террористы Kill more than 20 христиане в Central Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани в рано hours понедельник (июнь 22) убит more than 20 христиане в атака в плато штат, Nigeria, sources said. assailants raided predominantly Christi",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/fulani-terrorists-kill-more-than-20-christians-in-central-nigeria/",
+      "victims": 20
+    },
+    {
+      "date": "2026-06-22",
+      "lat": 8.9604,
+      "lng": 7.5952,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "murder",
       "title": "Фулани террористы Kill more than 20 христиане в Central Nigeria",
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани в рано hours понедельник (июнь 22) убит more than 20 христиане в атака в плато штат, Nigeria, sources said. assailants raided predominantly Christi",
@@ -6440,71 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/05/21/justice-delayed-the-13-year-struggle-of-the-peshawar-church-blast-survivors/",
       "victims": 100
-    },
-    {
-      "date": "2026-05-21",
-      "lat": 11.8719,
-      "lng": 8.6878,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "kidnapping",
-      "title": "Nigerian епископ appeals для молитвы для 'safe release' похищен teachers, students, дети",
-      "description": "После students, teachers и young дети were похищен в Nigeria's Oyo штат на май 15, епископ Emmanuel Adetoyese Badejo has urged Catholics pray для жертвы.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/nigerian-bishop-appeals-for-prayers-for-safe-release-of-abducted-teachers-students-children",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-21",
-      "lat": 34.1551,
-      "lng": 71.3433,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "other",
-      "title": "Pakistani епископы invite папа Leo XIV visit, citing minority concerns",
-      "description": "Епископ Samson Shukardin extended invitation во время papal audience as христианские активисты urged Vatican attention богохульство cases и вынужден обращения.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-bishops-invite-pope-leo-xiv-to-visit-citing-minority-concerns",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-21",
-      "lat": 33.5701,
-      "lng": 73.0377,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "murder",
-      "title": "Justice Delayed: 13-год Struggle Peshawar церковь Blast выжившие",
-      "description": "На Sept. 22, 2013, twin suicide blasts tore through All Saints церковь Kohati Gate в Peshawar, Pakistan, убийство nearly 100 люди и wounding more than 200 others. атака, claimed Tehrik-e-Талибан Pakistan as retaliation для American dro",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/21/justice-delayed-the-13-year-struggle-of-the-peshawar-church-blast-survivors/",
-      "victims": 100
-    },
-    {
-      "date": "2026-05-20",
-      "lat": -4.6311,
-      "lng": 15.4509,
-      "country": "Democratic Republic of the Congo",
-      "city": "Kinshasa",
-      "type": "murder",
-      "title": "Христиане call для ceasefire amid DRC's Ebola crisis",
-      "description": "So far 131 люди have been убит outbreak.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christians-call-for-ceasefire-amid-drc-s-ebola-crisis",
-      "victims": 131
-    },
-    {
-      "date": "2026-05-20",
-      "lat": 9.2852,
-      "lng": 9.6873,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "attack",
-      "title": "Bad news из Nigeria: школы raided, церкви сожжён",
-      "description": "Armed мужчины одновременно штурмован three школы— secondary школа и two primary школы—в Ahoro Esinele community Oriire район, Oyo штат, на пятница, май 16, seizing 39 students и seven teachers в what полиция described as coordinate",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/05/20/bad-news-from-nigeria-schools-raided-churches-burned/",
-      "victims": 0
     }
   ]
 }
