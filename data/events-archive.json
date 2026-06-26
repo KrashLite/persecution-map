@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-26T13:55:49.345Z",
+    "lastUpdated": "2026-06-26T19:26:23.605Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,45 @@
       "description": "They struck forty seconds apart на national праздник (St. John Baptist). первый earthquake, magnitude 7.2, hit 6:04 p.m. на июнь 24 near San Felipe, в northwestern Venezuela. Thirty-nine seconds позже, 7.5 magnitude quake— largest",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/06/26/the-church-opens-its-doors-as-venezuela-counts-its-dead/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-26",
+      "lat": -1.3911,
+      "lng": 36.6621,
+      "country": "Kenya",
+      "city": "Nairobi",
+      "type": "attack",
+      "title": "Христианин атакован для Evangelistic Outreach в Uganda",
+      "description": "NAIROBI, Kenya (утро Star News) – христианин атакован после he и his wife participated в evangelistic outreach в eastern Uganda на июнь 14 is still receiving medical treatment для his ранения, sources said. David Musobya, 37, had traveled",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/christian-attacked-for-evangelistic-outreach-in-uganda/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-26",
+      "lat": 21.3123,
+      "lng": 81.9007,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Христианские семьи Hospitalized после Severe нападение в India",
+      "description": "NEW DELHI (утро Star News) – Nine tribal люди в India have been released на залог после they sent 13 христиане больница с severe ранения, sources said. followers traditional tribal религия were released на залог на июнь 15. Th",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/christian-families-hospitalized-after-severe-assault-in-india/",
+      "victims": 13
+    },
+    {
+      "date": "2026-06-26",
+      "lat": 19.2043,
+      "lng": 72.8612,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "other",
+      "title": "Indian правительство tightens foreign donations law amid церковь protest plans",
+      "description": "Federal правительство has imposed stricter rules под India's foreign-donations law just дни до Catholic епископы convene nationwide день молитва related bill.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/india-tightens-foreign-funding-law-as-catholic-church-plans-day-of-prayer",
       "victims": 0
     },
     {
@@ -147,6 +186,32 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan has acquitted blind Catholic who spent 10 месяцы в тюрьма на богохульство обвинение carrying mandatory смертный приговор, ruling that прокуроры failed present",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/06/blind-christian-in-pakistan-acquitted-of-blasphemy/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-25",
+      "lat": 6.7366,
+      "lng": 3.2067,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Фулани террористы Kill 28 христиане в Central Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани guided toward христианские лидеры на понедельник (июнь 22) убит 28 христиане, including пастор, в рейд на деревня в плато штат, Nigeria, sources said. Fulan",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/fulani-terrorists-kill-28-christians-in-central-nigeria/",
+      "victims": 28
+    },
+    {
+      "date": "2026-06-25",
+      "lat": 24.7759,
+      "lng": 67.0881,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "other",
+      "title": "Business богохульство: Accusations для Profit в Pakistan",
+      "description": "No demographic в Pakistan is safe из для-profit богохульство accusations. But религиозный minorities — христиане, индусы, и certain секты within ислам deemed heretical — are increased risk post Business богохульство: Accusations для Profi",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/06/25/the-business-of-blasphemy-accusations-for-profit-in-pakistan/",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "Six христиане were недавно арестован в China и are being accused fraud и “organizing activities несовершеннолетние that undermine public order.” Several sources spoke с ChinaAid, confirming that чиновники арестован five мужчины — Wei Yongqiang, He",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/22/six-christians-arrested-in-china/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-22",
-      "lat": 23.1907,
-      "lng": 113.5757,
-      "country": "China",
-      "city": "Guangdong",
-      "type": "arrest",
-      "title": "Six христиане арестован в China",
-      "description": "Six христиане were недавно арестован в China и are being accused fraud и “organizing activities несовершеннолетние that undermine public order.” Several sources spoke с ChinaAid, confirming that чиновники арестован five мужчины — Wei Yongqiang, He",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/22/six-christians-arrested-in-china/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-22",
-      "lat": 31.6125,
-      "lng": 74.3292,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "arrest",
-      "title": "Pakistan Fails Make аресты в Violence against христиане",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – полиция в Pakistan have failed comply с Supreme суд orders арест all suspects involved в август 2023 атаки на multiple церкви и христианин homes в Jaranwala,",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/05/pakistan-fails-to-make-arrests-in-violence-against-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-22",
-      "lat": 33.8383,
-      "lng": 71.5166,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "arrest",
-      "title": "Pakistan Fails Make аресты в Violence against христиане",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – полиция в Pakistan have failed comply с Supreme суд orders арест all suspects involved в август 2023 атаки на multiple церкви и христианин homes в Jaranwala,",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/05/pakistan-fails-to-make-arrests-in-violence-against-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-22",
-      "lat": 24.9338,
-      "lng": 66.8568,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "arrest",
-      "title": "Pakistan Fails Make аресты в Violence against христиане",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – полиция в Pakistan have failed comply с Supreme суд orders арест all suspects involved в август 2023 атаки на multiple церкви и христианин homes в Jaranwala,",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/05/pakistan-fails-to-make-arrests-in-violence-against-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-22",
-      "lat": 33.4952,
-      "lng": 73.086,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "arrest",
-      "title": "Pakistan Fails Make аресты в Violence against христиане",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – полиция в Pakistan have failed comply с Supreme суд orders арест all suspects involved в август 2023 атаки на multiple церкви и христианин homes в Jaranwala,",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/05/pakistan-fails-to-make-arrests-in-violence-against-christians/",
       "victims": 0
     }
   ]
