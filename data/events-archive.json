@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-26T02:01:25.224Z",
+    "lastUpdated": "2026-06-26T08:47:15.487Z",
     "totalEvents": 500
   },
   "events": [
@@ -109,6 +109,19 @@
       "source": "zenit",
       "url": "https://zenit.org/2026/06/25/cuban-and-panamanian-nuns-save-cuba-from-literally-being-left-without-mass-due-to-a-shortage-of-hosts-for-consecration/",
       "victims": 0
+    },
+    {
+      "date": "2026-06-25",
+      "lat": 11.8778,
+      "lng": 13.1612,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "Фулани террористы Kill 28 христиане в Central Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани guided toward христианские лидеры на понедельник (июнь 22) убит 28 христиане, including пастор, в рейд на деревня в плато штат, Nigeria, sources said. Fulan",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/fulani-terrorists-kill-28-christians-in-central-nigeria/",
+      "victims": 28
     },
     {
       "date": "2026-06-24",
@@ -6491,19 +6504,6 @@
       "description": "Officially, обращение из ислам carries смерть penalty.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/despite-minor-improvements-saudi-arabia-remains-a-tough-place-for-christians",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-21",
-      "lat": 10.686,
-      "lng": 7.3018,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "kidnapping",
-      "title": "Nigerian епископ appeals для молитвы для 'safe release' похищен teachers, students, дети",
-      "description": "После students, teachers и young дети were похищен в Nigeria's Oyo штат на май 15, епископ Emmanuel Adetoyese Badejo has urged Catholics pray для жертвы.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/nigerian-bishop-appeals-for-prayers-for-safe-release-of-abducted-teachers-students-children",
       "victims": 0
     }
   ]
