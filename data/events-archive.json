@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-26T08:47:15.487Z",
+    "lastUpdated": "2026-06-26T13:55:49.345Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-06-26",
+      "lat": 10.3284,
+      "lng": -66.7196,
+      "country": "Venezuela",
+      "city": "Caracas",
+      "type": "murder",
+      "title": "Церковь opens its doors as Venezuela counts its погибшие",
+      "description": "They struck forty seconds apart на national праздник (St. John Baptist). первый earthquake, magnitude 7.2, hit 6:04 p.m. на июнь 24 near San Felipe, в northwestern Venezuela. Thirty-nine seconds позже, 7.5 magnitude quake— largest",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/06/26/the-church-opens-its-doors-as-venezuela-counts-its-dead/",
+      "victims": 0
+    },
     {
       "date": "2026-06-25",
       "lat": 10.4223,
@@ -122,6 +135,19 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/06/fulani-terrorists-kill-28-christians-in-central-nigeria/",
       "victims": 28
+    },
+    {
+      "date": "2026-06-25",
+      "lat": 31.3115,
+      "lng": 74.5937,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "murder",
+      "title": "Blind христианин в Pakistan Acquitted богохульство",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan has acquitted blind Catholic who spent 10 месяцы в тюрьма на богохульство обвинение carrying mandatory смертный приговор, ruling that прокуроры failed present",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/blind-christian-in-pakistan-acquitted-of-blasphemy/",
+      "victims": 0
     },
     {
       "date": "2026-06-24",
@@ -6478,32 +6504,6 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – полиция в Pakistan have failed comply с Supreme суд orders арест all suspects involved в август 2023 атаки на multiple церкви и христианин homes в Jaranwala,",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/05/pakistan-fails-to-make-arrests-in-violence-against-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-21",
-      "lat": 4.347,
-      "lng": 18.4025,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "arrest",
-      "title": "Calls free Nicaraguan Protestant пастор unjustly заключён для four годы",
-      "description": "Христианин rights organisation has intensified calls для release заключён Nicaraguan пастор Efrén Antonio Vílchez López",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/calls-to-free-nicaraguan-protestant-pastor-unjustly-imprisoned-for-four-years",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-21",
-      "lat": 4.3566,
-      "lng": 18.5005,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "murder",
-      "title": "Despite несовершеннолетний improvements, Saudi Arabia remains tough place для христиане",
-      "description": "Officially, обращение из ислам carries смерть penalty.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/despite-minor-improvements-saudi-arabia-remains-a-tough-place-for-christians",
       "victims": 0
     }
   ]
