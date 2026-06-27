@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-27T01:55:22.204Z",
+    "lastUpdated": "2026-06-27T08:23:29.681Z",
     "totalEvents": 500
   },
   "events": [
@@ -12,6 +12,19 @@
       "lng": 9.625,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "other",
+      "title": "BSN earmarks N1.07bn для Библия translation",
+      "description": "Библия Society Nigeria proposes N1.07bn для 2027 expand Библия translation и outreach, including N216.6m для Nigerian languages и sign language Read More: https://punchng.com/bsn-earmarks-n1-07bn-для-Библия-translation/",
+      "source": "punchng",
+      "url": "https://punchng.com/bsn-earmarks-n1-07bn-for-bible-translation/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-27",
+      "lat": 9.0205,
+      "lng": 7.6835,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "other",
       "title": "BSN earmarks N1.07bn для Библия translation",
       "description": "Библия Society Nigeria proposes N1.07bn для 2027 expand Библия translation и outreach, including N216.6m для Nigerian languages и sign language Read More: https://punchng.com/bsn-earmarks-n1-07bn-для-Библия-translation/",
@@ -83,6 +96,45 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/06/christian-families-hospitalized-after-severe-assault-in-india/",
       "victims": 13
+    },
+    {
+      "date": "2026-06-26",
+      "lat": -4.094,
+      "lng": 39.6078,
+      "country": "Kenya",
+      "city": "Mombasa",
+      "type": "attack",
+      "title": "Христианин атакован для Evangelistic Outreach в Uganda",
+      "description": "NAIROBI, Kenya (утро Star News) – христианин атакован после he и his wife participated в evangelistic outreach в eastern Uganda на июнь 14 is still receiving medical treatment для his ранения, sources said. David Musobya, 37, had traveled",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/christian-attacked-for-evangelistic-outreach-in-uganda/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-26",
+      "lat": 20.9157,
+      "lng": 84.8944,
+      "country": "India",
+      "city": "Odisha",
+      "type": "other",
+      "title": "Христианские семьи Hospitalized после Severe нападение в India",
+      "description": "NEW DELHI (утро Star News) – Nine tribal люди в India have been released на залог после they sent 13 христиане больница с severe ранения, sources said. followers traditional tribal религия were released на залог на июнь 15. Th",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/christian-families-hospitalized-after-severe-assault-in-india/",
+      "victims": 13
+    },
+    {
+      "date": "2026-06-26",
+      "lat": 26.6213,
+      "lng": 80.8168,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "other",
+      "title": "Indian правительство tightens foreign donations law amid церковь protest plans",
+      "description": "Federal правительство has imposed stricter rules под India's foreign-donations law just дни до Catholic епископы convene nationwide день молитва related bill.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/india-tightens-foreign-funding-law-as-catholic-church-plans-day-of-prayer",
+      "victims": 0
     },
     {
       "date": "2026-06-25",
@@ -6452,58 +6504,6 @@
       "description": "Construction исламский богослужение centers funded Turkey, Qatar, и Iran has been welcomed Western политики eager суд мусульманин immigrant vote. This general view taken на апрель 6, 2021, shows construction site Eyyub султан Mos",
       "source": "newsapi:Freerepublic.com",
       "url": "https://freerepublic.com/focus/f-chat/4380631/posts",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-23",
-      "lat": 36.1589,
-      "lng": 59.384,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Мусульманин Countries Build мечети в West пока Persecuting христиане Home",
-      "description": "Construction исламский богослужение centers funded Turkey, Qatar, и Iran has been welcomed Western политики eager суд мусульманин immigrant vote. This general view taken на апрель 6, 2021, shows construction site Eyyub султан Mos",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-chat/4380631/posts",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-22",
-      "lat": 9.1243,
-      "lng": 9.3771,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Ighodalo, PUNCH chair, others защитник service-driven leadership для молодёжь",
-      "description": "Пастор Ituah Ighodalo и PUNCH Chairman Angela Emuwa urge Nigerian молодёжь embrace service-driven leadership, integrity, и discipline для national dev Read More: https://punchng.com/ighodalo-punch-chair-others-защитник-service-driven-leadership",
-      "source": "punchng",
-      "url": "https://punchng.com/ighodalo-punch-chair-others-advocate-service-driven-leadership-for-youths/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-22",
-      "lat": 12.6747,
-      "lng": -7.9266,
-      "country": "Mali",
-      "city": "Bamako",
-      "type": "murder",
-      "title": "U.S. епископы stand с Mali после terror атаки",
-      "description": "As Mali reels из one deadliest waves violence в its recent history, католическая церковь в United штаты has reached across continents offer comfort и solidarity her сестра церковь в West Africa. епископ. Elias Zaidan",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/05/22/u-s-bishops-stand-with-mali-after-terror-attacks/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-22",
-      "lat": 43.5473,
-      "lng": 87.6932,
-      "country": "China",
-      "city": "Xinjiang",
-      "type": "arrest",
-      "title": "Six христиане арестован в China",
-      "description": "Six христиане were недавно арестован в China и are being accused fraud и “organizing activities несовершеннолетние that undermine public order.” Several sources spoke с ChinaAid, confirming that чиновники арестован five мужчины — Wei Yongqiang, He",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/22/six-christians-arrested-in-china/",
       "victims": 0
     }
   ]
