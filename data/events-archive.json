@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-27T13:03:54.971Z",
+    "lastUpdated": "2026-06-27T18:59:59.588Z",
     "totalEvents": 500
   },
   "events": [
@@ -70,6 +70,19 @@
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/06/we-hit-terrorists-hard-to-save-christians-in-nigeria-trump/",
       "victims": 0
+    },
+    {
+      "date": "2026-06-27",
+      "lat": 11.629,
+      "lng": 13.0909,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "Фулани террористы kill 28 христиане в central Nigeria",
+      "description": "Пастухи фулани guided toward христианские лидеры на понедельник убит 28 христиане, including пастор, в рейд на деревня в плато штат, Nigeria, sources said.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/fulani-terrorists-kill-28-christians-in-central-nigeria",
+      "victims": 28
     },
     {
       "date": "2026-06-26",
@@ -200,6 +213,19 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/india-tightens-foreign-funding-law-as-catholic-church-plans-day-of-prayer",
       "victims": 0
+    },
+    {
+      "date": "2026-06-26",
+      "lat": 28.9068,
+      "lng": 77.3468,
+      "country": "India",
+      "city": "Delhi",
+      "type": "other",
+      "title": "Христианские семьи Hospitalized после Severe нападение в India",
+      "description": "NEW DELHI (утро Star News) – Nine tribal люди в India have been released на залог после they sent 13 христиане больница с severe ранения, sources said. followers traditional tribal религия were released на залог на июнь 15. Th",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/christian-families-hospitalized-after-severe-assault-in-india/",
+      "victims": 13
     },
     {
       "date": "2026-06-25",
@@ -384,6 +410,19 @@
       "victims": 28
     },
     {
+      "date": "2026-06-25",
+      "lat": 33.9095,
+      "lng": 73.0594,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "other",
+      "title": "Business богохульство: Accusations для Profit в Pakistan",
+      "description": "No demographic в Pakistan is safe из для-profit богохульство accusations. But религиозный minorities — христиане, индусы, и certain секты within ислам deemed heretical — are increased risk post Business богохульство: Accusations для Profi",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/06/25/the-business-of-blasphemy-accusations-for-profit-in-pakistan/",
+      "victims": 0
+    },
+    {
       "date": "2026-06-24",
       "lat": 33.5903,
       "lng": 73.2472,
@@ -498,6 +537,19 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – мусульманин в Pakistan убит христианин co-worker на понедельник (июнь 22) после telling him he could not drink water из cooler used other laborers, sources said. Local пастор и",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/06/muslim-in-pakistan-kills-christian-co-worker/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-24",
+      "lat": 31.3229,
+      "lng": 121.3924,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "other",
+      "title": "Uyghur христианин пастор Faces церковь закрытие Amid Intensifying Pressure в Xinjiang",
+      "description": "Uyghur христианин пастор в China’s Xinjiang Uyghur Autonomous регион is facing possible закрытие his церковь и гонение his семья после власти imposed burdensome compliance requirements и intensified surveillance церковь",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/24/uyghur-christian-pastor-faces-church-closure-amid-intensifying-pressure-in-xinjiang/",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "Пока Catholics are slim minority в China, they certainly do exist и are not always well respected. It’s not easy professing your вера в land where nearly everyone you know is different вера system и who май not understand your choi",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/05/24/why-may-24-is-a-day-to-pray-for-catholics-in-china/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-23",
-      "lat": 21.2535,
-      "lng": 81.7028,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "murder",
-      "title": "Three Baptist пасторы убит в Manipur засада после peace conference",
-      "description": "Жертвы were senior leaders Thadou Baptist Association India (TBAI), Baptist деноминация rooted в Thadou-Kuki community Manipur.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/three-baptist-pastors-killed-in-manipur-ambush-after-peace-conference",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-23",
-      "lat": 23.5787,
-      "lng": 90.2202,
-      "country": "Bangladesh",
-      "city": "Dhaka",
-      "type": "murder",
-      "title": "Hundreds Catholic leaders protest Israel смерть penalty law",
-      "description": "Catholic leaders protest new law в Israel expanding смертная казнь для Palestinians, Bangladesh запреты finding out sex дети в womb, и more в на этой неделе’s world news roundup.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/hundreds-of-catholic-leaders-protest-israel-death-penalty-law",
-      "victims": 150
-    },
-    {
-      "date": "2026-05-23",
-      "lat": -4.2394,
-      "lng": 15.4964,
-      "country": "Democratic Republic of the Congo",
-      "city": "Kinshasa",
-      "type": "murder",
-      "title": "Христианин aid organisations mobilise emergency Ebola response в Democratic Republic Congo",
-      "description": "Христианин aid organisations are mobilising emergency health responses в Democratic Republic Congo (DRC) following deadly Ebola outbreak в country’s north-east that has prompted international concern.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christian-aid-organisations-mobilise-emergency-ebola-response-in-democratic-republic-of-congo",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-23",
-      "lat": 18.9861,
-      "lng": 73.113,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "murder",
-      "title": "Three Baptist пасторы убит в Manipur засада после peace conference",
-      "description": "Жертвы were senior leaders Thadou Baptist Association India (TBAI), Baptist деноминация rooted в Thadou-Kuki community Manipur.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/three-baptist-pastors-killed-in-manipur-ambush-after-peace-conference",
       "victims": 0
     }
   ]
