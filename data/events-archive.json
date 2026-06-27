@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-26T19:26:23.605Z",
+    "lastUpdated": "2026-06-27T01:55:22.204Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-06-27",
+      "lat": 9.4663,
+      "lng": 9.625,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "BSN earmarks N1.07bn для Библия translation",
+      "description": "Библия Society Nigeria proposes N1.07bn для 2027 expand Библия translation и outreach, including N216.6m для Nigerian languages и sign language Read More: https://punchng.com/bsn-earmarks-n1-07bn-для-Библия-translation/",
+      "source": "punchng",
+      "url": "https://punchng.com/bsn-earmarks-n1-07bn-for-bible-translation/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-06-26",
       "lat": 10.3284,
@@ -57,6 +70,19 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/india-tightens-foreign-funding-law-as-catholic-church-plans-day-of-prayer",
       "victims": 0
+    },
+    {
+      "date": "2026-06-26",
+      "lat": 26.8224,
+      "lng": 81.0211,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "other",
+      "title": "Христианские семьи Hospitalized после Severe нападение в India",
+      "description": "NEW DELHI (утро Star News) – Nine tribal люди в India have been released на залог после they sent 13 христиане больница с severe ранения, sources said. followers traditional tribal религия were released на залог на июнь 15. Th",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/christian-families-hospitalized-after-severe-assault-in-india/",
+      "victims": 13
     },
     {
       "date": "2026-06-25",
@@ -213,6 +239,19 @@
       "source": "zenit",
       "url": "https://zenit.org/2026/06/25/the-business-of-blasphemy-accusations-for-profit-in-pakistan/",
       "victims": 0
+    },
+    {
+      "date": "2026-06-25",
+      "lat": 10.3486,
+      "lng": 7.3736,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Фулани террористы Kill 28 христиане в Central Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани guided toward христианские лидеры на понедельник (июнь 22) убит 28 христиане, including пастор, в рейд на деревня в плато штат, Nigeria, sources said. Fulan",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/fulani-terrorists-kill-28-christians-in-central-nigeria/",
+      "victims": 28
     },
     {
       "date": "2026-06-24",
@@ -6460,45 +6499,6 @@
       "lng": 87.6932,
       "country": "China",
       "city": "Xinjiang",
-      "type": "arrest",
-      "title": "Six христиане арестован в China",
-      "description": "Six христиане were недавно арестован в China и are being accused fraud и “organizing activities несовершеннолетние that undermine public order.” Several sources spoke с ChinaAid, confirming that чиновники арестован five мужчины — Wei Yongqiang, He",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/22/six-christians-arrested-in-china/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-22",
-      "lat": 4.3376,
-      "lng": 18.3663,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "arrest",
-      "title": "Czech кардинал reflects на martyrs под коммунизм ahead священник beatifications",
-      "description": "Two священники were заключён и казнён Czechoslovak коммунист regime because its hatred Catholic вера, according Dicastery для Causes Saints.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/vatican/czech-cardinal-martyrs-under-communism",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-22",
-      "lat": 39.7641,
-      "lng": 116.587,
-      "country": "China",
-      "city": "Beijing",
-      "type": "arrest",
-      "title": "Six христиане арестован в China",
-      "description": "Six христиане were недавно арестован в China и are being accused fraud и “organizing activities несовершеннолетние that undermine public order.” Several sources spoke с ChinaAid, confirming that чиновники арестован five мужчины — Wei Yongqiang, He",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/22/six-christians-arrested-in-china/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-22",
-      "lat": 31.0781,
-      "lng": 121.3411,
-      "country": "China",
-      "city": "Shanghai",
       "type": "arrest",
       "title": "Six христиане арестован в China",
       "description": "Six христиане were недавно арестован в China и are being accused fraud и “organizing activities несовершеннолетние that undermine public order.” Several sources spoke с ChinaAid, confirming that чиновники арестован five мужчины — Wei Yongqiang, He",
