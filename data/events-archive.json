@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-27T18:59:59.588Z",
+    "lastUpdated": "2026-06-28T02:05:47.109Z",
     "totalEvents": 500
   },
   "events": [
@@ -77,6 +77,19 @@
       "lng": 13.0909,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "murder",
+      "title": "Фулани террористы kill 28 христиане в central Nigeria",
+      "description": "Пастухи фулани guided toward христианские лидеры на понедельник убит 28 христиане, including пастор, в рейд на деревня в плато штат, Nigeria, sources said.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/fulani-terrorists-kill-28-christians-in-central-nigeria",
+      "victims": 28
+    },
+    {
+      "date": "2026-06-27",
+      "lat": 11.7643,
+      "lng": 8.388,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "murder",
       "title": "Фулани террористы kill 28 христиане в central Nigeria",
       "description": "Пастухи фулани guided toward христианские лидеры на понедельник убит 28 христиане, including пастор, в рейд на деревня в плато штат, Nigeria, sources said.",
@@ -6486,19 +6499,6 @@
       "lng": 121.4132,
       "country": "China",
       "city": "Shanghai",
-      "type": "other",
-      "title": "Why май 24 is день pray для Catholics в China",
-      "description": "Пока Catholics are slim minority в China, they certainly do exist и are not always well respected. It’s not easy professing your вера в land where nearly everyone you know is different вера system и who май not understand your choi",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/05/24/why-may-24-is-a-day-to-pray-for-catholics-in-china/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-24",
-      "lat": 23.3372,
-      "lng": 113.7216,
-      "country": "China",
-      "city": "Guangdong",
       "type": "other",
       "title": "Why май 24 is день pray для Catholics в China",
       "description": "Пока Catholics are slim minority в China, they certainly do exist и are not always well respected. It’s not easy professing your вера в land where nearly everyone you know is different вера system и who май not understand your choi",
