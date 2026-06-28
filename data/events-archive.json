@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-28T13:09:07.177Z",
+    "lastUpdated": "2026-06-28T18:59:25.468Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,19 @@
       "description": "Последний понедельник, июнь 22, 2026, Catholic епископы Conference Philippines (CBCP) released pastoral statement announcing четвёртый White Ribbon март, which was held this воскресенье, июнь 28, EDSA святыня. епископы’ statement highlights t",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/06/28/philippine-bishops-a-just-society-begins-with-the-eucharist/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-28",
+      "lat": 21.2918,
+      "lng": 39.0344,
+      "country": "Saudi Arabia",
+      "city": "Jeddah",
+      "type": "other",
+      "title": "Aramco вертолёт crash kills 14 в Saudi Arabia",
+      "description": "Saudi Press агентство, citing чиновник energy министерство, reported вертолёт crashed в Ras Tanura в country's east. post Aramco вертолёт crash kills 14 в Saudi Arabia appeared первый на Vanguard News.",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/06/aramco-helicopter-crash-kills-14-in-saudi-arabia/",
       "victims": 0
     },
     {
@@ -161,6 +174,19 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/fulani-terrorists-kill-28-christians-in-central-nigeria",
       "victims": 28
+    },
+    {
+      "date": "2026-06-27",
+      "lat": 36.0531,
+      "lng": 59.606,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Major Update: Trump Seeks End Separation церковь и штат Push христианин Values, Iran Strikes, Millions Lose Health Insurance",
+      "description": "Major Update: Trump Seeks End Separation церковь и штат Push христианин Values, Iran Strikes, Millions Lose Health Insurancesubstack.com",
+      "source": "newsapi:Substack.com",
+      "url": "https://aaronparnas.substack.com/p/major-update-trump-seeks-end-of-separation",
+      "victims": 0
     },
     {
       "date": "2026-06-26",
@@ -6478,32 +6504,6 @@
       "description": "Христианин-конверт в Iran has been приговорён nine годы и eight месяцы в тюрьма на trumped-up обвинения linked штат security и anti-правительство activity.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/christian-woman-persecuted-by-iranian-regime-sentenced-to-9-years-in-prison",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-25",
-      "lat": 36.3335,
-      "lng": 59.5844,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "arrest",
-      "title": "Христианка преследуемый Iranian regime приговорён 9 годы в тюрьма",
-      "description": "Христианин-конверт в Iran has been приговорён nine годы и eight месяцы в тюрьма на trumped-up обвинения linked штат security и anti-правительство activity.",
-      "source": "newsapi:The Christian Post",
-      "url": "https://www.christianpost.com/news/iran-sentences-persecuted-christian-woman-to-9-years-in-prison.html",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-25",
-      "lat": 9.3219,
-      "lng": 7.3836,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Three христиане убит молитва Vigil в Western Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – боевики на суббота ночь (май 23) убит three христиане и похищен 15 others в атака на церковь молитва vigil в western Nigeria’s Kwara штат, sources said. атакован oc",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/05/three-christians-killed-at-prayer-vigil-in-western-nigeria/",
       "victims": 0
     }
   ]
