@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-29T15:24:32.630Z",
+    "lastUpdated": "2026-06-29T19:30:47.706Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,32 @@
       "description": "As церковь в India faces mounting pressures, Archdiocese Delhi is quietly opening doors для young люди chasing country's most coveted jobs и университет seats.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-in-india-expands-coaching-to-prepare-youth-for-civil-service-exams",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-29",
+      "lat": 18.8309,
+      "lng": 73.0561,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "other",
+      "title": "Католическая церковь в India expands coaching prepare молодёжь для civil service exams",
+      "description": "As церковь в India faces mounting pressures, Archdiocese Delhi is quietly opening doors для young люди chasing country's most coveted jobs и университет seats.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-in-india-expands-coaching-to-prepare-youth-for-civil-service-exams",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-29",
+      "lat": 34.6596,
+      "lng": 36.679,
+      "country": "Syria",
+      "city": "Homs",
+      "type": "other",
+      "title": "Filipino кардинал: Catholics should be agents change, not ‘keyboard warriors’",
+      "description": "Filipino кардинал urges Catholics get offline, Syria welcomes its new papal nuncio, Scottish diocese speaks out against unsanctioned рукоположение, и more в на этой неделе's world news roundup.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/filipino-cardinal-catholics-should-be-agents-of-change-not-keyboard-warriors",
       "victims": 0
     },
     {
@@ -6473,32 +6499,6 @@
       "lng": 7.2613,
       "country": "Nigeria",
       "city": "Abuja",
-      "type": "attack",
-      "title": "Фулани христиане Reject Violence, Bias в Nigeria’s Conflict Zones",
-      "description": "Фулани христианские лидеры и converts в Nigeria’s Middle Belt are calling для greater recognition peaceful фулани communities, saying they are increasingly trapped between атаки armed ополчения и growing public suspicion tied their ethni",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/26/fulani-christians-reject-violence-bias-in-nigerias-conflict-zones/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-26",
-      "lat": 11.6848,
-      "lng": 12.9736,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "kidnapping",
-      "title": "Епископ urges христиане в Nigeria speak ‘ language Pentecost’ amid insecurity",
-      "description": "В his Pentecost message, епископ Emmanuel Adetoyese Badejo Nigeria’s Diocese Oyo called на христиане invoke Holy Spirit against violence, похищение, и hatred.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/bishop-urges-christians-in-nigeria-to-speak-the-language-of-pentecost-amid-insecurity",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-26",
-      "lat": 9.3067,
-      "lng": 9.5636,
-      "country": "Nigeria",
-      "city": "Plateau",
       "type": "attack",
       "title": "Фулани христиане Reject Violence, Bias в Nigeria’s Conflict Zones",
       "description": "Фулани христианские лидеры и converts в Nigeria’s Middle Belt are calling для greater recognition peaceful фулани communities, saying they are increasingly trapped between атаки armed ополчения и growing public suspicion tied their ethni",
