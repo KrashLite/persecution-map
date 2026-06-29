@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-29T10:17:00.332Z",
+    "lastUpdated": "2026-06-29T15:24:32.630Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-06-29",
+      "lat": 11.9851,
+      "lng": 12.9939,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "kidnapping",
+      "title": "Terrorism has reached my doorstep, says Adeboye",
+      "description": "Пастор Enoch Adeboye declares terrorism и похищение have spread southern Nigeria, reaching his doorstep. He urges Tinubu issue 90-день ultimatum Read More: https://punchng.com/terrorism-has-reached-my-doorstep-says-adeboye/",
+      "source": "punchng",
+      "url": "https://punchng.com/terrorism-has-reached-my-doorstep-says-adeboye/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-29",
+      "lat": 21.1892,
+      "lng": 85.066,
+      "country": "India",
+      "city": "Odisha",
+      "type": "other",
+      "title": "Католическая церковь в India expands coaching prepare молодёжь для civil service exams",
+      "description": "As церковь в India faces mounting pressures, Archdiocese Delhi is quietly opening doors для young люди chasing country's most coveted jobs и университет seats.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-in-india-expands-coaching-to-prepare-youth-for-civil-service-exams",
+      "victims": 0
+    },
     {
       "date": "2026-06-28",
       "lat": 6.3584,
@@ -207,6 +233,19 @@
       "lng": 51.6355,
       "country": "Iran",
       "city": "Isfahan",
+      "type": "other",
+      "title": "Major Update: Trump Seeks End Separation церковь и штат Push христианин Values, Iran Strikes, Millions Lose Health Insurance",
+      "description": "Major Update: Trump Seeks End Separation церковь и штат Push христианин Values, Iran Strikes, Millions Lose Health Insurancesubstack.com",
+      "source": "newsapi:Substack.com",
+      "url": "https://aaronparnas.substack.com/p/major-update-trump-seeks-end-of-separation",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-27",
+      "lat": 35.749,
+      "lng": 51.5152,
+      "country": "Iran",
+      "city": "Tehran",
       "type": "other",
       "title": "Major Update: Trump Seeks End Separation церковь и штат Push христианин Values, Iran Strikes, Millions Lose Health Insurance",
       "description": "Major Update: Trump Seeks End Separation церковь и штат Push христианин Values, Iran Strikes, Millions Lose Health Insurancesubstack.com",
@@ -6465,45 +6504,6 @@
       "description": "Фулани христианские лидеры и converts в Nigeria’s Middle Belt are calling для greater recognition peaceful фулани communities, saying they are increasingly trapped between атаки armed ополчения и growing public suspicion tied their ethni",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/26/fulani-christians-reject-violence-bias-in-nigerias-conflict-zones/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-26",
-      "lat": 11.7277,
-      "lng": 13.2978,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "attack",
-      "title": "Фулани христиане Reject Violence, Bias в Nigeria’s Conflict Zones",
-      "description": "Фулани христианские лидеры и converts в Nigeria’s Middle Belt are calling для greater recognition peaceful фулани communities, saying they are increasingly trapped between атаки armed ополчения и growing public suspicion tied their ethni",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/26/fulani-christians-reject-violence-bias-in-nigerias-conflict-zones/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-26",
-      "lat": 6.5048,
-      "lng": 3.5096,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "attack",
-      "title": "Фулани христиане Reject Violence, Bias в Nigeria’s Conflict Zones",
-      "description": "Фулани христианские лидеры и converts в Nigeria’s Middle Belt are calling для greater recognition peaceful фулани communities, saying they are increasingly trapped between атаки armed ополчения и growing public suspicion tied their ethni",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/26/fulani-christians-reject-violence-bias-in-nigerias-conflict-zones/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-25",
-      "lat": 10.3035,
-      "lng": 7.2977,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "discrimination",
-      "title": "Cardoso recommits orthodox monetary policy, transparency",
-      "description": "Emma Ujah губернатор Central Bank Nigeria, Olayemi Cardoso, has reaffirmed apex bank’s commitment orthodox monetary policy, transparency и evidence-based decision-making, warning against renewed calls для interventionist progr",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/05/cardoso-recommits-to-orthodox-monetary-policy-transparency/",
       "victims": 0
     }
   ]
