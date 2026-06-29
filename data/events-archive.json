@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-28T18:59:25.468Z",
+    "lastUpdated": "2026-06-29T02:06:00.014Z",
     "totalEvents": 500
   },
   "events": [
@@ -1316,6 +1316,19 @@
       "title": "Nigerian activists rally для преследуемый христиане near White House",
       "description": "Save Nigeria Rally included speakers such as Alveda король, PhD, niece civil rights activist Martin Luther король Jr., along с представители из all six geopolitical zones Nigeria.",
       "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/nigerian-activists-rally-for-persecuted-christians-near-white-house",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-20",
+      "lat": 9.2522,
+      "lng": 9.5154,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Nigerian activists rally для преследуемый христиане near White House",
+      "description": "Save Nigeria Rally included speakers such as Alveda король, PhD, niece civil rights activist Martin Luther король Jr., along с представители из all six geopolitical zones Nigeria.",
+      "source": "newsapi:Ewtnnews.com",
       "url": "https://www.ewtnnews.com/world/us/nigerian-activists-rally-for-persecuted-christians-near-white-house",
       "victims": 0
     },
@@ -6486,19 +6499,6 @@
       "lng": 52.4518,
       "country": "Iran",
       "city": "Shiraz",
-      "type": "arrest",
-      "title": "Христианка преследуемый Iranian regime приговорён 9 годы в тюрьма",
-      "description": "Христианин-конверт в Iran has been приговорён nine годы и eight месяцы в тюрьма на trumped-up обвинения linked штат security и anti-правительство activity.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christian-woman-persecuted-by-iranian-regime-sentenced-to-9-years-in-prison",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-25",
-      "lat": 35.6966,
-      "lng": 51.4759,
-      "country": "Iran",
-      "city": "Tehran",
       "type": "arrest",
       "title": "Христианка преследуемый Iranian regime приговорён 9 годы в тюрьма",
       "description": "Христианин-конверт в Iran has been приговорён nine годы и eight месяцы в тюрьма на trumped-up обвинения linked штат security и anti-правительство activity.",
