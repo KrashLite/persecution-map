@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-30T13:50:18.334Z",
+    "lastUpdated": "2026-06-30T19:28:58.914Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,32 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan has ordered medical examination determine век христианин girl похищен, forcibly converted ислам и married мусульманин, sources said. Amber Nad",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/06/exam-ordered-for-kidnapped-christian-girl-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-30",
+      "lat": 11.9639,
+      "lng": 8.5589,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Two христиане убит, Seven похищен в Kaduna штат, Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected пастухи фулани на четверг (июнь 25) raided two христианин деревни в same area Kaduna штат, Nigeria, убийство two христиане, похищение seven others и injuring d",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/two-christians-slain-seven-kidnapped-in-kaduna-state-nigeria/",
+      "victims": 24
+    },
+    {
+      "date": "2026-06-30",
+      "lat": 11.9002,
+      "lng": 13.2504,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "Catholic молодёжь chaplains в Nigeria urged report насилие allegations церковь, civil власти",
+      "description": "National director Pastoral Affairs департамент Catholic Secretariat Nigeria (CSN) said церковь's commitment young люди requires creating и maintaining safe environments.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/catholic-youth-chaplains-in-nigeria-urged-to-report-abuse-allegations-to-church-civil",
       "victims": 0
     },
     {
@@ -186,6 +212,32 @@
       "description": "New скамья Research Center survey conducted across 36 countries between февраль и май 2026 found that unfavorable views Israel have increased в most nations compared с 2025. Positive opinions сейчас outnumber negative ones в only four countrie",
       "source": "zenit",
       "url": "https://zenit.org/2026/06/29/according-to-polls-mistreatment-of-catholics-by-some-radical-jews-and-the-governments-attitude-toward-palestinians-are-damaging-israels-image/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-29",
+      "lat": 12.0172,
+      "lng": 12.9604,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "According polls, жестокое обращение Catholics some радикал евреи и правительство’s attitude toward Palestinians are damaging Israel’s image",
+      "description": "New скамья Research Center survey conducted across 36 countries between февраль и май 2026 found that unfavorable views Israel have increased в most nations compared с 2025. Positive opinions сейчас outnumber negative ones в only four countrie",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/06/29/according-to-polls-mistreatment-of-catholics-by-some-radical-jews-and-the-governments-attitude-toward-palestinians-are-damaging-israels-image/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-29",
+      "lat": 8.9935,
+      "lng": 9.7494,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "kidnapping",
+      "title": "Terrorism has reached my doorstep, says Adeboye",
+      "description": "Пастор Enoch Adeboye declares terrorism и похищение have spread southern Nigeria, reaching his doorstep. He urges Tinubu issue 90-день ultimatum Read More: https://punchng.com/terrorism-has-reached-my-doorstep-says-adeboye/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/?p=2177938",
       "victims": 0
     },
     {
@@ -6447,58 +6499,6 @@
       "lng": 85.1954,
       "country": "India",
       "city": "Odisha",
-      "type": "other",
-      "title": "RSS Whitewashes Record Amid Growing Scrutiny гонение в India",
-      "description": "Rashtriya Swayamsevak Sangh (RSS), индус nationalist organization widely regarded as ideological backbone India’s ruling Bharatiya Janata Party (BJP), has launched international outreach кампания aimed countering growing criticis",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/27/rss-whitewashes-record-amid-growing-scrutiny-over-persecution-in-india/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-27",
-      "lat": 20.7191,
-      "lng": 84.989,
-      "country": "India",
-      "city": "Odisha",
-      "type": "murder",
-      "title": "20 христиане Still Held заложник в Manipur",
-      "description": "Hours после боевики убит three пасторы returning из peace conference на май 13 в India, other armed groups started похищение христиане. сегодня, 20 верующие are still being held заложник. three Kuki-Thadou пасторы had just attended Unit",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/27/20-christians-still-held-hostage-in-manipur/",
-      "victims": 20
-    },
-    {
-      "date": "2026-05-27",
-      "lat": 28.7008,
-      "lng": 77.2111,
-      "country": "India",
-      "city": "Delhi",
-      "type": "murder",
-      "title": "20 христиане Still Held заложник в Manipur",
-      "description": "Hours после боевики убит three пасторы returning из peace conference на май 13 в India, other armed groups started похищение христиане. сегодня, 20 верующие are still being held заложник. three Kuki-Thadou пасторы had just attended Unit",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/27/20-christians-still-held-hostage-in-manipur/",
-      "victims": 20
-    },
-    {
-      "date": "2026-05-27",
-      "lat": 24.6564,
-      "lng": 66.7753,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "murder",
-      "title": "2 годы после Pakistan толпа самосуд, христианская семья still seeks justice",
-      "description": "As Pakistan marks Eid al-Adha, son христианин убит толпа богохульство allegations says his семья has received no compensation и no one has been punished.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/2-years-after-pakistan-mob-lynching-christian-family-still-seeks-justice",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-27",
-      "lat": 19.3048,
-      "lng": 72.8879,
-      "country": "India",
-      "city": "Mumbai",
       "type": "other",
       "title": "RSS Whitewashes Record Amid Growing Scrutiny гонение в India",
       "description": "Rashtriya Swayamsevak Sangh (RSS), индус nationalist organization widely regarded as ideological backbone India’s ruling Bharatiya Janata Party (BJP), has launched international outreach кампания aimed countering growing criticis",
