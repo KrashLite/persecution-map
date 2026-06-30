@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-30T02:00:52.184Z",
+    "lastUpdated": "2026-06-30T08:52:12.752Z",
     "totalEvents": 500
   },
   "events": [
@@ -15,6 +15,19 @@
       "type": "other",
       "title": "Adeboye, Oyedepo seek stronger US support against terrorism",
       "description": "Пасторы Adeboye и Oyedepo urge US для stronger support against Nigeria terrorism, warning nation is breaking point due insecurity. Read More: https://punchng.com/adeboye-oyedepo-seek-stronger-us-support-against-terrorism/",
+      "source": "punchng",
+      "url": "https://punchng.com/adeboye-oyedepo-seek-stronger-us-support-against-terrorism/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-30",
+      "lat": 10.757,
+      "lng": 7.463,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Adeboye, Oyedepo seek stronger US support against terrorism",
+      "description": "Пасторы Adeboye и Oyedepo urge stronger US support against Nigeria terrorism, warning nation is breaking point due persistent insecurity. Read More: https://punchng.com/adeboye-oyedepo-seek-stronger-us-support-against-terrorism/",
       "source": "punchng",
       "url": "https://punchng.com/adeboye-oyedepo-seek-stronger-us-support-against-terrorism/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
@@ -116,6 +129,32 @@
       "lng": 37.2611,
       "country": "Syria",
       "city": "Aleppo",
+      "type": "other",
+      "title": "Filipino кардинал: Catholics should be agents change, not ‘keyboard warriors’",
+      "description": "Filipino кардинал urges Catholics get offline, Syria welcomes its new papal nuncio, Scottish diocese speaks out against unsanctioned рукоположение, и more в на этой неделе's world news roundup.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/filipino-cardinal-catholics-should-be-agents-of-change-not-keyboard-warriors",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-29",
+      "lat": 11.8871,
+      "lng": 8.518,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "According polls, жестокое обращение Catholics some радикал евреи и правительство’s attitude toward Palestinians are damaging Israel’s image",
+      "description": "New скамья Research Center survey conducted across 36 countries between февраль и май 2026 found that unfavorable views Israel have increased в most nations compared с 2025. Positive opinions сейчас outnumber negative ones в only four countrie",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/06/29/according-to-polls-mistreatment-of-catholics-by-some-radical-jews-and-the-governments-attitude-toward-palestinians-are-damaging-israels-image/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-29",
+      "lat": 33.753,
+      "lng": 36.2189,
+      "country": "Syria",
+      "city": "Damascus",
       "type": "other",
       "title": "Filipino кардинал: Catholics should be agents change, not ‘keyboard warriors’",
       "description": "Filipino кардинал urges Catholics get offline, Syria welcomes its new papal nuncio, Scottish diocese speaks out against unsanctioned рукоположение, и more в на этой неделе's world news roundup.",
@@ -6465,45 +6504,6 @@
       "description": "Папа Leo seems providentially destined be very close Algeria. main reason is that St. Augustine was епископ there, и в his recent trip country, he spent time ancient Hippo. But there’s another close link: martyrs Algeria,",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/05/26/the-martyr-who-gives-leo-his-love-for-disarm-idea/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-26",
-      "lat": 12.1449,
-      "lng": 8.7336,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "attack",
-      "title": "Фулани христиане Reject Violence, Bias в Nigeria’s Conflict Zones",
-      "description": "Фулани христианские лидеры и converts в Nigeria’s Middle Belt are calling для greater recognition peaceful фулани communities, saying they are increasingly trapped between атаки armed ополчения и growing public suspicion tied their ethni",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/26/fulani-christians-reject-violence-bias-in-nigerias-conflict-zones/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-26",
-      "lat": 8.9824,
-      "lng": 7.2975,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "kidnapping",
-      "title": "Епископ urges христиане в Nigeria speak ‘ language Pentecost’ amid insecurity",
-      "description": "В his Pentecost message, епископ Emmanuel Adetoyese Badejo Nigeria’s Diocese Oyo called на христиане invoke Holy Spirit against violence, похищение, и hatred.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/bishop-urges-christians-in-nigeria-to-speak-the-language-of-pentecost-amid-insecurity",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-26",
-      "lat": 33.8045,
-      "lng": 71.7566,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "kidnapping",
-      "title": "Full обращение: из христианский ребёнок мусульманин ребёнок Bride в Pakistan",
-      "description": "Though ребёнок marriage overall has decreased в recent десятилетия в Pakistan, there has been rise в похищение underage girls из minority веры who then undergo forcible обращение ислам и ensuing marriage мусульманин. Because thi",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/26/full-conversion-from-christian-child-to-muslim-child-bride-in-pakistan/",
       "victims": 0
     }
   ]
