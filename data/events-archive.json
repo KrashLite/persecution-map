@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-06-30T08:52:12.752Z",
+    "lastUpdated": "2026-06-30T13:50:18.334Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,19 @@
       "description": "Пасторы Adeboye и Oyedepo urge stronger US support against Nigeria terrorism, warning nation is breaking point due persistent insecurity. Read More: https://punchng.com/adeboye-oyedepo-seek-stronger-us-support-against-terrorism/",
       "source": "punchng",
       "url": "https://punchng.com/adeboye-oyedepo-seek-stronger-us-support-against-terrorism/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-30",
+      "lat": 33.6684,
+      "lng": 73.0067,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "kidnapping",
+      "title": "Exam Ordered для похищен христианин Girl в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan has ordered medical examination determine век христианин girl похищен, forcibly converted ислам и married мусульманин, sources said. Amber Nad",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/exam-ordered-for-kidnapped-christian-girl-in-pakistan/",
       "victims": 0
     },
     {
@@ -160,6 +173,19 @@
       "description": "Filipino кардинал urges Catholics get offline, Syria welcomes its new papal nuncio, Scottish diocese speaks out against unsanctioned рукоположение, и more в на этой неделе's world news roundup.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/filipino-cardinal-catholics-should-be-agents-of-change-not-keyboard-warriors",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-29",
+      "lat": 9.1057,
+      "lng": 9.5385,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "According polls, жестокое обращение Catholics some радикал евреи и правительство’s attitude toward Palestinians are damaging Israel’s image",
+      "description": "New скамья Research Center survey conducted across 36 countries between февраль и май 2026 found that unfavorable views Israel have increased в most nations compared с 2025. Positive opinions сейчас outnumber negative ones в only four countrie",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/06/29/according-to-polls-mistreatment-of-catholics-by-some-radical-jews-and-the-governments-attitude-toward-palestinians-are-damaging-israels-image/",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Rashtriya Swayamsevak Sangh (RSS), индус nationalist organization widely regarded as ideological backbone India’s ruling Bharatiya Janata Party (BJP), has launched international outreach кампания aimed countering growing criticis",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/27/rss-whitewashes-record-amid-growing-scrutiny-over-persecution-in-india/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-27",
-      "lat": 21.4094,
-      "lng": 81.9536,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "murder",
-      "title": "20 христиане Still Held заложник в Manipur",
-      "description": "Hours после боевики убит three пасторы returning из peace conference на май 13 в India, other armed groups started похищение христиане. сегодня, 20 верующие are still being held заложник. three Kuki-Thadou пасторы had just attended Unit",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/27/20-christians-still-held-hostage-in-manipur/",
-      "victims": 20
-    },
-    {
-      "date": "2026-05-26",
-      "lat": 36.5802,
-      "lng": 2.9792,
-      "country": "Algeria",
-      "city": "Algiers",
-      "type": "discrimination",
-      "title": "Martyr who gives Leo his love для “disarm” idea",
-      "description": "Папа Leo seems providentially destined be very close Algeria. main reason is that St. Augustine was епископ there, и в his recent trip country, he spent time ancient Hippo. But there’s another close link: martyrs Algeria,",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/05/26/the-martyr-who-gives-leo-his-love-for-disarm-idea/",
       "victims": 0
     }
   ]
