@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-01T09:25:18.393Z",
+    "lastUpdated": "2026-07-01T14:01:19.669Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "Церковь sources в country fear as many as 250,000 люди май have been left homeless.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/some-families-have-had-to-remove-their-own-dead-from-rubble-in-venezuela-says-church-leader",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-01",
+      "lat": 33.4794,
+      "lng": 36.334,
+      "country": "Syria",
+      "city": "Damascus",
+      "type": "other",
+      "title": "Assyrian патриарх calls для stronger cooperation among Eastern церкви",
+      "description": "Патриарх Mar Awa III says global awareness can help ease страдания Middle Eastern христиане.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/assyrian-patriarch-calls-for-stronger-cooperation-among-eastern-churches",
       "victims": 0
     },
     {
@@ -160,6 +173,45 @@
       "description": "Two годы после Manish left индуизм follow Jesus в 2008, he began sharing gospel full-time в local индус communities в India. недавно, индус nationalists have started push back. на Feb. 22, as пастор Manish led воскресенье богослужение service",
       "source": "persecution",
       "url": "https://persecution.org/2026/06/30/going-the-distance-to-help-those-in-need/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-30",
+      "lat": 10.5937,
+      "lng": 7.5366,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Two христиане убит, Seven похищен в Kaduna штат, Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected пастухи фулани на четверг (июнь 25) raided two христианин деревни в same area Kaduna штат, Nigeria, убийство two христиане, похищение seven others и injuring d",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/two-christians-slain-seven-kidnapped-in-kaduna-state-nigeria/",
+      "victims": 24
+    },
+    {
+      "date": "2026-06-30",
+      "lat": 24.9885,
+      "lng": 67.0214,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "kidnapping",
+      "title": "Exam Ordered для похищен христианин Girl в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan has ordered medical examination determine век христианин girl похищен, forcibly converted ислам и married мусульманин, sources said. Amber Nad",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/exam-ordered-for-kidnapped-christian-girl-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-30",
+      "lat": 9.3285,
+      "lng": 7.581,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Catholic молодёжь chaplains в Nigeria urged report насилие allegations церковь, civil власти",
+      "description": "National director Pastoral Affairs департамент Catholic Secretariat Nigeria (CSN) said церковь's commitment young люди requires creating и maintaining safe environments.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/catholic-youth-chaplains-in-nigeria-urged-to-report-abuse-allegations-to-church-civil",
       "victims": 0
     },
     {
@@ -342,6 +394,19 @@
       "description": "Пастор Enoch Adeboye declares terrorism и похищение have spread southern Nigeria, reaching his doorstep. He urges Tinubu issue 90-день ultimatum Read More: https://punchng.com/terrorism-has-reached-my-doorstep-says-adeboye/",
       "source": "newsapi:The Punch",
       "url": "https://punchng.com/?p=2177938",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-29",
+      "lat": 28.5526,
+      "lng": 76.8932,
+      "country": "India",
+      "city": "Delhi",
+      "type": "other",
+      "title": "Католическая церковь в India expands coaching prepare молодёжь для civil service exams",
+      "description": "As церковь в India faces mounting pressures, Archdiocese Delhi is quietly opening doors для young люди chasing country's most coveted jobs и университет seats.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-in-india-expands-coaching-to-prepare-youth-for-civil-service-exams",
       "victims": 0
     },
     {
@@ -6440,71 +6505,6 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/5-killed-several-abducted-in-fresh-attacks-on-christian-communities-in-nigeria",
       "victims": 5
-    },
-    {
-      "date": "2026-05-27",
-      "lat": 11.9926,
-      "lng": 8.5307,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "Eid-al-Adha greetings all мусульмане",
-      "description": "Nigerian мусульмане join global Ummah celebrate Eid al-Adha, Festival Sacrifice. Rooted в profound narrative Prophet Ibrahim’s unwavering obedience God, this день stands as timeless celebration вера, humility, и total sub",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/05/eid-al-adha-greetings-to-all-muslims/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-27",
-      "lat": 19.2166,
-      "lng": -99.0315,
-      "country": "Mexico",
-      "city": "Mexico City",
-      "type": "other",
-      "title": "Meet Coco, cat “blessing” люди церковь",
-      "description": "Cat в Mexico named Coco has been impressing люди online после videos emerged showing him gently raising his paw toward worshipers as they enter local церковь. и naturally, some amused locals have already joked: “Coco thinks he is папа!” T",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/05/27/meet-coco-the-cat-blessing-people-at-church/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-27",
-      "lat": 10.4032,
-      "lng": 7.5132,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Trump ordered Pentagon protect Nigerian христиане targeted ИГИЛ, says Hegseth",
-      "description": "Former президент Trump directed Pentagon protect Nigerian христиане targeted ИГИЛ, according Pete Hegseth. Learn more о операция. Read More: https://punchng.com/trump-ordered-pentagon--protect-nigerian-христиане-targeted-",
-      "source": "punchng",
-      "url": "https://punchng.com/trump-ordered-pentagon-to-protect-nigerian-christians-targeted-by-isis-says-hegseth/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-27",
-      "lat": 33.5,
-      "lng": 72.8324,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "murder",
-      "title": "2 годы после Pakistan толпа самосуд, христианская семья still seeks justice",
-      "description": "As Pakistan marks Eid al-Adha, son христианин убит толпа богохульство allegations says his семья has received no compensation и no one has been punished.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/2-years-after-pakistan-mob-lynching-christian-family-still-seeks-justice",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-27",
-      "lat": 26.8818,
-      "lng": 80.8415,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "other",
-      "title": "RSS Whitewashes Record Amid Growing Scrutiny гонение в India",
-      "description": "Rashtriya Swayamsevak Sangh (RSS), индус nationalist organization widely regarded as ideological backbone India’s ruling Bharatiya Janata Party (BJP), has launched international outreach кампания aimed countering growing criticis",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/27/rss-whitewashes-record-amid-growing-scrutiny-over-persecution-in-india/",
-      "victims": 0
     }
   ]
 }
