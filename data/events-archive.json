@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-02T08:39:00.525Z",
+    "lastUpdated": "2026-07-02T13:25:09.887Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-07-02",
+      "lat": 3.9768,
+      "lng": 11.4142,
+      "country": "Cameroon",
+      "city": "Yaounde",
+      "type": "kidnapping",
+      "title": "Catholic diocese appeals для молитвы после священник, 2 Franciscan братья похищен в Cameroon",
+      "description": "Diocese Nkongsamba has appealed для молитвы для safe release священник и two members Fraternity Franciscans Emmanuel who were похищен в country’s North-West регион.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/catholic-diocese-appeals-for-prayers-after-priest-2-franciscan-brothers-kidnapped-in-cameroon",
+      "victims": 0
+    },
     {
       "date": "2026-07-01",
       "lat": 10.5978,
@@ -142,6 +155,19 @@
       "lng": 9.5454,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "kidnapping",
+      "title": "Исламский экстремисты Abduct Students в Nigeria",
+      "description": "На понедельник утро, боевики атакован правительство день Secondary школа в Lassa, Askira/Uba Local правительство Area Borno штат пока students were sitting для National Examinations совет examinations, abducting students и школа staff и убийство",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/01/islamic-extremists-abduct-students-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-01",
+      "lat": 10.3547,
+      "lng": 7.3527,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "kidnapping",
       "title": "Исламский экстремисты Abduct Students в Nigeria",
       "description": "На понедельник утро, боевики атакован правительство день Secondary школа в Lassa, Askira/Uba Local правительство Area Borno штат пока students were sitting для National Examinations совет examinations, abducting students и школа staff и убийство",
@@ -610,6 +636,19 @@
       "lng": 81.0363,
       "country": "India",
       "city": "Uttar Pradesh",
+      "type": "other",
+      "title": "Католическая церковь в India expands coaching prepare молодёжь для civil service exams",
+      "description": "As церковь в India faces mounting pressures, Archdiocese Delhi is quietly opening doors для young люди chasing country's most coveted jobs и университет seats.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-in-india-expands-coaching-to-prepare-youth-for-civil-service-exams",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-29",
+      "lat": 21.1717,
+      "lng": 81.9025,
+      "country": "India",
+      "city": "Chhattisgarh",
       "type": "other",
       "title": "Католическая церковь в India expands coaching prepare молодёжь для civil service exams",
       "description": "As церковь в India faces mounting pressures, Archdiocese Delhi is quietly opening doors для young люди chasing country's most coveted jobs и университет seats.",
@@ -6465,45 +6504,6 @@
       "description": "This месяц, Catholic епископы из Pakistan visited Vatican для their special Ad Limina visit. group included three архиепископы, four епископы, и кардинал. во время visit, епископы went different Vatican департаменты submit their",
       "source": "persecution",
       "url": "https://persecution.org/2026/05/29/bishops-raise-human-rights-concerns-invite-pope-to-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-29",
-      "lat": 9.163,
-      "lng": 7.3768,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Христианин farming communities под siege as US report names фулани боевики Nigeria's deadliest угроза",
-      "description": "USCIRF report штаты that фулани боевик violence в Nigeria surpasses that Боко Харам и ИГИЛ, с mostly христиане и also some мусульмане being targeted в widespread атаки.",
-      "source": "newsapi:Fox News",
-      "url": "https://www.foxnews.com/world/christian-farming-communities-under-siege-us-report-names-fulani-militants-nigerias-deadliest-threat",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-29",
-      "lat": 11.8762,
-      "lng": 8.4006,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Христианин farming communities под siege as US report names фулани боевики Nigeria's deadliest угроза",
-      "description": "USCIRF report штаты that фулани боевик violence в Nigeria surpasses that Боко Харам и ИГИЛ, с mostly христиане и also some мусульмане being targeted в widespread атаки.",
-      "source": "newsapi:Fox News",
-      "url": "https://www.foxnews.com/world/christian-farming-communities-under-siege-us-report-names-fulani-militants-nigerias-deadliest-threat",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-29",
-      "lat": 6.4078,
-      "lng": 3.5188,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Христианин farming communities под siege as US report names фулани боевики Nigeria's deadliest угроза",
-      "description": "USCIRF report штаты that фулани боевик violence в Nigeria surpasses that Боко Харам и ИГИЛ, с mostly христиане и also some мусульмане being targeted в widespread атаки.",
-      "source": "newsapi:Fox News",
-      "url": "https://www.foxnews.com/world/christian-farming-communities-under-siege-us-report-names-fulani-militants-nigerias-deadliest-threat",
       "victims": 0
     }
   ]
