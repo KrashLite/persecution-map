@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-02T01:59:25.323Z",
+    "lastUpdated": "2026-07-02T08:39:00.525Z",
     "totalEvents": 500
   },
   "events": [
@@ -134,6 +134,19 @@
       "description": "Патриарх Mar Awa III says global awareness can help ease страдания Middle Eastern христиане.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/assyrian-patriarch-calls-for-stronger-cooperation-among-eastern-churches",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-01",
+      "lat": 9.4596,
+      "lng": 9.5454,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "kidnapping",
+      "title": "Исламский экстремисты Abduct Students в Nigeria",
+      "description": "На понедельник утро, боевики атакован правительство день Secondary школа в Lassa, Askira/Uba Local правительство Area Borno штат пока students were sitting для National Examinations совет examinations, abducting students и школа staff и убийство",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/01/islamic-extremists-abduct-students-in-nigeria/",
       "victims": 0
     },
     {
@@ -6486,19 +6499,6 @@
       "lng": 3.5188,
       "country": "Nigeria",
       "city": "Lagos",
-      "type": "murder",
-      "title": "Христианин farming communities под siege as US report names фулани боевики Nigeria's deadliest угроза",
-      "description": "USCIRF report штаты that фулани боевик violence в Nigeria surpasses that Боко Харам и ИГИЛ, с mostly христиане и also some мусульмане being targeted в widespread атаки.",
-      "source": "newsapi:Fox News",
-      "url": "https://www.foxnews.com/world/christian-farming-communities-under-siege-us-report-names-fulani-militants-nigerias-deadliest-threat",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-29",
-      "lat": 11.7382,
-      "lng": 12.913,
-      "country": "Nigeria",
-      "city": "Borno",
       "type": "murder",
       "title": "Христианин farming communities под siege as US report names фулани боевики Nigeria's deadliest угроза",
       "description": "USCIRF report штаты that фулани боевик violence в Nigeria surpasses that Боко Харам и ИГИЛ, с mostly христиане и also some мусульмане being targeted в widespread атаки.",
