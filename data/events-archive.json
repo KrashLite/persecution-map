@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-03T01:29:47.041Z",
+    "lastUpdated": "2026-07-03T08:44:01.364Z",
     "totalEvents": 500
   },
   "events": [
@@ -147,6 +147,32 @@
       "description": "Mata was задержан на июнь 29, released same день, и as июнь 30 reportedly is под house арест. июнь 28 месса he asked для молитвы для преследуемый церковь, triggering retaliation.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/americas/nicaraguan-dictatorship-detains-bishop-abelardo-mata-again",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-02",
+      "lat": 20.7629,
+      "lng": 85.0594,
+      "country": "India",
+      "city": "Odisha",
+      "type": "arrest",
+      "title": "Пастор в India Faces False обвинение, сожжён церковь Building",
+      "description": "NEW DELHI (христианин Daily International–утро Star News) – wife пастор falsely named в criminal case в India на этой неделе sought арест сикх мужчина suspected setting their церковь building и residence ablaze на июнь 14, sources",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/pastor-in-india-faces-false-charge-burned-church-building/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-02",
+      "lat": 10.2613,
+      "lng": 7.3318,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "6-год study испытания violence narrative в Nigeria, finds христиане bore heavier toll",
+      "description": "New study released Observatory для религиозный Freedom в Africa испытания long-held assumptions о drivers violence в Nigeria и религиозный identity its жертвы.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/6-year-study-challenges-violence-narrative-in-nigeria-finds-christians-bore-heavier-toll",
       "victims": 0
     },
     {
@@ -628,6 +654,32 @@
       "description": "National director Pastoral Affairs департамент Catholic Secretariat Nigeria (CSN) said церковь's commitment young люди requires creating и maintaining safe environments.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/catholic-youth-chaplains-in-nigeria-urged-to-report-abuse-allegations-to-church-civil",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-30",
+      "lat": 11.6169,
+      "lng": 13.3713,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "Two христиане убит, Seven похищен в Kaduna штат, Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected пастухи фулани на четверг (июнь 25) raided two христианин деревни в same area Kaduna штат, Nigeria, убийство two христиане, похищение seven others и injuring d",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/two-christians-slain-seven-kidnapped-in-kaduna-state-nigeria/",
+      "victims": 24
+    },
+    {
+      "date": "2026-06-30",
+      "lat": 31.3951,
+      "lng": 74.1944,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "kidnapping",
+      "title": "Exam Ordered для похищен христианин Girl в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan has ordered medical examination determine век христианин girl похищен, forcibly converted ислам и married мусульманин, sources said. Amber Nad",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/exam-ordered-for-kidnapped-christian-girl-in-pakistan/",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "Treatment христиане has declined since осень шейх Hasina.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/bangladeshi-christians-continue-to-live-in-fear-following-elections",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-30",
-      "lat": 6.7386,
-      "lng": 3.1625,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Фулани боевики cause more смерти than Боко Харам в Nigeria - US lawmaker Riley Moore",
-      "description": "United штаты Congressman, Riley Moore, says фулани боевики have убит more Nigerians, especially христиане, than Боко Харам. Moore said this в post на his verified X handle на суббота. He was reacting report United штаты Com",
-      "source": "newsapi:Daily Post Nigeria",
-      "url": "https://dailypost.ng/2026/05/30/fulani-militants-cause-more-deaths-than-boko-haram-in-nigeria-us-lawmaker-riley-moore/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-30",
-      "lat": 23.3546,
-      "lng": 113.9248,
-      "country": "China",
-      "city": "Guangdong",
-      "type": "arrest",
-      "title": "Daughter’s hope для her father, пастор в Chinese тюрьма",
-      "description": "Founder stunningly successful Zion церковь заключён в правительство's попытка control вера",
-      "source": "newsapi:Wnd.com",
-      "url": "https://www.wnd.com/2026/05/daughters-hope-her-father-pastor-chinese-jail/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-30",
-      "lat": 10.7193,
-      "lng": 7.2812,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Фулани боевики cause more смерти than Боко Харам в Nigeria - US lawmaker Riley Moore",
-      "description": "United штаты Congressman, Riley Moore, says фулани боевики have убит more Nigerians, especially христиане, than Боко Харам. Moore said this в post на his verified X handle на суббота. He was reacting report United штаты Com",
-      "source": "newsapi:Daily Post Nigeria",
-      "url": "https://dailypost.ng/2026/05/30/fulani-militants-cause-more-deaths-than-boko-haram-in-nigeria-us-lawmaker-riley-moore/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-30",
-      "lat": 31.1275,
-      "lng": 121.5876,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "arrest",
-      "title": "Daughter’s hope для her father, пастор в Chinese тюрьма",
-      "description": "Founder stunningly successful Zion церковь заключён в правительство's попытка control вера",
-      "source": "newsapi:Wnd.com",
-      "url": "https://www.wnd.com/2026/05/daughters-hope-her-father-pastor-chinese-jail/",
       "victims": 0
     }
   ]
