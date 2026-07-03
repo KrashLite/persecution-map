@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-02T19:05:56.290Z",
+    "lastUpdated": "2026-07-03T01:29:47.041Z",
     "totalEvents": 500
   },
   "events": [
@@ -82,6 +82,71 @@
       "description": "Daniel Abia, порт Harcourt реки штат губернатор, Siminalayi Fubara, has said Nigeria needs God-fearing leaders move в right direction и achieve meaningful development. Fubara stated this на четверг пока receiving World президент o",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/07/only-god-fearing-leaders-can-transform-nigeria-says-fubara/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-02",
+      "lat": 28.5337,
+      "lng": 77.0114,
+      "country": "India",
+      "city": "Delhi",
+      "type": "arrest",
+      "title": "Пастор в India Faces False обвинение, сожжён церковь Building",
+      "description": "NEW DELHI (христианин Daily International–утро Star News) – wife пастор falsely named в criminal case в India на этой неделе sought арест сикх мужчина suspected setting their церковь building и residence ablaze на июнь 14, sources",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/pastor-in-india-faces-false-charge-burned-church-building/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-02",
+      "lat": 35.34,
+      "lng": 44.5454,
+      "country": "Iraq",
+      "city": "Kirkuk",
+      "type": "other",
+      "title": "Coalition Asks U.S. Intervene в Case Syrian христианин",
+      "description": "Advocacy groups недавно wrote Thomas Barrack, U.S. посол Republic Türkiye и Envoy Syria и Iraq, asking U.S. intervene в задержание Syrian христианин. letter, sent на июнь 25, was penned в Defense Chris",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/02/coalition-asks-u-s-to-intervene-in-case-of-syrian-christian/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-02",
+      "lat": 12.1152,
+      "lng": 8.8224,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "6-год study испытания violence narrative в Nigeria, finds христиане bore heavier toll",
+      "description": "New study released Observatory для религиозный Freedom в Africa испытания long-held assumptions о drivers violence в Nigeria и религиозный identity its жертвы.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/6-year-study-challenges-violence-narrative-in-nigeria-finds-christians-bore-heavier-toll",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-02",
+      "lat": 3.6258,
+      "lng": 11.4,
+      "country": "Cameroon",
+      "city": "Yaounde",
+      "type": "kidnapping",
+      "title": "Cameroon diocese announces release похищен священник, религиозный братья",
+      "description": "Diocese Nkongsamba gave thanks для release Father John Bosco Bihkong и братья Sylvester Sewong и Marie Rodrigue, who were похищен на июнь 27.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/cameroon-diocese-announces-release-of-kidnapped-priest-religious-brothers",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-02",
+      "lat": 4.335,
+      "lng": 18.467,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "arrest",
+      "title": "Nicaraguan dictatorship detains епископ Abelardo Mata снова",
+      "description": "Mata was задержан на июнь 29, released same день, и as июнь 30 reportedly is под house арест. июнь 28 месса he asked для молитвы для преследуемый церковь, triggering retaliation.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/americas/nicaraguan-dictatorship-detains-bishop-abelardo-mata-again",
       "victims": 0
     },
     {
@@ -264,6 +329,32 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – 61-год-old Catholic в Pakistan страдания из advanced dementia погиб на среда (июль 1) после nearly год в тюрьма awaiting суд на false богохульство обвинение, sources said.",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/07/christian-accused-of-blasphemy-dies-in-jail-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-01",
+      "lat": 9.2195,
+      "lng": 9.4172,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Armed мусульмане kill 31 христиане в атаки в Nigeria’s плато и Kaduna штаты",
+      "description": "Deadliest атака occurred поздно на июнь 21 в Kawel community, Mushere район Bokkos Local правительство Area, плато штат, where residents said боевики opened fire на homes и больница, убийство 22 христиане. post Armed мусульмане kill 31",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/07/01/armed-muslims-kill-31-christians-in-attacks-in-nigerias-plateau-and-kaduna-states/",
+      "victims": 31
+    },
+    {
+      "date": "2026-07-01",
+      "lat": 6.7538,
+      "lng": 3.4641,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "kidnapping",
+      "title": "Исламский экстремисты Abduct Students в Nigeria",
+      "description": "На понедельник утро, боевики атакован правительство день Secondary школа в Lassa, Askira/Uba Local правительство Area Borno штат пока students were sitting для National Examinations совет examinations, abducting students и школа staff и убийство",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/01/islamic-extremists-abduct-students-in-nigeria/",
       "victims": 0
     },
     {
@@ -6413,97 +6504,6 @@
       "description": "Founder stunningly successful Zion церковь заключён в правительство's попытка control вера",
       "source": "newsapi:Wnd.com",
       "url": "https://www.wnd.com/2026/05/daughters-hope-her-father-pastor-chinese-jail/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-30",
-      "lat": 12.2471,
-      "lng": 8.4762,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Фулани боевики cause more смерти than Боко Харам в Nigeria - US lawmaker Riley Moore",
-      "description": "United штаты Congressman, Riley Moore, says фулани боевики have убит more Nigerians, especially христиане, than Боко Харам. Moore said this в post на his verified X handle на суббота. He was reacting report United штаты Com",
-      "source": "newsapi:Daily Post Nigeria",
-      "url": "https://dailypost.ng/2026/05/30/fulani-militants-cause-more-deaths-than-boko-haram-in-nigeria-us-lawmaker-riley-moore/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-30",
-      "lat": 11.8173,
-      "lng": 13.2528,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Фулани боевики cause more смерти than Боко Харам в Nigeria - US lawmaker Riley Moore",
-      "description": "United штаты Congressman, Riley Moore, says фулани боевики have убит more Nigerians, especially христиане, than Боко Харам. Moore said this в post на his verified X handle на суббота. He was reacting report United штаты Com",
-      "source": "newsapi:Daily Post Nigeria",
-      "url": "https://dailypost.ng/2026/05/30/fulani-militants-cause-more-deaths-than-boko-haram-in-nigeria-us-lawmaker-riley-moore/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-30",
-      "lat": 9.305,
-      "lng": 7.5544,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Фулани боевики cause more смерти than Боко Харам в Nigeria - US lawmaker Riley Moore",
-      "description": "United штаты Congressman, Riley Moore, says фулани боевики have убит more Nigerians, especially христиане, than Боко Харам. Moore said this в post на his verified X handle на суббота. He was reacting report United штаты Com",
-      "source": "newsapi:Daily Post Nigeria",
-      "url": "https://dailypost.ng/2026/05/30/fulani-militants-cause-more-deaths-than-boko-haram-in-nigeria-us-lawmaker-riley-moore/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-30",
-      "lat": 40.0879,
-      "lng": 116.6034,
-      "country": "China",
-      "city": "Beijing",
-      "type": "arrest",
-      "title": "Daughter’s hope для her father, пастор в Chinese тюрьма",
-      "description": "Founder stunningly successful Zion церковь заключён в правительство's попытка control вера",
-      "source": "newsapi:Wnd.com",
-      "url": "https://www.wnd.com/2026/05/daughters-hope-her-father-pastor-chinese-jail/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-30",
-      "lat": 9.4505,
-      "lng": 9.4663,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Фулани боевики cause more смерти than Боко Харам в Nigeria - US lawmaker Riley Moore",
-      "description": "United штаты Congressman, Riley Moore, says фулани боевики have убит more Nigerians, especially христиане, than Боко Харам. Moore said this в post на his verified X handle на суббота. He was reacting report United штаты Com",
-      "source": "newsapi:Daily Post Nigeria",
-      "url": "https://dailypost.ng/2026/05/30/fulani-militants-cause-more-deaths-than-boko-haram-in-nigeria-us-lawmaker-riley-moore/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-30",
-      "lat": 43.9198,
-      "lng": 87.6261,
-      "country": "China",
-      "city": "Xinjiang",
-      "type": "arrest",
-      "title": "Daughter’s hope для her father, пастор в Chinese тюрьма",
-      "description": "Founder stunningly successful Zion церковь заключён в правительство's попытка control вера",
-      "source": "newsapi:Wnd.com",
-      "url": "https://www.wnd.com/2026/05/daughters-hope-her-father-pastor-chinese-jail/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-29",
-      "lat": 21.3855,
-      "lng": 81.97,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "discrimination",
-      "title": "180 христианские семьи отказано Water, Economic Rights в Chhattisgarh",
-      "description": "More than 180 христианские семьи в 32 деревни across Chhattisgarh’s Kanker район в India have reportedly been отказано access communal water sources и livelihood opportunities для past three недели as punishment для refusing leave thei",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/05/29/180-christian-families-denied-water-economic-rights-in-chhattisgarh/",
       "victims": 0
     }
   ]
