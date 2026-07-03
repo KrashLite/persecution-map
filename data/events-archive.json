@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-03T08:44:01.364Z",
+    "lastUpdated": "2026-07-03T13:28:59.945Z",
     "totalEvents": 500
   },
   "events": [
@@ -168,6 +168,19 @@
       "lng": 7.3318,
       "country": "Nigeria",
       "city": "Kaduna",
+      "type": "other",
+      "title": "6-год study испытания violence narrative в Nigeria, finds христиане bore heavier toll",
+      "description": "New study released Observatory для религиозный Freedom в Africa испытания long-held assumptions о drivers violence в Nigeria и религиозный identity its жертвы.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/6-year-study-challenges-violence-narrative-in-nigeria-finds-christians-bore-heavier-toll",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-02",
+      "lat": 6.7156,
+      "lng": 3.4384,
+      "country": "Nigeria",
+      "city": "Lagos",
       "type": "other",
       "title": "6-год study испытания violence narrative в Nigeria, finds христиане bore heavier toll",
       "description": "New study released Observatory для религиозный Freedom в Africa испытания long-held assumptions о drivers violence в Nigeria и религиозный identity its жертвы.",
@@ -381,6 +394,32 @@
       "description": "На понедельник утро, боевики атакован правительство день Secondary школа в Lassa, Askira/Uba Local правительство Area Borno штат пока students were sitting для National Examinations совет examinations, abducting students и школа staff и убийство",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/01/islamic-extremists-abduct-students-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-01",
+      "lat": 11.6209,
+      "lng": 13.0179,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "Armed мусульмане kill 31 христиане в атаки в Nigeria’s плато и Kaduna штаты",
+      "description": "Deadliest атака occurred поздно на июнь 21 в Kawel community, Mushere район Bokkos Local правительство Area, плато штат, where residents said боевики opened fire на homes и больница, убийство 22 христиане. post Armed мусульмане kill 31",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/07/01/armed-muslims-kill-31-christians-in-attacks-in-nigerias-plateau-and-kaduna-states/",
+      "victims": 31
+    },
+    {
+      "date": "2026-07-01",
+      "lat": 31.5097,
+      "lng": 74.6068,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "murder",
+      "title": "Христианин Accused богохульство Dies в тюрьма в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – 61-год-old Catholic в Pakistan страдания из advanced dementia погиб на среда (июль 1) после nearly год в тюрьма awaiting суд на false богохульство обвинение, sources said.",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/christian-accused-of-blasphemy-dies-in-jail-in-pakistan/",
       "victims": 0
     },
     {
@@ -683,6 +722,19 @@
       "victims": 0
     },
     {
+      "date": "2026-06-30",
+      "lat": 9.3192,
+      "lng": 7.4554,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Two христиане убит, Seven похищен в Kaduna штат, Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected пастухи фулани на четверг (июнь 25) raided two христианин деревни в same area Kaduna штат, Nigeria, убийство two христиане, похищение seven others и injuring d",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/06/two-christians-slain-seven-kidnapped-in-kaduna-state-nigeria/",
+      "victims": 24
+    },
+    {
       "date": "2026-06-29",
       "lat": 11.9851,
       "lng": 12.9939,
@@ -914,6 +966,19 @@
       "description": "As церковь в India faces mounting pressures, Archdiocese Delhi is quietly opening doors для young люди chasing country's most coveted jobs и университет seats.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-in-india-expands-coaching-to-prepare-youth-for-civil-service-exams",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-29",
+      "lat": 11.9062,
+      "lng": 8.4182,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "kidnapping",
+      "title": "Terrorism has reached my doorstep, says Adeboye",
+      "description": "Пастор Enoch Adeboye declares terrorism и похищение have spread southern Nigeria, reaching his doorstep. He urges Tinubu issue 90-день ultimatum Read More: https://punchng.com/terrorism-has-reached-my-doorstep-says-adeboye/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/?p=2177938",
       "victims": 0
     },
     {
@@ -6440,71 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/06/01/fulani-muslims-kill-8-christians-injure-15/",
       "victims": 8
-    },
-    {
-      "date": "2026-06-01",
-      "lat": 9.1977,
-      "lng": 9.424,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "UN urged investigate ‘геноцид attrition’ against христиане в Nigeria",
-      "description": "Memorandum has been submitted United Nations Special Rapporteur на Freedom религия or вера, alleging that escalating violence against христиане и умеренный мусульмане в country amounts геноцид.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/un-urged-to-investigate-genocide-by-attrition-against-christians-in-nigeria",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-31",
-      "lat": 13.3254,
-      "lng": 2.2578,
-      "country": "Niger",
-      "city": "Niamey",
-      "type": "kidnapping",
-      "title": "Papiri школа похищение: DSS аресты suspected arms couriers, recovers 15 AK rifles",
-      "description": "Департамент штат Services, DSS, has reportedly арестован five suspected arms couriers, including two Nigerien nationals, their alleged role в supplying weapons боевики who похищен nearly 300 students и staff из St. Mary's Catho",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/05/papiri-school-abduction-dss-arrests-suspected-arms-couriers-recovers-15-ak-rifles/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-30",
-      "lat": 8.8336,
-      "lng": 7.6901,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "arrest",
-      "title": "Nigerian Catholic священник осуждён в US для sexually assaulting женщины под spiritual care",
-      "description": "Nigerian Catholic священник Anthony Odiong has been осуждён в US для sexually assaulting женщины под his spiritual care. Read more на this case. Read More: https://punchng.com/nigerian-catholic-священник-осуждён-в-us-для-sexually-assaulting-wome",
-      "source": "punchng",
-      "url": "https://punchng.com/nigerian-catholic-priest-convicted-in-us-for-sexually-assaulting-women-under-spiritual-care/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-30",
-      "lat": 9.2232,
-      "lng": 9.3211,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "arrest",
-      "title": "Nigerian Catholic священник осуждён сексуальное насилие в US",
-      "description": "Jury, comprising eight женщины и four мужчины, found Odiong, 57, guilty one count первый-degree сексуальное насилие и two counts второй-degree сексуальное насилие involving two женщины who testified во время суд в Waco. post Nigerian Catholic",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/05/nigerian-catholic-priest-convicted-of-sexual-assault-in-us/",
-      "victims": 0
-    },
-    {
-      "date": "2026-05-30",
-      "lat": 24.0256,
-      "lng": 90.5969,
-      "country": "Bangladesh",
-      "city": "Dhaka",
-      "type": "discrimination",
-      "title": "Bangladeshi христиане continue live в fear following elections",
-      "description": "Treatment христиане has declined since осень шейх Hasina.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/bangladeshi-christians-continue-to-live-in-fear-following-elections",
-      "victims": 0
     }
   ]
 }
