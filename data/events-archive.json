@@ -2,10 +2,49 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-03T13:28:59.945Z",
+    "lastUpdated": "2026-07-03T18:58:17.147Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-07-03",
+      "lat": 34.0439,
+      "lng": 71.6635,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "murder",
+      "title": "Catholic accused богохульство dies в Pakistani custody",
+      "description": "Amir Peter, younger брат Catholic священник в Lahore, погиб июль 1 пока held на богохульство обвинение, месяцы после doctors declared him mentally unfit stand суд.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/blasphemy-accused-catholic-dies-in-custody-in-pakistan",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-03",
+      "lat": -6.0055,
+      "lng": 106.8051,
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "type": "discrimination",
+      "title": "Мусульмане Protest Presence церковь в Indonesia",
+      "description": "SURABAYA, Indonesia (утро Star News) – исламисты в июнь demonstrated against presence церковь в one город в West Java провинция, Indonesia и prevented funeral месса в another, local sources reported. Dozens мусульмане demonstrated aga",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/muslims-protest-presence-of-church-in-indonesia/",
+      "victims": 24
+    },
+    {
+      "date": "2026-07-03",
+      "lat": 15.2854,
+      "lng": 32.4713,
+      "country": "Sudan",
+      "city": "Khartoum",
+      "type": "murder",
+      "title": "Teenage Girl Faces смерть для Following Jesus",
+      "description": "Since she decided follow Jesus в июнь 2025, 15-год-old Indii Mikaa’el has lost her education и comfort her home. She could also lose her life. Born в мусульманин семья в Haroji Wado, near Ethiopia’s border с Sudan, Mikaa’el сейчас li",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/03/teenage-girl-faces-death-for-following-jesus/",
+      "victims": 0
+    },
     {
       "date": "2026-07-02",
       "lat": 3.9768,
@@ -186,6 +225,19 @@
       "description": "New study released Observatory для религиозный Freedom в Africa испытания long-held assumptions о drivers violence в Nigeria и религиозный identity its жертвы.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/6-year-study-challenges-violence-narrative-in-nigeria-finds-christians-bore-heavier-toll",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-02",
+      "lat": 36.1867,
+      "lng": 43.0533,
+      "country": "Iraq",
+      "city": "Mosul",
+      "type": "other",
+      "title": "Coalition Asks U.S. Intervene в Case Syrian христианин",
+      "description": "Advocacy groups недавно wrote Thomas Barrack, U.S. посол Republic Türkiye и Envoy Syria и Iraq, asking U.S. intervene в задержание Syrian христианин. letter, sent на июнь 25, was penned в Defense Chris",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/02/coalition-asks-u-s-to-intervene-in-case-of-syrian-christian/",
       "victims": 0
     },
     {
@@ -6453,58 +6505,6 @@
       "source": "newsapi:Freerepublic.com",
       "url": "https://freerepublic.com/focus/f-news/4381811/posts",
       "victims": 150
-    },
-    {
-      "date": "2026-06-01",
-      "lat": 8.9939,
-      "lng": 9.3675,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Secretary War Pete Hegseth says US has eliminated hundreds ИГИЛ боевики в Nigeria, praises Trump",
-      "description": "Secretary War Pete Hegseth said U.S. силы have убит “hundreds” Исламское государство боевики в Nigeria, crediting президент Donald Trump’s directive protect христиане в country из исламист violence.во время Cabinet meeting Whit",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4381811/posts",
-      "victims": 150
-    },
-    {
-      "date": "2026-06-01",
-      "lat": 19.2456,
-      "lng": 72.8905,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "other",
-      "title": "Chhattisgarh: Where вера в Christ Comes с Price",
-      "description": "Sutures protruding из deep, still-fresh рана на 32-год-old Mangu’s head are последний evidence гонение faced христиане в tribal belt Bastar в Chhattisgarh, India. семьи like Mangu’s are willing pay heavy",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/01/chhattisgarh-where-faith-in-christ-comes-with-a-price/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-01",
-      "lat": 21.0652,
-      "lng": 82.03,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "other",
-      "title": "Powerful symbolism Marco Rubio’s visit Mother Teresa’s home",
-      "description": "Blatant demonization и targeting христиане harms not only community but also millions needy Indians who benefit из христианин-run школы, больницы, и social services.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/the-powerful-symbolism-of-marco-rubios-visit-to-mother-teresas-home",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-01",
-      "lat": 9.3335,
-      "lng": 9.3738,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "attack",
-      "title": "Фулани мусульмане Kill 8 христиане, Injure 15",
-      "description": "Suspected фулани боевики атакован христианин farming community в central Nigeria’s плато штат на воскресенье вечер, убийство eight христиане и injuring least 15 others, according residents и правительство чиновники. атака occurred в Gwo",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/01/fulani-muslims-kill-8-christians-injure-15/",
-      "victims": 8
     }
   ]
 }
