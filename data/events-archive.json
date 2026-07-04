@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-04T08:18:23.499Z",
+    "lastUpdated": "2026-07-04T12:54:53.830Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-07-04",
+      "lat": 4.4196,
+      "lng": 18.5636,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "murder",
+      "title": "Tagle celebrates beatification месса для Vietnamese martyr",
+      "description": "На июль 2, Filipino кардинал Luis Antonio Tagle, Pro-Prefect Dicastery для Evangelization, celebrated чиновник beatification месса для Vietnamese священник Fr. Francis Xavier Trương Bửu Diệp. Fr. Francis Xavier was diocesan священник в Vietnam",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/07/04/tagle-celebrates-beatification-mass-for-vietnamese-martyr/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-04",
+      "lat": 10.2705,
+      "lng": -66.7164,
+      "country": "Venezuela",
+      "city": "Caracas",
+      "type": "other",
+      "title": "Церковь в Venezuela 'overwhelmed' после после devastating earthquakes",
+      "description": "На прошлой неделе's earthquakes have only added испытания already faced oppressed христиане в Venezuela с some reporting disparities в access humanitarian assistance.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christians-in-venezuela-face-mounting-challenges-after-devastating-earthquakes",
+      "victims": 0
+    },
     {
       "date": "2026-07-03",
       "lat": 34.0439,
@@ -290,6 +316,19 @@
       "description": "NEW DELHI (христианин Daily International–утро Star News) – wife пастор falsely named в criminal case в India на этой неделе sought арест сикх мужчина suspected setting their церковь building и residence ablaze на июнь 14, sources",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/07/pastor-in-india-faces-false-charge-burned-church-building/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-02",
+      "lat": 8.9349,
+      "lng": 7.6342,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "6-год study испытания violence narrative в Nigeria, finds христиане bore heavier toll",
+      "description": "New study released Observatory для религиозный Freedom в Africa испытания long-held assumptions о drivers violence в Nigeria и религиозный identity its жертвы.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/6-year-study-challenges-violence-narrative-in-nigeria-finds-christians-bore-heavier-toll",
       "victims": 0
     },
     {
@@ -6460,45 +6499,6 @@
       "lng": 3.5119,
       "country": "Nigeria",
       "city": "Lagos",
-      "type": "attack",
-      "title": "Фулани мусульмане Kill 8 христиане, Injure 15",
-      "description": "Suspected фулани боевики атакован христианин farming community в central Nigeria’s плато штат на воскресенье вечер, убийство eight христиане и injuring least 15 others, according residents и правительство чиновники. атака occurred в Gwo",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/01/fulani-muslims-kill-8-christians-injure-15/",
-      "victims": 8
-    },
-    {
-      "date": "2026-06-01",
-      "lat": 10.3238,
-      "lng": 7.364,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Secretary War Pete Hegseth says US has eliminated hundreds ИГИЛ боевики в Nigeria, praises Trump",
-      "description": "Secretary War Pete Hegseth said U.S. силы have убит “hundreds” Исламское государство боевики в Nigeria, crediting президент Donald Trump’s directive protect христиане в country из исламист violence.во время Cabinet meeting Whit",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4381811/posts",
-      "victims": 150
-    },
-    {
-      "date": "2026-06-01",
-      "lat": 28.695,
-      "lng": 77.0823,
-      "country": "India",
-      "city": "Delhi",
-      "type": "other",
-      "title": "Chhattisgarh: Where вера в Christ Comes с Price",
-      "description": "Sutures protruding из deep, still-fresh рана на 32-год-old Mangu’s head are последний evidence гонение faced христиане в tribal belt Bastar в Chhattisgarh, India. семьи like Mangu’s are willing pay heavy",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/01/chhattisgarh-where-faith-in-christ-comes-with-a-price/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-01",
-      "lat": 11.784,
-      "lng": 8.4618,
-      "country": "Nigeria",
-      "city": "Kano",
       "type": "attack",
       "title": "Фулани мусульмане Kill 8 христиане, Injure 15",
       "description": "Suspected фулани боевики атакован христианин farming community в central Nigeria’s плато штат на воскресенье вечер, убийство eight христиане и injuring least 15 others, according residents и правительство чиновники. атака occurred в Gwo",
