@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-03T18:58:17.147Z",
+    "lastUpdated": "2026-07-04T01:29:42.801Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,19 @@
       "description": "Since she decided follow Jesus в июнь 2025, 15-год-old Indii Mikaa’el has lost her education и comfort her home. She could also lose her life. Born в мусульманин семья в Haroji Wado, near Ethiopia’s border с Sudan, Mikaa’el сейчас li",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/03/teenage-girl-faces-death-for-following-jesus/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-03",
+      "lat": 25.0616,
+      "lng": 67.1051,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "murder",
+      "title": "Catholic accused богохульство dies в Pakistani custody",
+      "description": "Amir Peter, younger брат Catholic священник в Lahore, погиб июль 1 пока held на богохульство обвинение, месяцы после doctors declared him mentally unfit stand суд.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/blasphemy-accused-catholic-dies-in-custody-in-pakistan",
       "victims": 0
     },
     {
@@ -233,6 +246,19 @@
       "lng": 43.0533,
       "country": "Iraq",
       "city": "Mosul",
+      "type": "other",
+      "title": "Coalition Asks U.S. Intervene в Case Syrian христианин",
+      "description": "Advocacy groups недавно wrote Thomas Barrack, U.S. посол Republic Türkiye и Envoy Syria и Iraq, asking U.S. intervene в задержание Syrian христианин. letter, sent на июнь 25, was penned в Defense Chris",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/02/coalition-asks-u-s-to-intervene-in-case-of-syrian-christian/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-02",
+      "lat": 36.3748,
+      "lng": 43.8935,
+      "country": "Iraq",
+      "city": "Erbil",
       "type": "other",
       "title": "Coalition Asks U.S. Intervene в Case Syrian христианин",
       "description": "Advocacy groups недавно wrote Thomas Barrack, U.S. посол Republic Türkiye и Envoy Syria и Iraq, asking U.S. intervene в задержание Syrian христианин. letter, sent на июнь 25, was penned в Defense Chris",
@@ -1026,6 +1052,19 @@
       "lng": 8.4182,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "kidnapping",
+      "title": "Terrorism has reached my doorstep, says Adeboye",
+      "description": "Пастор Enoch Adeboye declares terrorism и похищение have spread southern Nigeria, reaching his doorstep. He urges Tinubu issue 90-день ultimatum Read More: https://punchng.com/terrorism-has-reached-my-doorstep-says-adeboye/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/?p=2177938",
+      "victims": 0
+    },
+    {
+      "date": "2026-06-29",
+      "lat": 10.5446,
+      "lng": 7.3593,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "kidnapping",
       "title": "Terrorism has reached my doorstep, says Adeboye",
       "description": "Пастор Enoch Adeboye declares terrorism и похищение have spread southern Nigeria, reaching his doorstep. He urges Tinubu issue 90-день ultimatum Read More: https://punchng.com/terrorism-has-reached-my-doorstep-says-adeboye/",
@@ -6466,45 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/06/01/fulani-muslims-kill-8-christians-injure-15/",
       "victims": 8
-    },
-    {
-      "date": "2026-06-01",
-      "lat": 6.629,
-      "lng": 3.3717,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Secretary War Pete Hegseth says US has eliminated hundreds ИГИЛ боевики в Nigeria, praises Trump",
-      "description": "Secretary War Pete Hegseth said U.S. силы have убит “hundreds” Исламское государство боевики в Nigeria, crediting президент Donald Trump’s directive protect христиане в country из исламист violence.во время Cabinet meeting Whit",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4381811/posts",
-      "victims": 150
-    },
-    {
-      "date": "2026-06-01",
-      "lat": 27.0488,
-      "lng": 81.0802,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "other",
-      "title": "Powerful symbolism Marco Rubio’s visit Mother Teresa’s home",
-      "description": "Blatant demonization и targeting христиане harms not only community but also millions needy Indians who benefit из христианин-run школы, больницы, и social services.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/the-powerful-symbolism-of-marco-rubios-visit-to-mother-teresas-home",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-01",
-      "lat": 11.9325,
-      "lng": 8.769,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Secretary War Pete Hegseth says US has eliminated hundreds ИГИЛ боевики в Nigeria, praises Trump",
-      "description": "Secretary War Pete Hegseth said U.S. силы have убит “hundreds” Исламское государство боевики в Nigeria, crediting президент Donald Trump’s directive protect христиане в country из исламист violence.во время Cabinet meeting Whit",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4381811/posts",
-      "victims": 150
     }
   ]
 }
