@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-04T12:54:53.830Z",
+    "lastUpdated": "2026-07-04T18:51:41.621Z",
     "totalEvents": 500
   },
   "events": [
@@ -95,6 +95,19 @@
       "description": "Amir Peter, younger брат Catholic священник в Lahore, погиб июль 1 пока held на богохульство обвинение, месяцы после doctors declared him mentally unfit stand суд.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/blasphemy-accused-catholic-dies-in-custody-in-pakistan",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-03",
+      "lat": 19.1094,
+      "lng": 72.8348,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "murder",
+      "title": "If Stan Swamy, Martyr, Were Alive сегодня…",
+      "description": "Exactly five годы ago, на 5 июль 2021, Jesuit Father Stan Swamy was убит. He was убит because he отказано kow-tow brutal, post If Stan Swamy, Martyr, Were Alive сегодня… appeared первый на Indian Catholic Matters.",
+      "source": "newsapi:Indiancatholicmatters.org",
+      "url": "https://www.indiancatholicmatters.org/if-stan-swamy-the-martyr-were-alive-today/",
       "victims": 0
     },
     {
@@ -576,6 +589,19 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – 61-год-old Catholic в Pakistan страдания из advanced dementia погиб на среда (июль 1) после nearly год в тюрьма awaiting суд на false богохульство обвинение, sources said.",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/07/christian-accused-of-blasphemy-dies-in-jail-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-01",
+      "lat": 8.9151,
+      "lng": 7.5031,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "kidnapping",
+      "title": "Исламский экстремисты Abduct Students в Nigeria",
+      "description": "На понедельник утро, боевики атакован правительство день Secondary школа в Lassa, Askira/Uba Local правительство Area Borno штат пока students were sitting для National Examinations совет examinations, abducting students и школа staff и убийство",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/01/islamic-extremists-abduct-students-in-nigeria/",
       "victims": 0
     },
     {
@@ -6479,32 +6505,6 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/un-urged-to-investigate-genocide-by-attrition-against-christians-in-nigeria",
       "victims": 0
-    },
-    {
-      "date": "2026-06-01",
-      "lat": 28.4821,
-      "lng": 77.2788,
-      "country": "India",
-      "city": "Delhi",
-      "type": "other",
-      "title": "Powerful symbolism Marco Rubio’s visit Mother Teresa’s home",
-      "description": "Blatant demonization и targeting христиане harms not only community but also millions needy Indians who benefit из христианин-run школы, больницы, и social services.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/the-powerful-symbolism-of-marco-rubios-visit-to-mother-teresas-home",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-01",
-      "lat": 6.5583,
-      "lng": 3.5119,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "attack",
-      "title": "Фулани мусульмане Kill 8 христиане, Injure 15",
-      "description": "Suspected фулани боевики атакован христианин farming community в central Nigeria’s плато штат на воскресенье вечер, убийство eight христиане и injuring least 15 others, according residents и правительство чиновники. атака occurred в Gwo",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/01/fulani-muslims-kill-8-christians-injure-15/",
-      "victims": 8
     }
   ]
 }
