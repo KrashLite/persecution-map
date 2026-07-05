@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-05T01:45:15.551Z",
+    "lastUpdated": "2026-07-05T08:37:10.165Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "После two месяцы, похищен Ekiti прихожане regain freedom, though one tragically погиб. Ekiti штат правительство is providing medical care для Read More: https://punchng.com/one-dies-as-похищен-ekiti-прихожане-regain-freedom/",
       "source": "punchng",
       "url": "https://punchng.com/one-dies-as-kidnapped-ekiti-worshippers-regain-freedom/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-05",
+      "lat": 31.0619,
+      "lng": 121.3458,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "arrest",
+      "title": "China frees заключён пастор Ezra Jin после Trump’s intervention",
+      "description": "Ezra Jin is founder Zion церковь, one China's незарегистрированные церкви that some христиане choose богослужение instead штат-подвергнут санкциям ones regulated правительство. post China frees заключён пастор Ezra Jin после Trump’s interventio",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/07/china-frees-jailed-pastor-ezra-jin-after-trumps-intervention/",
       "victims": 0
     },
     {
@@ -147,6 +160,19 @@
       "description": "Amir Peter, younger брат Catholic священник в Lahore, погиб июль 1 пока held на богохульство обвинение, месяцы после doctors declared him mentally unfit stand суд.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/blasphemy-accused-catholic-dies-in-custody-in-pakistan",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-03",
+      "lat": 26.7199,
+      "lng": 81.1356,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "murder",
+      "title": "If Stan Swamy, Martyr, Were Alive сегодня…",
+      "description": "Exactly five годы ago, на 5 июль 2021, Jesuit Father Stan Swamy was убит. He was убит because he отказано kow-tow brutal, post If Stan Swamy, Martyr, Were Alive сегодня… appeared первый на Indian Catholic Matters.",
+      "source": "newsapi:Indiancatholicmatters.org",
+      "url": "https://www.indiancatholicmatters.org/if-stan-swamy-the-martyr-were-alive-today/",
       "victims": 0
     },
     {
@@ -376,6 +402,19 @@
       "lng": 7.6342,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "other",
+      "title": "6-год study испытания violence narrative в Nigeria, finds христиане bore heavier toll",
+      "description": "New study released Observatory для религиозный Freedom в Africa испытания long-held assumptions о drivers violence в Nigeria и религиозный identity its жертвы.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/6-year-study-challenges-violence-narrative-in-nigeria-finds-christians-bore-heavier-toll",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-02",
+      "lat": 9.1727,
+      "lng": 9.4034,
+      "country": "Nigeria",
+      "city": "Plateau",
       "type": "other",
       "title": "6-год study испытания violence narrative в Nigeria, finds христиане bore heavier toll",
       "description": "New study released Observatory для религиозный Freedom в Africa испытания long-held assumptions о drivers violence в Nigeria и религиозный identity its жертвы.",
@@ -6466,45 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/06/01/fulani-muslims-kill-8-christians-injure-15/",
       "victims": 8
-    },
-    {
-      "date": "2026-06-01",
-      "lat": -4.4408,
-      "lng": 15.3986,
-      "country": "Democratic Republic of the Congo",
-      "city": "Kinshasa",
-      "type": "murder",
-      "title": "ADF Kills Least 7 христиане в Beni",
-      "description": "Allied Democratic силы (ADF) убит least seven христиане во время overnight атака на май 30 в Beni, located в North Kivu провинция в eastern Democratic Republic Congo. According local chief, жертвы belonged Py",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/01/adf-kills-at-least-7-christians-in-beni/",
-      "victims": 7
-    },
-    {
-      "date": "2026-06-01",
-      "lat": 12.2209,
-      "lng": 8.8189,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "UN urged investigate ‘геноцид attrition’ against христиане в Nigeria",
-      "description": "Memorandum has been submitted United Nations Special Rapporteur на Freedom религия or вера, alleging that escalating violence against христиане и умеренный мусульмане в country amounts геноцид.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/un-urged-to-investigate-genocide-by-attrition-against-christians-in-nigeria",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-01",
-      "lat": 21.0326,
-      "lng": 84.8998,
-      "country": "India",
-      "city": "Odisha",
-      "type": "other",
-      "title": "Chhattisgarh: Where вера в Christ Comes с Price",
-      "description": "Sutures protruding из deep, still-fresh рана на 32-год-old Mangu’s head are последний evidence гонение faced христиане в tribal belt Bastar в Chhattisgarh, India. семьи like Mangu’s are willing pay heavy",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/01/chhattisgarh-where-faith-in-christ-comes-with-a-price/",
-      "victims": 0
     }
   ]
 }
