@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-04T18:51:41.621Z",
+    "lastUpdated": "2026-07-05T01:45:15.551Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-07-05",
+      "lat": 4.5401,
+      "lng": 18.4315,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "murder",
+      "title": "One dies as похищен Ekiti прихожане regain freedom",
+      "description": "После two месяцы, похищен Ekiti прихожане regain freedom, though one tragically погиб. Ekiti штат правительство is providing medical care для Read More: https://punchng.com/one-dies-as-похищен-ekiti-прихожане-regain-freedom/",
+      "source": "punchng",
+      "url": "https://punchng.com/one-dies-as-kidnapped-ekiti-worshippers-regain-freedom/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-07-04",
       "lat": 4.4196,
@@ -108,6 +121,32 @@
       "description": "Exactly five годы ago, на 5 июль 2021, Jesuit Father Stan Swamy was убит. He was убит because he отказано kow-tow brutal, post If Stan Swamy, Martyr, Were Alive сегодня… appeared первый на Indian Catholic Matters.",
       "source": "newsapi:Indiancatholicmatters.org",
       "url": "https://www.indiancatholicmatters.org/if-stan-swamy-the-martyr-were-alive-today/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-03",
+      "lat": 21.4673,
+      "lng": 82.0587,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "murder",
+      "title": "If Stan Swamy, Martyr, Were Alive сегодня…",
+      "description": "Exactly five годы ago, на 5 июль 2021, Jesuit Father Stan Swamy was убит. He was убит because he отказано kow-tow brutal, post If Stan Swamy, Martyr, Were Alive сегодня… appeared первый на Indian Catholic Matters.",
+      "source": "newsapi:Indiancatholicmatters.org",
+      "url": "https://www.indiancatholicmatters.org/if-stan-swamy-the-martyr-were-alive-today/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-03",
+      "lat": 33.4524,
+      "lng": 72.8039,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "murder",
+      "title": "Catholic accused богохульство dies в Pakistani custody",
+      "description": "Amir Peter, younger брат Catholic священник в Lahore, погиб июль 1 пока held на богохульство обвинение, месяцы после doctors declared him mentally unfit stand суд.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/blasphemy-accused-catholic-dies-in-custody-in-pakistan",
       "victims": 0
     },
     {
@@ -597,6 +636,19 @@
       "lng": 7.5031,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "kidnapping",
+      "title": "Исламский экстремисты Abduct Students в Nigeria",
+      "description": "На понедельник утро, боевики атакован правительство день Secondary школа в Lassa, Askira/Uba Local правительство Area Borno штат пока students were sitting для National Examinations совет examinations, abducting students и школа staff и убийство",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/01/islamic-extremists-abduct-students-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-01",
+      "lat": 12.0234,
+      "lng": 13.3114,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "kidnapping",
       "title": "Исламский экстремисты Abduct Students в Nigeria",
       "description": "На понедельник утро, боевики атакован правительство день Secondary школа в Lassa, Askira/Uba Local правительство Area Borno штат пока students were sitting для National Examinations совет examinations, abducting students и школа staff и убийство",
@@ -6452,58 +6504,6 @@
       "description": "Sutures protruding из deep, still-fresh рана на 32-год-old Mangu’s head are последний evidence гонение faced христиане в tribal belt Bastar в Chhattisgarh, India. семьи like Mangu’s are willing pay heavy",
       "source": "persecution",
       "url": "https://persecution.org/2026/06/01/chhattisgarh-where-faith-in-christ-comes-with-a-price/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-01",
-      "lat": 19.2441,
-      "lng": 72.7329,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "other",
-      "title": "Powerful symbolism Marco Rubio’s visit Mother Teresa’s home",
-      "description": "Blatant demonization и targeting христиане harms not only community but also millions needy Indians who benefit из христианин-run школы, больницы, и social services.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/the-powerful-symbolism-of-marco-rubios-visit-to-mother-teresas-home",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-01",
-      "lat": 11.6995,
-      "lng": 13.2904,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "attack",
-      "title": "Фулани мусульмане Kill 8 христиане, Injure 15",
-      "description": "Suspected фулани боевики атакован христианин farming community в central Nigeria’s плато штат на воскресенье вечер, убийство eight христиане и injuring least 15 others, according residents и правительство чиновники. атака occurred в Gwo",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/01/fulani-muslims-kill-8-christians-injure-15/",
-      "victims": 8
-    },
-    {
-      "date": "2026-06-01",
-      "lat": 12.0254,
-      "lng": 13.3572,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Secretary War Pete Hegseth says US has eliminated hundreds ИГИЛ боевики в Nigeria, praises Trump",
-      "description": "Secretary War Pete Hegseth said U.S. силы have убит “hundreds” Исламское государство боевики в Nigeria, crediting президент Donald Trump’s directive protect христиане в country из исламист violence.во время Cabinet meeting Whit",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4381811/posts",
-      "victims": 150
-    },
-    {
-      "date": "2026-06-01",
-      "lat": 6.6741,
-      "lng": 3.4652,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "UN urged investigate ‘геноцид attrition’ against христиане в Nigeria",
-      "description": "Memorandum has been submitted United Nations Special Rapporteur на Freedom религия or вера, alleging that escalating violence against христиане и умеренный мусульмане в country amounts геноцид.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/un-urged-to-investigate-genocide-by-attrition-against-christians-in-nigeria",
       "victims": 0
     }
   ]
