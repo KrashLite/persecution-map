@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-05T13:02:07.486Z",
+    "lastUpdated": "2026-07-05T18:56:20.013Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,32 @@
       "description": "Natural disasters have curious way producing images that stay с us long после headlines fade. Alongside heartbreaking photographs collapsed buildings и shattered lives, there are often quieter images that spread just as быстро:",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/07/05/when-everything-falls-faith-still-stands-in-venezuela/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-05",
+      "lat": 39.9496,
+      "lng": 116.415,
+      "country": "China",
+      "city": "Beijing",
+      "type": "arrest",
+      "title": "Chinese пастор Arrives в U.S. после 8 месяцы в тюрьма",
+      "description": "Chinese власти недавно released Zion церковь пастор ‌Ezra Jin, who had been задержан в southern China для past eight месяцы. Jin arrived в Los Angeles, California, на суббота и was welcomed ChinaAid. власти арестован Jin и 17 o",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/05/chinese-pastor-arrives-in-u-s-after-8-months-in-prison/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-05",
+      "lat": 4.583,
+      "lng": 18.8007,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "Leo remembers Vietnamese Blessed, martyr после WWII",
+      "description": "После молящийся midday Angelus, папа Leo recalled testimony и beatification Vietnamese священник François-Xavier Truong Buu Diep (1897–1946). He was beatified во время месса celebrated кардинал Luis Antonio Tagle Tac Say святыня на Ju",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/07/05/leo-remembers-vietnamese-blessed-martyr-after-wwii/",
       "victims": 0
     },
     {
@@ -6473,32 +6499,6 @@
       "lng": 13.1469,
       "country": "Nigeria",
       "city": "Borno",
-      "type": "other",
-      "title": "UN urged investigate ‘геноцид attrition’ against христиане в Nigeria",
-      "description": "Memorandum has been submitted United Nations Special Rapporteur на Freedom религия or вера, alleging that escalating violence against христиане и умеренный мусульмане в country amounts геноцид.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/un-urged-to-investigate-genocide-by-attrition-against-christians-in-nigeria",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-01",
-      "lat": 20.936,
-      "lng": 85.3379,
-      "country": "India",
-      "city": "Odisha",
-      "type": "other",
-      "title": "Powerful symbolism Marco Rubio’s visit Mother Teresa’s home",
-      "description": "Blatant demonization и targeting христиане harms not only community but also millions needy Indians who benefit из христианин-run школы, больницы, и social services.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/the-powerful-symbolism-of-marco-rubios-visit-to-mother-teresas-home",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-01",
-      "lat": 8.9219,
-      "lng": 7.6983,
-      "country": "Nigeria",
-      "city": "Abuja",
       "type": "other",
       "title": "UN urged investigate ‘геноцид attrition’ against христиане в Nigeria",
       "description": "Memorandum has been submitted United Nations Special Rapporteur на Freedom религия or вера, alleging that escalating violence against христиане и умеренный мусульмане в country amounts геноцид.",
