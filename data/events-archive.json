@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-05T18:56:20.013Z",
+    "lastUpdated": "2026-07-06T01:50:54.373Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-07-06",
+      "lat": 12.2346,
+      "lng": 8.7504,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Пастор Adeboye deserves fair hearing, not unfair criticism",
+      "description": "Пастор Adeboye’s recent comments на Nigeria’s security situation have sparked debate. This article argues he deserves fair hearing, not unfair criticism. Read More: https://punchng.com/пастор-adeboye-deserves-fair-hearing-not-unfair-criticism/",
+      "source": "punchng",
+      "url": "https://punchng.com/pastor-adeboye-deserves-fair-hearing-not-unfair-criticism/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-07-05",
       "lat": 4.5401,
@@ -69,6 +82,19 @@
       "description": "После молящийся midday Angelus, папа Leo recalled testimony и beatification Vietnamese священник François-Xavier Truong Buu Diep (1897–1946). He was beatified во время месса celebrated кардинал Luis Antonio Tagle Tac Say святыня на Ju",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/07/05/leo-remembers-vietnamese-blessed-martyr-after-wwii/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-05",
+      "lat": 32.5386,
+      "lng": 51.7816,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "discrimination",
+      "title": "Netanyahu says some Lebanese христианин деревни ‘asked be annexed’ Israel",
+      "description": "Lebanon was drawn в wider Middle East war на март 2 когда Hezbollah fired ракеты Israel в retaliation для убийство Iran's supreme leader в US-Israeli strikes. post Netanyahu says some Lebanese христианин деревни ‘asked be",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/07/netanyahu-says-some-lebanese-christian-villages-asked-to-be-annexed-by-israel/",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "NEW DELHI (утро Star News) – Thanks misuse law against “outraging религиозный feelings,” христианин пастор в Punjab штат, India still cannot return home. His церковь is shut. He survives на daily physical labor, и some месяцы there is no",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/06/sacrilege-law-in-punjab-india-further-threatens-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-01",
-      "lat": 4.1977,
-      "lng": 18.3266,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "murder",
-      "title": "Vatican кардинал returns native город для beatification священники убит коммунисты",
-      "description": "Кардинал Michael Czerny, whose семья fled коммунизм, will preside as two казнён священники become первый martyrs коммунизм beatified в Czech Republic.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/europe/czech-born-cardinal-returns-home-for-beatification-of-priests-killed-by-communists",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-01",
-      "lat": 11.7958,
-      "lng": 13.1469,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "UN urged investigate ‘геноцид attrition’ against христиане в Nigeria",
-      "description": "Memorandum has been submitted United Nations Special Rapporteur на Freedom религия or вера, alleging that escalating violence against христиане и умеренный мусульмане в country amounts геноцид.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/un-urged-to-investigate-genocide-by-attrition-against-christians-in-nigeria",
       "victims": 0
     }
   ]
