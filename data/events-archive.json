@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-06T09:49:56.440Z",
+    "lastUpdated": "2026-07-06T14:51:26.596Z",
     "totalEvents": 500
   },
   "events": [
@@ -56,6 +56,19 @@
       "description": "International миссионер movement молодёжь с Mission (YWAM) is running coordinated outreach кампания across Canada, Mexico, и United штаты as 2026 FIFA World Cup advances through its intense knockout stages.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/ywam-mobilizes-churches-in-multi-country-outreach-as-world-cup-knockout-stage-continues",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-06",
+      "lat": 9.184,
+      "lng": 9.34,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Nearly 30,000 христиане убит в Nigeria в six годы",
+      "description": "Tens thousands христиане are losing their lives violence в Nigeria, many them hands radicalised пастухи фулани, new report has warned.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/nearly-30-000-christians-killed-in-nigeria-in-six-years",
       "victims": 0
     },
     {
@@ -142,6 +155,19 @@
       "lng": 113.9292,
       "country": "China",
       "city": "Guangdong",
+      "type": "other",
+      "title": "China releases подпольная церковь пастор после месяцы в задержание",
+      "description": "Ezra Jin’s семья says Zion церковь founder arrived в US после месяцы в задержание в China.",
+      "source": "newsapi:Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/5/china-releases-underground-church-pastor-after-months-in-detention",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-05",
+      "lat": 39.8281,
+      "lng": 116.1865,
+      "country": "China",
+      "city": "Beijing",
       "type": "other",
       "title": "China releases подпольная церковь пастор после месяцы в задержание",
       "description": "Ezra Jin’s семья says Zion церковь founder arrived в US после месяцы в задержание в China.",
@@ -6478,32 +6504,6 @@
       "description": "Alayan Johnson, 22-год-old христианин auto-rickshaw driver в Punjab, Pakistan, was застрелен полиция после being mistaken для suspect. сейчас, полиция are reportedly pressuring him call off investigation в стрельба. в video statement fr",
       "source": "persecution",
       "url": "https://persecution.org/2026/06/02/pakistani-police-shoot-christian-man/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-02",
-      "lat": 18.9138,
-      "lng": 73.0158,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "discrimination",
-      "title": "India: 180 христианские семьи отказано Water, Economic Rights в Chhattisgarh",
-      "description": "Nearly 41 семьи have reportedly been отказано employment opportunities под Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA). More than 100 семьи have allegedly been excluded из Tendu leaf procurement activities. post",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/06/02/india-180-christian-families-denied-water-economic-rights-in-chhattisgarh/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-02",
-      "lat": 43.6887,
-      "lng": 87.7923,
-      "country": "China",
-      "city": "Xinjiang",
-      "type": "arrest",
-      "title": "Chinese пасторы отказано Access Библии в тюрьма",
-      "description": "Three leaders Maizhong Reformed церковь — пастор Zhang Sen, пастор Chang Shun, и старейшина Ma Tao — have been reportedly отказано access God’s Word пока в тюрьма в China. three мужчины were арестован в июнь 2025 когда церковь was raided. Commun",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/02/chinese-pastors-denied-access-to-bibles-in-prison/",
       "victims": 0
     }
   ]
