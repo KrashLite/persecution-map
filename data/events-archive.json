@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-06T14:51:26.596Z",
+    "lastUpdated": "2026-07-06T19:28:30.418Z",
     "totalEvents": 500
   },
   "events": [
@@ -69,6 +69,19 @@
       "description": "Tens thousands христиане are losing their lives violence в Nigeria, many them hands radicalised пастухи фулани, new report has warned.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/nearly-30-000-christians-killed-in-nigeria-in-six-years",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-06",
+      "lat": 6.5341,
+      "lng": 3.2979,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "kidnapping",
+      "title": "Христианин Campus Group Leaders в Nigeria Remain пропавший без вести",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Three недели после похищение Scripture Union Nigeria’s national general director в southeast Nigeria, he и seven other fellowship leaders remain пропавший без вести, according report",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/christian-campus-group-leaders-in-nigeria-remain-missing/",
       "victims": 0
     },
     {
@@ -168,6 +181,45 @@
       "lng": 116.1865,
       "country": "China",
       "city": "Beijing",
+      "type": "other",
+      "title": "China releases подпольная церковь пастор после месяцы в задержание",
+      "description": "Ezra Jin’s семья says Zion церковь founder arrived в US после месяцы в задержание в China.",
+      "source": "newsapi:Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/5/china-releases-underground-church-pastor-after-months-in-detention",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-05",
+      "lat": 23.2285,
+      "lng": 113.7425,
+      "country": "China",
+      "city": "Guangdong",
+      "type": "arrest",
+      "title": "Chinese пастор Arrives в U.S. после 8 месяцы в тюрьма",
+      "description": "Chinese власти недавно released Zion церковь пастор ‌Ezra Jin, who had been задержан в southern China для past eight месяцы. Jin arrived в Los Angeles, California, на суббота и was welcomed ChinaAid. власти арестован Jin и 17 o",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/05/chinese-pastor-arrives-in-u-s-after-8-months-in-prison/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-05",
+      "lat": 43.9289,
+      "lng": 87.8516,
+      "country": "China",
+      "city": "Xinjiang",
+      "type": "arrest",
+      "title": "China Releases пастор Two месяцы после президент Trump Advocated для His Release с Xi Jinping",
+      "description": "Президент Donald Trump’s relationship с Chinese leader Xi Jinping paid dividends на этой неделе as заключён подпольная церковь пастор was released two месяцы после президент personally lobbied для his freedom. post China Releases пастор Tw",
+      "source": "newsapi:Breitbart News",
+      "url": "https://www.breitbart.com/faith/2026/07/05/china-releases-pastor-two-months-after-president-trump-advocated-for-his-release-with-xi/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-05",
+      "lat": 31.1784,
+      "lng": 121.5051,
+      "country": "China",
+      "city": "Shanghai",
       "type": "other",
       "title": "China releases подпольная церковь пастор после месяцы в задержание",
       "description": "Ezra Jin’s семья says Zion церковь founder arrived в US после месяцы в задержание в China.",
@@ -589,6 +641,19 @@
       "description": "New study released Observatory для религиозный Freedom в Africa испытания long-held assumptions о drivers violence в Nigeria и религиозный identity its жертвы.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/6-year-study-challenges-violence-narrative-in-nigeria-finds-christians-bore-heavier-toll",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-02",
+      "lat": 21.1348,
+      "lng": 81.996,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "arrest",
+      "title": "Пастор в India Faces False обвинение, сожжён церковь Building",
+      "description": "NEW DELHI (христианин Daily International–утро Star News) – wife пастор falsely named в criminal case в India на этой неделе sought арест сикх мужчина suspected setting their церковь building и residence ablaze на июнь 14, sources",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/pastor-in-india-faces-false-charge-burned-church-building/",
       "victims": 0
     },
     {
@@ -1175,6 +1240,19 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/06/two-christians-slain-seven-kidnapped-in-kaduna-state-nigeria/",
       "victims": 24
+    },
+    {
+      "date": "2026-06-30",
+      "lat": 19.0203,
+      "lng": 73.0232,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "other",
+      "title": "Going Distance Help Those в Need",
+      "description": "Two годы после Manish left индуизм follow Jesus в 2008, he began sharing gospel full-time в local индус communities в India. недавно, индус nationalists have started push back. на Feb. 22, as пастор Manish led воскресенье богослужение service",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/06/30/going-the-distance-to-help-those-in-need/",
+      "victims": 0
     },
     {
       "date": "2026-06-29",
@@ -6426,84 +6504,6 @@
       "description": "Nearly 41 семьи have reportedly been отказано employment opportunities под Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA). More than 100 семьи have allegedly been excluded из Tendu leaf procurement activities. post",
       "source": "zenit",
       "url": "https://zenit.org/2026/06/02/india-180-christian-families-denied-water-economic-rights-in-chhattisgarh/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-02",
-      "lat": 28.4697,
-      "lng": 77.2029,
-      "country": "India",
-      "city": "Delhi",
-      "type": "discrimination",
-      "title": "India: 180 христианские семьи отказано Water, Economic Rights в Chhattisgarh",
-      "description": "Nearly 41 семьи have reportedly been отказано employment opportunities под Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA). More than 100 семьи have allegedly been excluded из Tendu leaf procurement activities. post",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/06/02/india-180-christian-families-denied-water-economic-rights-in-chhattisgarh/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-02",
-      "lat": 24.6768,
-      "lng": 66.7915,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "murder",
-      "title": "Pakistan полиция стрельба христианин driver renews ‘encounter’ concerns",
-      "description": "Catholic justice чиновники и rights защитники say стрельба христианин driver в Rawalpindi reflects broader pattern deadly полиция \"encounters\" в Pakistan's Punjab провинция.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-police-shooting-of-christian-driver-renews-encounter-concerns",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-02",
-      "lat": 21.1579,
-      "lng": 81.9764,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "discrimination",
-      "title": "India: 180 христианские семьи отказано Water, Economic Rights в Chhattisgarh",
-      "description": "Nearly 41 семьи have reportedly been отказано employment opportunities под Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA). More than 100 семьи have allegedly been excluded из Tendu leaf procurement activities. post",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/06/02/india-180-christian-families-denied-water-economic-rights-in-chhattisgarh/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-02",
-      "lat": 24.9912,
-      "lng": 67.2081,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "attack",
-      "title": "Pakistani полиция Shoot христианин",
-      "description": "Alayan Johnson, 22-год-old христианин auto-rickshaw driver в Punjab, Pakistan, was застрелен полиция после being mistaken для suspect. сейчас, полиция are reportedly pressuring him call off investigation в стрельба. в video statement fr",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/02/pakistani-police-shoot-christian-man/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-02",
-      "lat": 20.8897,
-      "lng": 84.9387,
-      "country": "India",
-      "city": "Odisha",
-      "type": "discrimination",
-      "title": "India: 180 христианские семьи отказано Water, Economic Rights в Chhattisgarh",
-      "description": "Nearly 41 семьи have reportedly been отказано employment opportunities под Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA). More than 100 семьи have allegedly been excluded из Tendu leaf procurement activities. post",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/06/02/india-180-christian-families-denied-water-economic-rights-in-chhattisgarh/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-02",
-      "lat": 34.0586,
-      "lng": 71.4043,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "attack",
-      "title": "Pakistani полиция Shoot христианин",
-      "description": "Alayan Johnson, 22-год-old христианин auto-rickshaw driver в Punjab, Pakistan, was застрелен полиция после being mistaken для suspect. сейчас, полиция are reportedly pressuring him call off investigation в стрельба. в video statement fr",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/02/pakistani-police-shoot-christian-man/",
       "victims": 0
     }
   ]
