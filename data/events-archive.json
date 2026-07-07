@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-07T14:01:23.927Z",
+    "lastUpdated": "2026-07-07T19:30:18.202Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-07-07",
+      "lat": 32.741,
+      "lng": 51.8709,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Iran threatens seize one последний remaining протестантские церкви в Tehran",
+      "description": "One последний remaining historic протестантские церкви в Iran is reportedly facing угроза конфискация Iranian правительство, drawing renewed international attention country's treatment религиозный minorities.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/iran-threatens-to-seize-one-of-last-remaining-protestant-churches-in-tehran",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-07",
+      "lat": 33.7914,
+      "lng": 73.1341,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "other",
+      "title": "Tensions Inflamed богохульство Accusation в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – More than two dozen христианские семьи were вынужден flee their homes в Pakistan на прошлой неделе после allegations богохульство against пастор living в United штаты triggered fe",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/tensions-inflamed-by-blasphemy-accusation-in-pakistan/",
+      "victims": 0
+    },
     {
       "date": "2026-07-06",
       "lat": 12.2346,
@@ -173,6 +199,45 @@
       "description": "Jin was арестован Chinese власти на Oct. 10, 2025.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/china-releases-pastor-ezra-jin-mingri",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-06",
+      "lat": 8.9494,
+      "lng": 7.384,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Nearly 30,000 христиане убит в Nigeria в six годы",
+      "description": "Tens thousands христиане are losing their lives violence в Nigeria, many them hands radicalised пастухи фулани, new report has warned.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/nearly-30-000-christians-killed-in-nigeria-in-six-years",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-06",
+      "lat": 31.3119,
+      "lng": 74.5143,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "arrest",
+      "title": "Христианин в Pakistan Acquitted богохульство обвинение",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan на понедельник (июль 6) acquitted Catholic accused богохульство, his lawyer said. Attorney Asad Jamal Lahore High суд said Lahore Additional Sessions судья",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/christian-in-pakistan-acquitted-of-blasphemy-charge/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-06",
+      "lat": 9.1494,
+      "lng": 9.5942,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "kidnapping",
+      "title": "Христианин Campus Group Leaders в Nigeria Remain пропавший без вести",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Three недели после похищение Scripture Union Nigeria’s national general director в southeast Nigeria, he и seven other fellowship leaders remain пропавший без вести, according report",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/christian-campus-group-leaders-in-nigeria-remain-missing/",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "Catholic justice чиновники и rights защитники say стрельба христианин driver в Rawalpindi reflects broader pattern deadly полиция \"encounters\" в Pakistan's Punjab провинция.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-police-shooting-of-christian-driver-renews-encounter-concerns",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-02",
-      "lat": 10.596,
-      "lng": 7.6011,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "End terrorism within 90 дни or quit, Adeboye tells service chiefs",
-      "description": "Пастор Adeboye urges Nigerian правительство give security chiefs 90-день ultimatum end terrorism or resign, citing worsening insecurity. Read More: https://punchng.com/end-terrorism-within-90-дни-or-quit-adeboye-tells-service-chiefs/",
-      "source": "punchng",
-      "url": "https://punchng.com/end-terrorism-within-90-days-or-quit-adeboye-tells-service-chiefs/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-02",
-      "lat": 6.8703,
-      "lng": 79.8563,
-      "country": "Sri Lanka",
-      "city": "Colombo",
-      "type": "other",
-      "title": "Буддисты Throw Stones церковь as христиане Pray Inside",
-      "description": "С nearly 20 христиане gathered inside для молитва, буддисты threw stones Zion церковь на май 21 в Southern Sri Lanka. According local sources, around 8 p.m., во время молитвы, loud noise was внезапно heard на roof. приход s",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/02/buddhists-throw-stones-at-church-as-christians-pray-inside/",
-      "victims": 20
-    },
-    {
-      "date": "2026-06-02",
-      "lat": 31.5631,
-      "lng": 74.5803,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "murder",
-      "title": "Pakistan полиция стрельба христианин driver renews ‘encounter’ concerns",
-      "description": "Catholic justice чиновники и rights защитники say стрельба христианин driver в Rawalpindi reflects broader pattern deadly полиция \"encounters\" в Pakistan's Punjab провинция.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-police-shooting-of-christian-driver-renews-encounter-concerns",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-02",
-      "lat": -6.422,
-      "lng": 106.7637,
-      "country": "Indonesia",
-      "city": "Jakarta",
-      "type": "other",
-      "title": "Исламский экстремисты Disrupt церковь Services в Indonesia",
-      "description": "Богослужение service Misi Sejahtera церковь (GMS) в Glugo area ​​Panggungharjo деревня в Yogyakarta, Indonesia, was interrupted исламский экстремисты на воскресенье утро, май 24. о 15 members исламский Jihad Front FJI (Laskar), led",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/02/islamic-extremists-disrupt-church-services-in-indonesia/",
-      "victims": 15
-    },
-    {
-      "date": "2026-06-02",
-      "lat": 11.6898,
-      "lng": 13.065,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "Declare штат emergency на insecurity, CAN urges FG",
-      "description": "Христианин Association Nigeria (CAN) calls на Federal правительство declare штат emergency на insecurity protect lives и property. Rea Read More: https://punchng.com/declare-штат--emergency-на-insecurity-can-urges-fg/",
-      "source": "punchng",
-      "url": "https://punchng.com/declare-state-of-emergency-on-insecurity-can-urges-fg/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     }
   ]
