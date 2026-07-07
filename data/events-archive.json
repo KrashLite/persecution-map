@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-07T09:02:18.593Z",
+    "lastUpdated": "2026-07-07T14:01:23.927Z",
     "totalEvents": 500
   },
   "events": [
@@ -155,6 +155,19 @@
       "lng": 121.3372,
       "country": "China",
       "city": "Shanghai",
+      "type": "arrest",
+      "title": "China releases задержан христианин пастор Ezra Jin Mingri",
+      "description": "Jin was арестован Chinese власти на Oct. 10, 2025.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/china-releases-pastor-ezra-jin-mingri",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-06",
+      "lat": 39.7996,
+      "lng": 116.3819,
+      "country": "China",
+      "city": "Beijing",
       "type": "arrest",
       "title": "China releases задержан христианин пастор Ezra Jin Mingri",
       "description": "Jin was арестован Chinese власти на Oct. 10, 2025.",
@@ -342,6 +355,19 @@
       "description": "Президент Donald Trump’s relationship с Chinese leader Xi Jinping paid dividends на этой неделе as заключён подпольная церковь пастор was released two месяцы после президент personally lobbied для his freedom. post China Releases пастор Tw",
       "source": "newsapi:Breitbart News",
       "url": "https://www.breitbart.com/faith/2026/07/05/china-releases-pastor-two-months-after-president-trump-advocated-for-his-release-with-xi/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-05",
+      "lat": 31.3339,
+      "lng": 121.5273,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "arrest",
+      "title": "Chinese пастор Arrives в U.S. после 8 месяцы в тюрьма",
+      "description": "Chinese власти недавно released Zion церковь пастор ‌Ezra Jin, who had been задержан в southern China для past eight месяцы. Jin arrived в Los Angeles, California, на суббота и was welcomed ChinaAid. власти арестован Jin и 17 o",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/05/chinese-pastor-arrives-in-u-s-after-8-months-in-prison/",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Христианин Association Nigeria (CAN) calls на Federal правительство declare штат emergency на insecurity protect lives и property. Rea Read More: https://punchng.com/declare-штат--emergency-на-insecurity-can-urges-fg/",
       "source": "punchng",
       "url": "https://punchng.com/declare-state-of-emergency-on-insecurity-can-urges-fg/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-02",
-      "lat": 9.2804,
-      "lng": 7.3547,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "discrimination",
-      "title": "Insecurity: CAN declares three-день national mourning",
-      "description": "Христианин Association Nigeria (CAN) has declared three-день national mourning период honor жертвы violent атаки и banditry across Nigeri Read More: https://punchng.com/insecurity-can-declares-three-день-national-mourning/",
-      "source": "punchng",
-      "url": "https://punchng.com/insecurity-can-declares-three-day-national-mourning/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-02",
-      "lat": 3.2562,
-      "lng": 101.7829,
-      "country": "Malaysia",
-      "city": "Kuala Lumpur",
-      "type": "discrimination",
-      "title": "Hidden Bureaucracy: How Selangor’s Shoplot богослужение запрет Connects Bigger Agenda",
-      "description": "Для десятилетия, non-мусульманин communities throughout Malaysia have operated под quiet, frustrating reality. Due chronic shortage land available для non-исламский places богослужение — referred administratively as “Rumah Ibadat Selain ислам” or “",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/02/the-hidden-bureaucracy-how-selangors-shoplot-worship-ban-connects-to-a-bigger-agenda/",
       "victims": 0
     }
   ]
