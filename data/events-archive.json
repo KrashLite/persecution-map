@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-08T01:21:01.903Z",
+    "lastUpdated": "2026-07-08T08:04:20.569Z",
     "totalEvents": 500
   },
   "events": [
@@ -18,6 +18,19 @@
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/07/christians-urged-to-pray-for-nigerias-leaders-at-mens-fellowship-convention/",
       "victims": 150
+    },
+    {
+      "date": "2026-07-08",
+      "lat": 31.432,
+      "lng": 121.7181,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "other",
+      "title": "Chinese пастор released US as goodwill gesture на 4 июль",
+      "description": "Zion церковь is one largest незарегистрированные церкви в China.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/chinese-pastor-released-to-us-as-goodwill-gesture-on-4-july",
+      "victims": 0
     },
     {
       "date": "2026-07-07",
@@ -82,6 +95,19 @@
       "description": "Olayinka Latona General надзиратель Redeemed христианин церковь God (RCCG), пастор Enoch Adejare Adeboye, has urged Nigerian students pursue continuous academic и personal development, warning against complacency и encouraging them",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/07/adeboye-urges-students-to-pursue-excellence-prays-against-school-kidnappings/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-07",
+      "lat": 25.012,
+      "lng": 67.2218,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "other",
+      "title": "Tensions Inflamed богохульство Accusation в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – More than two dozen христианские семьи were вынужден flee their homes в Pakistan на прошлой неделе после allegations богохульство against пастор living в United штаты triggered fe",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/tensions-inflamed-by-blasphemy-accusation-in-pakistan/",
       "victims": 0
     },
     {
@@ -303,6 +329,19 @@
       "description": "Jin was арестован Chinese власти на Oct. 10, 2025.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/china-releases-pastor-ezra-jin-mingri",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-06",
+      "lat": 11.7461,
+      "lng": 12.9239,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "kidnapping",
+      "title": "Христианин Campus Group Leaders в Nigeria Remain пропавший без вести",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Three недели после похищение Scripture Union Nigeria’s national general director в southeast Nigeria, he и seven other fellowship leaders remain пропавший без вести, according report",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/christian-campus-group-leaders-in-nigeria-remain-missing/",
       "victims": 0
     },
     {
@@ -6463,45 +6502,6 @@
       "type": "attack",
       "title": "India трибунал urges end 'impunity' as anti-христианин violence climbs",
       "description": "Христианин, индус, и мусульманин groups joined люди's трибунал в New Delhi that documented sharp rise в атаки на христиане и demanded правительство curb 'impunity.'",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/india-tribunal-urges-end-to-impunity-as-anti-christian-violence-climbs",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-03",
-      "lat": 33.4475,
-      "lng": 73.2821,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "other",
-      "title": "Concerns для христианин Afghans депортирован из Pakistan",
-      "description": "В прошлом году Pakistan депортирован approximately million Afghans.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/concerns-for-christian-afghans-deported-from-pakistan",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-03",
-      "lat": 27.0775,
-      "lng": 80.8143,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "attack",
-      "title": "India трибунал urges end ‘impunity’ as anti-христианин violence climbs",
-      "description": "Христианин, индус, и мусульманин groups joined люди's трибунал в New Delhi that documented sharp rise в атаки на христиане и demanded правительство curb “impunity.”",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/india-tribunal-urges-end-to-impunity-as-anti-christian-violence-climbs",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-03",
-      "lat": 21.0587,
-      "lng": 81.845,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "attack",
-      "title": "India трибунал urges end ‘impunity’ as anti-христианин violence climbs",
-      "description": "Христианин, индус, и мусульманин groups joined люди's трибунал в New Delhi that documented sharp rise в атаки на христиане и demanded правительство curb “impunity.”",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/india-tribunal-urges-end-to-impunity-as-anti-christian-violence-climbs",
       "victims": 0
