@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-08T08:04:20.569Z",
+    "lastUpdated": "2026-07-08T13:23:35.182Z",
     "totalEvents": 500
   },
   "events": [
@@ -103,6 +103,19 @@
       "lng": 67.2218,
       "country": "Pakistan",
       "city": "Karachi",
+      "type": "other",
+      "title": "Tensions Inflamed богохульство Accusation в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – More than two dozen христианские семьи were вынужден flee their homes в Pakistan на прошлой неделе после allegations богохульство against пастор living в United штаты triggered fe",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/tensions-inflamed-by-blasphemy-accusation-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-07",
+      "lat": 34.0441,
+      "lng": 71.6327,
+      "country": "Pakistan",
+      "city": "Peshawar",
       "type": "other",
       "title": "Tensions Inflamed богохульство Accusation в Pakistan",
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – More than two dozen христианские семьи were вынужден flee their homes в Pakistan на прошлой неделе после allegations богохульство against пастор living в United штаты triggered fe",
@@ -345,6 +358,19 @@
       "victims": 0
     },
     {
+      "date": "2026-07-06",
+      "lat": 12.2159,
+      "lng": 8.8037,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "kidnapping",
+      "title": "Христианин Campus Group Leaders в Nigeria Remain пропавший без вести",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Three недели после похищение Scripture Union Nigeria’s national general director в southeast Nigeria, he и seven other fellowship leaders remain пропавший без вести, according report",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/christian-campus-group-leaders-in-nigeria-remain-missing/",
+      "victims": 0
+    },
+    {
       "date": "2026-07-05",
       "lat": 4.5401,
       "lng": 18.4315,
@@ -537,6 +563,32 @@
       "description": "Chinese власти недавно released Zion церковь пастор ‌Ezra Jin, who had been задержан в southern China для past eight месяцы. Jin arrived в Los Angeles, California, на суббота и was welcomed ChinaAid. власти арестован Jin и 17 o",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/05/chinese-pastor-arrives-in-u-s-after-8-months-in-prison/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-05",
+      "lat": 31.2292,
+      "lng": 121.421,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "arrest",
+      "title": "China Releases пастор Two месяцы после президент Trump Advocated для His Release с Xi Jinping",
+      "description": "Президент Donald Trump’s relationship с Chinese leader Xi Jinping paid dividends на этой неделе as заключён подпольная церковь пастор was released two месяцы после президент personally lobbied для his freedom. post China Releases пастор Tw",
+      "source": "newsapi:Breitbart News",
+      "url": "https://www.breitbart.com/faith/2026/07/05/china-releases-pastor-two-months-after-president-trump-advocated-for-his-release-with-xi/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-05",
+      "lat": 43.5632,
+      "lng": 87.8219,
+      "country": "China",
+      "city": "Xinjiang",
+      "type": "other",
+      "title": "China releases подпольная церковь пастор после месяцы в задержание",
+      "description": "Ezra Jin’s семья says Zion церковь founder arrived в US после месяцы в задержание в China.",
+      "source": "newsapi:Al Jazeera English",
+      "url": "https://www.aljazeera.com/news/2026/7/5/china-releases-underground-church-pastor-after-months-in-detention",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "В прошлом году Pakistan депортирован approximately million Afghans.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/concerns-for-christian-afghans-deported-from-pakistan",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-03",
-      "lat": 24.0235,
-      "lng": 90.5584,
-      "country": "Bangladesh",
-      "city": "Dhaka",
-      "type": "discrimination",
-      "title": "Bangladesh церковь взрыв: 25 годы на, Catholic жертвы still await justice",
-      "description": "Взрыв tore through воскресенье месса Most Holy Redeemer церковь в Gopalganj на июнь 3, 2001; quarter-век позже, полиция have yet file single обвинение sheet в case.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/no-charge-sheet-25-years-after-bangladesh-church-bombing-that-killed-10-at-mass",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-03",
-      "lat": 6.4105,
-      "lng": 3.4344,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "discrimination",
-      "title": "You can’t pray away bad roads, bandits, Nollywood actress Njoku tells христиане",
-      "description": "Nollywood actress Mary Remmy Njoku urges Nigerian христиане combine молитва с practical action solve issues like bad roads и insecurity. Read More: https://punchng.com/you-cant-pray-away-bad-roads-bandits-nollywood-actress-njoku-tells-chr",
-      "source": "punchng",
-      "url": "https://punchng.com/you-cant-pray-away-bad-roads-bandits-nollywood-actress-njoku-tells-christians/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-03",
-      "lat": 4.5042,
-      "lng": 18.8003,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "murder",
-      "title": "4 годы после Owo резня, we still nurse раны — епископ Arogundade",
-      "description": "Catholic епископ Ondo Diocese, Most Rev. Jude Arogundade, says церковь continues live с emotional и psychological scars июнь 5, 2022 атака на St. Francis католическая церковь, Owo, four годы после 41 прихожане were убит",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/06/4-years-after-owo-massacre-we-still-nurse-wounds-bishop-arogundade/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-03",
-      "lat": 21.4649,
-      "lng": 81.6331,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "attack",
-      "title": "India трибунал urges end 'impunity' as anti-христианин violence climbs",
-      "description": "Христианин, индус, и мусульманин groups joined люди's трибунал в New Delhi that documented sharp rise в атаки на христиане и demanded правительство curb 'impunity.'",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/india-tribunal-urges-end-to-impunity-as-anti-christian-violence-climbs",
       "victims": 0
     }
   ]
