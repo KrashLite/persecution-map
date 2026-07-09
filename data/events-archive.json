@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-09T09:00:19.381Z",
+    "lastUpdated": "2026-07-09T14:24:15.860Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-07-09",
+      "lat": 31.4011,
+      "lng": 74.5752,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "arrest",
+      "title": "Corruption в Pakistan’s суды hits poor христиане hardest, report finds",
+      "description": "Христиане accused под Pakistan's богохульство laws face bribe demands, stalled суды, и зал суда запугивание, according new report two leading human rights organizations.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/corruption-in-pakistan-s-courts-hits-poor-christians-hardest-report-finds",
+      "victims": 0
+    },
     {
       "date": "2026-07-08",
       "lat": 12.1698,
@@ -134,6 +147,32 @@
       "description": "Zion церковь is one largest незарегистрированные церкви в China.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/chinese-pastor-released-to-us-as-goodwill-gesture-on-4-july",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-08",
+      "lat": 29.3691,
+      "lng": 52.7164,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "murder",
+      "title": "Iran Moves Seize Historic Tehran церковь as Pressure на христиане Escalates",
+      "description": "Iranian власти are moving confiscate country’s oldest протестантская церковь и ordering христиане leave their homes, signaling new escalation в исламский Republic’s десятилетия-long кампания against христианство. St. Peter’s Evangelica",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/08/iran-moves-to-seize-historic-tehran-church-as-pressure-on-christians-escalates/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-08",
+      "lat": 36.1497,
+      "lng": 43.2956,
+      "country": "Iraq",
+      "city": "Mosul",
+      "type": "other",
+      "title": "Папа Leo XIV Iraqi христиане: Be Christ’s light в challenging times",
+      "description": "Vatican published video message из pontiff на июль 8 для Ankawa молодёжь Meeting.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-iraqi-christians-be-christ-s-light-in-challenging-times",
       "victims": 0
     },
     {
@@ -329,6 +368,19 @@
       "description": "Reunited с his семья праздник выходные",
       "source": "newsapi:Wnd.com",
       "url": "https://www.wnd.com/2026/07/miracle-china-releases-christian-pastor-following-trumps-appeal/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-07",
+      "lat": 29.8379,
+      "lng": 52.632,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Iran threatens seize one последний remaining протестантские церкви в Tehran",
+      "description": "One последний remaining historic протестантские церкви в Iran is reportedly facing угроза конфискация Iranian правительство, drawing renewed international attention country's treatment религиозный minorities.",
+      "source": "newsapi:The Christian Post",
+      "url": "https://www.christianpost.com/news/iranian-regime-threatens-to-seize-protestant-church-report.html",
       "victims": 0
     },
     {
@@ -6447,58 +6499,6 @@
       "lng": 30.0788,
       "country": "Egypt",
       "city": "Alexandria",
-      "type": "arrest",
-      "title": "Parliamentary group highlights plight христианин YouTuber задержан в Egypt",
-      "description": "Пока not \"worst offender\" Egypt still makes 42 на Open Doors watchlist.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/parliamentary-group-highlights-plight-of-christian-youtuber-detained-in-egypt",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-04",
-      "lat": 6.6424,
-      "lng": 3.5997,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "attack",
-      "title": "Baptist leaders Govt: убийства, перемещение threatening церковь growth в плато",
-      "description": "Nigerian Baptist Convention's Conference президенты и their wives have expressed concern persistent атаки на церкви и христианские общины в плато штат и other parts Northern Nigeria, warning that убийства, перемещение",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/06/baptist-leaders-to-govt-killings-displacement-threatening-church-growth-in-plateau/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-04",
-      "lat": 9.0361,
-      "lng": 7.3853,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "HURIWA: Owo verdict warns террористы",
-      "description": "Human Rights Writers Association Nigeria (HURIWA) has described смертный приговор handed four террористы осуждён 2022 атака на St. Francis католическая церковь, Owo, Ondo штат, as strong warning террористы, kidnappers и viol",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/06/huriwa-owo-verdict-warns-terrorists/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-04",
-      "lat": 19.3886,
-      "lng": -99.0076,
-      "country": "Mexico",
-      "city": "Mexico City",
-      "type": "other",
-      "title": "Mexican епископ: Lack mature вера leads Catholics осень в esotericism",
-      "description": "Mexico's епископы have established new pastoral министерство meet growing need люди experiencing spiritual, moral, и physical страдания, which could also be malevolent origin.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/americas/mexican-bishop-lack-of-mature-faith-leads-many-catholics-into-esotericism",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-04",
-      "lat": 29.8984,
-      "lng": 31.1049,
-      "country": "Egypt",
-      "city": "Cairo",
       "type": "arrest",
       "title": "Parliamentary group highlights plight христианин YouTuber задержан в Egypt",
       "description": "Пока not \"worst offender\" Egypt still makes 42 на Open Doors watchlist.",
