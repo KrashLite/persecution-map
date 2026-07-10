@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-10T08:56:29.552Z",
+    "lastUpdated": "2026-07-10T13:50:50.073Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-07-10",
+      "lat": 33.5174,
+      "lng": 36.1913,
+      "country": "Syria",
+      "city": "Damascus",
+      "type": "murder",
+      "title": "Heroic story “Father Patience” и Martyrs Damascus",
+      "description": "В 2024, папа Francis canonized “Martyrs Damascus,” group three laymen и eight религиозный who were убит за веру в middle 19th век. религиозный were Spanish Franciscans who had convent в Damascus и were led Fra Manue",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/07/10/the-heroic-story-of-father-patience-and-the-martyrs-of-damascus/",
+      "victims": 0
+    },
     {
       "date": "2026-07-09",
       "lat": 31.4011,
@@ -303,6 +316,19 @@
       "description": "US Congressman, Rep. Riley Moore, has said фулани боевики are far largest perpetrators violence against христиане в Nigeria post US Congressman blames фулани боевики для атаки на христиане в Nigeria appeared первый на Vanguard",
       "source": "newsapi:Vanguard",
       "url": "https://www.vanguardngr.com/2026/07/us-congressman-blames-fulani-militants-for-attacks-on-christians-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-08",
+      "lat": 12.0122,
+      "lng": 13.0699,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "Community Appeals U.S. правительство после фулани ополчения Kill христианский работник, 3 Others",
+      "description": "Community leaders в плато штат, Nigeria, are appealing для international attention после убийство христианин церковь worker и community leader, John Telle Danjuma, и separate убийство three люди mining site в nearby comm",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/08/community-appeals-to-u-s-government-after-fulani-militias-kill-christian-worker-3-others/",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Епископ Osorio Citora Quelimane, Mozambique, was застрелен погибшие в рано hours this утро, июнь 6, и his body was found в corridor episcopal residence, according Aid церковь в Need. perpetrator crime remains unk",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/06/06/mozambique-bishop-shot-and-killed-details-unknown/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-06",
-      "lat": 6.3517,
-      "lng": 3.1798,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "SCOAN Commemorates 5 годы T.B. Joshua’s legacy с global tribute event",
-      "description": "На пятница, thousands прихожане, министры, dignitaries и partners из across world gathered Synagogue, церковь All Nations (SCOAN) в Lagos, Nigeria, commemorate пятый anniversary transition glory Prophet T.B.",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/06/scoan-commemorates-5-years-of-t-b-joshuas-legacy-with-global-tribute-event/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-06",
-      "lat": 8.9238,
-      "lng": 7.6566,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "Roll call without Nigeria, Patrick Omorodion",
-      "description": "As young месса Server (or алтарь boy as they are called these дни) St. Christopher’s Catholic школа на Ikot-Ekpene Street, near famous Mile 1 market в Diobu area порт Harcourt, one song I loved so much в my Hymn Book back then was ‘",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/06/roll-call-without-nigeria-by-patrick-omorodion/",
       "victims": 0
     }
   ]
