@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-10T13:50:50.073Z",
+    "lastUpdated": "2026-07-10T19:12:42.900Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,45 @@
       "description": "В 2024, папа Francis canonized “Martyrs Damascus,” group three laymen и eight религиозный who were убит за веру в middle 19th век. религиозный were Spanish Franciscans who had convent в Damascus и were led Fra Manue",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/07/10/the-heroic-story-of-father-patience-and-the-martyrs-of-damascus/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-10",
+      "lat": 33.8332,
+      "lng": 71.53,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "other",
+      "title": "Protest Erupts в Pakistan после христианин Framed для ‘богохульство’",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – violent protest erupted в Karachi, Pakistan на четверг (июль 9) после unidentified лица mailed осквернён page Quran мусульманин shopkeeper along с photographs",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/protest-erupts-in-pakistan-after-christian-framed-for-blasphemy/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-10",
+      "lat": 8.9679,
+      "lng": 7.3402,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "discrimination",
+      "title": "Pregnant женщина Flees фулани ополчение",
+      "description": "Hours до giving birth her первый ребёнок, 22-год-old mother became widow после исламский фулани ополчение атакован her rural community в Nigeria. атака, which occurred between июнь 21 и июнь 22, claimed 22 lives. на июнь 21, Longdi T",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/10/pregnant-woman-flees-fulani-militia/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-10",
+      "lat": 11.8791,
+      "lng": 8.5098,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Catholic епископ: ‘There’s no политический will в fight against terrorism в Nigeria’",
+      "description": "Епископ Stephen Dami Mamza Diocese Yola says Nigerian правительство lacks will end persistent insecurity that has claimed thousands lives в West African country.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/catholic-bishop-there-s-no-political-will-in-fight-against-terrorism-in-nigeria",
       "victims": 0
     },
     {
@@ -56,6 +95,19 @@
       "description": "Statewide mobilization program counter alleged surge fabricated social media content и false allegations месса религиозный обращения has been announced West Bengal’s top христианин body на июль 3. program, titled “Memorandum Sub",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/09/west-bengal-christians-move-to-counter-malicious-propaganda/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-09",
+      "lat": 36.4256,
+      "lng": 43.2914,
+      "country": "Iraq",
+      "city": "Mosul",
+      "type": "other",
+      "title": "Папа Young Iraqi христиане: Your Mission Is Be Light в Darkness",
+      "description": "\"Ankawa молодёжь Meeting\" is largest христианин gathering в Iraq. It began в 2013, though it had be suspended following год due оккупация Nineveh равнины -- where Erbil is located -- ИГИЛ и ensuing conflict. p",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/07/09/the-pope-to-young-iraqi-christians-your-mission-is-to-be-light-in-the-darkness/",
       "victims": 0
     },
     {
@@ -329,6 +381,32 @@
       "description": "Community leaders в плато штат, Nigeria, are appealing для international attention после убийство христианин церковь worker и community leader, John Telle Danjuma, и separate убийство three люди mining site в nearby comm",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/08/community-appeals-to-u-s-government-after-fulani-militias-kill-christian-worker-3-others/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-08",
+      "lat": 9.358,
+      "lng": 9.3648,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "attack",
+      "title": "US Congressman blames фулани боевики для атаки на христиане в Nigeria",
+      "description": "US Congressman, Rep. Riley Moore, has said фулани боевики are far largest perpetrators violence against христиане в Nigeria post US Congressman blames фулани боевики для атаки на христиане в Nigeria appeared первый на Vanguard",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/us-congressman-blames-fulani-militants-for-attacks-on-christians-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-08",
+      "lat": 35.2663,
+      "lng": 44.4646,
+      "country": "Iraq",
+      "city": "Kirkuk",
+      "type": "other",
+      "title": "Папа Leo XIV Iraqi христиане: Be Christ’s light в challenging times",
+      "description": "Vatican published video message из pontiff на июль 8 для Ankawa молодёжь Meeting.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-iraqi-christians-be-christ-s-light-in-challenging-times",
       "victims": 0
     },
     {
@@ -6426,84 +6504,6 @@
       "description": "Christianah Ogunsanya secures Nigeria’s первый medal World Wrestling Ranking Series в Mongolia, claiming bronze. Read о her historic win. Read More: https://punchng.com/ogunsanya-wins-nigerias-первый-medal-в-mongolia/",
       "source": "punchng",
       "url": "https://punchng.com/ogunsanya-wins-nigerias-first-medal-in-mongolia/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-06",
-      "lat": -25.7389,
-      "lng": 32.5784,
-      "country": "Mozambique",
-      "city": "Maputo",
-      "type": "murder",
-      "title": "Mozambique епископ застрелен и убит, details unknown",
-      "description": "Епископ Osorio Citora Quelimane, Mozambique, was застрелен погибшие в рано hours this утро, июнь 6, и his body was found в corridor episcopal residence, according Aid церковь в Need. perpetrator crime remains unk",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/06/06/mozambique-bishop-shot-and-killed-details-unknown/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-06",
-      "lat": 11.7268,
-      "lng": 13.2102,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "National молитва not о пастор Adeboye, RCCG – PFN tells critics",
-      "description": "Fellowship called на христиане и Nigerians large reject misinformation, embrace truth, и work together в collective interest national peace, unity, и progress. post National молитва not о пастор Adeboye, RCCG – PFN tel",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/06/national-prayer-not-about-pastor-adeboye-rccg-pfn-tells-critics/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-06",
-      "lat": -12.1474,
-      "lng": 40.6026,
-      "country": "Mozambique",
-      "city": "Cabo Delgado",
-      "type": "murder",
-      "title": "Catholic епископ застрелен погибшие в Mozambique",
-      "description": "Catholic епископ Osorio Citora Afonso was застрелен погибшие в Mozambique под mysterious circumstances. президент Chapo expresses sadness loss. Read More: https://punchng.com/catholic-епископ-застрелен-погибшие-в-mozambique/",
-      "source": "punchng",
-      "url": "https://punchng.com/catholic-bishop-shot-dead-in-mozambique/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-06",
-      "lat": 12.0201,
-      "lng": 12.9879,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "discrimination",
-      "title": "Adamawa CAN denies endorsing БТР governorship candidate",
-      "description": "Христианин Association Nigeria (CAN), Adamawa штат Chapter, has отказано endorsing БТР governorship candidate Tijani Galadima для 2027 elections. Read More: https://punchng.com/adamawa-can-denies-endorsing-БТР-governorship-candidate/",
-      "source": "punchng",
-      "url": "https://punchng.com/adamawa-can-denies-endorsing-apc-governorship-candidate/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-06",
-      "lat": 12.1504,
-      "lng": 8.4714,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "National молитва not tied Adeboye, RCCG, PFN slams critics",
-      "description": "Pentecostal Fellowship Nigeria (PFN) refutes claims linking its nationwide молитва programme пастор Adeboye or RCCG, calling allegations false и Read More: https://punchng.com/national-молитва-not-tied--adeboye-rccg-pfn-slams-critics/",
-      "source": "punchng",
-      "url": "https://punchng.com/national-prayer-not-tied-to-adeboye-rccg-pfn-slams-critics/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-06",
-      "lat": -12.3765,
-      "lng": 40.4575,
-      "country": "Mozambique",
-      "city": "Cabo Delgado",
-      "type": "murder",
-      "title": "Mozambique епископ застрелен и убит, details unknown",
-      "description": "Епископ Osorio Citora Quelimane, Mozambique, was застрелен погибшие в рано hours this утро, июнь 6, и his body was found в corridor episcopal residence, according Aid церковь в Need. perpetrator crime remains unk",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/06/06/mozambique-bishop-shot-and-killed-details-unknown/",
       "victims": 0
     }
   ]
