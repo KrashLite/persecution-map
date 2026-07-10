@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-10T01:26:14.617Z",
+    "lastUpdated": "2026-07-10T08:56:29.552Z",
     "totalEvents": 500
   },
   "events": [
@@ -277,6 +277,32 @@
       "description": "Nadeem Masih, visually impaired христианин accused богохульство, has been acquitted суд в Lahore, Pakistan, после spending 10 distressing месяцы в тюрьма. Lahore Additional Sessions судья Saad Salman Khan ordered Masih’s acquittal due th",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/08/lahore-court-acquits-blind-christian-man-in-falsified-blasphemy-case/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-08",
+      "lat": 10.3595,
+      "lng": 7.3865,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Community Appeals U.S. правительство после фулани ополчения Kill христианский работник, 3 Others",
+      "description": "Community leaders в плато штат, Nigeria, are appealing для international attention после убийство христианин церковь worker и community leader, John Telle Danjuma, и separate убийство three люди mining site в nearby comm",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/08/community-appeals-to-u-s-government-after-fulani-militias-kill-christian-worker-3-others/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-08",
+      "lat": 11.9171,
+      "lng": 8.4342,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "attack",
+      "title": "US Congressman blames фулани боевики для атаки на христиане в Nigeria",
+      "description": "US Congressman, Rep. Riley Moore, has said фулани боевики are far largest perpetrators violence against христиане в Nigeria post US Congressman blames фулани боевики для атаки на христиане в Nigeria appeared первый на Vanguard",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/us-congressman-blames-fulani-militants-for-attacks-on-christians-in-nigeria/",
       "victims": 0
     },
     {
@@ -6479,32 +6505,6 @@
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/06/roll-call-without-nigeria-by-patrick-omorodion/",
       "victims": 0
-    },
-    {
-      "date": "2026-06-05",
-      "lat": 11.596,
-      "lng": 12.9155,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "Updated: Iwobi, Chukwueze join Super Eagles лагерь в Lisbon ahead Portugal friendly",
-      "description": "Super Eagles midfielder Alex Iwobi и защитник христианин Akpan have joined Nigeria's training лагерь в Lisbon as preparations continue для international friendly against Portugal. post Updated: Iwobi, Chukwueze join Super Eagles лагерь в Lisbo",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/06/iwobi-akpan-join-super-eagles-camp-in-lisbon-chukwueze-expected/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-05",
-      "lat": -4.566,
-      "lng": 15.2228,
-      "country": "Democratic Republic of the Congo",
-      "city": "Kinshasa",
-      "type": "murder",
-      "title": "Дни после резня, ADF Kills 24 More христиане",
-      "description": "Во время ночь июнь 2, Allied Democratic силы (ADF) атакован деревня Mbau, located о 12 miles из Beni город в eastern Democratic Republic Congo (DRC), leaving least 24 христиане погибшие, according preliminary report",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/05/days-after-massacre-adf-kills-24-more-christians/",
-      "victims": 24
     }
   ]
 }
