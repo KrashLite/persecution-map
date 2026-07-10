@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-09T19:17:43.415Z",
+    "lastUpdated": "2026-07-10T01:26:14.617Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,19 @@
       "description": "Христиане accused под Pakistan's богохульство laws face bribe demands, stalled суды, и зал суда запугивание, according new report two leading human rights organizations.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/corruption-in-pakistan-s-courts-hits-poor-christians-hardest-report-finds",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-09",
+      "lat": 12.4116,
+      "lng": -8.0503,
+      "country": "Mali",
+      "city": "Bamako",
+      "type": "other",
+      "title": "West Bengal христиане Move Counter ‘Malicious Propaganda’",
+      "description": "Statewide mobilization program counter alleged surge fabricated social media content и false allegations месса религиозный обращения has been announced West Bengal’s top христианин body на июль 3. program, titled “Memorandum Sub",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/09/west-bengal-christians-move-to-counter-malicious-propaganda/",
       "victims": 0
     },
     {
@@ -225,6 +238,45 @@
       "description": "Vatican published video message из pontiff на июль 8 для Ankawa молодёжь Meeting.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-iraqi-christians-be-christ-s-light-in-challenging-times",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-08",
+      "lat": 6.7443,
+      "lng": 3.2039,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Community Appeals U.S. правительство после фулани ополчения Kill христианский работник, 3 Others",
+      "description": "Community leaders в плато штат, Nigeria, are appealing для international attention после убийство христианин церковь worker и community leader, John Telle Danjuma, и separate убийство three люди mining site в nearby comm",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/08/community-appeals-to-u-s-government-after-fulani-militias-kill-christian-worker-3-others/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-08",
+      "lat": 9.1583,
+      "lng": 7.5513,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "attack",
+      "title": "US Congressman blames фулани боевики для атаки на христиане в Nigeria",
+      "description": "US Congressman, Rep. Riley Moore, has said фулани боевики are far largest perpetrators violence against христиане в Nigeria post US Congressman blames фулани боевики для атаки на христиане в Nigeria appeared первый на Vanguard",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/us-congressman-blames-fulani-militants-for-attacks-on-christians-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-08",
+      "lat": 31.5505,
+      "lng": 74.4472,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "arrest",
+      "title": "Lahore суд Acquits Blind христианин в Falsified богохульство Case",
+      "description": "Nadeem Masih, visually impaired христианин accused богохульство, has been acquitted суд в Lahore, Pakistan, после spending 10 distressing месяцы в тюрьма. Lahore Additional Sessions судья Saad Salman Khan ordered Masih’s acquittal due th",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/08/lahore-court-acquits-blind-christian-man-in-falsified-blasphemy-case/",
       "victims": 0
     },
     {
@@ -459,6 +511,19 @@
       "description": "Reunited с his семья праздник выходные",
       "source": "newsapi:Wnd.com",
       "url": "https://www.wnd.com/2026/07/miracle-china-releases-christian-pastor-following-trumps-appeal/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-07",
+      "lat": 11.9238,
+      "lng": 13.1906,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "Terror Network Slaughtering Nigerian христиане Has Escaped America’s чёрный список",
+      "description": "Experts и policy change-makers tell Daily Caller that правительства are failing confront primary угроза для христиане в Nigeria.",
+      "source": "newsapi:The Daily Caller",
+      "url": "https://dailycaller.com/2026/07/07/fulani-ethnic-militia-isis-nigeria-boko-haram-christians-donald-trump-riley-moore-chris-smith/",
       "victims": 0
     },
     {
@@ -732,6 +797,19 @@
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Three недели после похищение Scripture Union Nigeria’s national general director в southeast Nigeria, he и seven other fellowship leaders remain пропавший без вести, according report",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/07/christian-campus-group-leaders-in-nigeria-remain-missing/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-06",
+      "lat": 6.3077,
+      "lng": 3.2086,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Nearly 30,000 христиане убит в Nigeria в six годы",
+      "description": "Tens thousands христиане are losing their lives violence в Nigeria, many them hands radicalised пастухи фулани, new report has warned.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/nearly-30-000-christians-killed-in-nigeria-in-six-years",
       "victims": 0
     },
     {
@@ -6427,84 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/06/05/days-after-massacre-adf-kills-24-more-christians/",
       "victims": 24
-    },
-    {
-      "date": "2026-06-05",
-      "lat": 10.7497,
-      "lng": 106.472,
-      "country": "Vietnam",
-      "city": "Ho Chi Minh City",
-      "type": "other",
-      "title": "ICC Publishes New Report на религиозный Freedom в Vietnam",
-      "description": "New report из International христианин Concern (ICC), “Freedom богослужение: False Reality в Vietnam,” examines current штат религиозный freedom и христианин гонение под коммунизм в Vietnam. в country where правительство tightly",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/05/icc-publishes-new-report-on-religious-freedom-in-vietnam/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-05",
-      "lat": 6.4023,
-      "lng": 3.587,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Nigeria приговоры 4 perpetrators 2022 Pentecost резня смерть",
-      "description": "Суд в Nigeria осуждён four мужчины heinous crime, acquitting пятый. defense will appeal verdict. казни are rare в Nigeria и католическая церковь opposes смерть penalty.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/nigeria-sentences-4-perpetrators-of-2022-pentecost-massacre-to-death",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-05",
-      "lat": 4.6409,
-      "lng": 18.7754,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "murder",
-      "title": "Catholic-backed truth комиссия launched probe Duterte drug war убийства в Philippines",
-      "description": "Кардинал Pablo Virgilio David is advising new гражданский-led body seeking document thousands убит во время Rodrigo Duterte's anti-drug кампания.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-backed-truth-commission-launched-to-probe-duterte-drug-war-killings",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-05",
-      "lat": 8.8687,
-      "lng": 7.5091,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Nigeria приговоры 4 perpetrators 2022 Pentecost резня смерть",
-      "description": "Суд в Nigeria осуждён four мужчины heinous crime, acquitting пятый. defense will appeal verdict. казни are rare в Nigeria и католическая церковь opposes смерть penalty.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/nigeria-sentences-4-perpetrators-of-2022-pentecost-massacre-to-death",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-05",
-      "lat": 2.2308,
-      "lng": 45.0886,
-      "country": "Somalia",
-      "city": "Mogadishu",
-      "type": "other",
-      "title": "Leaving Everything Follow Christ",
-      "description": "Для Teshome Getachew, following Jesus пока living near Ethiopian-Somali border means walking path marked угрозы, fear, перемещение, и uncertainty. Despite dangers being христианин among Somali мусульмане, Getachew said journey",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/05/leaving-everything-to-follow-christ/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-05",
-      "lat": 21.1038,
-      "lng": 105.7163,
-      "country": "Vietnam",
-      "city": "Hanoi",
-      "type": "other",
-      "title": "ICC Publishes New Report на религиозный Freedom в Vietnam",
-      "description": "New report из International христианин Concern (ICC), “Freedom богослужение: False Reality в Vietnam,” examines current штат религиозный freedom и христианин гонение под коммунизм в Vietnam. в country where правительство tightly",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/05/icc-publishes-new-report-on-religious-freedom-in-vietnam/",
-      "victims": 0
     }
   ]
 }
