@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-11T07:29:35.248Z",
+    "lastUpdated": "2026-07-11T12:46:08.757Z",
     "totalEvents": 500
   },
   "events": [
@@ -202,6 +202,58 @@
       "victims": 0
     },
     {
+      "date": "2026-07-10",
+      "lat": 6.5183,
+      "lng": 3.2025,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Report Confirms фулани ополчения Responsible для Majority смерти в Nigeria",
+      "description": "According six-год study conducted Observatory для религиозный Freedom в Africa (ORFA), исламский фулани ополчения are far deadliest persecutors христиане в Nigeria. network ополчения is responsible для four times more civil",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/10/report-confirms-fulani-militias-responsible-for-majority-of-deaths-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-10",
+      "lat": 11.8339,
+      "lng": 8.4197,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "discrimination",
+      "title": "Pregnant женщина Flees фулани ополчение",
+      "description": "Hours до giving birth her первый ребёнок, 22-год-old mother became widow после исламский фулани ополчение атакован her rural community в Nigeria. атака, which occurred between июнь 21 и июнь 22, claimed 22 lives. на июнь 21, Longdi T",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/10/pregnant-woman-flees-fulani-militia/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-10",
+      "lat": 32.5661,
+      "lng": 51.6497,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Iranian delegation visits Our Lady Guadalupe Basilica, engaging в ‘interfaith dialogue’",
+      "description": "Their request, delegation Iranian embassy в Mexico город was given tour Marian святыня, highlighting reverence для Virgin Mary shared both ислам и христианство.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/americas/iranian-delegation-visits-our-lady-of-guadalupe-basilica-the-spiritual-heart-of-mexico",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-10",
+      "lat": 6.4756,
+      "lng": 3.3916,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Catholic епископ: ‘There’s no политический will в fight against terrorism в Nigeria’",
+      "description": "Епископ Stephen Dami Mamza Diocese Yola says Nigerian правительство lacks will end persistent insecurity that has claimed thousands lives в West African country.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/catholic-bishop-there-s-no-political-will-in-fight-against-terrorism-in-nigeria",
+      "victims": 0
+    },
+    {
       "date": "2026-07-09",
       "lat": 31.4011,
       "lng": 74.5752,
@@ -264,6 +316,19 @@
       "description": "Христиане accused под Pakistan's богохульство laws face bribe demands, stalled суды, и зал суда запугивание, according new report two leading human rights organizations.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/corruption-in-pakistan-s-courts-hits-poor-christians-hardest-report-finds",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-09",
+      "lat": 35.6697,
+      "lng": 44.3243,
+      "country": "Iraq",
+      "city": "Kirkuk",
+      "type": "other",
+      "title": "Папа Young Iraqi христиане: Your Mission Is Be Light в Darkness",
+      "description": "\"Ankawa молодёжь Meeting\" is largest христианин gathering в Iraq. It began в 2013, though it had be suspended following год due оккупация Nineveh равнины -- where Erbil is located -- ИГИЛ и ensuing conflict. p",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/07/09/the-pope-to-young-iraqi-christians-your-mission-is-to-be-light-in-the-darkness/",
       "victims": 0
     },
     {
@@ -571,6 +636,19 @@
       "lng": 12.9297,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "attack",
+      "title": "US Congressman blames фулани боевики для атаки на христиане в Nigeria",
+      "description": "US Congressman, Rep. Riley Moore, has said фулани боевики are far largest perpetrators violence against христиане в Nigeria post US Congressman blames фулани боевики для атаки на христиане в Nigeria appeared первый на Vanguard",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/us-congressman-blames-fulani-militants-for-attacks-on-christians-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-08",
+      "lat": 6.6187,
+      "lng": 3.4542,
+      "country": "Nigeria",
+      "city": "Lagos",
       "type": "attack",
       "title": "US Congressman blames фулани боевики для атаки на христиане в Nigeria",
       "description": "US Congressman, Rep. Riley Moore, has said фулани боевики are far largest perpetrators violence against христиане в Nigeria post US Congressman blames фулани боевики для атаки на христиане в Nigeria appeared первый на Vanguard",
@@ -6427,84 +6505,6 @@
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/06/nigerians-should-rethink-as-leadership-is-influence-not-office-bishop-kukah/",
       "victims": 0
-    },
-    {
-      "date": "2026-06-08",
-      "lat": 10.4797,
-      "lng": 7.5409,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "kidnapping",
-      "title": "Hundreds Freed из Боко Харам плен после месяцы в гора Hideout",
-      "description": "Hundreds Nigerians похищен Боко Харам боевики во время devastating март атака на деревня в northeastern Nigeria have been freed после месяцы в плен, marking one largest releases заложники в регион в recent годы.",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/08/hundreds-freed-from-boko-haram-captivity-after-months-in-mountain-hideout/",
-      "victims": 360
-    },
-    {
-      "date": "2026-06-08",
-      "lat": 11.6791,
-      "lng": 13.3898,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "kidnapping",
-      "title": "Hundreds Freed из Боко Харам плен после месяцы в гора Hideout",
-      "description": "Hundreds Nigerians похищен Боко Харам боевики во время devastating март атака на деревня в northeastern Nigeria have been freed после месяцы в плен, marking one largest releases заложники в регион в recent годы.",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/08/hundreds-freed-from-boko-haram-captivity-after-months-in-mountain-hideout/",
-      "victims": 360
-    },
-    {
-      "date": "2026-06-08",
-      "lat": 28.8719,
-      "lng": 76.9226,
-      "country": "India",
-      "city": "Delhi",
-      "type": "attack",
-      "title": "Индус Nationalists атака церковь, Injure 25 прихожане",
-      "description": "Индус nationalist толпа brutally атакован богослужение service на воскресенье, май 31, в remote Sadrapal деревня Sukma район в central Indian штат Chhattisgarh, injuring least 25 прихожане, including пастор’s pregnant wife. th",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/08/hindu-nationalists-attack-church-injure-25-worshippers/",
-      "victims": 30
-    },
-    {
-      "date": "2026-06-08",
-      "lat": 12.0283,
-      "lng": 8.6886,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "kidnapping",
-      "title": "Hundreds Freed из Боко Харам плен после месяцы в гора Hideout",
-      "description": "Hundreds Nigerians похищен Боко Харам боевики во время devastating март атака на деревня в northeastern Nigeria have been freed после месяцы в плен, marking one largest releases заложники в регион в recent годы.",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/08/hundreds-freed-from-boko-haram-captivity-after-months-in-mountain-hideout/",
-      "victims": 360
-    },
-    {
-      "date": "2026-06-08",
-      "lat": 21.3338,
-      "lng": 81.8819,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "attack",
-      "title": "Индус Nationalists атака церковь, Injure 25 прихожане",
-      "description": "Индус nationalist толпа brutally атакован богослужение service на воскресенье, май 31, в remote Sadrapal деревня Sukma район в central Indian штат Chhattisgarh, injuring least 25 прихожане, including пастор’s pregnant wife. th",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/08/hindu-nationalists-attack-church-injure-25-worshippers/",
-      "victims": 30
-    },
-    {
-      "date": "2026-06-08",
-      "lat": 19.321,
-      "lng": 72.9539,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "attack",
-      "title": "Индус Nationalists атака церковь, Injure 25 прихожане",
-      "description": "Индус nationalist толпа brutally атакован богослужение service на воскресенье, май 31, в remote Sadrapal деревня Sukma район в central Indian штат Chhattisgarh, injuring least 25 прихожане, including пастор’s pregnant wife. th",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/08/hindu-nationalists-attack-church-injure-25-worshippers/",
-      "victims": 30
     }
   ]
 }
