@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-11T12:46:08.757Z",
+    "lastUpdated": "2026-07-11T18:41:43.817Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,32 @@
       "description": "Пастор Paul Enenche warns that division is greatest угроза церковь’s survival, urging Nigerian христиане unite against insecurity и persecu Read More: https://punchng.com/division-biggest-угроза--церковь-says-enenche/",
       "source": "punchng",
       "url": "https://punchng.com/division-biggest-threat-to-church-says-enenche/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-11",
+      "lat": 4.6407,
+      "lng": -74.2788,
+      "country": "Colombia",
+      "city": "Bogota",
+      "type": "other",
+      "title": "Католическая церковь в Colombia calls для respecting presidential election results",
+      "description": "С Abelardo de la Espriella's very narrow victory и outgoing президент Gustavo Petros' отказ accept that result, alleging fraud, Colombian епископы urged citizens respect outcome.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/americas/catholic-church-in-colombia-calls-for-respecting-presidential-election-results",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-11",
+      "lat": 29.1126,
+      "lng": 33.0371,
+      "country": "Egypt",
+      "city": "Sinai",
+      "type": "other",
+      "title": "Ancient христианин город unearthed в Egypt’s пустыня",
+      "description": "Archaeologists в Egypt have uncovered remarkably preserved Byzantine-эра поселение в Dakhla Oasis, revealing new evidence organised христианская община that flourished в Western пустыня more than 1,600 годы ago.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/ancient-christian-city-unearthed-in-egypts-desert",
       "victims": 0
     },
     {
@@ -254,6 +280,45 @@
       "victims": 0
     },
     {
+      "date": "2026-07-10",
+      "lat": 24.9848,
+      "lng": 66.8093,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "other",
+      "title": "Protest Erupts в Pakistan после христианин Framed для ‘богохульство’",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – violent protest erupted в Karachi, Pakistan на четверг (июль 9) после unidentified лица mailed осквернён page Quran мусульманин shopkeeper along с photographs",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/protest-erupts-in-pakistan-after-christian-framed-for-blasphemy/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-10",
+      "lat": 9.0789,
+      "lng": 9.6195,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Report Confirms фулани ополчения Responsible для Majority смерти в Nigeria",
+      "description": "According six-год study conducted Observatory для религиозный Freedom в Africa (ORFA), исламский фулани ополчения are far deadliest persecutors христиане в Nigeria. network ополчения is responsible для four times more civil",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/10/report-confirms-fulani-militias-responsible-for-majority-of-deaths-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-10",
+      "lat": 36.3537,
+      "lng": 59.8565,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Iranian delegation visits Our Lady Guadalupe Basilica, engaging в ‘interfaith dialogue’",
+      "description": "Their request, delegation Iranian embassy в Mexico город was given tour Marian святыня, highlighting reverence для Virgin Mary shared both ислам и христианство.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/americas/iranian-delegation-visits-our-lady-of-guadalupe-basilica-the-spiritual-heart-of-mexico",
+      "victims": 0
+    },
+    {
       "date": "2026-07-09",
       "lat": 31.4011,
       "lng": 74.5752,
@@ -324,6 +389,19 @@
       "lng": 44.3243,
       "country": "Iraq",
       "city": "Kirkuk",
+      "type": "other",
+      "title": "Папа Young Iraqi христиане: Your Mission Is Be Light в Darkness",
+      "description": "\"Ankawa молодёжь Meeting\" is largest христианин gathering в Iraq. It began в 2013, though it had be suspended following год due оккупация Nineveh равнины -- where Erbil is located -- ИГИЛ и ensuing conflict. p",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/07/09/the-pope-to-young-iraqi-christians-your-mission-is-to-be-light-in-the-darkness/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-09",
+      "lat": 33.2296,
+      "lng": 44.443,
+      "country": "Iraq",
+      "city": "Baghdad",
       "type": "other",
       "title": "Папа Young Iraqi христиане: Your Mission Is Be Light в Darkness",
       "description": "\"Ankawa молодёжь Meeting\" is largest христианин gathering в Iraq. It began в 2013, though it had be suspended following год due оккупация Nineveh равнины -- where Erbil is located -- ИГИЛ и ensuing conflict. p",
@@ -654,6 +732,19 @@
       "description": "US Congressman, Rep. Riley Moore, has said фулани боевики are far largest perpetrators violence against христиане в Nigeria post US Congressman blames фулани боевики для атаки на христиане в Nigeria appeared первый на Vanguard",
       "source": "newsapi:Vanguard",
       "url": "https://www.vanguardngr.com/2026/07/us-congressman-blames-fulani-militants-for-attacks-on-christians-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-08",
+      "lat": 35.8657,
+      "lng": 51.5434,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "murder",
+      "title": "Iran Moves Seize Historic Tehran церковь as Pressure на христиане Escalates",
+      "description": "Iranian власти are moving confiscate country’s oldest протестантская церковь и ordering христиане leave their homes, signaling new escalation в исламский Republic’s десятилетия-long кампания against христианство. St. Peter’s Evangelica",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/08/iran-moves-to-seize-historic-tehran-church-as-pressure-on-christians-escalates/",
       "victims": 0
     },
     {
@@ -6414,97 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/06/08/hindu-nationalists-attack-church-injure-25-worshippers/",
       "victims": 30
-    },
-    {
-      "date": "2026-06-08",
-      "lat": 9.0796,
-      "lng": 9.5523,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "kidnapping",
-      "title": "Hundreds Freed из Боко Харам плен после месяцы в гора Hideout",
-      "description": "Hundreds Nigerians похищен Боко Харам боевики во время devastating март атака на деревня в northeastern Nigeria have been freed после месяцы в плен, marking one largest releases заложники в регион в recent годы.",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/08/hundreds-freed-from-boko-haram-captivity-after-months-in-mountain-hideout/",
-      "victims": 360
-    },
-    {
-      "date": "2026-06-08",
-      "lat": 4.3421,
-      "lng": 18.5313,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "murder",
-      "title": "Кардинал Czerny beatifies Czech священники убит коммунисты, hints more май follow",
-      "description": "Кардинал Michael Czerny declared Fathers Jan Bula и Václav Drbola Czech Republic's первый martyrs коммунизм — и signaled that more such causes май follow.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/europe/cardinal-czerny-beatifies-czech-priests-killed-by-communists-hints-more-may-follow",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-08",
-      "lat": 10.2899,
-      "lng": 7.4649,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Nigerians should rethink as leadership is influence, not офис — епископ Kukah",
-      "description": "Епископ Sokoto Catholic Diocese, Matthew Kukah, has challenged Nigerians rethink their understanding leadership, arguing that leadership should not be confused с политический офис or position. post Nigerians should rethink as leadership",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/06/nigerians-should-rethink-as-leadership-is-influence-not-office-bishop-kukah/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-08",
-      "lat": 14.783,
-      "lng": 120.7572,
-      "country": "Philippines",
-      "city": "Manila",
-      "type": "other",
-      "title": "Catholic leaders call для молитвы, support для Philippine earthquake жертвы",
-      "description": "Церковь leaders и aid groups are calling для assistance и молитвы для жертвы после offshore magnitude 7.8 earthquake struck Mindanao, southern Philippines, на июнь 8.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-leaders-call-for-prayers-support-for-philippine-earthquake-victims",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-08",
-      "lat": 21.0689,
-      "lng": 85.2883,
-      "country": "India",
-      "city": "Odisha",
-      "type": "attack",
-      "title": "Индус Nationalists атака церковь, Injure 25 прихожане",
-      "description": "Индус nationalist толпа brutally атакован богослужение service на воскресенье, май 31, в remote Sadrapal деревня Sukma район в central Indian штат Chhattisgarh, injuring least 25 прихожане, including пастор’s pregnant wife. th",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/08/hindu-nationalists-attack-church-injure-25-worshippers/",
-      "victims": 30
-    },
-    {
-      "date": "2026-06-08",
-      "lat": 9.2827,
-      "lng": 7.7008,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "kidnapping",
-      "title": "Hundreds Freed из Боко Харам плен после месяцы в гора Hideout",
-      "description": "Hundreds Nigerians похищен Боко Харам боевики во время devastating март атака на деревня в northeastern Nigeria have been freed после месяцы в плен, marking one largest releases заложники в регион в recent годы.",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/08/hundreds-freed-from-boko-haram-captivity-after-months-in-mountain-hideout/",
-      "victims": 360
-    },
-    {
-      "date": "2026-06-08",
-      "lat": 12.0532,
-      "lng": 13.3002,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "Nigerians should rethink as leadership is influence, not офис — епископ Kukah",
-      "description": "Епископ Sokoto Catholic Diocese, Matthew Kukah, has challenged Nigerians rethink their understanding leadership, arguing that leadership should not be confused с политический офис or position. post Nigerians should rethink as leadership",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/06/nigerians-should-rethink-as-leadership-is-influence-not-office-bishop-kukah/",
-      "victims": 0
     }
   ]
 }
