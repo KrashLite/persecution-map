@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-12T07:54:32.598Z",
+    "lastUpdated": "2026-07-12T12:47:47.506Z",
     "totalEvents": 500
   },
   "events": [
@@ -64,6 +64,19 @@
       "lng": 31.4218,
       "country": "Egypt",
       "city": "Cairo",
+      "type": "other",
+      "title": "Ancient христианин город unearthed в Egypt’s пустыня",
+      "description": "Archaeologists в Egypt have uncovered remarkably preserved Byzantine-эра поселение в Dakhla Oasis, revealing new evidence organised христианская община that flourished в Western пустыня more than 1,600 годы ago.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/ancient-christian-city-unearthed-in-egypts-desert",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-11",
+      "lat": 28.2751,
+      "lng": 30.6669,
+      "country": "Egypt",
+      "city": "Minya",
       "type": "other",
       "title": "Ancient христианин город unearthed в Egypt’s пустыня",
       "description": "Archaeologists в Egypt have uncovered remarkably preserved Byzantine-эра поселение в Dakhla Oasis, revealing new evidence organised христианская община that flourished в Western пустыня more than 1,600 годы ago.",
@@ -381,6 +394,19 @@
       "description": "Their request, delegation Iranian embassy в Mexico город was given tour Marian святыня, highlighting reverence для Virgin Mary shared both ислам и христианство.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/americas/iranian-delegation-visits-our-lady-of-guadalupe-basilica-the-spiritual-heart-of-mexico",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-10",
+      "lat": 6.7356,
+      "lng": 3.3669,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "discrimination",
+      "title": "Pregnant женщина Flees фулани ополчение",
+      "description": "Hours до giving birth her первый ребёнок, 22-год-old mother became widow после исламский фулани ополчение атакован her rural community в Nigeria. атака, which occurred between июнь 21 и июнь 22, claimed 22 lives. на июнь 21, Longdi T",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/10/pregnant-woman-flees-fulani-militia/",
       "victims": 0
     },
     {
@@ -6473,32 +6499,6 @@
       "lng": 7.4307,
       "country": "Nigeria",
       "city": "Abuja",
-      "type": "other",
-      "title": "UN experts warn ‘deeply troubling’ rights violations against христианки и girls в Nigeria",
-      "description": "“жертвы и выжившие must not be left without protection, justice, reparations, including rehabilitation и meaningful support,” experts wrote.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/un-experts-warn-of-deeply-troubling-rights-violations-against-christian-women-and-girls-in",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-09",
-      "lat": 12.1357,
-      "lng": 8.4002,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "Federal суд в New Mexico lets Nigerian священник remain в U.S. во время visa case",
-      "description": "Outcome newly-ordained Father Martin Umeatuegbu’s case could set precedent для other foreign-born священники из countries designated U.S. as “high risk.”",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/federal-court-in-new-mexico-lets-nigerian-priest-remain-in-u-s-during-visa-case",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-09",
-      "lat": 11.7767,
-      "lng": 8.662,
-      "country": "Nigeria",
-      "city": "Kano",
       "type": "other",
       "title": "UN experts warn ‘deeply troubling’ rights violations against христианки и girls в Nigeria",
       "description": "“жертвы и выжившие must not be left without protection, justice, reparations, including rehabilitation и meaningful support,” experts wrote.",
