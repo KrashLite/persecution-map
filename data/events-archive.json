@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-11T18:41:43.817Z",
+    "lastUpdated": "2026-07-12T01:21:29.822Z",
     "totalEvents": 500
   },
   "events": [
@@ -38,6 +38,19 @@
       "lng": 33.0371,
       "country": "Egypt",
       "city": "Sinai",
+      "type": "other",
+      "title": "Ancient христианин город unearthed в Egypt’s пустыня",
+      "description": "Archaeologists в Egypt have uncovered remarkably preserved Byzantine-эра поселение в Dakhla Oasis, revealing new evidence organised христианская община that flourished в Western пустыня more than 1,600 годы ago.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/ancient-christian-city-unearthed-in-egypts-desert",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-11",
+      "lat": 31.1086,
+      "lng": 30.1023,
+      "country": "Egypt",
+      "city": "Alexandria",
       "type": "other",
       "title": "Ancient христианин город unearthed в Egypt’s пустыня",
       "description": "Archaeologists в Egypt have uncovered remarkably preserved Byzantine-эра поселение в Dakhla Oasis, revealing new evidence organised христианская община that flourished в Western пустыня more than 1,600 годы ago.",
@@ -319,6 +332,19 @@
       "victims": 0
     },
     {
+      "date": "2026-07-10",
+      "lat": 10.5322,
+      "lng": 7.2836,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "discrimination",
+      "title": "Pregnant женщина Flees фулани ополчение",
+      "description": "Hours до giving birth her первый ребёнок, 22-год-old mother became widow после исламский фулани ополчение атакован her rural community в Nigeria. атака, which occurred between июнь 21 и июнь 22, claimed 22 lives. на июнь 21, Longdi T",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/10/pregnant-woman-flees-fulani-militia/",
+      "victims": 0
+    },
+    {
       "date": "2026-07-09",
       "lat": 31.4011,
       "lng": 74.5752,
@@ -402,6 +428,19 @@
       "lng": 44.443,
       "country": "Iraq",
       "city": "Baghdad",
+      "type": "other",
+      "title": "Папа Young Iraqi христиане: Your Mission Is Be Light в Darkness",
+      "description": "\"Ankawa молодёжь Meeting\" is largest христианин gathering в Iraq. It began в 2013, though it had be suspended following год due оккупация Nineveh равнины -- where Erbil is located -- ИГИЛ и ensuing conflict. p",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/07/09/the-pope-to-young-iraqi-christians-your-mission-is-to-be-light-in-the-darkness/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-09",
+      "lat": 36.1328,
+      "lng": 43.867,
+      "country": "Iraq",
+      "city": "Erbil",
       "type": "other",
       "title": "Папа Young Iraqi христиане: Your Mission Is Be Light в Darkness",
       "description": "\"Ankawa молодёжь Meeting\" is largest христианин gathering в Iraq. It began в 2013, though it had be suspended following год due оккупация Nineveh равнины -- where Erbil is located -- ИГИЛ и ensuing conflict. p",
@@ -748,6 +787,19 @@
       "victims": 0
     },
     {
+      "date": "2026-07-08",
+      "lat": 9.0644,
+      "lng": 7.3931,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Community Appeals U.S. правительство после фулани ополчения Kill христианский работник, 3 Others",
+      "description": "Community leaders в плато штат, Nigeria, are appealing для international attention после убийство христианин церковь worker и community leader, John Telle Danjuma, и separate убийство three люди mining site в nearby comm",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/08/community-appeals-to-u-s-government-after-fulani-militias-kill-christian-worker-3-others/",
+      "victims": 0
+    },
+    {
       "date": "2026-07-07",
       "lat": 32.741,
       "lng": 51.8709,
@@ -987,6 +1039,19 @@
       "lng": 13.1906,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "other",
+      "title": "Terror Network Slaughtering Nigerian христиане Has Escaped America’s чёрный список",
+      "description": "Experts и policy change-makers tell Daily Caller that правительства are failing confront primary угроза для христиане в Nigeria.",
+      "source": "newsapi:The Daily Caller",
+      "url": "https://dailycaller.com/2026/07/07/fulani-ethnic-militia-isis-nigeria-boko-haram-christians-donald-trump-riley-moore-chris-smith/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-07",
+      "lat": 10.3035,
+      "lng": 7.4306,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "other",
       "title": "Terror Network Slaughtering Nigerian христиане Has Escaped America’s чёрный список",
       "description": "Experts и policy change-makers tell Daily Caller that правительства are failing confront primary угроза для христиане в Nigeria.",
@@ -6440,71 +6505,6 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/un-experts-warn-of-deeply-troubling-rights-violations-against-christian-women-and-girls-in",
       "victims": 0
-    },
-    {
-      "date": "2026-06-09",
-      "lat": 10.3982,
-      "lng": 7.3665,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Federal суд в New Mexico lets Nigerian священник remain в U.S. во время visa case",
-      "description": "Outcome newly-ordained Father Martin Umeatuegbu’s case could set precedent для other foreign-born священники из countries designated U.S. as “high risk.”",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/federal-court-in-new-mexico-lets-nigerian-priest-remain-in-u-s-during-visa-case",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-09",
-      "lat": 6.3178,
-      "lng": 3.411,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "UN experts warn ‘deeply troubling’ rights violations against христианки и girls в Nigeria",
-      "description": "“жертвы и выжившие must not be left without protection, justice, reparations, including rehabilitation и meaningful support,” experts wrote.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/un-experts-warn-of-deeply-troubling-rights-violations-against-christian-women-and-girls-in",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-09",
-      "lat": 10.6397,
-      "lng": 7.5431,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "UN experts warn ‘deeply troubling’ rights violations against христианки и girls в Nigeria",
-      "description": "“жертвы и выжившие must not be left without protection, justice, reparations, including rehabilitation и meaningful support,” experts wrote.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/un-experts-warn-of-deeply-troubling-rights-violations-against-christian-women-and-girls-in",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-09",
-      "lat": 12.0175,
-      "lng": 13.3064,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "Federal суд в New Mexico lets Nigerian священник remain в U.S. во время visa case",
-      "description": "Outcome newly-ordained Father Martin Umeatuegbu’s case could set precedent для other foreign-born священники из countries designated U.S. as “high risk.”",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/federal-court-in-new-mexico-lets-nigerian-priest-remain-in-u-s-during-visa-case",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-08",
-      "lat": 26.7777,
-      "lng": 80.9088,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "attack",
-      "title": "Индус Nationalists атака церковь, Injure 25 прихожане",
-      "description": "Индус nationalist толпа brutally атакован богослужение service на воскресенье, май 31, в remote Sadrapal деревня Sukma район в central Indian штат Chhattisgarh, injuring least 25 прихожане, including пастор’s pregnant wife. th",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/08/hindu-nationalists-attack-church-injure-25-worshippers/",
-      "victims": 30
     }
   ]
 }
