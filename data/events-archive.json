@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-12T12:47:47.506Z",
+    "lastUpdated": "2026-07-12T18:44:53.465Z",
     "totalEvents": 500
   },
   "events": [
@@ -407,6 +407,32 @@
       "description": "Hours до giving birth her первый ребёнок, 22-год-old mother became widow после исламский фулани ополчение атакован her rural community в Nigeria. атака, which occurred between июнь 21 и июнь 22, claimed 22 lives. на июнь 21, Longdi T",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/10/pregnant-woman-flees-fulani-militia/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-10",
+      "lat": 11.9611,
+      "lng": 13.1451,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "Report Confirms фулани ополчения Responsible для Majority смерти в Nigeria",
+      "description": "According six-год study conducted Observatory для религиозный Freedom в Africa (ORFA), исламский фулани ополчения are far deadliest persecutors христиане в Nigeria. network ополчения is responsible для four times more civil",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/10/report-confirms-fulani-militias-responsible-for-majority-of-deaths-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-10",
+      "lat": 9.39,
+      "lng": 9.3113,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Catholic епископ: ‘There’s no политический will в fight against terrorism в Nigeria’",
+      "description": "Епископ Stephen Dami Mamza Diocese Yola says Nigerian правительство lacks will end persistent insecurity that has claimed thousands lives в West African country.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/catholic-bishop-there-s-no-political-will-in-fight-against-terrorism-in-nigeria",
       "victims": 0
     },
     {
@@ -862,6 +888,19 @@
       "description": "Community leaders в плато штат, Nigeria, are appealing для international attention после убийство христианин церковь worker и community leader, John Telle Danjuma, и separate убийство three люди mining site в nearby comm",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/08/community-appeals-to-u-s-government-after-fulani-militias-kill-christian-worker-3-others/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-08",
+      "lat": 32.4377,
+      "lng": 51.4616,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "murder",
+      "title": "Iran Moves Seize Historic Tehran церковь as Pressure на христиане Escalates",
+      "description": "Iranian власти are moving confiscate country’s oldest протестантская церковь и ordering христиане leave their homes, signaling new escalation в исламский Republic’s десятилетия-long кампания against христианство. St. Peter’s Evangelica",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/08/iran-moves-to-seize-historic-tehran-church-as-pressure-on-christians-escalates/",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Президент Donald Trump vowed на вторник respond после he accused Iran стрельба down US военные вертолёт previous ночь, hours после he said negotiations end Middle East war were в their окончательный stages. post Trump vows respons",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/06/trump-vows-response-after-iran-shoots-down-us-helicopter/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-09",
-      "lat": 8.9734,
-      "lng": 7.5916,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "Federal суд в New Mexico lets Nigerian священник remain в U.S. во время visa case",
-      "description": "Outcome newly-ordained Father Martin Umeatuegbu’s case could set precedent для other foreign-born священники из countries designated U.S. as “high risk.”",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/federal-court-in-new-mexico-lets-nigerian-priest-remain-in-u-s-during-visa-case",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-09",
-      "lat": 36.15,
-      "lng": 59.6287,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "Trump vows response после Iran shoots down US вертолёт",
-      "description": "Президент Trump vows strong response после Iran shoots down US вертолёт пролив Hormuz, threatening shaky ceasefire в Middle East c Read More: https://punchng.com/trump-vows-response-после-iran-shoots-down-us-вертолёт/",
-      "source": "punchng",
-      "url": "https://punchng.com/trump-vows-response-after-iran-shoots-down-us-helicopter/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-09",
-      "lat": 8.8918,
-      "lng": 7.4307,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "UN experts warn ‘deeply troubling’ rights violations against христианки и girls в Nigeria",
-      "description": "“жертвы и выжившие must not be left without protection, justice, reparations, including rehabilitation и meaningful support,” experts wrote.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/un-experts-warn-of-deeply-troubling-rights-violations-against-christian-women-and-girls-in",
       "victims": 0
     }
   ]
