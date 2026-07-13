@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-13T08:41:22.039Z",
+    "lastUpdated": "2026-07-13T13:55:57.064Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-07-13",
+      "lat": 31.4345,
+      "lng": 29.9826,
+      "country": "Egypt",
+      "city": "Alexandria",
+      "type": "arrest",
+      "title": "Полиция арест христианин жертвы после атака на Coptic церковь",
+      "description": "Egyptian полиция арестован four христиане who had been assaulted толпа во время атака на Coptic place богослужение в Egypt, и freed them two дни позже однажды they abandoned complaint they lodged against those who beat them.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/police-arrest-christian-victims-after-attack-on-coptic-church",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-13",
+      "lat": 33.7218,
+      "lng": 73.2029,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "other",
+      "title": "EU urges Pakistan protect религиозный minority girls из вынужден обращения",
+      "description": "Many жертвы are христианки и girls.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/eu-urges-pakistan-to-protect-religious-minority-girls-from-forced-conversions",
+      "victims": 0
+    },
     {
       "date": "2026-07-11",
       "lat": 11.8936,
@@ -446,6 +472,19 @@
       "description": "Епископ Stephen Dami Mamza Diocese Yola says Nigerian правительство lacks will end persistent insecurity that has claimed thousands lives в West African country.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/catholic-bishop-there-s-no-political-will-in-fight-against-terrorism-in-nigeria",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-10",
+      "lat": 9.0642,
+      "lng": 7.6708,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Report Confirms фулани ополчения Responsible для Majority смерти в Nigeria",
+      "description": "According six-год study conducted Observatory для религиозный Freedom в Africa (ORFA), исламский фулани ополчения are far deadliest persecutors христиане в Nigeria. network ополчения is responsible для four times more civil",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/10/report-confirms-fulani-militias-responsible-for-majority-of-deaths-in-nigeria/",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Офис United Nations High Commissioner для Human Rights has raised alarm credible reports могила human rights violations affecting женщины и girls в Nigeria, including убийства, похищения, sexual violence, вынужден обращение, forc",
       "source": "persecution",
       "url": "https://persecution.org/2026/06/10/un-experts-warn-of-rights-violations-against-christian-women-girls-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-10",
-      "lat": 9.0435,
-      "lng": 9.2742,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "kidnapping",
-      "title": "U.N. Experts Warn Rights Violations Against христианки, Girls в Nigeria",
-      "description": "Офис United Nations High Commissioner для Human Rights has raised alarm credible reports могила human rights violations affecting женщины и girls в Nigeria, including убийства, похищения, sexual violence, вынужден обращение, forc",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/10/un-experts-warn-of-rights-violations-against-christian-women-girls-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-10",
-      "lat": 29.5992,
-      "lng": 52.4332,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "attack",
-      "title": "Iran’s военные vows more ‘devastating’ strikes и Maine voters set up сенат showdown: утро Rundown",
-      "description": "Iran strikes U.S. targets в залив после fresh American атаки downed вертолёт.",
-      "source": "newsapi:NBC News",
-      "url": "https://www.nbcnews.com/news/us-news/iran-vows-strikes-platner-maine-senate-morning-rundown-rcna349375",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-09",
-      "lat": 10.3025,
-      "lng": 7.5683,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Aig-Imoukhuede Memorial Lecture: политический position isn’t leadership, Kukah tells Nigerians",
-      "description": "Catholic епископ Sokoto Diocese, Matthew Kukah, вчера challenged Nigerians rethink their understanding leadership. post Aig-Imoukhuede Memorial Lecture: политический position isn’t leadership, Kukah tells Nigerians appeared первый",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/06/at-aig-imoukhuede-memorial-lecture-political-position-isnt-leadership-kukah-tells-nigerians/",
       "victims": 0
     }
   ]
