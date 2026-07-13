@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-12T18:44:53.465Z",
+    "lastUpdated": "2026-07-13T01:22:50.587Z",
     "totalEvents": 500
   },
   "events": [
@@ -428,6 +428,19 @@
       "lng": 9.3113,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "other",
+      "title": "Catholic епископ: ‘There’s no политический will в fight against terrorism в Nigeria’",
+      "description": "Епископ Stephen Dami Mamza Diocese Yola says Nigerian правительство lacks will end persistent insecurity that has claimed thousands lives в West African country.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/catholic-bishop-there-s-no-political-will-in-fight-against-terrorism-in-nigeria",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-10",
+      "lat": 10.4154,
+      "lng": 7.3502,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "other",
       "title": "Catholic епископ: ‘There’s no политический will в fight against terrorism в Nigeria’",
       "description": "Епископ Stephen Dami Mamza Diocese Yola says Nigerian правительство lacks will end persistent insecurity that has claimed thousands lives в West African country.",
@@ -901,6 +914,19 @@
       "description": "Iranian власти are moving confiscate country’s oldest протестантская церковь и ordering христиане leave their homes, signaling new escalation в исламский Republic’s десятилетия-long кампания against христианство. St. Peter’s Evangelica",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/08/iran-moves-to-seize-historic-tehran-church-as-pressure-on-christians-escalates/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-08",
+      "lat": 10.4793,
+      "lng": 7.2095,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "attack",
+      "title": "US Congressman blames фулани боевики для атаки на христиане в Nigeria",
+      "description": "US Congressman, Rep. Riley Moore, has said фулани боевики are far largest perpetrators violence against христиане в Nigeria post US Congressman blames фулани боевики для атаки на христиане в Nigeria appeared первый на Vanguard",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/us-congressman-blames-fulani-militants-for-attacks-on-christians-in-nigeria/",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Catholic епископ Sokoto Diocese, Matthew Kukah, вчера challenged Nigerians rethink their understanding leadership. post Aig-Imoukhuede Memorial Lecture: политический position isn’t leadership, Kukah tells Nigerians appeared первый",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/06/at-aig-imoukhuede-memorial-lecture-political-position-isnt-leadership-kukah-tells-nigerians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-09",
-      "lat": 12.1067,
-      "lng": 8.4022,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "Enenche opposes calls для removal service chiefs insecurity",
-      "description": "Major General John Enenche (retd.) argues that replacing service chiefs won’t solve Nigeria’s persistent insecurity, despite calls из пастор Adeboye. Read More: https://punchng.com/enenche-opposes-calls-для-removal--service-chiefs--insecurit",
-      "source": "punchng",
-      "url": "https://punchng.com/enenche-opposes-calls-for-removal-of-service-chiefs-over-insecurity/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-09",
-      "lat": 29.3617,
-      "lng": 52.7282,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "attack",
-      "title": "Trump vows response после Iran shoots down US вертолёт",
-      "description": "Президент Donald Trump vowed на вторник respond после he accused Iran стрельба down US военные вертолёт previous ночь, hours после he said negotiations end Middle East war were в their окончательный stages. post Trump vows respons",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/06/trump-vows-response-after-iran-shoots-down-us-helicopter/",
       "victims": 0
     }
   ]
