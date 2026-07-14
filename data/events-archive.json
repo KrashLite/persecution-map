@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-14T07:42:50.983Z",
+    "lastUpdated": "2026-07-14T13:00:39.657Z",
     "totalEvents": 500
   },
   "events": [
@@ -173,6 +173,32 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – чиновники в Pakistan на прошлой неделе reported parliamentary комитет that majority 333 богохульство cases registered в past five годы в four провинции were fabricated, acc",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/07/majority-of-blasphemy-cases-in-pakistan-fabricated-officials-say/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-13",
+      "lat": 19.1265,
+      "lng": 72.8973,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "other",
+      "title": "Maharashtra Orders Audit христианин Properties",
+      "description": "На июль 8, правительство Indian штат Maharashtra ordered time-bound, statewide audit land parcels owned церкви и христианский миссионер organizations identify illegal encroachments, disputed land titles, и unauthorized tran",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/13/maharashtra-orders-audit-of-christian-properties/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-13",
+      "lat": 31.5012,
+      "lng": 74.3925,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "other",
+      "title": "EU urges Pakistan protect религиозный minority girls из вынужден обращения",
+      "description": "Many жертвы are христианки и girls.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/eu-urges-pakistan-to-protect-religious-minority-girls-from-forced-conversions",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Офис United Nations High Commissioner для Human Rights has raised alarm credible reports могила human rights violations affecting женщины и girls в Nigeria, including убийства, похищения, sexual violence, вынужден обращение, forc",
       "source": "persecution",
       "url": "https://persecution.org/2026/06/10/un-experts-warn-of-rights-violations-against-christian-women-girls-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-10",
-      "lat": 24.8049,
-      "lng": 66.9212,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "other",
-      "title": "Pakistani церкви shift месса times, offer water amid record heat wave",
-      "description": "As \"feels-like\" temperatures near 48 degrees Celsius (118 F), parishes в Karachi и Lahore are shifting молитва times, distributing water, и improving ventilation protect прихожане.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-churches-shift-mass-times-offer-water-amid-record-heat-wave",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-10",
-      "lat": -12.2365,
-      "lng": 40.4674,
-      "country": "Mozambique",
-      "city": "Cabo Delgado",
-      "type": "murder",
-      "title": "Catholic leaders across Africa, Vatican mourn убит Mozambique епископ, call для justice",
-      "description": "African Catholic епископы, Vatican Dicastery для Evangelization, и Aid церковь в Need (ACN) joined папа Leo в mourning 54-год-old епископ, calling для justice.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/catholic-leaders-across-africa-vatican-mourn-slain-mozambique-bishop-call-for-justice",
       "victims": 0
     }
   ]
