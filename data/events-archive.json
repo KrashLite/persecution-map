@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-14T01:11:56.262Z",
+    "lastUpdated": "2026-07-14T07:42:50.983Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-07-14",
+      "lat": 8.9558,
+      "lng": 7.6934,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "arrest",
+      "title": "Don’t reintegrate terror suspects without суд — Nigerian христиане в US tell FG",
+      "description": "CANAN президент, Dr James Fadel, и association's Executive Director, Dr Banjo Olaniyan, used briefing outline group's position на terrorism, религиозный freedom и security reforms. post Don’t reintegrate terror suspects without t",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/07/dont-reintegrate-terror-suspects-without-trial-nigerian-christians-in-us-tell-fg/",
+      "victims": 0
+    },
     {
       "date": "2026-07-13",
       "lat": 31.4345,
@@ -134,6 +147,32 @@
       "description": "Many жертвы are христианки и girls.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/eu-urges-pakistan-to-protect-religious-minority-girls-from-forced-conversions",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-13",
+      "lat": 26.7455,
+      "lng": 80.7723,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "other",
+      "title": "Maharashtra Orders Audit христианин Properties",
+      "description": "На июль 8, правительство Indian штат Maharashtra ordered time-bound, statewide audit land parcels owned церкви и христианский миссионер organizations identify illegal encroachments, disputed land titles, и unauthorized tran",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/13/maharashtra-orders-audit-of-christian-properties/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-13",
+      "lat": 24.7226,
+      "lng": 66.7873,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "other",
+      "title": "Majority богохульство Cases в Pakistan ‘Fabricated,’ чиновники Say",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – чиновники в Pakistan на прошлой неделе reported parliamentary комитет that majority 333 богохульство cases registered в past five годы в four провинции were fabricated, acc",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/majority-of-blasphemy-cases-in-pakistan-fabricated-officials-say/",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "African Catholic епископы, Vatican Dicastery для Evangelization, и Aid церковь в Need (ACN) joined папа Leo в mourning 54-год-old епископ, calling для justice.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/catholic-leaders-across-africa-vatican-mourn-slain-mozambique-bishop-call-for-justice",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-10",
-      "lat": -4.5287,
-      "lng": 15.2912,
-      "country": "Democratic Republic of the Congo",
-      "city": "Kinshasa",
-      "type": "other",
-      "title": "Исламский экстремисты Release Photos Indoctrinated дети в DRC",
-      "description": "Following publication photos из 2026 Tabaski celebrations в Democratic Republic Congo (DRC), Исламское государство’s Central Africa провинция (ISCAP), which includes Allied Democratic силы (ADF), released numerous images, в",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/10/islamic-extremists-release-photos-of-indoctrinated-children-in-drc/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-10",
-      "lat": 14.3693,
-      "lng": 121.1046,
-      "country": "Philippines",
-      "city": "Manila",
-      "type": "murder",
-      "title": "Церковь в Philippines rallies aid после Mindanao earthquake",
-      "description": "As смерть toll из июнь 8 Mindanao earthquake climbs, Catholic епископы across Philippines are urging faithful give relief и rehabilitation усилия.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/church-in-the-philippines-rallies-aid-after-mindanao-earthquake",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-10",
-      "lat": 12.0528,
-      "lng": 13.1062,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "kidnapping",
-      "title": "U.N. Experts Warn Rights Violations Against христианки, Girls в Nigeria",
-      "description": "Офис United Nations High Commissioner для Human Rights has raised alarm credible reports могила human rights violations affecting женщины и girls в Nigeria, including убийства, похищения, sexual violence, вынужден обращение, forc",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/10/un-experts-warn-of-rights-violations-against-christian-women-girls-in-nigeria/",
       "victims": 0
     }
   ]
