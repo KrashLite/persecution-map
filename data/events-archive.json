@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-14T13:00:39.657Z",
+    "lastUpdated": "2026-07-14T18:58:12.693Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,32 @@
       "description": "CANAN президент, Dr James Fadel, и association's Executive Director, Dr Banjo Olaniyan, used briefing outline group's position на terrorism, религиозный freedom и security reforms. post Don’t reintegrate terror suspects without t",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/07/dont-reintegrate-terror-suspects-without-trial-nigerian-christians-in-us-tell-fg/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-14",
+      "lat": 33.5462,
+      "lng": 72.9678,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "arrest",
+      "title": "Pakistan суд hands rare тюрьма приговор anti-христианин riots",
+      "description": "Anti-terrorism суд приговорён crane driver 10 годы для demolishing церковь во время 2023 толпа атаки, but христианские лидеры warn one осуждение falls far short justice.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-court-hands-rare-prison-sentence-over-anti-christian-riots",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-14",
+      "lat": 33.1456,
+      "lng": 44.3111,
+      "country": "Iraq",
+      "city": "Baghdad",
+      "type": "other",
+      "title": "Iraq’s премьер-министр calls на Iraqi христиане abroad return home",
+      "description": "Церковь leaders applauded Iraq премьер-министр Ali Falih al Zaidi’s call для христиане и business leaders return their homeland but stressed need для reform.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/iraq-s-prime-minister-calls-on-iraqi-christians-abroad-to-return-home",
       "victims": 0
     },
     {
@@ -6479,32 +6505,6 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/four-sentenced-to-death-over-terror-attack-on-nigerian-church",
       "victims": 40
-    },
-    {
-      "date": "2026-06-10",
-      "lat": 24.8723,
-      "lng": 66.9282,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "other",
-      "title": "Pakistan армия вертолёт crashes, убийство all на board",
-      "description": "Pakistani армия вертолёт crashed в Pakistan-controlled Kashmir due technical fault, убийство all personnel на board. Read more о Pakistan h Read More: https://punchng.com/pakistan-армия-вертолёт-crashes-убийство-all-на-board/",
-      "source": "punchng",
-      "url": "https://punchng.com/pakistan-army-helicopter-crashes-killing-all-on-board/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-10",
-      "lat": 10.2772,
-      "lng": 7.4362,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "kidnapping",
-      "title": "U.N. Experts Warn Rights Violations Against христианки, Girls в Nigeria",
-      "description": "Офис United Nations High Commissioner для Human Rights has raised alarm credible reports могила human rights violations affecting женщины и girls в Nigeria, including убийства, похищения, sexual violence, вынужден обращение, forc",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/10/un-experts-warn-of-rights-violations-against-christian-women-girls-in-nigeria/",
-      "victims": 0
     }
   ]
 }
