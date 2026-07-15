@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-15T07:46:54.983Z",
+    "lastUpdated": "2026-07-15T13:04:04.970Z",
     "totalEvents": 500
   },
   "events": [
@@ -342,6 +342,32 @@
       "description": "На июль 8, правительство Indian штат Maharashtra ordered time-bound, statewide audit land parcels owned церкви и христианский миссионер organizations identify illegal encroachments, disputed land titles, и unauthorized tran",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/13/maharashtra-orders-audit-of-christian-properties/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-13",
+      "lat": 20.8553,
+      "lng": 84.9592,
+      "country": "India",
+      "city": "Odisha",
+      "type": "other",
+      "title": "Maharashtra Orders Audit христианин Properties",
+      "description": "На июль 8, правительство Indian штат Maharashtra ordered time-bound, statewide audit land parcels owned церкви и христианский миссионер organizations identify illegal encroachments, disputed land titles, и unauthorized tran",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/13/maharashtra-orders-audit-of-christian-properties/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-13",
+      "lat": 33.8278,
+      "lng": 73.0725,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "other",
+      "title": "Majority богохульство Cases в Pakistan ‘Fabricated,’ чиновники Say",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – чиновники в Pakistan на прошлой неделе reported parliamentary комитет that majority 333 богохульство cases registered в past five годы в four провинции were fabricated, acc",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/majority-of-blasphemy-cases-in-pakistan-fabricated-officials-say/",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Епископы, кардиналы и архиепископы were accused not standing с ordinary христиане страдания violence в their communities.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/systemic-anti-christian-violence-laid-bare-at-public-hearing-in-india",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-12",
-      "lat": 8.9089,
-      "lng": 7.3173,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "Nigeria Advances штат полиция Reform Amid Longstanding Security Failures",
-      "description": "Nigeria’s парламент has taken major step toward one country’s most consequential security reforms в десятилетия, approving legislation that would allow each country’s 36 штаты establish и operate their own полиция силы alongside",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/12/nigeria-advances-state-police-reform-amid-longstanding-security-failures/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-12",
-      "lat": 31.5586,
-      "lng": 74.3989,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "kidnapping",
-      "title": "Activists, Legal Experts Claim Forged Documents Used в Maria Shahbaz Case",
-      "description": "На июнь 6, христианин rights activists и legal experts revealed во время press conference в Lahore, Pakistan, that documents used validate marriage 13-год-old Maria Shahbaz were extensively forged. These documents were presented t",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/12/activists-legal-experts-claim-forged-documents-used-in-maria-shahbaz-case/",
       "victims": 0
     }
   ]
