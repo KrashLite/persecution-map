@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-15T01:09:09.787Z",
+    "lastUpdated": "2026-07-15T07:46:54.983Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-07-15",
+      "lat": 9.0504,
+      "lng": 7.3654,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Nigerian священник в US dies suicide после order return home",
+      "description": "Nigerian священник в US погиб suicide после being ordered return home, fearing для his life. Learn more о tragic смерть Father Benjamin Read More: https://punchng.com/nigerian-священник-в-us-dies--suicide-после-order--return-hom",
+      "source": "punchng",
+      "url": "https://punchng.com/nigerian-priest-in-us-dies-by-suicide-after-order-to-return-home/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-07-14",
       "lat": 8.9558,
@@ -95,6 +108,19 @@
       "description": "“More than 110,000 metric tons U.S.-grown agricultural commodities” will be delivered под agreement в principle between Catholic Relief Services и U.S. департамент Agriculture.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/catholic-relief-services-food-aid-for-sudan-ethiopia",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-14",
+      "lat": 31.4077,
+      "lng": 74.3611,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "arrest",
+      "title": "Pakistan суд hands rare тюрьма приговор anti-христианин riots",
+      "description": "Anti-terrorism суд приговорён crane driver 10 годы для demolishing церковь во время 2023 толпа атаки, but христианские лидеры warn one осуждение falls far short justice.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-court-hands-rare-prison-sentence-over-anti-christian-riots",
       "victims": 0
     },
     {
@@ -290,6 +316,32 @@
       "description": "Христиане across коммунист China are being арестован, задержан и effectively “исчезнувший” для worshipping outside штат-controlled церкви, according major investigation Telegraph. post REPORT: 10,000 христиане арестован в C",
       "source": "newsapi:Thegatewaypundit.com",
       "url": "https://www.thegatewaypundit.com/2026/07/report-10000-christians-arrested-china-as-xi-jinpings/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-13",
+      "lat": 43.745,
+      "lng": 87.6645,
+      "country": "China",
+      "city": "Xinjiang",
+      "type": "arrest",
+      "title": "REPORT: 10,000 христиане арестован в China as Xi Jinping’s коммунист Regime Escalates религиозный Crackdown",
+      "description": "Христиане across коммунист China are being арестован, задержан и effectively “исчезнувший” для worshipping outside штат-controlled церкви, according major investigation Telegraph. post REPORT: 10,000 христиане арестован в C",
+      "source": "newsapi:Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/07/report-10000-christians-arrested-china-as-xi-jinpings/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-13",
+      "lat": 21.292,
+      "lng": 81.7822,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Maharashtra Orders Audit христианин Properties",
+      "description": "На июль 8, правительство Indian штат Maharashtra ordered time-bound, statewide audit land parcels owned церкви и христианский миссионер organizations identify illegal encroachments, disputed land titles, и unauthorized tran",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/13/maharashtra-orders-audit-of-christian-properties/",
       "victims": 0
     },
     {
@@ -875,6 +927,19 @@
       "description": "\"Ankawa молодёжь Meeting\" is largest христианин gathering в Iraq. It began в 2013, though it had be suspended following год due оккупация Nineveh равнины -- where Erbil is located -- ИГИЛ и ensuing conflict. p",
       "source": "zenit",
       "url": "https://zenit.org/2026/07/09/the-pope-to-young-iraqi-christians-your-mission-is-to-be-light-in-the-darkness/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-09",
+      "lat": 34.0965,
+      "lng": 71.7495,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "arrest",
+      "title": "Corruption в Pakistan’s суды hits poor христиане hardest, report finds",
+      "description": "Христиане accused под Pakistan's богохульство laws face bribe demands, stalled суды, и зал суда запугивание, according new report two leading human rights organizations.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/corruption-in-pakistan-s-courts-hits-poor-christians-hardest-report-finds",
       "victims": 0
     },
     {
@@ -6440,71 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/06/12/activists-legal-experts-claim-forged-documents-used-in-maria-shahbaz-case/",
       "victims": 0
-    },
-    {
-      "date": "2026-06-12",
-      "lat": 28.7199,
-      "lng": 77.0007,
-      "country": "India",
-      "city": "Delhi",
-      "type": "other",
-      "title": "Systemic anti-христианин violence laid bare public hearing в India",
-      "description": "Епископы, кардиналы и архиепископы were accused not standing с ordinary христиане страдания violence в their communities.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/systemic-anti-christian-violence-laid-bare-at-public-hearing-in-india",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-12",
-      "lat": 10.3294,
-      "lng": 7.333,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Nigeria Advances штат полиция Reform Amid Longstanding Security Failures",
-      "description": "Nigeria’s парламент has taken major step toward one country’s most consequential security reforms в десятилетия, approving legislation that would allow each country’s 36 штаты establish и operate their own полиция силы alongside",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/12/nigeria-advances-state-police-reform-amid-longstanding-security-failures/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-12",
-      "lat": 11.6694,
-      "lng": 13.0339,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "Nigeria Advances штат полиция Reform Amid Longstanding Security Failures",
-      "description": "Nigeria’s парламент has taken major step toward one country’s most consequential security reforms в десятилетия, approving legislation that would allow each country’s 36 штаты establish и operate their own полиция силы alongside",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/12/nigeria-advances-state-police-reform-amid-longstanding-security-failures/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-12",
-      "lat": 6.5196,
-      "lng": 3.3383,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Nigeria Advances штат полиция Reform Amid Longstanding Security Failures",
-      "description": "Nigeria’s парламент has taken major step toward one country’s most consequential security reforms в десятилетия, approving legislation that would allow each country’s 36 штаты establish и operate their own полиция силы alongside",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/12/nigeria-advances-state-police-reform-amid-longstanding-security-failures/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-11",
-      "lat": 6.5455,
-      "lng": 3.3981,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Four приговорён смерть terror атака на Nigerian церковь",
-      "description": "40 люди погиб в атака во время Pentecost воскресенье service в 2022.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/four-sentenced-to-death-over-terror-attack-on-nigerian-church",
-      "victims": 40
     }
   ]
 }
