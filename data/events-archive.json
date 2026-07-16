@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-16T01:18:15.207Z",
+    "lastUpdated": "2026-07-16T07:51:35.341Z",
     "totalEvents": 500
   },
   "events": [
@@ -83,6 +83,19 @@
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/07/protect-christians-from-attacks-us-official-urges-nigeria/",
       "victims": 0
+    },
+    {
+      "date": "2026-07-15",
+      "lat": 8.988,
+      "lng": 7.5081,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Фулани экстремисты Kill 25 христиане после Nigerian армия Ignores рано Warnings",
+      "description": "Least 25 христиане, including 2-месяц-old, were убит в separate атаки во время выходные в Nigeria’s Middle Belt регион. первый атака occurred на суббота ночь, июль 11, в Kum и Wereng-Comp communities Ryom округ в Platea",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/15/fulani-extremists-kill-25-christians-after-nigerian-army-ignores-early-warnings/",
+      "victims": 25
     },
     {
       "date": "2026-07-14",
@@ -6491,19 +6504,6 @@
       "description": "Церковь leaders launched six-месяц journey для Marian icon, which will travel more than 50 церкви до its permanent installation Manila Cathedral в декабрь.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/our-lady-of-guadalupe-image-begins-6-month-pilgrimage-in-the-philippines",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-12",
-      "lat": 27.9124,
-      "lng": 85.2983,
-      "country": "Nepal",
-      "city": "Kathmandu",
-      "type": "discrimination",
-      "title": "New ICC Report Explores Nepal’s Growing индус Nationalism, христианин гонение",
-      "description": "Following Nepal’s nearly 200-год запрет на христианство, вера has experienced steady growth since 1951 as number церкви, христианские школы, и больницы has постепенно expanded. Despite this growth, христиане only make up о 1.76%",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/12/new-icc-report-explores-nepals-growing-hindu-nationalism-christian-persecution/",
       "victims": 0
     }
   ]
