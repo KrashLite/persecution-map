@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-15T18:51:07.829Z",
+    "lastUpdated": "2026-07-16T01:18:15.207Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-07-16",
+      "lat": 9.2701,
+      "lng": 9.6498,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "discrimination",
+      "title": "US presses Nigeria на христианин атаки, ВПЛ resettlement",
+      "description": "US urges Nigeria protect христианские общины из атаки и ensure safe resettlement для внутренне перемещённые лица. Learn more о US-N Read More: https://punchng.com/us-presses-nigeria-на-христианин-атаки-ВПЛ-resettlement/",
+      "source": "punchng",
+      "url": "https://punchng.com/us-presses-nigeria-on-christian-attacks-idp-resettlement/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-07-15",
       "lat": 9.0504,
@@ -173,6 +186,19 @@
       "description": "Anti-terrorism суд приговорён crane driver 10 годы для demolishing церковь во время 2023 толпа атаки, but христианские лидеры warn one осуждение falls far short justice.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-court-hands-rare-prison-sentence-over-anti-christian-riots",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-14",
+      "lat": 36.0506,
+      "lng": 43.8115,
+      "country": "Iraq",
+      "city": "Erbil",
+      "type": "other",
+      "title": "Iraq’s премьер-министр calls на Iraqi христиане abroad return home",
+      "description": "Церковь leaders applauded Iraq премьер-министр Ali Falih al Zaidi’s call для христиане и business leaders return their homeland but stressed need для reform.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/iraq-s-prime-minister-calls-on-iraqi-christians-abroad-to-return-home",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Following Nepal’s nearly 200-год запрет на христианство, вера has experienced steady growth since 1951 as number церкви, христианские школы, и больницы has постепенно expanded. Despite this growth, христиане only make up о 1.76%",
       "source": "persecution",
       "url": "https://persecution.org/2026/06/12/new-icc-report-explores-nepals-growing-hindu-nationalism-christian-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-12",
-      "lat": 34.1565,
-      "lng": 71.5253,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "kidnapping",
-      "title": "Activists, Legal Experts Claim Forged Documents Used в Maria Shahbaz Case",
-      "description": "На июнь 6, христианин rights activists и legal experts revealed во время press conference в Lahore, Pakistan, that documents used validate marriage 13-год-old Maria Shahbaz were extensively forged. These documents were presented t",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/12/activists-legal-experts-claim-forged-documents-used-in-maria-shahbaz-case/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-12",
-      "lat": 9.0807,
-      "lng": 7.3829,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "US lawmaker hails Nigeria’s штат полиция Bill passage",
-      "description": "He said, \"I am thankful see that Nigeria’s House представители passed this important policy that I’ve been calling для since @POTUS первый asked me investigate геноцид against христиане в Nigeria. post US lawmaker hails Nigeria’s",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/06/us-lawmaker-hails-nigerias-state-police-bill-passage/",
       "victims": 0
     }
   ]
