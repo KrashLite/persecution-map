@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-17T07:49:12.519Z",
+    "lastUpdated": "2026-07-17T12:57:23.931Z",
     "totalEvents": 500
   },
   "events": [
@@ -202,6 +202,32 @@
       "victims": 0
     },
     {
+      "date": "2026-07-16",
+      "lat": 9.1607,
+      "lng": 9.5141,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "US House votes withhold 100% aid Nigeria христианин гонение",
+      "description": "US House представители has voted withhold 100% aid Nigeria alleged христианин гонение. Find out what this means для US-Nigeria re Read More: https://punchng.com/us-house-votes--withhold-100--aid--nigeria--christia",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-house-votes-to-withhold-100-of-aid-to-nigeria-over-christian-persecution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-16",
+      "lat": 6.4733,
+      "lng": 3.4993,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Nigeria, Nicaragua, Syria, India cited в index rising христианин гонение",
+      "description": "Религиозный nationalism, штат control, terrorism, authoritarianism, и limits на женщины are among drivers rising гонение globally, International христианин Concern (ICC) report said.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/nigeria-nicaragua-syria-india-cited-in-index-of-rising-christian-persecution",
+      "victims": 0
+    },
+    {
       "date": "2026-07-15",
       "lat": 9.0504,
       "lng": 7.3654,
@@ -337,6 +363,19 @@
       "lng": 74.2088,
       "country": "Pakistan",
       "city": "Lahore",
+      "type": "arrest",
+      "title": "Egypt: мусульманин толпа нападения христиане as it атаки церковь, полиция арест христиане",
+      "description": "Полиция freed them only после they abandoned their complaint against мусульмане who атакован them. As в Pakistan и elsewhere, христиане в Egypt can expect no sympathy or protection из власти. If мусульмане victimize them, those authoriti",
+      "source": "newsapi:Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-chat/4388052/posts",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-15",
+      "lat": 33.5227,
+      "lng": 73.1176,
+      "country": "Pakistan",
+      "city": "Islamabad",
       "type": "arrest",
       "title": "Egypt: мусульманин толпа нападения христиане as it атаки церковь, полиция арест христиане",
       "description": "Полиция freed them only после they abandoned their complaint against мусульмане who атакован them. As в Pakistan и elsewhere, христиане в Egypt can expect no sympathy or protection из власти. If мусульмане victimize them, those authoriti",
@@ -6465,45 +6504,6 @@
       "description": "Using богохульство accusations as weapon is nothing new в Pakistan. situation сейчас goes beyond that. Members growing organized богохульство business network are actively trying trap люди в committing “богохульство” на social media. Some Pak",
       "source": "persecution",
       "url": "https://persecution.org/2026/06/15/blasphemy-inc-accusations-for-profit-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-15",
-      "lat": -6.0144,
-      "lng": 35.7721,
-      "country": "Tanzania",
-      "city": "Dodoma",
-      "type": "kidnapping",
-      "title": "Христианка похищен, Assaulted в Tanzania",
-      "description": "Для many верующие, воскресенье is день peace, богослужение, и fellowship. But для Ester Felisian Wakala, recent воскресенье was nearly день she lost her life. Wakala, gospel министр в Zanzibar, Tanzania, has devoted her life serving God и leadi",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/15/christian-woman-abducted-assaulted-in-tanzania/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-15",
-      "lat": 15.3875,
-      "lng": 32.7482,
-      "country": "Sudan",
-      "city": "Khartoum",
-      "type": "attack",
-      "title": "Мусульмане нападение Sudanese христианин в лагерь беженцев церковь",
-      "description": "Group мусульмане недавно entered Drake Haron’s церковь inside Gorom лагерь беженцев в South Sudan и assaulted him. Haron has expected such violence since he left ислам follow Jesus. атака, which occurred на май 28, violated sense",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/15/muslims-assault-sudanese-christian-in-refugee-camp-church/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-15",
-      "lat": 31.4544,
-      "lng": 74.1287,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "other",
-      "title": "Pakistan правительство takes historic христианин колледж building в Lahore",
-      "description": "Punjab власти have изъят Ewing Hall, век-old building tied Lahore's Forman христианин колледж, as христианские лидеры и rights groups warn it could be lost для good.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-government-seizes-historic-christian-college-building-in-lahore",
       "victims": 0
     }
   ]
