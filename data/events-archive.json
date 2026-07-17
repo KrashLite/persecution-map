@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-16T18:52:57.645Z",
+    "lastUpdated": "2026-07-17T01:21:50.224Z",
     "totalEvents": 500
   },
   "events": [
@@ -82,6 +82,32 @@
       "description": "После 14 годы silence, Byzantine hymns в Syria’s central посёлок Ghassaniyeh bear свидетель return liturgical celebrations.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/christians-celebrate-first-divine-liturgy-in-central-syrian-town-since-war-began",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-16",
+      "lat": 12.0004,
+      "lng": 13.3714,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "Nigeria, Nicaragua, Syria, India cited в index rising христианин гонение",
+      "description": "Религиозный nationalism, штат control, terrorism, authoritarianism, и limits на женщины are among drivers rising гонение globally, International христианин Concern (ICC) report said.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/nigeria-nicaragua-syria-india-cited-in-index-of-rising-christian-persecution",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-16",
+      "lat": -4.0711,
+      "lng": 39.4711,
+      "country": "Kenya",
+      "city": "Mombasa",
+      "type": "other",
+      "title": "Young Kenyan diocese faces испытание власть as its епископ suspends nearly one в six священники",
+      "description": "Underlying dispute also touches на perennial problem в церковь governance: reform can be necessary и still generate сопротивление. епископ seeking impose greater transparency май encounter suspicion из those who fear excessive centralizati",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/07/15/a-young-kenyan-diocese-faces-a-test-of-authority-as-its-bishop-suspends-nearly-one-in-six-priests/",
       "victims": 0
     },
     {
@@ -316,6 +342,19 @@
       "description": "Церковь leaders applauded Iraq премьер-министр Ali Falih al Zaidi’s call для христиане и business leaders return their homeland but stressed need для reform.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/iraq-s-prime-minister-calls-on-iraqi-christians-abroad-to-return-home",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-14",
+      "lat": 33.898,
+      "lng": 71.6292,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "arrest",
+      "title": "Pakistan суд hands rare тюрьма приговор anti-христианин riots",
+      "description": "Anti-terrorism суд приговорён crane driver 10 годы для demolishing церковь во время 2023 толпа атаки, but христианские лидеры warn one осуждение falls far short justice.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-court-hands-rare-prison-sentence-over-anti-christian-riots",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Kenyan полиция have арестован suspect в май 2025 убийство Father Allois Cheruiyot Bett, who was застрелен пока returning из Eucharistic celebration в Kenya’s troubled Kerio долина регион.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/police-arrest-prime-suspect-in-killing-of-kenyan-catholic-priest",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-13",
-      "lat": -4.0406,
-      "lng": 39.4869,
-      "country": "Kenya",
-      "city": "Mombasa",
-      "type": "arrest",
-      "title": "Полиция арест prime suspect в убийство Kenyan Catholic священник",
-      "description": "Kenyan полиция have арестован suspect в май 2025 убийство Father Allois Cheruiyot Bett, who was застрелен пока returning из Eucharistic celebration в Kenya’s troubled Kerio долина регион.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/police-arrest-prime-suspect-in-killing-of-kenyan-catholic-priest",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-13",
-      "lat": 10.4483,
-      "lng": 7.2852,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Real Warri Pikin wraps up successful US tour featuring Kofi Da Guru, старший пастор",
-      "description": "Nigerian comedian и actress Real Warri Pikin has successfully concluded American leg her \"в My Element\" Tour, drawing large audiences в Dallas и Houston, Texas, и reinforcing her growing international profile. post Real Warri Pikin",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/06/real-warri-pikin-wraps-up-successful-us-tour-featuring-kofi-da-guru-senior-pastor/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-13",
-      "lat": 11.6951,
-      "lng": 13.1822,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "Self-defence not answer worsening insecurity — African церковь Primate, Abbe",
-      "description": "African церковь Primate, Julius Abbe, штаты self-defence is not solution Nigeria’s worsening insecurity, urging правительство action и молитвы. Read More: https://punchng.com/self-defence-not-answer--worsening-insecurity-african-церковь-prima",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/?p=2165268",
       "victims": 0
     }
   ]
