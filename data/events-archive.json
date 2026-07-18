@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-18T01:14:20.046Z",
+    "lastUpdated": "2026-07-18T07:24:03.517Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-07-18",
+      "lat": 4.5039,
+      "lng": 18.6019,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "How partnership between African церкви is helping communities see снова",
+      "description": "Для millions взрослые в low-income и rural areas, poor vision affects everything из earning living reading Scripture. христианин сегодня spoke с Rev Irene Akuku и Julius Mujuni о why церкви have become key partners в expanding acc",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/how-a-partnership-between-african-churches-is-helping-communities-see-again",
+      "victims": 0
+    },
     {
       "date": "2026-07-17",
       "lat": 11.9196,
@@ -121,6 +134,32 @@
       "description": "Священник identified as Enrique “N” has been арестован для alleged sexual насилие несовершеннолетний girl based на preliminary investigation. Archdiocese Mexico has initiated canonical investigation.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/americas/priest-arrested-for-alleged-child-sexual-abuse-in-mexico-city",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-17",
+      "lat": 33.623,
+      "lng": 72.9651,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "kidnapping",
+      "title": "European парламент Stands с Pakistani Girl Fighting для Justice",
+      "description": "European парламент condemned Pakistan на июль 7 для its violation human rights, citing 13-год-old христианин Pakistani girl who is still fighting для her freedom из 30-год-old мусульманин мужчина who похищен her. Maria Shahbaz was похищен",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/17/european-parliament-stands-with-pakistani-girl-fighting-for-justice/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-17",
+      "lat": 9.2306,
+      "lng": 9.2946,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "US конгресс okays 50% cut в aid Nigeria христианин гонение",
+      "description": "United штаты House представители has approved 50 percent cut в assistance Nigeria what it described as federal правительство’s failure protect христианские общины из religiously-motivated violence. post US конгресс ok",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/us-congress-okays-50-cut-in-aid-to-nigeria-over-christian-persecution/",
       "victims": 0
     },
     {
@@ -420,6 +459,58 @@
       "description": "United штаты House представители has approved amendment withhold 100 per cent US assistance Nigeria until country meets specific conditions address violence и protect христианские общины. post US House backs amend",
       "source": "newsapi:Vanguard",
       "url": "https://www.vanguardngr.com/2026/07/us-house-backs-amendment-to-withhold-aid-to-nigeria-over-christian-persecution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-16",
+      "lat": 9.447,
+      "lng": 9.7398,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "US House backs Nigeria aid freeze христианин гонение concerns",
+      "description": "US House представители has approved measures freeze all aid Nigeria, citing concerns христианин гонение и правительство’s failure Read More: https://punchng.com/us-house-backs-nigeria-aid-freeze--христианин-гонение-c",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-house-backs-nigeria-aid-freeze-over-christian-persecution-concerns/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-16",
+      "lat": 9.1996,
+      "lng": 7.5775,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Nigeria, Nicaragua, Syria, India cited в index rising христианин гонение",
+      "description": "Религиозный nationalism, штат control, terrorism, authoritarianism, и limits на женщины are among drivers rising гонение globally, International христианин Concern (ICC) report said.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/nigeria-nicaragua-syria-india-cited-in-index-of-rising-christian-persecution",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-16",
+      "lat": 11.964,
+      "lng": 8.8238,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "US House backs amendment withhold aid Nigeria ‘христианин гонение’",
+      "description": "United штаты House представители has approved amendment withhold 100 per cent US assistance Nigeria until country meets specific conditions address violence и protect христианские общины. post US House backs amend",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/us-house-backs-amendment-to-withhold-aid-to-nigeria-over-christian-persecution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-16",
+      "lat": 31.4176,
+      "lng": 74.2104,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "other",
+      "title": "Pakistan: 12 годы на и still no justice для young couple burnt alive в brick kiln",
+      "description": "Reacting суд's ruling, епископ Shukardin, президент Catholic епископы' Conference Pakistan, said: \"Shahzad и his wife, Shama, who was pregnant, were thrown в fire alive. в end, what is result all these усилия",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/07/16/pakistan-12-years-on-and-still-no-justice-for-young-couple-burnt-alive-in-a-brick-kiln/",
       "victims": 0
     },
     {
@@ -6413,97 +6504,6 @@
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани среда through пятница (июнь 10-12) убит four христиане в плато штат, Nigeria, sources said. пастухи атакован Torok деревня, Riyom округ, на пятница (июнь 12",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/06/herdsmen-kill-four-christians-in-plateau-state-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-16",
-      "lat": 1.8705,
-      "lng": 45.4367,
-      "country": "Somalia",
-      "city": "Mogadishu",
-      "type": "other",
-      "title": "ICC Report Examines Financial Systems Sustaining христианин гонение в Africa",
-      "description": "В new report, International христианин Concern (ICC) Fellow Daniel St John examines revenue-generating systems в Africa that support исламский экстремист groups like Исламское государство group и al-Shabab. report, “ East African Terrorism E",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/16/icc-report-examines-financial-systems-sustaining-christian-persecution-in-africa/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-16",
-      "lat": 10.5352,
-      "lng": 7.1962,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "После Iran, Nigeria next? Ochereome Nnanna",
-      "description": "Вчера утро (вторник), Mike Arnold, American христианин cleric, политик и founder Africa Arise International, stirred social media. в Facebook post he said: “ Iran deal looks done, и it’s pretty much their unconditional surren",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/06/after-iran-nigeria-next-by-ochereome-nnanna/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-16",
-      "lat": 10.5854,
-      "lng": 7.4741,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Пастухи Kill Four христиане в плато штат, Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани среда through пятница (июнь 10-12) убит four христиане в плато штат, Nigeria, sources said. пастухи атакован Torok деревня, Riyom округ, на пятница (июнь 12",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/herdsmen-kill-four-christians-in-plateau-state-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-16",
-      "lat": 10.4151,
-      "lng": 7.5269,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "kidnapping",
-      "title": "‘Eight годы is too long’: христианин advocacy groups rally для похищен Nigerian schoolgirl's freedom",
-      "description": "Христианин Nigerian schoolgirl Leah Sharibu was похищен eight годы ago исламский экстремисты. Unlike most classmates she was похищен с, she has never been freed.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/eight-years-is-too-long-christian-advocacy-groups-rally-for-abducted-nigerian-schoolgirl-s-freedom",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-16",
-      "lat": 29.4773,
-      "lng": 52.7035,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "New AI tool makes it easier для Iranians access Gospel",
-      "description": "Министерство seeking bring христианство люди Iran has developed AI tool answer common questions о вера.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/new-ai-tool-makes-it-easier-for-iranians-to-access-the-gospel",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-16",
-      "lat": 11.8478,
-      "lng": 8.7724,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "kidnapping",
-      "title": "‘Eight годы is too long’: христианин advocacy groups rally для похищен Nigerian schoolgirl's freedom",
-      "description": "Христианин Nigerian schoolgirl Leah Sharibu was похищен eight годы ago исламский экстремисты. Unlike most classmates she was похищен с, she has never been freed.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/eight-years-is-too-long-christian-advocacy-groups-rally-for-abducted-nigerian-schoolgirl-s-freedom",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-16",
-      "lat": 36.3493,
-      "lng": 59.6323,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "New AI tool makes it easier для Iranians access Gospel",
-      "description": "Министерство seeking bring христианство люди Iran has developed AI tool answer common questions о вера.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/new-ai-tool-makes-it-easier-for-iranians-to-access-the-gospel",
       "victims": 0
     }
   ]
