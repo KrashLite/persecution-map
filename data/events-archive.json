@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-17T18:49:20.905Z",
+    "lastUpdated": "2026-07-18T01:14:20.046Z",
     "totalEvents": 500
   },
   "events": [
@@ -82,6 +82,45 @@
       "description": "US миссионер Alex Barbir condemns recent плато убийства, alleging nine relatives Nigerian пастор were “hunted и зарезан” террористы. He cr Read More: https://punchng.com/us-миссионер-condemns-плато-убийства/",
       "source": "punchng",
       "url": "https://punchng.com/us-missionary-condemns-plateau-killings/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-17",
+      "lat": 31.5117,
+      "lng": 74.1857,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "kidnapping",
+      "title": "European парламент Stands с Pakistani Girl Fighting для Justice",
+      "description": "European парламент condemned Pakistan на июль 7 для its violation human rights, citing 13-год-old христианин Pakistani girl who is still fighting для her freedom из 30-год-old мусульманин мужчина who похищен her. Maria Shahbaz was похищен",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/17/european-parliament-stands-with-pakistani-girl-fighting-for-justice/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-17",
+      "lat": 30.2494,
+      "lng": 31.427,
+      "country": "Egypt",
+      "city": "Cairo",
+      "type": "discrimination",
+      "title": "Scottish teacher takes legal action после dismissal pro-life views",
+      "description": "Scottish teacher fights дискриминация, христиане face heightened атаки в Egypt, Filipino епископы pledge end mental health stigma, и more в на этой неделе’s Catholic world news roundup.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/europe/scottish-teacher-takes-legal-action-after-dismissal-over-pro-life-views",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-17",
+      "lat": 19.4309,
+      "lng": -98.9563,
+      "country": "Mexico",
+      "city": "Mexico City",
+      "type": "arrest",
+      "title": "Священник арестован для alleged ребёнок sexual насилие в Mexico город",
+      "description": "Священник identified as Enrique “N” has been арестован для alleged sexual насилие несовершеннолетний girl based на preliminary investigation. Archdiocese Mexico has initiated canonical investigation.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/americas/priest-arrested-for-alleged-child-sexual-abuse-in-mexico-city",
       "victims": 0
     },
     {
@@ -332,6 +371,58 @@
       "victims": 0
     },
     {
+      "date": "2026-07-16",
+      "lat": 6.572,
+      "lng": 3.3512,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "US House backs Nigeria aid freeze христианин гонение concerns",
+      "description": "US House представители has approved measures freeze all aid Nigeria, citing concerns христианин гонение и правительство’s failure Read More: https://punchng.com/us-house-backs-nigeria-aid-freeze--христианин-гонение-c",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-house-backs-nigeria-aid-freeze-over-christian-persecution-concerns/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-16",
+      "lat": 6.4449,
+      "lng": 3.4093,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "US House votes withhold 100% aid Nigeria христианин гонение",
+      "description": "US House представители has voted withhold 100% aid Nigeria alleged христианин гонение. Find out what this means для US-Nigeria re Read More: https://punchng.com/us-house-votes--withhold-100--aid--nigeria--christia",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-house-votes-to-withhold-100-of-aid-to-nigeria-over-christian-persecution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-16",
+      "lat": 10.3131,
+      "lng": 7.4219,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Nigeria, Nicaragua, Syria, India cited в index rising христианин гонение",
+      "description": "Религиозный nationalism, штат control, terrorism, authoritarianism, и limits на женщины are among drivers rising гонение globally, International христианин Concern (ICC) report said.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/nigeria-nicaragua-syria-india-cited-in-index-of-rising-christian-persecution",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-16",
+      "lat": 10.5094,
+      "lng": 7.6342,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "US House backs amendment withhold aid Nigeria ‘христианин гонение’",
+      "description": "United штаты House представители has approved amendment withhold 100 per cent US assistance Nigeria until country meets specific conditions address violence и protect христианские общины. post US House backs amend",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/us-house-backs-amendment-to-withhold-aid-to-nigeria-over-christian-persecution/",
+      "victims": 0
+    },
+    {
       "date": "2026-07-15",
       "lat": 9.0504,
       "lng": 7.3654,
@@ -499,6 +590,19 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/07/court-acquits-men-convicted-of-killing-christian-couple-in-pakistan/",
       "victims": 0
+    },
+    {
+      "date": "2026-07-15",
+      "lat": 6.6631,
+      "lng": 3.2014,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Фулани экстремисты Kill 25 христиане после Nigerian армия Ignores рано Warnings",
+      "description": "Least 25 христиане, including 2-месяц-old, were убит в separate атаки во время выходные в Nigeria’s Middle Belt регион. первый атака occurred на суббота ночь, июль 11, в Kum и Wereng-Comp communities Ryom округ в Platea",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/15/fulani-extremists-kill-25-christians-after-nigerian-army-ignores-early-warnings/",
+      "victims": 25
     },
     {
       "date": "2026-07-14",
@@ -6400,110 +6504,6 @@
       "description": "Министерство seeking bring христианство люди Iran has developed AI tool answer common questions о вера.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/new-ai-tool-makes-it-easier-for-iranians-to-access-the-gospel",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-16",
-      "lat": 21.155,
-      "lng": 85.1913,
-      "country": "India",
-      "city": "Odisha",
-      "type": "murder",
-      "title": "Пасторы among заложники found погибшие amid tensions between христианин groups в Manipur",
-      "description": "Пока number люди unaccounted для в northeastern Indian штат Manipur has fallen из 20 two, с four six bodies recovered identified на этой неделе, retaliatory атаки continue following cycle похищения between Kuki-Zo",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/pastors-among-hostages-found-dead-amid-tensions-between-christian-groups-in-manipur",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-16",
-      "lat": 6.7019,
-      "lng": 3.4548,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "В Volatile Nigeria, мужчина Converted христианство. His семья Wasn’t Pleased.",
-      "description": "Рассвет new тысячелетие в northern Nigeria, пока христианин was petitioning God с his полночь молитвы, his 19-год-old мусульманин neighbor was calling upon Allah through молитва. Little did мусульманин молодёжь know time is that hi",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-religion/4384061/posts",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-16",
-      "lat": 9.1604,
-      "lng": 7.3419,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "kidnapping",
-      "title": "‘Eight годы is too long’: христианин advocacy groups rally для похищен Nigerian schoolgirl's freedom",
-      "description": "Христианин Nigerian schoolgirl Leah Sharibu was похищен eight годы ago исламский экстремисты. Unlike most classmates she was похищен с, she has never been freed.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/eight-years-is-too-long-christian-advocacy-groups-rally-for-abducted-nigerian-schoolgirl-s-freedom",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-16",
-      "lat": 12.0844,
-      "lng": 8.3753,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "В Volatile Nigeria, мужчина Converted христианство. His семья Wasn’t Pleased.",
-      "description": "Рассвет new тысячелетие в northern Nigeria, пока христианин was petitioning God с his полночь молитвы, his 19-год-old мусульманин neighbor was calling upon Allah through молитва. Little did мусульманин молодёжь know time is that hi",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-religion/4384061/posts",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-16",
-      "lat": 9.3226,
-      "lng": 7.7197,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "В Volatile Nigeria, мужчина Converted христианство. His семья Wasn’t Pleased.",
-      "description": "Рассвет new тысячелетие в northern Nigeria, пока христианин was petitioning God с his полночь молитвы, his 19-год-old мусульманин neighbor was calling upon Allah through молитва. Little did мусульманин молодёжь know time is that hi",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-religion/4384061/posts",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-16",
-      "lat": 9.291,
-      "lng": 9.3456,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "В Volatile Nigeria, мужчина Converted христианство. His семья Wasn’t Pleased.",
-      "description": "Рассвет new тысячелетие в northern Nigeria, пока христианин was petitioning God с his полночь молитвы, his 19-год-old мусульманин neighbor was calling upon Allah through молитва. Little did мусульманин молодёжь know time is that hi",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-religion/4384061/posts",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-16",
-      "lat": 11.7584,
-      "lng": 8.6746,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Пастухи Kill Four христиане в плато штат, Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани среда through пятница (июнь 10-12) убит four христиане в плато штат, Nigeria, sources said. пастухи атакован Torok деревня, Riyom округ, на пятница (июнь 12",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/herdsmen-kill-four-christians-in-plateau-state-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-16",
-      "lat": 11.9577,
-      "lng": 13.1111,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Пастухи Kill Four христиане в плато штат, Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани среда through пятница (июнь 10-12) убит four христиане в плато штат, Nigeria, sources said. пастухи атакован Torok деревня, Riyom округ, на пятница (июнь 12",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/herdsmen-kill-four-christians-in-plateau-state-nigeria/",
       "victims": 0
     }
   ]
