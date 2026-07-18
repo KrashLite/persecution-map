@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-18T07:24:03.517Z",
+    "lastUpdated": "2026-07-18T12:44:03.409Z",
     "totalEvents": 500
   },
   "events": [
@@ -155,6 +155,19 @@
       "lng": 9.2946,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "other",
+      "title": "US конгресс okays 50% cut в aid Nigeria христианин гонение",
+      "description": "United штаты House представители has approved 50 percent cut в assistance Nigeria what it described as federal правительство’s failure protect христианские общины из religiously-motivated violence. post US конгресс ok",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/us-congress-okays-50-cut-in-aid-to-nigeria-over-christian-persecution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-17",
+      "lat": 12.0818,
+      "lng": 13.1785,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "other",
       "title": "US конгресс okays 50% cut в aid Nigeria христианин гонение",
       "description": "United штаты House представители has approved 50 percent cut в assistance Nigeria what it described as federal правительство’s failure protect христианские общины из religiously-motivated violence. post US конгресс ok",
@@ -514,6 +527,32 @@
       "victims": 0
     },
     {
+      "date": "2026-07-16",
+      "lat": 10.6728,
+      "lng": 7.5119,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "US House backs Nigeria aid freeze христианин гонение concerns",
+      "description": "US House представители has approved measures freeze all aid Nigeria, citing concerns христианин гонение и правительство’s failure Read More: https://punchng.com/us-house-backs-nigeria-aid-freeze--христианин-гонение-c",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-house-backs-nigeria-aid-freeze-over-christian-persecution-concerns/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-16",
+      "lat": 33.4602,
+      "lng": 72.8681,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "other",
+      "title": "Pakistan: 12 годы на и still no justice для young couple burnt alive в brick kiln",
+      "description": "Reacting суд's ruling, епископ Shukardin, президент Catholic епископы' Conference Pakistan, said: \"Shahzad и his wife, Shama, who was pregnant, were thrown в fire alive. в end, what is result all these усилия",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/07/16/pakistan-12-years-on-and-still-no-justice-for-young-couple-burnt-alive-in-a-brick-kiln/",
+      "victims": 0
+    },
+    {
       "date": "2026-07-15",
       "lat": 9.0504,
       "lng": 7.3654,
@@ -688,6 +727,19 @@
       "lng": 3.2014,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "murder",
+      "title": "Фулани экстремисты Kill 25 христиане после Nigerian армия Ignores рано Warnings",
+      "description": "Least 25 христиане, including 2-месяц-old, were убит в separate атаки во время выходные в Nigeria’s Middle Belt регион. первый атака occurred на суббота ночь, июль 11, в Kum и Wereng-Comp communities Ryom округ в Platea",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/15/fulani-extremists-kill-25-christians-after-nigerian-army-ignores-early-warnings/",
+      "victims": 25
+    },
+    {
+      "date": "2026-07-15",
+      "lat": 11.7711,
+      "lng": 13.0319,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "murder",
       "title": "Фулани экстремисты Kill 25 христиане после Nigerian армия Ignores рано Warnings",
       "description": "Least 25 христиане, including 2-месяц-old, were убит в separate атаки во время выходные в Nigeria’s Middle Belt регион. первый атака occurred на суббота ночь, июль 11, в Kum и Wereng-Comp communities Ryom округ в Platea",
@@ -6452,58 +6504,6 @@
       "description": "Мусульмане living near proposed site Javanese христианин церковь (GKJ) в Banyuanyar деревня, Solo город, Central Java, Indonesia, protested its construction на июнь 11, citing церковь’s lack building permit. Legiyatno, head Banyu",
       "source": "persecution",
       "url": "https://persecution.org/2026/06/16/residents-protest-planned-church-construction-in-central-java/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-16",
-      "lat": 6.3491,
-      "lng": 3.205,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "kidnapping",
-      "title": "Catholic епископы lament rising insecurity, demand urgent govt action",
-      "description": "Catholic епископы express deep concern rising insecurity в Nigeria, urging urgent правительство action address убийства, похищения, и violence. Read More: https://punchng.com/catholic-епископы-lament-rising-insecurity-demand-urgent-govt-acti",
-      "source": "punchng",
-      "url": "https://punchng.com/catholic-bishops-lament-rising-insecurity-demand-urgent-govt-action/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-16",
-      "lat": 26.9092,
-      "lng": 80.9307,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "murder",
-      "title": "Пасторы among заложники found погибшие amid tensions between христианин groups в Manipur",
-      "description": "Пока number люди unaccounted для в northeastern Indian штат Manipur has fallen из 20 two, с four six bodies recovered identified на этой неделе, retaliatory атаки continue following cycle похищения between Kuki-Zo",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/pastors-among-hostages-found-dead-amid-tensions-between-christian-groups-in-manipur",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-16",
-      "lat": 11.9659,
-      "lng": 12.9377,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "Мужчина’s первый duty в marriage is spiritual leadership, not provision — Cleric",
-      "description": "Cleric argues that мужчина’s primary duty в marriage is spiritual leadership, not provision. Discover why this Nigerian пастор believes вера is key Read More: https://punchng.com/mans-первый-duty-в-marriage-is-spiritual-leadership-not-provisi",
-      "source": "punchng",
-      "url": "https://punchng.com/mans-first-duty-in-marriage-is-spiritual-leadership-not-provision-cleric/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-16",
-      "lat": 9.0048,
-      "lng": 9.6392,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Пастухи Kill Four христиане в плато штат, Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани среда through пятница (июнь 10-12) убит four христиане в плато штат, Nigeria, sources said. пастухи атакован Torok деревня, Riyom округ, на пятница (июнь 12",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/herdsmen-kill-four-christians-in-plateau-state-nigeria/",
       "victims": 0
     }
   ]
