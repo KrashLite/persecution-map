@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-18T18:42:53.348Z",
+    "lastUpdated": "2026-07-19T01:19:21.635Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-07-19",
+      "lat": 9.09,
+      "lng": 9.2973,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "discrimination",
+      "title": "Христианин bodies reject planned запрет на bus preaching",
+      "description": "Христианин organisations в Nigeria oppose FRSC Bill’s proposed запрет на bus preaching, citing constitutional rights infringement и economic concerns. Read More: https://punchng.com/христианин-bodies-reject-planned-запрет-на-bus-preaching/",
+      "source": "punchng",
+      "url": "https://punchng.com/christian-bodies-reject-planned-ban-on-bus-preaching/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-07-18",
       "lat": 4.5039,
@@ -30,6 +43,19 @@
       "description": "Niger штат полиция rescued four-неделя-old ребёнок и арестован fake пастор и his accomplice involved в ребёнок похищение в Minna. Read More: https://punchng.com/полиция-nab-fake-пастор-женщина-после-rescuing-похищен-four-неделя-old-ребёнок/",
       "source": "punchng",
       "url": "https://punchng.com/police-nab-fake-pastor-woman-after-rescuing-abducted-four-week-old-baby/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-18",
+      "lat": 11.9997,
+      "lng": 8.7303,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "OAIC opposes proposed FRSC bill provision на preaching в commercial vehicles",
+      "description": "Organisation African Instituted церкви (OAIC) has expressed concern reports that proposed amendment Federal Road Safety комиссия (FRSC) Act could classify preaching в commercial vehicles alongside activities such as hawking.",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/07/oaic-opposes-proposed-frsc-bill-provision-on-preaching-in-commercial-vehicles/",
       "victims": 0
     },
     {
@@ -212,6 +238,32 @@
       "description": "Scottish teacher fights дискриминация, христиане face heightened атаки в Egypt, Filipino епископы pledge end mental health stigma, и more в на этой неделе’s Catholic world news roundup.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/europe/scottish-teacher-takes-legal-action-after-dismissal-over-pro-life-views",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-17",
+      "lat": 34.0789,
+      "lng": 71.6579,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "kidnapping",
+      "title": "European парламент Stands с Pakistani Girl Fighting для Justice",
+      "description": "European парламент condemned Pakistan на июль 7 для its violation human rights, citing 13-год-old христианин Pakistani girl who is still fighting для her freedom из 30-год-old мусульманин мужчина who похищен her. Maria Shahbaz was похищен",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/17/european-parliament-stands-with-pakistani-girl-fighting-for-justice/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-17",
+      "lat": 11.9808,
+      "lng": 8.6227,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "US конгресс okays 50% cut в aid Nigeria христианин гонение",
+      "description": "United штаты House представители has approved 50 percent cut в assistance Nigeria what it described as federal правительство’s failure protect христианские общины из religiously-motivated violence. post US конгресс ok",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/us-congress-okays-50-cut-in-aid-to-nigeria-over-christian-persecution/",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "Христианин Nigerian schoolgirl Leah Sharibu was похищен eight годы ago исламский экстремисты. Unlike most classmates she was похищен с, she has never been freed.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/eight-years-is-too-long-christian-advocacy-groups-rally-for-abducted-nigerian-schoolgirl-s-freedom",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-16",
-      "lat": 28.9538,
-      "lng": 76.9653,
-      "country": "India",
-      "city": "Delhi",
-      "type": "murder",
-      "title": "Пасторы among заложники found погибшие amid tensions between христианин groups в Manipur",
-      "description": "Пока number люди unaccounted для в northeastern Indian штат Manipur has fallen из 20 two, с four six bodies recovered identified на этой неделе, retaliatory атаки continue following cycle похищения between Kuki-Zo",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/pastors-among-hostages-found-dead-amid-tensions-between-christian-groups-in-manipur",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-16",
-      "lat": 35.4784,
-      "lng": 51.3955,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "New AI tool makes it easier для Iranians access Gospel",
-      "description": "Министерство seeking bring христианство люди Iran has developed AI tool answer common questions о вера.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/new-ai-tool-makes-it-easier-for-iranians-to-access-the-gospel",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-16",
-      "lat": 6.537,
-      "lng": 3.4389,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "kidnapping",
-      "title": "‘Eight годы is too long’: христианин advocacy groups rally для похищен Nigerian schoolgirl's freedom",
-      "description": "Христианин Nigerian schoolgirl Leah Sharibu was похищен eight годы ago исламский экстремисты. Unlike most classmates she was похищен с, she has never been freed.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/eight-years-is-too-long-christian-advocacy-groups-rally-for-abducted-nigerian-schoolgirl-s-freedom",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-16",
-      "lat": 19.0248,
-      "lng": 73.0148,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "murder",
-      "title": "Пасторы among заложники found погибшие amid tensions between христианин groups в Manipur",
-      "description": "Пока number люди unaccounted для в northeastern Indian штат Manipur has fallen из 20 two, с four six bodies recovered identified на этой неделе, retaliatory атаки continue following cycle похищения between Kuki-Zo",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/pastors-among-hostages-found-dead-amid-tensions-between-christian-groups-in-manipur",
       "victims": 0
     }
   ]
