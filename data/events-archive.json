@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-19T07:54:35.335Z",
+    "lastUpdated": "2026-07-19T12:45:42.686Z",
     "totalEvents": 500
   },
   "events": [
@@ -18,6 +18,19 @@
       "source": "punchng",
       "url": "https://punchng.com/christian-bodies-reject-planned-ban-on-bus-preaching/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
+    },
+    {
+      "date": "2026-07-19",
+      "lat": 29.4659,
+      "lng": 33.0025,
+      "country": "Egypt",
+      "city": "Sinai",
+      "type": "other",
+      "title": "Very short Catholic history wine",
+      "description": "Wine is older than христианство several thousand годы. evidence winemaking в Caucasus регион dates least 6,000 BC. ancient Egyptians, Greeks, и Romans all had sophisticated wine cultures long до первый христианин was",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/07/19/a-very-short-catholic-history-of-wine/",
+      "victims": 6
     },
     {
       "date": "2026-07-18",
@@ -277,6 +290,19 @@
       "description": "Scottish teacher fights дискриминация, христиане face heightened атаки в Egypt, Filipino епископы pledge end mental health stigma, и more в на этой неделе’s Catholic world news roundup.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/europe/scottish-teacher-takes-legal-action-after-dismissal-over-pro-life-views",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-17",
+      "lat": 6.3223,
+      "lng": 3.5683,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "US конгресс okays 50% cut в aid Nigeria христианин гонение",
+      "description": "United штаты House представители has approved 50 percent cut в assistance Nigeria what it described as federal правительство’s failure protect христианские общины из religiously-motivated violence. post US конгресс ok",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/us-congress-okays-50-cut-in-aid-to-nigeria-over-christian-persecution/",
       "victims": 0
     },
     {
@@ -719,6 +745,19 @@
       "description": "Reacting суд's ruling, епископ Shukardin, президент Catholic епископы' Conference Pakistan, said: \"Shahzad и his wife, Shama, who was pregnant, were thrown в fire alive. в end, what is result all these усилия",
       "source": "zenit",
       "url": "https://zenit.org/2026/07/16/pakistan-12-years-on-and-still-no-justice-for-young-couple-burnt-alive-in-a-brick-kiln/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-16",
+      "lat": 11.6522,
+      "lng": 12.9251,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "US House backs Nigeria aid freeze христианин гонение concerns",
+      "description": "US House представители has approved measures freeze all aid Nigeria, citing concerns христианин гонение и правительство’s failure Read More: https://punchng.com/us-house-backs-nigeria-aid-freeze--христианин-гонение-c",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-house-backs-nigeria-aid-freeze-over-christian-persecution-concerns/",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Архиепископ Bashar Matti Warda appealed Chaldean патриарх Paul III Nona be voice для Ankawa, Iraq's largest христианин район.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/chaldean-archbishop-urges-patriarch-to-defend-iraqi-christian-town-s-identity",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-17",
-      "lat": 33.5192,
-      "lng": 44.5434,
-      "country": "Iraq",
-      "city": "Baghdad",
-      "type": "other",
-      "title": "Chaldean архиепископ urges патриарх defend Iraqi христианин посёлок’s identity",
-      "description": "Архиепископ Bashar Matti Warda appealed Chaldean патриарх Paul III Nona be voice для Ankawa, Iraq's largest христианин район.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/chaldean-archbishop-urges-patriarch-to-defend-iraqi-christian-town-s-identity",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-17",
-      "lat": 9.2555,
-      "lng": 9.6856,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Христиане похищен в NE Nigeria, убит в плато штат",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани на вторник (июнь 16) убит five христиане в mining site плато штат, central Nigeria, sources said. five христиане were working mining site в Ger",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/christians-kidnapped-in-ne-nigeria-slain-in-plateau-state/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-17",
-      "lat": 10.5102,
-      "lng": 7.4952,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Христиане похищен в NE Nigeria, убит в плато штат",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани на вторник (июнь 16) убит five христиане в mining site плато штат, central Nigeria, sources said. five христиане were working mining site в Ger",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/christians-kidnapped-in-ne-nigeria-slain-in-plateau-state/",
       "victims": 0
     }
   ]
