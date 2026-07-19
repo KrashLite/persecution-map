@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-19T12:45:42.686Z",
+    "lastUpdated": "2026-07-19T18:45:24.471Z",
     "totalEvents": 500
   },
   "events": [
@@ -303,6 +303,19 @@
       "description": "United штаты House представители has approved 50 percent cut в assistance Nigeria what it described as federal правительство’s failure protect христианские общины из religiously-motivated violence. post US конгресс ok",
       "source": "newsapi:Vanguard",
       "url": "https://www.vanguardngr.com/2026/07/us-congress-okays-50-cut-in-aid-to-nigeria-over-christian-persecution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-17",
+      "lat": 25.0329,
+      "lng": 66.8138,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "kidnapping",
+      "title": "European парламент Stands с Pakistani Girl Fighting для Justice",
+      "description": "European парламент condemned Pakistan на июль 7 для its violation human rights, citing 13-год-old христианин Pakistani girl who is still fighting для her freedom из 30-год-old мусульманин мужчина who похищен her. Maria Shahbaz was похищен",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/17/european-parliament-stands-with-pakistani-girl-fighting-for-justice/",
       "victims": 0
     },
     {
@@ -6491,19 +6504,6 @@
       "description": "Unreliability electricity в Cuba has limited production причастие hosts, forcing Cuban церковь ask епископы и священник ration distribution евхаристия.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/americas/shortage-of-communion-hosts-in-cuba-prompts-aid-from-church-in-panama-and-puerto-rico",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-17",
-      "lat": 36.3893,
-      "lng": 43.3201,
-      "country": "Iraq",
-      "city": "Mosul",
-      "type": "other",
-      "title": "Chaldean архиепископ urges патриарх defend Iraqi христианин посёлок’s identity",
-      "description": "Архиепископ Bashar Matti Warda appealed Chaldean патриарх Paul III Nona be voice для Ankawa, Iraq's largest христианин район.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/chaldean-archbishop-urges-patriarch-to-defend-iraqi-christian-town-s-identity",
       "victims": 0
     }
   ]
