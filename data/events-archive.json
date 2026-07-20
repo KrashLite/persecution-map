@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-20T13:42:46.752Z",
+    "lastUpdated": "2026-07-20T19:21:26.975Z",
     "totalEvents": 500
   },
   "events": [
@@ -38,6 +38,19 @@
       "lng": 8.5061,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "other",
+      "title": "US passes bill halt Nigeria aid violence against христиане",
+      "description": "Усилие withhold 100 per cent United штаты aid Nigeria until Nigerian правительство takes effective steps \" prevent и respond violence в country\" has passed US House представители.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/us-passes-bill-to-halt-nigeria-aid-over-violence-against-christians",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-20",
+      "lat": 9.2135,
+      "lng": 9.3098,
+      "country": "Nigeria",
+      "city": "Plateau",
       "type": "other",
       "title": "US passes bill halt Nigeria aid violence against христиане",
       "description": "Усилие withhold 100 per cent United штаты aid Nigeria until Nigerian правительство takes effective steps \" prevent и respond violence в country\" has passed US House представители.",
@@ -90,6 +103,19 @@
       "lng": 29.6996,
       "country": "Egypt",
       "city": "Alexandria",
+      "type": "other",
+      "title": "Very short Catholic history wine",
+      "description": "Wine is older than христианство several thousand годы. evidence winemaking в Caucasus регион dates least 6,000 BC. ancient Egyptians, Greeks, и Romans all had sophisticated wine cultures long до первый христианин was",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/07/19/a-very-short-catholic-history-of-wine/",
+      "victims": 6
+    },
+    {
+      "date": "2026-07-19",
+      "lat": 28.1799,
+      "lng": 30.6788,
+      "country": "Egypt",
+      "city": "Minya",
       "type": "other",
       "title": "Very short Catholic history wine",
       "description": "Wine is older than христианство several thousand годы. evidence winemaking в Caucasus регион dates least 6,000 BC. ancient Egyptians, Greeks, и Romans all had sophisticated wine cultures long до первый христианин was",
@@ -1097,6 +1123,19 @@
       "source": "newsapi:Freerepublic.com",
       "url": "https://freerepublic.com/focus/f-chat/4388052/posts",
       "victims": 0
+    },
+    {
+      "date": "2026-07-15",
+      "lat": 10.4169,
+      "lng": 7.5653,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Фулани экстремисты Kill 25 христиане после Nigerian армия Ignores рано Warnings",
+      "description": "Least 25 христиане, including 2-месяц-old, were убит в separate атаки во время выходные в Nigeria’s Middle Belt регион. первый атака occurred на суббота ночь, июль 11, в Kum и Wereng-Comp communities Ryom округ в Platea",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/15/fulani-extremists-kill-25-christians-after-nigerian-army-ignores-early-warnings/",
+      "victims": 25
     },
     {
       "date": "2026-07-14",
@@ -6465,45 +6504,6 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – христианин relatives 13-год-old girl в Pakistan allegedly похищен, forcibly converted ислам и married older мусульманин мужчина fear she could be trafficked, as they contin",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/06/missing-christian-girl-in-pakistan-feared-to-be-trafficked/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-18",
-      "lat": 26.7451,
-      "lng": 81.0463,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "attack",
-      "title": "No Room Inn",
-      "description": "Editor’s Note: following is written International христианин Concern (ICC) staffer based в India. после my house was разгромлен и разрушен радикал индус толпа, we were атакован, избит mercilessly, и forcibly driven out our vill",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/18/no-room-at-the-inn-2/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-18",
-      "lat": -12.5807,
-      "lng": 40.4297,
-      "country": "Mozambique",
-      "city": "Cabo Delgado",
-      "type": "other",
-      "title": "Catholic священник Suspected в епископ’s убийство в Mozambique",
-      "description": "Provincial суд Zambézia is also investigating involvement gardener и guard. investigation is допрос suspects clarify facts и determine their possible criminal liability. post Catholic священник Suspected i",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/06/18/catholic-priest-suspected-in-bishops-murder-in-mozambique/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-18",
-      "lat": 21.1397,
-      "lng": 81.9128,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "attack",
-      "title": "No Room Inn",
-      "description": "Editor’s Note: following is written International христианин Concern (ICC) staffer based в India. после my house was разгромлен и разрушен радикал индус толпа, we were атакован, избит mercilessly, и forcibly driven out our vill",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/18/no-room-at-the-inn-2/",
       "victims": 0
     }
   ]
