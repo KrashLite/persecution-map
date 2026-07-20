@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-19T18:45:24.471Z",
+    "lastUpdated": "2026-07-20T01:22:58.438Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-07-20",
+      "lat": 6.584,
+      "lng": 3.2151,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "kidnapping",
+      "title": "Боевики abduct пастор’s wife, three дети в Borno",
+      "description": "Ndahi Marama, Maiduguri Suspected Боко Харам/ISWAP террористы have похищен wife пастор и his three дети в Damasak, штаб-квартира Mobbar Local правительство Area Borno штат. жертвы, whose identities have not been disclosed,",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/07/gunmen-abduct-pastors-wife-three-children-in-borno/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-20",
+      "lat": 9.3992,
+      "lng": 9.6749,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Adeboye urges lecturers, students pursue excellence",
+      "description": "Пастор Enoch Adeboye encourages lecturers, students, и professionals в Nigeria’s education sector pursue excellence through diligence, compassion, Read More: https://punchng.com/adeboye-urges-lecturers-students--pursue-excellence/",
+      "source": "punchng",
+      "url": "https://punchng.com/adeboye-urges-lecturers-students-to-pursue-excellence/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-07-19",
       "lat": 9.09,
@@ -25,6 +51,19 @@
       "lng": 33.0025,
       "country": "Egypt",
       "city": "Sinai",
+      "type": "other",
+      "title": "Very short Catholic history wine",
+      "description": "Wine is older than христианство several thousand годы. evidence winemaking в Caucasus регион dates least 6,000 BC. ancient Egyptians, Greeks, и Romans all had sophisticated wine cultures long до первый христианин was",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/07/19/a-very-short-catholic-history-of-wine/",
+      "victims": 6
+    },
+    {
+      "date": "2026-07-19",
+      "lat": 29.9871,
+      "lng": 31.1705,
+      "country": "Egypt",
+      "city": "Cairo",
       "type": "other",
       "title": "Very short Catholic history wine",
       "description": "Wine is older than христианство several thousand годы. evidence winemaking в Caucasus регион dates least 6,000 BC. ancient Egyptians, Greeks, и Romans all had sophisticated wine cultures long до первый христианин was",
@@ -771,6 +810,32 @@
       "description": "US House представители has approved measures freeze all aid Nigeria, citing concerns христианин гонение и правительство’s failure Read More: https://punchng.com/us-house-backs-nigeria-aid-freeze--христианин-гонение-c",
       "source": "newsapi:The Punch",
       "url": "https://punchng.com/us-house-backs-nigeria-aid-freeze-over-christian-persecution-concerns/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-16",
+      "lat": 10.6257,
+      "lng": 7.3943,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "US House votes withhold 100% aid Nigeria христианин гонение",
+      "description": "US House представители has voted withhold 100% aid Nigeria alleged христианин гонение. Find out what this means для US-Nigeria re Read More: https://punchng.com/us-house-votes--withhold-100--aid--nigeria--christia",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-house-votes-to-withhold-100-of-aid-to-nigeria-over-christian-persecution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-16",
+      "lat": 11.8956,
+      "lng": 13.2472,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "US House backs amendment withhold aid Nigeria ‘христианин гонение’",
+      "description": "United штаты House представители has approved amendment withhold 100 per cent US assistance Nigeria until country meets specific conditions address violence и protect христианские общины. post US House backs amend",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/us-house-backs-amendment-to-withhold-aid-to-nigeria-over-christian-persecution/",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "Семьи в Kaduna lament that Пасха прихожане похищен в Ariko are still пропавший без вести после 70 дни, accusing правительство neglect. Read More: https://punchng.com/похищен-Пасха-прихожане-still-пропавший без вести-после-70-дни-kaduna-community/",
       "source": "punchng",
       "url": "https://punchng.com/abducted-easter-worshippers-still-missing-after-70-days-kaduna-community/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-17",
-      "lat": 10.55,
-      "lng": 7.4914,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "discrimination",
-      "title": "FG moves end open grazing, identifies 470 gazetted reserves",
-      "description": "Cynthia Alo Federal правительство has identified 470 gazetted и legally protected grazing reserves для rehabilitation и resettlement pastoralists, as part усилия end эра cattle roaming streets Abuja, Lagos и othe",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/06/fg-moves-to-end-open-grazing-identifies-470-gazetted-reserves/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-17",
-      "lat": 9.1038,
-      "lng": 9.5936,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "kidnapping",
-      "title": "Похищен Пасха прихожане still пропавший без вести после 70 дни — Kaduna community",
-      "description": "70 дни после their похищение, Пасха прихожане в Kaduna remain пропавший без вести. community group accuses правительство neglecting insecurity в Kachi Read More: https://punchng.com/похищен-Пасха-прихожане-still-пропавший без вести-после-70-дни-kaduna",
-      "source": "punchng",
-      "url": "https://punchng.com/abducted-easter-worshippers-still-missing-after-70-days-kaduna-community/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-17",
-      "lat": 36.1186,
-      "lng": 44.2473,
-      "country": "Iraq",
-      "city": "Erbil",
-      "type": "other",
-      "title": "Chaldean архиепископ urges патриарх defend Iraqi христианин посёлок’s identity",
-      "description": "Архиепископ Bashar Matti Warda appealed Chaldean патриарх Paul III Nona be voice для Ankawa, Iraq's largest христианин район.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/chaldean-archbishop-urges-patriarch-to-defend-iraqi-christian-town-s-identity",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-17",
-      "lat": 6.4967,
-      "lng": 3.1991,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Христиане похищен в NE Nigeria, убит в плато штат",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани на вторник (июнь 16) убит five христиане в mining site плато штат, central Nigeria, sources said. five христиане were working mining site в Ger",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/christians-kidnapped-in-ne-nigeria-slain-in-plateau-state/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-17",
-      "lat": 22.879,
-      "lng": -82.5667,
-      "country": "Cuba",
-      "city": "Havana",
-      "type": "discrimination",
-      "title": "Shortage причастие hosts в Cuba prompts aid из церковь в Panama и Puerto Rico",
-      "description": "Unreliability electricity в Cuba has limited production причастие hosts, forcing Cuban церковь ask епископы и священник ration distribution евхаристия.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/americas/shortage-of-communion-hosts-in-cuba-prompts-aid-from-church-in-panama-and-puerto-rico",
       "victims": 0
     }
   ]
