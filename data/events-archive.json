@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-21T01:19:29.561Z",
+    "lastUpdated": "2026-07-21T08:03:38.643Z",
     "totalEvents": 500
   },
   "events": [
@@ -103,6 +103,32 @@
       "lng": 7.434,
       "country": "Nigeria",
       "city": "Kaduna",
+      "type": "other",
+      "title": "US passes bill halt Nigeria aid violence against христиане",
+      "description": "Усилие withhold 100 per cent United штаты aid Nigeria until Nigerian правительство takes effective steps \" prevent и respond violence в country\" has passed US House представители.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/us-passes-bill-to-halt-nigeria-aid-over-violence-against-christians",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-20",
+      "lat": 33.7323,
+      "lng": 73.0431,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "murder",
+      "title": "Христианин Brick Kiln Worker убит для Drinking из мусульманин’s Cooler",
+      "description": "Overcome thirst после working под sweltering лето heat в Pattoki, Pakistan, христианин brick kiln worker reached для closest water cooler и took sip. Doing so cost him his life. worker, 39-год-old мужчина named Sadique, had ju",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/20/christian-brick-kiln-worker-killed-for-drinking-from-a-muslims-cooler/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-20",
+      "lat": 6.5826,
+      "lng": 3.6205,
+      "country": "Nigeria",
+      "city": "Lagos",
       "type": "other",
       "title": "US passes bill halt Nigeria aid violence against христиане",
       "description": "Усилие withhold 100 per cent United штаты aid Nigeria until Nigerian правительство takes effective steps \" prevent и respond violence в country\" has passed US House представители.",
@@ -6478,32 +6504,6 @@
       "description": "Leah, who was 14 когда she was похищен, could have been released if she renounced her вера but she отказано.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/appeals-for-release-of-nigerian-christian-girl-still-held-by-isis-after-8-years",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-18",
-      "lat": -4.4075,
-      "lng": 15.3291,
-      "country": "Democratic Republic of the Congo",
-      "city": "Kinshasa",
-      "type": "other",
-      "title": "Catholic священники в Democratic Republic Congo decry rising insecurity targeting parishes",
-      "description": "Catholic священники в Archdiocese Kinshasa в Democratic Republic Congo have raised alarm what they describe as worsening wave insecurity targeting ecclesial institutions.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/catholic-priests-in-democratic-republic-of-congo-decry-rising-insecurity-targeting-parishes",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-18",
-      "lat": 31.6473,
-      "lng": 74.3383,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "kidnapping",
-      "title": "Пропавший без вести христианин Girl в Pakistan Feared Be Trafficked",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – христианин relatives 13-год-old girl в Pakistan allegedly похищен, forcibly converted ислам и married older мусульманин мужчина fear she could be trafficked, as they contin",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/missing-christian-girl-in-pakistan-feared-to-be-trafficked/",
       "victims": 0
     }
   ]
