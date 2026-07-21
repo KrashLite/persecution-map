@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-21T08:03:38.643Z",
+    "lastUpdated": "2026-07-21T13:10:03.678Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-07-21",
+      "lat": 12.8774,
+      "lng": -8.1635,
+      "country": "Mali",
+      "city": "Bamako",
+      "type": "murder",
+      "title": "US епископы: Immigration смерти “must not be normalized”",
+      "description": "Two senior US Catholic епископы issued pastoral reflection на понедельник calling для accountability и transparency в immigration enforcement, following series смерти во время ICE операции across country that have raised urgent questions abou",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/07/21/us-bishops-immigration-deaths-must-not-be-normalized/",
+      "victims": 0
+    },
     {
       "date": "2026-07-20",
       "lat": 6.584,
@@ -6491,19 +6504,6 @@
       "description": "На Jan. 3, Egyptian христианин Augustinos Samaan was приговорён five годы hard labor после he was осуждён “contempt религия” и “misuse social media.” Samaan has YouTube channel на which he posts apologetics videos comparing Chris",
       "source": "persecution",
       "url": "https://persecution.org/2026/06/19/egyptian-christian-imprisoned-for-social-media-posts/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-19",
-      "lat": 10.5845,
-      "lng": 7.4509,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "kidnapping",
-      "title": "Appeals для release Nigerian христианин girl still held ИГИЛ после 8 годы",
-      "description": "Leah, who was 14 когда she was похищен, could have been released if she renounced her вера but she отказано.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/appeals-for-release-of-nigerian-christian-girl-still-held-by-isis-after-8-years",
       "victims": 0
     }
   ]
