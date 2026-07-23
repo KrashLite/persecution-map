@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-23T01:25:29.253Z",
+    "lastUpdated": "2026-07-23T08:06:57.427Z",
     "totalEvents": 500
   },
   "events": [
@@ -147,6 +147,32 @@
       "description": "Born в мусульманин семья в Haroji Wado, community near Ethiopia’s western border с Sudan, 14-год-old Fatuma’s life changed после she decided follow Christ в ноябрь 2025. Instead finding acceptance, she became target persecutio",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/22/girl-receives-death-threats-after-finding-new-life-in-christ/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-22",
+      "lat": 9.03,
+      "lng": 9.4142,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "kidnapping",
+      "title": "Экстремисты Abduct пастор’s Wife, 3 дети в Nigeria",
+      "description": "Исламский террористы, suspected be Боко Харам or Исламское государство West Africa провинция (ISWAP), похищен wife пастор и their three дети на суббота, июль 18, along Maiduguri-Damasak highway в Northeast Nigeria. семья",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/22/extremists-abduct-pastors-wife-3-children-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-22",
+      "lat": 35.4218,
+      "lng": 44.2527,
+      "country": "Iraq",
+      "city": "Kirkuk",
+      "type": "other",
+      "title": "Iraqi PM asks христиане return following месса exodus",
+      "description": "Does he really want them back or is it move impress Donald Trump?",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/iraqi-pm-asks-christians-to-return-following-mass-exodus",
       "victims": 0
     },
     {
@@ -316,6 +342,19 @@
       "description": "В прошлом году, двупартийный group members конгресс introduced H.Res.776: resolution expressing concern о гонение Coptic христиане под Egypt’s исламский regime. resolution has only picked up 8 cosponsors и has yet make it",
       "source": "newsapi:Freerepublic.com",
       "url": "https://freerepublic.com/focus/f-news/4388760/posts",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-21",
+      "lat": 34.2002,
+      "lng": 71.3988,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "kidnapping",
+      "title": "Суд в Pakistan Consider Hearing Case похищен христианин Girl",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – после multiple legal setbacks, relatives христианин girl who was forcibly converted ислам и married her мусульманин kidnapper are hoping Pakistan’s highest constitutional cou",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/court-in-pakistan-to-consider-hearing-case-of-abducted-christian-girl/",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Leah, who was 14 когда she was похищен, could have been released if she renounced her вера but she отказано.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/appeals-for-release-of-nigerian-christian-girl-still-held-by-isis-after-8-years",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-19",
-      "lat": 11.8552,
-      "lng": 12.9554,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "kidnapping",
-      "title": "Appeals для release Nigerian христианин girl still held ИГИЛ после 8 годы",
-      "description": "Leah, who was 14 когда she was похищен, could have been released if she renounced her вера but she отказано.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/appeals-for-release-of-nigerian-christian-girl-still-held-by-isis-after-8-years",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-19",
-      "lat": 10.7117,
-      "lng": -66.7012,
-      "country": "Venezuela",
-      "city": "Caracas",
-      "type": "other",
-      "title": "4 Venezuelans form new community hermits where христианство began в Spain",
-      "description": "Hermits have taken up residence в historic hermitage St. Torquatus pray для needs папа и церковь.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/europe/4-venezuelans-form-new-community-of-hermits-where-christianity-began-in-spain",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-19",
-      "lat": 9.0294,
-      "lng": 9.7309,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Террористы Kill Nine христиане, Injure 11 в Northern Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected пастухи фулани убит nine христиане и ранен 11 others в ночь атака в Kaduna штат, Nigeria на вторник (июнь 16), area residents said. assailants атакован",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/terrorists-kill-nine-christians-injure-11-in-northern-nigeria/",
       "victims": 0
     }
   ]
