@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-23T08:06:57.427Z",
+    "lastUpdated": "2026-07-23T13:20:14.375Z",
     "totalEvents": 500
   },
   "events": [
@@ -173,6 +173,19 @@
       "description": "Does he really want them back or is it move impress Donald Trump?",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/iraqi-pm-asks-christians-to-return-following-mass-exodus",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-22",
+      "lat": 9.23,
+      "lng": 9.2905,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Nigerian пастор highlighted Trump says he’s next после ополчение kills his relatives",
+      "description": "Rev. Ezekiel Dachomo says фулани ополчение убит nine his семья и сейчас threatens his life as штат департамент condemns христианин гонение.",
+      "source": "newsapi:Fox News",
+      "url": "https://www.foxnews.com/world/nigerian-pastor-highlighted-trump-says-hes-next-after-militia-kills-his-relatives",
       "victims": 0
     },
     {
@@ -355,6 +368,19 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – после multiple legal setbacks, relatives христианин girl who was forcibly converted ислам и married her мусульманин kidnapper are hoping Pakistan’s highest constitutional cou",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/07/court-in-pakistan-to-consider-hearing-case-of-abducted-christian-girl/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-21",
+      "lat": 31.1537,
+      "lng": 29.8943,
+      "country": "Egypt",
+      "city": "Alexandria",
+      "type": "other",
+      "title": "Dems Fight Aid Israel, Send Aid Egypt Which Persecutes христиане",
+      "description": "В прошлом году, двупартийный group members конгресс introduced H.Res.776: resolution expressing concern о гонение Coptic христиане под Egypt’s исламский regime. resolution has only picked up 8 cosponsors и has yet make it",
+      "source": "newsapi:Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4388760/posts",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Save Nigeria Rally included speakers such as Alveda король, PhD, niece civil rights activist Martin Luther король Jr., along с представители из all six geopolitical zones Nigeria.",
       "source": "newsapi:Ewtnnews.com",
       "url": "https://www.ewtnnews.com/world/us/nigerian-activists-rally-for-persecuted-christians-near-white-house",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-19",
-      "lat": 27.0802,
-      "lng": 81.194,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "discrimination",
-      "title": "Indian христиане атакован в церковь толпа",
-      "description": "Chhattisgarh has allegedly запрещён домашние церкви promote \"cultural harmony\".",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/indian-christians-attacked-in-church-by-mob",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-19",
-      "lat": 11.901,
-      "lng": 8.5987,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "kidnapping",
-      "title": "Appeals для release Nigerian христианин girl still held ИГИЛ после 8 годы",
-      "description": "Leah, who was 14 когда she was похищен, could have been released if she renounced her вера but she отказано.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/appeals-for-release-of-nigerian-christian-girl-still-held-by-isis-after-8-years",
       "victims": 0
     }
   ]
