@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-22T18:53:38.094Z",
+    "lastUpdated": "2026-07-23T01:25:29.253Z",
     "totalEvents": 500
   },
   "events": [
@@ -121,6 +121,32 @@
       "description": "SURABAYA, Indonesia (утро Star News) – мусульмане в Indonesia на июль 7 protested construction церковь building в South Sulawesi провинция, falsely claiming it had not fulfilled legal requirements, sources said. мусульмане also baselessly accus",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/07/muslims-protest-construction-of-church-building-in-indonesia/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-22",
+      "lat": 4.5974,
+      "lng": 18.6771,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "murder",
+      "title": "Священник убит после Baptizing 175 люди",
+      "description": "День после he baptized 175 люди, 36-год-old Catholic священник was убит боевики в Central African Republic. Father Crépin Martial Monga, vicar St. John Baptist Parish в Zémio, в Diocese Bangassou, was застрелен в head",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/22/priest-killed-after-baptizing-175-people/",
+      "victims": 175
+    },
+    {
+      "date": "2026-07-22",
+      "lat": 15.6609,
+      "lng": 32.3356,
+      "country": "Sudan",
+      "city": "Khartoum",
+      "type": "murder",
+      "title": "Girl Receives смерть угрозы после Finding New Life в Christ",
+      "description": "Born в мусульманин семья в Haroji Wado, community near Ethiopia’s western border с Sudan, 14-год-old Fatuma’s life changed после she decided follow Christ в ноябрь 2025. Instead finding acceptance, she became target persecutio",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/22/girl-receives-death-threats-after-finding-new-life-in-christ/",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected пастухи фулани убит nine христиане и ранен 11 others в ночь атака в Kaduna штат, Nigeria на вторник (июнь 16), area residents said. assailants атакован",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/06/terrorists-kill-nine-christians-injure-11-in-northern-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-19",
-      "lat": 15.6531,
-      "lng": 32.4598,
-      "country": "Sudan",
-      "city": "Khartoum",
-      "type": "discrimination",
-      "title": "Чиновники в Sudan Warn церковь Building Will Be снесён",
-      "description": "JUBA, South Sudan (утро Star News) – власти в Sudan have warned leaders церковь в Khartoum that their церковь building could be снесён any time, sources said. director planning Jebel Aulia район, accompanied eng",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/officials-in-sudan-warn-church-building-will-be-demolished/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-19",
-      "lat": 28.4921,
-      "lng": 76.9866,
-      "country": "India",
-      "city": "Delhi",
-      "type": "discrimination",
-      "title": "Indian христиане атакован в церковь толпа",
-      "description": "Chhattisgarh has allegedly запрещён домашние церкви promote \"cultural harmony\".",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/indian-christians-attacked-in-church-by-mob",
       "victims": 0
     }
   ]
