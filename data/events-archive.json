@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-24T08:03:38.127Z",
+    "lastUpdated": "2026-07-24T13:12:24.852Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "“Nigerian чиновники have created environment that facilitates месса violence against христиане и религиозный minorities imposing богохульство и Sharia laws\" post христианин убийства: Nigeria hiring lobbyists mask insecurity — Ted Cruz appe",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/07/christian-killings-nigeria-hiring-lobbyists-to-mask-insecurity-ted-cruz/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-24",
+      "lat": 4.2969,
+      "lng": 18.4212,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "Catholic сёстры bring free medical care Kenya slum, uncover hidden illnesses",
+      "description": "Приход сёстры St. Joseph Archdiocese Mombasa set up medical лагерь offer screenings и care underserved patients.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/catholic-sisters-bring-free-medical-care-to-kenya-slum-uncover-hidden-illnesses",
       "victims": 0
     },
     {
@@ -134,6 +147,45 @@
       "description": "“I applaud your resolve tackle issues plaguing your nation, especially violence affecting христианские общины\". post христианин гонение: Trump vows stand с Nigeria в anti-terror war appeared первый на Vanguard News.",
       "source": "newsapi:Vanguard",
       "url": "https://www.vanguardngr.com/2026/07/christian-persecution-trump-vows-to-stand-with-nigeria-in-anti-terror-war/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-23",
+      "lat": 9.1699,
+      "lng": 9.5657,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Христианин гонение: Trump vows stand с Nigeria в anti-terror war",
+      "description": "“I applaud your resolve tackle issues plaguing your nation, especially violence affecting христианские общины\". post христианин гонение: Trump vows stand с Nigeria в anti-terror war appeared первый на Vanguard News.",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/christian-persecution-trump-vows-to-stand-with-nigeria-in-anti-terror-war/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-23",
+      "lat": 11.6115,
+      "lng": 13.0966,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "Tinubu busy paying American lobbyists - US lawmaker, Ted Cruz claims",
+      "description": "United штаты lawmaker, Ted Cruz, has alleged that Nigeria's президент Bola Tinubu is spending resources и attention на US lobbyists amid гонение христиане в Nigeria. Senator Cruz made this allegation в statement на среда, saying",
+      "source": "newsapi:Daily Post Nigeria",
+      "url": "https://dailypost.ng/2026/07/23/tinubu-busy-paying-american-lobbyists-us-lawmaker-ted-cruz-claims/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-23",
+      "lat": 31.3712,
+      "lng": 121.6277,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "other",
+      "title": "Под agreement с China, Leo XIV appoints new епископ",
+      "description": "Chang Yanfeng, 42, was ordained епископ сегодня под Sino-Holy See agreement diocese that has been without its own пастор для 20 годы. Just three недели ago, new prelate had publicly commit local церковь controversial law design",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/07/23/under-the-agreement-with-china-leo-xiv-appoints-a-new-bishop/",
       "victims": 0
     },
     {
@@ -6447,58 +6499,6 @@
       "lng": 3.2975,
       "country": "Nigeria",
       "city": "Lagos",
-      "type": "murder",
-      "title": "Мусульманин боевики Kill 31 христиане в атаки Across плато, Kaduna штаты",
-      "description": "Armed мусульманин Tribesmen убит least 31 люди в two separate нападения на rural христианские общины в плато и Kaduna штаты within one неделя, according various sources. deadliest атака occurred поздно на июнь 21 в Kawel community, Mus",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/22/muslim-gunmen-kill-31-christians-in-attacks-across-plateau-kaduna-states/",
-      "victims": 31
-    },
-    {
-      "date": "2026-06-22",
-      "lat": 8.9705,
-      "lng": 9.634,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Мусульманин боевики Kill 31 христиане в атаки Across плато, Kaduna штаты",
-      "description": "Armed мусульманин Tribesmen убит least 31 люди в two separate нападения на rural христианские общины в плато и Kaduna штаты within one неделя, according various sources. deadliest атака occurred поздно на июнь 21 в Kawel community, Mus",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/22/muslim-gunmen-kill-31-christians-in-attacks-across-plateau-kaduna-states/",
-      "victims": 31
-    },
-    {
-      "date": "2026-06-22",
-      "lat": 6.7653,
-      "lng": 3.4317,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Фулани террористы Kill more than 20 христиане в Central Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани в рано hours понедельник (июнь 22) убит more than 20 христиане в атака в плато штат, Nigeria, sources said. assailants raided predominantly Christi",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/fulani-terrorists-kill-more-than-20-christians-in-central-nigeria/",
-      "victims": 20
-    },
-    {
-      "date": "2026-06-22",
-      "lat": 11.9046,
-      "lng": 13.1907,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Мусульманин боевики Kill 31 христиане в атаки Across плато, Kaduna штаты",
-      "description": "Armed мусульманин Tribesmen убит least 31 люди в two separate нападения на rural христианские общины в плато и Kaduna штаты within one неделя, according various sources. deadliest атака occurred поздно на июнь 21 в Kawel community, Mus",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/22/muslim-gunmen-kill-31-christians-in-attacks-across-plateau-kaduna-states/",
-      "victims": 31
-    },
-    {
-      "date": "2026-06-22",
-      "lat": 9.0606,
-      "lng": 7.4326,
-      "country": "Nigeria",
-      "city": "Abuja",
       "type": "murder",
       "title": "Мусульманин боевики Kill 31 христиане в атаки Across плато, Kaduna штаты",
       "description": "Armed мусульманин Tribesmen убит least 31 люди в two separate нападения на rural христианские общины в плато и Kaduna штаты within one неделя, according various sources. deadliest атака occurred поздно на июнь 21 в Kawel community, Mus",
