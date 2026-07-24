@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-24T01:21:30.411Z",
+    "lastUpdated": "2026-07-24T08:03:38.127Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-07-24",
+      "lat": 6.4667,
+      "lng": 3.5605,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Христианин убийства: Nigeria hiring lobbyists mask insecurity — Ted Cruz",
+      "description": "“Nigerian чиновники have created environment that facilitates месса violence against христиане и религиозный minorities imposing богохульство и Sharia laws\" post христианин убийства: Nigeria hiring lobbyists mask insecurity — Ted Cruz appe",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/07/christian-killings-nigeria-hiring-lobbyists-to-mask-insecurity-ted-cruz/",
+      "victims": 0
+    },
     {
       "date": "2026-07-23",
       "lat": 19.1211,
@@ -95,6 +108,32 @@
       "description": "Chang Yanfeng, 42, was ordained епископ сегодня под Sino-Holy See agreement diocese that has been without its own пастор для 20 годы. Just three недели ago, new prelate had publicly commit local церковь controversial law design",
       "source": "zenit",
       "url": "https://zenit.org/2026/07/23/under-the-agreement-with-china-leo-xiv-appoints-a-new-bishop/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-23",
+      "lat": 20.9031,
+      "lng": 84.9299,
+      "country": "India",
+      "city": "Odisha",
+      "type": "arrest",
+      "title": "Христиане заключён под India’s ‘Anti-обращение’ Law",
+      "description": "NEW DELHI (утро Star News) – Six пасторы и another христианин в India have begun serving their five-год тюрьма приговоры под “anti-обращение” law, two годы после they were falsely accused ребёнок’s birthday party, sources said. Ch",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/christians-imprisoned-under-indias-anti-conversion-law/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-23",
+      "lat": 6.4142,
+      "lng": 3.3334,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Христианин гонение: Trump vows stand с Nigeria в anti-terror war",
+      "description": "“I applaud your resolve tackle issues plaguing your nation, especially violence affecting христианские общины\". post христианин гонение: Trump vows stand с Nigeria в anti-terror war appeared первый на Vanguard News.",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/christian-persecution-trump-vows-to-stand-with-nigeria-in-anti-terror-war/",
       "victims": 0
     },
     {
@@ -381,6 +420,45 @@
       "description": "Does he really want them back or is it move impress Donald Trump?",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/iraqi-pm-asks-christians-to-return-following-mass-exodus",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-22",
+      "lat": 12.0232,
+      "lng": 8.5219,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Nigerian пастор highlighted Trump says he’s next после ополчение kills his relatives",
+      "description": "Rev. Ezekiel Dachomo says фулани ополчение убит nine his семья и сейчас threatens his life as штат департамент condemns христианин гонение.",
+      "source": "newsapi:Fox News",
+      "url": "https://www.foxnews.com/world/nigerian-pastor-highlighted-trump-says-hes-next-after-militia-kills-his-relatives",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-22",
+      "lat": 6.7479,
+      "lng": 3.2979,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "attack",
+      "title": "Христианин гонение: ‘It is honour stand с you в fight against террористы,’ Trump tells Tinubu",
+      "description": "— Applauds президент’s resolve tackle nation’s испытания Johnbosco Agbakwuru ABUJA — American президент, Donald Trump, has commended президент Bola Tinubu’s resolve tackle issues plaguing Nigeria, especially violence affecting Chris",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/christian-persecution-it-is-an-honour-to-stand-with-you-in-fight-against-terrorists-trump-tells-tinubu/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-22",
+      "lat": 34.4878,
+      "lng": 36.8151,
+      "country": "Syria",
+      "city": "Homs",
+      "type": "other",
+      "title": "Церковь urges govt address exam concerns",
+      "description": "Malankara Orthodox Syrian церковь urges govt address competitive exam irregularities, NEET paper leak, ensure justice, и create transparent system.",
+      "source": "newsapi:The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/kochi/church-urges-govt-to-address-exam-concerns/articleshow/132566694.cms",
       "victims": 0
     },
     {
@@ -6427,84 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/06/22/muslim-gunmen-kill-31-christians-in-attacks-across-plateau-kaduna-states/",
       "victims": 31
-    },
-    {
-      "date": "2026-06-22",
-      "lat": 11.8742,
-      "lng": 8.6898,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Мусульманин боевики Kill 31 христиане в атаки Across плато, Kaduna штаты",
-      "description": "Armed мусульманин Tribesmen убит least 31 люди в two separate нападения на rural христианские общины в плато и Kaduna штаты within one неделя, according various sources. deadliest атака occurred поздно на июнь 21 в Kawel community, Mus",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/22/muslim-gunmen-kill-31-christians-in-attacks-across-plateau-kaduna-states/",
-      "victims": 31
-    },
-    {
-      "date": "2026-06-22",
-      "lat": 10.4926,
-      "lng": 7.3403,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Фулани террористы Kill more than 20 христиане в Central Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани в рано hours понедельник (июнь 22) убит more than 20 христиане в атака в плато штат, Nigeria, sources said. assailants raided predominantly Christi",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/fulani-terrorists-kill-more-than-20-christians-in-central-nigeria/",
-      "victims": 20
-    },
-    {
-      "date": "2026-06-22",
-      "lat": 8.9604,
-      "lng": 7.5952,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Фулани террористы Kill more than 20 христиане в Central Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани в рано hours понедельник (июнь 22) убит more than 20 христиане в атака в плато штат, Nigeria, sources said. assailants raided predominantly Christi",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/fulani-terrorists-kill-more-than-20-christians-in-central-nigeria/",
-      "victims": 20
-    },
-    {
-      "date": "2026-06-22",
-      "lat": 11.7563,
-      "lng": 12.9193,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Фулани террористы Kill more than 20 христиане в Central Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани в рано hours понедельник (июнь 22) убит more than 20 христиане в атака в плато штат, Nigeria, sources said. assailants raided predominantly Christi",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/fulani-terrorists-kill-more-than-20-christians-in-central-nigeria/",
-      "victims": 20
-    },
-    {
-      "date": "2026-06-20",
-      "lat": 19.2143,
-      "lng": 73.073,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "other",
-      "title": "Церковь hails acquittal миссионеры Charity монахиня в India trafficking case",
-      "description": "Indian суд has cleared пожилые монахиня и two others после eight-год ordeal церковь leaders call politically driven попытка malign Mother Teresa's order.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/church-hails-acquittal-of-missionaries-of-charity-nun-in-india-trafficking-case",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-20",
-      "lat": 23.8339,
-      "lng": 90.6394,
-      "country": "Bangladesh",
-      "city": "Dhaka",
-      "type": "discrimination",
-      "title": "Funding cuts сила Catholic charity scale back Rohingya aid в Bangladesh",
-      "description": "As foreign donations dwindle, католическая церковь's relief агентство в Bangladesh is repairing fewer shelters и rationing hygiene supplies для Rohingya беженцы who depend на it.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/funding-cuts-force-catholic-charity-to-scale-back-rohingya-aid-in-bangladesh",
-      "victims": 0
     }
   ]
 }
