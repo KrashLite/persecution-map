@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-24T13:12:24.852Z",
+    "lastUpdated": "2026-07-24T19:08:14.933Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,19 @@
       "description": "Приход сёстры St. Joseph Archdiocese Mombasa set up medical лагерь offer screenings и care underserved patients.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/catholic-sisters-bring-free-medical-care-to-kenya-slum-uncover-hidden-illnesses",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-24",
+      "lat": 24.7834,
+      "lng": 66.9911,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "kidnapping",
+      "title": "Мусульманин женщина Gains Custody христианин Girl в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan has handed custody 16-год-old христианин girl unrelated мусульманин женщина после несовершеннолетний was recovered из мусульманин accused abducting, forcibly conver",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/muslim-woman-gains-custody-of-christian-girl-in-pakistan/",
       "victims": 0
     },
     {
@@ -181,6 +194,45 @@
       "lng": 121.6277,
       "country": "China",
       "city": "Shanghai",
+      "type": "other",
+      "title": "Под agreement с China, Leo XIV appoints new епископ",
+      "description": "Chang Yanfeng, 42, was ordained епископ сегодня под Sino-Holy See agreement diocese that has been without its own пастор для 20 годы. Just three недели ago, new prelate had publicly commit local церковь controversial law design",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/07/23/under-the-agreement-with-china-leo-xiv-appoints-a-new-bishop/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-23",
+      "lat": 8.9048,
+      "lng": 7.357,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Христианин гонение: Trump vows stand с Nigeria в anti-terror war",
+      "description": "“I applaud your resolve tackle issues plaguing your nation, especially violence affecting христианские общины\". post христианин гонение: Trump vows stand с Nigeria в anti-terror war appeared первый на Vanguard News.",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/christian-persecution-trump-vows-to-stand-with-nigeria-in-anti-terror-war/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-23",
+      "lat": 9.2938,
+      "lng": 9.4435,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Tinubu busy paying American lobbyists - US lawmaker, Ted Cruz claims",
+      "description": "United штаты lawmaker, Ted Cruz, has alleged that Nigeria's президент Bola Tinubu is spending resources и attention на US lobbyists amid гонение христиане в Nigeria. Senator Cruz made this allegation в statement на среда, saying",
+      "source": "newsapi:Daily Post Nigeria",
+      "url": "https://dailypost.ng/2026/07/23/tinubu-busy-paying-american-lobbyists-us-lawmaker-ted-cruz-claims/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-23",
+      "lat": 23.3324,
+      "lng": 113.7372,
+      "country": "China",
+      "city": "Guangdong",
       "type": "other",
       "title": "Под agreement с China, Leo XIV appoints new епископ",
       "description": "Chang Yanfeng, 42, was ordained епископ сегодня под Sino-Holy See agreement diocese that has been without its own пастор для 20 годы. Just three недели ago, new prelate had publicly commit local церковь controversial law design",
@@ -511,6 +563,19 @@
       "description": "Malankara Orthodox Syrian церковь urges govt address competitive exam irregularities, NEET paper leak, ensure justice, и create transparent system.",
       "source": "newsapi:The Times of India",
       "url": "https://timesofindia.indiatimes.com/city/kochi/church-urges-govt-to-address-exam-concerns/articleshow/132566694.cms",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-22",
+      "lat": 10.5208,
+      "lng": 7.516,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "attack",
+      "title": "Христианин гонение: ‘It is honour stand с you в fight against террористы,’ Trump tells Tinubu",
+      "description": "— Applauds президент’s resolve tackle nation’s испытания Johnbosco Agbakwuru ABUJA — American президент, Donald Trump, has commended президент Bola Tinubu’s resolve tackle issues plaguing Nigeria, especially violence affecting Chris",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/christian-persecution-it-is-an-honour-to-stand-with-you-in-fight-against-terrorists-trump-tells-tinubu/",
       "victims": 0
     },
     {
@@ -6440,71 +6505,6 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/06/fulani-terrorists-kill-more-than-20-christians-in-central-nigeria/",
       "victims": 20
-    },
-    {
-      "date": "2026-06-22",
-      "lat": 9.182,
-      "lng": 9.6156,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "discrimination",
-      "title": "Catholic епископы condemn reintegration repentant bandits",
-      "description": "Catholic епископы Ibadan Ecclesiastical провинция have criticised reintegration so-called repentant bandits в society и security structures, describing practice as unjust и disservice жертвы violent crimes across N",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/06/catholic-bishops-condemn-reintegration-of-repentant-bandits/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-22",
-      "lat": 8.9816,
-      "lng": 9.4162,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Фулани террористы Kill more than 20 христиане в Central Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани в рано hours понедельник (июнь 22) убит more than 20 христиане в атака в плато штат, Nigeria, sources said. assailants raided predominantly Christi",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/fulani-terrorists-kill-more-than-20-christians-in-central-nigeria/",
-      "victims": 20
-    },
-    {
-      "date": "2026-06-22",
-      "lat": 10.4946,
-      "lng": 7.5668,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Мусульманин боевики Kill 31 христиане в атаки Across плато, Kaduna штаты",
-      "description": "Armed мусульманин Tribesmen убит least 31 люди в two separate нападения на rural христианские общины в плато и Kaduna штаты within one неделя, according various sources. deadliest атака occurred поздно на июнь 21 в Kawel community, Mus",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/22/muslim-gunmen-kill-31-christians-in-attacks-across-plateau-kaduna-states/",
-      "victims": 31
-    },
-    {
-      "date": "2026-06-22",
-      "lat": 4.406,
-      "lng": 18.4783,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "discrimination",
-      "title": "Религиозный Freedom неделя kicks off в U.S.",
-      "description": "Catholics are invited pray, reflect, и act на религиозный дискриминация, education, immigration enforcement, Africa, gender ideology, политический и anti-религиозный violence, и Nicaragua.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/religious-freedom-week-kicks-off-in-the-u-s",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-22",
-      "lat": 6.6213,
-      "lng": 3.2975,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Мусульманин боевики Kill 31 христиане в атаки Across плато, Kaduna штаты",
-      "description": "Armed мусульманин Tribesmen убит least 31 люди в two separate нападения на rural христианские общины в плато и Kaduna штаты within one неделя, according various sources. deadliest атака occurred поздно на июнь 21 в Kawel community, Mus",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/22/muslim-gunmen-kill-31-christians-in-attacks-across-plateau-kaduna-states/",
-      "victims": 31
     }
   ]
 }
