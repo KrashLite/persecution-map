@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-25T12:54:53.745Z",
+    "lastUpdated": "2026-07-25T18:45:59.029Z",
     "totalEvents": 500
   },
   "events": [
@@ -12,6 +12,19 @@
       "lng": 29.9982,
       "country": "Egypt",
       "city": "Alexandria",
+      "type": "discrimination",
+      "title": "‘Historic moment’: Maronite церковь prepares для патриарх Hoyek’s beatification",
+      "description": "Maronites begin celebrations ahead beatification, Egypt moves against христианин дискриминация, Irish священники press для action на Gaza, и more в на этой неделе’s Catholic world news roundup.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/historic-moment-maronite-church-prepares-for-patriarch-hoyek-s-beatification",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-25",
+      "lat": 30.1295,
+      "lng": 31.3671,
+      "country": "Egypt",
+      "city": "Cairo",
       "type": "discrimination",
       "title": "‘Historic moment’: Maronite церковь prepares для патриарх Hoyek’s beatification",
       "description": "Maronites begin celebrations ahead beatification, Egypt moves against христианин дискриминация, Irish священники press для action на Gaza, и more в на этой неделе’s Catholic world news roundup.",
@@ -251,6 +264,32 @@
       "description": "Battle пролив Hormuz rekindled war в Middle East после ceasefire ended. Intent harm гражданские, including атаки на гражданский infrastructure, is immoral, theologians said.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/theologians-warn-against-attacks-civilians-iran-war-july",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-24",
+      "lat": 9.2764,
+      "lng": 9.2986,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "US lawmaker seeks Nnamdi Kanu’s release",
+      "description": "US Congressman renews calls для Nnamdi Kanu’s release, linking his задержание alleged религиозный гонение христиане в Nigeria. Read more на Read More: https://punchng.com/us-lawmaker-seeks-nnamdi-kanus-release/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-lawmaker-seeks-nnamdi-kanus-release/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-24",
+      "lat": 28.4601,
+      "lng": 77.2484,
+      "country": "India",
+      "city": "Delhi",
+      "type": "other",
+      "title": "Petition Highlights дружинник Violence",
+      "description": "Supreme суд India, на июль 15, heard petition that highlights rising hate speech against христиане, especially дружинник violence во время христианин festivals. Commonly known as “Violence Petition,” petition originated в 2022 d",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/24/petition-highlights-vigilante-violence/",
       "victims": 0
     },
     {
@@ -511,6 +550,19 @@
       "description": "United штаты lawmaker, Ted Cruz, has alleged that Nigeria's президент Bola Tinubu is spending resources и attention на US lobbyists amid гонение христиане в Nigeria. Senator Cruz made this allegation в statement на среда, saying",
       "source": "newsapi:Daily Post Nigeria",
       "url": "https://dailypost.ng/2026/07/23/tinubu-busy-paying-american-lobbyists-us-lawmaker-ted-cruz-claims/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-23",
+      "lat": 28.7504,
+      "lng": 77.2532,
+      "country": "India",
+      "city": "Delhi",
+      "type": "arrest",
+      "title": "Христиане заключён под India’s ‘Anti-обращение’ Law",
+      "description": "NEW DELHI (утро Star News) – Six пасторы и another христианин в India have begun serving their five-год тюрьма приговоры под “anti-обращение” law, two годы после they were falsely accused ребёнок’s birthday party, sources said. Ch",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/christians-imprisoned-under-indias-anti-conversion-law/",
       "victims": 0
     },
     {
@@ -1083,6 +1135,19 @@
       "description": "В прошлом году, двупартийный group members конгресс introduced H.Res.776: resolution expressing concern о гонение Coptic христиане под Egypt’s исламский regime. resolution has only picked up 8 cosponsors и has yet make it",
       "source": "newsapi:Freerepublic.com",
       "url": "https://freerepublic.com/focus/f-news/4388760/posts",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-21",
+      "lat": 33.4962,
+      "lng": 72.8061,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "kidnapping",
+      "title": "Суд в Pakistan Consider Hearing Case похищен христианин Girl",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – после multiple legal setbacks, relatives христианин girl who was forcibly converted ислам и married her мусульманин kidnapper are hoping Pakistan’s highest constitutional cou",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/court-in-pakistan-to-consider-hearing-case-of-abducted-christian-girl/",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – мусульманин в Pakistan убит христианин co-worker на понедельник (июнь 22) после telling him he could not drink water из cooler used other laborers, sources said. Local пастор и",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/06/muslim-in-pakistan-kills-christian-co-worker/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-24",
-      "lat": 15.6005,
-      "lng": 44.2119,
-      "country": "Yemen",
-      "city": "Sanaa",
-      "type": "other",
-      "title": "No Going Back: Living Openly as христианин-конверт из Yemen",
-      "description": "Amid economic collapse, widespread hunger, и frequent outbreaks violence, Yemen is not easy place для anyone live these дни. Much country is beyond правительство’s control, и most population inhabits areas occupied Hou",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/24/no-going-back-living-openly-as-a-christian-convert-from-yemen/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-24",
-      "lat": 43.9563,
-      "lng": 87.4374,
-      "country": "China",
-      "city": "Xinjiang",
-      "type": "other",
-      "title": "Uyghur христианин пастор Faces церковь закрытие Amid Intensifying Pressure в Xinjiang",
-      "description": "Uyghur христианин пастор в China’s Xinjiang Uyghur Autonomous регион is facing possible закрытие his церковь и гонение his семья после власти imposed burdensome compliance requirements и intensified surveillance церковь",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/24/uyghur-christian-pastor-faces-church-closure-amid-intensifying-pressure-in-xinjiang/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-24",
-      "lat": 24.8854,
-      "lng": 66.9822,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "murder",
-      "title": "Мусульманин в Pakistan Kills христианин Co-Worker",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – мусульманин в Pakistan убит христианин co-worker на понедельник (июнь 22) после telling him he could not drink water из cooler used other laborers, sources said. Local пастор и",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/muslim-in-pakistan-kills-christian-co-worker/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-24",
-      "lat": 9.233,
-      "lng": 9.4266,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Kwankwaso threatens N10bn lawsuit against Primate Ayodele alleged defamatory remarks",
-      "description": "Вице-президентial candidate Nigeria Democratic конгресс, NDC и former губернатор Kano штат, Senator Rabiu Musa Kwankwaso, has угрожали legal action against Primate Babatunde Elijah Ayodele INRI Evangelical Spiritual церковь, de",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/06/kwankwaso-threatens-n10bn-lawsuit-against-primate-ayodele-over-alleged-defamatory-remarks/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-24",
-      "lat": 40.0427,
-      "lng": 116.4484,
-      "country": "China",
-      "city": "Beijing",
-      "type": "other",
-      "title": "Uyghur христианин пастор Faces церковь закрытие Amid Intensifying Pressure в Xinjiang",
-      "description": "Uyghur христианин пастор в China’s Xinjiang Uyghur Autonomous регион is facing possible закрытие his церковь и гонение his семья после власти imposed burdensome compliance requirements и intensified surveillance церковь",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/24/uyghur-christian-pastor-faces-church-closure-amid-intensifying-pressure-in-xinjiang/",
       "victims": 0
     }
   ]
