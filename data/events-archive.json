@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-25T07:47:41.493Z",
+    "lastUpdated": "2026-07-25T12:54:53.745Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-07-25",
+      "lat": 31.1673,
+      "lng": 29.9982,
+      "country": "Egypt",
+      "city": "Alexandria",
+      "type": "discrimination",
+      "title": "‘Historic moment’: Maronite церковь prepares для патриарх Hoyek’s beatification",
+      "description": "Maronites begin celebrations ahead beatification, Egypt moves against христианин дискриминация, Irish священники press для action на Gaza, и more в на этой неделе’s Catholic world news roundup.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/historic-moment-maronite-church-prepares-for-patriarch-hoyek-s-beatification",
+      "victims": 0
+    },
     {
       "date": "2026-07-24",
       "lat": 6.4667,
@@ -181,6 +194,58 @@
       "lng": 59.41,
       "country": "Iran",
       "city": "Mashhad",
+      "type": "attack",
+      "title": "Catholic moral theologians concerned claims U.S., Iran struck гражданский infrastructure",
+      "description": "Battle пролив Hormuz rekindled war в Middle East после ceasefire ended. Intent harm гражданские, including атаки на гражданский infrastructure, is immoral, theologians said.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/theologians-warn-against-attacks-civilians-iran-war-july",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-24",
+      "lat": 6.737,
+      "lng": 3.4345,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "US lawmaker seeks Nnamdi Kanu’s release",
+      "description": "US Congressman renews calls для Nnamdi Kanu’s release, linking his задержание alleged религиозный гонение христиане в Nigeria. Read more на Read More: https://punchng.com/us-lawmaker-seeks-nnamdi-kanus-release/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-lawmaker-seeks-nnamdi-kanus-release/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-24",
+      "lat": 21.0661,
+      "lng": 85.2334,
+      "country": "India",
+      "city": "Odisha",
+      "type": "other",
+      "title": "Petition Highlights дружинник Violence",
+      "description": "Supreme суд India, на июль 15, heard petition that highlights rising hate speech against христиане, especially дружинник violence во время христианин festivals. Commonly known as “Violence Petition,” petition originated в 2022 d",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/24/petition-highlights-vigilante-violence/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-24",
+      "lat": 31.5625,
+      "lng": 74.4248,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "murder",
+      "title": "Pakistan Supreme суд Acquits All Suspects в 2014 Brick Kiln убийство Case",
+      "description": "Supreme суд Pakistan has ordered release окончательный three мужчины на смерть row в 2014 убийство case христианин couple, Shahzad Masih и his pregnant wife, Shama Bibi. с this decision, along с dismissal штат appeal",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/24/pakistan-supreme-court-acquits-all-suspects-in-2014-brick-kiln-murder-case/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-24",
+      "lat": 32.4206,
+      "lng": 51.7046,
+      "country": "Iran",
+      "city": "Isfahan",
       "type": "attack",
       "title": "Catholic moral theologians concerned claims U.S., Iran struck гражданский infrastructure",
       "description": "Battle пролив Hormuz rekindled war в Middle East после ceasefire ended. Intent harm гражданские, including атаки на гражданский infrastructure, is immoral, theologians said.",
@@ -810,6 +875,19 @@
       "description": "— Applauds президент’s resolve tackle nation’s испытания Johnbosco Agbakwuru ABUJA — American президент, Donald Trump, has commended президент Bola Tinubu’s resolve tackle issues plaguing Nigeria, especially violence affecting Chris",
       "source": "newsapi:Vanguard",
       "url": "https://www.vanguardngr.com/2026/07/christian-persecution-it-is-an-honour-to-stand-with-you-in-fight-against-terrorists-trump-tells-tinubu/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-22",
+      "lat": 11.7912,
+      "lng": 13.1037,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "kidnapping",
+      "title": "Экстремисты Abduct пастор’s Wife, 3 дети в Nigeria",
+      "description": "Исламский террористы, suspected be Боко Харам or Исламское государство West Africa провинция (ISWAP), похищен wife пастор и their three дети на суббота, июль 18, along Maiduguri-Damasak highway в Northeast Nigeria. семья",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/22/extremists-abduct-pastors-wife-3-children-in-nigeria/",
       "victims": 0
     },
     {
@@ -6426,84 +6504,6 @@
       "description": "Uyghur христианин пастор в China’s Xinjiang Uyghur Autonomous регион is facing possible закрытие his церковь и гонение his семья после власти imposed burdensome compliance requirements и intensified surveillance церковь",
       "source": "persecution",
       "url": "https://persecution.org/2026/06/24/uyghur-christian-pastor-faces-church-closure-amid-intensifying-pressure-in-xinjiang/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-24",
-      "lat": 31.5829,
-      "lng": 74.3115,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "murder",
-      "title": "Мусульманин в Pakistan Kills христианин Co-Worker",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – мусульманин в Pakistan убит христианин co-worker на понедельник (июнь 22) после telling him he could not drink water из cooler used other laborers, sources said. Local пастор и",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/muslim-in-pakistan-kills-christian-co-worker/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-24",
-      "lat": 23.5775,
-      "lng": 113.6279,
-      "country": "China",
-      "city": "Guangdong",
-      "type": "other",
-      "title": "Uyghur христианин пастор Faces церковь закрытие Amid Intensifying Pressure в Xinjiang",
-      "description": "Uyghur христианин пастор в China’s Xinjiang Uyghur Autonomous регион is facing possible закрытие his церковь и гонение his семья после власти imposed burdensome compliance requirements и intensified surveillance церковь",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/24/uyghur-christian-pastor-faces-church-closure-amid-intensifying-pressure-in-xinjiang/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-24",
-      "lat": 34.2351,
-      "lng": 71.3233,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "murder",
-      "title": "Мусульманин в Pakistan Kills христианин Co-Worker",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – мусульманин в Pakistan убит христианин co-worker на понедельник (июнь 22) после telling him he could not drink water из cooler used other laborers, sources said. Local пастор и",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/muslim-in-pakistan-kills-christian-co-worker/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-24",
-      "lat": 31.3229,
-      "lng": 121.3924,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "other",
-      "title": "Uyghur христианин пастор Faces церковь закрытие Amid Intensifying Pressure в Xinjiang",
-      "description": "Uyghur христианин пастор в China’s Xinjiang Uyghur Autonomous регион is facing possible закрытие his церковь и гонение his семья после власти imposed burdensome compliance requirements и intensified surveillance церковь",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/24/uyghur-christian-pastor-faces-church-closure-amid-intensifying-pressure-in-xinjiang/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-23",
-      "lat": 9.2543,
-      "lng": 9.586,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Первый memorial христиане убит в Nigeria unveiled",
-      "description": "Every год thousands are убит в Nigeria.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/first-memorial-to-christians-killed-in-nigeria-unveiled",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-23",
-      "lat": 4.6161,
-      "lng": -73.9759,
-      "country": "Colombia",
-      "city": "Bogota",
-      "type": "attack",
-      "title": "Церковь leaders угрожали боевики в run-up Colombian presidential election, says rights group",
-      "description": "CSW is urging new Colombian президент reinstate special protection measures для религиозный leaders",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/church-leaders-threatened-by-militants-in-run-up-to-colombian-presidential-election-says-rights-group",
       "victims": 0
     }
   ]
