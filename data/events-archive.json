@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-26T01:24:58.816Z",
+    "lastUpdated": "2026-07-26T08:02:55.734Z",
     "totalEvents": 500
   },
   "events": [
@@ -332,6 +332,19 @@
       "victims": 0
     },
     {
+      "date": "2026-07-24",
+      "lat": 35.8819,
+      "lng": 51.3643,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "attack",
+      "title": "Catholic moral theologians concerned claims U.S., Iran struck гражданский infrastructure",
+      "description": "Battle пролив Hormuz rekindled war в Middle East после ceasefire ended. Intent harm гражданские, including атаки на гражданский infrastructure, is immoral, theologians said.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/theologians-warn-against-attacks-civilians-iran-war-july",
+      "victims": 0
+    },
+    {
       "date": "2026-07-23",
       "lat": 19.1211,
       "lng": 72.8606,
@@ -615,6 +628,19 @@
       "description": "United штаты lawmaker, Ted Cruz, has alleged that Nigeria's президент Bola Tinubu is spending resources и attention на US lobbyists amid гонение христиане в Nigeria. Senator Cruz made this allegation в statement на среда, saying",
       "source": "newsapi:Daily Post Nigeria",
       "url": "https://dailypost.ng/2026/07/23/tinubu-busy-paying-american-lobbyists-us-lawmaker-ted-cruz-claims/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-23",
+      "lat": 11.9861,
+      "lng": 13.077,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "Христианин гонение: Trump vows stand с Nigeria в anti-terror war",
+      "description": "“I applaud your resolve tackle issues plaguing your nation, especially violence affecting христианские общины\". post христианин гонение: Trump vows stand с Nigeria в anti-terror war appeared первый на Vanguard News.",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/christian-persecution-trump-vows-to-stand-with-nigeria-in-anti-terror-war/",
       "victims": 0
     },
     {
@@ -6473,32 +6499,6 @@
       "lng": 3.2067,
       "country": "Nigeria",
       "city": "Lagos",
-      "type": "murder",
-      "title": "Фулани террористы Kill 28 христиане в Central Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани guided toward христианские лидеры на понедельник (июнь 22) убит 28 христиане, including пастор, в рейд на деревня в плато штат, Nigeria, sources said. Fulan",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/fulani-terrorists-kill-28-christians-in-central-nigeria/",
-      "victims": 28
-    },
-    {
-      "date": "2026-06-25",
-      "lat": 24.7759,
-      "lng": 67.0881,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "other",
-      "title": "Business богохульство: Accusations для Profit в Pakistan",
-      "description": "No demographic в Pakistan is safe из для-profit богохульство accusations. But религиозный minorities — христиане, индусы, и certain секты within ислам deemed heretical — are increased risk post Business богохульство: Accusations для Profi",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/06/25/the-business-of-blasphemy-accusations-for-profit-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-25",
-      "lat": 10.3486,
-      "lng": 7.3736,
-      "country": "Nigeria",
-      "city": "Kaduna",
       "type": "murder",
       "title": "Фулани террористы Kill 28 христиане в Central Nigeria",
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани guided toward христианские лидеры на понедельник (июнь 22) убит 28 христиане, including пастор, в рейд на деревня в плато штат, Nigeria, sources said. Fulan",
