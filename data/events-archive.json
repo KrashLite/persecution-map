@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-25T18:45:59.029Z",
+    "lastUpdated": "2026-07-26T01:24:58.816Z",
     "totalEvents": 500
   },
   "events": [
@@ -25,6 +25,19 @@
       "lng": 31.3671,
       "country": "Egypt",
       "city": "Cairo",
+      "type": "discrimination",
+      "title": "‘Historic moment’: Maronite церковь prepares для патриарх Hoyek’s beatification",
+      "description": "Maronites begin celebrations ahead beatification, Egypt moves against христианин дискриминация, Irish священники press для action на Gaza, и more в на этой неделе’s Catholic world news roundup.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/historic-moment-maronite-church-prepares-for-patriarch-hoyek-s-beatification",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-25",
+      "lat": 29.3921,
+      "lng": 32.9883,
+      "country": "Egypt",
+      "city": "Sinai",
       "type": "discrimination",
       "title": "‘Historic moment’: Maronite церковь prepares для патриарх Hoyek’s beatification",
       "description": "Maronites begin celebrations ahead beatification, Egypt moves against христианин дискриминация, Irish священники press для action на Gaza, и more в на этой неделе’s Catholic world news roundup.",
@@ -290,6 +303,32 @@
       "description": "Supreme суд India, на июль 15, heard petition that highlights rising hate speech against христиане, especially дружинник violence во время христианин festivals. Commonly known as “Violence Petition,” petition originated в 2022 d",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/24/petition-highlights-vigilante-violence/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-24",
+      "lat": 21.4252,
+      "lng": 82.0501,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Petition Highlights дружинник Violence",
+      "description": "Supreme суд India, на июль 15, heard petition that highlights rising hate speech against христиане, especially дружинник violence во время христианин festivals. Commonly known as “Violence Petition,” petition originated в 2022 d",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/24/petition-highlights-vigilante-violence/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-24",
+      "lat": 33.7797,
+      "lng": 73.2168,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "murder",
+      "title": "Pakistan Supreme суд Acquits All Suspects в 2014 Brick Kiln убийство Case",
+      "description": "Supreme суд Pakistan has ordered release окончательный three мужчины на смерть row в 2014 убийство case христианин couple, Shahzad Masih и his pregnant wife, Shama Bibi. с this decision, along с dismissal штат appeal",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/24/pakistan-supreme-court-acquits-all-suspects-in-2014-brick-kiln-murder-case/",
       "victims": 0
     },
     {
@@ -563,6 +602,19 @@
       "description": "NEW DELHI (утро Star News) – Six пасторы и another христианин в India have begun serving their five-год тюрьма приговоры под “anti-обращение” law, two годы после they were falsely accused ребёнок’s birthday party, sources said. Ch",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/07/christians-imprisoned-under-indias-anti-conversion-law/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-23",
+      "lat": 9.1782,
+      "lng": 7.6447,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Tinubu busy paying American lobbyists - US lawmaker, Ted Cruz claims",
+      "description": "United штаты lawmaker, Ted Cruz, has alleged that Nigeria's президент Bola Tinubu is spending resources и attention на US lobbyists amid гонение христиане в Nigeria. Senator Cruz made this allegation в statement на среда, saying",
+      "source": "newsapi:Daily Post Nigeria",
+      "url": "https://dailypost.ng/2026/07/23/tinubu-busy-paying-american-lobbyists-us-lawmaker-ted-cruz-claims/",
       "victims": 0
     },
     {
@@ -6453,58 +6505,6 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/06/fulani-terrorists-kill-28-christians-in-central-nigeria/",
       "victims": 28
-    },
-    {
-      "date": "2026-06-25",
-      "lat": 9.0835,
-      "lng": 7.643,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Фулани террористы Kill 28 христиане в Central Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани guided toward христианские лидеры на понедельник (июнь 22) убит 28 христиане, including пастор, в рейд на деревня в плато штат, Nigeria, sources said. Fulan",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/fulani-terrorists-kill-28-christians-in-central-nigeria/",
-      "victims": 28
-    },
-    {
-      "date": "2026-06-25",
-      "lat": 33.9095,
-      "lng": 73.0594,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "other",
-      "title": "Business богохульство: Accusations для Profit в Pakistan",
-      "description": "No demographic в Pakistan is safe из для-profit богохульство accusations. But религиозный minorities — христиане, индусы, и certain секты within ислам deemed heretical — are increased risk post Business богохульство: Accusations для Profi",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/06/25/the-business-of-blasphemy-accusations-for-profit-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-25",
-      "lat": 33.6295,
-      "lng": 72.809,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "murder",
-      "title": "Blind христианин в Pakistan Acquitted богохульство",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan has acquitted blind Catholic who spent 10 месяцы в тюрьма на богохульство обвинение carrying mandatory смертный приговор, ruling that прокуроры failed present",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/blind-christian-in-pakistan-acquitted-of-blasphemy/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-24",
-      "lat": 33.5903,
-      "lng": 73.2472,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "murder",
-      "title": "Мусульманин в Pakistan Kills христианин Co-Worker",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – мусульманин в Pakistan убит христианин co-worker на понедельник (июнь 22) после telling him he could not drink water из cooler used other laborers, sources said. Local пастор и",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/muslim-in-pakistan-kills-christian-co-worker/",
-      "victims": 0
     }
   ]
 }
