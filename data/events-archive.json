@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-26T12:52:08.108Z",
+    "lastUpdated": "2026-07-26T18:51:39.318Z",
     "totalEvents": 500
   },
   "events": [
@@ -12,6 +12,19 @@
       "lng": 29.8059,
       "country": "Egypt",
       "city": "Alexandria",
+      "type": "other",
+      "title": "Христианин город found под Egypt’s пустыня sand",
+      "description": "Beneath western пустыня Egypt, roughly 185 miles west Luxor, archaeologists have uncovered remains complete Byzantine-эра христианин город dating 4th век — including basilica церковь, private homes, watchtowers, fortress",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/07/26/a-christian-city-found-under-egypts-desert-sand/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-26",
+      "lat": 28.2935,
+      "lng": 30.9279,
+      "country": "Egypt",
+      "city": "Minya",
       "type": "other",
       "title": "Христианин город found под Egypt’s пустыня sand",
       "description": "Beneath western пустыня Egypt, roughly 185 miles west Luxor, archaeologists have uncovered remains complete Byzantine-эра христианин город dating 4th век — including basilica церковь, private homes, watchtowers, fortress",
@@ -371,6 +384,19 @@
       "victims": 0
     },
     {
+      "date": "2026-07-24",
+      "lat": 9.2737,
+      "lng": 7.4726,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "US lawmaker seeks Nnamdi Kanu’s release",
+      "description": "US Congressman renews calls для Nnamdi Kanu’s release, linking his задержание alleged религиозный гонение христиане в Nigeria. Read more на Read More: https://punchng.com/us-lawmaker-seeks-nnamdi-kanus-release/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-lawmaker-seeks-nnamdi-kanus-release/",
+      "victims": 0
+    },
+    {
       "date": "2026-07-23",
       "lat": 19.1211,
       "lng": 72.8606,
@@ -667,6 +693,19 @@
       "description": "“I applaud your resolve tackle issues plaguing your nation, especially violence affecting христианские общины\". post христианин гонение: Trump vows stand с Nigeria в anti-terror war appeared первый на Vanguard News.",
       "source": "newsapi:Vanguard",
       "url": "https://www.vanguardngr.com/2026/07/christian-persecution-trump-vows-to-stand-with-nigeria-in-anti-terror-war/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-23",
+      "lat": 12.0982,
+      "lng": 8.6664,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Tinubu busy paying American lobbyists - US lawmaker, Ted Cruz claims",
+      "description": "United штаты lawmaker, Ted Cruz, has alleged that Nigeria's президент Bola Tinubu is spending resources и attention на US lobbyists amid гонение христиане в Nigeria. Senator Cruz made this allegation в statement на среда, saying",
+      "source": "newsapi:Daily Post Nigeria",
+      "url": "https://dailypost.ng/2026/07/23/tinubu-busy-paying-american-lobbyists-us-lawmaker-ted-cruz-claims/",
       "victims": 0
     },
     {
@@ -6466,45 +6505,6 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/06/blind-christian-in-pakistan-acquitted-of-blasphemy/",
       "victims": 0
-    },
-    {
-      "date": "2026-06-25",
-      "lat": 31.7419,
-      "lng": 74.2313,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "other",
-      "title": "Business богохульство: Accusations для Profit в Pakistan",
-      "description": "No demographic в Pakistan is safe из для-profit богохульство accusations. But религиозный minorities — христиане, индусы, и certain секты within ислам deemed heretical — are increased risk post Business богохульство: Accusations для Profi",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/06/25/the-business-of-blasphemy-accusations-for-profit-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-25",
-      "lat": 22.8851,
-      "lng": -82.277,
-      "country": "Cuba",
-      "city": "Havana",
-      "type": "discrimination",
-      "title": "Cuban и Panamanian монахини save Cuba из literally being left without месса due shortage Hosts для consecration",
-      "description": "Situation was particularly serious because евхаристия occupies unique place в католическая церковь. пока many pastoral activities can be adapted во время difficult times, celebration месса depends upon availability bread и wine con",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/06/25/cuban-and-panamanian-nuns-save-cuba-from-literally-being-left-without-mass-due-to-a-shortage-of-hosts-for-consecration/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-25",
-      "lat": 11.8778,
-      "lng": 13.1612,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Фулани террористы Kill 28 христиане в Central Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани guided toward христианские лидеры на понедельник (июнь 22) убит 28 христиане, including пастор, в рейд на деревня в плато штат, Nigeria, sources said. Fulan",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/fulani-terrorists-kill-28-christians-in-central-nigeria/",
-      "victims": 28
     }
   ]
 }
