@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-26T08:02:55.734Z",
+    "lastUpdated": "2026-07-26T12:52:08.108Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-07-26",
+      "lat": 31.0491,
+      "lng": 29.8059,
+      "country": "Egypt",
+      "city": "Alexandria",
+      "type": "other",
+      "title": "Христианин город found под Egypt’s пустыня sand",
+      "description": "Beneath western пустыня Egypt, roughly 185 miles west Luxor, archaeologists have uncovered remains complete Byzantine-эра христианин город dating 4th век — including basilica церковь, private homes, watchtowers, fortress",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/07/26/a-christian-city-found-under-egypts-desert-sand/",
+      "victims": 0
+    },
     {
       "date": "2026-07-25",
       "lat": 31.1673,
@@ -38,6 +51,19 @@
       "lng": 32.9883,
       "country": "Egypt",
       "city": "Sinai",
+      "type": "discrimination",
+      "title": "‘Historic moment’: Maronite церковь prepares для патриарх Hoyek’s beatification",
+      "description": "Maronites begin celebrations ahead beatification, Egypt moves against христианин дискриминация, Irish священники press для action на Gaza, и more в на этой неделе’s Catholic world news roundup.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/historic-moment-maronite-church-prepares-for-patriarch-hoyek-s-beatification",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-25",
+      "lat": 28.2422,
+      "lng": 30.6158,
+      "country": "Egypt",
+      "city": "Minya",
       "type": "discrimination",
       "title": "‘Historic moment’: Maronite церковь prepares для патриарх Hoyek’s beatification",
       "description": "Maronites begin celebrations ahead beatification, Egypt moves against христианин дискриминация, Irish священники press для action на Gaza, и more в на этой неделе’s Catholic world news roundup.",
@@ -6473,32 +6499,6 @@
       "lng": 13.1612,
       "country": "Nigeria",
       "city": "Borno",
-      "type": "murder",
-      "title": "Фулани террористы Kill 28 христиане в Central Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани guided toward христианские лидеры на понедельник (июнь 22) убит 28 христиане, including пастор, в рейд на деревня в плато штат, Nigeria, sources said. Fulan",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/fulani-terrorists-kill-28-christians-in-central-nigeria/",
-      "victims": 28
-    },
-    {
-      "date": "2026-06-25",
-      "lat": 31.3115,
-      "lng": 74.5937,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "murder",
-      "title": "Blind христианин в Pakistan Acquitted богохульство",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan has acquitted blind Catholic who spent 10 месяцы в тюрьма на богохульство обвинение carrying mandatory смертный приговор, ruling that прокуроры failed present",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/blind-christian-in-pakistan-acquitted-of-blasphemy/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-25",
-      "lat": 6.7366,
-      "lng": 3.2067,
-      "country": "Nigeria",
-      "city": "Lagos",
       "type": "murder",
       "title": "Фулани террористы Kill 28 христиане в Central Nigeria",
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани guided toward христианские лидеры на понедельник (июнь 22) убит 28 христиане, including пастор, в рейд на деревня в плато штат, Nigeria, sources said. Fulan",
