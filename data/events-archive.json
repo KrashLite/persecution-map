@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-27T14:05:28.815Z",
+    "lastUpdated": "2026-07-27T19:07:40.727Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-07-27",
+      "lat": 31.6822,
+      "lng": 74.2366,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "kidnapping",
+      "title": "Constitutional суд в Pakistan Revisit Ruling на Married Girl",
+      "description": "ISLAMABAD (христианин Daily International–утро Star News) – Pakistan’s Federal Constitutional суд (FCC) на пятница (июль 24) agreed revisit its controversial ruling that upheld marriage мусульманин 13-год-old христианин girl allegedly",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/constitutional-court-in-pakistan-to-revisit-ruling-on-married-girl/",
+      "victims": 0
+    },
     {
       "date": "2026-07-26",
       "lat": 31.0491,
@@ -402,6 +415,19 @@
       "lng": 8.731,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "other",
+      "title": "US lawmaker seeks Nnamdi Kanu’s release",
+      "description": "US Congressman renews calls для Nnamdi Kanu’s release, linking his задержание alleged религиозный гонение христиане в Nigeria. Read more на Read More: https://punchng.com/us-lawmaker-seeks-nnamdi-kanus-release/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-lawmaker-seeks-nnamdi-kanus-release/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-24",
+      "lat": 10.7438,
+      "lng": 7.6578,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "other",
       "title": "US lawmaker seeks Nnamdi Kanu’s release",
       "description": "US Congressman renews calls для Nnamdi Kanu’s release, linking his задержание alleged религиозный гонение христиане в Nigeria. Read more на Read More: https://punchng.com/us-lawmaker-seeks-nnamdi-kanus-release/",
@@ -6473,32 +6499,6 @@
       "lng": 9.76,
       "country": "Nigeria",
       "city": "Plateau",
-      "type": "murder",
-      "title": "Фулани террористы Kill 28 христиане в Central Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани guided toward христианские лидеры на понедельник (июнь 22) убит 28 христиане, including пастор, в рейд на деревня в плато штат, Nigeria, sources said. Fulan",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/fulani-terrorists-kill-28-christians-in-central-nigeria/",
-      "victims": 28
-    },
-    {
-      "date": "2026-06-25",
-      "lat": 34.0663,
-      "lng": 71.3462,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "murder",
-      "title": "Blind христианин в Pakistan Acquitted богохульство",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan has acquitted blind Catholic who spent 10 месяцы в тюрьма на богохульство обвинение carrying mandatory смертный приговор, ruling that прокуроры failed present",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/blind-christian-in-pakistan-acquitted-of-blasphemy/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-25",
-      "lat": 11.8892,
-      "lng": 8.713,
-      "country": "Nigeria",
-      "city": "Kano",
       "type": "murder",
       "title": "Фулани террористы Kill 28 христиане в Central Nigeria",
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани guided toward христианские лидеры на понедельник (июнь 22) убит 28 христиане, including пастор, в рейд на деревня в плато штат, Nigeria, sources said. Fulan",
