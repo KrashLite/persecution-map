@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-27T01:29:19.938Z",
+    "lastUpdated": "2026-07-27T09:21:33.155Z",
     "totalEvents": 500
   },
   "events": [
@@ -389,6 +389,19 @@
       "lng": 7.4726,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "other",
+      "title": "US lawmaker seeks Nnamdi Kanu’s release",
+      "description": "US Congressman renews calls для Nnamdi Kanu’s release, linking his задержание alleged религиозный гонение христиане в Nigeria. Read more на Read More: https://punchng.com/us-lawmaker-seeks-nnamdi-kanus-release/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-lawmaker-seeks-nnamdi-kanus-release/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-24",
+      "lat": 11.983,
+      "lng": 8.731,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "other",
       "title": "US lawmaker seeks Nnamdi Kanu’s release",
       "description": "US Congressman renews calls для Nnamdi Kanu’s release, linking his задержание alleged религиозный гонение христиане в Nigeria. Read more на Read More: https://punchng.com/us-lawmaker-seeks-nnamdi-kanus-release/",
@@ -6492,19 +6505,6 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/06/fulani-terrorists-kill-28-christians-in-central-nigeria/",
       "victims": 28
-    },
-    {
-      "date": "2026-06-25",
-      "lat": 15.591,
-      "lng": 32.773,
-      "country": "Sudan",
-      "city": "Khartoum",
-      "type": "murder",
-      "title": "Sudanese священник убит",
-      "description": "Священник в Kauda, Sudan, was убит боевик group determined take his parish’s medical supplies. на июнь 18, armed group штурмован в Father Youhana Al-Amin’s церковь, demanding keys medical supply storage. They gathered all t",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/25/sudanese-priest-killed/",
-      "victims": 0
     }
   ]
 }
