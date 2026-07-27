@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-26T18:51:39.318Z",
+    "lastUpdated": "2026-07-27T01:29:19.938Z",
     "totalEvents": 500
   },
   "events": [
@@ -1083,6 +1083,19 @@
       "description": "Исламский террористы, suspected be Боко Харам or Исламское государство West Africa провинция (ISWAP), похищен wife пастор и their three дети на суббота, июль 18, along Maiduguri-Damasak highway в Northeast Nigeria. семья",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/22/extremists-abduct-pastors-wife-3-children-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-22",
+      "lat": 9.2994,
+      "lng": 7.4853,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "attack",
+      "title": "Христианин гонение: ‘It is honour stand с you в fight against террористы,’ Trump tells Tinubu",
+      "description": "— Applauds президент’s resolve tackle nation’s испытания Johnbosco Agbakwuru ABUJA — American президент, Donald Trump, has commended президент Bola Tinubu’s resolve tackle issues plaguing Nigeria, especially violence affecting Chris",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/07/christian-persecution-it-is-an-honour-to-stand-with-you-in-fight-against-terrorists-trump-tells-tinubu/",
       "victims": 0
     },
     {
@@ -6491,19 +6504,6 @@
       "description": "Священник в Kauda, Sudan, was убит боевик group determined take his parish’s medical supplies. на июнь 18, armed group штурмован в Father Youhana Al-Amin’s церковь, demanding keys medical supply storage. They gathered all t",
       "source": "persecution",
       "url": "https://persecution.org/2026/06/25/sudanese-priest-killed/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-25",
-      "lat": 24.9122,
-      "lng": 67.0253,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "murder",
-      "title": "Blind христианин в Pakistan Acquitted богохульство",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan has acquitted blind Catholic who spent 10 месяцы в тюрьма на богохульство обвинение carrying mandatory смертный приговор, ruling that прокуроры failed present",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/blind-christian-in-pakistan-acquitted-of-blasphemy/",
       "victims": 0
     }
   ]
