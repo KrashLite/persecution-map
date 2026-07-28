@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-28T08:10:25.156Z",
+    "lastUpdated": "2026-07-28T13:26:54.042Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-07-28",
+      "lat": 11.8192,
+      "lng": 13.2764,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "PHOTOS: Don’t marry ugly человек, says пастор as he shows off ‘beautiful’ wife",
+      "description": "Nigerian пастор, Prophet Apata Enoch, sparks controversy advising against marrying “ugly человек” пока celebrating his “beautiful” wife’s 50th birt Read More: https://punchng.com/photos-dont-marry--ugly-человек-says-пастор-as-he-shows-off-b",
+      "source": "punchng",
+      "url": "https://punchng.com/photos-dont-marry-an-ugly-person-says-pastor-as-he-shows-off-beautiful-wife/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-07-27",
       "lat": 31.6822,
@@ -56,6 +69,19 @@
       "description": "Для первый time, христианская община в India expressed its solidarity с non-политический students’ agitation movement against alleged irregularities в country’s top educational competitive testing system. молодёжь-led Cockroach Janta",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/27/indian-christians-support-student-protest/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-27",
+      "lat": 33.5414,
+      "lng": 72.8915,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "kidnapping",
+      "title": "Constitutional суд в Pakistan Revisit Ruling на Married Girl",
+      "description": "ISLAMABAD (христианин Daily International–утро Star News) – Pakistan’s Federal Constitutional суд (FCC) на пятница (июль 24) agreed revisit its controversial ruling that upheld marriage мусульманин 13-год-old христианин girl allegedly",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/constitutional-court-in-pakistan-to-revisit-ruling-on-married-girl/",
       "victims": 0
     },
     {
@@ -6473,32 +6499,6 @@
       "lng": 73.122,
       "country": "India",
       "city": "Mumbai",
-      "type": "other",
-      "title": "Христианские семьи Hospitalized после Severe нападение в India",
-      "description": "NEW DELHI (утро Star News) – Nine tribal люди в India have been released на залог после they sent 13 христиане больница с severe ранения, sources said. followers traditional tribal религия were released на залог на июнь 15. Th",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/christian-families-hospitalized-after-severe-assault-in-india/",
-      "victims": 13
-    },
-    {
-      "date": "2026-06-26",
-      "lat": 21.3512,
-      "lng": 82.0639,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "other",
-      "title": "Indian правительство tightens foreign donations law amid церковь protest plans",
-      "description": "Federal правительство has imposed stricter rules под India's foreign-donations law just дни до Catholic епископы convene nationwide день молитва related bill.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/india-tightens-foreign-funding-law-as-catholic-church-plans-day-of-prayer",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-26",
-      "lat": 28.9068,
-      "lng": 77.3468,
-      "country": "India",
-      "city": "Delhi",
       "type": "other",
       "title": "Христианские семьи Hospitalized после Severe нападение в India",
       "description": "NEW DELHI (утро Star News) – Nine tribal люди в India have been released на залог после they sent 13 христиане больница с severe ранения, sources said. followers traditional tribal религия were released на залог на июнь 15. Th",
