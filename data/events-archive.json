@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-28T01:17:18.937Z",
+    "lastUpdated": "2026-07-28T08:10:25.156Z",
     "totalEvents": 500
   },
   "events": [
@@ -38,6 +38,19 @@
       "lng": 72.6419,
       "country": "India",
       "city": "Mumbai",
+      "type": "other",
+      "title": "Indian христиане Support Student Protest",
+      "description": "Для первый time, христианская община в India expressed its solidarity с non-политический students’ agitation movement against alleged irregularities в country’s top educational competitive testing system. молодёжь-led Cockroach Janta",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/27/indian-christians-support-student-protest/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-27",
+      "lat": 28.7959,
+      "lng": 77.0184,
+      "country": "India",
+      "city": "Delhi",
       "type": "other",
       "title": "Indian христиане Support Student Protest",
       "description": "Для первый time, христианская община в India expressed its solidarity с non-политический students’ agitation movement against alleged irregularities в country’s top educational competitive testing system. молодёжь-led Cockroach Janta",
@@ -6492,19 +6505,6 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/06/christian-families-hospitalized-after-severe-assault-in-india/",
       "victims": 13
-    },
-    {
-      "date": "2026-06-26",
-      "lat": 20.7167,
-      "lng": 85.0926,
-      "country": "India",
-      "city": "Odisha",
-      "type": "other",
-      "title": "Indian правительство tightens foreign donations law amid церковь protest plans",
-      "description": "Federal правительство has imposed stricter rules под India's foreign-donations law just дни до Catholic епископы convene nationwide день молитва related bill.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/india-tightens-foreign-funding-law-as-catholic-church-plans-day-of-prayer",
-      "victims": 0
     }
   ]
 }
