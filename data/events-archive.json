@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-28T13:26:54.042Z",
+    "lastUpdated": "2026-07-28T19:02:47.468Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "Nigerian пастор, Prophet Apata Enoch, sparks controversy advising against marrying “ugly человек” пока celebrating his “beautiful” wife’s 50th birt Read More: https://punchng.com/photos-dont-marry--ugly-человек-says-пастор-as-he-shows-off-b",
       "source": "punchng",
       "url": "https://punchng.com/photos-dont-marry-an-ugly-person-says-pastor-as-he-shows-off-beautiful-wife/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-28",
+      "lat": 15.3069,
+      "lng": 32.4268,
+      "country": "Sudan",
+      "city": "Khartoum",
+      "type": "murder",
+      "title": "Повстанец боевики в Sudan Kill пастор, Abduct Others",
+      "description": "JUBA, South Sudan (утро Star News) – повстанец боевик faction backed исламский экстремист groups в Sudan на пятница (июль 24) убит пастор в South Kordofan штат’s Nuba горы, area церковь sources said. Members break-away group из th",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/rebel-militants-in-sudan-kill-pastor-abduct-others/",
       "victims": 0
     },
     {
@@ -82,6 +95,19 @@
       "description": "ISLAMABAD (христианин Daily International–утро Star News) – Pakistan’s Federal Constitutional суд (FCC) на пятница (июль 24) agreed revisit its controversial ruling that upheld marriage мусульманин 13-год-old христианин girl allegedly",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/07/constitutional-court-in-pakistan-to-revisit-ruling-on-married-girl/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-27",
+      "lat": 21.4174,
+      "lng": 81.7161,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Indian христиане Support Student Protest",
+      "description": "Для первый time, христианская община в India expressed its solidarity с non-политический students’ agitation movement against alleged irregularities в country’s top educational competitive testing system. молодёжь-led Cockroach Janta",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/27/indian-christians-support-student-protest/",
       "victims": 0
     },
     {
@@ -498,6 +524,19 @@
       "description": "US Congressman renews calls для Nnamdi Kanu’s release, linking his задержание alleged религиозный гонение христиане в Nigeria. Read more на Read More: https://punchng.com/us-lawmaker-seeks-nnamdi-kanus-release/",
       "source": "newsapi:The Punch",
       "url": "https://punchng.com/us-lawmaker-seeks-nnamdi-kanus-release/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-24",
+      "lat": 33.7763,
+      "lng": 71.3007,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "kidnapping",
+      "title": "Мусульманин женщина Gains Custody христианин Girl в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan has handed custody 16-год-old христианин girl unrelated мусульманин женщина после несовершеннолетний was recovered из мусульманин accused abducting, forcibly conver",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/muslim-woman-gains-custody-of-christian-girl-in-pakistan/",
       "victims": 0
     },
     {
@@ -6466,45 +6505,6 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/06/christian-attacked-for-evangelistic-outreach-in-uganda/",
       "victims": 0
-    },
-    {
-      "date": "2026-06-26",
-      "lat": 20.9157,
-      "lng": 84.8944,
-      "country": "India",
-      "city": "Odisha",
-      "type": "other",
-      "title": "Христианские семьи Hospitalized после Severe нападение в India",
-      "description": "NEW DELHI (утро Star News) – Nine tribal люди в India have been released на залог после they sent 13 христиане больница с severe ранения, sources said. followers traditional tribal религия were released на залог на июнь 15. Th",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/christian-families-hospitalized-after-severe-assault-in-india/",
-      "victims": 13
-    },
-    {
-      "date": "2026-06-26",
-      "lat": 26.6213,
-      "lng": 80.8168,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "other",
-      "title": "Indian правительство tightens foreign donations law amid церковь protest plans",
-      "description": "Federal правительство has imposed stricter rules под India's foreign-donations law just дни до Catholic епископы convene nationwide день молитва related bill.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/india-tightens-foreign-funding-law-as-catholic-church-plans-day-of-prayer",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-26",
-      "lat": 19.057,
-      "lng": 73.122,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "other",
-      "title": "Христианские семьи Hospitalized после Severe нападение в India",
-      "description": "NEW DELHI (утро Star News) – Nine tribal люди в India have been released на залог после they sent 13 христиане больница с severe ранения, sources said. followers traditional tribal религия were released на залог на июнь 15. Th",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/christian-families-hospitalized-after-severe-assault-in-india/",
-      "victims": 13
     }
   ]
 }
