@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-29T01:19:07.324Z",
+    "lastUpdated": "2026-07-29T08:14:39.523Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-07-29",
+      "lat": 9.2386,
+      "lng": 9.511,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "kidnapping",
+      "title": "Tinubu Catholic епископы: We’re stabilising Nigeria, prosperity на horizon",
+      "description": "ABUJA – президент Bola Tinubu вчера, assured that ongoing restructuring security операции и institutions will deliver victory terrorism, banditry и похищения across country. Receiving leadership Catholic епископы",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/07/tinubu-to-catholic-bishops-were-stabilising-nigeria-prosperity-on-horizon-2/",
+      "victims": 0
+    },
     {
       "date": "2026-07-28",
       "lat": 11.8192,
@@ -57,6 +70,19 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/07/28/ethiopian-christians-grieve-deadly-monastery-strike/",
       "victims": 0
+    },
+    {
+      "date": "2026-07-28",
+      "lat": 9.3446,
+      "lng": 9.5237,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Исламский экстремисты Kill 30 христиане в Nigerian деревня",
+      "description": "Rt. Hon. Stephen Hajara, представитель для Kauru Local правительство Legislative совет и Councilor representing Kamaru ward в Southern Kaduna, has called для immediate security intervention после исламский экстремисты убит 30 христиане в vi",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/28/islamic-extremists-kill-30-christians-in-nigerian-village/",
+      "victims": 30
     },
     {
       "date": "2026-07-27",
@@ -150,6 +176,19 @@
       "victims": 0
     },
     {
+      "date": "2026-07-27",
+      "lat": 30.1715,
+      "lng": 31.2416,
+      "country": "Egypt",
+      "city": "Cairo",
+      "type": "discrimination",
+      "title": "Христианин гонение concerns rise в Egypt as штат департамент presses религиозный freedom",
+      "description": "Egypt's 20 million Coptic христиане face дискриминация и occasional violence as experts say штат fails address anti-христианин fanaticism seriously.",
+      "source": "newsapi:Fox News",
+      "url": "https://www.foxnews.com/world/christian-persecution-concerns-rise-egypt-state-department-presses-religious-freedom",
+      "victims": 0
+    },
+    {
       "date": "2026-07-26",
       "lat": 31.0491,
       "lng": 29.8059,
@@ -168,6 +207,19 @@
       "lng": 30.9279,
       "country": "Egypt",
       "city": "Minya",
+      "type": "other",
+      "title": "Христианин город found под Egypt’s пустыня sand",
+      "description": "Beneath western пустыня Egypt, roughly 185 miles west Luxor, archaeologists have uncovered remains complete Byzantine-эра христианин город dating 4th век — including basilica церковь, private homes, watchtowers, fortress",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/07/26/a-christian-city-found-under-egypts-desert-sand/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-26",
+      "lat": 29.2226,
+      "lng": 33.2355,
+      "country": "Egypt",
+      "city": "Sinai",
       "type": "other",
       "title": "Христианин город found под Egypt’s пустыня sand",
       "description": "Beneath western пустыня Egypt, roughly 185 miles west Luxor, archaeologists have uncovered remains complete Byzantine-эра христианин город dating 4th век — including basilica церковь, private homes, watchtowers, fortress",
@@ -6452,58 +6504,6 @@
       "description": "Major Update: Trump Seeks End Separation церковь и штат Push христианин Values, Iran Strikes, Millions Lose Health Insurancesubstack.com",
       "source": "newsapi:Substack.com",
       "url": "https://aaronparnas.substack.com/p/major-update-trump-seeks-end-of-separation",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-27",
-      "lat": 35.749,
-      "lng": 51.5152,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Major Update: Trump Seeks End Separation церковь и штат Push христианин Values, Iran Strikes, Millions Lose Health Insurance",
-      "description": "Major Update: Trump Seeks End Separation церковь и штат Push христианин Values, Iran Strikes, Millions Lose Health Insurancesubstack.com",
-      "source": "newsapi:Substack.com",
-      "url": "https://aaronparnas.substack.com/p/major-update-trump-seeks-end-of-separation",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-27",
-      "lat": 29.5809,
-      "lng": 52.4554,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "Major Update: Trump Seeks End Separation церковь и штат Push христианин Values, Iran Strikes, Millions Lose Health Insurance",
-      "description": "Major Update: Trump Seeks End Separation церковь и штат Push христианин Values, Iran Strikes, Millions Lose Health Insurancesubstack.com",
-      "source": "newsapi:Substack.com",
-      "url": "https://aaronparnas.substack.com/p/major-update-trump-seeks-end-of-separation",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-26",
-      "lat": 10.3284,
-      "lng": -66.7196,
-      "country": "Venezuela",
-      "city": "Caracas",
-      "type": "murder",
-      "title": "Церковь opens its doors as Venezuela counts its погибшие",
-      "description": "They struck forty seconds apart на national праздник (St. John Baptist). первый earthquake, magnitude 7.2, hit 6:04 p.m. на июнь 24 near San Felipe, в northwestern Venezuela. Thirty-nine seconds позже, 7.5 magnitude quake— largest",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/06/26/the-church-opens-its-doors-as-venezuela-counts-its-dead/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-26",
-      "lat": -1.3911,
-      "lng": 36.6621,
-      "country": "Kenya",
-      "city": "Nairobi",
-      "type": "attack",
-      "title": "Христианин атакован для Evangelistic Outreach в Uganda",
-      "description": "NAIROBI, Kenya (утро Star News) – христианин атакован после he и his wife participated в evangelistic outreach в eastern Uganda на июнь 14 is still receiving medical treatment для his ранения, sources said. David Musobya, 37, had traveled",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/christian-attacked-for-evangelistic-outreach-in-uganda/",
       "victims": 0
     }
   ]
