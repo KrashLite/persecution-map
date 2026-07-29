@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-28T19:02:47.468Z",
+    "lastUpdated": "2026-07-29T01:19:07.324Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,32 @@
       "description": "JUBA, South Sudan (утро Star News) – повстанец боевик faction backed исламский экстремист groups в Sudan на пятница (июль 24) убит пастор в South Kordofan штат’s Nuba горы, area церковь sources said. Members break-away group из th",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/07/rebel-militants-in-sudan-kill-pastor-abduct-others/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-28",
+      "lat": 10.3263,
+      "lng": 7.1717,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Исламский экстремисты Kill 30 христиане в Nigerian деревня",
+      "description": "Rt. Hon. Stephen Hajara, представитель для Kauru Local правительство Legislative совет и Councilor representing Kamaru ward в Southern Kaduna, has called для immediate security intervention после исламский экстремисты убит 30 христиане в vi",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/28/islamic-extremists-kill-30-christians-in-nigerian-village/",
+      "victims": 30
+    },
+    {
+      "date": "2026-07-28",
+      "lat": 9.0025,
+      "lng": 38.4999,
+      "country": "Ethiopia",
+      "city": "Addis Ababa",
+      "type": "murder",
+      "title": "Ethiopian христиане Grieve Deadly Monastery Strike",
+      "description": "Христиане across Ethiopia are grieving после reports that беспилотник strike hit historic Arsema Monastery в South Wollo, Amhara регион, во время time богослужение на июль 22, убийство clergy и прихожане. According multiple reports, two монахини",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/28/ethiopian-christians-grieve-deadly-monastery-strike/",
       "victims": 0
     },
     {
@@ -108,6 +134,19 @@
       "description": "Для первый time, христианская община в India expressed its solidarity с non-политический students’ agitation movement against alleged irregularities в country’s top educational competitive testing system. молодёжь-led Cockroach Janta",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/27/indian-christians-support-student-protest/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-27",
+      "lat": 27.879,
+      "lng": 30.9177,
+      "country": "Egypt",
+      "city": "Minya",
+      "type": "discrimination",
+      "title": "Христианин гонение concerns rise в Egypt as штат департамент presses религиозный freedom",
+      "description": "Egypt's 20 million Coptic христиане face дискриминация и occasional violence as experts say штат fails address anti-христианин fanaticism seriously.",
+      "source": "newsapi:Fox News",
+      "url": "https://www.foxnews.com/world/christian-persecution-concerns-rise-egypt-state-department-presses-religious-freedom",
       "victims": 0
     },
     {
@@ -844,6 +883,19 @@
       "lng": 8.6664,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "other",
+      "title": "Tinubu busy paying American lobbyists - US lawmaker, Ted Cruz claims",
+      "description": "United штаты lawmaker, Ted Cruz, has alleged that Nigeria's президент Bola Tinubu is spending resources и attention на US lobbyists amid гонение христиане в Nigeria. Senator Cruz made this allegation в statement на среда, saying",
+      "source": "newsapi:Daily Post Nigeria",
+      "url": "https://dailypost.ng/2026/07/23/tinubu-busy-paying-american-lobbyists-us-lawmaker-ted-cruz-claims/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-23",
+      "lat": 6.5201,
+      "lng": 3.4796,
+      "country": "Nigeria",
+      "city": "Lagos",
       "type": "other",
       "title": "Tinubu busy paying American lobbyists - US lawmaker, Ted Cruz claims",
       "description": "United штаты lawmaker, Ted Cruz, has alleged that Nigeria's президент Bola Tinubu is spending resources и attention на US lobbyists amid гонение христиане в Nigeria. Senator Cruz made this allegation в statement на среда, saying",
@@ -6447,58 +6499,6 @@
       "lng": 36.6621,
       "country": "Kenya",
       "city": "Nairobi",
-      "type": "attack",
-      "title": "Христианин атакован для Evangelistic Outreach в Uganda",
-      "description": "NAIROBI, Kenya (утро Star News) – христианин атакован после he и his wife participated в evangelistic outreach в eastern Uganda на июнь 14 is still receiving medical treatment для his ранения, sources said. David Musobya, 37, had traveled",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/christian-attacked-for-evangelistic-outreach-in-uganda/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-26",
-      "lat": 21.3123,
-      "lng": 81.9007,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "other",
-      "title": "Христианские семьи Hospitalized после Severe нападение в India",
-      "description": "NEW DELHI (утро Star News) – Nine tribal люди в India have been released на залог после they sent 13 христиане больница с severe ранения, sources said. followers traditional tribal религия were released на залог на июнь 15. Th",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/christian-families-hospitalized-after-severe-assault-in-india/",
-      "victims": 13
-    },
-    {
-      "date": "2026-06-26",
-      "lat": 19.2043,
-      "lng": 72.8612,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "other",
-      "title": "Indian правительство tightens foreign donations law amid церковь protest plans",
-      "description": "Federal правительство has imposed stricter rules под India's foreign-donations law just дни до Catholic епископы convene nationwide день молитва related bill.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/india-tightens-foreign-funding-law-as-catholic-church-plans-day-of-prayer",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-26",
-      "lat": 26.8224,
-      "lng": 81.0211,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "other",
-      "title": "Христианские семьи Hospitalized после Severe нападение в India",
-      "description": "NEW DELHI (утро Star News) – Nine tribal люди в India have been released на залог после they sent 13 христиане больница с severe ранения, sources said. followers traditional tribal религия were released на залог на июнь 15. Th",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/christian-families-hospitalized-after-severe-assault-in-india/",
-      "victims": 13
-    },
-    {
-      "date": "2026-06-26",
-      "lat": -4.094,
-      "lng": 39.6078,
-      "country": "Kenya",
-      "city": "Mombasa",
       "type": "attack",
       "title": "Христианин атакован для Evangelistic Outreach в Uganda",
       "description": "NAIROBI, Kenya (утро Star News) – христианин атакован после he и his wife participated в evangelistic outreach в eastern Uganda на июнь 14 is still receiving medical treatment для his ранения, sources said. David Musobya, 37, had traveled",
