@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-30T13:21:30.751Z",
+    "lastUpdated": "2026-07-30T19:06:05.101Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,19 @@
       "description": "Some похищение жертвы have tragically погиб в плен, including two-неделя-old ребёнок.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/rights-group-nigeria-should-do-more-to-bring-kidnapped-christians-home",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-30",
+      "lat": 15.7024,
+      "lng": 32.6747,
+      "country": "Sudan",
+      "city": "Khartoum",
+      "type": "kidnapping",
+      "title": "Повстанец ополчение Abduct пастор и семья Members в Sudan",
+      "description": "JUBA, South Sudan (утро Star News) – Members break-away group из повстанец Sudan люди’s Liberation армия-North (SPLA-N) похищен пастор и others в North Kordofan штат, Sudan на июль 23, his брат said. Rev. Yaqob Ibrahim Tia",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/rebel-militia-abduct-pastor-and-family-members-in-sudan/",
       "victims": 0
     },
     {
@@ -108,6 +121,19 @@
       "description": "Expiration Temporary Protected Status (TPS) protections для Syrians в United штаты на этой неделе has renewed attention на fragile security environment facing гражданские в Syria, particularly религиозный minorities who remain vulnerable y",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/29/tps-protections-end-as-syrian-christians-face-an-uncertain-future/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-29",
+      "lat": 25.0364,
+      "lng": 67.2373,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "kidnapping",
+      "title": "Alleged Kidnapper Given Custody христианин Girl в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan на суббота (июль 25) handed custody 13-год-old христианин girl мусульманин accused abducting her, forcibly converting her ислам и coercing her в",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/alleged-kidnapper-given-custody-of-christian-girl-in-pakistan/",
       "victims": 0
     },
     {
@@ -350,6 +376,19 @@
       "lng": 84.849,
       "country": "India",
       "city": "Odisha",
+      "type": "other",
+      "title": "Indian христиане Support Student Protest",
+      "description": "Для первый time, христианская община в India expressed its solidarity с non-политический students’ agitation movement against alleged irregularities в country’s top educational competitive testing system. молодёжь-led Cockroach Janta",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/27/indian-christians-support-student-protest/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-27",
+      "lat": 27.0073,
+      "lng": 81.1157,
+      "country": "India",
+      "city": "Uttar Pradesh",
       "type": "other",
       "title": "Indian христиане Support Student Protest",
       "description": "Для первый time, христианская община в India expressed its solidarity с non-политический students’ agitation movement against alleged irregularities в country’s top educational competitive testing system. молодёжь-led Cockroach Janta",
@@ -810,6 +849,19 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan has handed custody 16-год-old христианин girl unrelated мусульманин женщина после несовершеннолетний was recovered из мусульманин accused abducting, forcibly conver",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/07/muslim-woman-gains-custody-of-christian-girl-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-24",
+      "lat": 11.6708,
+      "lng": 13.3386,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "US lawmaker seeks Nnamdi Kanu’s release",
+      "description": "US Congressman renews calls для Nnamdi Kanu’s release, linking his задержание alleged религиозный гонение христиане в Nigeria. Read more на Read More: https://punchng.com/us-lawmaker-seeks-nnamdi-kanus-release/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-lawmaker-seeks-nnamdi-kanus-release/",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "As церковь в India faces mounting pressures, Archdiocese Delhi is quietly opening doors для young люди chasing country's most coveted jobs и университет seats.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-in-india-expands-coaching-to-prepare-youth-for-civil-service-exams",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-29",
-      "lat": 11.9062,
-      "lng": 8.4182,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "kidnapping",
-      "title": "Terrorism has reached my doorstep, says Adeboye",
-      "description": "Пастор Enoch Adeboye declares terrorism и похищение have spread southern Nigeria, reaching his doorstep. He urges Tinubu issue 90-день ultimatum Read More: https://punchng.com/terrorism-has-reached-my-doorstep-says-adeboye/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/?p=2177938",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-29",
-      "lat": 10.5446,
-      "lng": 7.3593,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "kidnapping",
-      "title": "Terrorism has reached my doorstep, says Adeboye",
-      "description": "Пастор Enoch Adeboye declares terrorism и похищение have spread southern Nigeria, reaching his doorstep. He urges Tinubu issue 90-день ultimatum Read More: https://punchng.com/terrorism-has-reached-my-doorstep-says-adeboye/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/?p=2177938",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-28",
-      "lat": 6.3584,
-      "lng": 3.4294,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "attack",
-      "title": "How US strikes saved христиане в Nigeria–Trump",
-      "description": "United штаты (US) президент Donald Trump has said US военные strikes в Nigeria saved христиане из continued атаки террористы, claiming операция brought end widespread убийство христианские общины. post How US strikes",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/06/how-us-strikes-saved-christians-in-nigeria-trump-says/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-28",
-      "lat": 10.5535,
-      "lng": 7.3444,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Meet Nigerian женщина attempting 144-hour Библия reading Guinness world record",
-      "description": "Habibat Salawudeen Ihiovi-Jack is attempting 144-hour Библия reading marathon в порт Harcourt, aiming для new Guinness World Record. Follow her вера-d Read More: https://punchng.com/meet-nigerian-женщина-attempting-144-hour-Библия-reading-guinness",
-      "source": "punchng",
-      "url": "https://punchng.com/meet-nigerian-woman-attempting-144-hour-bible-reading-guinness-world-record/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     }
   ]
