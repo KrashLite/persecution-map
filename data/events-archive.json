@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-30T01:12:16.801Z",
+    "lastUpdated": "2026-07-30T08:03:17.015Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-07-30",
+      "lat": 6.7104,
+      "lng": 3.4091,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Rights group: Nigeria should do more bring похищен христиане home",
+      "description": "Some похищение жертвы have tragically погиб в плен, including two-неделя-old ребёнок.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/rights-group-nigeria-should-do-more-to-bring-kidnapped-christians-home",
+      "victims": 0
+    },
     {
       "date": "2026-07-29",
       "lat": 9.2386,
@@ -56,6 +69,19 @@
       "description": "Expiration Temporary Protected Status (TPS) protections для Syrians в United штаты на этой неделе has renewed attention на fragile security environment facing гражданские в Syria, particularly религиозный minorities who remain vulnerable y",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/29/tps-protections-end-as-syrian-christians-face-an-uncertain-future/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-29",
+      "lat": 33.9397,
+      "lng": 71.347,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "kidnapping",
+      "title": "Alleged Kidnapper Given Custody христианин Girl в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan на суббота (июль 25) handed custody 13-год-old христианин girl мусульманин accused abducting her, forcibly converting her ислам и coercing her в",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/07/alleged-kidnapper-given-custody-of-christian-girl-in-pakistan/",
       "victims": 0
     },
     {
@@ -290,6 +316,19 @@
       "description": "ISLAMABAD (христианин Daily International–утро Star News) – Pakistan’s Federal Constitutional суд (FCC) на пятница (июль 24) agreed revisit its controversial ruling that upheld marriage мусульманин 13-год-old христианин girl allegedly",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/07/constitutional-court-in-pakistan-to-revisit-ruling-on-married-girl/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-27",
+      "lat": 21.0969,
+      "lng": 84.849,
+      "country": "India",
+      "city": "Odisha",
+      "type": "other",
+      "title": "Indian христиане Support Student Protest",
+      "description": "Для первый time, христианская община в India expressed its solidarity с non-политический students’ agitation movement against alleged irregularities в country’s top educational competitive testing system. молодёжь-led Cockroach Janta",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/27/indian-christians-support-student-protest/",
       "victims": 0
     },
     {
@@ -6466,45 +6505,6 @@
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/06/aramco-helicopter-crash-kills-14-in-saudi-arabia/",
       "victims": 0
-    },
-    {
-      "date": "2026-06-27",
-      "lat": 9.4663,
-      "lng": 9.625,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "BSN earmarks N1.07bn для Библия translation",
-      "description": "Библия Society Nigeria proposes N1.07bn для 2027 expand Библия translation и outreach, including N216.6m для Nigerian languages и sign language Read More: https://punchng.com/bsn-earmarks-n1-07bn-для-Библия-translation/",
-      "source": "punchng",
-      "url": "https://punchng.com/bsn-earmarks-n1-07bn-for-bible-translation/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-27",
-      "lat": 9.0205,
-      "lng": 7.6835,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "BSN earmarks N1.07bn для Библия translation",
-      "description": "Библия Society Nigeria proposes N1.07bn для 2027 expand Библия translation и outreach, including N216.6m для Nigerian languages и sign language Read More: https://punchng.com/bsn-earmarks-n1-07bn-для-Библия-translation/",
-      "source": "punchng",
-      "url": "https://punchng.com/bsn-earmarks-n1-07bn-for-bible-translation/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-27",
-      "lat": 10.5892,
-      "lng": 7.2982,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Фулани террористы kill 28 христиане в central Nigeria",
-      "description": "Пастухи фулани guided toward христианские лидеры на понедельник убит 28 христиане, including пастор, в рейд на деревня в плато штат, Nigeria, sources said.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/fulani-terrorists-kill-28-christians-in-central-nigeria",
-      "victims": 28
     }
   ]
 }
