@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-31T13:25:06.649Z",
+    "lastUpdated": "2026-07-31T19:03:21.969Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,45 @@
       "description": "Golok Nanmwa JOS – боевики поздно четверг ночь убит middle-aged мужчина, identified simply as Mr. Bulus, в Ncha community Miango район, Bassa Local правительство Area плато штат. National Secretary Irigwe Development Associati",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/07/gunmen-kill-man-in-plateau-injure-pastor-two-others-in-fresh-attacks/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-31",
+      "lat": 29.4578,
+      "lng": 52.8227,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "discrimination",
+      "title": "Appeals для return церковь конфискован Iran",
+      "description": "United Nations и World совет церкви (WCC) have condemned изъятие 150-год-old церковь в Tehran.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/appeals-for-return-of-church-confiscated-by-iran",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-31",
+      "lat": 19.4957,
+      "lng": -99.0865,
+      "country": "Mexico",
+      "city": "Mexico City",
+      "type": "arrest",
+      "title": "‘He presented gun’: Dispute исламский мечеть turns violent New Mexico Catholic parish",
+      "description": "Weekslong quarrel involving local resident в Albuquerque ended с suspect арестован на two felony обвинения, according local священник.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/he-presented-a-gun-dispute-over-islamic-mosque-turns-violent-at-new-mexico-catholic-parish",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-31",
+      "lat": 9.1644,
+      "lng": 38.8766,
+      "country": "Ethiopia",
+      "city": "Addis Ababa",
+      "type": "murder",
+      "title": "Deadly атака на Ethiopian monastery condemned",
+      "description": "Беспилотник атака has prompted international condemnation и left local христиане reeling.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/deadly-attack-on-ethiopian-monastery-condemned",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "As церковь в India faces mounting pressures, Archdiocese Delhi is quietly opening doors для young люди chasing country's most coveted jobs и университет seats.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-in-india-expands-coaching-to-prepare-youth-for-civil-service-exams",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-29",
-      "lat": 18.8309,
-      "lng": 73.0561,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "other",
-      "title": "Католическая церковь в India expands coaching prepare молодёжь для civil service exams",
-      "description": "As церковь в India faces mounting pressures, Archdiocese Delhi is quietly opening doors для young люди chasing country's most coveted jobs и университет seats.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-in-india-expands-coaching-to-prepare-youth-for-civil-service-exams",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-29",
-      "lat": 34.6596,
-      "lng": 36.679,
-      "country": "Syria",
-      "city": "Homs",
-      "type": "other",
-      "title": "Filipino кардинал: Catholics should be agents change, not ‘keyboard warriors’",
-      "description": "Filipino кардинал urges Catholics get offline, Syria welcomes its new papal nuncio, Scottish diocese speaks out against unsanctioned рукоположение, и more в на этой неделе's world news roundup.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/filipino-cardinal-catholics-should-be-agents-of-change-not-keyboard-warriors",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-29",
-      "lat": 6.6756,
-      "lng": 3.401,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "According polls, жестокое обращение Catholics some радикал евреи и правительство’s attitude toward Palestinians are damaging Israel’s image",
-      "description": "New скамья Research Center survey conducted across 36 countries between февраль и май 2026 found that unfavorable views Israel have increased в most nations compared с 2025. Positive opinions сейчас outnumber negative ones в only four countrie",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/06/29/according-to-polls-mistreatment-of-catholics-by-some-radical-jews-and-the-governments-attitude-toward-palestinians-are-damaging-israels-image/",
       "victims": 0
     }
   ]
