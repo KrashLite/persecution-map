@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-30T19:06:05.101Z",
+    "lastUpdated": "2026-07-31T01:25:28.698Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,45 @@
       "description": "JUBA, South Sudan (утро Star News) – Members break-away group из повстанец Sudan люди’s Liberation армия-North (SPLA-N) похищен пастор и others в North Kordofan штат, Sudan на июль 23, his брат said. Rev. Yaqob Ibrahim Tia",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/07/rebel-militia-abduct-pastor-and-family-members-in-sudan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-30",
+      "lat": 11.7725,
+      "lng": 13.3408,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "Rights group: Nigeria should do more bring похищен христиане home",
+      "description": "Some похищение жертвы have tragically погиб в плен, including two-неделя-old ребёнок.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/rights-group-nigeria-should-do-more-to-bring-kidnapped-christians-home",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-30",
+      "lat": 21.0749,
+      "lng": 81.7201,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "other",
+      "title": "India’s Proposed FCRA Amendment Raises New угрозы для христианские служения",
+      "description": "India’s парламент is considering sweeping amendment country’s foreign-funding law that critics warn could give правительство unprecedented власть assets NGOs, including христианские служения, больницы, школы, и charitabl",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/30/indias-proposed-fcra-amendment-raises-new-threats-for-christian-ministries/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-30",
+      "lat": 10.3891,
+      "lng": -67.1466,
+      "country": "Venezuela",
+      "city": "Caracas",
+      "type": "other",
+      "title": "Церковь в Venezuela ‘remain side страдания’ following earthquakes",
+      "description": "Пока церковь’s response earthquakes в Venezuela certainly involved material aid, major part was simply being present министр выжившие, offering consolation и таинства.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/americas/church-in-venezuela-to-remain-at-the-side-of-the-suffering-following-earthquakes",
       "victims": 0
     },
     {
@@ -220,6 +259,19 @@
       "lng": 8.3838,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "murder",
+      "title": "Исламский экстремисты Kill 30 христиане в Nigerian деревня",
+      "description": "Rt. Hon. Stephen Hajara, представитель для Kauru Local правительство Legislative совет и Councilor representing Kamaru ward в Southern Kaduna, has called для immediate security intervention после исламский экстремисты убит 30 христиане в vi",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/28/islamic-extremists-kill-30-christians-in-nigerian-village/",
+      "victims": 30
+    },
+    {
+      "date": "2026-07-28",
+      "lat": 6.6455,
+      "lng": 3.4863,
+      "country": "Nigeria",
+      "city": "Lagos",
       "type": "murder",
       "title": "Исламский экстремисты Kill 30 христиане в Nigerian деревня",
       "description": "Rt. Hon. Stephen Hajara, представитель для Kauru Local правительство Legislative совет и Councilor representing Kamaru ward в Southern Kaduna, has called для immediate security intervention после исламский экстремисты убит 30 христиане в vi",
@@ -6452,58 +6504,6 @@
       "description": "Пастор Enoch Adeboye declares terrorism и похищение have spread southern Nigeria, reaching his doorstep. He urges Tinubu issue 90-день ultimatum Read More: https://punchng.com/terrorism-has-reached-my-doorstep-says-adeboye/",
       "source": "newsapi:The Punch",
       "url": "https://punchng.com/?p=2177938",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-29",
-      "lat": 28.5526,
-      "lng": 76.8932,
-      "country": "India",
-      "city": "Delhi",
-      "type": "other",
-      "title": "Католическая церковь в India expands coaching prepare молодёжь для civil service exams",
-      "description": "As церковь в India faces mounting pressures, Archdiocese Delhi is quietly opening doors для young люди chasing country's most coveted jobs и университет seats.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-in-india-expands-coaching-to-prepare-youth-for-civil-service-exams",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-29",
-      "lat": 9.0589,
-      "lng": 7.3857,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "kidnapping",
-      "title": "Terrorism has reached my doorstep, says Adeboye",
-      "description": "Пастор Enoch Adeboye declares terrorism и похищение have spread southern Nigeria, reaching his doorstep. He urges Tinubu issue 90-день ultimatum Read More: https://punchng.com/terrorism-has-reached-my-doorstep-says-adeboye/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/?p=2177938",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-29",
-      "lat": 26.8853,
-      "lng": 81.0363,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "other",
-      "title": "Католическая церковь в India expands coaching prepare молодёжь для civil service exams",
-      "description": "As церковь в India faces mounting pressures, Archdiocese Delhi is quietly opening doors для young люди chasing country's most coveted jobs и университет seats.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-in-india-expands-coaching-to-prepare-youth-for-civil-service-exams",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-29",
-      "lat": 21.1717,
-      "lng": 81.9025,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "other",
-      "title": "Католическая церковь в India expands coaching prepare молодёжь для civil service exams",
-      "description": "As церковь в India faces mounting pressures, Archdiocese Delhi is quietly opening doors для young люди chasing country's most coveted jobs и университет seats.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-in-india-expands-coaching-to-prepare-youth-for-civil-service-exams",
       "victims": 0
     }
   ]
