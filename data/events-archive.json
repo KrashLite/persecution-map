@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-01T12:48:45.071Z",
+    "lastUpdated": "2026-08-01T18:49:00.248Z",
     "totalEvents": 500
   },
   "events": [
@@ -220,6 +220,19 @@
       "lng": 31.2383,
       "country": "Egypt",
       "city": "Cairo",
+      "type": "other",
+      "title": "Egypt’s High школа Honors List Highlights христианин маргинализация",
+      "description": "Egypt’s министерство Education недавно announced country’s top-performing students в 2025–2026 General Secondary Certificate examinations, but list has drawn attention из христианин защитники после no Coptic христиане appeared among th",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/31/egypts-high-school-honors-list-highlights-christian-marginalization/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-31",
+      "lat": 31.3167,
+      "lng": 29.8423,
+      "country": "Egypt",
+      "city": "Alexandria",
       "type": "other",
       "title": "Egypt’s High школа Honors List Highlights христианин маргинализация",
       "description": "Egypt’s министерство Education недавно announced country’s top-performing students в 2025–2026 General Secondary Certificate examinations, but list has drawn attention из христианин защитники после no Coptic христиане appeared among th",
@@ -6492,19 +6505,6 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/06/two-christians-slain-seven-kidnapped-in-kaduna-state-nigeria/",
       "victims": 24
-    },
-    {
-      "date": "2026-06-30",
-      "lat": 24.9885,
-      "lng": 67.0214,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "kidnapping",
-      "title": "Exam Ordered для похищен христианин Girl в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan has ordered medical examination determine век христианин girl похищен, forcibly converted ислам и married мусульманин, sources said. Amber Nad",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/exam-ordered-for-kidnapped-christian-girl-in-pakistan/",
-      "victims": 0
     }
   ]
 }
