@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-01T01:26:41.364Z",
+    "lastUpdated": "2026-08-01T07:57:52.551Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-08-01",
+      "lat": 33.8583,
+      "lng": 73.009,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "kidnapping",
+      "title": "Alarm raised христианин girls being вынужден convert и marry their abductors в Pakistan",
+      "description": "Христианин girls в Pakistan, including несовершеннолетние, are living с daily угроза being похищен, вынужден convert ислам и then вынужден marry their abductors.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/alarm-raised-over-christian-girls-being-forced-to-convert-and-marry-their-abductors-in-pakistan",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-01",
+      "lat": 12.1581,
+      "lng": 8.6087,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Tinubu disagreed с Catholic епископы’ assessment economy, insecurity – Onaiyekan",
+      "description": "Архиепископ Onaiyekan reveals президент Tinubu disagreed с Catholic епископы’ assessment Nigeria’s economy и insecurity, insisting his administration Read More: https://punchng.com/tinubu-disagreed-с-catholic-епископы-assessment--economy-i",
+      "source": "punchng",
+      "url": "https://punchng.com/tinubu-disagreed-with-catholic-bishops-assessment-of-economy-insecurity-onaiyekan/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-07-31",
       "lat": 35.869,
@@ -122,6 +148,19 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/07/31/islamic-militants-kill-christian-leaders-in-the-drc/",
       "victims": 20
+    },
+    {
+      "date": "2026-07-31",
+      "lat": 36.2934,
+      "lng": 59.4827,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "discrimination",
+      "title": "Appeals для return церковь конфискован Iran",
+      "description": "United Nations и World совет церкви (WCC) have condemned изъятие 150-год-old церковь в Tehran.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/appeals-for-return-of-church-confiscated-by-iran",
+      "victims": 0
     },
     {
       "date": "2026-07-30",
@@ -251,6 +290,19 @@
       "description": "Some похищение жертвы have tragically погиб в плен, including two-неделя-old ребёнок.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/rights-group-nigeria-should-do-more-to-bring-kidnapped-christians-home",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-30",
+      "lat": 19.1999,
+      "lng": 72.7809,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "other",
+      "title": "India’s Proposed FCRA Amendment Raises New угрозы для христианские служения",
+      "description": "India’s парламент is considering sweeping amendment country’s foreign-funding law that critics warn could give правительство unprecedented власть assets NGOs, including христианские служения, больницы, школы, и charitabl",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/30/indias-proposed-fcra-amendment-raises-new-threats-for-christian-ministries/",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "Two годы после Manish left индуизм follow Jesus в 2008, he began sharing gospel full-time в local индус communities в India. недавно, индус nationalists have started push back. на Feb. 22, as пастор Manish led воскресенье богослужение service",
       "source": "persecution",
       "url": "https://persecution.org/2026/06/30/going-the-distance-to-help-those-in-need/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-30",
-      "lat": 6.3205,
-      "lng": 3.4911,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Two христиане убит, Seven похищен в Kaduna штат, Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected пастухи фулани на четверг (июнь 25) raided two христианин деревни в same area Kaduna штат, Nigeria, убийство two христиане, похищение seven others и injuring d",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/two-christians-slain-seven-kidnapped-in-kaduna-state-nigeria/",
-      "victims": 24
-    },
-    {
-      "date": "2026-06-30",
-      "lat": 12.0588,
-      "lng": 8.7719,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "Catholic молодёжь chaplains в Nigeria urged report насилие allegations церковь, civil власти",
-      "description": "National director Pastoral Affairs департамент Catholic Secretariat Nigeria (CSN) said церковь's commitment young люди requires creating и maintaining safe environments.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/catholic-youth-chaplains-in-nigeria-urged-to-report-abuse-allegations-to-church-civil",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-30",
-      "lat": 11.6169,
-      "lng": 13.3713,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Two христиане убит, Seven похищен в Kaduna штат, Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected пастухи фулани на четверг (июнь 25) raided two христианин деревни в same area Kaduna штат, Nigeria, убийство two христиане, похищение seven others и injuring d",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/two-christians-slain-seven-kidnapped-in-kaduna-state-nigeria/",
-      "victims": 24
-    },
-    {
-      "date": "2026-06-30",
-      "lat": 31.3951,
-      "lng": 74.1944,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "kidnapping",
-      "title": "Exam Ordered для похищен христианин Girl в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan has ordered medical examination determine век христианин girl похищен, forcibly converted ислам и married мусульманин, sources said. Amber Nad",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/exam-ordered-for-kidnapped-christian-girl-in-pakistan/",
       "victims": 0
     }
   ]
