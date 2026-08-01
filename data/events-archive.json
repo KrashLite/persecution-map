@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-07-31T19:03:21.969Z",
+    "lastUpdated": "2026-08-01T01:26:41.364Z",
     "totalEvents": 500
   },
   "events": [
@@ -83,6 +83,45 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/deadly-attack-on-ethiopian-monastery-condemned",
       "victims": 0
+    },
+    {
+      "date": "2026-07-31",
+      "lat": 29.3976,
+      "lng": 33.0127,
+      "country": "Egypt",
+      "city": "Sinai",
+      "type": "other",
+      "title": "Egypt’s High школа Honors List Highlights христианин маргинализация",
+      "description": "Egypt’s министерство Education недавно announced country’s top-performing students в 2025–2026 General Secondary Certificate examinations, but list has drawn attention из христианин защитники после no Coptic христиане appeared among th",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/31/egypts-high-school-honors-list-highlights-christian-marginalization/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-31",
+      "lat": 32.7893,
+      "lng": 51.5098,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "discrimination",
+      "title": "Appeals для return церковь конфискован Iran",
+      "description": "United Nations и World совет церкви (WCC) have condemned изъятие 150-год-old церковь в Tehran.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/appeals-for-return-of-church-confiscated-by-iran",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-31",
+      "lat": -4.3025,
+      "lng": 15.3606,
+      "country": "Democratic Republic of the Congo",
+      "city": "Kinshasa",
+      "type": "attack",
+      "title": "Исламский боевики Kill христианские лидеры в DRC",
+      "description": "Members Allied Democratic силы (ADF) атакован communities three times в just few дни в eastern Democratic Republic Congo (DRC), убийство more than 20 люди. из июль 14 16, ADF raided primarily христианин commune Ma",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/07/31/islamic-militants-kill-christian-leaders-in-the-drc/",
+      "victims": 20
     },
     {
       "date": "2026-07-30",
@@ -199,6 +238,19 @@
       "description": "India’s парламент is considering sweeping amendment country’s foreign-funding law that critics warn could give правительство unprecedented власть assets NGOs, including христианские служения, больницы, школы, и charitabl",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/30/indias-proposed-fcra-amendment-raises-new-threats-for-christian-ministries/",
+      "victims": 0
+    },
+    {
+      "date": "2026-07-30",
+      "lat": 11.8999,
+      "lng": 8.4208,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Rights group: Nigeria should do more bring похищен христиане home",
+      "description": "Some похищение жертвы have tragically погиб в плен, including two-неделя-old ребёнок.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/rights-group-nigeria-should-do-more-to-bring-kidnapped-christians-home",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan has ordered medical examination determine век христианин girl похищен, forcibly converted ислам и married мусульманин, sources said. Amber Nad",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/06/exam-ordered-for-kidnapped-christian-girl-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-30",
-      "lat": 9.3192,
-      "lng": 7.4554,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Two христиане убит, Seven похищен в Kaduna штат, Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected пастухи фулани на четверг (июнь 25) raided two христианин деревни в same area Kaduna штат, Nigeria, убийство two христиане, похищение seven others и injuring d",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/two-christians-slain-seven-kidnapped-in-kaduna-state-nigeria/",
-      "victims": 24
-    },
-    {
-      "date": "2026-06-30",
-      "lat": 19.0203,
-      "lng": 73.0232,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "other",
-      "title": "Going Distance Help Those в Need",
-      "description": "Two годы после Manish left индуизм follow Jesus в 2008, he began sharing gospel full-time в local индус communities в India. недавно, индус nationalists have started push back. на Feb. 22, as пастор Manish led воскресенье богослужение service",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/06/30/going-the-distance-to-help-those-in-need/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-29",
-      "lat": 11.9851,
-      "lng": 12.9939,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "kidnapping",
-      "title": "Terrorism has reached my doorstep, says Adeboye",
-      "description": "Пастор Enoch Adeboye declares terrorism и похищение have spread southern Nigeria, reaching his doorstep. He urges Tinubu issue 90-день ultimatum Read More: https://punchng.com/terrorism-has-reached-my-doorstep-says-adeboye/",
-      "source": "punchng",
-      "url": "https://punchng.com/terrorism-has-reached-my-doorstep-says-adeboye/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-29",
-      "lat": 21.1892,
-      "lng": 85.066,
-      "country": "India",
-      "city": "Odisha",
-      "type": "other",
-      "title": "Католическая церковь в India expands coaching prepare молодёжь для civil service exams",
-      "description": "As церковь в India faces mounting pressures, Archdiocese Delhi is quietly opening doors для young люди chasing country's most coveted jobs и университет seats.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-in-india-expands-coaching-to-prepare-youth-for-civil-service-exams",
       "victims": 0
     }
   ]
