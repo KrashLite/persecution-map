@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-02T12:51:21.151Z",
+    "lastUpdated": "2026-08-02T18:49:41.766Z",
     "totalEvents": 500
   },
   "events": [
@@ -56,6 +56,32 @@
       "description": "This is devastating story how христианин веры и symbols were twisted в violent apocalyptic ideology that brought terror и bloodshed Uganda и neighbouring countries.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/deadly-distortions-of-christianity-in-africa",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-02",
+      "lat": 9.2298,
+      "lng": 9.6561,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Obasanjo urges церковь be ‘боевик’ в driving righteousness, transformation",
+      "description": "Calls для stronger role в tackling Nigeria’s испытания Olayinka Latona Former президент Olusegun Obasanjo has urged Nigerian церковь reclaim its prophetic role в transforming society, saying country would have witnessed greater progre",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/08/obasanjo-urges-church-to-be-militant-in-driving-righteousness-transformation/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-02",
+      "lat": 11.9348,
+      "lng": 8.6823,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Apostolic церковь Nigeria convention triggers gridlock as traffic backs up Iyana Oworo",
+      "description": "Ongoing annual convention Apostolic церковь Nigeria National штаб-квартира, Ketu, Lagos, has continued cause heavy traffic congestion along Ogudu–Toll Gate corridor, с backlog extending beyond NNPC Filling Station Iyana",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/08/the-apostolic-church-nigeria-convention-triggers-gridlock-as-traffic-backs-up-to-iyana-oworo/",
       "victims": 0
     },
     {
@@ -6479,32 +6505,6 @@
       "source": "punchng",
       "url": "https://punchng.com/adeboye-oyedepo-seek-stronger-us-support-against-terrorism/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
-    },
-    {
-      "date": "2026-06-30",
-      "lat": 33.6684,
-      "lng": 73.0067,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "kidnapping",
-      "title": "Exam Ordered для похищен христианин Girl в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan has ordered medical examination determine век христианин girl похищен, forcibly converted ислам и married мусульманин, sources said. Amber Nad",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/exam-ordered-for-kidnapped-christian-girl-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-30",
-      "lat": 11.9639,
-      "lng": 8.5589,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Two христиане убит, Seven похищен в Kaduna штат, Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected пастухи фулани на четверг (июнь 25) raided two христианин деревни в same area Kaduna штат, Nigeria, убийство two христиане, похищение seven others и injuring d",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/06/two-christians-slain-seven-kidnapped-in-kaduna-state-nigeria/",
-      "victims": 24
     }
   ]
 }
