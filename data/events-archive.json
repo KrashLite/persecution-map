@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-03T14:10:52.832Z",
+    "lastUpdated": "2026-08-03T19:14:34.315Z",
     "totalEvents": 500
   },
   "events": [
@@ -44,6 +44,19 @@
       "source": "punchng",
       "url": "https://punchng.com/nigerias-progress-impossible-without-leadership-continuity-bakare/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
+    },
+    {
+      "date": "2026-08-03",
+      "lat": 9.0526,
+      "lng": 9.4591,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Funeral Services Held для 30 христиане зарезан в Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пасторы и members various церкви attended Catholic funeral service на суббота (Aug. 1) для 27 христиане зарезан suspected фулани террористы в Kaduna штат, Nigeria, s",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/08/funeral-services-held-for-30-christians-massacred-in-nigeria/",
+      "victims": 30
     },
     {
       "date": "2026-08-02",
@@ -147,6 +160,19 @@
       "description": "Семья Father Arsanios Wadid, who was убит в апрель 2022, confirmed that мужчина found guilty crime has been put смерть.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/egypt-executes-convicted-killer-of-coptic-orthodox-priest",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-02",
+      "lat": 9.2614,
+      "lng": 7.4981,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Obasanjo urges церковь be ‘боевик’ в driving righteousness, transformation",
+      "description": "Calls для stronger role в tackling Nigeria’s испытания Olayinka Latona Former президент Olusegun Obasanjo has urged Nigerian церковь reclaim its prophetic role в transforming society, saying country would have witnessed greater progre",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/08/obasanjo-urges-church-to-be-militant-in-driving-righteousness-transformation/",
       "victims": 0
     },
     {
@@ -6473,32 +6499,6 @@
       "lng": 9.4172,
       "country": "Nigeria",
       "city": "Plateau",
-      "type": "murder",
-      "title": "Armed мусульмане kill 31 христиане в атаки в Nigeria’s плато и Kaduna штаты",
-      "description": "Deadliest атака occurred поздно на июнь 21 в Kawel community, Mushere район Bokkos Local правительство Area, плато штат, where residents said боевики opened fire на homes и больница, убийство 22 христиане. post Armed мусульмане kill 31",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/07/01/armed-muslims-kill-31-christians-in-attacks-in-nigerias-plateau-and-kaduna-states/",
-      "victims": 31
-    },
-    {
-      "date": "2026-07-01",
-      "lat": 6.7538,
-      "lng": 3.4641,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "kidnapping",
-      "title": "Исламский экстремисты Abduct Students в Nigeria",
-      "description": "На понедельник утро, боевики атакован правительство день Secondary школа в Lassa, Askira/Uba Local правительство Area Borno штат пока students were sitting для National Examinations совет examinations, abducting students и школа staff и убийство",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/01/islamic-extremists-abduct-students-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-01",
-      "lat": 11.6209,
-      "lng": 13.0179,
-      "country": "Nigeria",
-      "city": "Borno",
       "type": "murder",
       "title": "Armed мусульмане kill 31 христиане в атаки в Nigeria’s плато и Kaduna штаты",
       "description": "Deadliest атака occurred поздно на июнь 21 в Kawel community, Mushere район Bokkos Local правительство Area, плато штат, where residents said боевики opened fire на homes и больница, убийство 22 христиане. post Armed мусульмане kill 31",
