@@ -2,10 +2,49 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-03T01:25:21.038Z",
+    "lastUpdated": "2026-08-03T08:55:54.035Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-08-03",
+      "lat": 10.2863,
+      "lng": 7.1677,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Onaiyekan: Northern христиане, Atiku, Senator Shehu Sani defend Catholic епископы",
+      "description": "Northern христианин Association, NCA, presidential candidate African Democratic конгресс, ADC, Atiku Abubakar, и Senator Shehu Sani have defended Catholic епископ Conference Nigeria, CBCN, statements credited former епископ o",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/08/onaiyekan-northern-christians-atiku-senator-shehu-sani-defend-catholic-bishops/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-03",
+      "lat": 10.2887,
+      "lng": 7.2356,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Sanusi II, Onaiyekan, и critiques Tinubunomics, Suleiman Suleiman",
+      "description": "Otherwise routine meeting between президент Bola Ahmed Tinubu и Catholic епископы Nigeria Conference на прошлой неделе took dramatic turn. post Sanusi II, Onaiyekan, и critiques Tinubunomics, Suleiman Suleiman appeared первый на Va",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/08/sanusi-ii-onaiyekan-and-critiques-of-tinubunomics-by-suleiman-suleiman/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-03",
+      "lat": 6.7108,
+      "lng": 3.2512,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Nigeria’s progress impossible without leadership continuity – Bakare",
+      "description": "Пастор Tunde Bakare warns Nigeria’s development hinges на leadership continuity и strong institutions. Discover his insights на governance и nation-bui Read More: https://punchng.com/nigerias-progress-impossible-without-leadership-continuity-bak",
+      "source": "punchng",
+      "url": "https://punchng.com/nigerias-progress-impossible-without-leadership-continuity-bakare/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-08-02",
       "lat": 11.8135,
@@ -90,6 +129,19 @@
       "lng": 33.0128,
       "country": "Egypt",
       "city": "Sinai",
+      "type": "murder",
+      "title": "Egypt executes осуждён killer Coptic Orthodox священник",
+      "description": "Семья Father Arsanios Wadid, who was убит в апрель 2022, confirmed that мужчина found guilty crime has been put смерть.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/egypt-executes-convicted-killer-of-coptic-orthodox-priest",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-02",
+      "lat": 31.1924,
+      "lng": 30.1362,
+      "country": "Egypt",
+      "city": "Alexandria",
       "type": "murder",
       "title": "Egypt executes осуждён killer Coptic Orthodox священник",
       "description": "Семья Father Arsanios Wadid, who was убит в апрель 2022, confirmed that мужчина found guilty crime has been put смерть.",
@@ -199,6 +251,19 @@
       "description": "Bakare, Serving надзиратель Citadel Global Community церковь (CGCC) said that he remained confident that Nigeria that works would emerge в his lifetime. post Nigeria needs leaders who respect public офис – Tunde Bakare appeared первый",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/08/nigeria-needs-leaders-who-respect-public-office-tunde-bakare/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-01",
+      "lat": 33.998,
+      "lng": 71.3198,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "kidnapping",
+      "title": "Alarm raised христианин girls being вынужден convert и marry their abductors в Pakistan",
+      "description": "Христианин girls в Pakistan, including несовершеннолетние, are living с daily угроза being похищен, вынужден convert ислам и then вынужден marry their abductors.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/alarm-raised-over-christian-girls-being-forced-to-convert-and-marry-their-abductors-in-pakistan",
       "victims": 0
     },
     {
@@ -6440,71 +6505,6 @@
       "source": "zenit",
       "url": "https://zenit.org/2026/07/01/armed-muslims-kill-31-christians-in-attacks-in-nigerias-plateau-and-kaduna-states/",
       "victims": 31
-    },
-    {
-      "date": "2026-07-01",
-      "lat": 31.5097,
-      "lng": 74.6068,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "murder",
-      "title": "Христианин Accused богохульство Dies в тюрьма в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – 61-год-old Catholic в Pakistan страдания из advanced dementia погиб на среда (июль 1) после nearly год в тюрьма awaiting суд на false богохульство обвинение, sources said.",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/christian-accused-of-blasphemy-dies-in-jail-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-01",
-      "lat": 24.7181,
-      "lng": 66.8969,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "murder",
-      "title": "Христианин Accused богохульство Dies в тюрьма в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – 61-год-old Catholic в Pakistan страдания из advanced dementia погиб на среда (июль 1) после nearly год в тюрьма awaiting суд на false богохульство обвинение, sources said.",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/christian-accused-of-blasphemy-dies-in-jail-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-01",
-      "lat": 8.9151,
-      "lng": 7.5031,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "kidnapping",
-      "title": "Исламский экстремисты Abduct Students в Nigeria",
-      "description": "На понедельник утро, боевики атакован правительство день Secondary школа в Lassa, Askira/Uba Local правительство Area Borno штат пока students were sitting для National Examinations совет examinations, abducting students и школа staff и убийство",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/01/islamic-extremists-abduct-students-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-01",
-      "lat": 12.0234,
-      "lng": 13.3114,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "kidnapping",
-      "title": "Исламский экстремисты Abduct Students в Nigeria",
-      "description": "На понедельник утро, боевики атакован правительство день Secondary школа в Lassa, Askira/Uba Local правительство Area Borno штат пока students were sitting для National Examinations совет examinations, abducting students и школа staff и убийство",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/01/islamic-extremists-abduct-students-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-30",
-      "lat": 9.356,
-      "lng": 9.4165,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Adeboye, Oyedepo seek stronger US support against terrorism",
-      "description": "Пасторы Adeboye и Oyedepo urge US для stronger support against Nigeria terrorism, warning nation is breaking point due insecurity. Read More: https://punchng.com/adeboye-oyedepo-seek-stronger-us-support-against-terrorism/",
-      "source": "punchng",
-      "url": "https://punchng.com/adeboye-oyedepo-seek-stronger-us-support-against-terrorism/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
     }
   ]
 }
