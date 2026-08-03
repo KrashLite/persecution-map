@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-02T18:49:41.766Z",
+    "lastUpdated": "2026-08-03T01:25:21.038Z",
     "totalEvents": 500
   },
   "events": [
@@ -82,6 +82,19 @@
       "description": "Ongoing annual convention Apostolic церковь Nigeria National штаб-квартира, Ketu, Lagos, has continued cause heavy traffic congestion along Ogudu–Toll Gate corridor, с backlog extending beyond NNPC Filling Station Iyana",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/08/the-apostolic-church-nigeria-convention-triggers-gridlock-as-traffic-backs-up-to-iyana-oworo/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-02",
+      "lat": 29.3971,
+      "lng": 33.0128,
+      "country": "Egypt",
+      "city": "Sinai",
+      "type": "murder",
+      "title": "Egypt executes осуждён killer Coptic Orthodox священник",
+      "description": "Семья Father Arsanios Wadid, who was убит в апрель 2022, confirmed that мужчина found guilty crime has been put смерть.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/egypt-executes-convicted-killer-of-coptic-orthodox-priest",
       "victims": 0
     },
     {
@@ -6489,19 +6502,6 @@
       "type": "other",
       "title": "Adeboye, Oyedepo seek stronger US support against terrorism",
       "description": "Пасторы Adeboye и Oyedepo urge US для stronger support against Nigeria terrorism, warning nation is breaking point due insecurity. Read More: https://punchng.com/adeboye-oyedepo-seek-stronger-us-support-against-terrorism/",
-      "source": "punchng",
-      "url": "https://punchng.com/adeboye-oyedepo-seek-stronger-us-support-against-terrorism/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-06-30",
-      "lat": 10.757,
-      "lng": 7.463,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Adeboye, Oyedepo seek stronger US support against terrorism",
-      "description": "Пасторы Adeboye и Oyedepo urge stronger US support against Nigeria terrorism, warning nation is breaking point due persistent insecurity. Read More: https://punchng.com/adeboye-oyedepo-seek-stronger-us-support-against-terrorism/",
       "source": "punchng",
       "url": "https://punchng.com/adeboye-oyedepo-seek-stronger-us-support-against-terrorism/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
