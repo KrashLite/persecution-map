@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-03T19:14:34.315Z",
+    "lastUpdated": "2026-08-04T01:15:48.770Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-08-04",
+      "lat": 8.8601,
+      "lng": 7.3159,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Onaiyekan Presidency: We’re done talking, govern better",
+      "description": "Архиепископ Emeritus Abuja, John кардинал Onaiyekan, has declined respond criticisms Presidency, insisting that Catholic епископы have already delivered their message президент и were only interested в whether it would inf",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/08/onaiyekan-to-presidency-were-done-talking-govern-better/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-04",
+      "lat": 8.9644,
+      "lng": 7.6448,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "I pity Tinubu but more concerned для Nigeria — OLAWEPO-Hashim",
+      "description": "Presidential candidate Accord Party Dr. Gbenga Olawepo-Hashim, has expressed deep concern и sadness президент Bola Tinubu’s remarks во время his meeting с Catholic епископы штат House, Abuja, недавно. post I pity Tinubu but",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/08/i-pity-tinubu-but-more-concerned-for-nigeria-olawepo-hashim/",
+      "victims": 0
+    },
     {
       "date": "2026-08-03",
       "lat": 10.2863,
@@ -57,6 +83,45 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/08/funeral-services-held-for-30-christians-massacred-in-nigeria/",
       "victims": 30
+    },
+    {
+      "date": "2026-08-03",
+      "lat": 10.2828,
+      "lng": 7.2794,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Funeral Services Held для 30 христиане зарезан в Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пасторы и members various церкви attended Catholic funeral service на суббота (Aug. 1) для 27 христиане зарезан suspected фулани террористы в Kaduna штат, Nigeria, s",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/08/funeral-services-held-for-30-christians-massacred-in-nigeria/",
+      "victims": 30
+    },
+    {
+      "date": "2026-08-03",
+      "lat": 19.2434,
+      "lng": 72.7294,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "arrest",
+      "title": "Христиане приговорён тюрьма для ‘вынужден обращения’ Birthday Party",
+      "description": "Seven христиане из India’s Madhya Pradesh штат have been приговорён после суд found them guilty forceful обращения во время birthday party. осуждения, which follow legal battle that’s lasted since апрель 2024, are последний exampl",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/03/christians-sentenced-to-prison-for-forced-conversions-at-birthday-party/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-03",
+      "lat": 0.4141,
+      "lng": 32.7328,
+      "country": "Uganda",
+      "city": "Kampala",
+      "type": "other",
+      "title": "Fighting Live",
+      "description": "Until two месяцы ago, Sauda’s life в Western Uganda was marked fear, насилие, и hopelessness. для годы, her father — prominent local мусульманин leader — подвергнут насилию her в multiple ways. “My father was merciless,” Sauda told International христианин",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/03/fighting-to-live/",
+      "victims": 0
     },
     {
       "date": "2026-08-02",
@@ -6440,71 +6505,6 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/assyrian-patriarch-calls-for-stronger-cooperation-among-eastern-churches",
       "victims": 0
-    },
-    {
-      "date": "2026-07-01",
-      "lat": 9.4596,
-      "lng": 9.5454,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "kidnapping",
-      "title": "Исламский экстремисты Abduct Students в Nigeria",
-      "description": "На понедельник утро, боевики атакован правительство день Secondary школа в Lassa, Askira/Uba Local правительство Area Borno штат пока students were sitting для National Examinations совет examinations, abducting students и школа staff и убийство",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/01/islamic-extremists-abduct-students-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-01",
-      "lat": 10.3547,
-      "lng": 7.3527,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "kidnapping",
-      "title": "Исламский экстремисты Abduct Students в Nigeria",
-      "description": "На понедельник утро, боевики атакован правительство день Secondary школа в Lassa, Askira/Uba Local правительство Area Borno штат пока students were sitting для National Examinations совет examinations, abducting students и школа staff и убийство",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/01/islamic-extremists-abduct-students-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-01",
-      "lat": 11.7978,
-      "lng": 8.6916,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Armed мусульмане kill 31 христиане в атаки в Nigeria’s плато и Kaduna штаты",
-      "description": "Deadliest атака occurred поздно на июнь 21 в Kawel community, Mushere район Bokkos Local правительство Area, плато штат, where residents said боевики opened fire на homes и больница, убийство 22 христиане. post Armed мусульмане kill 31",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/07/01/armed-muslims-kill-31-christians-in-attacks-in-nigerias-plateau-and-kaduna-states/",
-      "victims": 31
-    },
-    {
-      "date": "2026-07-01",
-      "lat": 34.0871,
-      "lng": 71.5533,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "murder",
-      "title": "Христианин Accused богохульство Dies в тюрьма в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – 61-год-old Catholic в Pakistan страдания из advanced dementia погиб на среда (июль 1) после nearly год в тюрьма awaiting суд на false богохульство обвинение, sources said.",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/christian-accused-of-blasphemy-dies-in-jail-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-01",
-      "lat": 9.2195,
-      "lng": 9.4172,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Armed мусульмане kill 31 христиане в атаки в Nigeria’s плато и Kaduna штаты",
-      "description": "Deadliest атака occurred поздно на июнь 21 в Kawel community, Mushere район Bokkos Local правительство Area, плато штат, where residents said боевики opened fire на homes и больница, убийство 22 христиане. post Armed мусульмане kill 31",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/07/01/armed-muslims-kill-31-christians-in-attacks-in-nigerias-plateau-and-kaduna-states/",
-      "victims": 31
     }
   ]
 }
