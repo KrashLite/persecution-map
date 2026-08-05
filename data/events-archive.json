@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-05T01:18:03.071Z",
+    "lastUpdated": "2026-08-05T08:12:16.938Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-08-05",
+      "lat": 10.5741,
+      "lng": 7.4307,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Devolve Power штаты’: Mimiko cites Jethro principle as cure для Nigeria’s governance crisis",
+      "description": "Dayo Johnson Akure Former Ondo штат губернатор, Dr. Olusegun Mimiko, says Nigeria can only break free из administrative gridlock и insecurity if power is genuinely transferred sub-national правительства. Mimiko spoke пасторы’ Seed Servi",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/08/devolve-power-to-states-mimiko-cites-jethro-principle-as-cure-for-nigerias-governance-crisis/",
+      "victims": 0
+    },
     {
       "date": "2026-08-04",
       "lat": 8.8601,
@@ -176,6 +189,19 @@
       "victims": 0
     },
     {
+      "date": "2026-08-04",
+      "lat": 12.057,
+      "lng": 8.5195,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Священник убит, followed похищения месса в Nigeria",
+      "description": "Пока local церковь was still mourning священник’s смерть, yet another act violence shook country’s Catholics.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/priest-killed-kidnappings-at-mass-in-nigeria",
+      "victims": 0
+    },
+    {
       "date": "2026-08-03",
       "lat": 10.2863,
       "lng": 7.1677,
@@ -324,6 +350,32 @@
       "lng": 80.9275,
       "country": "India",
       "city": "Uttar Pradesh",
+      "type": "arrest",
+      "title": "Христиане приговорён тюрьма для ‘вынужден обращения’ Birthday Party",
+      "description": "Seven христиане из India’s Madhya Pradesh штат have been приговорён после суд found them guilty forceful обращения во время birthday party. осуждения, which follow legal battle that’s lasted since апрель 2024, are последний exampl",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/03/christians-sentenced-to-prison-for-forced-conversions-at-birthday-party/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-03",
+      "lat": 9.0613,
+      "lng": 7.5919,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Funeral Services Held для 30 христиане зарезан в Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пасторы и members various церкви attended Catholic funeral service на суббота (Aug. 1) для 27 христиане зарезан suspected фулани террористы в Kaduna штат, Nigeria, s",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/08/funeral-services-held-for-30-christians-massacred-in-nigeria/",
+      "victims": 30
+    },
+    {
+      "date": "2026-08-03",
+      "lat": 20.7662,
+      "lng": 84.8876,
+      "country": "India",
+      "city": "Odisha",
       "type": "arrest",
       "title": "Христиане приговорён тюрьма для ‘вынужден обращения’ Birthday Party",
       "description": "Seven христиане из India’s Madhya Pradesh штат have been приговорён после суд found them guilty forceful обращения во время birthday party. осуждения, which follow legal battle that’s lasted since апрель 2024, are последний exampl",
@@ -493,6 +545,19 @@
       "lng": 7.5315,
       "country": "Nigeria",
       "city": "Kaduna",
+      "type": "other",
+      "title": "Obasanjo urges церковь be ‘боевик’ в driving righteousness, transformation",
+      "description": "Calls для stronger role в tackling Nigeria’s испытания Olayinka Latona Former президент Olusegun Obasanjo has urged Nigerian церковь reclaim its prophetic role в transforming society, saying country would have witnessed greater progre",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/08/obasanjo-urges-church-to-be-militant-in-driving-righteousness-transformation/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-02",
+      "lat": 12.0761,
+      "lng": 8.5435,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "other",
       "title": "Obasanjo urges церковь be ‘боевик’ в driving righteousness, transformation",
       "description": "Calls для stronger role в tackling Nigeria’s испытания Olayinka Latona Former президент Olusegun Obasanjo has urged Nigerian церковь reclaim its prophetic role в transforming society, saying country would have witnessed greater progre",
@@ -6439,71 +6504,6 @@
       "description": "New study released Observatory для религиозный Freedom в Africa испытания long-held assumptions о drivers violence в Nigeria и религиозный identity its жертвы.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/6-year-study-challenges-violence-narrative-in-nigeria-finds-christians-bore-heavier-toll",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-02",
-      "lat": 11.6205,
-      "lng": 13.3635,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "Only God-fearing leaders can transform Nigeria, says Fubara",
-      "description": "Daniel Abia, порт Harcourt реки штат губернатор, Siminalayi Fubara, has said Nigeria needs God-fearing leaders move в right direction и achieve meaningful development. Fubara stated this на четверг пока receiving World президент o",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/07/only-god-fearing-leaders-can-transform-nigeria-says-fubara/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-02",
-      "lat": 28.5337,
-      "lng": 77.0114,
-      "country": "India",
-      "city": "Delhi",
-      "type": "arrest",
-      "title": "Пастор в India Faces False обвинение, сожжён церковь Building",
-      "description": "NEW DELHI (христианин Daily International–утро Star News) – wife пастор falsely named в criminal case в India на этой неделе sought арест сикх мужчина suspected setting their церковь building и residence ablaze на июнь 14, sources",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/pastor-in-india-faces-false-charge-burned-church-building/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-02",
-      "lat": 35.34,
-      "lng": 44.5454,
-      "country": "Iraq",
-      "city": "Kirkuk",
-      "type": "other",
-      "title": "Coalition Asks U.S. Intervene в Case Syrian христианин",
-      "description": "Advocacy groups недавно wrote Thomas Barrack, U.S. посол Republic Türkiye и Envoy Syria и Iraq, asking U.S. intervene в задержание Syrian христианин. letter, sent на июнь 25, was penned в Defense Chris",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/02/coalition-asks-u-s-to-intervene-in-case-of-syrian-christian/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-02",
-      "lat": 12.1152,
-      "lng": 8.8224,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "6-год study испытания violence narrative в Nigeria, finds христиане bore heavier toll",
-      "description": "New study released Observatory для религиозный Freedom в Africa испытания long-held assumptions о drivers violence в Nigeria и религиозный identity its жертвы.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/6-year-study-challenges-violence-narrative-in-nigeria-finds-christians-bore-heavier-toll",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-02",
-      "lat": 3.6258,
-      "lng": 11.4,
-      "country": "Cameroon",
-      "city": "Yaounde",
-      "type": "kidnapping",
-      "title": "Cameroon diocese announces release похищен священник, религиозный братья",
-      "description": "Diocese Nkongsamba gave thanks для release Father John Bosco Bihkong и братья Sylvester Sewong и Marie Rodrigue, who were похищен на июнь 27.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/cameroon-diocese-announces-release-of-kidnapped-priest-religious-brothers",
       "victims": 0
     }
   ]
