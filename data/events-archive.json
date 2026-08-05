@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-04T19:16:01.377Z",
+    "lastUpdated": "2026-08-05T01:18:03.071Z",
     "totalEvents": 500
   },
   "events": [
@@ -150,6 +150,32 @@
       "victims": 0
     },
     {
+      "date": "2026-08-04",
+      "lat": 6.5502,
+      "lng": 3.1833,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Священник убит, followed похищения месса в Nigeria",
+      "description": "Пока local церковь was still mourning священник’s смерть, yet another act violence shook country’s Catholics.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/priest-killed-kidnappings-at-mass-in-nigeria",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-04",
+      "lat": 9.2997,
+      "lng": 7.5501,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "John кардинал Onaiyekan spoke bit too much, Rotimi Fasan",
+      "description": "Storm that has followed Catholic епископы’ Conference Nigeria’s visit президент Bola Tinubu would certainly not have occurred had архиепископ Emeritus Abuja, John кардинал Onaiyekan, not taken airwaves в form telev",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/08/john-cardinal-onaiyekan-spoke-a-bit-too-much-by-rotimi-fasan/",
+      "victims": 0
+    },
+    {
       "date": "2026-08-03",
       "lat": 10.2863,
       "lng": 7.1677,
@@ -285,6 +311,19 @@
       "lng": 82.0125,
       "country": "India",
       "city": "Chhattisgarh",
+      "type": "arrest",
+      "title": "Христиане приговорён тюрьма для ‘вынужден обращения’ Birthday Party",
+      "description": "Seven христиане из India’s Madhya Pradesh штат have been приговорён после суд found them guilty forceful обращения во время birthday party. осуждения, which follow legal battle that’s lasted since апрель 2024, are последний exampl",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/03/christians-sentenced-to-prison-for-forced-conversions-at-birthday-party/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-03",
+      "lat": 26.7432,
+      "lng": 80.9275,
+      "country": "India",
+      "city": "Uttar Pradesh",
       "type": "arrest",
       "title": "Христиане приговорён тюрьма для ‘вынужден обращения’ Birthday Party",
       "description": "Seven христиане из India’s Madhya Pradesh штат have been приговорён после суд found them guilty forceful обращения во время birthday party. осуждения, which follow legal battle that’s lasted since апрель 2024, are последний exampl",
@@ -6465,45 +6504,6 @@
       "description": "Diocese Nkongsamba gave thanks для release Father John Bosco Bihkong и братья Sylvester Sewong и Marie Rodrigue, who were похищен на июнь 27.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/cameroon-diocese-announces-release-of-kidnapped-priest-religious-brothers",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-02",
-      "lat": 4.335,
-      "lng": 18.467,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "arrest",
-      "title": "Nicaraguan dictatorship detains епископ Abelardo Mata снова",
-      "description": "Mata was задержан на июнь 29, released same день, и as июнь 30 reportedly is под house арест. июнь 28 месса he asked для молитвы для преследуемый церковь, triggering retaliation.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/americas/nicaraguan-dictatorship-detains-bishop-abelardo-mata-again",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-02",
-      "lat": 20.7629,
-      "lng": 85.0594,
-      "country": "India",
-      "city": "Odisha",
-      "type": "arrest",
-      "title": "Пастор в India Faces False обвинение, сожжён церковь Building",
-      "description": "NEW DELHI (христианин Daily International–утро Star News) – wife пастор falsely named в criminal case в India на этой неделе sought арест сикх мужчина suspected setting their церковь building и residence ablaze на июнь 14, sources",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/pastor-in-india-faces-false-charge-burned-church-building/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-02",
-      "lat": 10.2613,
-      "lng": 7.3318,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "6-год study испытания violence narrative в Nigeria, finds христиане bore heavier toll",
-      "description": "New study released Observatory для религиозный Freedom в Africa испытания long-held assumptions о drivers violence в Nigeria и религиозный identity its жертвы.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/6-year-study-challenges-violence-narrative-in-nigeria-finds-christians-bore-heavier-toll",
       "victims": 0
     }
   ]
