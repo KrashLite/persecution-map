@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-05T08:12:16.938Z",
+    "lastUpdated": "2026-08-05T13:30:14.481Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "Dayo Johnson Akure Former Ondo штат губернатор, Dr. Olusegun Mimiko, says Nigeria can only break free из administrative gridlock и insecurity if power is genuinely transferred sub-national правительства. Mimiko spoke пасторы’ Seed Servi",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/08/devolve-power-to-states-mimiko-cites-jethro-principle-as-cure-for-nigerias-governance-crisis/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-05",
+      "lat": 35.6247,
+      "lng": 44.1946,
+      "country": "Iraq",
+      "city": "Kirkuk",
+      "type": "other",
+      "title": "Iraqi епископы consider PM's invitation для христиане return",
+      "description": "Some христиане suspect motives Iraqi PM.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/iraqi-bishops-consider-pm-s-invitation-for-christians-to-return",
       "victims": 0
     },
     {
@@ -194,6 +207,32 @@
       "lng": 8.5195,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "murder",
+      "title": "Священник убит, followed похищения месса в Nigeria",
+      "description": "Пока local церковь was still mourning священник’s смерть, yet another act violence shook country’s Catholics.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/priest-killed-kidnappings-at-mass-in-nigeria",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-04",
+      "lat": 6.6614,
+      "lng": 3.3473,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "30 христиане зарезан в Nigeria laid rest",
+      "description": "Пасторы и members various церкви attended Catholic funeral service на суббота для 27 христиане зарезан suspected фулани террористы в Kaduna штат, Nigeria, sources said.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/30-christians-massacred-in-nigeria-laid-to-rest",
+      "victims": 30
+    },
+    {
+      "date": "2026-08-04",
+      "lat": 8.8874,
+      "lng": 7.41,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "murder",
       "title": "Священник убит, followed похищения месса в Nigeria",
       "description": "Пока local церковь was still mourning священник’s смерть, yet another act violence shook country’s Catholics.",
@@ -381,6 +420,32 @@
       "description": "Seven христиане из India’s Madhya Pradesh штат have been приговорён после суд found them guilty forceful обращения во время birthday party. осуждения, which follow legal battle that’s lasted since апрель 2024, are последний exampl",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/03/christians-sentenced-to-prison-for-forced-conversions-at-birthday-party/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-03",
+      "lat": 11.879,
+      "lng": 12.9038,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "Funeral Services Held для 30 христиане зарезан в Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пасторы и members various церкви attended Catholic funeral service на суббота (Aug. 1) для 27 христиане зарезан suspected фулани террористы в Kaduna штат, Nigeria, s",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/08/funeral-services-held-for-30-christians-massacred-in-nigeria/",
+      "victims": 30
+    },
+    {
+      "date": "2026-08-03",
+      "lat": 30.9515,
+      "lng": 29.8319,
+      "country": "Egypt",
+      "city": "Alexandria",
+      "type": "other",
+      "title": "Egypt Persecutes христиане. Why Won't конгресс Oppose Foreign Aid It?",
+      "description": "В прошлом году, двупартийный group members конгресс introduced H.Res.776: resolution expressing concern о гонение Coptic христиане под Egypt’s исламский regime. resolution has only picked up 8 cosponsors и has yet make it",
+      "source": "newsapi:Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-news/4390370/posts",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "Exactly five годы ago, на 5 июль 2021, Jesuit Father Stan Swamy was убит. He was убит because he отказано kow-tow brutal, post If Stan Swamy, Martyr, Were Alive сегодня… appeared первый на Indian Catholic Matters.",
       "source": "newsapi:Indiancatholicmatters.org",
       "url": "https://www.indiancatholicmatters.org/if-stan-swamy-the-martyr-were-alive-today/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-02",
-      "lat": 3.9768,
-      "lng": 11.4142,
-      "country": "Cameroon",
-      "city": "Yaounde",
-      "type": "kidnapping",
-      "title": "Catholic diocese appeals для молитвы после священник, 2 Franciscan братья похищен в Cameroon",
-      "description": "Diocese Nkongsamba has appealed для молитвы для safe release священник и two members Fraternity Franciscans Emmanuel who were похищен в country’s North-West регион.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/catholic-diocese-appeals-for-prayers-after-priest-2-franciscan-brothers-kidnapped-in-cameroon",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-02",
-      "lat": 11.9203,
-      "lng": 8.8234,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Intersociety claims 3,610 убит, 3,960 похищен террористы в six месяцы",
-      "description": "Jeff Agbodo International Society для Civil Liberties и Rule Law (Intersociety) has claimed that suspected исламский террорист groups убит 3,610 люди и похищен 3,960 others across Nigeria between январь и июнь 2026. human righ",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/07/intersociety-claims-3610-killed-3960-abducted-by-terrorists-in-six-months/",
-      "victims": 610
-    },
-    {
-      "date": "2026-07-02",
-      "lat": 27.0755,
-      "lng": 80.9172,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "arrest",
-      "title": "Пастор в India Faces False обвинение, сожжён церковь Building",
-      "description": "NEW DELHI (христианин Daily International–утро Star News) – wife пастор falsely named в criminal case в India на этой неделе sought арест сикх мужчина suspected setting their церковь building и residence ablaze на июнь 14, sources",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/pastor-in-india-faces-false-charge-burned-church-building/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-02",
-      "lat": 33.5049,
-      "lng": 44.6048,
-      "country": "Iraq",
-      "city": "Baghdad",
-      "type": "other",
-      "title": "Coalition Asks U.S. Intervene в Case Syrian христианин",
-      "description": "Advocacy groups недавно wrote Thomas Barrack, U.S. посол Republic Türkiye и Envoy Syria и Iraq, asking U.S. intervene в задержание Syrian христианин. letter, sent на июнь 25, was penned в Defense Chris",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/02/coalition-asks-u-s-to-intervene-in-case-of-syrian-christian/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-02",
-      "lat": 11.8509,
-      "lng": 13.3187,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "6-год study испытания violence narrative в Nigeria, finds христиане bore heavier toll",
-      "description": "New study released Observatory для религиозный Freedom в Africa испытания long-held assumptions о drivers violence в Nigeria и религиозный identity its жертвы.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/6-year-study-challenges-violence-narrative-in-nigeria-finds-christians-bore-heavier-toll",
       "victims": 0
     }
   ]
