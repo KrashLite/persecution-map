@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-05T19:09:18.614Z",
+    "lastUpdated": "2026-08-06T01:15:34.380Z",
     "totalEvents": 500
   },
   "events": [
@@ -64,6 +64,45 @@
       "lng": 43.3669,
       "country": "Iraq",
       "city": "Mosul",
+      "type": "other",
+      "title": "Iraqi епископы consider PM's invitation для христиане return",
+      "description": "Some христиане suspect motives Iraqi PM.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/iraqi-bishops-consider-pm-s-invitation-for-christians-to-return",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-05",
+      "lat": 12.0848,
+      "lng": 8.6846,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Nigerian армия аресты Suspect Tied смерти 30 христиане",
+      "description": "Nigerian армия арестован 48-год-old фулани мусульманин suspected participating в атака that убит least 30 христианин residents Naridon деревня в Kaduna штат. Troops из Sector 3 операция Enduring Peace арестован Salihu Miakailu",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/05/nigerian-army-arrests-suspect-tied-to-deaths-of-30-christians/",
+      "victims": 30
+    },
+    {
+      "date": "2026-08-05",
+      "lat": 12.2409,
+      "lng": 8.6265,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Когда Land Can No Longer Sustain Its люди",
+      "description": "Part Two series, “когда Creation Groans” ICC Fellow Lisa Navarrette Across Nigeria’s Middle Belt, rhythm daily life has long been shaped land. до sunrise, farmers walk fields cultivated their семьи для generatio",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/05/when-the-land-can-no-longer-sustain-its-people/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-05",
+      "lat": 36.3883,
+      "lng": 44.0997,
+      "country": "Iraq",
+      "city": "Erbil",
       "type": "other",
       "title": "Iraqi епископы consider PM's invitation для христиане return",
       "description": "Some христиане suspect motives Iraqi PM.",
@@ -291,6 +330,19 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/priest-killed-kidnappings-at-mass-in-nigeria",
       "victims": 0
+    },
+    {
+      "date": "2026-08-04",
+      "lat": 9.0365,
+      "lng": 7.5942,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "30 христиане зарезан в Nigeria laid rest",
+      "description": "Пасторы и members various церкви attended Catholic funeral service на суббота для 27 христиане зарезан suspected фулани террористы в Kaduna штат, Nigeria, sources said.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/30-christians-massacred-in-nigeria-laid-to-rest",
+      "victims": 30
     },
     {
       "date": "2026-08-03",
@@ -6453,58 +6505,6 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/07/muslims-protest-presence-of-church-in-indonesia/",
       "victims": 24
-    },
-    {
-      "date": "2026-07-03",
-      "lat": 15.2854,
-      "lng": 32.4713,
-      "country": "Sudan",
-      "city": "Khartoum",
-      "type": "murder",
-      "title": "Teenage Girl Faces смерть для Following Jesus",
-      "description": "Since she decided follow Jesus в июнь 2025, 15-год-old Indii Mikaa’el has lost her education и comfort her home. She could also lose her life. Born в мусульманин семья в Haroji Wado, near Ethiopia’s border с Sudan, Mikaa’el сейчас li",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/03/teenage-girl-faces-death-for-following-jesus/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-03",
-      "lat": 25.0616,
-      "lng": 67.1051,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "murder",
-      "title": "Catholic accused богохульство dies в Pakistani custody",
-      "description": "Amir Peter, younger брат Catholic священник в Lahore, погиб июль 1 пока held на богохульство обвинение, месяцы после doctors declared him mentally unfit stand суд.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/blasphemy-accused-catholic-dies-in-custody-in-pakistan",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-03",
-      "lat": 31.4325,
-      "lng": 74.3749,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "murder",
-      "title": "Catholic accused богохульство dies в Pakistani custody",
-      "description": "Amir Peter, younger брат Catholic священник в Lahore, погиб июль 1 пока held на богохульство обвинение, месяцы после doctors declared him mentally unfit stand суд.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/blasphemy-accused-catholic-dies-in-custody-in-pakistan",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-03",
-      "lat": 19.1094,
-      "lng": 72.8348,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "murder",
-      "title": "If Stan Swamy, Martyr, Were Alive сегодня…",
-      "description": "Exactly five годы ago, на 5 июль 2021, Jesuit Father Stan Swamy was убит. He was убит because he отказано kow-tow brutal, post If Stan Swamy, Martyr, Were Alive сегодня… appeared первый на Indian Catholic Matters.",
-      "source": "newsapi:Indiancatholicmatters.org",
-      "url": "https://www.indiancatholicmatters.org/if-stan-swamy-the-martyr-were-alive-today/",
-      "victims": 0
     }
   ]
 }
