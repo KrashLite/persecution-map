@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-06T01:15:34.380Z",
+    "lastUpdated": "2026-08-06T08:11:06.629Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-08-06",
+      "lat": 9.1766,
+      "lng": 9.4383,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Onaiyekan Controversy: Afenifere leaders, analysts clash Tinubu presidency’s response Catholic епископы",
+      "description": "\"That act президент was demonstrate Roman Catholic community в Nigeria that they have no better friend than президент Bola Ahmed Tinubu.\" post Onaiyekan Controversy: Afenifere leaders, analysts clash Tinubu presidency’s res",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/08/onaiyekan-controversy-afenifere-leaders-analysts-clash-over-tinubu-presidencys-response-to-catholic-bishops/",
+      "victims": 0
+    },
     {
       "date": "2026-08-05",
       "lat": 10.5741,
@@ -103,6 +116,45 @@
       "lng": 44.0997,
       "country": "Iraq",
       "city": "Erbil",
+      "type": "other",
+      "title": "Iraqi епископы consider PM's invitation для христиане return",
+      "description": "Some христиане suspect motives Iraqi PM.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/iraqi-bishops-consider-pm-s-invitation-for-christians-to-return",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-05",
+      "lat": 9.3803,
+      "lng": 9.3739,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Nigerian армия аресты Suspect Tied смерти 30 христиане",
+      "description": "Nigerian армия арестован 48-год-old фулани мусульманин suspected participating в атака that убит least 30 христианин residents Naridon деревня в Kaduna штат. Troops из Sector 3 операция Enduring Peace арестован Salihu Miakailu",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/05/nigerian-army-arrests-suspect-tied-to-deaths-of-30-christians/",
+      "victims": 30
+    },
+    {
+      "date": "2026-08-05",
+      "lat": 9.0243,
+      "lng": 7.6341,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Когда Land Can No Longer Sustain Its люди",
+      "description": "Part Two series, “когда Creation Groans” ICC Fellow Lisa Navarrette Across Nigeria’s Middle Belt, rhythm daily life has long been shaped land. до sunrise, farmers walk fields cultivated their семьи для generatio",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/05/when-the-land-can-no-longer-sustain-its-people/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-05",
+      "lat": 33.1241,
+      "lng": 44.3265,
+      "country": "Iraq",
+      "city": "Baghdad",
       "type": "other",
       "title": "Iraqi епископы consider PM's invitation для христиане return",
       "description": "Some христиане suspect motives Iraqi PM.",
@@ -6453,58 +6505,6 @@
       "source": "newsapi:Al Jazeera English",
       "url": "https://www.aljazeera.com/news/2026/7/5/china-releases-underground-church-pastor-after-months-in-detention",
       "victims": 0
-    },
-    {
-      "date": "2026-07-04",
-      "lat": 4.4196,
-      "lng": 18.5636,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "murder",
-      "title": "Tagle celebrates beatification месса для Vietnamese martyr",
-      "description": "На июль 2, Filipino кардинал Luis Antonio Tagle, Pro-Prefect Dicastery для Evangelization, celebrated чиновник beatification месса для Vietnamese священник Fr. Francis Xavier Trương Bửu Diệp. Fr. Francis Xavier was diocesan священник в Vietnam",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/07/04/tagle-celebrates-beatification-mass-for-vietnamese-martyr/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-04",
-      "lat": 10.2705,
-      "lng": -66.7164,
-      "country": "Venezuela",
-      "city": "Caracas",
-      "type": "other",
-      "title": "Церковь в Venezuela 'overwhelmed' после после devastating earthquakes",
-      "description": "На прошлой неделе's earthquakes have only added испытания already faced oppressed христиане в Venezuela с some reporting disparities в access humanitarian assistance.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christians-in-venezuela-face-mounting-challenges-after-devastating-earthquakes",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-03",
-      "lat": 34.0439,
-      "lng": 71.6635,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "murder",
-      "title": "Catholic accused богохульство dies в Pakistani custody",
-      "description": "Amir Peter, younger брат Catholic священник в Lahore, погиб июль 1 пока held на богохульство обвинение, месяцы после doctors declared him mentally unfit stand суд.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/blasphemy-accused-catholic-dies-in-custody-in-pakistan",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-03",
-      "lat": -6.0055,
-      "lng": 106.8051,
-      "country": "Indonesia",
-      "city": "Jakarta",
-      "type": "discrimination",
-      "title": "Мусульмане Protest Presence церковь в Indonesia",
-      "description": "SURABAYA, Indonesia (утро Star News) – исламисты в июнь demonstrated against presence церковь в one город в West Java провинция, Indonesia и prevented funeral месса в another, local sources reported. Dozens мусульмане demonstrated aga",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/muslims-protest-presence-of-church-in-indonesia/",
-      "victims": 24
     }
   ]
 }
