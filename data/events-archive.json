@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-06T08:11:06.629Z",
+    "lastUpdated": "2026-08-06T13:28:35.623Z",
     "totalEvents": 500
   },
   "events": [
@@ -161,6 +161,19 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/iraqi-bishops-consider-pm-s-invitation-for-christians-to-return",
       "victims": 0
+    },
+    {
+      "date": "2026-08-05",
+      "lat": 8.9103,
+      "lng": 7.6043,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Nigerian армия аресты Suspect Tied смерти 30 христиане",
+      "description": "Nigerian армия арестован 48-год-old фулани мусульманин suspected participating в атака that убит least 30 христианин residents Naridon деревня в Kaduna штат. Troops из Sector 3 операция Enduring Peace арестован Salihu Miakailu",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/05/nigerian-army-arrests-suspect-tied-to-deaths-of-30-christians/",
+      "victims": 30
     },
     {
       "date": "2026-08-04",
@@ -6491,19 +6504,6 @@
       "description": "Президент Donald Trump’s relationship с Chinese leader Xi Jinping paid dividends на этой неделе as заключён подпольная церковь пастор was released two месяцы после президент personally lobbied для his freedom. post China Releases пастор Tw",
       "source": "newsapi:Breitbart News",
       "url": "https://www.breitbart.com/faith/2026/07/05/china-releases-pastor-two-months-after-president-trump-advocated-for-his-release-with-xi/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-05",
-      "lat": 43.5632,
-      "lng": 87.8219,
-      "country": "China",
-      "city": "Xinjiang",
-      "type": "other",
-      "title": "China releases подпольная церковь пастор после месяцы в задержание",
-      "description": "Ezra Jin’s семья says Zion церковь founder arrived в US после месяцы в задержание в China.",
-      "source": "newsapi:Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/5/china-releases-underground-church-pastor-after-months-in-detention",
       "victims": 0
     }
   ]
