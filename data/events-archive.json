@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-07T06:57:15.715Z",
+    "lastUpdated": "2026-08-07T12:35:12.059Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-08-07",
+      "lat": 34.5498,
+      "lng": 36.7715,
+      "country": "Syria",
+      "city": "Homs",
+      "type": "discrimination",
+      "title": "Kurdish пастор released из Syria после two недели в задержание",
+      "description": "Пастор Hassan was advised go back Lebanon для his own safety.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/kurdish-pastor-released-from-syria-after-two-weeks-in-detention",
+      "victims": 0
+    },
     {
       "date": "2026-08-06",
       "lat": 9.1766,
@@ -6491,19 +6504,6 @@
       "description": "Президент Donald Trump’s relationship с Chinese leader Xi Jinping paid dividends на этой неделе as заключён подпольная церковь пастор was released two месяцы после президент personally lobbied для his freedom. post China Releases пастор Tw",
       "source": "newsapi:Breitbart News",
       "url": "https://www.breitbart.com/faith/2026/07/05/china-releases-pastor-two-months-after-president-trump-advocated-for-his-release-with-xi/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-05",
-      "lat": 31.1784,
-      "lng": 121.5051,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "other",
-      "title": "China releases подпольная церковь пастор после месяцы в задержание",
-      "description": "Ezra Jin’s семья says Zion церковь founder arrived в US после месяцы в задержание в China.",
-      "source": "newsapi:Al Jazeera English",
-      "url": "https://www.aljazeera.com/news/2026/7/5/china-releases-underground-church-pastor-after-months-in-detention",
       "victims": 0
     }
   ]
