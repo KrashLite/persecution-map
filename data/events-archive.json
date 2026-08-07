@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-06T23:47:03.403Z",
+    "lastUpdated": "2026-08-07T01:58:07.263Z",
     "totalEvents": 500
   },
   "events": [
@@ -207,6 +207,19 @@
       "lng": 7.2576,
       "country": "Nigeria",
       "city": "Kaduna",
+      "type": "other",
+      "title": "Когда Land Can No Longer Sustain Its люди",
+      "description": "Part Two series, “когда Creation Groans” ICC Fellow Lisa Navarrette Across Nigeria’s Middle Belt, rhythm daily life has long been shaped land. до sunrise, farmers walk fields cultivated their семьи для generatio",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/05/when-the-land-can-no-longer-sustain-its-people/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-05",
+      "lat": 9.2135,
+      "lng": 9.6126,
+      "country": "Nigeria",
+      "city": "Plateau",
       "type": "other",
       "title": "Когда Land Can No Longer Sustain Its люди",
       "description": "Part Two series, “когда Creation Groans” ICC Fellow Lisa Navarrette Across Nigeria’s Middle Belt, rhythm daily life has long been shaped land. до sunrise, farmers walk fields cultivated their семьи для generatio",
@@ -6491,19 +6504,6 @@
       "description": "Ezra Jin’s семья says Zion церковь founder arrived в US после месяцы в задержание в China.",
       "source": "newsapi:Al Jazeera English",
       "url": "https://www.aljazeera.com/news/2026/7/5/china-releases-underground-church-pastor-after-months-in-detention",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-05",
-      "lat": 44.0039,
-      "lng": 87.6304,
-      "country": "China",
-      "city": "Xinjiang",
-      "type": "arrest",
-      "title": "Chinese пастор Arrives в U.S. после 8 месяцы в тюрьма",
-      "description": "Chinese власти недавно released Zion церковь пастор ‌Ezra Jin, who had been задержан в southern China для past eight месяцы. Jin arrived в Los Angeles, California, на суббота и was welcomed ChinaAid. власти арестован Jin и 17 o",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/05/chinese-pastor-arrives-in-u-s-after-8-months-in-prison/",
       "victims": 0
     }
   ]
