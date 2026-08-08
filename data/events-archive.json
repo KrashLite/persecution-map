@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-08T06:31:28.080Z",
+    "lastUpdated": "2026-08-08T12:21:09.193Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-08-08",
+      "lat": 34.2216,
+      "lng": 71.4716,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "murder",
+      "title": "Христианин couple убит в Pakistan receive no justice",
+      "description": "Суды are not able determine who exactly did what в 100-plus толпа.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christian-couple-murdered-in-pakistan-receive-no-justice",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-08",
+      "lat": 32.5047,
+      "lng": 51.46,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Iran clamps down на христианин broadcasters",
+      "description": "Increased гонение has not stopped церковь из growing.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/iran-clamps-down-on-christian-broadcasters",
+      "victims": 0
+    },
     {
       "date": "2026-08-07",
       "lat": 34.5498,
@@ -82,6 +108,19 @@
       "description": "Пастор Hassan was advised go back Lebanon для his own safety.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/kurdish-pastor-released-from-syria-after-two-weeks-in-detention",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-07",
+      "lat": 21.1744,
+      "lng": 81.6476,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "attack",
+      "title": "FCRA amendment is India's internal matter, says MEA, hits back US lawmaker's церковь захват claim",
+      "description": "India's министерство External Affairs stated proposed FCRA amendments are internal legislative matter. US Congressman Riley Moore criticised bill as атака against христиане. proposed amendments empower правительство manage foreign",
+      "source": "newsapi:The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/fcra-amendment-is-indias-internal-matter-says-mea-hits-back-at-us-lawmakers-church-takeover-claim/articleshow/133032033.cms",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan на понедельник (июль 6) acquitted Catholic accused богохульство, his lawyer said. Attorney Asad Jamal Lahore High суд said Lahore Additional Sessions судья",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/07/christian-in-pakistan-acquitted-of-blasphemy-charge/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-06",
-      "lat": 9.1374,
-      "lng": 7.6518,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "kidnapping",
-      "title": "Христианин Campus Group Leaders в Nigeria Remain пропавший без вести",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Three недели после похищение Scripture Union Nigeria’s national general director в southeast Nigeria, he и seven other fellowship leaders remain пропавший без вести, according report",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/christian-campus-group-leaders-in-nigeria-remain-missing/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-06",
-      "lat": 6.3077,
-      "lng": 3.2086,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Nearly 30,000 христиане убит в Nigeria в six годы",
-      "description": "Tens thousands христиане are losing their lives violence в Nigeria, many them hands radicalised пастухи фулани, new report has warned.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/nearly-30-000-christians-killed-in-nigeria-in-six-years",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-06",
-      "lat": 12.0891,
-      "lng": 8.8247,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Nearly 30,000 христиане убит в Nigeria в six годы",
-      "description": "Tens thousands христиане are losing their lives violence в Nigeria, many them hands radicalised пастухи фулани, new report has warned.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/nearly-30-000-christians-killed-in-nigeria-in-six-years",
       "victims": 0
     }
   ]
