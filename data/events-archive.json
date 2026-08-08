@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-07T18:36:52.671Z",
+    "lastUpdated": "2026-08-08T00:40:48.244Z",
     "totalEvents": 500
   },
   "events": [
@@ -64,6 +64,19 @@
       "lng": 36.0552,
       "country": "Syria",
       "city": "Damascus",
+      "type": "discrimination",
+      "title": "Kurdish пастор released из Syria после two недели в задержание",
+      "description": "Пастор Hassan was advised go back Lebanon для his own safety.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/kurdish-pastor-released-from-syria-after-two-weeks-in-detention",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-07",
+      "lat": 36.0007,
+      "lng": 37.0412,
+      "country": "Syria",
+      "city": "Aleppo",
       "type": "discrimination",
       "title": "Kurdish пастор released из Syria после two недели в задержание",
       "description": "Пастор Hassan was advised go back Lebanon для his own safety.",
@@ -298,6 +311,19 @@
       "lng": 9.6126,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "other",
+      "title": "Когда Land Can No Longer Sustain Its люди",
+      "description": "Part Two series, “когда Creation Groans” ICC Fellow Lisa Navarrette Across Nigeria’s Middle Belt, rhythm daily life has long been shaped land. до sunrise, farmers walk fields cultivated their семьи для generatio",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/05/when-the-land-can-no-longer-sustain-its-people/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-05",
+      "lat": 11.8749,
+      "lng": 12.9188,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "other",
       "title": "Когда Land Can No Longer Sustain Its люди",
       "description": "Part Two series, “когда Creation Groans” ICC Fellow Lisa Navarrette Across Nigeria’s Middle Belt, rhythm daily life has long been shaped land. до sunrise, farmers walk fields cultivated their семьи для generatio",
@@ -6478,32 +6504,6 @@
       "description": "Ezra Jin is founder Zion церковь, one China's незарегистрированные церкви that some христиане choose богослужение instead штат-подвергнут санкциям ones regulated правительство. post China frees заключён пастор Ezra Jin после Trump’s interventio",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/07/china-frees-jailed-pastor-ezra-jin-after-trumps-intervention/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-05",
-      "lat": 10.6526,
-      "lng": -67.0333,
-      "country": "Venezuela",
-      "city": "Caracas",
-      "type": "attack",
-      "title": "Когда everything falls, вера still stands в Venezuela",
-      "description": "Natural disasters have curious way producing images that stay с us long после headlines fade. Alongside heartbreaking photographs collapsed buildings и shattered lives, there are often quieter images that spread just as быстро:",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/07/05/when-everything-falls-faith-still-stands-in-venezuela/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-05",
-      "lat": 39.9496,
-      "lng": 116.415,
-      "country": "China",
-      "city": "Beijing",
-      "type": "arrest",
-      "title": "Chinese пастор Arrives в U.S. после 8 месяцы в тюрьма",
-      "description": "Chinese власти недавно released Zion церковь пастор ‌Ezra Jin, who had been задержан в southern China для past eight месяцы. Jin arrived в Los Angeles, California, на суббота и was welcomed ChinaAid. власти арестован Jin и 17 o",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/05/chinese-pastor-arrives-in-u-s-after-8-months-in-prison/",
       "victims": 0
     }
   ]
