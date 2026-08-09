@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-09T12:22:49.496Z",
+    "lastUpdated": "2026-08-09T18:21:36.693Z",
     "totalEvents": 500
   },
   "events": [
@@ -38,6 +38,19 @@
       "lng": 7.6426,
       "country": "Nigeria",
       "city": "Kaduna",
+      "type": "other",
+      "title": "Nigerian епископ в мусульманин-majority регион says being ‘creative minority’ is key diocese’s mission",
+      "description": "SIGNIS World конгресс, епископ Gerald Mamman Musa said young Katsina Diocese в northwestern Nigeria will focus на “transforming society” rather than на испытания христиане face there.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/nigerian-bishop-in-muslim-majority-region-says-being-creative-minority-is-key-to-diocese-s",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-09",
+      "lat": 11.6464,
+      "lng": 13.2782,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "other",
       "title": "Nigerian епископ в мусульманин-majority регион says being ‘creative minority’ is key diocese’s mission",
       "description": "SIGNIS World конгресс, епископ Gerald Mamman Musa said young Katsina Diocese в northwestern Nigeria will focus на “transforming society” rather than на испытания христиане face there.",
@@ -121,6 +134,19 @@
       "description": "Суды are not able determine who exactly did what в 100-plus толпа.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/christian-couple-murdered-in-pakistan-receive-no-justice",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-08",
+      "lat": 10.4779,
+      "lng": 7.4732,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Nigeria risks losing out на fresh $1.4bn US aid ‘христианин гонение’",
+      "description": "Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according terms contained",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/08/nigeria-risks-losing-out-on-fresh-1-4bn-us-aid-over-christian-persecution/",
       "victims": 0
     },
     {
@@ -512,6 +538,19 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/08/05/when-the-land-can-no-longer-sustain-its-people/",
       "victims": 0
+    },
+    {
+      "date": "2026-08-05",
+      "lat": 10.5725,
+      "lng": 7.3869,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Nigerian армия аресты Suspect Tied смерти 30 христиане",
+      "description": "Nigerian армия арестован 48-год-old фулани мусульманин suspected participating в атака that убит least 30 христианин residents Naridon деревня в Kaduna штат. Troops из Sector 3 операция Enduring Peace арестован Salihu Miakailu",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/05/nigerian-army-arrests-suspect-tied-to-deaths-of-30-christians/",
+      "victims": 30
     },
     {
       "date": "2026-08-04",
@@ -6460,45 +6499,6 @@
       "lng": 3.2979,
       "country": "Nigeria",
       "city": "Lagos",
-      "type": "kidnapping",
-      "title": "Христианин Campus Group Leaders в Nigeria Remain пропавший без вести",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Three недели после похищение Scripture Union Nigeria’s national general director в southeast Nigeria, he и seven other fellowship leaders remain пропавший без вести, according report",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/christian-campus-group-leaders-in-nigeria-remain-missing/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-06",
-      "lat": 10.7019,
-      "lng": 7.2412,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Nearly 30,000 христиане убит в Nigeria в six годы",
-      "description": "Tens thousands христиане are losing their lives violence в Nigeria, many them hands radicalised пастухи фулани, new report has warned.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/nearly-30-000-christians-killed-in-nigeria-in-six-years",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-06",
-      "lat": 25.0412,
-      "lng": 67.2258,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "arrest",
-      "title": "Христианин в Pakistan Acquitted богохульство обвинение",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan на понедельник (июль 6) acquitted Catholic accused богохульство, his lawyer said. Attorney Asad Jamal Lahore High суд said Lahore Additional Sessions судья",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/christian-in-pakistan-acquitted-of-blasphemy-charge/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-06",
-      "lat": 10.6509,
-      "lng": 7.4644,
-      "country": "Nigeria",
-      "city": "Kaduna",
       "type": "kidnapping",
       "title": "Христианин Campus Group Leaders в Nigeria Remain пропавший без вести",
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Three недели после похищение Scripture Union Nigeria’s national general director в southeast Nigeria, he и seven other fellowship leaders remain пропавший без вести, according report",
