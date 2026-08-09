@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-09T00:43:18.368Z",
+    "lastUpdated": "2026-08-09T06:34:48.167Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-08-09",
+      "lat": 9.1831,
+      "lng": 7.6889,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Nigeria май lose out на fresh $1.4bn US health aid христиане гонение",
+      "description": "Nkiruka Nnorom Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/08/nigeria-may-lose-out-on-fresh-1-4bn-us-health-aid-over-christians-persecution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-09",
+      "lat": 9.1668,
+      "lng": 9.7353,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "attack",
+      "title": "Атака на Catholic епископы is атака на entire церковь, PFN fumes",
+      "description": "National президент Pentecostal Fellowship Nigeria, PFN, епископ Wale Oke, has thrown full weight Pentecostal body behind Catholic епископы Conference Nigeria, declaring that any атака на Catholic епископы is атака на",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/08/attack-on-catholic-bishops-is-attack-on-entire-church-pfn-fumes/",
+      "victims": 0
+    },
     {
       "date": "2026-08-08",
       "lat": 34.2216,
@@ -51,6 +77,19 @@
       "lng": 59.5965,
       "country": "Iran",
       "city": "Mashhad",
+      "type": "other",
+      "title": "Iran clamps down на христианин broadcasters",
+      "description": "Increased гонение has not stopped церковь из growing.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/iran-clamps-down-on-christian-broadcasters",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-08",
+      "lat": 29.8219,
+      "lng": 52.7414,
+      "country": "Iran",
+      "city": "Shiraz",
       "type": "other",
       "title": "Iran clamps down на христианин broadcasters",
       "description": "Increased гонение has not stopped церковь из growing.",
@@ -155,6 +194,19 @@
       "lng": 72.8228,
       "country": "India",
       "city": "Mumbai",
+      "type": "attack",
+      "title": "FCRA amendment is India's internal matter, says MEA, hits back US lawmaker's церковь захват claim",
+      "description": "India's министерство External Affairs stated proposed FCRA amendments are internal legislative matter. US Congressman Riley Moore criticised bill as атака against христиане. proposed amendments empower правительство manage foreign",
+      "source": "newsapi:The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/fcra-amendment-is-indias-internal-matter-says-mea-hits-back-at-us-lawmakers-church-takeover-claim/articleshow/133032033.cms",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-07",
+      "lat": 26.7907,
+      "lng": 80.8873,
+      "country": "India",
+      "city": "Uttar Pradesh",
       "type": "attack",
       "title": "FCRA amendment is India's internal matter, says MEA, hits back US lawmaker's церковь захват claim",
       "description": "India's министерство External Affairs stated proposed FCRA amendments are internal legislative matter. US Congressman Riley Moore criticised bill as атака against христиане. proposed amendments empower правительство manage foreign",
@@ -6452,58 +6504,6 @@
       "description": "Jin was арестован Chinese власти на Oct. 10, 2025.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/china-releases-pastor-ezra-jin-mingri",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-06",
-      "lat": 39.7996,
-      "lng": 116.3819,
-      "country": "China",
-      "city": "Beijing",
-      "type": "arrest",
-      "title": "China releases задержан христианин пастор Ezra Jin Mingri",
-      "description": "Jin was арестован Chinese власти на Oct. 10, 2025.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/china-releases-pastor-ezra-jin-mingri",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-06",
-      "lat": 8.9494,
-      "lng": 7.384,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Nearly 30,000 христиане убит в Nigeria в six годы",
-      "description": "Tens thousands христиане are losing their lives violence в Nigeria, many them hands radicalised пастухи фулани, new report has warned.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/nearly-30-000-christians-killed-in-nigeria-in-six-years",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-06",
-      "lat": 31.3119,
-      "lng": 74.5143,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "arrest",
-      "title": "Христианин в Pakistan Acquitted богохульство обвинение",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan на понедельник (июль 6) acquitted Catholic accused богохульство, his lawyer said. Attorney Asad Jamal Lahore High суд said Lahore Additional Sessions судья",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/christian-in-pakistan-acquitted-of-blasphemy-charge/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-06",
-      "lat": 9.1494,
-      "lng": 9.5942,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "kidnapping",
-      "title": "Христианин Campus Group Leaders в Nigeria Remain пропавший без вести",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Three недели после похищение Scripture Union Nigeria’s national general director в southeast Nigeria, he и seven other fellowship leaders remain пропавший без вести, according report",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/christian-campus-group-leaders-in-nigeria-remain-missing/",
       "victims": 0
     }
   ]
