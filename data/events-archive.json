@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-10T07:03:36.417Z",
+    "lastUpdated": "2026-08-10T12:38:51.947Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-08-10",
+      "lat": 10.3316,
+      "lng": 7.3273,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Nigeria risks losing major US aid package христианин гонение concerns",
+      "description": "Nigeria could lose access significant share new United штаты health и humanitarian assistance package unless it demonstrates progress в tackling violence against христиане, according bilateral agreement between Washington и Abuj",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/nigeria-risks-losing-major-us-aid-package-over-christian-persecution-concerns",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-10",
+      "lat": 6.739,
+      "lng": 3.419,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Епископ urges Nigerians shun vengeance, embrace forgiveness",
+      "description": "Catholic архиепископ Ignatius Kaigama urges Nigerians embrace forgiveness, reconciliation, и peaceful coexistence для national development. Read More: https://punchng.com/епископ-urges-nigerians--shun-vengeance-embrace-forgiveness/",
+      "source": "punchng",
+      "url": "https://punchng.com/bishop-urges-nigerians-to-shun-vengeance-embrace-forgiveness/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-08-09",
       "lat": 9.1831,
@@ -77,6 +103,19 @@
       "lng": 12.9779,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "other",
+      "title": "Nigeria май lose out на fresh $1.4bn US health aid христиане гонение",
+      "description": "Nkiruka Nnorom Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/08/nigeria-may-lose-out-on-fresh-1-4bn-us-health-aid-over-christians-persecution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-09",
+      "lat": 10.4407,
+      "lng": 7.5612,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "other",
       "title": "Nigeria май lose out на fresh $1.4bn US health aid христиане гонение",
       "description": "Nkiruka Nnorom Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according",
@@ -207,6 +246,19 @@
       "lng": 8.4403,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "other",
+      "title": "Nigeria risks losing out на fresh $1.4bn US aid ‘христианин гонение’",
+      "description": "Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according terms contained",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/08/nigeria-risks-losing-out-on-fresh-1-4bn-us-aid-over-christian-persecution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-08",
+      "lat": 9.325,
+      "lng": 9.608,
+      "country": "Nigeria",
+      "city": "Plateau",
       "type": "other",
       "title": "Nigeria risks losing out на fresh $1.4bn US aid ‘христианин гонение’",
       "description": "Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according terms contained",
@@ -6452,58 +6504,6 @@
       "description": "One последний remaining historic протестантские церкви в Iran is reportedly facing угроза конфискация Iranian правительство, drawing renewed international attention country's treatment религиозный minorities.",
       "source": "newsapi:The Christian Post",
       "url": "https://www.christianpost.com/news/iranian-regime-threatens-to-seize-protestant-church-report.html",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-07",
-      "lat": 12.1847,
-      "lng": 8.5533,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "Terror Network Slaughtering Nigerian христиане Has Escaped America’s чёрный список",
-      "description": "Experts и policy change-makers tell Daily Caller that правительства are failing confront primary угроза для христиане в Nigeria.",
-      "source": "newsapi:The Daily Caller",
-      "url": "https://dailycaller.com/2026/07/07/fulani-ethnic-militia-isis-nigeria-boko-haram-christians-donald-trump-riley-moore-chris-smith/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-07",
-      "lat": 40.1512,
-      "lng": 116.4395,
-      "country": "China",
-      "city": "Beijing",
-      "type": "other",
-      "title": "‘Miracle’: China releases христианин пастор following Trump’s appeal",
-      "description": "Reunited с his семья праздник выходные",
-      "source": "newsapi:Wnd.com",
-      "url": "https://www.wnd.com/2026/07/miracle-china-releases-christian-pastor-following-trumps-appeal/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-07",
-      "lat": 11.9238,
-      "lng": 13.1906,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "Terror Network Slaughtering Nigerian христиане Has Escaped America’s чёрный список",
-      "description": "Experts и policy change-makers tell Daily Caller that правительства are failing confront primary угроза для христиане в Nigeria.",
-      "source": "newsapi:The Daily Caller",
-      "url": "https://dailycaller.com/2026/07/07/fulani-ethnic-militia-isis-nigeria-boko-haram-christians-donald-trump-riley-moore-chris-smith/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-07",
-      "lat": 10.3035,
-      "lng": 7.4306,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Terror Network Slaughtering Nigerian христиане Has Escaped America’s чёрный список",
-      "description": "Experts и policy change-makers tell Daily Caller that правительства are failing confront primary угроза для христиане в Nigeria.",
-      "source": "newsapi:The Daily Caller",
-      "url": "https://dailycaller.com/2026/07/07/fulani-ethnic-militia-isis-nigeria-boko-haram-christians-donald-trump-riley-moore-chris-smith/",
       "victims": 0
     }
   ]
