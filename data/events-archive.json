@@ -2,10 +2,49 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-11T06:42:52.125Z",
+    "lastUpdated": "2026-08-11T12:36:04.637Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-08-11",
+      "lat": 6.3122,
+      "lng": 3.442,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "arrest",
+      "title": "Former OnlyFans model приговорён six годы для убийство Nigerian мужчина",
+      "description": "Former OnlyFans model Courtney Clenney has been приговорён six годы в тюрьма после pleading guilty непреднамеренное убийство в 2022 убийство her boyfriend, христианин Obumseli, в Miami, Florida. post Former OnlyFans model приговорён six годы",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/08/onlyfans-model-sentenced-to-six-years-for-killing-nigerian-man/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-11",
+      "lat": 4.9492,
+      "lng": -74.1359,
+      "country": "Colombia",
+      "city": "Bogota",
+      "type": "murder",
+      "title": "Церковь mobilizes после Colombia’s deadliest quake в десятилетия",
+      "description": "Least 132 люди were убит и dozens buildings collapsed across western Colombia на понедельник после 7.4-magnitude earthquake struck South American nation — strongest hit country this век, according Colombia’s Geological",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/08/11/the-church-mobilizes-after-colombias-deadliest-quake-in-decades/",
+      "victims": 132
+    },
+    {
+      "date": "2026-08-11",
+      "lat": 9.1545,
+      "lng": 9.7675,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Ex-OnlyFans model gets six годы тюрьма term смерть Nigerian мужчина",
+      "description": "Former OnlyFans model Courtney Clenney has been приговорён six годы в тюрьма для 2022 смерть her Nigerian-American boyfriend, христианин Obumseli. Read More: https://punchng.com/ex-onlyfans-model-gets-six-годы-тюрьма-term--смерть--niger",
+      "source": "punchng",
+      "url": "https://punchng.com/ex-onlyfans-model-gets-six-years-jail-term-over-death-of-nigerian-man/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-08-10",
       "lat": 10.3316,
@@ -293,6 +332,19 @@
       "victims": 0
     },
     {
+      "date": "2026-08-09",
+      "lat": 34.9033,
+      "lng": 36.6766,
+      "country": "Syria",
+      "city": "Homs",
+      "type": "other",
+      "title": "Католическая церковь в US и Europe Strengthens Legal Measures Address Fraudulent насилие Allegations",
+      "description": "Regarding Syria, internal problems persist. христиане май face mounting adversity. Veldkamp commented: \"Syria is undergoing slow process Islamization. в other words, it is becoming much more like Afghanistan than it used be.\" post Catho",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/08/09/catholic-church-in-the-us-and-europe-strengthens-legal-measures-to-address-fraudulent-abuse-allegations/",
+      "victims": 0
+    },
+    {
       "date": "2026-08-08",
       "lat": 34.2216,
       "lng": 71.4716,
@@ -449,6 +501,19 @@
       "victims": 0
     },
     {
+      "date": "2026-08-08",
+      "lat": 8.9232,
+      "lng": 7.5097,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Nigeria risks losing out на fresh $1.4bn US aid ‘христианин гонение’",
+      "description": "Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according terms contained",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/08/nigeria-risks-losing-out-on-fresh-1-4bn-us-aid-over-christian-persecution/",
+      "victims": 0
+    },
+    {
       "date": "2026-08-07",
       "lat": 34.5498,
       "lng": 36.7715,
@@ -571,6 +636,19 @@
       "lng": 76.8542,
       "country": "India",
       "city": "Delhi",
+      "type": "attack",
+      "title": "FCRA amendment is India's internal matter, says MEA, hits back US lawmaker's церковь захват claim",
+      "description": "India's министерство External Affairs stated proposed FCRA amendments are internal legislative matter. US Congressman Riley Moore criticised bill as атака against христиане. proposed amendments empower правительство manage foreign",
+      "source": "newsapi:The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/fcra-amendment-is-indias-internal-matter-says-mea-hits-back-at-us-lawmakers-church-takeover-claim/articleshow/133032033.cms",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-07",
+      "lat": 20.71,
+      "lng": 85.1257,
+      "country": "India",
+      "city": "Odisha",
       "type": "attack",
       "title": "FCRA amendment is India's internal matter, says MEA, hits back US lawmaker's церковь захват claim",
       "description": "India's министерство External Affairs stated proposed FCRA amendments are internal legislative matter. US Congressman Riley Moore criticised bill as атака against христиане. proposed amendments empower правительство manage foreign",
@@ -6426,84 +6504,6 @@
       "description": "US Congressman, Rep. Riley Moore, has said фулани боевики are far largest perpetrators violence against христиане в Nigeria post US Congressman blames фулани боевики для атаки на христиане в Nigeria appeared первый на Vanguard",
       "source": "newsapi:Vanguard",
       "url": "https://www.vanguardngr.com/2026/07/us-congressman-blames-fulani-militants-for-attacks-on-christians-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-08",
-      "lat": 6.6187,
-      "lng": 3.4542,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "attack",
-      "title": "US Congressman blames фулани боевики для атаки на христиане в Nigeria",
-      "description": "US Congressman, Rep. Riley Moore, has said фулани боевики are far largest perpetrators violence against христиане в Nigeria post US Congressman blames фулани боевики для атаки на христиане в Nigeria appeared первый на Vanguard",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/us-congressman-blames-fulani-militants-for-attacks-on-christians-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-08",
-      "lat": 35.8657,
-      "lng": 51.5434,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "murder",
-      "title": "Iran Moves Seize Historic Tehran церковь as Pressure на христиане Escalates",
-      "description": "Iranian власти are moving confiscate country’s oldest протестантская церковь и ordering христиане leave their homes, signaling new escalation в исламский Republic’s десятилетия-long кампания against христианство. St. Peter’s Evangelica",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/08/iran-moves-to-seize-historic-tehran-church-as-pressure-on-christians-escalates/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-08",
-      "lat": 9.0644,
-      "lng": 7.3931,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Community Appeals U.S. правительство после фулани ополчения Kill христианский работник, 3 Others",
-      "description": "Community leaders в плато штат, Nigeria, are appealing для international attention после убийство христианин церковь worker и community leader, John Telle Danjuma, и separate убийство three люди mining site в nearby comm",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/08/community-appeals-to-u-s-government-after-fulani-militias-kill-christian-worker-3-others/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-08",
-      "lat": 32.4377,
-      "lng": 51.4616,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "murder",
-      "title": "Iran Moves Seize Historic Tehran церковь as Pressure на христиане Escalates",
-      "description": "Iranian власти are moving confiscate country’s oldest протестантская церковь и ordering христиане leave their homes, signaling new escalation в исламский Republic’s десятилетия-long кампания against христианство. St. Peter’s Evangelica",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/08/iran-moves-to-seize-historic-tehran-church-as-pressure-on-christians-escalates/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-08",
-      "lat": 10.4793,
-      "lng": 7.2095,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "attack",
-      "title": "US Congressman blames фулани боевики для атаки на христиане в Nigeria",
-      "description": "US Congressman, Rep. Riley Moore, has said фулани боевики are far largest perpetrators violence against христиане в Nigeria post US Congressman blames фулани боевики для атаки на христиане в Nigeria appeared первый на Vanguard",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/us-congressman-blames-fulani-militants-for-attacks-on-christians-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-07",
-      "lat": 32.741,
-      "lng": 51.8709,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Iran threatens seize one последний remaining протестантские церкви в Tehran",
-      "description": "One последний remaining historic протестантские церкви в Iran is reportedly facing угроза конфискация Iranian правительство, drawing renewed international attention country's treatment религиозный minorities.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iran-threatens-to-seize-one-of-last-remaining-protestant-churches-in-tehran",
       "victims": 0
     }
   ]
