@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-12T12:39:00.786Z",
+    "lastUpdated": "2026-08-12T18:44:36.356Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "National Human Rights комиссия, NHRC, христианин Association Nigeria, CAN, Pentecostal Fellowship Nigeria, PFN, вице-президентial Candidate Nigeria Democratic конгресс, NDC,... post 2027 polls: NHRC, CAN, PFN, Kwankwaso knock Sh",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/08/2027-polls-nhrc-can-pfn-kwankwaso-knock-sheikh-jingir/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-12",
+      "lat": 34.1875,
+      "lng": 71.5778,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "other",
+      "title": "Pakistani христиане rally для equal rights",
+      "description": "Rallies в Karachi и Faisalabad pressed для constitutional amendments allowing non-мусульмане serve as президент or премьер-министр и для curbs на богохульство law насилие.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-christians-rally-for-equal-rights-beyond-minorities-day-ceremonies",
       "victims": 0
     },
     {
@@ -108,6 +121,19 @@
       "description": "Local церковь leaders called на faithful respond с молитва, generosity, и solidarity.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/americas/church-in-colombia-prays-and-mobilizes-to-help-those-affected-by-major-earthquake",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-11",
+      "lat": 11.6219,
+      "lng": 13.1184,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "kidnapping",
+      "title": "Exclusive — Nigerian Lawyer Details Harrowing христианин гонение: ' Daily Occurrence'",
+      "description": "Христиане в Nigeria face похищения, пытки, изнасилование, и убийство на \"daily\" basis hands hordes armed фулани джихадисты, lawyer working в country's Middle Belt told Breitbart News в exclusive conversation на понедельник. post E",
+      "source": "newsapi:Breitbart News",
+      "url": "https://www.breitbart.com/africa/2026/08/11/exclusive-nigerian-lawyer-details-harrowing-christian-persecution-a-daily-occurrence/",
       "victims": 0
     },
     {
@@ -6473,32 +6499,6 @@
       "lng": 116.6173,
       "country": "China",
       "city": "Beijing",
-      "type": "other",
-      "title": "Chinese пастор released US as goodwill gesture на 4 июль",
-      "description": "Zion церковь is one largest незарегистрированные церкви в China.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/chinese-pastor-released-to-us-as-goodwill-gesture-on-4-july",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-08",
-      "lat": 34.1543,
-      "lng": 71.7352,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "arrest",
-      "title": "Lahore суд Acquits Blind христианин в Falsified богохульство Case",
-      "description": "Nadeem Masih, visually impaired христианин accused богохульство, has been acquitted суд в Lahore, Pakistan, после spending 10 distressing месяцы в тюрьма. Lahore Additional Sessions судья Saad Salman Khan ordered Masih’s acquittal due th",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/08/lahore-court-acquits-blind-christian-man-in-falsified-blasphemy-case/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-08",
-      "lat": 43.907,
-      "lng": 87.4988,
-      "country": "China",
-      "city": "Xinjiang",
       "type": "other",
       "title": "Chinese пастор released US as goodwill gesture на 4 июль",
       "description": "Zion церковь is one largest незарегистрированные церкви в China.",
