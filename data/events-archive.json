@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-12T00:52:19.043Z",
+    "lastUpdated": "2026-08-12T07:03:28.929Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-08-12",
+      "lat": 9.1231,
+      "lng": 9.657,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "2027 polls: NHRC, CAN, PFN, Kwankwaso knock шейх Jingir",
+      "description": "National Human Rights комиссия, NHRC, христианин Association Nigeria, CAN, Pentecostal Fellowship Nigeria, PFN, вице-президентial Candidate Nigeria Democratic конгресс, NDC,... post 2027 polls: NHRC, CAN, PFN, Kwankwaso knock Sh",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/08/2027-polls-nhrc-can-pfn-kwankwaso-knock-sheikh-jingir/",
+      "victims": 0
+    },
     {
       "date": "2026-08-11",
       "lat": 6.3122,
@@ -267,6 +280,19 @@
       "victims": 0
     },
     {
+      "date": "2026-08-10",
+      "lat": 28.0412,
+      "lng": 30.8376,
+      "country": "Egypt",
+      "city": "Minya",
+      "type": "attack",
+      "title": "Гонение Egyptian христиане Continues в Series Recent Incidents",
+      "description": "Recent series атаки на христиане prompted attention из верующие around world, as well as response из U.S. post гонение Egyptian христиане Continues в Series Recent Incidents appeared первый на Gateway Pundit.",
+      "source": "newsapi:Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/08/persecution-egyptian-christians-continues-series-recent-incidents/",
+      "victims": 0
+    },
+    {
       "date": "2026-08-09",
       "lat": 9.1831,
       "lng": 7.6889,
@@ -433,6 +459,19 @@
       "description": "Regarding Syria, internal problems persist. христиане май face mounting adversity. Veldkamp commented: \"Syria is undergoing slow process Islamization. в other words, it is becoming much more like Afghanistan than it used be.\" post Catho",
       "source": "zenit",
       "url": "https://zenit.org/2026/08/09/catholic-church-in-the-us-and-europe-strengthens-legal-measures-to-address-fraudulent-abuse-allegations/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-09",
+      "lat": 11.9216,
+      "lng": 8.6518,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Nigerian епископ в мусульманин-majority регион says being ‘creative minority’ is key diocese’s mission",
+      "description": "SIGNIS World конгресс, епископ Gerald Mamman Musa said young Katsina Diocese в northwestern Nigeria will focus на “transforming society” rather than на испытания христиане face there.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/nigerian-bishop-in-muslim-majority-region-says-being-creative-minority-is-key-to-diocese-s",
       "victims": 0
     },
     {
@@ -6460,45 +6499,6 @@
       "lng": 9.6169,
       "country": "Nigeria",
       "city": "Plateau",
-      "type": "murder",
-      "title": "Community Appeals U.S. правительство после фулани ополчения Kill христианский работник, 3 Others",
-      "description": "Community leaders в плато штат, Nigeria, are appealing для international attention после убийство христианин церковь worker и community leader, John Telle Danjuma, и separate убийство three люди mining site в nearby comm",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/08/community-appeals-to-u-s-government-after-fulani-militias-kill-christian-worker-3-others/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-08",
-      "lat": 33.6927,
-      "lng": 72.9411,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "arrest",
-      "title": "Lahore суд Acquits Blind христианин в Falsified богохульство Case",
-      "description": "Nadeem Masih, visually impaired христианин accused богохульство, has been acquitted суд в Lahore, Pakistan, после spending 10 distressing месяцы в тюрьма. Lahore Additional Sessions судья Saad Salman Khan ordered Masih’s acquittal due th",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/08/lahore-court-acquits-blind-christian-man-in-falsified-blasphemy-case/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-08",
-      "lat": 33.1505,
-      "lng": 44.1462,
-      "country": "Iraq",
-      "city": "Baghdad",
-      "type": "other",
-      "title": "Папа Leo XIV Iraqi христиане: Be Christ’s light в challenging times",
-      "description": "Vatican published video message из pontiff на июль 8 для Ankawa молодёжь Meeting.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-iraqi-christians-be-christ-s-light-in-challenging-times",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-08",
-      "lat": 6.7443,
-      "lng": 3.2039,
-      "country": "Nigeria",
-      "city": "Lagos",
       "type": "murder",
       "title": "Community Appeals U.S. правительство после фулани ополчения Kill христианский работник, 3 Others",
       "description": "Community leaders в плато штат, Nigeria, are appealing для international attention после убийство христианин церковь worker и community leader, John Telle Danjuma, и separate убийство three люди mining site в nearby comm",
