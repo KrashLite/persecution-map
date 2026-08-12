@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-12T07:03:28.929Z",
+    "lastUpdated": "2026-08-12T12:39:00.786Z",
     "totalEvents": 500
   },
   "events": [
@@ -293,6 +293,32 @@
       "victims": 0
     },
     {
+      "date": "2026-08-10",
+      "lat": 11.6067,
+      "lng": 12.9873,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "Three христиане убит в плато штат, Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – христианин на his way воскресенье утро богослужение service was застрелен и убит suspected пастухи фулани на воскресенье (Aug. 9) в Fann деревня, Barkin Ladi округ, плато штат в ce",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/08/three-christians-killed-in-plateau-state-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-10",
+      "lat": 11.6706,
+      "lng": 13.0797,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "Nigeria risks losing major US aid package христианин гонение concerns",
+      "description": "Nigeria could lose access significant share new United штаты health и humanitarian assistance package unless it demonstrates progress в tackling violence against христиане, according bilateral agreement between Washington и Abuj",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/nigeria-risks-losing-major-us-aid-package-over-christian-persecution-concerns",
+      "victims": 0
+    },
+    {
       "date": "2026-08-09",
       "lat": 9.1831,
       "lng": 7.6889,
@@ -472,6 +498,19 @@
       "description": "SIGNIS World конгресс, епископ Gerald Mamman Musa said young Katsina Diocese в northwestern Nigeria will focus на “transforming society” rather than на испытания христиане face there.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/nigerian-bishop-in-muslim-majority-region-says-being-creative-minority-is-key-to-diocese-s",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-09",
+      "lat": 6.3508,
+      "lng": 3.37,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Nigeria май lose out на fresh $1.4bn US health aid христиане гонение",
+      "description": "Nkiruka Nnorom Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/08/nigeria-may-lose-out-on-fresh-1-4bn-us-health-aid-over-christians-persecution/",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Zion церковь is one largest незарегистрированные церкви в China.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/chinese-pastor-released-to-us-as-goodwill-gesture-on-4-july",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-08",
-      "lat": 29.3691,
-      "lng": 52.7164,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "murder",
-      "title": "Iran Moves Seize Historic Tehran церковь as Pressure на христиане Escalates",
-      "description": "Iranian власти are moving confiscate country’s oldest протестантская церковь и ordering христиане leave their homes, signaling new escalation в исламский Republic’s десятилетия-long кампания against христианство. St. Peter’s Evangelica",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/08/iran-moves-to-seize-historic-tehran-church-as-pressure-on-christians-escalates/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-08",
-      "lat": 36.1497,
-      "lng": 43.2956,
-      "country": "Iraq",
-      "city": "Mosul",
-      "type": "other",
-      "title": "Папа Leo XIV Iraqi христиане: Be Christ’s light в challenging times",
-      "description": "Vatican published video message из pontiff на июль 8 для Ankawa молодёжь Meeting.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-iraqi-christians-be-christ-s-light-in-challenging-times",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-08",
-      "lat": 9.0077,
-      "lng": 9.6169,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Community Appeals U.S. правительство после фулани ополчения Kill христианский работник, 3 Others",
-      "description": "Community leaders в плато штат, Nigeria, are appealing для international attention после убийство христианин церковь worker и community leader, John Telle Danjuma, и separate убийство three люди mining site в nearby comm",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/08/community-appeals-to-u-s-government-after-fulani-militias-kill-christian-worker-3-others/",
       "victims": 0
     }
   ]
