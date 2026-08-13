@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-13T07:07:02.314Z",
+    "lastUpdated": "2026-08-13T12:39:36.369Z",
     "totalEvents": 500
   },
   "events": [
@@ -779,6 +779,19 @@
       "lng": 7.5097,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "other",
+      "title": "Nigeria risks losing out на fresh $1.4bn US aid ‘христианин гонение’",
+      "description": "Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according terms contained",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/08/nigeria-risks-losing-out-on-fresh-1-4bn-us-aid-over-christian-persecution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-08",
+      "lat": 11.7366,
+      "lng": 13.3425,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "other",
       "title": "Nigeria risks losing out на fresh $1.4bn US aid ‘христианин гонение’",
       "description": "Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according terms contained",
@@ -6492,19 +6505,6 @@
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/07/christians-urged-to-pray-for-nigerias-leaders-at-mens-fellowship-convention/",
       "victims": 150
-    },
-    {
-      "date": "2026-07-08",
-      "lat": 31.432,
-      "lng": 121.7181,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "other",
-      "title": "Chinese пастор released US as goodwill gesture на 4 июль",
-      "description": "Zion церковь is one largest незарегистрированные церкви в China.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/chinese-pastor-released-to-us-as-goodwill-gesture-on-4-july",
-      "victims": 0
     }
   ]
 }
