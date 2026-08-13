@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-12T18:44:36.356Z",
+    "lastUpdated": "2026-08-13T00:53:54.147Z",
     "totalEvents": 500
   },
   "events": [
@@ -25,6 +25,19 @@
       "lng": 71.5778,
       "country": "Pakistan",
       "city": "Peshawar",
+      "type": "other",
+      "title": "Pakistani христиане rally для equal rights",
+      "description": "Rallies в Karachi и Faisalabad pressed для constitutional amendments allowing non-мусульмане serve as президент or премьер-министр и для curbs на богохульство law насилие.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-christians-rally-for-equal-rights-beyond-minorities-day-ceremonies",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-12",
+      "lat": 31.334,
+      "lng": 74.5705,
+      "country": "Pakistan",
+      "city": "Lahore",
       "type": "other",
       "title": "Pakistani христиане rally для equal rights",
       "description": "Rallies в Karachi и Faisalabad pressed для constitutional amendments allowing non-мусульмане serve as президент or премьер-министр и для curbs на богохульство law насилие.",
@@ -129,6 +142,19 @@
       "lng": 13.1184,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "kidnapping",
+      "title": "Exclusive — Nigerian Lawyer Details Harrowing христианин гонение: ' Daily Occurrence'",
+      "description": "Христиане в Nigeria face похищения, пытки, изнасилование, и убийство на \"daily\" basis hands hordes armed фулани джихадисты, lawyer working в country's Middle Belt told Breitbart News в exclusive conversation на понедельник. post E",
+      "source": "newsapi:Breitbart News",
+      "url": "https://www.breitbart.com/africa/2026/08/11/exclusive-nigerian-lawyer-details-harrowing-christian-persecution-a-daily-occurrence/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-11",
+      "lat": 10.3977,
+      "lng": 7.5669,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "kidnapping",
       "title": "Exclusive — Nigerian Lawyer Details Harrowing христианин гонение: ' Daily Occurrence'",
       "description": "Христиане в Nigeria face похищения, пытки, изнасилование, и убийство на \"daily\" basis hands hordes armed фулани джихадисты, lawyer working в country's Middle Belt told Breitbart News в exclusive conversation на понедельник. post E",
@@ -342,6 +368,19 @@
       "description": "Nigeria could lose access significant share new United штаты health и humanitarian assistance package unless it demonstrates progress в tackling violence against христиане, according bilateral agreement between Washington и Abuj",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/nigeria-risks-losing-major-us-aid-package-over-christian-persecution-concerns",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-10",
+      "lat": 11.8167,
+      "lng": 8.7649,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Three христиане убит в плато штат, Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – христианин на his way воскресенье утро богослужение service was застрелен и убит suspected пастухи фулани на воскресенье (Aug. 9) в Fann деревня, Barkin Ladi округ, плато штат в ce",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/08/three-christians-killed-in-plateau-state-nigeria/",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Iranian власти are moving confiscate country’s oldest протестантская церковь и ordering христиане leave their homes, signaling new escalation в исламский Republic’s десятилетия-long кампания against христианство. St. Peter’s Evangelica",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/08/iran-moves-to-seize-historic-tehran-church-as-pressure-on-christians-escalates/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-08",
-      "lat": 11.7795,
-      "lng": 8.3626,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Community Appeals U.S. правительство после фулани ополчения Kill христианский работник, 3 Others",
-      "description": "Community leaders в плато штат, Nigeria, are appealing для international attention после убийство христианин церковь worker и community leader, John Telle Danjuma, и separate убийство three люди mining site в nearby comm",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/08/community-appeals-to-u-s-government-after-fulani-militias-kill-christian-worker-3-others/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-08",
-      "lat": 24.8029,
-      "lng": 66.8808,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "arrest",
-      "title": "Lahore суд Acquits Blind христианин в Falsified богохульство Case",
-      "description": "Nadeem Masih, visually impaired христианин accused богохульство, has been acquitted суд в Lahore, Pakistan, после spending 10 distressing месяцы в тюрьма. Lahore Additional Sessions судья Saad Salman Khan ordered Masih’s acquittal due th",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/08/lahore-court-acquits-blind-christian-man-in-falsified-blasphemy-case/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-08",
-      "lat": 39.6992,
-      "lng": 116.6173,
-      "country": "China",
-      "city": "Beijing",
-      "type": "other",
-      "title": "Chinese пастор released US as goodwill gesture на 4 июль",
-      "description": "Zion церковь is one largest незарегистрированные церкви в China.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/chinese-pastor-released-to-us-as-goodwill-gesture-on-4-july",
       "victims": 0
     }
   ]
