@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-13T00:53:54.147Z",
+    "lastUpdated": "2026-08-13T07:07:02.314Z",
     "totalEvents": 500
   },
   "events": [
@@ -38,6 +38,19 @@
       "lng": 74.5705,
       "country": "Pakistan",
       "city": "Lahore",
+      "type": "other",
+      "title": "Pakistani христиане rally для equal rights",
+      "description": "Rallies в Karachi и Faisalabad pressed для constitutional amendments allowing non-мусульмане serve as президент or премьер-министр и для curbs на богохульство law насилие.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-christians-rally-for-equal-rights-beyond-minorities-day-ceremonies",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-12",
+      "lat": 33.8267,
+      "lng": 72.8276,
+      "country": "Pakistan",
+      "city": "Islamabad",
       "type": "other",
       "title": "Pakistani христиане rally для equal rights",
       "description": "Rallies в Karachi и Faisalabad pressed для constitutional amendments allowing non-мусульмане serve as президент or премьер-министр и для curbs на богохульство law насилие.",
@@ -155,6 +168,19 @@
       "lng": 7.5669,
       "country": "Nigeria",
       "city": "Kaduna",
+      "type": "kidnapping",
+      "title": "Exclusive — Nigerian Lawyer Details Harrowing христианин гонение: ' Daily Occurrence'",
+      "description": "Христиане в Nigeria face похищения, пытки, изнасилование, и убийство на \"daily\" basis hands hordes armed фулани джихадисты, lawyer working в country's Middle Belt told Breitbart News в exclusive conversation на понедельник. post E",
+      "source": "newsapi:Breitbart News",
+      "url": "https://www.breitbart.com/africa/2026/08/11/exclusive-nigerian-lawyer-details-harrowing-christian-persecution-a-daily-occurrence/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-11",
+      "lat": 12.0144,
+      "lng": 8.5999,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "kidnapping",
       "title": "Exclusive — Nigerian Lawyer Details Harrowing христианин гонение: ' Daily Occurrence'",
       "description": "Христиане в Nigeria face похищения, пытки, изнасилование, и убийство на \"daily\" basis hands hordes armed фулани джихадисты, lawyer working в country's Middle Belt told Breitbart News в exclusive conversation на понедельник. post E",
@@ -381,6 +407,19 @@
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – христианин на his way воскресенье утро богослужение service was застрелен и убит suspected пастухи фулани на воскресенье (Aug. 9) в Fann деревня, Barkin Ladi округ, плато штат в ce",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/08/three-christians-killed-in-plateau-state-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-10",
+      "lat": 29.8192,
+      "lng": 31.3346,
+      "country": "Egypt",
+      "city": "Cairo",
+      "type": "attack",
+      "title": "Гонение Egyptian христиане Continues в Series Recent Incidents",
+      "description": "Recent series атаки на христиане prompted attention из верующие around world, as well as response из U.S. post гонение Egyptian христиане Continues в Series Recent Incidents appeared первый на Gateway Pundit.",
+      "source": "newsapi:Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/08/persecution-egyptian-christians-continues-series-recent-incidents/",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Zion церковь is one largest незарегистрированные церкви в China.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/chinese-pastor-released-to-us-as-goodwill-gesture-on-4-july",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-08",
-      "lat": 23.5167,
-      "lng": 113.7147,
-      "country": "China",
-      "city": "Guangdong",
-      "type": "other",
-      "title": "Chinese пастор released US as goodwill gesture на 4 июль",
-      "description": "Zion церковь is one largest незарегистрированные церкви в China.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/chinese-pastor-released-to-us-as-goodwill-gesture-on-4-july",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-08",
-      "lat": 35.9884,
-      "lng": 43.8625,
-      "country": "Iraq",
-      "city": "Erbil",
-      "type": "other",
-      "title": "Папа Leo XIV Iraqi христиане: Be Christ’s light в challenging times",
-      "description": "Vatican published video message из pontiff на июль 8 для Ankawa молодёжь Meeting.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-to-iraqi-christians-be-christ-s-light-in-challenging-times",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-08",
-      "lat": 36.0683,
-      "lng": 59.7626,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "murder",
-      "title": "Iran Moves Seize Historic Tehran церковь as Pressure на христиане Escalates",
-      "description": "Iranian власти are moving confiscate country’s oldest протестантская церковь и ordering христиане leave their homes, signaling new escalation в исламский Republic’s десятилетия-long кампания against христианство. St. Peter’s Evangelica",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/08/iran-moves-to-seize-historic-tehran-church-as-pressure-on-christians-escalates/",
       "victims": 0
     }
   ]
