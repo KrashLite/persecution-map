@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-14T07:04:07.225Z",
+    "lastUpdated": "2026-08-14T12:35:33.722Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-08-14",
+      "lat": 13.7044,
+      "lng": 2.0429,
+      "country": "Niger",
+      "city": "Niamey",
+      "type": "kidnapping",
+      "title": "US миссионер похищен в Niger released после nine месяцы в плен",
+      "description": "American христианский миссионер, Kevin Rideout, has been released U.S. чиновники после spending nine месяцы в плен в Niger. post US миссионер похищен в Niger released после nine месяцы в плен appeared первый на Vanguard",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/08/us-missionary-kidnapped-in-niger-released-after-nine-months-in-captivity/",
+      "victims": 0
+    },
     {
       "date": "2026-08-13",
       "lat": 10.3825,
@@ -186,6 +199,45 @@
       "description": "На Aug. 5, Ugandan суд presided High суд судья Alex Mackay Ajiji приговорён two мусульмане, Hajarah Nakandi и Abas Musa, смерть для убийство innocent христианка, Susan Magara. other seven convicts, Yusuf Lubega, Mahad",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/13/the-final-chapter-in-the-tragic-murder-of-susan-magara/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-13",
+      "lat": 10.6377,
+      "lng": 7.5077,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "arrest",
+      "title": "Nigerian Rights комиссия Calls для арест исламский Cleric Remarks Against христиане",
+      "description": "Шейх Muhammadu Sani Yahaya Jingir, prominent исламский cleric в northern Nigeria, faces calls для арест и prosecution после he described христиане и other non-мусульмане as “infidels” и urged мусульмане use their votes preserve мусульманин poli",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/13/nigerian-rights-commission-calls-for-arrest-of-islamic-cleric-over-remarks-against-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-13",
+      "lat": 9.2613,
+      "lng": 9.7151,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "UN letter warns Nigeria violence risk христианки, girls",
+      "description": "“We wish raise serious concern regarding patterns religiously motivated violence и гонение,” letter said, “especially христиане, including женщины и girls.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/un-letter-warns-nigeria-of-violence-risk-to-christian-women-girls",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-13",
+      "lat": 28.6674,
+      "lng": 77.2316,
+      "country": "India",
+      "city": "Delhi",
+      "type": "discrimination",
+      "title": "Call Issued Make Odisha ‘церковь-Free’ штат",
+      "description": "Под guise literary launch для book о индус монах в Bhubaneswar, столица Odisha, индус религиозный leader issued definitive, public call make central Indian штат “церковь-free.” This marks chilling escalation в th",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/13/call-issued-to-make-odisha-church-free-state/",
       "victims": 0
     },
     {
@@ -441,6 +493,32 @@
       "lng": 3.2377,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "kidnapping",
+      "title": "Exclusive — Nigerian Lawyer Details Harrowing христианин гонение: ' Daily Occurrence'",
+      "description": "Христиане в Nigeria face похищения, пытки, изнасилование, и убийство на \"daily\" basis hands hordes armed фулани джихадисты, lawyer working в country's Middle Belt told Breitbart News в exclusive conversation на понедельник. post E",
+      "source": "newsapi:Breitbart News",
+      "url": "https://www.breitbart.com/africa/2026/08/11/exclusive-nigerian-lawyer-details-harrowing-christian-persecution-a-daily-occurrence/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-11",
+      "lat": 9.2967,
+      "lng": 7.5362,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Исламский экстремисты Kill 30 христиане в Nigerian деревня",
+      "description": "Reports confirmed that least 30 люди погиб, including eight дети. Several residents suffered ранения. Security personnel reportedly reached деревня hours после attackers had left. post исламский экстремисты Kill 30 христиане в Nig",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/08/11/islamic-extremists-kill-30-christians-in-nigerian-village/",
+      "victims": 30
+    },
+    {
+      "date": "2026-08-11",
+      "lat": 9.0923,
+      "lng": 9.4597,
+      "country": "Nigeria",
+      "city": "Plateau",
       "type": "kidnapping",
       "title": "Exclusive — Nigerian Lawyer Details Harrowing христианин гонение: ' Daily Occurrence'",
       "description": "Христиане в Nigeria face похищения, пытки, изнасилование, и убийство на \"daily\" basis hands hordes armed фулани джихадисты, lawyer working в country's Middle Belt told Breitbart News в exclusive conversation на понедельник. post E",
@@ -6426,84 +6504,6 @@
       "description": "According six-год study conducted Observatory для религиозный Freedom в Africa (ORFA), исламский фулани ополчения are far deadliest persecutors христиане в Nigeria. network ополчения is responsible для four times more civil",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/10/report-confirms-fulani-militias-responsible-for-majority-of-deaths-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-10",
-      "lat": 11.8058,
-      "lng": 13.3671,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "Catholic епископ: ‘There’s no политический will в fight against terrorism в Nigeria’",
-      "description": "Епископ Stephen Dami Mamza Diocese Yola says Nigerian правительство lacks will end persistent insecurity that has claimed thousands lives в West African country.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/catholic-bishop-there-s-no-political-will-in-fight-against-terrorism-in-nigeria",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-10",
-      "lat": 6.5183,
-      "lng": 3.2025,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Report Confirms фулани ополчения Responsible для Majority смерти в Nigeria",
-      "description": "According six-год study conducted Observatory для религиозный Freedom в Africa (ORFA), исламский фулани ополчения are far deadliest persecutors христиане в Nigeria. network ополчения is responsible для four times more civil",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/10/report-confirms-fulani-militias-responsible-for-majority-of-deaths-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-10",
-      "lat": 11.8339,
-      "lng": 8.4197,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "discrimination",
-      "title": "Pregnant женщина Flees фулани ополчение",
-      "description": "Hours до giving birth her первый ребёнок, 22-год-old mother became widow после исламский фулани ополчение атакован her rural community в Nigeria. атака, which occurred between июнь 21 и июнь 22, claimed 22 lives. на июнь 21, Longdi T",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/10/pregnant-woman-flees-fulani-militia/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-10",
-      "lat": 32.5661,
-      "lng": 51.6497,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Iranian delegation visits Our Lady Guadalupe Basilica, engaging в ‘interfaith dialogue’",
-      "description": "Their request, delegation Iranian embassy в Mexico город was given tour Marian святыня, highlighting reverence для Virgin Mary shared both ислам и христианство.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/americas/iranian-delegation-visits-our-lady-of-guadalupe-basilica-the-spiritual-heart-of-mexico",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-10",
-      "lat": 6.4756,
-      "lng": 3.3916,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Catholic епископ: ‘There’s no политический will в fight against terrorism в Nigeria’",
-      "description": "Епископ Stephen Dami Mamza Diocese Yola says Nigerian правительство lacks will end persistent insecurity that has claimed thousands lives в West African country.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/catholic-bishop-there-s-no-political-will-in-fight-against-terrorism-in-nigeria",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-10",
-      "lat": 24.9848,
-      "lng": 66.8093,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "other",
-      "title": "Protest Erupts в Pakistan после христианин Framed для ‘богохульство’",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – violent protest erupted в Karachi, Pakistan на четверг (июль 9) после unidentified лица mailed осквернён page Quran мусульманин shopkeeper along с photographs",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/protest-erupts-in-pakistan-after-christian-framed-for-blasphemy/",
       "victims": 0
     }
   ]
