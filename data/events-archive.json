@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-15T00:30:17.630Z",
+    "lastUpdated": "2026-08-15T06:17:28.408Z",
     "totalEvents": 500
   },
   "events": [
@@ -108,6 +108,58 @@
       "description": "Пастор John Cao, Chinese христианский лидер who completed seven-год тюрьма приговор в 2024, has been diagnosed с поздно-stage prostate cancer и spinal tumor, according reports из христианин advocacy organizations. His diagnosis has renew",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/14/cancer-diagnosis-raises-stakes-for-chinese-pastor-john-cao/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-14",
+      "lat": 10.2943,
+      "lng": 7.639,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Пастухи Kill Least 31 христиане в Central Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани have убит 16 христиане в плато штат, Nigeria since Aug. 2, в addition slaughters в two other штаты, sources said. armed пастухи overran five predomin",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/08/herdsmen-kill-at-least-31-christians-in-central-nigeria/",
+      "victims": 31
+    },
+    {
+      "date": "2026-08-14",
+      "lat": 33.7056,
+      "lng": 36.3127,
+      "country": "Syria",
+      "city": "Damascus",
+      "type": "arrest",
+      "title": "Baptist пастор Released из задержание в Syria",
+      "description": "Kurdish пастор has been released из Syrian тюрьма после being задержан для two недели without чиновник обвинение. пастор Nihad Hassan was visiting семья в Afrin, Syria, когда власти арестован him на июль 20. He was reportedly задержан beca",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/14/baptist-pastor-released-from-detention-in-syria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-14",
+      "lat": 23.51,
+      "lng": 113.6311,
+      "country": "China",
+      "city": "Guangdong",
+      "type": "arrest",
+      "title": "Cancer Diagnosis Raises Stakes для Chinese пастор John Cao",
+      "description": "Пастор John Cao, Chinese христианский лидер who completed seven-год тюрьма приговор в 2024, has been diagnosed с поздно-stage prostate cancer и spinal tumor, according reports из христианин advocacy organizations. His diagnosis has renew",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/14/cancer-diagnosis-raises-stakes-for-chinese-pastor-john-cao/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-14",
+      "lat": 13.6837,
+      "lng": 1.8995,
+      "country": "Niger",
+      "city": "Niamey",
+      "type": "kidnapping",
+      "title": "American миссионер похищен overseas is released и heading back US",
+      "description": "Kevin Rideout, 50-год-old pilot, was похищен в октябрь outside his home в Niger's столица, Niamey, пока working с evangelical group.",
+      "source": "newsapi:Dailymail.com",
+      "url": "https://www.dailymail.com/news/article-16051797/Kevin-Rideout-missionary-released-Niger.html",
       "victims": 0
     },
     {
@@ -407,6 +459,19 @@
       "description": "Под guise literary launch для book о индус монах в Bhubaneswar, столица Odisha, индус религиозный leader issued definitive, public call make central Indian штат “церковь-free.” This marks chilling escalation в th",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/13/call-issued-to-make-odisha-church-free-state/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-13",
+      "lat": 9.2962,
+      "lng": 7.543,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "arrest",
+      "title": "Nigerian Rights комиссия Calls для арест исламский Cleric Remarks Against христиане",
+      "description": "Шейх Muhammadu Sani Yahaya Jingir, prominent исламский cleric в northern Nigeria, faces calls для арест и prosecution после he described христиане и other non-мусульмане as “infidels” и urged мусульмане use their votes preserve мусульманин poli",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/13/nigerian-rights-commission-calls-for-arrest-of-islamic-cleric-over-remarks-against-christians/",
       "victims": 0
     },
     {
@@ -1130,6 +1195,19 @@
       "lng": 3.37,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "other",
+      "title": "Nigeria май lose out на fresh $1.4bn US health aid христиане гонение",
+      "description": "Nkiruka Nnorom Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/08/nigeria-may-lose-out-on-fresh-1-4bn-us-health-aid-over-christians-persecution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-09",
+      "lat": 9.1698,
+      "lng": 9.526,
+      "country": "Nigeria",
+      "city": "Plateau",
       "type": "other",
       "title": "Nigeria май lose out на fresh $1.4bn US health aid христиане гонение",
       "description": "Nkiruka Nnorom Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according",
@@ -6426,84 +6504,6 @@
       "description": "Mexico continues occupy pivotal place within world Catholicism. Vatican statistical publications, including 2026 Pontifical Yearbook и 2024 Annuarium Statisticum Ecclesiae, project that country сейчас has approximately 101.3 million b",
       "source": "zenit",
       "url": "https://zenit.org/2026/07/12/how-many-catholics-are-there-in-mexico-what-the-statistics-show-and-the-challenge-they-present/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-12",
-      "lat": 4.2539,
-      "lng": 18.6048,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "other",
-      "title": "Venezuela: церковь Steps в Fill Gap Left социалист штат в Providing Humanitarian Aid после Earthquake. Here Are Facts",
-      "description": "According report, Caritas Venezuela has received approximately 14,700 tons humanitarian assistance. that amount, 9,000 tons—61 percent total—have already reached affected communities, пока another 5,700 tons remain available для",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/07/12/venezuela-the-church-steps-in-to-fill-the-gap-left-by-the-socialist-state-in-providing-humanitarian-aid-after-the-earthquake-here-are-the-facts/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-11",
-      "lat": 11.8936,
-      "lng": 8.4035,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "Division biggest угроза церковь, says Enenche",
-      "description": "Пастор Paul Enenche warns that division is greatest угроза церковь’s survival, urging Nigerian христиане unite against insecurity и persecu Read More: https://punchng.com/division-biggest-угроза--церковь-says-enenche/",
-      "source": "punchng",
-      "url": "https://punchng.com/division-biggest-threat-to-church-says-enenche/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-11",
-      "lat": 4.6407,
-      "lng": -74.2788,
-      "country": "Colombia",
-      "city": "Bogota",
-      "type": "other",
-      "title": "Католическая церковь в Colombia calls для respecting presidential election results",
-      "description": "С Abelardo de la Espriella's very narrow victory и outgoing президент Gustavo Petros' отказ accept that result, alleging fraud, Colombian епископы urged citizens respect outcome.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/americas/catholic-church-in-colombia-calls-for-respecting-presidential-election-results",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-11",
-      "lat": 29.1126,
-      "lng": 33.0371,
-      "country": "Egypt",
-      "city": "Sinai",
-      "type": "other",
-      "title": "Ancient христианин город unearthed в Egypt’s пустыня",
-      "description": "Archaeologists в Egypt have uncovered remarkably preserved Byzantine-эра поселение в Dakhla Oasis, revealing new evidence organised христианская община that flourished в Western пустыня more than 1,600 годы ago.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/ancient-christian-city-unearthed-in-egypts-desert",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-11",
-      "lat": 31.1086,
-      "lng": 30.1023,
-      "country": "Egypt",
-      "city": "Alexandria",
-      "type": "other",
-      "title": "Ancient христианин город unearthed в Egypt’s пустыня",
-      "description": "Archaeologists в Egypt have uncovered remarkably preserved Byzantine-эра поселение в Dakhla Oasis, revealing new evidence organised христианская община that flourished в Western пустыня more than 1,600 годы ago.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/ancient-christian-city-unearthed-in-egypts-desert",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-11",
-      "lat": 29.8622,
-      "lng": 31.4218,
-      "country": "Egypt",
-      "city": "Cairo",
-      "type": "other",
-      "title": "Ancient христианин город unearthed в Egypt’s пустыня",
-      "description": "Archaeologists в Egypt have uncovered remarkably preserved Byzantine-эра поселение в Dakhla Oasis, revealing new evidence organised христианская община that flourished в Western пустыня more than 1,600 годы ago.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/ancient-christian-city-unearthed-in-egypts-desert",
       "victims": 0
     }
   ]
