@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-15T12:13:06.912Z",
+    "lastUpdated": "2026-08-15T18:11:01.293Z",
     "totalEvents": 500
   },
   "events": [
@@ -207,6 +207,32 @@
       "lng": 121.379,
       "country": "China",
       "city": "Shanghai",
+      "type": "arrest",
+      "title": "Cancer Diagnosis Raises Stakes для Chinese пастор John Cao",
+      "description": "Пастор John Cao, Chinese христианский лидер who completed seven-год тюрьма приговор в 2024, has been diagnosed с поздно-stage prostate cancer и spinal tumor, according reports из христианин advocacy organizations. His diagnosis has renew",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/14/cancer-diagnosis-raises-stakes-for-chinese-pastor-john-cao/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-14",
+      "lat": 25.0747,
+      "lng": 67.0261,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "arrest",
+      "title": "Первый осуждение Handed Down в Pakistan’s Jaranwala христианин Enclave атаки",
+      "description": "Pakistani anti-terrorism суд has secured its первый осуждение devastating 2023 Jaranwala riots, sentencing мусульманин мужчина десятилетие в тюрьма для снос two церкви. However, milestone ruling was мгновенно overshadowed",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/14/first-conviction-handed-down-in-pakistans-jaranwala-christian-enclave-attacks/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-14",
+      "lat": 43.8983,
+      "lng": 87.7298,
+      "country": "China",
+      "city": "Xinjiang",
       "type": "arrest",
       "title": "Cancer Diagnosis Raises Stakes для Chinese пастор John Cao",
       "description": "Пастор John Cao, Chinese христианский лидер who completed seven-год тюрьма приговор в 2024, has been diagnosed с поздно-stage prostate cancer и spinal tumor, according reports из христианин advocacy organizations. His diagnosis has renew",
@@ -6478,32 +6504,6 @@
       "description": "На июль 8, правительство Indian штат Maharashtra ordered time-bound, statewide audit land parcels owned церкви и христианский миссионер organizations identify illegal encroachments, disputed land titles, и unauthorized tran",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/13/maharashtra-orders-audit-of-christian-properties/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-13",
-      "lat": 20.8553,
-      "lng": 84.9592,
-      "country": "India",
-      "city": "Odisha",
-      "type": "other",
-      "title": "Maharashtra Orders Audit христианин Properties",
-      "description": "На июль 8, правительство Indian штат Maharashtra ordered time-bound, statewide audit land parcels owned церкви и христианский миссионер organizations identify illegal encroachments, disputed land titles, и unauthorized tran",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/13/maharashtra-orders-audit-of-christian-properties/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-13",
-      "lat": 33.8278,
-      "lng": 73.0725,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "other",
-      "title": "Majority богохульство Cases в Pakistan ‘Fabricated,’ чиновники Say",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – чиновники в Pakistan на прошлой неделе reported parliamentary комитет that majority 333 богохульство cases registered в past five годы в four провинции were fabricated, acc",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/majority-of-blasphemy-cases-in-pakistan-fabricated-officials-say/",
       "victims": 0
     }
   ]
