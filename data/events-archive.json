@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-16T00:31:13.154Z",
+    "lastUpdated": "2026-08-16T06:19:16.816Z",
     "totalEvents": 500
   },
   "events": [
@@ -246,6 +246,19 @@
       "lng": 59.7518,
       "country": "Iran",
       "city": "Mashhad",
+      "type": "other",
+      "title": "United Nations calls out Iran для its ‘other war’ – against христиане",
+      "description": "Human Rights совет asked intervene в изъятие historic церковь",
+      "source": "newsapi:Wnd.com",
+      "url": "https://www.wnd.com/2026/08/united-nations-calls-iran-its-other-war-against/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-14",
+      "lat": 35.5953,
+      "lng": 51.3854,
+      "country": "Iran",
+      "city": "Tehran",
       "type": "other",
       "title": "United Nations calls out Iran для its ‘other war’ – against христиане",
       "description": "Human Rights совет asked intervene в изъятие historic церковь",
@@ -563,6 +576,19 @@
       "description": "Шейх Muhammadu Sani Yahaya Jingir, prominent исламский cleric в northern Nigeria, faces calls для арест и prosecution после he described христиане и other non-мусульмане as “infidels” и urged мусульмане use their votes preserve мусульманин poli",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/13/nigerian-rights-commission-calls-for-arrest-of-islamic-cleric-over-remarks-against-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-13",
+      "lat": 11.9435,
+      "lng": 13.1996,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "UN letter warns Nigeria violence risk христианки, girls",
+      "description": "“We wish raise serious concern regarding patterns religiously motivated violence и гонение,” letter said, “especially христиане, including женщины и girls.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/un-letter-warns-nigeria-of-violence-risk-to-christian-women-girls",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "На июль 8, правительство Indian штат Maharashtra ordered time-bound, statewide audit land parcels owned церкви и христианский миссионер organizations identify illegal encroachments, disputed land titles, и unauthorized tran",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/13/maharashtra-orders-audit-of-christian-properties/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-13",
-      "lat": 31.5012,
-      "lng": 74.3925,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "other",
-      "title": "EU urges Pakistan protect религиозный minority girls из вынужден обращения",
-      "description": "Many жертвы are христианки и girls.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/eu-urges-pakistan-to-protect-religious-minority-girls-from-forced-conversions",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-13",
-      "lat": 40.0033,
-      "lng": 116.5477,
-      "country": "China",
-      "city": "Beijing",
-      "type": "arrest",
-      "title": "REPORT: 10,000 христиане арестован в China as Xi Jinping’s коммунист Regime Escalates религиозный Crackdown",
-      "description": "Христиане across коммунист China are being арестован, задержан и effectively “исчезнувший” для worshipping outside штат-controlled церкви, according major investigation Telegraph. post REPORT: 10,000 христиане арестован в C",
-      "source": "newsapi:Thegatewaypundit.com",
-      "url": "https://www.thegatewaypundit.com/2026/07/report-10000-christians-arrested-china-as-xi-jinpings/",
       "victims": 0
     }
   ]
