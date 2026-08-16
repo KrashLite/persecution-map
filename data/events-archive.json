@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-15T18:11:01.293Z",
+    "lastUpdated": "2026-08-16T00:31:13.154Z",
     "totalEvents": 500
   },
   "events": [
@@ -238,6 +238,19 @@
       "description": "Пастор John Cao, Chinese христианский лидер who completed seven-год тюрьма приговор в 2024, has been diagnosed с поздно-stage prostate cancer и spinal tumor, according reports из христианин advocacy organizations. His diagnosis has renew",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/14/cancer-diagnosis-raises-stakes-for-chinese-pastor-john-cao/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-14",
+      "lat": 36.2748,
+      "lng": 59.7518,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "United Nations calls out Iran для its ‘other war’ – against христиане",
+      "description": "Human Rights совет asked intervene в изъятие historic церковь",
+      "source": "newsapi:Wnd.com",
+      "url": "https://www.wnd.com/2026/08/united-nations-calls-iran-its-other-war-against/",
       "victims": 0
     },
     {
@@ -615,6 +628,19 @@
       "description": "Human cost has been accompanied significant blow Colombia's Catholic heritage. церкви и other ecclesial buildings have suffered extensive повреждение, including Cathedral Manizales и Basilica Lord Miracles. post",
       "source": "zenit",
       "url": "https://zenit.org/2026/08/12/in-the-wake-of-the-earthquake-the-colombian-catholic-church-has-become-a-haven-of-hope-pope-leo-xiv-has-sent-emergency-financial-aid/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-12",
+      "lat": 24.9537,
+      "lng": 66.9618,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "other",
+      "title": "Pakistani христиане rally для equal rights",
+      "description": "Rallies в Karachi и Faisalabad pressed для constitutional amendments allowing non-мусульмане serve as президент or премьер-министр и для curbs на богохульство law насилие.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-christians-rally-for-equal-rights-beyond-minorities-day-ceremonies",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Христиане across коммунист China are being арестован, задержан и effectively “исчезнувший” для worshipping outside штат-controlled церкви, according major investigation Telegraph. post REPORT: 10,000 христиане арестован в C",
       "source": "newsapi:Thegatewaypundit.com",
       "url": "https://www.thegatewaypundit.com/2026/07/report-10000-christians-arrested-china-as-xi-jinpings/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-13",
-      "lat": 43.745,
-      "lng": 87.6645,
-      "country": "China",
-      "city": "Xinjiang",
-      "type": "arrest",
-      "title": "REPORT: 10,000 христиане арестован в China as Xi Jinping’s коммунист Regime Escalates религиозный Crackdown",
-      "description": "Христиане across коммунист China are being арестован, задержан и effectively “исчезнувший” для worshipping outside штат-controlled церкви, according major investigation Telegraph. post REPORT: 10,000 христиане арестован в C",
-      "source": "newsapi:Thegatewaypundit.com",
-      "url": "https://www.thegatewaypundit.com/2026/07/report-10000-christians-arrested-china-as-xi-jinpings/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-13",
-      "lat": 21.292,
-      "lng": 81.7822,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "other",
-      "title": "Maharashtra Orders Audit христианин Properties",
-      "description": "На июль 8, правительство Indian штат Maharashtra ordered time-bound, statewide audit land parcels owned церкви и христианский миссионер organizations identify illegal encroachments, disputed land titles, и unauthorized tran",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/13/maharashtra-orders-audit-of-christian-properties/",
       "victims": 0
     }
   ]
