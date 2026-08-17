@@ -2,10 +2,49 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-17T06:27:51.119Z",
+    "lastUpdated": "2026-08-17T12:17:33.290Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-08-17",
+      "lat": 9.2834,
+      "lng": 7.2876,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "VIDEO: христианство not subordinate any религия, Enenche declares",
+      "description": "Пастор Paul Enenche Dunamis International Gospel Centre declares христианство is not subordinate any религия в Nigeria, condemning divisive comment Read More: https://punchng.com/video-христианство-not-subordinate--any-религия-enenche-dec",
+      "source": "punchng",
+      "url": "https://punchng.com/video-christianity-not-subordinate-to-any-religion-enenche-declares/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-17",
+      "lat": 6.5308,
+      "lng": 3.1765,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Христианин group congratulates Adeleke на Osun re-election",
+      "description": "Христианин group, OAIC Nigeria регион, congratulates Osun штат губернатор Ademola Adeleke на his re-election, praising his leadership и renewed mandate. Read More: https://punchng.com/христианин-group-congratulates-adeleke-на-osun-re-election/",
+      "source": "punchng",
+      "url": "https://punchng.com/christian-group-congratulates-adeleke-on-osun-re-election/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-17",
+      "lat": 23.252,
+      "lng": 113.8321,
+      "country": "China",
+      "city": "Guangdong",
+      "type": "arrest",
+      "title": "Seven христиане held incommunicado China",
+      "description": "Обвинения against those арестован have not been disclosed.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/seven-christians-held-incommunicado-by-china",
+      "victims": 0
+    },
     {
       "date": "2026-08-16",
       "lat": 12.0348,
@@ -38,6 +77,19 @@
       "lng": 9.4013,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "arrest",
+      "title": "Nigerian суд запреты исламский полиция из arresting христианин-конверт вера, marriage отказ",
+      "description": "Federal high суд described actions taken against женщина as “flagrant violation” her fundamental rights human dignity и freedom религия.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/nigerian-court-bars-islamic-police-from-arresting-christian-convert-over-faith-forced-marriage",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-16",
+      "lat": 9.1901,
+      "lng": 7.309,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "arrest",
       "title": "Nigerian суд запреты исламский полиция из arresting христианин-конверт вера, marriage отказ",
       "description": "Federal high суд described actions taken against женщина as “flagrant violation” her fundamental rights human dignity и freedom религия.",
@@ -342,6 +394,19 @@
       "description": "Human Rights совет asked intervene в изъятие historic церковь",
       "source": "newsapi:Wnd.com",
       "url": "https://www.wnd.com/2026/08/united-nations-calls-iran-its-other-war-against/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-14",
+      "lat": 33.6515,
+      "lng": 72.8504,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "arrest",
+      "title": "Первый осуждение Handed Down в Pakistan’s Jaranwala христианин Enclave атаки",
+      "description": "Pakistani anti-terrorism суд has secured its первый осуждение devastating 2023 Jaranwala riots, sentencing мусульманин мужчина десятилетие в тюрьма для снос two церкви. However, milestone ruling was мгновенно overshadowed",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/14/first-conviction-handed-down-in-pakistans-jaranwala-christian-enclave-attacks/",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "Egyptian полиция арестован four христиане who had been assaulted толпа во время атака на Coptic place богослужение в Egypt, и freed them two дни позже однажды they abandoned complaint they lodged against those who beat them.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/police-arrest-christian-victims-after-attack-on-coptic-church",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-13",
-      "lat": 33.7218,
-      "lng": 73.2029,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "other",
-      "title": "EU urges Pakistan protect религиозный minority girls из вынужден обращения",
-      "description": "Many жертвы are христианки и girls.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/eu-urges-pakistan-to-protect-religious-minority-girls-from-forced-conversions",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-13",
-      "lat": 28.4696,
-      "lng": 77.3311,
-      "country": "India",
-      "city": "Delhi",
-      "type": "other",
-      "title": "Maharashtra Orders Audit христианин Properties",
-      "description": "На июль 8, правительство Indian штат Maharashtra ordered time-bound, statewide audit land parcels owned церкви и христианский миссионер organizations identify illegal encroachments, disputed land titles, и unauthorized tran",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/13/maharashtra-orders-audit-of-christian-properties/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-13",
-      "lat": 29.3019,
-      "lng": 33.0145,
-      "country": "Egypt",
-      "city": "Sinai",
-      "type": "arrest",
-      "title": "Полиция арест христианин жертвы после атака на Coptic церковь",
-      "description": "Egyptian полиция арестован four христиане who had been assaulted толпа во время атака на Coptic place богослужение в Egypt, и freed them two дни позже однажды they abandoned complaint they lodged against those who beat them.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/police-arrest-christian-victims-after-attack-on-coptic-church",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-13",
-      "lat": 33.7822,
-      "lng": 71.746,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "other",
-      "title": "Majority богохульство Cases в Pakistan ‘Fabricated,’ чиновники Say",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – чиновники в Pakistan на прошлой неделе reported parliamentary комитет that majority 333 богохульство cases registered в past five годы в four провинции were fabricated, acc",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/majority-of-blasphemy-cases-in-pakistan-fabricated-officials-say/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-13",
-      "lat": 4.389,
-      "lng": 18.6937,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "other",
-      "title": "Caracas Archdiocese reports Venezuela earthquakes повреждён 25 церкви",
-      "description": "Like so many other buildings в archdiocese, церкви also suffered повреждение. Due danger из structural повреждение, мессы are being held outdoors.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/americas/caracas-archdiocese-reports-venezuela-earthquakes-damaged-25-churches",
       "victims": 0
     }
   ]
