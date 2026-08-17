@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-17T00:29:24.943Z",
+    "lastUpdated": "2026-08-17T06:27:51.119Z",
     "totalEvents": 500
   },
   "events": [
@@ -25,6 +25,19 @@
       "lng": 3.4163,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "arrest",
+      "title": "Nigerian суд запреты исламский полиция из arresting христианин-конверт вера, marriage отказ",
+      "description": "Federal high суд described actions taken against женщина as “flagrant violation” her fundamental rights human dignity и freedom религия.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/nigerian-court-bars-islamic-police-from-arresting-christian-convert-over-faith-forced-marriage",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-16",
+      "lat": 9.341,
+      "lng": 9.4013,
+      "country": "Nigeria",
+      "city": "Plateau",
       "type": "arrest",
       "title": "Nigerian суд запреты исламский полиция из arresting христианин-конверт вера, marriage отказ",
       "description": "Federal high суд described actions taken against женщина as “flagrant violation” her fundamental rights human dignity и freedom религия.",
@@ -6491,19 +6504,6 @@
       "description": "Like so many other buildings в archdiocese, церкви also suffered повреждение. Due danger из structural повреждение, мессы are being held outdoors.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/americas/caracas-archdiocese-reports-venezuela-earthquakes-damaged-25-churches",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-13",
-      "lat": 31.425,
-      "lng": 121.6089,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "arrest",
-      "title": "REPORT: 10,000 христиане арестован в China as Xi Jinping’s коммунист Regime Escalates религиозный Crackdown",
-      "description": "Христиане across коммунист China are being арестован, задержан и effectively “исчезнувший” для worshipping outside штат-controlled церкви, according major investigation Telegraph. post REPORT: 10,000 христиане арестован в C",
-      "source": "newsapi:Thegatewaypundit.com",
-      "url": "https://www.thegatewaypundit.com/2026/07/report-10000-christians-arrested-china-as-xi-jinpings/",
       "victims": 0
     }
   ]
