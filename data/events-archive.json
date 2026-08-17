@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-17T12:17:33.290Z",
+    "lastUpdated": "2026-08-17T18:19:20.838Z",
     "totalEvents": 500
   },
   "events": [
@@ -90,6 +90,19 @@
       "lng": 7.309,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "arrest",
+      "title": "Nigerian суд запреты исламский полиция из arresting христианин-конверт вера, marriage отказ",
+      "description": "Federal high суд described actions taken against женщина as “flagrant violation” her fundamental rights human dignity и freedom религия.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/nigerian-court-bars-islamic-police-from-arresting-christian-convert-over-faith-forced-marriage",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-16",
+      "lat": 12.0515,
+      "lng": 8.4737,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "arrest",
       "title": "Nigerian суд запреты исламский полиция из arresting христианин-конверт вера, marriage отказ",
       "description": "Federal high суд described actions taken against женщина as “flagrant violation” her fundamental rights human dignity и freedom религия.",
@@ -6491,19 +6504,6 @@
       "description": "Церковь leaders applauded Iraq премьер-министр Ali Falih al Zaidi’s call для христиане и business leaders return their homeland but stressed need для reform.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/iraq-s-prime-minister-calls-on-iraqi-christians-abroad-to-return-home",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-13",
-      "lat": 31.4345,
-      "lng": 29.9826,
-      "country": "Egypt",
-      "city": "Alexandria",
-      "type": "arrest",
-      "title": "Полиция арест христианин жертвы после атака на Coptic церковь",
-      "description": "Egyptian полиция арестован four христиане who had been assaulted толпа во время атака на Coptic place богослужение в Egypt, и freed them two дни позже однажды they abandoned complaint they lodged against those who beat them.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/police-arrest-christian-victims-after-attack-on-coptic-church",
       "victims": 0
     }
   ]
