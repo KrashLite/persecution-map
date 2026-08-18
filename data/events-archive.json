@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-18T12:19:42.515Z",
+    "lastUpdated": "2026-08-18T18:18:28.014Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,32 @@
       "description": "RCCG надзиратель urges Nigerians not pressure пастор Adeboye speak against президент Tinubu, stating he will speak когда God instructs him. Read More: https://punchng.com/dont-pressure-adeboye--speak-against-tinubu-rccg-надзиратель/",
       "source": "punchng",
       "url": "https://punchng.com/dont-pressure-adeboye-to-speak-against-tinubu-rccg-overseer/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-18",
+      "lat": 24.8286,
+      "lng": 66.8529,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "murder",
+      "title": "Details Given в Acquittal в убийство христианин Couple в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Pakistan’s Supreme суд на четверг (Aug. 13) provided details на июль 9 acquittal three мусульмане приговорён смерть для 2014 сожжение alive христианин couple. Citing",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/08/details-given-in-acquittal-in-killing-of-christian-couple-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-18",
+      "lat": 6.4598,
+      "lng": 3.278,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "kidnapping",
+      "title": "UN experts raise ‘могила concern’ violence against христианки и girls в Nigeria",
+      "description": "UN experts have raised concerns worsening violence и insecurity в Nigeria, warning that христианки и girls are among those facing elevated угроза убийства, похищение, sexual violence и вынужден marriage.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/un-experts-raise-grave-concern-over-violence-against-christian-women-and-girls-in-nigeria",
       "victims": 0
     },
     {
@@ -6479,32 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/07/15/fulani-extremists-kill-25-christians-after-nigerian-army-ignores-early-warnings/",
       "victims": 25
-    },
-    {
-      "date": "2026-07-14",
-      "lat": 8.9558,
-      "lng": 7.6934,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "arrest",
-      "title": "Don’t reintegrate terror suspects without суд — Nigerian христиане в US tell FG",
-      "description": "CANAN президент, Dr James Fadel, и association's Executive Director, Dr Banjo Olaniyan, used briefing outline group's position на terrorism, религиозный freedom и security reforms. post Don’t reintegrate terror suspects without t",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/07/dont-reintegrate-terror-suspects-without-trial-nigerian-christians-in-us-tell-fg/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-14",
-      "lat": 33.5462,
-      "lng": 72.9678,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "arrest",
-      "title": "Pakistan суд hands rare тюрьма приговор anti-христианин riots",
-      "description": "Anti-terrorism суд приговорён crane driver 10 годы для demolishing церковь во время 2023 толпа атаки, but христианские лидеры warn one осуждение falls far short justice.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-court-hands-rare-prison-sentence-over-anti-christian-riots",
-      "victims": 0
     }
   ]
 }
