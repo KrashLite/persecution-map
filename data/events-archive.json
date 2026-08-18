@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-17T18:19:20.838Z",
+    "lastUpdated": "2026-08-18T00:29:11.685Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,45 @@
       "description": "Обвинения against those арестован have not been disclosed.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/seven-christians-held-incommunicado-by-china",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-17",
+      "lat": 13.3998,
+      "lng": 2.1753,
+      "country": "Niger",
+      "city": "Niamey",
+      "type": "kidnapping",
+      "title": "Похищен U.S. миссионер Pilot Freed в Niger",
+      "description": "Kevin Rideout, American миссионер pilot based в Niamey, Niger, was недавно released после spending nine месяцы в плен. Three armed мужчины похищен Rideout из outside his home на Oct. 21, 2025. Serving в Mission (SIM) USA, North Carolin",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/17/kidnapped-u-s-missionary-pilot-freed-in-niger/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-17",
+      "lat": 4.9144,
+      "lng": -73.8708,
+      "country": "Colombia",
+      "city": "Bogota",
+      "type": "attack",
+      "title": "Священник и монахиня recover sacred hosts из earthquake rubble в Colombia",
+      "description": "Despite danger earthquake’s aftershocks, священник и монахиня в Colombia entered chapel в search hosts that were kept в tabernacle that they found разрушен.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/americas/priest-and-nun-recover-sacred-hosts-from-earthquake-rubble-in-colombia",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-17",
+      "lat": 19.2581,
+      "lng": 72.6563,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "other",
+      "title": "India Delays Problematic FCRA Amendment Bill",
+      "description": "India’s парламент has temporarily delayed action на proposed amendment country’s foreign-funding law that could significantly affect христианские служения и other organizations receiving foreign contributions. India’s Lok Sabha referred t",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/17/india-delays-problematic-fcra-amendment-bill/",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Anti-terrorism суд приговорён crane driver 10 годы для demolishing церковь во время 2023 толпа атаки, but христианские лидеры warn one осуждение falls far short justice.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-court-hands-rare-prison-sentence-over-anti-christian-riots",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-14",
-      "lat": 36.0506,
-      "lng": 43.8115,
-      "country": "Iraq",
-      "city": "Erbil",
-      "type": "other",
-      "title": "Iraq’s премьер-министр calls на Iraqi христиане abroad return home",
-      "description": "Церковь leaders applauded Iraq премьер-министр Ali Falih al Zaidi’s call для христиане и business leaders return their homeland but stressed need для reform.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/iraq-s-prime-minister-calls-on-iraqi-christians-abroad-to-return-home",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-14",
-      "lat": 33.898,
-      "lng": 71.6292,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "arrest",
-      "title": "Pakistan суд hands rare тюрьма приговор anti-христианин riots",
-      "description": "Anti-terrorism суд приговорён crane driver 10 годы для demolishing церковь во время 2023 толпа атаки, but христианские лидеры warn one осуждение falls far short justice.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-court-hands-rare-prison-sentence-over-anti-christian-riots",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-14",
-      "lat": 36.3418,
-      "lng": 43.0894,
-      "country": "Iraq",
-      "city": "Mosul",
-      "type": "other",
-      "title": "Iraq’s премьер-министр calls на Iraqi христиане abroad return home",
-      "description": "Церковь leaders applauded Iraq премьер-министр Ali Falih al Zaidi’s call для христиане и business leaders return their homeland but stressed need для reform.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/iraq-s-prime-minister-calls-on-iraqi-christians-abroad-to-return-home",
       "victims": 0
     }
   ]
