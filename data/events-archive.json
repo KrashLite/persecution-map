@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-18T06:21:10.863Z",
+    "lastUpdated": "2026-08-18T12:19:42.515Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,32 @@
       "description": "Northern Reform Organisation supports Catholic епископы’ call для urgent action на Nigeria’s worsening economic лишения, insecurity, и declining public c Read More: https://punchng.com/northern-group-backs-catholic-епископы-warning--лишения/",
       "source": "punchng",
       "url": "https://punchng.com/northern-group-backs-catholic-bishops-warning-over-hardship/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-18",
+      "lat": 9.1614,
+      "lng": 9.6779,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "kidnapping",
+      "title": "UN experts raise ‘могила concern’ violence against христианки и girls в Nigeria",
+      "description": "UN experts have raised concerns worsening violence и insecurity в Nigeria, warning that христианки и girls are among those facing elevated угроза убийства, похищение, sexual violence и вынужден marriage.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/un-experts-raise-grave-concern-over-violence-against-christian-women-and-girls-in-nigeria",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-18",
+      "lat": 11.9593,
+      "lng": 13.2109,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "Don’t pressure Adeboye speak against Tinubu – RCCG надзиратель",
+      "description": "RCCG надзиратель urges Nigerians not pressure пастор Adeboye speak against президент Tinubu, stating he will speak когда God instructs him. Read More: https://punchng.com/dont-pressure-adeboye--speak-against-tinubu-rccg-надзиратель/",
+      "source": "punchng",
+      "url": "https://punchng.com/dont-pressure-adeboye-to-speak-against-tinubu-rccg-overseer/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     },
     {
@@ -108,6 +134,32 @@
       "description": "Обвинения against those арестован have not been disclosed.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/seven-christians-held-incommunicado-by-china",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-17",
+      "lat": 43.7593,
+      "lng": 87.5954,
+      "country": "China",
+      "city": "Xinjiang",
+      "type": "arrest",
+      "title": "Seven христиане held incommunicado China",
+      "description": "Обвинения against those арестован have not been disclosed.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/seven-christians-held-incommunicado-by-china",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-17",
+      "lat": 21.0712,
+      "lng": 81.8946,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "other",
+      "title": "India Delays Problematic FCRA Amendment Bill",
+      "description": "India’s парламент has temporarily delayed action на proposed amendment country’s foreign-funding law that could significantly affect христианские служения и other organizations receiving foreign contributions. India’s Lok Sabha referred t",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/17/india-delays-problematic-fcra-amendment-bill/",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "Anti-terrorism суд приговорён crane driver 10 годы для demolishing церковь во время 2023 толпа атаки, but христианские лидеры warn one осуждение falls far short justice.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-court-hands-rare-prison-sentence-over-anti-christian-riots",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-14",
-      "lat": 33.1456,
-      "lng": 44.3111,
-      "country": "Iraq",
-      "city": "Baghdad",
-      "type": "other",
-      "title": "Iraq’s премьер-министр calls на Iraqi христиане abroad return home",
-      "description": "Церковь leaders applauded Iraq премьер-министр Ali Falih al Zaidi’s call для христиане и business leaders return their homeland but stressed need для reform.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/iraq-s-prime-minister-calls-on-iraqi-christians-abroad-to-return-home",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-14",
-      "lat": 24.8374,
-      "lng": 67.0477,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "arrest",
-      "title": "Pakistan суд hands rare тюрьма приговор anti-христианин riots",
-      "description": "Anti-terrorism суд приговорён crane driver 10 годы для demolishing церковь во время 2023 толпа атаки, but христианские лидеры warn one осуждение falls far short justice.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-court-hands-rare-prison-sentence-over-anti-christian-riots",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-14",
-      "lat": 35.579,
-      "lng": 44.6061,
-      "country": "Iraq",
-      "city": "Kirkuk",
-      "type": "other",
-      "title": "Iraq’s премьер-министр calls на Iraqi христиане abroad return home",
-      "description": "Церковь leaders applauded Iraq премьер-министр Ali Falih al Zaidi’s call для христиане и business leaders return their homeland but stressed need для reform.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/iraq-s-prime-minister-calls-on-iraqi-christians-abroad-to-return-home",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-14",
-      "lat": 19.6108,
-      "lng": -99.3067,
-      "country": "Mexico",
-      "city": "Mexico City",
-      "type": "other",
-      "title": "2 historic церкви в Mexico город reopen almost 9 годы после earthquake повреждение",
-      "description": "Work was slow и meticulous due complexity повреждение, but two церкви в historic город center Mexico город are сейчас open faithful.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/americas/2-historic-churches-in-mexico-city-reopen-almost-9-years-after-earthquake-damage",
       "victims": 0
     }
   ]
