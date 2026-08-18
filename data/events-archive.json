@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-18T00:29:11.685Z",
+    "lastUpdated": "2026-08-18T06:21:10.863Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-08-18",
+      "lat": 10.6685,
+      "lng": 7.3662,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Northern group backs Catholic епископы’ warning лишения",
+      "description": "Northern Reform Organisation supports Catholic епископы’ call для urgent action на Nigeria’s worsening economic лишения, insecurity, и declining public c Read More: https://punchng.com/northern-group-backs-catholic-епископы-warning--лишения/",
+      "source": "punchng",
+      "url": "https://punchng.com/northern-group-backs-catholic-bishops-warning-over-hardship/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-08-17",
       "lat": 9.2834,
@@ -82,6 +95,19 @@
       "description": "India’s парламент has temporarily delayed action на proposed amendment country’s foreign-funding law that could significantly affect христианские служения и other organizations receiving foreign contributions. India’s Lok Sabha referred t",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/17/india-delays-problematic-fcra-amendment-bill/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-17",
+      "lat": 31.2358,
+      "lng": 121.2392,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "arrest",
+      "title": "Seven христиане held incommunicado China",
+      "description": "Обвинения against those арестован have not been disclosed.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/seven-christians-held-incommunicado-by-china",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Work was slow и meticulous due complexity повреждение, but two церкви в historic город center Mexico город are сейчас open faithful.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/americas/2-historic-churches-in-mexico-city-reopen-almost-9-years-after-earthquake-damage",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-14",
-      "lat": 15.4435,
-      "lng": 32.3324,
-      "country": "Sudan",
-      "city": "Khartoum",
-      "type": "other",
-      "title": "Catholic Relief Services receive $235 million в food aid для Sudan, Ethiopia",
-      "description": "“More than 110,000 metric tons U.S.-grown agricultural commodities” will be delivered под agreement в principle between Catholic Relief Services и U.S. департамент Agriculture.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/catholic-relief-services-food-aid-for-sudan-ethiopia",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-14",
-      "lat": 31.4077,
-      "lng": 74.3611,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "arrest",
-      "title": "Pakistan суд hands rare тюрьма приговор anti-христианин riots",
-      "description": "Anti-terrorism суд приговорён crane driver 10 годы для demolishing церковь во время 2023 толпа атаки, but христианские лидеры warn one осуждение falls far short justice.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistan-court-hands-rare-prison-sentence-over-anti-christian-riots",
       "victims": 0
     }
   ]
