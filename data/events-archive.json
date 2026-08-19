@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-19T12:19:26.921Z",
+    "lastUpdated": "2026-08-19T18:15:43.109Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "Вертолёт carrying several tourists crashed среда в Kenya's Samburu округ, north столица, Nairobi, убийство all those на board, aviation source told AFP. post Tourist вертолёт crashes в Kenya, no выжившие appeared первый на V",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/08/tourist-helicopter-crashes-in-kenya-no-survivors/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-19",
+      "lat": 14.6617,
+      "lng": 120.9364,
+      "country": "Philippines",
+      "city": "Manila",
+      "type": "attack",
+      "title": "Второй Philippine школа стрельба в 2 месяцы hits Jesuit университет",
+      "description": "Catholic Educational Association Philippines urged public not circulate images атака, saying grieving школа community stands behind every post.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/catholics-in-the-philippines-mourn-2-students-killed-in-catholic-school-shooting",
       "victims": 0
     },
     {
@@ -259,6 +272,32 @@
       "lng": 7.735,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "other",
+      "title": "Catholic Relief Services receives share $1.4 billion в aid вера‑based groups",
+      "description": "Funding will help improve больницы, клиники, и health networks в rural parts Cameroon, Liberia, и Nigeria, working as part group вера-based organizations, CRS представитель said.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/catholic-relief-services-receives-share-aid-to-faith-based-groups",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-18",
+      "lat": 28.7005,
+      "lng": 77.2909,
+      "country": "India",
+      "city": "Delhi",
+      "type": "other",
+      "title": "Церковь в India Opposes Singing Controversial National Song",
+      "description": "На Aug. 13, Nagaland баптистская церковь совет (NBCC) said it opposed directives requiring singing or playing индус-nationalist song “Vande Mataram” чиновник events в India. NBCC, из majority христианин штат Nagaland, joi",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/18/church-in-india-opposes-singing-of-controversial-national-song/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-18",
+      "lat": 10.3572,
+      "lng": 7.3733,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "other",
       "title": "Catholic Relief Services receives share $1.4 billion в aid вера‑based groups",
       "description": "Funding will help improve больницы, клиники, и health networks в rural parts Cameroon, Liberia, и Nigeria, working as part group вера-based organizations, CRS представитель said.",
@@ -6465,45 +6504,6 @@
       "description": "United штаты House представители has approved amendment withhold 100 per cent US assistance Nigeria until country meets specific conditions address violence и protect христианские общины. post US House backs amend",
       "source": "newsapi:Vanguard",
       "url": "https://www.vanguardngr.com/2026/07/us-house-backs-amendment-to-withhold-aid-to-nigeria-over-christian-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-16",
-      "lat": 25.0147,
-      "lng": 66.9385,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "other",
-      "title": "Pakistan: 12 годы на и still no justice для young couple burnt alive в brick kiln",
-      "description": "Reacting суд's ruling, епископ Shukardin, президент Catholic епископы' Conference Pakistan, said: \"Shahzad и his wife, Shama, who was pregnant, were thrown в fire alive. в end, what is result all these усилия",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/07/16/pakistan-12-years-on-and-still-no-justice-for-young-couple-burnt-alive-in-a-brick-kiln/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-16",
-      "lat": 11.6522,
-      "lng": 12.9251,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "US House backs Nigeria aid freeze христианин гонение concerns",
-      "description": "US House представители has approved measures freeze all aid Nigeria, citing concerns христианин гонение и правительство’s failure Read More: https://punchng.com/us-house-backs-nigeria-aid-freeze--христианин-гонение-c",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-house-backs-nigeria-aid-freeze-over-christian-persecution-concerns/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-16",
-      "lat": 10.6257,
-      "lng": 7.3943,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "US House votes withhold 100% aid Nigeria христианин гонение",
-      "description": "US House представители has voted withhold 100% aid Nigeria alleged христианин гонение. Find out what this means для US-Nigeria re Read More: https://punchng.com/us-house-votes--withhold-100--aid--nigeria--christia",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-house-votes-to-withhold-100-of-aid-to-nigeria-over-christian-persecution/",
       "victims": 0
     }
   ]
