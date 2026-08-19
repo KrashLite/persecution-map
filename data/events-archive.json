@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-19T06:22:07.617Z",
+    "lastUpdated": "2026-08-19T12:19:26.921Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-08-19",
+      "lat": 4.6273,
+      "lng": 18.399,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "Tourist вертолёт crashes в Kenya, no выжившие",
+      "description": "Вертолёт carrying several tourists crashed среда в Kenya's Samburu округ, north столица, Nairobi, убийство all those на board, aviation source told AFP. post Tourist вертолёт crashes в Kenya, no выжившие appeared первый на V",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/08/tourist-helicopter-crashes-in-kenya-no-survivors/",
+      "victims": 0
+    },
     {
       "date": "2026-08-18",
       "lat": 10.6685,
@@ -202,6 +215,58 @@
       "victims": 0
     },
     {
+      "date": "2026-08-18",
+      "lat": 33.8931,
+      "lng": 73.1844,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "murder",
+      "title": "Details Given в Acquittal в убийство христианин Couple в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Pakistan’s Supreme суд на четверг (Aug. 13) provided details на июль 9 acquittal three мусульмане приговорён смерть для 2014 сожжение alive христианин couple. Citing",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/08/details-given-in-acquittal-in-killing-of-christian-couple-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-18",
+      "lat": 10.4538,
+      "lng": 7.5891,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "kidnapping",
+      "title": "UN experts raise ‘могила concern’ violence against христианки и girls в Nigeria",
+      "description": "UN experts have raised concerns worsening violence и insecurity в Nigeria, warning that христианки и girls are among those facing elevated угроза убийства, похищение, sexual violence и вынужден marriage.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/un-experts-raise-grave-concern-over-violence-against-christian-women-and-girls-in-nigeria",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-18",
+      "lat": 19.2244,
+      "lng": 72.9446,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "other",
+      "title": "Церковь в India Opposes Singing Controversial National Song",
+      "description": "На Aug. 13, Nagaland баптистская церковь совет (NBCC) said it opposed directives requiring singing or playing индус-nationalist song “Vande Mataram” чиновник events в India. NBCC, из majority христианин штат Nagaland, joi",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/18/church-in-india-opposes-singing-of-controversial-national-song/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-18",
+      "lat": 9.2799,
+      "lng": 7.735,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Catholic Relief Services receives share $1.4 billion в aid вера‑based groups",
+      "description": "Funding will help improve больницы, клиники, и health networks в rural parts Cameroon, Liberia, и Nigeria, working as part group вера-based organizations, CRS представитель said.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/catholic-relief-services-receives-share-aid-to-faith-based-groups",
+      "victims": 0
+    },
+    {
       "date": "2026-08-17",
       "lat": 9.2834,
       "lng": 7.2876,
@@ -350,6 +415,19 @@
       "lng": 85.2807,
       "country": "India",
       "city": "Odisha",
+      "type": "other",
+      "title": "India Delays Problematic FCRA Amendment Bill",
+      "description": "India’s парламент has temporarily delayed action на proposed amendment country’s foreign-funding law that could significantly affect христианские служения и other organizations receiving foreign contributions. India’s Lok Sabha referred t",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/17/india-delays-problematic-fcra-amendment-bill/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-17",
+      "lat": 26.9852,
+      "lng": 81.0859,
+      "country": "India",
+      "city": "Uttar Pradesh",
       "type": "other",
       "title": "India Delays Problematic FCRA Amendment Bill",
       "description": "India’s парламент has temporarily delayed action на proposed amendment country’s foreign-funding law that could significantly affect христианские служения и other organizations receiving foreign contributions. India’s Lok Sabha referred t",
@@ -6426,84 +6504,6 @@
       "description": "US House представители has voted withhold 100% aid Nigeria alleged христианин гонение. Find out what this means для US-Nigeria re Read More: https://punchng.com/us-house-votes--withhold-100--aid--nigeria--christia",
       "source": "newsapi:The Punch",
       "url": "https://punchng.com/us-house-votes-to-withhold-100-of-aid-to-nigeria-over-christian-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-16",
-      "lat": 11.8956,
-      "lng": 13.2472,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "US House backs amendment withhold aid Nigeria ‘христианин гонение’",
-      "description": "United штаты House представители has approved amendment withhold 100 per cent US assistance Nigeria until country meets specific conditions address violence и protect христианские общины. post US House backs amend",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/us-house-backs-amendment-to-withhold-aid-to-nigeria-over-christian-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-16",
-      "lat": 11.8496,
-      "lng": 12.9113,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "US House votes withhold 100% aid Nigeria христианин гонение",
-      "description": "US House представители has voted withhold 100% aid Nigeria alleged христианин гонение. Find out what this means для US-Nigeria re Read More: https://punchng.com/us-house-votes--withhold-100--aid--nigeria--christia",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-house-votes-to-withhold-100-of-aid-to-nigeria-over-christian-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-15",
-      "lat": 9.0504,
-      "lng": 7.3654,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Nigerian священник в US dies suicide после order return home",
-      "description": "Nigerian священник в US погиб suicide после being ordered return home, fearing для his life. Learn more о tragic смерть Father Benjamin Read More: https://punchng.com/nigerian-священник-в-us-dies--suicide-после-order--return-hom",
-      "source": "punchng",
-      "url": "https://punchng.com/nigerian-priest-in-us-dies-by-suicide-after-order-to-return-home/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-15",
-      "lat": 9.1823,
-      "lng": 9.7643,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Фулани экстремисты Kill 25 христиане после Nigerian армия Ignores рано Warnings",
-      "description": "Least 25 христиане, including 2-месяц-old, were убит в separate атаки во время выходные в Nigeria’s Middle Belt регион. первый атака occurred на суббота ночь, июль 11, в Kum и Wereng-Comp communities Ryom округ в Platea",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/15/fulani-extremists-kill-25-christians-after-nigerian-army-ignores-early-warnings/",
-      "victims": 25
-    },
-    {
-      "date": "2026-07-15",
-      "lat": 24.9782,
-      "lng": 67.2472,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "murder",
-      "title": "Суд Acquits мужчины осуждён убийство христианин Couple в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Pakistan’s Supreme суд на прошлой неделе overturned смертные приговоры remaining three мужчины осуждён в 2014 самосуд христианин couple сожжён alive после being falsely ac",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/court-acquits-men-convicted-of-killing-christian-couple-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-15",
-      "lat": 10.6139,
-      "lng": 7.5994,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "discrimination",
-      "title": "Protect христиане из атаки, U.S. чиновник urges Nigeria",
-      "description": "Ebunoluwa Sessou United штаты Assistant Secretary штат для African Affairs, Frank Garcia, has urged Nigerian правительство intensify усилия protect христианские общины из атаки и ensure safe return internally displa",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/07/protect-christians-from-attacks-u-s-official-urges-nigeria/",
       "victims": 0
     }
   ]
