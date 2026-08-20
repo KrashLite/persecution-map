@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-20T00:30:00.031Z",
+    "lastUpdated": "2026-08-20T06:22:54.760Z",
     "totalEvents": 500
   },
   "events": [
@@ -56,6 +56,19 @@
       "description": "Around 11.m. на Feb. 26, толпа nearly 200 индусы surrounded Faizal’s house в central Indian штат Chhattisgarh. They угрожали him, demanding that he renounce Jesus и reconvert индуизм. когда Faizal отказано abandon his вера, th",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/19/finding-shelter-after-the-storm/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-19",
+      "lat": 31.2949,
+      "lng": 121.4011,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "arrest",
+      "title": "Petition Launched Bring Home пастор заключён в China",
+      "description": "ChinaAid, international organization supporting преследуемый христиане inside China, has launched petition и advocacy кампания bring пастор John Cao back his home в U.S. пастор John has been заключён в China для seven годы для hi",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/19/petition-launched-to-bring-home-pastor-imprisoned-in-china/",
       "victims": 0
     },
     {
@@ -376,6 +389,32 @@
       "lng": 116.448,
       "country": "China",
       "city": "Beijing",
+      "type": "arrest",
+      "title": "' party is в обвинение everything,' freed пастор says China's crackdown на религия",
+      "description": "China недавно took rare step releasing detainee United штаты' request. пастор Ezra Jin Mingri was picked up Chinese власти последний октябрь, one dozens христиане targeted Chinese коммунист Party, which only allows au",
+      "source": "newsapi:PBS",
+      "url": "https://www.pbs.org/newshour/show/the-party-is-in-charge-of-everything-freed-pastor-says-of-chinas-crackdown-on-religion",
+      "victims": 24
+    },
+    {
+      "date": "2026-08-18",
+      "lat": 9.1551,
+      "lng": 9.3399,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "US lawmaker opposes lifting Nigeria’s CPC status после плато атака",
+      "description": "Following deadly плато атака, US lawmaker opposes lifting Nigeria’s Country Particular Concern (CPC) status, citing ongoing христианин гонение Read More: https://punchng.com/us-lawmaker-opposes-lifting-nigerias-cpc-status-после-плато-",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-lawmaker-opposes-lifting-nigerias-cpc-status-after-plateau-attack/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-18",
+      "lat": 23.325,
+      "lng": 113.6882,
+      "country": "China",
+      "city": "Guangdong",
       "type": "arrest",
       "title": "' party is в обвинение everything,' freed пастор says China's crackdown на религия",
       "description": "China недавно took rare step releasing detainee United штаты' request. пастор Ezra Jin Mingri was picked up Chinese власти последний октябрь, one dozens христиане targeted Chinese коммунист Party, which only allows au",
@@ -6465,45 +6504,6 @@
       "description": "US House представители has approved measures freeze all aid Nigeria, citing concerns христианин гонение и правительство’s failure Read More: https://punchng.com/us-house-backs-nigeria-aid-freeze--христианин-гонение-c",
       "source": "newsapi:The Punch",
       "url": "https://punchng.com/us-house-backs-nigeria-aid-freeze-over-christian-persecution-concerns/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-16",
-      "lat": 9.1996,
-      "lng": 7.5775,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "Nigeria, Nicaragua, Syria, India cited в index rising христианин гонение",
-      "description": "Религиозный nationalism, штат control, terrorism, authoritarianism, и limits на женщины are among drivers rising гонение globally, International христианин Concern (ICC) report said.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/nigeria-nicaragua-syria-india-cited-in-index-of-rising-christian-persecution",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-16",
-      "lat": 11.964,
-      "lng": 8.8238,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "US House backs amendment withhold aid Nigeria ‘христианин гонение’",
-      "description": "United штаты House представители has approved amendment withhold 100 per cent US assistance Nigeria until country meets specific conditions address violence и protect христианские общины. post US House backs amend",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/us-house-backs-amendment-to-withhold-aid-to-nigeria-over-christian-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-16",
-      "lat": 31.4176,
-      "lng": 74.2104,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "other",
-      "title": "Pakistan: 12 годы на и still no justice для young couple burnt alive в brick kiln",
-      "description": "Reacting суд's ruling, епископ Shukardin, президент Catholic епископы' Conference Pakistan, said: \"Shahzad и his wife, Shama, who was pregnant, were thrown в fire alive. в end, what is result all these усилия",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/07/16/pakistan-12-years-on-and-still-no-justice-for-young-couple-burnt-alive-in-a-brick-kiln/",
       "victims": 0
     }
   ]
