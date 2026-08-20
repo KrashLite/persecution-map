@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-20T06:22:54.760Z",
+    "lastUpdated": "2026-08-20T12:21:10.185Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-08-20",
+      "lat": 10.9631,
+      "lng": 106.7537,
+      "country": "Vietnam",
+      "city": "Ho Chi Minh City",
+      "type": "arrest",
+      "title": "Vietnamese пастор приговорён 7 годы в тюрьма",
+      "description": "Ethnic minority христиане are often accused being политический agitators.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/vietnamese-pastor-sentenced-to-over-7-years-in-jail",
+      "victims": 0
+    },
     {
       "date": "2026-08-19",
       "lat": 4.6273,
@@ -69,6 +82,19 @@
       "description": "ChinaAid, international organization supporting преследуемый христиане inside China, has launched petition и advocacy кампания bring пастор John Cao back his home в U.S. пастор John has been заключён в China для seven годы для hi",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/19/petition-launched-to-bring-home-pastor-imprisoned-in-china/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-19",
+      "lat": 26.8536,
+      "lng": 80.7507,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "discrimination",
+      "title": "Finding Shelter после Storm",
+      "description": "Around 11.m. на Feb. 26, толпа nearly 200 индусы surrounded Faizal’s house в central Indian штат Chhattisgarh. They угрожали him, demanding that he renounce Jesus и reconvert индуизм. когда Faizal отказано abandon his вера, th",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/19/finding-shelter-after-the-storm/",
       "victims": 0
     },
     {
@@ -423,6 +449,32 @@
       "victims": 24
     },
     {
+      "date": "2026-08-18",
+      "lat": 33.8004,
+      "lng": 71.2954,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "murder",
+      "title": "Details Given в Acquittal в убийство христианин Couple в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Pakistan’s Supreme суд на четверг (Aug. 13) provided details на июль 9 acquittal three мусульмане приговорён смерть для 2014 сожжение alive христианин couple. Citing",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/08/details-given-in-acquittal-in-killing-of-christian-couple-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-18",
+      "lat": 8.9051,
+      "lng": 7.2423,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "US lawmaker opposes lifting Nigeria’s CPC status после плато атака",
+      "description": "Following deadly плато атака, US lawmaker opposes lifting Nigeria’s Country Particular Concern (CPC) status, citing ongoing христианин гонение Read More: https://punchng.com/us-lawmaker-opposes-lifting-nigerias-cpc-status-после-плато-",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-lawmaker-opposes-lifting-nigerias-cpc-status-after-plateau-attack/",
+      "victims": 0
+    },
+    {
       "date": "2026-08-17",
       "lat": 9.2834,
       "lng": 7.2876,
@@ -649,6 +701,19 @@
       "lng": 8.4737,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "arrest",
+      "title": "Nigerian суд запреты исламский полиция из arresting христианин-конверт вера, marriage отказ",
+      "description": "Federal high суд described actions taken against женщина as “flagrant violation” her fundamental rights human dignity и freedom религия.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/nigerian-court-bars-islamic-police-from-arresting-christian-convert-over-faith-forced-marriage",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-16",
+      "lat": 10.7456,
+      "lng": 7.2318,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "arrest",
       "title": "Nigerian суд запреты исламский полиция из arresting христианин-конверт вера, marriage отказ",
       "description": "Federal high суд described actions taken against женщина as “flagrant violation” her fundamental rights human dignity и freedom религия.",
@@ -6439,71 +6504,6 @@
       "description": "После 14 годы silence, Byzantine hymns в Syria’s central посёлок Ghassaniyeh bear свидетель return liturgical celebrations.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/christians-celebrate-first-divine-liturgy-in-central-syrian-town-since-war-began",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-16",
-      "lat": 6.572,
-      "lng": 3.3512,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "US House backs Nigeria aid freeze христианин гонение concerns",
-      "description": "US House представители has approved measures freeze all aid Nigeria, citing concerns христианин гонение и правительство’s failure Read More: https://punchng.com/us-house-backs-nigeria-aid-freeze--христианин-гонение-c",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-house-backs-nigeria-aid-freeze-over-christian-persecution-concerns/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-16",
-      "lat": 6.4449,
-      "lng": 3.4093,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "US House votes withhold 100% aid Nigeria христианин гонение",
-      "description": "US House представители has voted withhold 100% aid Nigeria alleged христианин гонение. Find out what this means для US-Nigeria re Read More: https://punchng.com/us-house-votes--withhold-100--aid--nigeria--christia",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-house-votes-to-withhold-100-of-aid-to-nigeria-over-christian-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-16",
-      "lat": 10.3131,
-      "lng": 7.4219,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Nigeria, Nicaragua, Syria, India cited в index rising христианин гонение",
-      "description": "Религиозный nationalism, штат control, terrorism, authoritarianism, и limits на женщины are among drivers rising гонение globally, International христианин Concern (ICC) report said.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/nigeria-nicaragua-syria-india-cited-in-index-of-rising-christian-persecution",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-16",
-      "lat": 10.5094,
-      "lng": 7.6342,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "US House backs amendment withhold aid Nigeria ‘христианин гонение’",
-      "description": "United штаты House представители has approved amendment withhold 100 per cent US assistance Nigeria until country meets specific conditions address violence и protect христианские общины. post US House backs amend",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/us-house-backs-amendment-to-withhold-aid-to-nigeria-over-christian-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-16",
-      "lat": 9.447,
-      "lng": 9.7398,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "US House backs Nigeria aid freeze христианин гонение concerns",
-      "description": "US House представители has approved measures freeze all aid Nigeria, citing concerns христианин гонение и правительство’s failure Read More: https://punchng.com/us-house-backs-nigeria-aid-freeze--христианин-гонение-c",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-house-backs-nigeria-aid-freeze-over-christian-persecution-concerns/",
       "victims": 0
     }
   ]
