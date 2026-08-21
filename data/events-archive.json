@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-21T06:23:27.047Z",
+    "lastUpdated": "2026-08-21T12:20:43.455Z",
     "totalEvents": 500
   },
   "events": [
@@ -163,6 +163,32 @@
       "victims": 0
     },
     {
+      "date": "2026-08-20",
+      "lat": 11.748,
+      "lng": 12.9159,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "kidnapping",
+      "title": "ADF Defends христиане Against исламский полиция в Nigeria",
+      "description": "Nigerian полиция арестован 22-год-old женщина для converting христианство из ислам. Though Federal High суд ruled в her favor, христианская семья that helped her is facing false обвинения похищение. в 2025, “Sarah” fled из her home",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/20/adf-defends-christians-against-islamic-police-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-20",
+      "lat": 24.8725,
+      "lng": 67.2279,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "other",
+      "title": "Pakistani христиане Remain на Edge Even as богохульство Cases Decline",
+      "description": "Толпа hundreds gathered outside христианская семья’s home в Karachi в прошлом месяце после богохульство allegations began spread, but crowd dispersed после полиция intervened. initial inquiry has since found underlying allegation be false.",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/20/pakistani-christians-remain-on-edge-even-as-blasphemy-cases-decline/",
+      "victims": 150
+    },
+    {
       "date": "2026-08-19",
       "lat": 4.6273,
       "lng": 18.399,
@@ -290,6 +316,19 @@
       "description": "Around 11.m. на Feb. 26, толпа nearly 200 индусы surrounded Faizal’s house в central Indian штат Chhattisgarh. They угрожали him, demanding that he renounce Jesus и reconvert индуизм. когда Faizal отказано abandon his вера, th",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/19/finding-shelter-after-the-storm/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-19",
+      "lat": 43.8693,
+      "lng": 87.7344,
+      "country": "China",
+      "city": "Xinjiang",
+      "type": "arrest",
+      "title": "Petition Launched Bring Home пастор заключён в China",
+      "description": "ChinaAid, international organization supporting преследуемый христиане inside China, has launched petition и advocacy кампания bring пастор John Cao back his home в U.S. пастор John has been заключён в China для seven годы для hi",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/19/petition-launched-to-bring-home-pastor-imprisoned-in-china/",
       "victims": 0
     },
     {
@@ -720,6 +759,32 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/catholic-relief-services-receives-share-aid-to-faith-based-groups",
       "victims": 0
+    },
+    {
+      "date": "2026-08-18",
+      "lat": 6.7589,
+      "lng": 3.441,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Фулани ополчения Kill 24 христиане в губернатор Mutfwang’s округ",
+      "description": "Least 24 христиане were убит в overnight атака на Bin Mper community в Kombun район Mangu округ, плато штат, округ губернатор Caleb Mutfwang, according local community leaders, as семьи gathered вторник bury victi",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/18/fulani-militias-kill-24-christians-in-governor-mutfwangs-county/",
+      "victims": 24
+    },
+    {
+      "date": "2026-08-18",
+      "lat": 43.6268,
+      "lng": 87.3993,
+      "country": "China",
+      "city": "Xinjiang",
+      "type": "arrest",
+      "title": "' party is в обвинение everything,' freed пастор says China's crackdown на религия",
+      "description": "China недавно took rare step releasing detainee United штаты' request. пастор Ezra Jin Mingri was picked up Chinese власти последний октябрь, one dozens христиане targeted Chinese коммунист Party, which only allows au",
+      "source": "newsapi:PBS",
+      "url": "https://www.pbs.org/newshour/show/the-party-is-in-charge-of-everything-freed-pastor-says-of-chinas-crackdown-on-religion",
+      "victims": 24
     },
     {
       "date": "2026-08-17",
@@ -6439,71 +6504,6 @@
       "description": "Scottish teacher fights дискриминация, христиане face heightened атаки в Egypt, Filipino епископы pledge end mental health stigma, и more в на этой неделе’s Catholic world news roundup.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/europe/scottish-teacher-takes-legal-action-after-dismissal-over-pro-life-views",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-17",
-      "lat": 34.0789,
-      "lng": 71.6579,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "kidnapping",
-      "title": "European парламент Stands с Pakistani Girl Fighting для Justice",
-      "description": "European парламент condemned Pakistan на июль 7 для its violation human rights, citing 13-год-old христианин Pakistani girl who is still fighting для her freedom из 30-год-old мусульманин мужчина who похищен her. Maria Shahbaz was похищен",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/17/european-parliament-stands-with-pakistani-girl-fighting-for-justice/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-17",
-      "lat": 11.9808,
-      "lng": 8.6227,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "US конгресс okays 50% cut в aid Nigeria христианин гонение",
-      "description": "United штаты House представители has approved 50 percent cut в assistance Nigeria what it described as federal правительство’s failure protect христианские общины из religiously-motivated violence. post US конгресс ok",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/us-congress-okays-50-cut-in-aid-to-nigeria-over-christian-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-17",
-      "lat": 31.0741,
-      "lng": 30.0884,
-      "country": "Egypt",
-      "city": "Alexandria",
-      "type": "discrimination",
-      "title": "Scottish teacher takes legal action после dismissal pro-life views",
-      "description": "Scottish teacher fights дискриминация, христиане face heightened атаки в Egypt, Filipino епископы pledge end mental health stigma, и more в на этой неделе’s Catholic world news roundup.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/europe/scottish-teacher-takes-legal-action-after-dismissal-over-pro-life-views",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-17",
-      "lat": 6.3223,
-      "lng": 3.5683,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "US конгресс okays 50% cut в aid Nigeria христианин гонение",
-      "description": "United штаты House представители has approved 50 percent cut в assistance Nigeria what it described as federal правительство’s failure protect христианские общины из religiously-motivated violence. post US конгресс ok",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/us-congress-okays-50-cut-in-aid-to-nigeria-over-christian-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-17",
-      "lat": 25.0329,
-      "lng": 66.8138,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "kidnapping",
-      "title": "European парламент Stands с Pakistani Girl Fighting для Justice",
-      "description": "European парламент condemned Pakistan на июль 7 для its violation human rights, citing 13-год-old христианин Pakistani girl who is still fighting для her freedom из 30-год-old мусульманин мужчина who похищен her. Maria Shahbaz was похищен",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/17/european-parliament-stands-with-pakistani-girl-fighting-for-justice/",
       "victims": 0
     }
   ]
