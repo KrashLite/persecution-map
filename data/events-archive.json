@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-20T18:20:13.482Z",
+    "lastUpdated": "2026-08-21T00:32:07.378Z",
     "totalEvents": 500
   },
   "events": [
@@ -56,6 +56,45 @@
       "description": "Ethnic minority христиане are often accused being политический agitators.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/vietnamese-pastor-sentenced-to-over-7-years-in-jail",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-20",
+      "lat": 11.9402,
+      "lng": 8.5731,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "kidnapping",
+      "title": "ADF Defends христиане Against исламский полиция в Nigeria",
+      "description": "Nigerian полиция арестован 22-год-old женщина для converting христианство из ислам. Though Federal High суд ruled в her favor, христианская семья that helped her is facing false обвинения похищение. в 2025, “Sarah” fled из her home",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/20/adf-defends-christians-against-islamic-police-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-20",
+      "lat": 33.5219,
+      "lng": 72.9922,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "other",
+      "title": "Pakistani христиане Remain на Edge Even as богохульство Cases Decline",
+      "description": "Толпа hundreds gathered outside христианская семья’s home в Karachi в прошлом месяце после богохульство allegations began spread, but crowd dispersed после полиция intervened. initial inquiry has since found underlying allegation be false.",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/20/pakistani-christians-remain-on-edge-even-as-blasphemy-cases-decline/",
+      "victims": 150
+    },
+    {
+      "date": "2026-08-20",
+      "lat": 28.4552,
+      "lng": 76.9724,
+      "country": "India",
+      "city": "Delhi",
+      "type": "other",
+      "title": "Catholic епископы в India reject ‘христианин conspiracy’ claim funds bill",
+      "description": "Senior чиновник Catholic епископы’ Conference India challenged critics prove allegations that церковь engineered stalling bill tightening controls на foreign donations.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-bishops-in-india-reject-christian-conspiracy-claim-over-funds-bill",
       "victims": 0
     },
     {
@@ -155,6 +194,19 @@
       "lng": 72.9161,
       "country": "India",
       "city": "Mumbai",
+      "type": "discrimination",
+      "title": "Finding Shelter после Storm",
+      "description": "Around 11.m. на Feb. 26, толпа nearly 200 индусы surrounded Faizal’s house в central Indian штат Chhattisgarh. They угрожали him, demanding that he renounce Jesus и reconvert индуизм. когда Faizal отказано abandon his вера, th",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/19/finding-shelter-after-the-storm/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-19",
+      "lat": 21.3394,
+      "lng": 81.9959,
+      "country": "India",
+      "city": "Chhattisgarh",
       "type": "discrimination",
       "title": "Finding Shelter после Storm",
       "description": "Around 11.m. на Feb. 26, толпа nearly 200 индусы surrounded Faizal’s house в central Indian штат Chhattisgarh. They угрожали him, demanding that he renounce Jesus и reconvert индуизм. когда Faizal отказано abandon his вера, th",
@@ -551,6 +603,19 @@
       "source": "newsapi:The Punch",
       "url": "https://punchng.com/us-lawmaker-opposes-lifting-nigerias-cpc-status-after-plateau-attack/",
       "victims": 0
+    },
+    {
+      "date": "2026-08-18",
+      "lat": 31.2458,
+      "lng": 121.6408,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "arrest",
+      "title": "' party is в обвинение everything,' freed пастор says China's crackdown на религия",
+      "description": "China недавно took rare step releasing detainee United штаты' request. пастор Ezra Jin Mingri was picked up Chinese власти последний октябрь, one dozens христиане targeted Chinese коммунист Party, which only allows au",
+      "source": "newsapi:PBS",
+      "url": "https://www.pbs.org/newshour/show/the-party-is-in-charge-of-everything-freed-pastor-says-of-chinas-crackdown-on-religion",
+      "victims": 24
     },
     {
       "date": "2026-08-17",
@@ -6439,71 +6504,6 @@
       "description": "Религиозный nationalism, штат control, terrorism, authoritarianism, и limits на женщины are among drivers rising гонение globally, International христианин Concern (ICC) report said.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/nigeria-nicaragua-syria-india-cited-in-index-of-rising-christian-persecution",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-16",
-      "lat": -4.0711,
-      "lng": 39.4711,
-      "country": "Kenya",
-      "city": "Mombasa",
-      "type": "other",
-      "title": "Young Kenyan diocese faces испытание власть as its епископ suspends nearly one в six священники",
-      "description": "Underlying dispute also touches на perennial problem в церковь governance: reform can be necessary и still generate сопротивление. епископ seeking impose greater transparency май encounter suspicion из those who fear excessive centralizati",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/07/15/a-young-kenyan-diocese-faces-a-test-of-authority-as-its-bishop-suspends-nearly-one-in-six-priests/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-16",
-      "lat": 9.0595,
-      "lng": 9.6766,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Nigeria, Nicaragua, Syria, India cited в index rising христианин гонение",
-      "description": "Религиозный nationalism, штат control, terrorism, authoritarianism, и limits на женщины are among drivers rising гонение globally, International христианин Concern (ICC) report said.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/nigeria-nicaragua-syria-india-cited-in-index-of-rising-christian-persecution",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-16",
-      "lat": -1.306,
-      "lng": 36.7463,
-      "country": "Kenya",
-      "city": "Nairobi",
-      "type": "other",
-      "title": "Young Kenyan diocese faces испытание власть as its епископ suspends nearly one в six священники",
-      "description": "Underlying dispute also touches на perennial problem в церковь governance: reform can be necessary и still generate сопротивление. епископ seeking impose greater transparency май encounter suspicion из those who fear excessive centralizati",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/07/15/a-young-kenyan-diocese-faces-a-test-of-authority-as-its-bishop-suspends-nearly-one-in-six-priests/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-16",
-      "lat": -1.1486,
-      "lng": 36.7777,
-      "country": "Kenya",
-      "city": "Nairobi",
-      "type": "other",
-      "title": "Kenya епископ suspends 7 священники, announces new clergy accountability measures",
-      "description": "В recent pastoral letter, епископ Hieronymus Emusugut Joya Diocese Maralal в northern Kenya, says he conducted assessments и financial до making his decisions.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/kenya-bishop-suspends-7-priests-announces-new-clergy-accountability-measures",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-16",
-      "lat": 34.8254,
-      "lng": 36.5827,
-      "country": "Syria",
-      "city": "Homs",
-      "type": "other",
-      "title": "Христиане celebrate первый Divine литургия в central Syrian посёлок since war began",
-      "description": "После 14 годы silence, Byzantine hymns в Syria’s central посёлок Ghassaniyeh bear свидетель return liturgical celebrations.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/christians-celebrate-first-divine-liturgy-in-central-syrian-town-since-war-began",
       "victims": 0
     }
   ]
