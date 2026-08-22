@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-22T06:18:38.893Z",
+    "lastUpdated": "2026-08-22T12:14:11.342Z",
     "totalEvents": 500
   },
   "events": [
@@ -342,6 +342,32 @@
       "description": "Lawmaker backed штат департамент’s call для Federal правительство protect христианские общины после плато атака, saying it was commitment Abuja made. post We cannot remove Nigeria’s CPC tag — US Congressman Moore insists appear",
       "source": "newsapi:Vanguard",
       "url": "https://www.vanguardngr.com/2026/08/we-cannot-remove-nigerias-cpc-tag-us-congressman-moore-insists/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-20",
+      "lat": 9.0879,
+      "lng": 7.615,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Христианин старейшины back US concerns гонение, Nigeria’s security crisis",
+      "description": "— Says lives христиане, мусульмане, traditional прихожане matter Chimaibi Nwaiwu NNEWI — христианин старейшины и Professionals Consultative совет Nigeria (CEPCCN) has expressed support для concerns raised United штаты saf",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/08/christian-elders-back-us-concerns-over-persecution-nigerias-security-crisis/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-20",
+      "lat": 21.3424,
+      "lng": 81.8557,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Catholic епископы в India reject ‘христианин conspiracy’ claim funds bill",
+      "description": "Senior чиновник Catholic епископы’ Conference India challenged critics prove allegations that церковь engineered stalling bill tightening controls на foreign donations.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-bishops-in-india-reject-christian-conspiracy-claim-over-funds-bill",
       "victims": 0
     },
     {
@@ -6479,32 +6505,6 @@
       "source": "aleteia",
       "url": "https://aleteia.org/2026/07/19/a-very-short-catholic-history-of-wine/",
       "victims": 6
-    },
-    {
-      "date": "2026-07-18",
-      "lat": 4.5039,
-      "lng": 18.6019,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "other",
-      "title": "How partnership between African церкви is helping communities see снова",
-      "description": "Для millions взрослые в low-income и rural areas, poor vision affects everything из earning living reading Scripture. христианин сегодня spoke с Rev Irene Akuku и Julius Mujuni о why церкви have become key partners в expanding acc",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/how-a-partnership-between-african-churches-is-helping-communities-see-again",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-18",
-      "lat": 13.3272,
-      "lng": 2.1348,
-      "country": "Niger",
-      "city": "Niamey",
-      "type": "kidnapping",
-      "title": "Полиция nab fake пастор, женщина после rescuing похищен four-неделя-old ребёнок",
-      "description": "Niger штат полиция rescued four-неделя-old ребёнок и арестован fake пастор и his accomplice involved в ребёнок похищение в Minna. Read More: https://punchng.com/полиция-nab-fake-пастор-женщина-после-rescuing-похищен-four-неделя-old-ребёнок/",
-      "source": "punchng",
-      "url": "https://punchng.com/police-nab-fake-pastor-woman-after-rescuing-abducted-four-week-old-baby/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
     }
   ]
 }
