@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-22T00:29:36.532Z",
+    "lastUpdated": "2026-08-22T06:18:38.893Z",
     "totalEvents": 500
   },
   "events": [
@@ -69,6 +69,19 @@
       "description": "Арест и задержание пастор Dedi Saputra в февраль 2026 have continued spark prolonged public debate в Indonesia. Saputra is Aceh native who converted христианство и resides в Bengkayang, West Kalimantan. Aceh Regional Poli",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/21/pastor-sentenced-to-prison-in-indonesia/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-21",
+      "lat": 6.6229,
+      "lng": 3.6081,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Христиане убийства: Why US won’t remove Nigeria’s CPC tag —Congressman Moore",
+      "description": "Member United штаты конгресс, Rep. Riley Moore, has insisted that US must not remove Nigeria из its Country Particular Concern, CPC, designation list alleged гонение христиане, citing continued violence в Middle B",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/08/christians-killings-why-us-wont-remove-nigerias-cpc-tag-congressman-moore/",
       "victims": 0
     },
     {
@@ -285,6 +298,45 @@
       "lng": 3.4407,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "attack",
+      "title": "We cannot remove Nigeria’s CPC tag — US Congressman Moore insists",
+      "description": "Lawmaker backed штат департамент’s call для Federal правительство protect христианские общины после плато атака, saying it was commitment Abuja made. post We cannot remove Nigeria’s CPC tag — US Congressman Moore insists appear",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/08/we-cannot-remove-nigerias-cpc-tag-us-congressman-moore-insists/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-20",
+      "lat": 9.076,
+      "lng": 9.3662,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "kidnapping",
+      "title": "ADF Defends христиане Against исламский полиция в Nigeria",
+      "description": "Nigerian полиция арестован 22-год-old женщина для converting христианство из ислам. Though Federal High суд ruled в her favor, христианская семья that helped her is facing false обвинения похищение. в 2025, “Sarah” fled из her home",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/20/adf-defends-christians-against-islamic-police-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-20",
+      "lat": 26.6207,
+      "lng": 81.1309,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "other",
+      "title": "Catholic епископы в India reject ‘христианин conspiracy’ claim funds bill",
+      "description": "Senior чиновник Catholic епископы’ Conference India challenged critics prove allegations that церковь engineered stalling bill tightening controls на foreign donations.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-bishops-in-india-reject-christian-conspiracy-claim-over-funds-bill",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-20",
+      "lat": 11.9745,
+      "lng": 8.5076,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "attack",
       "title": "We cannot remove Nigeria’s CPC tag — US Congressman Moore insists",
       "description": "Lawmaker backed штат департамент’s call для Federal правительство protect христианские общины после плато атака, saying it was commitment Abuja made. post We cannot remove Nigeria’s CPC tag — US Congressman Moore insists appear",
@@ -6452,58 +6504,6 @@
       "description": "Niger штат полиция rescued four-неделя-old ребёнок и арестован fake пастор и his accomplice involved в ребёнок похищение в Minna. Read More: https://punchng.com/полиция-nab-fake-пастор-женщина-после-rescuing-похищен-four-неделя-old-ребёнок/",
       "source": "punchng",
       "url": "https://punchng.com/police-nab-fake-pastor-woman-after-rescuing-abducted-four-week-old-baby/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-18",
-      "lat": 11.9997,
-      "lng": 8.7303,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "OAIC opposes proposed FRSC bill provision на preaching в commercial vehicles",
-      "description": "Organisation African Instituted церкви (OAIC) has expressed concern reports that proposed amendment Federal Road Safety комиссия (FRSC) Act could classify preaching в commercial vehicles alongside activities such as hawking.",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/07/oaic-opposes-proposed-frsc-bill-provision-on-preaching-in-commercial-vehicles/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-17",
-      "lat": 11.9196,
-      "lng": 13.334,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "US House backs Nigeria aid freeze христианин гонение concerns",
-      "description": "US House представители has approved measures freeze all aid Nigeria, citing concerns христианин гонение и правительство’s failure Read More: https://punchng.com/us-house-backs-nigeria-aid-freeze--христианин-гонение-c",
-      "source": "punchng",
-      "url": "https://punchng.com/us-house-backs-nigeria-aid-freeze-over-christian-persecution-concerns/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-17",
-      "lat": 10.6549,
-      "lng": 7.5047,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "US конгресс okays 50% cut в aid Nigeria христианин гонение",
-      "description": "United штаты House представители has approved 50 percent cut в assistance Nigeria what it described as federal правительство’s failure protect христианские общины из religiously-motivated violence. post US конгресс ok",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/07/us-congress-okays-50-cut-in-aid-to-nigeria-over-christian-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-17",
-      "lat": 8.9905,
-      "lng": 9.5035,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Group urges политики shun divisive politics ahead 2027 polls",
-      "description": "Христианин Conscience urges политики shun divisive politics ahead 2027 elections, promoting unity и diversity as strength для Nigeria. Read More: https://punchng.com/group-urges-политики--shun-divisive-politics-ahead--2027-polls",
-      "source": "punchng",
-      "url": "https://punchng.com/group-urges-politicians-to-shun-divisive-politics-ahead-of-2027-polls/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     }
   ]
