@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-22T12:14:11.342Z",
+    "lastUpdated": "2026-08-22T18:11:50.992Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-08-22",
+      "lat": 9.2915,
+      "lng": 7.3818,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "discrimination",
+      "title": "VIDEO: Obi Cubana gifts пастор Jerry Eze mansion",
+      "description": "Nigerian businessman Obi Cubana has gifted popular пастор Jerry Eze luxurious mansion as birthday present, sparking widespread reactions online. Read m Read More: https://punchng.com/video-obi-cubana-gifts-пастор-jerry-eze-mansion/",
+      "source": "punchng",
+      "url": "https://punchng.com/video-obi-cubana-gifts-pastor-jerry-eze-mansion/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-08-21",
       "lat": 11.6577,
@@ -368,6 +381,32 @@
       "description": "Senior чиновник Catholic епископы’ Conference India challenged critics prove allegations that церковь engineered stalling bill tightening controls на foreign donations.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-bishops-in-india-reject-christian-conspiracy-claim-over-funds-bill",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-20",
+      "lat": 9.2914,
+      "lng": 7.2457,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "kidnapping",
+      "title": "ADF Defends христиане Against исламский полиция в Nigeria",
+      "description": "Nigerian полиция арестован 22-год-old женщина для converting христианство из ислам. Though Federal High суд ruled в her favor, христианская семья that helped her is facing false обвинения похищение. в 2025, “Sarah” fled из her home",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/20/adf-defends-christians-against-islamic-police-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-20",
+      "lat": 9.2828,
+      "lng": 9.285,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "attack",
+      "title": "We cannot remove Nigeria’s CPC tag — US Congressman Moore insists",
+      "description": "Lawmaker backed штат департамент’s call для Federal правительство protect христианские общины после плато атака, saying it was commitment Abuja made. post We cannot remove Nigeria’s CPC tag — US Congressman Moore insists appear",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/08/we-cannot-remove-nigerias-cpc-tag-us-congressman-moore-insists/",
       "victims": 0
     },
     {
@@ -1006,6 +1045,19 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/08/18/fulani-militias-kill-24-christians-in-governor-mutfwangs-county/",
       "victims": 24
+    },
+    {
+      "date": "2026-08-18",
+      "lat": 9.2685,
+      "lng": 7.6973,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "kidnapping",
+      "title": "UN experts raise ‘могила concern’ violence against христианки и girls в Nigeria",
+      "description": "UN experts have raised concerns worsening violence и insecurity в Nigeria, warning that христианки и girls are among those facing elevated угроза убийства, похищение, sexual violence и вынужден marriage.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/un-experts-raise-grave-concern-over-violence-against-christian-women-and-girls-in-nigeria",
+      "victims": 0
     },
     {
       "date": "2026-08-17",
@@ -6453,58 +6505,6 @@
       "source": "punchng",
       "url": "https://punchng.com/christian-bodies-reject-planned-ban-on-bus-preaching/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
-    },
-    {
-      "date": "2026-07-19",
-      "lat": 29.4659,
-      "lng": 33.0025,
-      "country": "Egypt",
-      "city": "Sinai",
-      "type": "other",
-      "title": "Very short Catholic history wine",
-      "description": "Wine is older than христианство several thousand годы. evidence winemaking в Caucasus регион dates least 6,000 BC. ancient Egyptians, Greeks, и Romans all had sophisticated wine cultures long до первый христианин was",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/07/19/a-very-short-catholic-history-of-wine/",
-      "victims": 6
-    },
-    {
-      "date": "2026-07-19",
-      "lat": 29.9871,
-      "lng": 31.1705,
-      "country": "Egypt",
-      "city": "Cairo",
-      "type": "other",
-      "title": "Very short Catholic history wine",
-      "description": "Wine is older than христианство several thousand годы. evidence winemaking в Caucasus регион dates least 6,000 BC. ancient Egyptians, Greeks, и Romans all had sophisticated wine cultures long до первый христианин was",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/07/19/a-very-short-catholic-history-of-wine/",
-      "victims": 6
-    },
-    {
-      "date": "2026-07-19",
-      "lat": 31.349,
-      "lng": 29.6996,
-      "country": "Egypt",
-      "city": "Alexandria",
-      "type": "other",
-      "title": "Very short Catholic history wine",
-      "description": "Wine is older than христианство several thousand годы. evidence winemaking в Caucasus регион dates least 6,000 BC. ancient Egyptians, Greeks, и Romans all had sophisticated wine cultures long до первый христианин was",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/07/19/a-very-short-catholic-history-of-wine/",
-      "victims": 6
-    },
-    {
-      "date": "2026-07-19",
-      "lat": 28.1799,
-      "lng": 30.6788,
-      "country": "Egypt",
-      "city": "Minya",
-      "type": "other",
-      "title": "Very short Catholic history wine",
-      "description": "Wine is older than христианство several thousand годы. evidence winemaking в Caucasus регион dates least 6,000 BC. ancient Egyptians, Greeks, и Romans all had sophisticated wine cultures long до первый христианин was",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/07/19/a-very-short-catholic-history-of-wine/",
-      "victims": 6
     }
   ]
 }
