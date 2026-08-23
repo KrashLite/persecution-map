@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-23T06:19:50.585Z",
+    "lastUpdated": "2026-08-23T12:14:46.562Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,19 @@
       "description": "\"и I make it bold say сегодня I am presenting one you as birthday gift для work God и для service mankind\" post Obi Cubana announces house gift для пастор Jerry Eze’s 44th birthday appeared первый на Vanguard News.",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/08/obi-cubana-announces-house-gift-for-pastor-jerry-ezes-44th-birthday/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-23",
+      "lat": 15.3256,
+      "lng": 32.7672,
+      "country": "Sudan",
+      "city": "Khartoum",
+      "type": "kidnapping",
+      "title": "Open Doors raises alarm violence в Sudan",
+      "description": "Церковь leaders и христиане в Sudan's Nuba горы are facing growing wave убийства, похищения и атаки as fighting between rival armed factions intensifies в country's South Kordofan штат.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/open-doors-raises-alarm-over-violence-in-sudan",
       "victims": 0
     },
     {
@@ -498,6 +511,32 @@
       "description": "— Says lives христиане, мусульмане, traditional прихожане matter Chimaibi Nwaiwu NNEWI — христианин старейшины и Professionals Consultative совет Nigeria (CEPCCN) has expressed support для concerns raised United штаты saf",
       "source": "newsapi:Vanguard",
       "url": "https://www.vanguardngr.com/2026/08/christian-elders-back-us-concerns-over-persecution-nigerias-security-crisis/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-20",
+      "lat": 9.4525,
+      "lng": 9.6591,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Христианин старейшины back US concerns гонение, Nigeria’s security crisis",
+      "description": "— Says lives христиане, мусульмане, traditional прихожане matter Chimaibi Nwaiwu NNEWI — христианин старейшины и Professionals Consultative совет Nigeria (CEPCCN) has expressed support для concerns raised United штаты saf",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/08/christian-elders-back-us-concerns-over-persecution-nigerias-security-crisis/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-20",
+      "lat": 10.5191,
+      "lng": 7.4752,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "attack",
+      "title": "We cannot remove Nigeria’s CPC tag — US Congressman Moore insists",
+      "description": "Lawmaker backed штат департамент’s call для Federal правительство protect христианские общины после плато атака, saying it was commitment Abuja made. post We cannot remove Nigeria’s CPC tag — US Congressman Moore insists appear",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/08/we-cannot-remove-nigerias-cpc-tag-us-congressman-moore-insists/",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Overcome thirst после working под sweltering лето heat в Pattoki, Pakistan, христианин brick kiln worker reached для closest water cooler и took sip. Doing so cost him his life. worker, 39-год-old мужчина named Sadique, had ju",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/20/christian-brick-kiln-worker-killed-for-drinking-from-a-muslims-cooler/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-20",
-      "lat": 2.178,
-      "lng": 45.2603,
-      "country": "Somalia",
-      "city": "Mogadishu",
-      "type": "murder",
-      "title": "Христианин в Somaliland отравлен смерть после Secret обращение",
-      "description": "NAIROBI, Kenya (утро Star News) – мусульманин relatives father five в Somaliland who недавно became христианин отравлен him смерть в этом месяце для converting, sources said. Sharif Ali came вера в Christ в апрель в undisclosed посёлок",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/christian-in-somaliland-poisoned-to-death-after-secret-conversion/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-20",
-      "lat": -6.1771,
-      "lng": 106.6031,
-      "country": "Indonesia",
-      "city": "Jakarta",
-      "type": "other",
-      "title": "Indonesian церковь’s 8-год-Struggle Build Building",
-      "description": "Members Beth-El Tabernacle церковь Christ Alpha Omega приход (GBT KAO) в Semarang Regency, Central Java, Indonesia, have claimed that various parties obstructed their усилия build церковь building. на июль 15, they reported l",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/20/an-indonesian-churchs-8-year-struggle-to-build-a-building/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-20",
-      "lat": 10.5371,
-      "lng": 7.434,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "US passes bill halt Nigeria aid violence against христиане",
-      "description": "Усилие withhold 100 per cent United штаты aid Nigeria until Nigerian правительство takes effective steps \" prevent и respond violence в country\" has passed US House представители.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/us-passes-bill-to-halt-nigeria-aid-over-violence-against-christians",
       "victims": 0
     }
   ]
