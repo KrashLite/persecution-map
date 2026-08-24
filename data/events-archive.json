@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-23T18:12:15.271Z",
+    "lastUpdated": "2026-08-24T00:30:56.510Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,19 @@
       "description": "Церковь leaders и христиане в Sudan's Nuba горы are facing growing wave убийства, похищения и атаки as fighting between rival armed factions intensifies в country's South Kordofan штат.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/open-doors-raises-alarm-over-violence-in-sudan",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-23",
+      "lat": 9.3017,
+      "lng": 9.6085,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "I don’t hate христиане — шейх Jingir",
+      "description": "— Urges Tinubu, губернаторы ensure justice, fairness для all Nigerians Golok Nanmwa JOS: Chairman Izalatil Bid’ Wa’ikamatis Sunnah, JIBWIS, шейх Sani Yahaya Jingir, has dismissed claims that he dislikes христиане, describing allega",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/08/i-dont-hate-christians-sheikh-jingir/",
       "victims": 0
     },
     {
@@ -168,6 +181,19 @@
       "lng": 8.3687,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "other",
+      "title": "Христиане убийства: Why US won’t remove Nigeria’s CPC tag —Congressman Moore",
+      "description": "Member United штаты конгресс, Rep. Riley Moore, has insisted that US must not remove Nigeria из its Country Particular Concern, CPC, designation list alleged гонение христиане, citing continued violence в Middle B",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/08/christians-killings-why-us-wont-remove-nigerias-cpc-tag-congressman-moore/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-21",
+      "lat": 10.7117,
+      "lng": 7.4126,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "other",
       "title": "Христиане убийства: Why US won’t remove Nigeria’s CPC tag —Congressman Moore",
       "description": "Member United штаты конгресс, Rep. Riley Moore, has insisted that US must not remove Nigeria из its Country Particular Concern, CPC, designation list alleged гонение христиане, citing continued violence в Middle B",
@@ -537,6 +563,19 @@
       "description": "Lawmaker backed штат департамент’s call для Federal правительство protect христианские общины после плато атака, saying it was commitment Abuja made. post We cannot remove Nigeria’s CPC tag — US Congressman Moore insists appear",
       "source": "newsapi:Vanguard",
       "url": "https://www.vanguardngr.com/2026/08/we-cannot-remove-nigerias-cpc-tag-us-congressman-moore-insists/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-20",
+      "lat": 11.9231,
+      "lng": 8.5637,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Христианин старейшины back US concerns гонение, Nigeria’s security crisis",
+      "description": "— Says lives христиане, мусульмане, traditional прихожане matter Chimaibi Nwaiwu NNEWI — христианин старейшины и Professionals Consultative совет Nigeria (CEPCCN) has expressed support для concerns raised United штаты saf",
+      "source": "newsapi:Vanguard",
+      "url": "https://www.vanguardngr.com/2026/08/christian-elders-back-us-concerns-over-persecution-nigerias-security-crisis/",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Пастор Enoch Adeboye encourages lecturers, students, и professionals в Nigeria’s education sector pursue excellence through diligence, compassion, Read More: https://punchng.com/adeboye-urges-lecturers-students--pursue-excellence/",
       "source": "punchng",
       "url": "https://punchng.com/adeboye-urges-lecturers-students-to-pursue-excellence/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-20",
-      "lat": 11.9491,
-      "lng": 8.5061,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "US passes bill halt Nigeria aid violence against христиане",
-      "description": "Усилие withhold 100 per cent United штаты aid Nigeria until Nigerian правительство takes effective steps \" prevent и respond violence в country\" has passed US House представители.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/us-passes-bill-to-halt-nigeria-aid-over-violence-against-christians",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-20",
-      "lat": 9.2135,
-      "lng": 9.3098,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "US passes bill halt Nigeria aid violence against христиане",
-      "description": "Усилие withhold 100 per cent United штаты aid Nigeria until Nigerian правительство takes effective steps \" prevent и respond violence в country\" has passed US House представители.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/us-passes-bill-to-halt-nigeria-aid-over-violence-against-christians",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-20",
-      "lat": 34.2583,
-      "lng": 71.5949,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "murder",
-      "title": "Христианин Brick Kiln Worker убит для Drinking из мусульманин’s Cooler",
-      "description": "Overcome thirst после working под sweltering лето heat в Pattoki, Pakistan, христианин brick kiln worker reached для closest water cooler и took sip. Doing so cost him his life. worker, 39-год-old мужчина named Sadique, had ju",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/20/christian-brick-kiln-worker-killed-for-drinking-from-a-muslims-cooler/",
       "victims": 0
     }
   ]
