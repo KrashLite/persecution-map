@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-24T12:23:16.059Z",
+    "lastUpdated": "2026-08-24T18:21:13.617Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-08-24",
+      "lat": 6.4727,
+      "lng": 3.2366,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "San Francisco архиепископ urges new Nigerian священники be ‘friends и fathers’ their люди",
+      "description": "“ люди God must know that священник is с them, that he is для them, и that he acts only с their best interest в mind,” архиепископ Salvatore Cordileone told 14 newly ordained священники.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/san-francisco-archbishop-urges-new-nigerian-priests-to-be-friends-and-fathers-to-their-people",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-24",
+      "lat": 15.4779,
+      "lng": 32.48,
+      "country": "Sudan",
+      "city": "Khartoum",
+      "type": "kidnapping",
+      "title": "Христианин Relief Worker задержан в Sudan’s Nuba горы",
+      "description": "NAIROBI, Kenya (утро Star News) – христианин relief worker арестован повстанец боевики в Sudan’s Nuba горы five месяцы ago remains пленник, her семья said. в South Kordofan штат, семья is making urgent appeal для release N",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/08/christian-relief-worker-detained-in-sudans-nuba-mountains/",
+      "victims": 0
+    },
     {
       "date": "2026-08-23",
       "lat": 13.6532,
@@ -6478,32 +6504,6 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – после multiple legal setbacks, relatives христианин girl who was forcibly converted ислам и married her мусульманин kidnapper are hoping Pakistan’s highest constitutional cou",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/07/court-in-pakistan-to-consider-hearing-case-of-abducted-christian-girl/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-20",
-      "lat": 6.584,
-      "lng": 3.2151,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "kidnapping",
-      "title": "Боевики abduct пастор’s wife, three дети в Borno",
-      "description": "Ndahi Marama, Maiduguri Suspected Боко Харам/ISWAP террористы have похищен wife пастор и his three дети в Damasak, штаб-квартира Mobbar Local правительство Area Borno штат. жертвы, whose identities have not been disclosed,",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/07/gunmen-abduct-pastors-wife-three-children-in-borno/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-20",
-      "lat": 9.3992,
-      "lng": 9.6749,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Adeboye urges lecturers, students pursue excellence",
-      "description": "Пастор Enoch Adeboye encourages lecturers, students, и professionals в Nigeria’s education sector pursue excellence through diligence, compassion, Read More: https://punchng.com/adeboye-urges-lecturers-students--pursue-excellence/",
-      "source": "punchng",
-      "url": "https://punchng.com/adeboye-urges-lecturers-students-to-pursue-excellence/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     }
   ]
