@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-25T06:23:25.469Z",
+    "lastUpdated": "2026-08-25T12:21:55.666Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-08-25",
+      "lat": 11.6477,
+      "lng": 13.168,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "Reappointed Nigerian посол meets с папа Leo",
+      "description": "Папа Leo XIV received Paul Oga Adikwu, Nigeria’s new посол Holy See, в audience Vatican, where he presented his credentials на август 24, 2026. Catholic и specialist в educational matters, he ранее served as посол t",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/08/25/reappointed-nigerian-ambassador-meets-with-pope-leo/",
+      "victims": 0
+    },
     {
       "date": "2026-08-24",
       "lat": 6.4727,
@@ -51,6 +64,32 @@
       "lng": 72.9271,
       "country": "India",
       "city": "Mumbai",
+      "type": "arrest",
+      "title": "UK пастор Booked на Bizarre обвинения",
+      "description": "Власти обвинён British христианский лидер Indian descent в Pune, Maharashtra, India, для allegedly attempting illegally convert индусы христианство под law that has yet come в effect. Pune полиция filed chargesheet на",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/24/uk-pastor-booked-on-bizarre-charges/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-24",
+      "lat": 11.5845,
+      "lng": 12.9576,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "San Francisco архиепископ urges new Nigerian священники be ‘friends и fathers’ their люди",
+      "description": "“ люди God must know that священник is с them, that he is для them, и that he acts only с their best interest в mind,” архиепископ Salvatore Cordileone told 14 newly ordained священники.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/san-francisco-archbishop-urges-new-nigerian-priests-to-be-friends-and-fathers-to-their-people",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-24",
+      "lat": 21.2124,
+      "lng": 81.6843,
+      "country": "India",
+      "city": "Chhattisgarh",
       "type": "arrest",
       "title": "UK пастор Booked на Bizarre обвинения",
       "description": "Власти обвинён British христианский лидер Indian descent в Pune, Maharashtra, India, для allegedly attempting illegally convert индусы христианство под law that has yet come в effect. Pune полиция filed chargesheet на",
@@ -142,6 +181,19 @@
       "lng": 7.435,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "arrest",
+      "title": "Nigerian суд Rules религиозный полиция Cannot арест христианка для Converting из ислам",
+      "description": "Nigerian суд has ruled that Kano штат’s Hisbah религиозный полиция cannot арест Sarah*, young женщина who converted из ислам христианство. христианская семья that helped her is still facing false criminal обвинения. post Nigerian суд Rules",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/08/23/nigerian-court-rules-religious-police-cannot-arrest-christian-woman-for-converting-from-islam/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-23",
+      "lat": 12.0505,
+      "lng": 8.6057,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "arrest",
       "title": "Nigerian суд Rules религиозный полиция Cannot арест христианка для Converting из ислам",
       "description": "Nigerian суд has ruled that Kano штат’s Hisbah религиозный полиция cannot арест Sarah*, young женщина who converted из ислам христианство. христианская семья that helped her is still facing false criminal обвинения. post Nigerian суд Rules",
@@ -6453,58 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/07/21/muslim-mob-shuts-down-worship-service-in-indonesia/",
       "victims": 0
-    },
-    {
-      "date": "2026-07-21",
-      "lat": 23.0159,
-      "lng": -82.4254,
-      "country": "Cuba",
-      "city": "Havana",
-      "type": "discrimination",
-      "title": "U.S., Catholic Relief Services send первый Cuba aid flight под Rubio plan",
-      "description": "Catholic Relief Services (CRS) will deliver kits prepackaged food и hygiene kits для up 700 Cuban семьи.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/u-s-catholic-relief-services-send-first-cuba-aid-flight-under-rubio-plan",
-      "victims": 700
-    },
-    {
-      "date": "2026-07-21",
-      "lat": 4.6376,
-      "lng": 18.6318,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "other",
-      "title": "Caritas Venezuela adds recovery component ongoing relief усилия",
-      "description": "Католическая церковь’s social services arm в country reports that its операции are в transitional phase, as it shifts из immediate assistance recovery those who lost everything.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/americas/catholic-church-leading-in-first-response-and-recovery-efforts-in-venezuela",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-21",
-      "lat": 24.9921,
-      "lng": 67.185,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "kidnapping",
-      "title": "Суд в Pakistan Consider Hearing Case похищен христианин Girl",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – после multiple legal setbacks, relatives христианин girl who was forcibly converted ислам и married her мусульманин kidnapper are hoping Pakistan’s highest constitutional cou",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/court-in-pakistan-to-consider-hearing-case-of-abducted-christian-girl/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-21",
-      "lat": 11.8336,
-      "lng": 8.7199,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Фулани экстремисты Kill 25 христиане после Nigerian армия Ignores рано Warnings",
-      "description": "Among those убит was деревня’s leader. local said фулани planned kill their leader, occupy land для grazing, и establish исламский caliphate в регион. post фулани экстремисты Kill 25 христиане после Nigerian армия Igno",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/07/21/fulani-extremists-kill-25-christians-after-nigerian-army-ignores-early-warnings/",
-      "victims": 25
     }
   ]
 }
