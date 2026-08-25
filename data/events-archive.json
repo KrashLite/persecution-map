@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-24T18:21:13.617Z",
+    "lastUpdated": "2026-08-25T00:30:28.716Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,32 @@
       "description": "NAIROBI, Kenya (утро Star News) – христианин relief worker арестован повстанец боевики в Sudan’s Nuba горы five месяцы ago remains пленник, her семья said. в South Kordofan штат, семья is making urgent appeal для release N",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/08/christian-relief-worker-detained-in-sudans-nuba-mountains/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-24",
+      "lat": 9.3111,
+      "lng": 7.6179,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "San Francisco архиепископ urges new Nigerian священники be ‘friends и fathers’ their люди",
+      "description": "“ люди God must know that священник is с them, that he is для them, и that he acts only с their best interest в mind,” архиепископ Salvatore Cordileone told 14 newly ordained священники.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/san-francisco-archbishop-urges-new-nigerian-priests-to-be-friends-and-fathers-to-their-people",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-24",
+      "lat": 19.2204,
+      "lng": 72.9271,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "arrest",
+      "title": "UK пастор Booked на Bizarre обвинения",
+      "description": "Власти обвинён British христианский лидер Indian descent в Pune, Maharashtra, India, для allegedly attempting illegally convert индусы христианство под law that has yet come в effect. Pune полиция filed chargesheet на",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/24/uk-pastor-booked-on-bizarre-charges/",
       "victims": 0
     },
     {
@@ -83,6 +109,32 @@
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/08/i-dont-hate-christians-sheikh-jingir/",
       "victims": 0
+    },
+    {
+      "date": "2026-08-23",
+      "lat": 8.9739,
+      "lng": 9.3321,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "arrest",
+      "title": "Nigerian суд Rules религиозный полиция Cannot арест христианка для Converting из ислам",
+      "description": "Nigerian суд has ruled that Kano штат’s Hisbah религиозный полиция cannot арест Sarah*, young женщина who converted из ислам христианство. христианская семья that helped her is still facing false criminal обвинения. post Nigerian суд Rules",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/08/23/nigerian-court-rules-religious-police-cannot-arrest-christian-woman-for-converting-from-islam/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-23",
+      "lat": 36.2277,
+      "lng": 43.3067,
+      "country": "Iraq",
+      "city": "Mosul",
+      "type": "other",
+      "title": "Iraq’s суд Cassation affirms женщина’s right be classified as христианин в штат’s чиновник database",
+      "description": "Country’s highest суд для civil, criminal, и семья matters affirms right Iraqi христианин freely choose her религия, sets persuasive precedent для scores христиане в Iraq facing serious legal и personal consequences штат-assigne",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/08/23/iraqs-court-of-cassation-affirms-womans-right-to-be-classified-as-christian-in-states-official-database/",
+      "victims": 40
     },
     {
       "date": "2026-08-22",
@@ -602,6 +654,19 @@
       "description": "— Says lives христиане, мусульмане, traditional прихожане matter Chimaibi Nwaiwu NNEWI — христианин старейшины и Professionals Consultative совет Nigeria (CEPCCN) has expressed support для concerns raised United штаты saf",
       "source": "newsapi:Vanguard",
       "url": "https://www.vanguardngr.com/2026/08/christian-elders-back-us-concerns-over-persecution-nigerias-security-crisis/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-20",
+      "lat": 6.7475,
+      "lng": 3.1671,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "kidnapping",
+      "title": "ADF Defends христиане Against исламский полиция в Nigeria",
+      "description": "Nigerian полиция арестован 22-год-old женщина для converting христианство из ислам. Though Federal High суд ruled в her favor, христианская семья that helped her is facing false обвинения похищение. в 2025, “Sarah” fled из her home",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/20/adf-defends-christians-against-islamic-police-in-nigeria/",
       "victims": 0
     },
     {
@@ -6440,71 +6505,6 @@
       "source": "zenit",
       "url": "https://zenit.org/2026/07/21/fulani-extremists-kill-25-christians-after-nigerian-army-ignores-early-warnings/",
       "victims": 25
-    },
-    {
-      "date": "2026-07-21",
-      "lat": 30.2234,
-      "lng": 31.3671,
-      "country": "Egypt",
-      "city": "Cairo",
-      "type": "other",
-      "title": "Dems Fight Aid Israel, Send Aid Egypt Which Persecutes христиане",
-      "description": "Военные aid vote shows double standard и real agenda. в прошлом году, двупартийный group members конгресс introduced H.Res.776: resolution expressing concern о гонение Coptic христиане под Egypt’s исламский regime. r",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4388777/posts",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-21",
-      "lat": 29.2907,
-      "lng": 33.135,
-      "country": "Egypt",
-      "city": "Sinai",
-      "type": "other",
-      "title": "Dems Fight Aid Israel, Send Aid Egypt Which Persecutes христиане",
-      "description": "В прошлом году, двупартийный group members конгресс introduced H.Res.776: resolution expressing concern о гонение Coptic христиане под Egypt’s исламский regime. resolution has only picked up 8 cosponsors и has yet make it",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4388760/posts",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-21",
-      "lat": 34.2002,
-      "lng": 71.3988,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "kidnapping",
-      "title": "Суд в Pakistan Consider Hearing Case похищен христианин Girl",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – после multiple legal setbacks, relatives христианин girl who was forcibly converted ислам и married her мусульманин kidnapper are hoping Pakistan’s highest constitutional cou",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/court-in-pakistan-to-consider-hearing-case-of-abducted-christian-girl/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-21",
-      "lat": 31.1537,
-      "lng": 29.8943,
-      "country": "Egypt",
-      "city": "Alexandria",
-      "type": "other",
-      "title": "Dems Fight Aid Israel, Send Aid Egypt Which Persecutes христиане",
-      "description": "В прошлом году, двупартийный group members конгресс introduced H.Res.776: resolution expressing concern о гонение Coptic христиане под Egypt’s исламский regime. resolution has only picked up 8 cosponsors и has yet make it",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4388760/posts",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-21",
-      "lat": 33.4962,
-      "lng": 72.8061,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "kidnapping",
-      "title": "Суд в Pakistan Consider Hearing Case похищен христианин Girl",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – после multiple legal setbacks, relatives христианин girl who was forcibly converted ислам и married her мусульманин kidnapper are hoping Pakistan’s highest constitutional cou",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/court-in-pakistan-to-consider-hearing-case-of-abducted-christian-girl/",
-      "victims": 0
     }
   ]
 }
