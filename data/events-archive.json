@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-26T12:23:53.257Z",
+    "lastUpdated": "2026-08-26T19:28:13.141Z",
     "totalEvents": 500
   },
   "events": [
@@ -25,6 +25,19 @@
       "lng": 3.1867,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "other",
+      "title": "Nigerian христианин, мусульманин Leaders Sign Peace Statement",
+      "description": "More than 50 христианин и мусульманин leaders в Nigeria have signed interfaith peace accord aimed reducing религиозный tensions, rejecting hate speech, и strengthening cooperation between country’s two largest религиозный communities. agreem",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/26/nigerian-christian-muslim-leaders-sign-peace-statement/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-26",
+      "lat": 9.2507,
+      "lng": 9.2846,
+      "country": "Nigeria",
+      "city": "Plateau",
       "type": "other",
       "title": "Nigerian христианин, мусульманин Leaders Sign Peace Statement",
       "description": "More than 50 христианин и мусульманин leaders в Nigeria have signed interfaith peace accord aimed reducing религиозный tensions, rejecting hate speech, и strengthening cooperation between country’s two largest религиозный communities. agreem",
@@ -116,6 +129,19 @@
       "lng": 8.6572,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "other",
+      "title": "Reappointed Nigerian посол meets с папа Leo",
+      "description": "Папа Leo XIV received Paul Oga Adikwu, Nigeria’s new посол Holy See, в audience Vatican, where he presented his credentials на август 24, 2026. Catholic и specialist в educational matters, he ранее served as посол t",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/08/25/reappointed-nigerian-ambassador-meets-with-pope-leo/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-25",
+      "lat": 8.8892,
+      "lng": 7.6788,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "other",
       "title": "Reappointed Nigerian посол meets с папа Leo",
       "description": "Папа Leo XIV received Paul Oga Adikwu, Nigeria’s new посол Holy See, в audience Vatican, where he presented his credentials на август 24, 2026. Catholic и specialist в educational matters, he ранее served as посол t",
@@ -6478,32 +6504,6 @@
       "description": "Исламский террористы, suspected be Боко Харам or Исламское государство West Africa провинция (ISWAP), похищен wife пастор и their three дети на суббота, июль 18, along Maiduguri-Damasak highway в Northeast Nigeria. семья",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/22/extremists-abduct-pastors-wife-3-children-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": 6.3849,
-      "lng": 3.4721,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Nigerian пастор highlighted Trump says he’s next после ополчение kills his relatives",
-      "description": "Rev. Ezekiel Dachomo says фулани ополчение убит nine his семья и сейчас threatens his life as штат департамент condemns христианин гонение.",
-      "source": "newsapi:Fox News",
-      "url": "https://www.foxnews.com/world/nigerian-pastor-highlighted-trump-says-hes-next-after-militia-kills-his-relatives",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": 12.2004,
-      "lng": 8.839,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "attack",
-      "title": "Христианин гонение: ‘It is honour stand с you в fight against террористы,’ Trump tells Tinubu",
-      "description": "— Applauds президент’s resolve tackle nation’s испытания Johnbosco Agbakwuru ABUJA — American президент, Donald Trump, has commended президент Bola Tinubu’s resolve tackle issues plaguing Nigeria, especially violence affecting Chris",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/christian-persecution-it-is-an-honour-to-stand-with-you-in-fight-against-terrorists-trump-tells-tinubu/",
       "victims": 0
     }
   ]
