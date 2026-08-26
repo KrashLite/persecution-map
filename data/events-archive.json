@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-25T18:20:58.075Z",
+    "lastUpdated": "2026-08-26T00:31:42.845Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-08-26",
+      "lat": 9.2678,
+      "lng": 7.3962,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Nigerian христианин, мусульманин Leaders Sign Peace Statement",
+      "description": "More than 50 христианин и мусульманин leaders в Nigeria have signed interfaith peace accord aimed reducing религиозный tensions, rejecting hate speech, и strengthening cooperation between country’s two largest религиозный communities. agreem",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/26/nigerian-christian-muslim-leaders-sign-peace-statement/",
+      "victims": 0
+    },
     {
       "date": "2026-08-25",
       "lat": 11.6477,
@@ -56,6 +69,32 @@
       "description": "Пастор William Kumuyi calls для peace и security в Nigeria as Global Crusade с Kumuyi (GCK) returns Ogun штат, promising transformation. Read More: https://punchng.com/kumuyi-urges-peace-security-as-gck-crusade-holds-в-ogun/",
       "source": "punchng",
       "url": "https://punchng.com/kumuyi-urges-peace-security-as-gck-crusade-holds-in-ogun/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-25",
+      "lat": 6.5436,
+      "lng": 3.2855,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Reappointed Nigerian посол meets с папа Leo",
+      "description": "Папа Leo XIV received Paul Oga Adikwu, Nigeria’s new посол Holy See, в audience Vatican, where he presented his credentials на август 24, 2026. Catholic и specialist в educational matters, he ранее served as посол t",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/08/25/reappointed-nigerian-ambassador-meets-with-pope-leo/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-25",
+      "lat": 34.0835,
+      "lng": -6.6622,
+      "country": "Morocco",
+      "city": "Rabat",
+      "type": "discrimination",
+      "title": "ICC, Regent университет Center для Global Justice Publish Report на религиозный Freedom в Morocco",
+      "description": "Although Morocco formally recognizes религиозный freedom в its Constitution и portrays itself as country that supports религиозный tolerance, new report из International христианин Concern (ICC) и Regent университет’s Center для Global Justice",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/25/icc-regent-university-center-for-global-justice-publish-report-on-religious-freedom-in-morocco/",
       "victims": 0
     },
     {
@@ -134,6 +173,19 @@
       "description": "Власти обвинён British христианский лидер Indian descent в Pune, Maharashtra, India, для allegedly attempting illegally convert индусы христианство под law that has yet come в effect. Pune полиция filed chargesheet на",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/24/uk-pastor-booked-on-bizarre-charges/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-24",
+      "lat": 9.328,
+      "lng": 9.5112,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "San Francisco архиепископ urges new Nigerian священники be ‘friends и fathers’ their люди",
+      "description": "“ люди God must know that священник is с them, that he is для them, и that he acts only с their best interest в mind,” архиепископ Salvatore Cordileone told 14 newly ordained священники.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/san-francisco-archbishop-urges-new-nigerian-priests-to-be-friends-and-fathers-to-their-people",
       "victims": 0
     },
     {
@@ -246,6 +298,32 @@
       "lng": 43.8577,
       "country": "Iraq",
       "city": "Erbil",
+      "type": "other",
+      "title": "Iraq’s суд Cassation affirms женщина’s right be classified as христианин в штат’s чиновник database",
+      "description": "Country’s highest суд для civil, criminal, и семья matters affirms right Iraqi христианин freely choose her религия, sets persuasive precedent для scores христиане в Iraq facing serious legal и personal consequences штат-assigne",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/08/23/iraqs-court-of-cassation-affirms-womans-right-to-be-classified-as-christian-in-states-official-database/",
+      "victims": 40
+    },
+    {
+      "date": "2026-08-23",
+      "lat": 6.7185,
+      "lng": 3.3296,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "arrest",
+      "title": "Nigerian суд Rules религиозный полиция Cannot арест христианка для Converting из ислам",
+      "description": "Nigerian суд has ruled that Kano штат’s Hisbah религиозный полиция cannot арест Sarah*, young женщина who converted из ислам христианство. христианская семья that helped her is still facing false criminal обвинения. post Nigerian суд Rules",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/08/23/nigerian-court-rules-religious-police-cannot-arrest-christian-woman-for-converting-from-islam/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-23",
+      "lat": 35.6659,
+      "lng": 44.5469,
+      "country": "Iraq",
+      "city": "Kirkuk",
       "type": "other",
       "title": "Iraq’s суд Cassation affirms женщина’s right be classified as христианин в штат’s чиновник database",
       "description": "Country’s highest суд для civil, criminal, и семья matters affirms right Iraqi христианин freely choose her религия, sets persuasive precedent для scores христиане в Iraq facing serious legal и personal consequences штат-assigne",
@@ -6426,84 +6504,6 @@
       "description": "— Applauds президент’s resolve tackle nation’s испытания Johnbosco Agbakwuru ABUJA — American президент, Donald Trump, has commended президент Bola Tinubu’s resolve tackle issues plaguing Nigeria, especially violence affecting Chris",
       "source": "newsapi:Vanguard",
       "url": "https://www.vanguardngr.com/2026/07/christian-persecution-it-is-an-honour-to-stand-with-you-in-fight-against-terrorists-trump-tells-tinubu/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": 9.2378,
-      "lng": 7.7037,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Nigerian пастор highlighted Trump says he’s next после ополчение kills his relatives",
-      "description": "Rev. Ezekiel Dachomo says фулани ополчение убит nine his семья и сейчас threatens his life as штат департамент condemns христианин гонение.",
-      "source": "newsapi:Fox News",
-      "url": "https://www.foxnews.com/world/nigerian-pastor-highlighted-trump-says-hes-next-after-militia-kills-his-relatives",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": 9.1524,
-      "lng": 9.4779,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "attack",
-      "title": "Христианин гонение: ‘It is honour stand с you в fight against террористы,’ Trump tells Tinubu",
-      "description": "— Applauds президент’s resolve tackle nation’s испытания Johnbosco Agbakwuru ABUJA — American президент, Donald Trump, has commended президент Bola Tinubu’s resolve tackle issues plaguing Nigeria, especially violence affecting Chris",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/christian-persecution-it-is-an-honour-to-stand-with-you-in-fight-against-terrorists-trump-tells-tinubu/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": 11.7912,
-      "lng": 13.1037,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "kidnapping",
-      "title": "Экстремисты Abduct пастор’s Wife, 3 дети в Nigeria",
-      "description": "Исламский террористы, suspected be Боко Харам or Исламское государство West Africa провинция (ISWAP), похищен wife пастор и their three дети на суббота, июль 18, along Maiduguri-Damasak highway в Northeast Nigeria. семья",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/22/extremists-abduct-pastors-wife-3-children-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": 9.2994,
-      "lng": 7.4853,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "attack",
-      "title": "Христианин гонение: ‘It is honour stand с you в fight against террористы,’ Trump tells Tinubu",
-      "description": "— Applauds президент’s resolve tackle nation’s испытания Johnbosco Agbakwuru ABUJA — American президент, Donald Trump, has commended президент Bola Tinubu’s resolve tackle issues plaguing Nigeria, especially violence affecting Chris",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/christian-persecution-it-is-an-honour-to-stand-with-you-in-fight-against-terrorists-trump-tells-tinubu/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": 10.5248,
-      "lng": 7.3085,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Nigerian пастор highlighted Trump says he’s next после ополчение kills his relatives",
-      "description": "Rev. Ezekiel Dachomo says фулани ополчение убит nine his семья и сейчас threatens his life as штат департамент condemns христианин гонение.",
-      "source": "newsapi:Fox News",
-      "url": "https://www.foxnews.com/world/nigerian-pastor-highlighted-trump-says-hes-next-after-militia-kills-his-relatives",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-21",
-      "lat": 12.8774,
-      "lng": -8.1635,
-      "country": "Mali",
-      "city": "Bamako",
-      "type": "murder",
-      "title": "US епископы: Immigration смерти “must not be normalized”",
-      "description": "Two senior US Catholic епископы issued pastoral reflection на понедельник calling для accountability и transparency в immigration enforcement, following series смерти во время ICE операции across country that have raised urgent questions abou",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/07/21/us-bishops-immigration-deaths-must-not-be-normalized/",
       "victims": 0
     }
   ]
