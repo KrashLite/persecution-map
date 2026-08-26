@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-26T00:31:42.845Z",
+    "lastUpdated": "2026-08-26T06:25:25.116Z",
     "totalEvents": 500
   },
   "events": [
@@ -12,6 +12,19 @@
       "lng": 7.3962,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "other",
+      "title": "Nigerian христианин, мусульманин Leaders Sign Peace Statement",
+      "description": "More than 50 христианин и мусульманин leaders в Nigeria have signed interfaith peace accord aimed reducing религиозный tensions, rejecting hate speech, и strengthening cooperation between country’s two largest религиозный communities. agreem",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/26/nigerian-christian-muslim-leaders-sign-peace-statement/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-26",
+      "lat": 6.3353,
+      "lng": 3.1867,
+      "country": "Nigeria",
+      "city": "Lagos",
       "type": "other",
       "title": "Nigerian христианин, мусульманин Leaders Sign Peace Statement",
       "description": "More than 50 христианин и мусульманин leaders в Nigeria have signed interfaith peace accord aimed reducing религиозный tensions, rejecting hate speech, и strengthening cooperation between country’s two largest религиозный communities. agreem",
@@ -95,6 +108,19 @@
       "description": "Although Morocco formally recognizes религиозный freedom в its Constitution и portrays itself as country that supports религиозный tolerance, new report из International христианин Concern (ICC) и Regent университет’s Center для Global Justice",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/25/icc-regent-university-center-for-global-justice-publish-report-on-religious-freedom-in-morocco/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-25",
+      "lat": 11.8047,
+      "lng": 8.6572,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Reappointed Nigerian посол meets с папа Leo",
+      "description": "Папа Leo XIV received Paul Oga Adikwu, Nigeria’s new посол Holy See, в audience Vatican, where he presented his credentials на август 24, 2026. Catholic и specialist в educational matters, he ранее served as посол t",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/08/25/reappointed-nigerian-ambassador-meets-with-pope-leo/",
       "victims": 0
     },
     {
@@ -186,6 +212,19 @@
       "description": "“ люди God must know that священник is с them, that he is для them, и that he acts only с their best interest в mind,” архиепископ Salvatore Cordileone told 14 newly ordained священники.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/san-francisco-archbishop-urges-new-nigerian-priests-to-be-friends-and-fathers-to-their-people",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-24",
+      "lat": 21.0127,
+      "lng": 85.0201,
+      "country": "India",
+      "city": "Odisha",
+      "type": "arrest",
+      "title": "UK пастор Booked на Bizarre обвинения",
+      "description": "Власти обвинён British христианский лидер Indian descent в Pune, Maharashtra, India, для allegedly attempting illegally convert индусы христианство под law that has yet come в effect. Pune полиция filed chargesheet на",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/24/uk-pastor-booked-on-bizarre-charges/",
       "victims": 0
     },
     {
@@ -1526,6 +1565,19 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/un-experts-raise-grave-concern-over-violence-against-christian-women-and-girls-in-nigeria",
       "victims": 0
+    },
+    {
+      "date": "2026-08-18",
+      "lat": 10.5695,
+      "lng": 7.4263,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Фулани ополчения Kill 24 христиане в губернатор Mutfwang’s округ",
+      "description": "Least 24 христиане were убит в overnight атака на Bin Mper community в Kombun район Mangu округ, плато штат, округ губернатор Caleb Mutfwang, according local community leaders, as семьи gathered вторник bury victi",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/18/fulani-militias-kill-24-christians-in-governor-mutfwangs-county/",
+      "victims": 24
     },
     {
       "date": "2026-08-17",
@@ -6452,58 +6504,6 @@
       "description": "Does he really want them back or is it move impress Donald Trump?",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/iraqi-pm-asks-christians-to-return-following-mass-exodus",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": 12.0232,
-      "lng": 8.5219,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Nigerian пастор highlighted Trump says he’s next после ополчение kills his relatives",
-      "description": "Rev. Ezekiel Dachomo says фулани ополчение убит nine his семья и сейчас threatens his life as штат департамент condemns христианин гонение.",
-      "source": "newsapi:Fox News",
-      "url": "https://www.foxnews.com/world/nigerian-pastor-highlighted-trump-says-hes-next-after-militia-kills-his-relatives",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": 6.7479,
-      "lng": 3.2979,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "attack",
-      "title": "Христианин гонение: ‘It is honour stand с you в fight against террористы,’ Trump tells Tinubu",
-      "description": "— Applauds президент’s resolve tackle nation’s испытания Johnbosco Agbakwuru ABUJA — American президент, Donald Trump, has commended президент Bola Tinubu’s resolve tackle issues plaguing Nigeria, especially violence affecting Chris",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/christian-persecution-it-is-an-honour-to-stand-with-you-in-fight-against-terrorists-trump-tells-tinubu/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": 34.4878,
-      "lng": 36.8151,
-      "country": "Syria",
-      "city": "Homs",
-      "type": "other",
-      "title": "Церковь urges govt address exam concerns",
-      "description": "Malankara Orthodox Syrian церковь urges govt address competitive exam irregularities, NEET paper leak, ensure justice, и create transparent system.",
-      "source": "newsapi:The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kochi/church-urges-govt-to-address-exam-concerns/articleshow/132566694.cms",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": 10.5208,
-      "lng": 7.516,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "attack",
-      "title": "Христианин гонение: ‘It is honour stand с you в fight against террористы,’ Trump tells Tinubu",
-      "description": "— Applauds президент’s resolve tackle nation’s испытания Johnbosco Agbakwuru ABUJA — American президент, Donald Trump, has commended президент Bola Tinubu’s resolve tackle issues plaguing Nigeria, especially violence affecting Chris",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/christian-persecution-it-is-an-honour-to-stand-with-you-in-fight-against-terrorists-trump-tells-tinubu/",
       "victims": 0
     }
   ]
