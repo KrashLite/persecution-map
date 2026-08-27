@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-26T19:28:13.141Z",
+    "lastUpdated": "2026-08-27T05:19:22.113Z",
     "totalEvents": 500
   },
   "events": [
@@ -142,6 +142,19 @@
       "lng": 7.6788,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "other",
+      "title": "Reappointed Nigerian посол meets с папа Leo",
+      "description": "Папа Leo XIV received Paul Oga Adikwu, Nigeria’s new посол Holy See, в audience Vatican, where he presented his credentials на август 24, 2026. Catholic и specialist в educational matters, he ранее served as посол t",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/08/25/reappointed-nigerian-ambassador-meets-with-pope-leo/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-25",
+      "lat": 10.3585,
+      "lng": 7.4251,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "other",
       "title": "Reappointed Nigerian посол meets с папа Leo",
       "description": "Папа Leo XIV received Paul Oga Adikwu, Nigeria’s new посол Holy See, в audience Vatican, where he presented his credentials на август 24, 2026. Catholic и specialist в educational matters, he ранее served as посол t",
@@ -6491,19 +6504,6 @@
       "description": "Malankara Orthodox Syrian церковь urges govt address competitive exam irregularities, NEET paper leak, ensure justice, и create transparent system.",
       "source": "newsapi:The Times of India",
       "url": "https://timesofindia.indiatimes.com/city/kochi/church-urges-govt-to-address-exam-concerns/articleshow/132566694.cms",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": 10.6788,
-      "lng": 7.5704,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "kidnapping",
-      "title": "Экстремисты Abduct пастор’s Wife, 3 дети в Nigeria",
-      "description": "Исламский террористы, suspected be Боко Харам or Исламское государство West Africa провинция (ISWAP), похищен wife пастор и their three дети на суббота, июль 18, along Maiduguri-Damasak highway в Northeast Nigeria. семья",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/22/extremists-abduct-pastors-wife-3-children-in-nigeria/",
       "victims": 0
     }
   ]
