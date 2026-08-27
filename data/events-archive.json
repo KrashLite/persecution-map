@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-27T05:19:22.113Z",
+    "lastUpdated": "2026-08-27T16:57:13.714Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-08-27",
+      "lat": 27.61,
+      "lng": 85.2144,
+      "country": "Nepal",
+      "city": "Kathmandu",
+      "type": "murder",
+      "title": "Христианские лидеры respond devastating floods в Nepal и Tibet",
+      "description": "Христианские лидеры have offered their молитвы as emergency workers continue respond catastrophic flash floods в Nepal и Tibet убит hundreds люди и left many more пропавший без вести.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christian-leaders-respond-to-devastating-floods-in-nepal-and-tibet",
+      "victims": 150
+    },
     {
       "date": "2026-08-26",
       "lat": 9.2678,
@@ -163,6 +176,19 @@
       "victims": 0
     },
     {
+      "date": "2026-08-25",
+      "lat": 9.4665,
+      "lng": 9.4046,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Reappointed Nigerian посол meets с папа Leo",
+      "description": "Папа Leo XIV received Paul Oga Adikwu, Nigeria’s new посол Holy See, в audience Vatican, where he presented his credentials на август 24, 2026. Catholic и specialist в educational matters, he ранее served as посол t",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/08/25/reappointed-nigerian-ambassador-meets-with-pope-leo/",
+      "victims": 0
+    },
+    {
       "date": "2026-08-24",
       "lat": 6.4727,
       "lng": 3.2366,
@@ -277,6 +303,19 @@
       "description": "Власти обвинён British христианский лидер Indian descent в Pune, Maharashtra, India, для allegedly attempting illegally convert индусы христианство под law that has yet come в effect. Pune полиция filed chargesheet на",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/24/uk-pastor-booked-on-bizarre-charges/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-24",
+      "lat": 10.5474,
+      "lng": 7.2213,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "San Francisco архиепископ urges new Nigerian священники be ‘friends и fathers’ their люди",
+      "description": "“ люди God must know that священник is с them, that he is для them, и that he acts only с their best interest в mind,” архиепископ Salvatore Cordileone told 14 newly ordained священники.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/san-francisco-archbishop-urges-new-nigerian-priests-to-be-friends-and-fathers-to-their-people",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Rev. Ezekiel Dachomo says фулани ополчение убит nine his семья и сейчас threatens his life as штат департамент condemns христианин гонение.",
       "source": "newsapi:Fox News",
       "url": "https://www.foxnews.com/world/nigerian-pastor-highlighted-trump-says-hes-next-after-militia-kills-his-relatives",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": 11.7945,
-      "lng": 13.0058,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Nigerian пастор highlighted Trump says he’s next после ополчение kills his relatives",
-      "description": "Rev. Ezekiel Dachomo says фулани ополчение убит nine his семья и сейчас threatens his life as штат департамент condemns христианин гонение.",
-      "source": "newsapi:Fox News",
-      "url": "https://www.foxnews.com/world/nigerian-pastor-highlighted-trump-says-hes-next-after-militia-kills-his-relatives",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": 11.8109,
-      "lng": 12.9235,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "attack",
-      "title": "Христианин гонение: ‘It is honour stand с you в fight against террористы,’ Trump tells Tinubu",
-      "description": "— Applauds президент’s resolve tackle nation’s испытания Johnbosco Agbakwuru ABUJA — American президент, Donald Trump, has commended президент Bola Tinubu’s resolve tackle issues plaguing Nigeria, especially violence affecting Chris",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/christian-persecution-it-is-an-honour-to-stand-with-you-in-fight-against-terrorists-trump-tells-tinubu/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": 33.7418,
-      "lng": 36.0513,
-      "country": "Syria",
-      "city": "Damascus",
-      "type": "other",
-      "title": "Церковь urges govt address exam concerns",
-      "description": "Malankara Orthodox Syrian церковь urges govt address competitive exam irregularities, NEET paper leak, ensure justice, и create transparent system.",
-      "source": "newsapi:The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kochi/church-urges-govt-to-address-exam-concerns/articleshow/132566694.cms",
       "victims": 0
     }
   ]
