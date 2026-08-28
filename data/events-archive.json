@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-27T16:57:13.714Z",
+    "lastUpdated": "2026-08-28T01:50:38.767Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-08-28",
+      "lat": 39.6997,
+      "lng": 116.259,
+      "country": "China",
+      "city": "Beijing",
+      "type": "other",
+      "title": "Nepal, China warn второй flood as церковь launches relief усилия",
+      "description": "Local Catholic семьи, foreigners, и tourists were among those affected as Caritas launched flood appeal.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/nepal-china-warn-of-second-flood-as-church-launches-relief-efforts",
+      "victims": 0
+    },
     {
       "date": "2026-08-27",
       "lat": 27.61,
@@ -18,6 +31,45 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/christian-leaders-respond-to-devastating-floods-in-nepal-and-tibet",
       "victims": 150
+    },
+    {
+      "date": "2026-08-27",
+      "lat": 8.9886,
+      "lng": 7.2682,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "discrimination",
+      "title": "Христианские фермеры Fear Returning Their Fields в плато штат после фулани ополчения Kill 27",
+      "description": "Для many христианские фермеры в Irigwe communities в плато штат, Nigeria, traveling their farms has become dangerous. Some have stopped going altogether. Others сейчас move в groups, hoping that numbers will offer some protection. But для familie",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/27/christian-farmers-fear-returning-to-their-fields-in-plateau-state-after-fulani-militias-kill-27/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-27",
+      "lat": 27.7222,
+      "lng": 85.5173,
+      "country": "Nepal",
+      "city": "Kathmandu",
+      "type": "murder",
+      "title": "Concern Grows as индус Leaders Call для Nepal Be Declared индус Nation",
+      "description": "Христиане в Nepal have expressed growing apprehension после delegation индус религиозный leaders met с правительство и demanded that Nepal be declared индус nation. These concerns intensified following communal violence на июль 26 в t",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/27/concern-grows-as-hindu-leaders-call-for-nepal-to-be-declared-a-hindu-nation/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-27",
+      "lat": 28.5054,
+      "lng": 77.1078,
+      "country": "India",
+      "city": "Delhi",
+      "type": "other",
+      "title": "Catholic Charities steps up amid prolonged power outages в Indiana",
+      "description": "Catholic Charities Diocese Gary said that пока roughly 99% those who had lost power have сейчас had it restored, significant needs remain among residents recovering из recent storms.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/amid-prolonged-power-outages-in-indiana-catholic-charities-serves-those-in-need",
+      "victims": 0
     },
     {
       "date": "2026-08-26",
@@ -316,6 +368,19 @@
       "description": "“ люди God must know that священник is с them, that he is для them, и that he acts only с their best interest в mind,” архиепископ Salvatore Cordileone told 14 newly ordained священники.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/san-francisco-archbishop-urges-new-nigerian-priests-to-be-friends-and-fathers-to-their-people",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-24",
+      "lat": 26.7152,
+      "lng": 80.7427,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "arrest",
+      "title": "UK пастор Booked на Bizarre обвинения",
+      "description": "Власти обвинён British христианский лидер Indian descent в Pune, Maharashtra, India, для allegedly attempting illegally convert индусы христианство под law that has yet come в effect. Pune полиция filed chargesheet на",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/24/uk-pastor-booked-on-bizarre-charges/",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "SURABAYA, Indonesia (утро Star News) – мусульмане в Indonesia на июль 7 protested construction церковь building в South Sulawesi провинция, falsely claiming it had not fulfilled legal requirements, sources said. мусульмане also baselessly accus",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/07/muslims-protest-construction-of-church-building-in-indonesia/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": 4.5974,
-      "lng": 18.6771,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "murder",
-      "title": "Священник убит после Baptizing 175 люди",
-      "description": "День после he baptized 175 люди, 36-год-old Catholic священник was убит боевики в Central African Republic. Father Crépin Martial Monga, vicar St. John Baptist Parish в Zémio, в Diocese Bangassou, was застрелен в head",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/22/priest-killed-after-baptizing-175-people/",
-      "victims": 175
-    },
-    {
-      "date": "2026-07-22",
-      "lat": 15.6609,
-      "lng": 32.3356,
-      "country": "Sudan",
-      "city": "Khartoum",
-      "type": "murder",
-      "title": "Girl Receives смерть угрозы после Finding New Life в Christ",
-      "description": "Born в мусульманин семья в Haroji Wado, community near Ethiopia’s western border с Sudan, 14-год-old Fatuma’s life changed после she decided follow Christ в ноябрь 2025. Instead finding acceptance, she became target persecutio",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/22/girl-receives-death-threats-after-finding-new-life-in-christ/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": 9.03,
-      "lng": 9.4142,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "kidnapping",
-      "title": "Экстремисты Abduct пастор’s Wife, 3 дети в Nigeria",
-      "description": "Исламский террористы, suspected be Боко Харам or Исламское государство West Africa провинция (ISWAP), похищен wife пастор и their three дети на суббота, июль 18, along Maiduguri-Damasak highway в Northeast Nigeria. семья",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/22/extremists-abduct-pastors-wife-3-children-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": 35.4218,
-      "lng": 44.2527,
-      "country": "Iraq",
-      "city": "Kirkuk",
-      "type": "other",
-      "title": "Iraqi PM asks христиане return following месса exodus",
-      "description": "Does he really want them back or is it move impress Donald Trump?",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iraqi-pm-asks-christians-to-return-following-mass-exodus",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": 9.23,
-      "lng": 9.2905,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Nigerian пастор highlighted Trump says he’s next после ополчение kills his relatives",
-      "description": "Rev. Ezekiel Dachomo says фулани ополчение убит nine his семья и сейчас threatens his life as штат департамент condemns христианин гонение.",
-      "source": "newsapi:Fox News",
-      "url": "https://www.foxnews.com/world/nigerian-pastor-highlighted-trump-says-hes-next-after-militia-kills-his-relatives",
       "victims": 0
     }
   ]
