@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-28T01:50:38.767Z",
+    "lastUpdated": "2026-08-28T17:47:51.985Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,32 @@
       "description": "Local Catholic семьи, foreigners, и tourists were among those affected as Caritas launched flood appeal.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/nepal-china-warn-of-second-flood-as-church-launches-relief-efforts",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-28",
+      "lat": 34.0719,
+      "lng": 71.6449,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "kidnapping",
+      "title": "U.S. Lawmakers Urge Protection для христианин Girl в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Members U.S. конгресс have urged Pakistani правительство take steps protect 18-год-old христианка who her семья says was похищен и forcibly converted I",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/08/u-s-lawmakers-urge-protection-for-christian-girl-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-28",
+      "lat": 36.0818,
+      "lng": 59.7273,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "New Iranian security law could be used further suppress христианин activity",
+      "description": "Религиозный freedom campaigners have warned that new law aimed countering foreign espionage в Iran май actually be used further suppress rights христиане.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/new-iranian-security-law-could-be-used-to-further-suppress-christian-activity",
       "victims": 0
     },
     {
@@ -72,6 +98,19 @@
       "victims": 0
     },
     {
+      "date": "2026-08-27",
+      "lat": 27.0728,
+      "lng": 80.8611,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "other",
+      "title": "Catholic Charities steps up amid prolonged power outages в Indiana",
+      "description": "Catholic Charities Diocese Gary said that пока roughly 99% those who had lost power have сейчас had it restored, significant needs remain among residents recovering из recent storms.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/amid-prolonged-power-outages-in-indiana-catholic-charities-serves-those-in-need",
+      "victims": 0
+    },
+    {
       "date": "2026-08-26",
       "lat": 9.2678,
       "lng": 7.3962,
@@ -103,6 +142,19 @@
       "lng": 9.2846,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "other",
+      "title": "Nigerian христианин, мусульманин Leaders Sign Peace Statement",
+      "description": "More than 50 христианин и мусульманин leaders в Nigeria have signed interfaith peace accord aimed reducing религиозный tensions, rejecting hate speech, и strengthening cooperation between country’s two largest религиозный communities. agreem",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/26/nigerian-christian-muslim-leaders-sign-peace-statement/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-26",
+      "lat": 12.1226,
+      "lng": 8.3793,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "other",
       "title": "Nigerian христианин, мусульманин Leaders Sign Peace Statement",
       "description": "More than 50 христианин и мусульманин leaders в Nigeria have signed interfaith peace accord aimed reducing религиозный tensions, rejecting hate speech, и strengthening cooperation between country’s two largest религиозный communities. agreem",
@@ -6452,58 +6504,6 @@
       "description": "Исламский террористы, suspected be Боко Харам or Исламское государство West Africa провинция (ISWAP), похищен wife пастор и their three дети на суббота, июль 18, along Maiduguri-Damasak highway в Northeast Nigeria. семья",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/22/extremists-abduct-pastors-wife-3-children-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": -4.4752,
-      "lng": 15.4524,
-      "country": "Democratic Republic of the Congo",
-      "city": "Kinshasa",
-      "type": "murder",
-      "title": "Церковь старейшина и лидер поклонения among погибшие в fresh wave атаки в eastern DRC",
-      "description": "Церковь старейшина и лидер поклонения were among six люди убит в атака на rural христианская община в eastern Democratic Republic Congo (DRC).",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/church-elder-and-worship-leader-among-dead-in-fresh-wave-of-attacks-in-eastern-drc",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": 36.337,
-      "lng": 43.2677,
-      "country": "Iraq",
-      "city": "Mosul",
-      "type": "other",
-      "title": "Iraqi PM asks христиане return following месса exodus",
-      "description": "Does he really want them back or is it move impress Donald Trump?",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iraqi-pm-asks-christians-to-return-following-mass-exodus",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": 6.4388,
-      "lng": 3.5053,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "kidnapping",
-      "title": "Экстремисты Abduct пастор’s Wife, 3 дети в Nigeria",
-      "description": "Исламский террористы, suspected be Боко Харам or Исламское государство West Africa провинция (ISWAP), похищен wife пастор и their three дети на суббота, июль 18, along Maiduguri-Damasak highway в Northeast Nigeria. семья",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/22/extremists-abduct-pastors-wife-3-children-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": -5.9995,
-      "lng": 106.9277,
-      "country": "Indonesia",
-      "city": "Jakarta",
-      "type": "other",
-      "title": "Мусульмане Protest Construction церковь Building в Indonesia",
-      "description": "SURABAYA, Indonesia (утро Star News) – мусульмане в Indonesia на июль 7 protested construction церковь building в South Sulawesi провинция, falsely claiming it had not fulfilled legal requirements, sources said. мусульмане also baselessly accus",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/muslims-protest-construction-of-church-building-in-indonesia/",
       "victims": 0
     }
   ]
