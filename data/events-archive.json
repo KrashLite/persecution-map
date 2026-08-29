@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-29T11:52:00.580Z",
+    "lastUpdated": "2026-08-29T15:50:02.324Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-08-29",
+      "lat": -1.1606,
+      "lng": 36.596,
+      "country": "Kenya",
+      "city": "Nairobi",
+      "type": "other",
+      "title": "Married father two exposed для posing as Catholic священник",
+      "description": "Married father two has been exposed в Kenya для allegedly posing as Catholic священник и conducting религиозный activities в several parishes в Turkana округ. post Married father two exposed для posing as Catholic священник appeared первый",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/08/married-father-of-two-exposed-for-posing-as-catholic-priest/",
+      "victims": 0
+    },
     {
       "date": "2026-08-28",
       "lat": 39.6997,
@@ -124,6 +137,32 @@
       "victims": 0
     },
     {
+      "date": "2026-08-28",
+      "lat": 24.6807,
+      "lng": 66.9393,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "kidnapping",
+      "title": "U.S. Lawmakers Urge Protection для христианин Girl в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Members U.S. конгресс have urged Pakistani правительство take steps protect 18-год-old христианка who her семья says was похищен и forcibly converted I",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/08/u-s-lawmakers-urge-protection-for-christian-girl-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-28",
+      "lat": 32.5948,
+      "lng": 51.7518,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "New Iranian security law could be used further suppress христианин activity",
+      "description": "Религиозный freedom campaigners have warned that new law aimed countering foreign espionage в Iran май actually be used further suppress rights христиане.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/new-iranian-security-law-could-be-used-to-further-suppress-christian-activity",
+      "victims": 0
+    },
+    {
       "date": "2026-08-27",
       "lat": 27.61,
       "lng": 85.2144,
@@ -220,6 +259,32 @@
       "lng": 81.6484,
       "country": "India",
       "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Catholic Charities steps up amid prolonged power outages в Indiana",
+      "description": "Catholic Charities Diocese Gary said that пока roughly 99% those who had lost power have сейчас had it restored, significant needs remain among residents recovering из recent storms.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/amid-prolonged-power-outages-in-indiana-catholic-charities-serves-those-in-need",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-27",
+      "lat": 6.7357,
+      "lng": 3.2586,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "discrimination",
+      "title": "Христианские фермеры Fear Returning Their Fields в плато штат после фулани ополчения Kill 27",
+      "description": "Для many христианские фермеры в Irigwe communities в плато штат, Nigeria, traveling their farms has become dangerous. Some have stopped going altogether. Others сейчас move в groups, hoping that numbers will offer some protection. But для familie",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/27/christian-farmers-fear-returning-to-their-fields-in-plateau-state-after-fulani-militias-kill-27/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-27",
+      "lat": 19.1896,
+      "lng": 72.6526,
+      "country": "India",
+      "city": "Mumbai",
       "type": "other",
       "title": "Catholic Charities steps up amid prolonged power outages в Indiana",
       "description": "Catholic Charities Diocese Gary said that пока roughly 99% those who had lost power have сейчас had it restored, significant needs remain among residents recovering из recent storms.",
@@ -6439,71 +6504,6 @@
       "description": "Chang Yanfeng, 42, was ordained епископ сегодня под Sino-Holy See agreement diocese that has been without its own пастор для 20 годы. Just three недели ago, new prelate had publicly commit local церковь controversial law design",
       "source": "zenit",
       "url": "https://zenit.org/2026/07/23/under-the-agreement-with-china-leo-xiv-appoints-a-new-bishop/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-23",
-      "lat": 21.1074,
-      "lng": 81.7316,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "arrest",
-      "title": "Христиане заключён под India’s ‘Anti-обращение’ Law",
-      "description": "NEW DELHI (утро Star News) – Six пасторы и another христианин в India have begun serving their five-год тюрьма приговоры под “anti-обращение” law, two годы после they were falsely accused ребёнок’s birthday party, sources said. Ch",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/christians-imprisoned-under-indias-anti-conversion-law/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-23",
-      "lat": 11.8989,
-      "lng": 8.785,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "Христианин гонение: Trump vows stand с Nigeria в anti-terror war",
-      "description": "“I applaud your resolve tackle issues plaguing your nation, especially violence affecting христианские общины\". post христианин гонение: Trump vows stand с Nigeria в anti-terror war appeared первый на Vanguard News.",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/christian-persecution-trump-vows-to-stand-with-nigeria-in-anti-terror-war/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-23",
-      "lat": 27.0566,
-      "lng": 80.7962,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "arrest",
-      "title": "Христиане заключён под India’s ‘Anti-обращение’ Law",
-      "description": "NEW DELHI (утро Star News) – Six пасторы и another христианин в India have begun serving their five-год тюрьма приговоры под “anti-обращение” law, two годы после they were falsely accused ребёнок’s birthday party, sources said. Ch",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/christians-imprisoned-under-indias-anti-conversion-law/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-23",
-      "lat": 10.5441,
-      "lng": 7.5558,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Христианин гонение: Trump vows stand с Nigeria в anti-terror war",
-      "description": "“I applaud your resolve tackle issues plaguing your nation, especially violence affecting христианские общины\". post христианин гонение: Trump vows stand с Nigeria в anti-terror war appeared первый на Vanguard News.",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/07/christian-persecution-trump-vows-to-stand-with-nigeria-in-anti-terror-war/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-23",
-      "lat": 10.403,
-      "lng": 7.2261,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Tinubu busy paying American lobbyists - US lawmaker, Ted Cruz claims",
-      "description": "United штаты lawmaker, Ted Cruz, has alleged that Nigeria's президент Bola Tinubu is spending resources и attention на US lobbyists amid гонение христиане в Nigeria. Senator Cruz made this allegation в statement на среда, saying",
-      "source": "newsapi:Daily Post Nigeria",
-      "url": "https://dailypost.ng/2026/07/23/tinubu-busy-paying-american-lobbyists-us-lawmaker-ted-cruz-claims/",
       "victims": 0
     }
   ]
