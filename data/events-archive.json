@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-28T17:47:51.985Z",
+    "lastUpdated": "2026-08-29T01:14:13.325Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,32 @@
       "description": "Религиозный freedom campaigners have warned that new law aimed countering foreign espionage в Iran май actually be used further suppress rights христиане.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/new-iranian-security-law-could-be-used-to-further-suppress-christian-activity",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-28",
+      "lat": 16.9045,
+      "lng": 96.1343,
+      "country": "Myanmar",
+      "city": "Yangon",
+      "type": "murder",
+      "title": "Baptist пастор убит за веру в Myanmar военные Dictatorship",
+      "description": "Burma Research Institute (BRI) has confirmed that Rev. William и another Chin христианин, Nam Ceu, were extrajudicially убит на июнь 4 Burmese военные dictatorship. Rev. William had pastored Chungcung баптистская церковь в Chin stat",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/28/baptist-pastor-martyred-in-myanmar-by-military-dictatorship/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-28",
+      "lat": 10.5787,
+      "lng": 106.5871,
+      "country": "Vietnam",
+      "city": "Ho Chi Minh City",
+      "type": "other",
+      "title": "Revival Latin месса spreads among Vietnamese Catholic молодёжь",
+      "description": "Vietnamese молодёжь drawn TLM, Holy Land священники highlight plight христианская община, Philippine dioceses call для end mining agreement, и more в на этой неделе’s world news roundup.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/revival-of-latin-mass-spreads-among-vietnamese-catholic-youth",
       "victims": 0
     },
     {
@@ -108,6 +134,19 @@
       "description": "Catholic Charities Diocese Gary said that пока roughly 99% those who had lost power have сейчас had it restored, significant needs remain among residents recovering из recent storms.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/amid-prolonged-power-outages-in-indiana-catholic-charities-serves-those-in-need",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-27",
+      "lat": 11.7599,
+      "lng": 13.2601,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "discrimination",
+      "title": "Христианские фермеры Fear Returning Their Fields в плато штат после фулани ополчения Kill 27",
+      "description": "Для many христианские фермеры в Irigwe communities в плато штат, Nigeria, traveling their farms has become dangerous. Some have stopped going altogether. Others сейчас move в groups, hoping that numbers will offer some protection. But для familie",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/27/christian-farmers-fear-returning-to-their-fields-in-plateau-state-after-fulani-militias-kill-27/",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Sule added that политический realities differ across штаты, noting that штаты such as Enugu и Bayelsa already operate христианин-христианские лидерыhip without controversy. post христианин-христианин ticket will win Nigeria’s presidency one день — Gov",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/07/christian-christian-ticket-will-win-nigerias-presidency-one-day-gov-sule-abdullahi/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": 11.9837,
-      "lng": 8.4212,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "I pray Nigeria gets winning христианин-христианин ticket — Nasarawa gov",
-      "description": "Nasarawa штат губернатор Abdullahi Sule expresses his desire для winning христианин-христианин presidential ticket в Nigeria, dismissing религиозный exclusio Read More: https://punchng.com/i-pray-nigeria-gets--winning-христианин-христианин-ticket-nasar",
-      "source": "punchng",
-      "url": "https://punchng.com/i-pray-nigeria-gets-a-winning-christian-christian-ticket-nasarawa-gov/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": 35.9677,
-      "lng": 43.8968,
-      "country": "Iraq",
-      "city": "Erbil",
-      "type": "other",
-      "title": "Iraqi PM asks христиане return following месса exodus",
-      "description": "Does he really want them back or is it move impress Donald Trump?",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iraqi-pm-asks-christians-to-return-following-mass-exodus",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-22",
-      "lat": 8.9819,
-      "lng": 7.4542,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "kidnapping",
-      "title": "Экстремисты Abduct пастор’s Wife, 3 дети в Nigeria",
-      "description": "Исламский террористы, suspected be Боко Харам or Исламское государство West Africa провинция (ISWAP), похищен wife пастор и their three дети на суббота, июль 18, along Maiduguri-Damasak highway в Northeast Nigeria. семья",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/22/extremists-abduct-pastors-wife-3-children-in-nigeria/",
       "victims": 0
     }
   ]
