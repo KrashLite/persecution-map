@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-29T15:50:02.324Z",
+    "lastUpdated": "2026-08-29T20:04:48.288Z",
     "totalEvents": 500
   },
   "events": [
@@ -163,6 +163,19 @@
       "victims": 0
     },
     {
+      "date": "2026-08-28",
+      "lat": 35.7867,
+      "lng": 51.165,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "New Iranian security law could be used further suppress христианин activity",
+      "description": "Религиозный freedom campaigners have warned that new law aimed countering foreign espionage в Iran май actually be used further suppress rights христиане.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/new-iranian-security-law-could-be-used-to-further-suppress-christian-activity",
+      "victims": 0
+    },
+    {
       "date": "2026-08-27",
       "lat": 27.61,
       "lng": 85.2144,
@@ -285,6 +298,19 @@
       "lng": 72.6526,
       "country": "India",
       "city": "Mumbai",
+      "type": "other",
+      "title": "Catholic Charities steps up amid prolonged power outages в Indiana",
+      "description": "Catholic Charities Diocese Gary said that пока roughly 99% those who had lost power have сейчас had it restored, significant needs remain among residents recovering из recent storms.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/amid-prolonged-power-outages-in-indiana-catholic-charities-serves-those-in-need",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-27",
+      "lat": 21.1118,
+      "lng": 85.2314,
+      "country": "India",
+      "city": "Odisha",
       "type": "other",
       "title": "Catholic Charities steps up amid prolonged power outages в Indiana",
       "description": "Catholic Charities Diocese Gary said that пока roughly 99% those who had lost power have сейчас had it restored, significant needs remain among residents recovering из recent storms.",
@@ -6478,32 +6504,6 @@
       "description": "“I applaud your resolve tackle issues plaguing your nation, especially violence affecting христианские общины\". post христианин гонение: Trump vows stand с Nigeria в anti-terror war appeared первый на Vanguard News.",
       "source": "newsapi:Vanguard",
       "url": "https://www.vanguardngr.com/2026/07/christian-persecution-trump-vows-to-stand-with-nigeria-in-anti-terror-war/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-23",
-      "lat": 9.2938,
-      "lng": 9.4435,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Tinubu busy paying American lobbyists - US lawmaker, Ted Cruz claims",
-      "description": "United штаты lawmaker, Ted Cruz, has alleged that Nigeria's президент Bola Tinubu is spending resources и attention на US lobbyists amid гонение христиане в Nigeria. Senator Cruz made this allegation в statement на среда, saying",
-      "source": "newsapi:Daily Post Nigeria",
-      "url": "https://dailypost.ng/2026/07/23/tinubu-busy-paying-american-lobbyists-us-lawmaker-ted-cruz-claims/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-23",
-      "lat": 23.3324,
-      "lng": 113.7372,
-      "country": "China",
-      "city": "Guangdong",
-      "type": "other",
-      "title": "Под agreement с China, Leo XIV appoints new епископ",
-      "description": "Chang Yanfeng, 42, was ordained епископ сегодня под Sino-Holy See agreement diocese that has been without its own пастор для 20 годы. Just three недели ago, new prelate had publicly commit local церковь controversial law design",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/07/23/under-the-agreement-with-china-leo-xiv-appoints-a-new-bishop/",
       "victims": 0
     }
   ]
