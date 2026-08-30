@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-30T15:35:00.212Z",
+    "lastUpdated": "2026-08-30T20:10:56.785Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,32 @@
       "description": "Pontiff said верующие should speak honestly God в moments confusion пока humbly accepting his ways.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-appeals-for-release-of-haiti-hostages-prays-for-flood-victims-in-nepal-and-tibet",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-30",
+      "lat": 9.3493,
+      "lng": 9.5945,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Rest для священник not luxury but necessity для mental health, Nigerian Vatican чиновник says",
+      "description": "As part formation program, secretary Vatican Dicastery для Evangelization urged священники take time away из министерство sustain their physical и mental health.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/rest-for-a-priest-not-a-luxury-but-a-necessity-for-mental-health-nigerian-vatican-official-says",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-30",
+      "lat": 10.3076,
+      "lng": 7.5334,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "VIDEO: Nigerians are already в hell, Ibiyeomie urges compassionate evangelism",
+      "description": "Пастор David Ibiyeomie защитники для compassionate evangelism, stating Nigerians are “already в hell” due economic лишения. Learn why he believes love Read More: https://punchng.com/video-nigerians-are-already-в-hell-ibiyeomie-urges-compassion",
+      "source": "punchng",
+      "url": "https://punchng.com/video-nigerians-are-already-in-hell-ibiyeomie-urges-compassionate-evangelism/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     },
     {
@@ -212,6 +238,19 @@
       "description": "Религиозный freedom campaigners have warned that new law aimed countering foreign espionage в Iran май actually be used further suppress rights христиане.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/new-iranian-security-law-could-be-used-to-further-suppress-christian-activity",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-28",
+      "lat": 33.8288,
+      "lng": 73.2563,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "kidnapping",
+      "title": "U.S. Lawmakers Urge Protection для христианин Girl в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Members U.S. конгресс have urged Pakistani правительство take steps protect 18-год-old христианка who her семья says was похищен и forcibly converted I",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/08/u-s-lawmakers-urge-protection-for-christian-girl-in-pakistan/",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Chang Yanfeng, 42, was ordained епископ сегодня под Sino-Holy See agreement diocese that has been without its own пастор для 20 годы. Just three недели ago, new prelate had publicly commit local церковь controversial law design",
       "source": "zenit",
       "url": "https://zenit.org/2026/07/23/under-the-agreement-with-china-leo-xiv-appoints-a-new-bishop/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-23",
-      "lat": 11.9792,
-      "lng": 13.0932,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "PFN urges Tinubu reject anti-preaching bill",
-      "description": "Body says proposed law is unnecessary, targeted христиане Olayinka Ajayi LAGOS — Pentecostal Fellowship Nigeria (PFN) has urged президент Bola Tinubu not assent anti-preaching и hawking bill в настоящее время до National Ass",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/07/pfn-urges-tinubu-to-reject-anti-preaching-bill/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-23",
-      "lat": 40.0174,
-      "lng": 116.3309,
-      "country": "China",
-      "city": "Beijing",
-      "type": "other",
-      "title": "Под agreement с China, Leo XIV appoints new епископ",
-      "description": "Chang Yanfeng, 42, was ordained епископ сегодня под Sino-Holy See agreement diocese that has been without its own пастор для 20 годы. Just three недели ago, new prelate had publicly commit local церковь controversial law design",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/07/23/under-the-agreement-with-china-leo-xiv-appoints-a-new-bishop/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-23",
-      "lat": 20.9031,
-      "lng": 84.9299,
-      "country": "India",
-      "city": "Odisha",
-      "type": "arrest",
-      "title": "Христиане заключён под India’s ‘Anti-обращение’ Law",
-      "description": "NEW DELHI (утро Star News) – Six пасторы и another христианин в India have begun serving their five-год тюрьма приговоры под “anti-обращение” law, two годы после they were falsely accused ребёнок’s birthday party, sources said. Ch",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/christians-imprisoned-under-indias-anti-conversion-law/",
       "victims": 0
     }
   ]
