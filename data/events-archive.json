@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-30T01:57:10.919Z",
+    "lastUpdated": "2026-08-30T10:48:46.264Z",
     "totalEvents": 500
   },
   "events": [
@@ -332,6 +332,19 @@
       "victims": 0
     },
     {
+      "date": "2026-08-27",
+      "lat": 9.1083,
+      "lng": 9.4415,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "discrimination",
+      "title": "Христианские фермеры Fear Returning Their Fields в плато штат после фулани ополчения Kill 27",
+      "description": "Для many христианские фермеры в Irigwe communities в плато штат, Nigeria, traveling their farms has become dangerous. Some have stopped going altogether. Others сейчас move в groups, hoping that numbers will offer some protection. But для familie",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/27/christian-farmers-fear-returning-to-their-fields-in-plateau-state-after-fulani-militias-kill-27/",
+      "victims": 0
+    },
+    {
       "date": "2026-08-26",
       "lat": 9.2678,
       "lng": 7.3962,
@@ -389,6 +402,19 @@
       "lng": 13.3663,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "other",
+      "title": "Nigerian христианин, мусульманин Leaders Sign Peace Statement",
+      "description": "More than 50 христианин и мусульманин leaders в Nigeria have signed interfaith peace accord aimed reducing религиозный tensions, rejecting hate speech, и strengthening cooperation between country’s two largest религиозный communities. agreem",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/26/nigerian-christian-muslim-leaders-sign-peace-statement/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-26",
+      "lat": 10.7604,
+      "lng": 7.3595,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "other",
       "title": "Nigerian христианин, мусульманин Leaders Sign Peace Statement",
       "description": "More than 50 христианин и мусульманин leaders в Nigeria have signed interfaith peace accord aimed reducing религиозный tensions, rejecting hate speech, и strengthening cooperation between country’s two largest религиозный communities. agreem",
@@ -6478,32 +6504,6 @@
       "description": "“I applaud your resolve tackle issues plaguing your nation, especially violence affecting христианские общины\". post христианин гонение: Trump vows stand с Nigeria в anti-terror war appeared первый на Vanguard News.",
       "source": "newsapi:Vanguard",
       "url": "https://www.vanguardngr.com/2026/07/christian-persecution-trump-vows-to-stand-with-nigeria-in-anti-terror-war/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-23",
-      "lat": 11.6115,
-      "lng": 13.0966,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "Tinubu busy paying American lobbyists - US lawmaker, Ted Cruz claims",
-      "description": "United штаты lawmaker, Ted Cruz, has alleged that Nigeria's президент Bola Tinubu is spending resources и attention на US lobbyists amid гонение христиане в Nigeria. Senator Cruz made this allegation в statement на среда, saying",
-      "source": "newsapi:Daily Post Nigeria",
-      "url": "https://dailypost.ng/2026/07/23/tinubu-busy-paying-american-lobbyists-us-lawmaker-ted-cruz-claims/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-23",
-      "lat": 31.3712,
-      "lng": 121.6277,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "other",
-      "title": "Под agreement с China, Leo XIV appoints new епископ",
-      "description": "Chang Yanfeng, 42, was ordained епископ сегодня под Sino-Holy See agreement diocese that has been without its own пастор для 20 годы. Just three недели ago, new prelate had publicly commit local церковь controversial law design",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/07/23/under-the-agreement-with-china-leo-xiv-appoints-a-new-bishop/",
       "victims": 0
     }
   ]
