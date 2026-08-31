@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-08-31T01:52:43.885Z",
+    "lastUpdated": "2026-08-31T11:58:14.596Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-08-31",
+      "lat": 18.9707,
+      "lng": 72.9592,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "other",
+      "title": "Христиане move protect themselves as another Indian штат enacts anti-обращение law",
+      "description": "Церкви are asking visitors sign consent forms declaring that they attend services their own free will.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christians-move-to-protect-themselves-as-another-indian-state-enacts-anti-conversion-law",
+      "victims": 0
+    },
     {
       "date": "2026-08-30",
       "lat": 12.0335,
@@ -6491,19 +6504,6 @@
       "description": "Христианин Association Nigeria (CAN) rejects proposed запрет на preaching в commercial vehicles, citing concerns constitutional rights. Read More: https://punchng.com/can-rejects-proposed-запрет-на-preaching-inside-vehicles/",
       "source": "punchng",
       "url": "https://punchng.com/can-rejects-proposed-ban-on-preaching-inside-vehicles/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-23",
-      "lat": 10.4866,
-      "lng": -66.8582,
-      "country": "Venezuela",
-      "city": "Caracas",
-      "type": "other",
-      "title": "Venezuela One месяц после Earthquake: Scale Disaster и Role церковь",
-      "description": "Analysis United Nations офис для Disaster Risk Reduction estimated direct повреждение approximately $24 billion public и private buildings и another $13 billion infrastructure post Venezuela One месяц после Earthquake:",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/07/23/venezuela-one-month-after-the-earthquake-the-scale-of-the-disaster-and-the-role-of-the-church/",
       "victims": 0
     }
   ]
