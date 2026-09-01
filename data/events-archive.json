@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-01T10:37:44.238Z",
+    "lastUpdated": "2026-09-01T15:39:19.276Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,19 @@
       "description": "That is why Mexican церковь's intervention has increasingly focused not only на молитва, but also на presence post Mexico’s церкви Become Places Hope as Search для пропавший без вести Reaches 135,000 appeared первый на ZENIT - English.",
       "source": "zenit",
       "url": "https://zenit.org/2026/08/31/mexicos-churches-become-places-of-hope-as-the-search-for-the-missing-reaches-135000/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-01",
+      "lat": 12.089,
+      "lng": 8.3961,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "U.S. ‘must balance other interests’ в Nigeria, чиновники say as христианин гонение continues",
+      "description": "“There are solutions out there but Nigerians have solve this end день,” said Tibor Nagy, former assistant secretary бюро African Affairs штат департамент.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/u-s-must-balance-other-interests-in-nigeria-experts-say-as-christian-persecution-continues",
       "victims": 0
     },
     {
@@ -194,6 +207,45 @@
       "lng": 3.2236,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "discrimination",
+      "title": "Религиозный freedom под growing угроза worldwide, experts warn Catholic gathering в Italy",
+      "description": "Speakers Rimini Meeting highlighted гонение христиане, violence в Nigeria и Lebanon, и importance defending freedom вера для люди all веры.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/europe/religious-freedom-under-growing-threat-worldwide-experts-warn-at-catholic-gathering-in-italy",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-31",
+      "lat": 32.7016,
+      "lng": 51.8895,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "Canada Grants убежище Iranian христианин депортирован из US",
+      "description": "После being депортирован из United штаты пока seeking убежище, христианин-конверт who fled гонение в Iran has new home. Artemis Ghasemzadeh, 27, недавно received убежище through Canada’s беженец resettlement program. She arrived her new",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/31/canada-grants-asylum-to-iranian-christian-deported-from-us/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-31",
+      "lat": 33.6788,
+      "lng": 73.0454,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "kidnapping",
+      "title": "Мусульманин’s Custody христианин Girl в Pakistan Condemned",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – христианин rights защитники на суббота (Aug. 29) condemned Pakistani суд’s decision give custody 13-год-old христианин girl мусульманин accused abducting, forcibly co",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/08/muslims-custody-of-christian-girl-to-muslim-in-pakistan-condemned/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-31",
+      "lat": 11.7572,
+      "lng": 8.694,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "discrimination",
       "title": "Религиозный freedom под growing угроза worldwide, experts warn Catholic gathering в Italy",
       "description": "Speakers Rimini Meeting highlighted гонение христиане, violence в Nigeria и Lebanon, и importance defending freedom вера для люди all веры.",
@@ -6452,58 +6504,6 @@
       "description": "NAIROBI, Kenya (утро Star News) – имам who debated пастор interfaith dialogue в Uganda is suspect в убийство церковь leader после event на суббота (июль 18), sources said. Bernard Mulongo, 25-год-old пастор New R",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/07/young-pastor-killed-after-religious-debate-in-uganda/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-24",
-      "lat": 31.429,
-      "lng": 74.3818,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "kidnapping",
-      "title": "Мусульманин женщина Gains Custody христианин Girl в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan has handed custody 16-год-old христианин girl unrelated мусульманин женщина после несовершеннолетний was recovered из мусульманин accused abducting, forcibly conver",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/muslim-woman-gains-custody-of-christian-girl-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-24",
-      "lat": 26.7774,
-      "lng": 80.8906,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "other",
-      "title": "Petition Highlights дружинник Violence",
-      "description": "Supreme суд India, на июль 15, heard petition that highlights rising hate speech against христиане, especially дружинник violence во время христианин festivals. Commonly known as “Violence Petition,” petition originated в 2022 d",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/24/petition-highlights-vigilante-violence/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-24",
-      "lat": 33.8361,
-      "lng": 71.5168,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "murder",
-      "title": "Pakistan Supreme суд Acquits All Suspects в 2014 Brick Kiln убийство Case",
-      "description": "Supreme суд Pakistan has ordered release окончательный three мужчины на смерть row в 2014 убийство case христианин couple, Shahzad Masih и his pregnant wife, Shama Bibi. с this decision, along с dismissal штат appeal",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/24/pakistan-supreme-court-acquits-all-suspects-in-2014-brick-kiln-murder-case/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-24",
-      "lat": 36.3084,
-      "lng": 59.41,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "attack",
-      "title": "Catholic moral theologians concerned claims U.S., Iran struck гражданский infrastructure",
-      "description": "Battle пролив Hormuz rekindled war в Middle East после ceasefire ended. Intent harm гражданские, including атаки на гражданский infrastructure, is immoral, theologians said.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/theologians-warn-against-attacks-civilians-iran-war-july",
       "victims": 0
     }
   ]
