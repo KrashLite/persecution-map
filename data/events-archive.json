@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-01T02:15:25.466Z",
+    "lastUpdated": "2026-09-01T10:37:44.238Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-09-01",
+      "lat": 9.3723,
+      "lng": 9.5398,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "NUPRC clarifies $300 вертолёт levy, exempts offshore oil операции из TNC",
+      "description": "Nigerian Upstream Petroleum Regulatory комиссия (NUPRC) says 300-dollar вертолёт levy для air navigational services remains payable, пока Terminal Navigational обвинение (TNC) does not apply offshore petroleum операции. post NU",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/09/nuprc-clarifies-300-helicopter-levy-exempts-offshore-oil-operations-from-tnc/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-01",
+      "lat": 19.4389,
+      "lng": -99.0052,
+      "country": "Mexico",
+      "city": "Mexico City",
+      "type": "other",
+      "title": "Mexico’s церкви Become Places Hope as Search для пропавший без вести Reaches 135,000",
+      "description": "That is why Mexican церковь's intervention has increasingly focused not only на молитва, but also на presence post Mexico’s церкви Become Places Hope as Search для пропавший без вести Reaches 135,000 appeared первый на ZENIT - English.",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/08/31/mexicos-churches-become-places-of-hope-as-the-search-for-the-missing-reaches-135000/",
+      "victims": 0
+    },
     {
       "date": "2026-08-31",
       "lat": 18.9707,
@@ -134,6 +160,45 @@
       "description": "Епископы discussed pastoral испытания facing церковь в North America as whole и concelebrated месса на Aug. 30 в Cuernavaca, Mexico, cathedral.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/americas/bishops-from-mexico-u-s-canada-see-urgent-need-to-speak-with-one-voice",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-31",
+      "lat": 36.1224,
+      "lng": 59.8558,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Canada Grants убежище Iranian христианин депортирован из US",
+      "description": "После being депортирован из United штаты пока seeking убежище, христианин-конверт who fled гонение в Iran has new home. Artemis Ghasemzadeh, 27, недавно received убежище through Canada’s беженец resettlement program. She arrived her new",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/31/canada-grants-asylum-to-iranian-christian-deported-from-us/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-31",
+      "lat": 31.5579,
+      "lng": 74.2739,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "kidnapping",
+      "title": "Мусульманин’s Custody христианин Girl в Pakistan Condemned",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – христианин rights защитники на суббота (Aug. 29) condemned Pakistani суд’s decision give custody 13-год-old христианин girl мусульманин accused abducting, forcibly co",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/08/muslims-custody-of-christian-girl-to-muslim-in-pakistan-condemned/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-31",
+      "lat": 6.6721,
+      "lng": 3.2236,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "discrimination",
+      "title": "Религиозный freedom под growing угроза worldwide, experts warn Catholic gathering в Italy",
+      "description": "Speakers Rimini Meeting highlighted гонение христиане, violence в Nigeria и Lebanon, и importance defending freedom вера для люди all веры.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/europe/religious-freedom-under-growing-threat-worldwide-experts-warn-at-catholic-gathering-in-italy",
       "victims": 0
     },
     {
@@ -571,6 +636,19 @@
       "lng": 9.4415,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "discrimination",
+      "title": "Христианские фермеры Fear Returning Their Fields в плато штат после фулани ополчения Kill 27",
+      "description": "Для many христианские фермеры в Irigwe communities в плато штат, Nigeria, traveling their farms has become dangerous. Some have stopped going altogether. Others сейчас move в groups, hoping that numbers will offer some protection. But для familie",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/08/27/christian-farmers-fear-returning-to-their-fields-in-plateau-state-after-fulani-militias-kill-27/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-27",
+      "lat": 12.2268,
+      "lng": 8.519,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "discrimination",
       "title": "Христианские фермеры Fear Returning Their Fields в плато штат после фулани ополчения Kill 27",
       "description": "Для many христианские фермеры в Irigwe communities в плато штат, Nigeria, traveling their farms has become dangerous. Some have stopped going altogether. Others сейчас move в groups, hoping that numbers will offer some protection. But для familie",
@@ -6426,84 +6504,6 @@
       "description": "Battle пролив Hormuz rekindled war в Middle East после ceasefire ended. Intent harm гражданские, including атаки на гражданский infrastructure, is immoral, theologians said.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/theologians-warn-against-attacks-civilians-iran-war-july",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-24",
-      "lat": 6.737,
-      "lng": 3.4345,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "US lawmaker seeks Nnamdi Kanu’s release",
-      "description": "US Congressman renews calls для Nnamdi Kanu’s release, linking his задержание alleged религиозный гонение христиане в Nigeria. Read more на Read More: https://punchng.com/us-lawmaker-seeks-nnamdi-kanus-release/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-lawmaker-seeks-nnamdi-kanus-release/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-24",
-      "lat": 21.0661,
-      "lng": 85.2334,
-      "country": "India",
-      "city": "Odisha",
-      "type": "other",
-      "title": "Petition Highlights дружинник Violence",
-      "description": "Supreme суд India, на июль 15, heard petition that highlights rising hate speech against христиане, especially дружинник violence во время христианин festivals. Commonly known as “Violence Petition,” petition originated в 2022 d",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/24/petition-highlights-vigilante-violence/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-24",
-      "lat": 31.5625,
-      "lng": 74.4248,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "murder",
-      "title": "Pakistan Supreme суд Acquits All Suspects в 2014 Brick Kiln убийство Case",
-      "description": "Supreme суд Pakistan has ordered release окончательный three мужчины на смерть row в 2014 убийство case христианин couple, Shahzad Masih и his pregnant wife, Shama Bibi. с this decision, along с dismissal штат appeal",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/24/pakistan-supreme-court-acquits-all-suspects-in-2014-brick-kiln-murder-case/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-24",
-      "lat": 32.4206,
-      "lng": 51.7046,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "attack",
-      "title": "Catholic moral theologians concerned claims U.S., Iran struck гражданский infrastructure",
-      "description": "Battle пролив Hormuz rekindled war в Middle East после ceasefire ended. Intent harm гражданские, including атаки на гражданский infrastructure, is immoral, theologians said.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/theologians-warn-against-attacks-civilians-iran-war-july",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-24",
-      "lat": 9.2764,
-      "lng": 9.2986,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "US lawmaker seeks Nnamdi Kanu’s release",
-      "description": "US Congressman renews calls для Nnamdi Kanu’s release, linking his задержание alleged религиозный гонение христиане в Nigeria. Read more на Read More: https://punchng.com/us-lawmaker-seeks-nnamdi-kanus-release/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-lawmaker-seeks-nnamdi-kanus-release/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-24",
-      "lat": 28.4601,
-      "lng": 77.2484,
-      "country": "India",
-      "city": "Delhi",
-      "type": "other",
-      "title": "Petition Highlights дружинник Violence",
-      "description": "Supreme суд India, на июль 15, heard petition that highlights rising hate speech against христиане, especially дружинник violence во время христианин festivals. Commonly known as “Violence Petition,” petition originated в 2022 d",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/24/petition-highlights-vigilante-violence/",
       "victims": 0
     }
   ]
