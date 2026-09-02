@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-02T10:02:36.640Z",
+    "lastUpdated": "2026-09-02T15:26:59.145Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-09-02",
+      "lat": 15.587,
+      "lng": 32.6958,
+      "country": "Sudan",
+      "city": "Khartoum",
+      "type": "murder",
+      "title": "2 Carmelites survive засада на highway where bandits убит Catholic сёстры в South Sudan",
+      "description": "Сёстры were traveling из Torit toward Juba на Aug. 300 когда their vehicle came под атака.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/two-carmelites-survive-ambush-on-highway-where-bandits-killed-catholic-sisters-in-south-sudan",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-02",
+      "lat": 27.0274,
+      "lng": 80.8412,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "other",
+      "title": "Католическая церковь weighs legal испытание new anti-обращение law в India",
+      "description": "New law в India's most populous western штат drew protests из civil society и Catholic leaders. Neighboring Goa dropped similar measure.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-weighs-legal-challenge-to-new-anti-conversion-law-in-india",
+      "victims": 0
+    },
     {
       "date": "2026-09-01",
       "lat": 9.3723,
@@ -160,6 +186,19 @@
       "description": "Плато штат губернатор Caleb Manasseh Mutfwang has ordered security агентства закрыт unauthorized activities group reportedly operating as Hisbah, warning that anyone attempting enforce исламский rules, intimidate residents, or exercise po",
       "source": "persecution",
       "url": "https://persecution.org/2026/09/01/plateau-governor-cracks-down-on-unauthorized-islamic-police-hisbah-operations-in-jos/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-01",
+      "lat": 10.3576,
+      "lng": 7.3358,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "U.S. ‘must balance other interests’ в Nigeria, чиновники say as христианин гонение continues",
+      "description": "“There are solutions out there but Nigerians have solve this end день,” said Tibor Nagy, former assistant secretary бюро African Affairs штат департамент.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/u-s-must-balance-other-interests-in-nigeria-experts-say-as-christian-persecution-continues",
       "victims": 0
     },
     {
@@ -420,6 +459,19 @@
       "description": "Speakers Rimini Meeting highlighted гонение христиане, violence в Nigeria и Lebanon, и importance defending freedom вера для люди all веры.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/europe/religious-freedom-under-growing-threat-worldwide-experts-warn-at-catholic-gathering-in-italy",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-31",
+      "lat": 21.0208,
+      "lng": 85.0611,
+      "country": "India",
+      "city": "Odisha",
+      "type": "other",
+      "title": "Христиане move protect themselves as another Indian штат enacts anti-обращение law",
+      "description": "Церкви are asking visitors sign consent forms declaring that they attend services their own free will.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christians-move-to-protect-themselves-as-another-indian-state-enacts-anti-conversion-law",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "Для первый time, христианская община в India expressed its solidarity с non-политический students’ agitation movement against alleged irregularities в country’s top educational competitive testing system. молодёжь-led Cockroach Janta",
       "source": "persecution",
       "url": "https://persecution.org/2026/07/27/indian-christians-support-student-protest/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-26",
-      "lat": 31.0491,
-      "lng": 29.8059,
-      "country": "Egypt",
-      "city": "Alexandria",
-      "type": "other",
-      "title": "Христианин город found под Egypt’s пустыня sand",
-      "description": "Beneath western пустыня Egypt, roughly 185 miles west Luxor, archaeologists have uncovered remains complete Byzantine-эра христианин город dating 4th век — including basilica церковь, private homes, watchtowers, fortress",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/07/26/a-christian-city-found-under-egypts-desert-sand/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-26",
-      "lat": 28.2935,
-      "lng": 30.9279,
-      "country": "Egypt",
-      "city": "Minya",
-      "type": "other",
-      "title": "Христианин город found под Egypt’s пустыня sand",
-      "description": "Beneath western пустыня Egypt, roughly 185 miles west Luxor, archaeologists have uncovered remains complete Byzantine-эра христианин город dating 4th век — including basilica церковь, private homes, watchtowers, fortress",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/07/26/a-christian-city-found-under-egypts-desert-sand/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-26",
-      "lat": 29.2226,
-      "lng": 33.2355,
-      "country": "Egypt",
-      "city": "Sinai",
-      "type": "other",
-      "title": "Христианин город found под Egypt’s пустыня sand",
-      "description": "Beneath western пустыня Egypt, roughly 185 miles west Luxor, archaeologists have uncovered remains complete Byzantine-эра христианин город dating 4th век — including basilica церковь, private homes, watchtowers, fortress",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/07/26/a-christian-city-found-under-egypts-desert-sand/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-26",
-      "lat": 29.8853,
-      "lng": 31.4311,
-      "country": "Egypt",
-      "city": "Cairo",
-      "type": "other",
-      "title": "Христианин город found под Egypt’s пустыня sand",
-      "description": "Beneath western пустыня Egypt, roughly 185 miles west Luxor, archaeologists have uncovered remains complete Byzantine-эра христианин город dating 4th век — including basilica церковь, private homes, watchtowers, fortress",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/07/26/a-christian-city-found-under-egypts-desert-sand/",
       "victims": 0
     }
   ]
