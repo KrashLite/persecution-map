@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-02T01:37:50.237Z",
+    "lastUpdated": "2026-09-02T10:02:36.640Z",
     "totalEvents": 500
   },
   "events": [
@@ -142,6 +142,19 @@
       "lng": 9.2701,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "arrest",
+      "title": "Плато губернатор Cracks Down на Unauthorized исламский полиция ‘Hisbah’ операции в Jos",
+      "description": "Плато штат губернатор Caleb Manasseh Mutfwang has ordered security агентства закрыт unauthorized activities group reportedly operating as Hisbah, warning that anyone attempting enforce исламский rules, intimidate residents, or exercise po",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/01/plateau-governor-cracks-down-on-unauthorized-islamic-police-hisbah-operations-in-jos/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-01",
+      "lat": 9.27,
+      "lng": 7.4309,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "arrest",
       "title": "Плато губернатор Cracks Down на Unauthorized исламский полиция ‘Hisbah’ операции в Jos",
       "description": "Плато штат губернатор Caleb Manasseh Mutfwang has ordered security агентства закрыт unauthorized activities group reportedly operating as Hisbah, warning that anyone attempting enforce исламский rules, intimidate residents, or exercise po",
@@ -394,6 +407,19 @@
       "description": "После being депортирован из United штаты пока seeking убежище, христианин-конверт who fled гонение в Iran has new home. Artemis Ghasemzadeh, 27, недавно received убежище through Canada’s беженец resettlement program. She arrived her new",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/31/canada-grants-asylum-to-iranian-christian-deported-from-us/",
+      "victims": 0
+    },
+    {
+      "date": "2026-08-31",
+      "lat": 11.7564,
+      "lng": 13.1681,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "discrimination",
+      "title": "Религиозный freedom под growing угроза worldwide, experts warn Catholic gathering в Italy",
+      "description": "Speakers Rimini Meeting highlighted гонение христиане, violence в Nigeria и Lebanon, и importance defending freedom вера для люди all веры.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/europe/religious-freedom-under-growing-threat-worldwide-experts-warn-at-catholic-gathering-in-italy",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Beneath western пустыня Egypt, roughly 185 miles west Luxor, archaeologists have uncovered remains complete Byzantine-эра христианин город dating 4th век — including basilica церковь, private homes, watchtowers, fortress",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/07/26/a-christian-city-found-under-egypts-desert-sand/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-25",
-      "lat": 31.1673,
-      "lng": 29.9982,
-      "country": "Egypt",
-      "city": "Alexandria",
-      "type": "discrimination",
-      "title": "‘Historic moment’: Maronite церковь prepares для патриарх Hoyek’s beatification",
-      "description": "Maronites begin celebrations ahead beatification, Egypt moves against христианин дискриминация, Irish священники press для action на Gaza, и more в на этой неделе’s Catholic world news roundup.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/historic-moment-maronite-church-prepares-for-patriarch-hoyek-s-beatification",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-25",
-      "lat": 30.1295,
-      "lng": 31.3671,
-      "country": "Egypt",
-      "city": "Cairo",
-      "type": "discrimination",
-      "title": "‘Historic moment’: Maronite церковь prepares для патриарх Hoyek’s beatification",
-      "description": "Maronites begin celebrations ahead beatification, Egypt moves against христианин дискриминация, Irish священники press для action на Gaza, и more в на этой неделе’s Catholic world news roundup.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/historic-moment-maronite-church-prepares-for-patriarch-hoyek-s-beatification",
       "victims": 0
     }
   ]
