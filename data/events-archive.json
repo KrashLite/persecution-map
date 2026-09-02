@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-02T15:26:59.145Z",
+    "lastUpdated": "2026-09-02T20:12:13.149Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,58 @@
       "description": "New law в India's most populous western штат drew protests из civil society и Catholic leaders. Neighboring Goa dropped similar measure.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-weighs-legal-challenge-to-new-anti-conversion-law-in-india",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-02",
+      "lat": 31.7544,
+      "lng": 74.5195,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "murder",
+      "title": "Two христиане арестован под богохульство Laws в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – One христианин в Pakistan was арестован и обвинён с богохульство на суббота (Aug. 29) и another faced same accusation на Aug. 11 под laws that carry смерть penalty, sou",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/09/two-christians-arrested-under-blasphemy-laws-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-02",
+      "lat": 15.2983,
+      "lng": 32.6367,
+      "country": "Sudan",
+      "city": "Khartoum",
+      "type": "other",
+      "title": "Father’s Stand, Son’s страдания",
+      "description": "Для many годы, пастор “Emmanuel” faithfully served церковь в Khartoum, Sudan, as secretary пасторы’ совет. когда правительство, operating под Sharia influence, formed organized body bring церкви под its control, пастор Emm",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/02/a-fathers-stand-a-sons-suffering/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-02",
+      "lat": 28.5682,
+      "lng": 77.1969,
+      "country": "India",
+      "city": "Delhi",
+      "type": "other",
+      "title": "Католическая церковь weighs legal испытание new anti-обращение law в India",
+      "description": "New law в India's most populous western штат drew protests из civil society и Catholic leaders. Neighboring Goa dropped similar measure.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-weighs-legal-challenge-to-new-anti-conversion-law-in-india",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-02",
+      "lat": 21.4443,
+      "lng": 81.7391,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Религиозный freedom комиссия urges accountability для India violators после leader’s U.S. visit",
+      "description": "Mohan Bhagwat, chief Rashtriya Swayamsevak Sangh (RSS), prominent индус nationalist volunteer organization accused targeting христиане, visited U.S. в поздно август.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/religious-freedom-commission-urges-accountability-for-india-violators-after-leader-s-u-s-visit",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "Egypt's 20 million Coptic христиане face дискриминация и occasional violence as experts say штат fails address anti-христианин fanaticism seriously.",
       "source": "newsapi:Fox News",
       "url": "https://www.foxnews.com/world/christian-persecution-concerns-rise-egypt-state-department-presses-religious-freedom",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-27",
-      "lat": 30.9544,
-      "lng": 30.148,
-      "country": "Egypt",
-      "city": "Alexandria",
-      "type": "discrimination",
-      "title": "Христианин гонение concerns rise в Egypt as штат департамент presses религиозный freedom",
-      "description": "Egypt's 20 million Coptic христиане face дискриминация и occasional violence as experts say штат fails address anti-христианин fanaticism seriously.",
-      "source": "newsapi:Fox News",
-      "url": "https://www.foxnews.com/world/christian-persecution-concerns-rise-egypt-state-department-presses-religious-freedom",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-27",
-      "lat": 24.7406,
-      "lng": 66.9525,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "kidnapping",
-      "title": "Constitutional суд в Pakistan Revisit Ruling на Married Girl",
-      "description": "ISLAMABAD (христианин Daily International–утро Star News) – Pakistan’s Federal Constitutional суд (FCC) на пятница (июль 24) agreed revisit its controversial ruling that upheld marriage мусульманин 13-год-old христианин girl allegedly",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/constitutional-court-in-pakistan-to-revisit-ruling-on-married-girl/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-27",
-      "lat": 21.0969,
-      "lng": 84.849,
-      "country": "India",
-      "city": "Odisha",
-      "type": "other",
-      "title": "Indian христиане Support Student Protest",
-      "description": "Для первый time, христианская община в India expressed its solidarity с non-политический students’ agitation movement against alleged irregularities в country’s top educational competitive testing system. молодёжь-led Cockroach Janta",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/27/indian-christians-support-student-protest/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-27",
-      "lat": 27.0073,
-      "lng": 81.1157,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "other",
-      "title": "Indian христиане Support Student Protest",
-      "description": "Для первый time, христианская община в India expressed its solidarity с non-политический students’ agitation movement against alleged irregularities в country’s top educational competitive testing system. молодёжь-led Cockroach Janta",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/27/indian-christians-support-student-protest/",
       "victims": 0
     }
   ]
