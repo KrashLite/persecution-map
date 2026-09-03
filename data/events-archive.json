@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-03T10:13:28.484Z",
+    "lastUpdated": "2026-09-03T15:21:19.741Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-09-03",
+      "lat": 27.6359,
+      "lng": 85.1538,
+      "country": "Nepal",
+      "city": "Kathmandu",
+      "type": "other",
+      "title": "Христиане в Nepal assisting с flood aftermath",
+      "description": "Catholics и Evangelicals are doing what they can aid выжившие.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christians-in-nepal-to-assist-with-flood-aftermath",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-03",
+      "lat": 27.7455,
+      "lng": 85.1707,
+      "country": "Nepal",
+      "city": "Kathmandu",
+      "type": "other",
+      "title": "Христиане rally help жертвы devastating Nepal floods",
+      "description": "Catholics и Evangelicals are doing what they can aid выжившие.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christians-in-nepal-to-assist-with-flood-aftermath",
+      "victims": 0
+    },
     {
       "date": "2026-09-02",
       "lat": 15.587,
@@ -173,6 +199,19 @@
       "description": "New law в India's most populous western штат drew protests из civil society и Catholic leaders. Neighboring Goa dropped similar measure.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-weighs-legal-challenge-to-new-anti-conversion-law-in-india",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-02",
+      "lat": 21.1277,
+      "lng": 85.2847,
+      "country": "India",
+      "city": "Odisha",
+      "type": "other",
+      "title": "Религиозный freedom комиссия urges accountability для India violators после leader’s U.S. visit",
+      "description": "Mohan Bhagwat, chief Rashtriya Swayamsevak Sangh (RSS), prominent индус nationalist volunteer organization accused targeting христиане, visited U.S. в поздно август.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/religious-freedom-commission-urges-accountability-for-india-violators-after-leader-s-u-s-visit",
       "victims": 0
     },
     {
@@ -6460,45 +6499,6 @@
       "lng": 9.5237,
       "country": "Nigeria",
       "city": "Plateau",
-      "type": "murder",
-      "title": "Исламский экстремисты Kill 30 христиане в Nigerian деревня",
-      "description": "Rt. Hon. Stephen Hajara, представитель для Kauru Local правительство Legislative совет и Councilor representing Kamaru ward в Southern Kaduna, has called для immediate security intervention после исламский экстремисты убит 30 христиане в vi",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/28/islamic-extremists-kill-30-christians-in-nigerian-village/",
-      "victims": 30
-    },
-    {
-      "date": "2026-07-28",
-      "lat": 9.1891,
-      "lng": 7.5156,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Исламский экстремисты Kill 30 христиане в Nigerian деревня",
-      "description": "Rt. Hon. Stephen Hajara, представитель для Kauru Local правительство Legislative совет и Councilor representing Kamaru ward в Southern Kaduna, has called для immediate security intervention после исламский экстремисты убит 30 христиане в vi",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/28/islamic-extremists-kill-30-christians-in-nigerian-village/",
-      "victims": 30
-    },
-    {
-      "date": "2026-07-28",
-      "lat": 12.0988,
-      "lng": 8.3838,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Исламский экстремисты Kill 30 христиане в Nigerian деревня",
-      "description": "Rt. Hon. Stephen Hajara, представитель для Kauru Local правительство Legislative совет и Councilor representing Kamaru ward в Southern Kaduna, has called для immediate security intervention после исламский экстремисты убит 30 христиане в vi",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/28/islamic-extremists-kill-30-christians-in-nigerian-village/",
-      "victims": 30
-    },
-    {
-      "date": "2026-07-28",
-      "lat": 6.6455,
-      "lng": 3.4863,
-      "country": "Nigeria",
-      "city": "Lagos",
       "type": "murder",
       "title": "Исламский экстремисты Kill 30 христиане в Nigerian деревня",
       "description": "Rt. Hon. Stephen Hajara, представитель для Kauru Local правительство Legislative совет и Councilor representing Kamaru ward в Southern Kaduna, has called для immediate security intervention после исламский экстремисты убит 30 христиане в vi",
