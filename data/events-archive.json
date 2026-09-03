@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-03T01:42:01.404Z",
+    "lastUpdated": "2026-09-03T10:13:28.484Z",
     "totalEvents": 500
   },
   "events": [
@@ -147,6 +147,32 @@
       "description": "Mohan Bhagwat, chief Rashtriya Swayamsevak Sangh (RSS), prominent индус nationalist volunteer organization accused targeting христиане, visited U.S. в поздно август.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/religious-freedom-commission-urges-accountability-for-india-violators-after-leader-s-u-s-visit",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-02",
+      "lat": 21.4109,
+      "lng": 81.6891,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "attack",
+      "title": "Индусы Cut Water, Electricity Off для христианская семья в Chhattisgarh",
+      "description": "Радикал индус толпа недавно атакован христианская семья в Chhattisgarh после they отказано participate в индус reconversion ceremony called Ghar Wapsi. толпа tore down roof семья’s home, leaving seven люди exposed heavy mon",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/02/hindus-cut-water-electricity-off-for-christian-family-in-chhattisgarh/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-02",
+      "lat": 21.1407,
+      "lng": 85.2996,
+      "country": "India",
+      "city": "Odisha",
+      "type": "other",
+      "title": "Католическая церковь weighs legal испытание new anti-обращение law в India",
+      "description": "New law в India's most populous western штат drew protests из civil society и Catholic leaders. Neighboring Goa dropped similar measure.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-weighs-legal-challenge-to-new-anti-conversion-law-in-india",
       "victims": 0
     },
     {
@@ -342,6 +368,19 @@
       "description": "Плато штат губернатор Caleb Manasseh Mutfwang has ordered security агентства закрыт unauthorized activities group reportedly operating as Hisbah, warning that anyone attempting enforce исламский rules, intimidate residents, or exercise po",
       "source": "persecution",
       "url": "https://persecution.org/2026/09/01/plateau-governor-cracks-down-on-unauthorized-islamic-police-hisbah-operations-in-jos/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-01",
+      "lat": 9.163,
+      "lng": 9.5244,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "U.S. ‘must balance other interests’ в Nigeria, чиновники say as христианин гонение continues",
+      "description": "“There are solutions out there but Nigerians have solve this end день,” said Tibor Nagy, former assistant secretary бюро African Affairs штат департамент.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/u-s-must-balance-other-interests-in-nigeria-experts-say-as-christian-persecution-continues",
       "victims": 0
     },
     {
@@ -6466,45 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/07/28/islamic-extremists-kill-30-christians-in-nigerian-village/",
       "victims": 30
-    },
-    {
-      "date": "2026-07-28",
-      "lat": 11.6986,
-      "lng": 13.3438,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Исламский экстремисты Kill 30 христиане в Nigerian деревня",
-      "description": "Rt. Hon. Stephen Hajara, представитель для Kauru Local правительство Legislative совет и Councilor representing Kamaru ward в Southern Kaduna, has called для immediate security intervention после исламский экстремисты убит 30 христиане в vi",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/28/islamic-extremists-kill-30-christians-in-nigerian-village/",
-      "victims": 30
-    },
-    {
-      "date": "2026-07-27",
-      "lat": 31.6822,
-      "lng": 74.2366,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "kidnapping",
-      "title": "Constitutional суд в Pakistan Revisit Ruling на Married Girl",
-      "description": "ISLAMABAD (христианин Daily International–утро Star News) – Pakistan’s Federal Constitutional суд (FCC) на пятница (июль 24) agreed revisit its controversial ruling that upheld marriage мусульманин 13-год-old христианин girl allegedly",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/constitutional-court-in-pakistan-to-revisit-ruling-on-married-girl/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-27",
-      "lat": 34.1968,
-      "lng": 71.3237,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "kidnapping",
-      "title": "Constitutional суд в Pakistan Revisit Ruling на Married Girl",
-      "description": "ISLAMABAD (христианин Daily International–утро Star News) – Pakistan’s Federal Constitutional суд (FCC) на пятница (июль 24) agreed revisit its controversial ruling that upheld marriage мусульманин 13-год-old христианин girl allegedly",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/constitutional-court-in-pakistan-to-revisit-ruling-on-married-girl/",
-      "victims": 0
     }
   ]
 }
