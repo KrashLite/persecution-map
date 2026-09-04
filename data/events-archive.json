@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-04T10:09:18.908Z",
+    "lastUpdated": "2026-09-04T15:15:43.199Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "Redeemed христианин церковь God (RCCG) has donated $265,854 evacuate 500 distressed Nigerians из South Africa following xenophobic атаки. Read More: https://punchng.com/rccg-donates-265854--evacuate-distressed-nigerians-из-south-afri",
       "source": "punchng",
       "url": "https://punchng.com/rccg-donates-265854-to-evacuate-distressed-nigerians-from-south-africa/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-04",
+      "lat": 6.4683,
+      "lng": 3.5987,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "discrimination",
+      "title": "FG lauds RCCG’S support для evacuation distressed Nigerians из South Africa",
+      "description": "Federal правительство has expressed appreciation Redeemed христианин церковь God(RCCG) для donating 265,854 thousand dollars towards evacuation distressed Nigerians из South Africa. министерство disclosed this в statement signed",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/09/fg-lauds-rccgs-support-for-evacuation-of-distressed-nigerians-from-south-africa/",
       "victims": 0
     },
     {
@@ -147,6 +160,58 @@
       "description": "NAIROBI, Kenya (утро Star News) – 52-год-old христианин в eastern Uganda was recovering из ранения после his мусульманин sons атакован him для leaving ислам, sources said. в Nakalama деревня, Iganga посёлок совет, Kibirige Abumusa returned home o",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/09/father-in-uganda-beaten-by-muslim-sons-for-accepting-christ/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-03",
+      "lat": 23.313,
+      "lng": 113.6896,
+      "country": "China",
+      "city": "Guangdong",
+      "type": "arrest",
+      "title": "Chinese пастор Still пропавший без вести после Being арестован в март",
+      "description": "73-год-old Chinese пастор is still пропавший без вести месяцы после Chinese власти арестован him his home в март. пастор Wang Sanyuan is пастор Chanchunli церковь в Ji’nan, столица Shandong провинция в eastern China. As influential",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/03/chinese-pastor-still-missing-after-being-arrested-in-march/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-03",
+      "lat": 23.6123,
+      "lng": 113.9569,
+      "country": "China",
+      "city": "Guangdong",
+      "type": "arrest",
+      "title": "Ezra Jin Is Free, But There Are More пасторы в China Behind запреты",
+      "description": "“I respectfully ask international community stand с me – fight для freedom пастор Gao Quanfu, Pang Yu, и all peaceful христиане заключён в China. ”",
+      "source": "newsapi:The Diplomat",
+      "url": "https://thediplomat.com/2026/09/ezra-jin-is-free-but-there-are-more-pastors-in-china-behind-bars/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-03",
+      "lat": 39.8934,
+      "lng": 116.2602,
+      "country": "China",
+      "city": "Beijing",
+      "type": "other",
+      "title": "Lawyer для China's Zion церковь flees Taiwan после facing pressure",
+      "description": "Chinese lawyer who defended подпольная церковь в Beijing has fled Taiwan и is seeking help для resettlement. Ruth Wang, partner VDoor Law Firm, has faced mounting pressure из Chinese власти. Her firm has represented пасторы и",
+      "source": "newsapi:Associated Press",
+      "url": "https://apnews.com/article/china-lawyer-zion-church-ruth-wang-72345e2706acf55fd0c3091997b90bb3",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-03",
+      "lat": 43.6373,
+      "lng": 87.8763,
+      "country": "China",
+      "city": "Xinjiang",
+      "type": "other",
+      "title": "Lawyer для China's Zion церковь seeks resettlement help пока transiting through Taiwan",
+      "description": "Chinese lawyer who defended подпольная церковь в Beijing has fled Taiwan и is seeking help для resettlement",
+      "source": "newsapi:Abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/lawyer-chinas-zion-church-seeks-resettlement-transiting-taiwan-136166953",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "Some похищение жертвы have tragically погиб в плен, including two-неделя-old ребёнок.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/rights-group-nigeria-should-do-more-to-bring-kidnapped-christians-home",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-30",
-      "lat": 21.0749,
-      "lng": 81.7201,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "other",
-      "title": "India’s Proposed FCRA Amendment Raises New угрозы для христианские служения",
-      "description": "India’s парламент is considering sweeping amendment country’s foreign-funding law that critics warn could give правительство unprecedented власть assets NGOs, including христианские служения, больницы, школы, и charitabl",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/30/indias-proposed-fcra-amendment-raises-new-threats-for-christian-ministries/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-30",
-      "lat": 10.3891,
-      "lng": -67.1466,
-      "country": "Venezuela",
-      "city": "Caracas",
-      "type": "other",
-      "title": "Церковь в Venezuela ‘remain side страдания’ following earthquakes",
-      "description": "Пока церковь’s response earthquakes в Venezuela certainly involved material aid, major part was simply being present министр выжившие, offering consolation и таинства.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/americas/church-in-venezuela-to-remain-at-the-side-of-the-suffering-following-earthquakes",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-30",
-      "lat": 9.0598,
-      "lng": 7.5542,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Rights group: Nigeria should do more bring похищен христиане home",
-      "description": "Some похищение жертвы have tragically погиб в плен, including two-неделя-old ребёнок.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/rights-group-nigeria-should-do-more-to-bring-kidnapped-christians-home",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-30",
-      "lat": 28.8814,
-      "lng": 77.0999,
-      "country": "India",
-      "city": "Delhi",
-      "type": "other",
-      "title": "India’s Proposed FCRA Amendment Raises New угрозы для христианские служения",
-      "description": "India’s парламент is considering sweeping amendment country’s foreign-funding law that critics warn could give правительство unprecedented власть assets NGOs, including христианские служения, больницы, школы, и charitabl",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/30/indias-proposed-fcra-amendment-raises-new-threats-for-christian-ministries/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-30",
-      "lat": 27.0654,
-      "lng": 81.0729,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "other",
-      "title": "India’s Proposed FCRA Amendment Raises New угрозы для христианские служения",
-      "description": "India’s парламент is considering sweeping amendment country’s foreign-funding law that critics warn could give правительство unprecedented власть assets NGOs, including христианские служения, больницы, школы, и charitabl",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/30/indias-proposed-fcra-amendment-raises-new-threats-for-christian-ministries/",
       "victims": 0
     }
   ]
