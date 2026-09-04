@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-03T20:13:19.313Z",
+    "lastUpdated": "2026-09-04T01:38:32.932Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,58 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – христианские лидеры и attorneys на этой неделе welcomed Lahore High суд (LHC) ruling that says living в marital relationship с girl под 18 can constitute ребёнок насилие even i",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/09/pakistan-court-rules-marriage-to-underage-girls-is-child-abuse/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-03",
+      "lat": 39.9795,
+      "lng": 116.6093,
+      "country": "China",
+      "city": "Beijing",
+      "type": "arrest",
+      "title": "Chinese пастор Still пропавший без вести после Being арестован в март",
+      "description": "73-год-old Chinese пастор is still пропавший без вести месяцы после Chinese власти арестован him his home в март. пастор Wang Sanyuan is пастор Chanchunli церковь в Ji’nan, столица Shandong провинция в eastern China. As influential",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/03/chinese-pastor-still-missing-after-being-arrested-in-march/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-03",
+      "lat": 34.088,
+      "lng": -7.0352,
+      "country": "Morocco",
+      "city": "Rabat",
+      "type": "discrimination",
+      "title": "Moroccan христиане Navigate ограничения, Animosity",
+      "description": "Morocco has недавно received unusual degree attention amid viral videos showing tens thousands люди heading away из country в North African territory technically part Spain. Much Morocco is so close Europe geographi",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/03/moroccan-christians-navigate-restrictions-animosity/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-03",
+      "lat": 31.523,
+      "lng": 74.2913,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "other",
+      "title": "Pakistan суд Rules Marriage Underage Girls Is ребёнок насилие",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – христианские лидеры и attorneys на этой неделе welcomed Lahore High суд (LHC) ruling that says living в marital relationship с girl под 18 can constitute ребёнок насилие even i",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/09/pakistan-court-rules-marriage-to-underage-girls-is-child-abuse/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-03",
+      "lat": -3.891,
+      "lng": 39.7999,
+      "country": "Kenya",
+      "city": "Mombasa",
+      "type": "attack",
+      "title": "Father в Uganda избит мусульманин Sons для Accepting Christ",
+      "description": "NAIROBI, Kenya (утро Star News) – 52-год-old христианин в eastern Uganda was recovering из ранения после his мусульманин sons атакован him для leaving ислам, sources said. в Nakalama деревня, Iganga посёлок совет, Kibirige Abumusa returned home o",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/09/father-in-uganda-beaten-by-muslim-sons-for-accepting-christ/",
       "victims": 0
     },
     {
@@ -264,6 +316,45 @@
       "description": "New law в India's most populous western штат drew protests из civil society и Catholic leaders. Neighboring Goa dropped similar measure.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-weighs-legal-challenge-to-new-anti-conversion-law-in-india",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-02",
+      "lat": 33.5913,
+      "lng": 72.8771,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "murder",
+      "title": "Two христиане арестован под богохульство Laws в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – One христианин в Pakistan was арестован и обвинён с богохульство на суббота (Aug. 29) и another faced same accusation на Aug. 11 под laws that carry смерть penalty, sou",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/09/two-christians-arrested-under-blasphemy-laws-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-02",
+      "lat": 19.0576,
+      "lng": 72.7199,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "attack",
+      "title": "Индусы Cut Water, Electricity Off для христианская семья в Chhattisgarh",
+      "description": "Радикал индус толпа недавно атакован христианская семья в Chhattisgarh после they отказано participate в индус reconversion ceremony called Ghar Wapsi. толпа tore down roof семья’s home, leaving seven люди exposed heavy mon",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/02/hindus-cut-water-electricity-off-for-christian-family-in-chhattisgarh/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-02",
+      "lat": 18.8306,
+      "lng": 72.726,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "other",
+      "title": "Религиозный freedom комиссия urges accountability для India violators после leader’s U.S. visit",
+      "description": "Mohan Bhagwat, chief Rashtriya Swayamsevak Sangh (RSS), prominent индус nationalist volunteer organization accused targeting христиане, visited U.S. в поздно август.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/religious-freedom-commission-urges-accountability-for-india-violators-after-leader-s-u-s-visit",
       "victims": 0
     },
     {
@@ -6413,97 +6504,6 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan на суббота (июль 25) handed custody 13-год-old христианин girl мусульманин accused abducting her, forcibly converting her ислам и coercing her в",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/07/alleged-kidnapper-given-custody-of-christian-girl-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-29",
-      "lat": 0.5586,
-      "lng": 32.5731,
-      "country": "Uganda",
-      "city": "Kampala",
-      "type": "arrest",
-      "title": "Catholic священник приговорён 31 годы в тюрьма для убийство, attempted убийство, в Uganda",
-      "description": "Father Dominic Alinga pleaded guilty убийство Uganda Revenue власть чиновник и attempted убийство мужчина who tried help до confessing another священник и turning himself в.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/catholic-priest-sentenced-to-31-years-in-prison-for-murder-attempted-murder-in-uganda",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-29",
-      "lat": 36.435,
-      "lng": 36.9982,
-      "country": "Syria",
-      "city": "Aleppo",
-      "type": "other",
-      "title": "TPS Protections End as Syrian христиане Face Uncertain Future",
-      "description": "Expiration Temporary Protected Status (TPS) protections для Syrians в United штаты на этой неделе has renewed attention на fragile security environment facing гражданские в Syria, particularly религиозный minorities who remain vulnerable y",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/29/tps-protections-end-as-syrian-christians-face-an-uncertain-future/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-29",
-      "lat": 33.9397,
-      "lng": 71.347,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "kidnapping",
-      "title": "Alleged Kidnapper Given Custody христианин Girl в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan на суббота (июль 25) handed custody 13-год-old христианин girl мусульманин accused abducting her, forcibly converting her ислам и coercing her в",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/alleged-kidnapper-given-custody-of-christian-girl-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-29",
-      "lat": 33.7184,
-      "lng": 36.2936,
-      "country": "Syria",
-      "city": "Damascus",
-      "type": "other",
-      "title": "TPS Protections End as Syrian христиане Face Uncertain Future",
-      "description": "Expiration Temporary Protected Status (TPS) protections для Syrians в United штаты на этой неделе has renewed attention на fragile security environment facing гражданские в Syria, particularly религиозный minorities who remain vulnerable y",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/29/tps-protections-end-as-syrian-christians-face-an-uncertain-future/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-29",
-      "lat": 25.0364,
-      "lng": 67.2373,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "kidnapping",
-      "title": "Alleged Kidnapper Given Custody христианин Girl в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan на суббота (июль 25) handed custody 13-год-old христианин girl мусульманин accused abducting her, forcibly converting her ислам и coercing her в",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/alleged-kidnapper-given-custody-of-christian-girl-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-29",
-      "lat": 33.4767,
-      "lng": 73.1058,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "kidnapping",
-      "title": "Alleged Kidnapper Given Custody христианин Girl в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – суд в Pakistan на суббота (июль 25) handed custody 13-год-old христианин girl мусульманин accused abducting her, forcibly converting her ислам и coercing her в",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/07/alleged-kidnapper-given-custody-of-christian-girl-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-29",
-      "lat": 34.4843,
-      "lng": 36.8504,
-      "country": "Syria",
-      "city": "Homs",
-      "type": "other",
-      "title": "TPS Protections End as Syrian христиане Face Uncertain Future",
-      "description": "Expiration Temporary Protected Status (TPS) protections для Syrians в United штаты на этой неделе has renewed attention на fragile security environment facing гражданские в Syria, particularly религиозный minorities who remain vulnerable y",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/29/tps-protections-end-as-syrian-christians-face-an-uncertain-future/",
       "victims": 0
     }
   ]
