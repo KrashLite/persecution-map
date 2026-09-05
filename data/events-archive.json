@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-05T14:05:21.336Z",
+    "lastUpdated": "2026-09-05T19:38:36.259Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,19 @@
       "description": "Seyi Tinubu honored as христианская молодёжь Peace посол YOWICAN для his contributions peace, молодёжь development, и national unity в Nigeria. Read More: https://punchng.com/seyi-tinubu-gets-христианин-молодёжь-peace-посол-award/",
       "source": "punchng",
       "url": "https://punchng.com/seyi-tinubu-gets-christian-youth-peace-ambassador-award/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-05",
+      "lat": 4.6084,
+      "lng": 18.5109,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "arrest",
+      "title": "Accused killer Kansas священник declared not competent убийство суд",
+      "description": "Gary Hermesch was арестован в апрель 2025 для allegedly murdering Father Arul Carasala в Seneca, Kansas.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/accused-killer-of-kansas-priest-declared-not-competent-at-murder-trial",
       "victims": 0
     },
     {
@@ -90,6 +103,19 @@
       "lng": 84.8551,
       "country": "India",
       "city": "Odisha",
+      "type": "other",
+      "title": "RSS Celebrates в New York Amid Continuing гонение в India",
+      "description": "Rashtriya Swayamsevak Sangh (RSS), India’s leading индус nationalist organization и ideological parent ruling Bharatiya Janata Party (BJP), has taken its кампания reshape its international image one world’s most prominent st",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/04/rss-celebrates-in-new-york-amid-continuing-persecution-in-india/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-04",
+      "lat": 28.8307,
+      "lng": 77.0688,
+      "country": "India",
+      "city": "Delhi",
       "type": "other",
       "title": "RSS Celebrates в New York Amid Continuing гонение в India",
       "description": "Rashtriya Swayamsevak Sangh (RSS), India’s leading индус nationalist organization и ideological parent ruling Bharatiya Janata Party (BJP), has taken its кампания reshape its international image one world’s most prominent st",
@@ -857,6 +883,19 @@
       "lng": 7.17,
       "country": "Nigeria",
       "city": "Kaduna",
+      "type": "arrest",
+      "title": "Плато губернатор Cracks Down на Unauthorized исламский полиция ‘Hisbah’ операции в Jos",
+      "description": "Плато штат губернатор Caleb Manasseh Mutfwang has ordered security агентства закрыт unauthorized activities group reportedly operating as Hisbah, warning that anyone attempting enforce исламский rules, intimidate residents, or exercise po",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/01/plateau-governor-cracks-down-on-unauthorized-islamic-police-hisbah-operations-in-jos/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-01",
+      "lat": 11.9961,
+      "lng": 8.7172,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "arrest",
       "title": "Плато губернатор Cracks Down на Unauthorized исламский полиция ‘Hisbah’ операции в Jos",
       "description": "Плато штат губернатор Caleb Manasseh Mutfwang has ordered security агентства закрыт unauthorized activities group reportedly operating as Hisbah, warning that anyone attempting enforce исламский rules, intimidate residents, or exercise po",
@@ -6465,45 +6504,6 @@
       "description": "Golok Nanmwa JOS – боевики поздно четверг ночь убит middle-aged мужчина, identified simply as Mr. Bulus, в Ncha community Miango район, Bassa Local правительство Area плато штат. National Secretary Irigwe Development Associati",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/07/gunmen-kill-man-in-plateau-injure-pastor-two-others-in-fresh-attacks/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-31",
-      "lat": 29.4578,
-      "lng": 52.8227,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "discrimination",
-      "title": "Appeals для return церковь конфискован Iran",
-      "description": "United Nations и World совет церкви (WCC) have condemned изъятие 150-год-old церковь в Tehran.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/appeals-for-return-of-church-confiscated-by-iran",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-31",
-      "lat": 19.4957,
-      "lng": -99.0865,
-      "country": "Mexico",
-      "city": "Mexico City",
-      "type": "arrest",
-      "title": "‘He presented gun’: Dispute исламский мечеть turns violent New Mexico Catholic parish",
-      "description": "Weekslong quarrel involving local resident в Albuquerque ended с suspect арестован на two felony обвинения, according local священник.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/he-presented-a-gun-dispute-over-islamic-mosque-turns-violent-at-new-mexico-catholic-parish",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-31",
-      "lat": 9.1644,
-      "lng": 38.8766,
-      "country": "Ethiopia",
-      "city": "Addis Ababa",
-      "type": "murder",
-      "title": "Deadly атака на Ethiopian monastery condemned",
-      "description": "Беспилотник атака has prompted international condemnation и left local христиане reeling.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/deadly-attack-on-ethiopian-monastery-condemned",
       "victims": 0
     }
   ]
