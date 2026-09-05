@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-04T19:58:58.272Z",
+    "lastUpdated": "2026-09-05T01:37:02.159Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-09-05",
+      "lat": 8.9596,
+      "lng": 7.4715,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "До Stardom с… KamCY",
+      "description": "Explore KamCY’s music journey, из церковь singing facing industry испытания. Discover his inspirations, values, и advice для up-и-coming Nigerian Read More: https://punchng.com/до-stardom-с-kamcy/",
+      "source": "punchng",
+      "url": "https://punchng.com/before-stardom-with-kamcy/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-09-04",
       "lat": 12.0224,
@@ -30,6 +43,19 @@
       "description": "Federal правительство has expressed appreciation Redeemed христианин церковь God(RCCG) для donating 265,854 thousand dollars towards evacuation distressed Nigerians из South Africa. министерство disclosed this в statement signed",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/09/fg-lauds-rccgs-support-for-evacuation-of-distressed-nigerians-from-south-africa/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-04",
+      "lat": 19.0715,
+      "lng": 72.9316,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "other",
+      "title": "RSS Celebrates в New York Amid Continuing гонение в India",
+      "description": "Rashtriya Swayamsevak Sangh (RSS), India’s leading индус nationalist organization и ideological parent ruling Bharatiya Janata Party (BJP), has taken its кампания reshape its international image one world’s most prominent st",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/04/rss-celebrates-in-new-york-amid-continuing-persecution-in-india/",
       "victims": 0
     },
     {
@@ -246,6 +272,32 @@
       "lng": 113.8902,
       "country": "China",
       "city": "Guangdong",
+      "type": "other",
+      "title": "Lawyer для China's Zion церковь seeks resettlement help пока transiting through Taiwan",
+      "description": "Chinese lawyer who defended подпольная церковь в Beijing has fled Taiwan и is seeking help для resettlement",
+      "source": "newsapi:Abcnews.com",
+      "url": "https://abcnews.com/International/wireStory/lawyer-chinas-zion-church-seeks-resettlement-transiting-taiwan-136166953",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-03",
+      "lat": 39.7175,
+      "lng": 116.301,
+      "country": "China",
+      "city": "Beijing",
+      "type": "arrest",
+      "title": "Ezra Jin Is Free, But There Are More пасторы в China Behind запреты",
+      "description": "“I respectfully ask international community stand с me – fight для freedom пастор Gao Quanfu, Pang Yu, и all peaceful христиане заключён в China. ”",
+      "source": "newsapi:The Diplomat",
+      "url": "https://thediplomat.com/2026/09/ezra-jin-is-free-but-there-are-more-pastors-in-china-behind-bars/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-03",
+      "lat": 31.1561,
+      "lng": 121.5772,
+      "country": "China",
+      "city": "Shanghai",
       "type": "other",
       "title": "Lawyer для China's Zion церковь seeks resettlement help пока transiting through Taiwan",
       "description": "Chinese lawyer who defended подпольная церковь в Beijing has fled Taiwan и is seeking help для resettlement",
@@ -6452,58 +6504,6 @@
       "description": "United Nations и World совет церкви (WCC) have condemned изъятие 150-год-old церковь в Tehran.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/appeals-for-return-of-church-confiscated-by-iran",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-31",
-      "lat": 29.8262,
-      "lng": 31.2383,
-      "country": "Egypt",
-      "city": "Cairo",
-      "type": "other",
-      "title": "Egypt’s High школа Honors List Highlights христианин маргинализация",
-      "description": "Egypt’s министерство Education недавно announced country’s top-performing students в 2025–2026 General Secondary Certificate examinations, but list has drawn attention из христианин защитники после no Coptic христиане appeared among th",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/31/egypts-high-school-honors-list-highlights-christian-marginalization/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-31",
-      "lat": 31.3167,
-      "lng": 29.8423,
-      "country": "Egypt",
-      "city": "Alexandria",
-      "type": "other",
-      "title": "Egypt’s High школа Honors List Highlights христианин маргинализация",
-      "description": "Egypt’s министерство Education недавно announced country’s top-performing students в 2025–2026 General Secondary Certificate examinations, but list has drawn attention из христианин защитники после no Coptic христиане appeared among th",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/31/egypts-high-school-honors-list-highlights-christian-marginalization/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-31",
-      "lat": 28.3424,
-      "lng": 30.8614,
-      "country": "Egypt",
-      "city": "Minya",
-      "type": "other",
-      "title": "Egypt’s High школа Honors List Highlights христианин маргинализация",
-      "description": "Egypt’s министерство Education недавно announced country’s top-performing students в 2025–2026 General Secondary Certificate examinations, but list has drawn attention из христианин защитники после no Coptic христиане appeared among th",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/31/egypts-high-school-honors-list-highlights-christian-marginalization/",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-30",
-      "lat": 6.7104,
-      "lng": 3.4091,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Rights group: Nigeria should do more bring похищен христиане home",
-      "description": "Some похищение жертвы have tragically погиб в плен, including two-неделя-old ребёнок.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/rights-group-nigeria-should-do-more-to-bring-kidnapped-christians-home",
       "victims": 0
     }
   ]
