@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-05T01:37:02.159Z",
+    "lastUpdated": "2026-09-05T09:32:46.668Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "Explore KamCY’s music journey, из церковь singing facing industry испытания. Discover his inspirations, values, и advice для up-и-coming Nigerian Read More: https://punchng.com/до-stardom-с-kamcy/",
       "source": "punchng",
       "url": "https://punchng.com/before-stardom-with-kamcy/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-05",
+      "lat": 10.3749,
+      "lng": 7.6581,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Утро recap: Celestial пастор kills wife infidelity, outcry as fake products flood markets, other top stories",
+      "description": "Catch up на top Nigerian news: Celestial пастор kills wife, N33.75bn flagged, Nigerian professor appointed dean, fake products flood markets, и more. Read More: https://punchng.com/утро-recap-celestial-пастор-kills-wife--infidelity-dies-und",
+      "source": "punchng",
+      "url": "https://punchng.com/morning-recap-celestial-pastor-kills-wife-over-infidelity-dies-under-truck-auditor-general-flags-n33-75bn-unverified-transfers-outcry-as-fake-products-flood-markets-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     },
     {
@@ -51,6 +64,19 @@
       "lng": 72.9316,
       "country": "India",
       "city": "Mumbai",
+      "type": "other",
+      "title": "RSS Celebrates в New York Amid Continuing гонение в India",
+      "description": "Rashtriya Swayamsevak Sangh (RSS), India’s leading индус nationalist organization и ideological parent ruling Bharatiya Janata Party (BJP), has taken its кампания reshape its international image one world’s most prominent st",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/04/rss-celebrates-in-new-york-amid-continuing-persecution-in-india/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-04",
+      "lat": 21.1873,
+      "lng": 84.8551,
+      "country": "India",
+      "city": "Odisha",
       "type": "other",
       "title": "RSS Celebrates в New York Amid Continuing гонение в India",
       "description": "Rashtriya Swayamsevak Sangh (RSS), India’s leading индус nationalist organization и ideological parent ruling Bharatiya Janata Party (BJP), has taken its кампания reshape its international image one world’s most prominent st",
@@ -6473,32 +6499,6 @@
       "lng": 51.5098,
       "country": "Iran",
       "city": "Isfahan",
-      "type": "discrimination",
-      "title": "Appeals для return церковь конфискован Iran",
-      "description": "United Nations и World совет церкви (WCC) have condemned изъятие 150-год-old церковь в Tehran.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/appeals-for-return-of-church-confiscated-by-iran",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-31",
-      "lat": -4.3025,
-      "lng": 15.3606,
-      "country": "Democratic Republic of the Congo",
-      "city": "Kinshasa",
-      "type": "attack",
-      "title": "Исламский боевики Kill христианские лидеры в DRC",
-      "description": "Members Allied Democratic силы (ADF) атакован communities three times в just few дни в eastern Democratic Republic Congo (DRC), убийство more than 20 люди. из июль 14 16, ADF raided primarily христианин commune Ma",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/07/31/islamic-militants-kill-christian-leaders-in-the-drc/",
-      "victims": 20
-    },
-    {
-      "date": "2026-07-31",
-      "lat": 36.2934,
-      "lng": 59.4827,
-      "country": "Iran",
-      "city": "Mashhad",
       "type": "discrimination",
       "title": "Appeals для return церковь конфискован Iran",
       "description": "United Nations и World совет церкви (WCC) have condemned изъятие 150-год-old церковь в Tehran.",
