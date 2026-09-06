@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-06T01:31:29.371Z",
+    "lastUpdated": "2026-09-06T09:47:06.176Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-09-06",
+      "lat": 6.5804,
+      "lng": 3.1835,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Nigeria needs leaders committed public good, not personal gains — Tinubu",
+      "description": "Femi Bolaji JALINGO — президент Bola Tinubu has called для patriotic leaders и citizens who will place public good above personal interests и self-aggrandisement в pursuit national development. Tinubu made call St. Monica Ca",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/09/nigeria-needs-leaders-committed-to-public-good-not-personal-gains-tinubu/",
+      "victims": 0
+    },
     {
       "date": "2026-09-05",
       "lat": 8.9596,
@@ -6491,19 +6504,6 @@
       "description": "United Nations и World совет церкви (WCC) have condemned изъятие 150-год-old церковь в Tehran.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/appeals-for-return-of-church-confiscated-by-iran",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-31",
-      "lat": 9.051,
-      "lng": 38.7794,
-      "country": "Ethiopia",
-      "city": "Addis Ababa",
-      "type": "murder",
-      "title": "Епископы appeal Saudi Crown Prince Ethiopian христиане facing казнь",
-      "description": "Three церковь England епископы have urged Mohammed bin Salman halt казни Ethiopian prisoners осуждён non-lethal drug offences amid allegations религиозный гонение и serious failures due process.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/bishops-appeal-to-saudi-crown-prince-over-ethiopian-christians-facing-execution",
       "victims": 0
     }
   ]
