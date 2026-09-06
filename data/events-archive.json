@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-06T14:30:11.849Z",
+    "lastUpdated": "2026-09-06T19:40:47.094Z",
     "totalEvents": 500
   },
   "events": [
@@ -407,6 +407,19 @@
       "description": "“I respectfully ask international community stand с me – fight для freedom пастор Gao Quanfu, Pang Yu, и all peaceful христиане заключён в China. ”",
       "source": "newsapi:The Diplomat",
       "url": "https://thediplomat.com/2026/09/ezra-jin-is-free-but-there-are-more-pastors-in-china-behind-bars/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-03",
+      "lat": 31.0363,
+      "lng": 121.4614,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "arrest",
+      "title": "Chinese пастор Still пропавший без вести после Being арестован в март",
+      "description": "73-год-old Chinese пастор is still пропавший без вести месяцы после Chinese власти арестован him his home в март. пастор Wang Sanyuan is пастор Chanchunli церковь в Ji’nan, столица Shandong провинция в eastern China. As influential",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/03/chinese-pastor-still-missing-after-being-arrested-in-march/",
       "victims": 0
     },
     {
@@ -6491,19 +6504,6 @@
       "description": "Христианин girls в Pakistan, including несовершеннолетние, are living с daily угроза being похищен, вынужден convert ислам и then вынужден marry their abductors.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/alarm-raised-over-christian-girls-being-forced-to-convert-and-marry-their-abductors-in-pakistan",
-      "victims": 0
-    },
-    {
-      "date": "2026-07-31",
-      "lat": 35.869,
-      "lng": 51.5794,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "discrimination",
-      "title": "Appeals для return церковь конфискован Iran",
-      "description": "United Nations и World совет церкви (WCC) have condemned изъятие 150-год-old церковь в Tehran.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/appeals-for-return-of-church-confiscated-by-iran",
       "victims": 0
     }
   ]
