@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-07T10:51:39.334Z",
+    "lastUpdated": "2026-09-07T16:47:09.803Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-09-07",
+      "lat": 24.6891,
+      "lng": 66.9114,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "other",
+      "title": "Rights Record в Pakistan Jeopardizes Trade Status, EU чиновник Says",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Pakistan’s continued access lucrative European Union trade preference could be jeopardized if Islamabad fails demonstrate meaningful progress в protecting human rights, inc",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/09/rights-record-in-pakistan-jeopardizes-trade-status-eu-official-says/",
+      "victims": 0
+    },
     {
       "date": "2026-09-06",
       "lat": 6.5804,
@@ -6491,19 +6504,6 @@
       "description": "Христианин girls в Pakistan, including несовершеннолетние, are living с daily угроза being похищен, вынужден convert ислам и then вынужден marry their abductors.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/alarm-raised-over-christian-girls-being-forced-to-convert-and-marry-their-abductors-in-pakistan",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-01",
-      "lat": 9.129,
-      "lng": 9.7077,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Nigeria needs leaders who respect public офис – Tunde Bakare",
-      "description": "Bakare, Serving надзиратель Citadel Global Community церковь (CGCC) said that he remained confident that Nigeria that works would emerge в his lifetime. post Nigeria needs leaders who respect public офис – Tunde Bakare appeared первый",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/08/nigeria-needs-leaders-who-respect-public-office-tunde-bakare/",
       "victims": 0
     }
   ]
