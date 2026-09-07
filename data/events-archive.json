@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-07T01:29:42.328Z",
+    "lastUpdated": "2026-09-07T10:51:39.334Z",
     "totalEvents": 500
   },
   "events": [
@@ -142,6 +142,19 @@
       "lng": 81.7643,
       "country": "India",
       "city": "Chhattisgarh",
+      "type": "other",
+      "title": "RSS Celebrates в New York Amid Continuing гонение в India",
+      "description": "Rashtriya Swayamsevak Sangh (RSS), India’s leading индус nationalist organization и ideological parent ruling Bharatiya Janata Party (BJP), has taken its кампания reshape its international image one world’s most prominent st",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/04/rss-celebrates-in-new-york-amid-continuing-persecution-in-india/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-04",
+      "lat": 26.9762,
+      "lng": 80.8855,
+      "country": "India",
+      "city": "Uttar Pradesh",
       "type": "other",
       "title": "RSS Celebrates в New York Amid Continuing гонение в India",
       "description": "Rashtriya Swayamsevak Sangh (RSS), India’s leading индус nationalist organization и ideological parent ruling Bharatiya Janata Party (BJP), has taken its кампания reshape its international image one world’s most prominent st",
@@ -6491,19 +6504,6 @@
       "description": "Bakare, Serving надзиратель Citadel Global Community церковь (CGCC) said that he remained confident that Nigeria that works would emerge в his lifetime. post Nigeria needs leaders who respect public офис – Tunde Bakare appeared первый",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/08/nigeria-needs-leaders-who-respect-public-office-tunde-bakare/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-01",
-      "lat": 33.998,
-      "lng": 71.3198,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "kidnapping",
-      "title": "Alarm raised христианин girls being вынужден convert и marry their abductors в Pakistan",
-      "description": "Христианин girls в Pakistan, including несовершеннолетние, are living с daily угроза being похищен, вынужден convert ислам и then вынужден marry their abductors.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/alarm-raised-over-christian-girls-being-forced-to-convert-and-marry-their-abductors-in-pakistan",
       "victims": 0
     }
   ]
