@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-08T01:39:17.678Z",
+    "lastUpdated": "2026-09-08T10:10:47.393Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-09-08",
+      "lat": -3.8198,
+      "lng": 39.5167,
+      "country": "Kenya",
+      "city": "Mombasa",
+      "type": "other",
+      "title": "Italian священник quits католическая церковь, marries Kenyan женщина в traditional ceremony",
+      "description": "Former Italian Catholic священник, Sandro Ferretto, has left priesthood и married Kenyan женщина в traditional ceremony в Baringo округ. Read More: https://punchng.com/italian-священник-quits-catholic-церковь-marries-kenyan-женщина-в-traditional-",
+      "source": "punchng",
+      "url": "https://punchng.com/italian-priest-quits-catholic-church-marries-kenyan-woman-in-traditional-ceremony/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-08",
+      "lat": -1.4986,
+      "lng": 36.9425,
+      "country": "Kenya",
+      "city": "Nairobi",
+      "type": "other",
+      "title": "Italian священник quits priesthood, marries Kenyan женщина в traditional ceremony",
+      "description": "Italian Catholic священник, Sandro Ferretto, 55, has left priesthood и married Kenyan женщина, Sharon Jepng’ok, в traditional ceremony в Baringo округ, Kenya. post Italian священник quits priesthood, marries Kenyan женщина в traditional ce",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/09/italian-priest-quits-priesthood-marries-kenyan-woman-in-traditional-ceremony/",
+      "victims": 0
+    },
     {
       "date": "2026-09-07",
       "lat": 24.6891,
@@ -6478,32 +6504,6 @@
       "description": "Христианин girls в Pakistan, including несовершеннолетние, are living с daily угроза being похищен, вынужден convert ислам и then вынужден marry their abductors.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/alarm-raised-over-christian-girls-being-forced-to-convert-and-marry-their-abductors-in-pakistan",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-01",
-      "lat": 6.3272,
-      "lng": 3.3533,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "discrimination",
-      "title": "Middle East war: NCPC lifts запрет на христианский паломниквек Israel ​",
-      "description": "Nigerian христианский паломник комиссия (NCPC) has lifted запрет на христианский паломниквек Israel following assessment security situation в Holy Land. post Middle East war: NCPC lifts запрет на христианский паломниквек Israel ​ app",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/08/middle-east-war-ncpc-lifts-ban-on-christian-pilgrimage-to-israel/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-01",
-      "lat": 6.5648,
-      "lng": 3.4677,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Tinubu disagreed с Catholic епископы’ assessment economy, insecurity – Onaiyekan",
-      "description": "Архиепископ Onaiyekan reveals президент Tinubu disagreed с Catholic епископы’ assessment Nigeria’s economy и insecurity, insisting his administration Read More: https://punchng.com/tinubu-disagreed-с-catholic-епископы-assessment--economy-i",
-      "source": "punchng",
-      "url": "https://punchng.com/tinubu-disagreed-with-catholic-bishops-assessment-of-economy-insecurity-onaiyekan/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     }
   ]
