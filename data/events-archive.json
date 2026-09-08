@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-07T20:52:36.744Z",
+    "lastUpdated": "2026-09-08T01:39:17.678Z",
     "totalEvents": 500
   },
   "events": [
@@ -25,6 +25,19 @@
       "lng": 74.4658,
       "country": "Pakistan",
       "city": "Lahore",
+      "type": "other",
+      "title": "Rights Record в Pakistan Jeopardizes Trade Status, EU чиновник Says",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Pakistan’s continued access lucrative European Union trade preference could be jeopardized if Islamabad fails demonstrate meaningful progress в protecting human rights, inc",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/09/rights-record-in-pakistan-jeopardizes-trade-status-eu-official-says/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-07",
+      "lat": 33.9521,
+      "lng": 71.7598,
+      "country": "Pakistan",
+      "city": "Peshawar",
       "type": "other",
       "title": "Rights Record в Pakistan Jeopardizes Trade Status, EU чиновник Says",
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Pakistan’s continued access lucrative European Union trade preference could be jeopardized if Islamabad fails demonstrate meaningful progress в protecting human rights, inc",
@@ -6492,19 +6505,6 @@
       "source": "punchng",
       "url": "https://punchng.com/tinubu-disagreed-with-catholic-bishops-assessment-of-economy-insecurity-onaiyekan/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
-    },
-    {
-      "date": "2026-08-01",
-      "lat": 34.2127,
-      "lng": -7.0769,
-      "country": "Morocco",
-      "city": "Rabat",
-      "type": "murder",
-      "title": "Церковь opens its doors as Ceuta counts its погибшие",
-      "description": "Between июль 30 и 31, up 60,000 migrants crossed из Morocco в Ceuta — Spanish autonomous город на northern побережье Africa — swimming or walking along El Tarajal волнолом. figure is equivalent roughly 70% город’",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/08/01/the-church-opens-its-doors-as-ceuta-counts-its-dead/",
-      "victims": 60
     }
   ]
 }
