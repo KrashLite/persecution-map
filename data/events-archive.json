@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-08T15:29:00.686Z",
+    "lastUpdated": "2026-09-08T20:24:25.027Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,32 @@
       "description": "Italian Catholic священник, Sandro Ferretto, 55, has left priesthood и married Kenyan женщина, Sharon Jepng’ok, в traditional ceremony в Baringo округ, Kenya. post Italian священник quits priesthood, marries Kenyan женщина в traditional ce",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/09/italian-priest-quits-priesthood-marries-kenyan-woman-in-traditional-ceremony/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-08",
+      "lat": 10.6923,
+      "lng": 7.4,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "More than 30 христиане убит в плато штат, Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected пастухи фулани убит more than 30 христиане в one area плато штат, Nigeria в past месяц, sources said. последний атака в Mangu округ took place на Saturda",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/09/more-than-30-christians-slain-in-plateau-state-nigeria/",
+      "victims": 30
+    },
+    {
+      "date": "2026-09-08",
+      "lat": 33.9811,
+      "lng": 71.6292,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "murder",
+      "title": "Мусульманин Shoots христианка смерть в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – married, 21-год-old христианка was застрелен погибшие inside her home в Rawalpindi на прошлой неделе мусульманин neighbor whose advances she had rejected, reflecting attitude among many",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/09/muslim-shoots-christian-woman-to-death-in-pakistan/",
       "victims": 0
     },
     {
@@ -77,6 +103,19 @@
       "lng": 73.0762,
       "country": "India",
       "city": "Mumbai",
+      "type": "attack",
+      "title": "{India} West Bengal христиане tighten safeguards amid атаки, обращение row",
+      "description": "Церковь bodies introduce written applications и affidavits для converts as атаки на молитва meetings и funerals raise fears запугивание и calls для anti-обращение law христианские организации в west bengal are tightening safeguards, wit",
+      "source": "newsapi:Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-religion/4394541/posts",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-07",
+      "lat": 20.736,
+      "lng": 85.1627,
+      "country": "India",
+      "city": "Odisha",
       "type": "attack",
       "title": "{India} West Bengal христиане tighten safeguards amid атаки, обращение row",
       "description": "Церковь bodies introduce written applications и affidavits для converts as атаки на молитва meetings и funerals raise fears запугивание и calls для anti-обращение law христианские организации в west bengal are tightening safeguards, wit",
@@ -6465,45 +6504,6 @@
       "description": "Calls для stronger role в tackling Nigeria’s испытания Olayinka Latona Former президент Olusegun Obasanjo has urged Nigerian церковь reclaim its prophetic role в transforming society, saying country would have witnessed greater progre",
       "source": "newsapi:Vanguard",
       "url": "https://www.vanguardngr.com/2026/08/obasanjo-urges-church-to-be-militant-in-driving-righteousness-transformation/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-02",
-      "lat": 6.7413,
-      "lng": 3.5516,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Obasanjo urges церковь be ‘боевик’ в driving righteousness, transformation",
-      "description": "Calls для stronger role в tackling Nigeria’s испытания Olayinka Latona Former президент Olusegun Obasanjo has urged Nigerian церковь reclaim its prophetic role в transforming society, saying country would have witnessed greater progre",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/08/obasanjo-urges-church-to-be-militant-in-driving-righteousness-transformation/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-01",
-      "lat": 33.8583,
-      "lng": 73.009,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "kidnapping",
-      "title": "Alarm raised христианин girls being вынужден convert и marry their abductors в Pakistan",
-      "description": "Христианин girls в Pakistan, including несовершеннолетние, are living с daily угроза being похищен, вынужден convert ислам и then вынужден marry their abductors.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/alarm-raised-over-christian-girls-being-forced-to-convert-and-marry-their-abductors-in-pakistan",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-01",
-      "lat": 12.1581,
-      "lng": 8.6087,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "Tinubu disagreed с Catholic епископы’ assessment economy, insecurity – Onaiyekan",
-      "description": "Архиепископ Onaiyekan reveals президент Tinubu disagreed с Catholic епископы’ assessment Nigeria’s economy и insecurity, insisting his administration Read More: https://punchng.com/tinubu-disagreed-с-catholic-епископы-assessment--economy-i",
-      "source": "punchng",
-      "url": "https://punchng.com/tinubu-disagreed-with-catholic-bishops-assessment-of-economy-insecurity-onaiyekan/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     }
   ]
