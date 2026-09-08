@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-08T10:10:47.393Z",
+    "lastUpdated": "2026-09-08T15:29:00.686Z",
     "totalEvents": 500
   },
   "events": [
@@ -69,6 +69,19 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Pakistan’s continued access lucrative European Union trade preference could be jeopardized if Islamabad fails demonstrate meaningful progress в protecting human rights, inc",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/09/rights-record-in-pakistan-jeopardizes-trade-status-eu-official-says/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-07",
+      "lat": 18.9911,
+      "lng": 73.0762,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "attack",
+      "title": "{India} West Bengal христиане tighten safeguards amid атаки, обращение row",
+      "description": "Церковь bodies introduce written applications и affidavits для converts as атаки на молитва meetings и funerals raise fears запугивание и calls для anti-обращение law христианские организации в west bengal are tightening safeguards, wit",
+      "source": "newsapi:Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-religion/4394541/posts",
       "victims": 0
     },
     {
@@ -6491,19 +6504,6 @@
       "description": "Архиепископ Onaiyekan reveals президент Tinubu disagreed с Catholic епископы’ assessment Nigeria’s economy и insecurity, insisting his administration Read More: https://punchng.com/tinubu-disagreed-с-catholic-епископы-assessment--economy-i",
       "source": "punchng",
       "url": "https://punchng.com/tinubu-disagreed-with-catholic-bishops-assessment-of-economy-insecurity-onaiyekan/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-01",
-      "lat": 24.7675,
-      "lng": 66.8114,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "kidnapping",
-      "title": "Alarm raised христианин girls being вынужден convert и marry their abductors в Pakistan",
-      "description": "Христианин girls в Pakistan, including несовершеннолетние, are living с daily угроза being похищен, вынужден convert ислам и then вынужден marry their abductors.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/alarm-raised-over-christian-girls-being-forced-to-convert-and-marry-their-abductors-in-pakistan",
       "victims": 0
     }
   ]
