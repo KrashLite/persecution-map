@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-09T01:46:58.281Z",
+    "lastUpdated": "2026-09-09T10:14:11.819Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-09-09",
+      "lat": 12.0174,
+      "lng": 13.2697,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "More than 30 христиане убит в плато штат, Nigeria",
+      "description": "Атаки на деревни one area also leave ранения и разрушение.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/more-than-30-christians-slain-in-plateau-state-nigeria",
+      "victims": 30
+    },
+    {
+      "date": "2026-09-09",
+      "lat": 3.1835,
+      "lng": 101.7324,
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "type": "murder",
+      "title": "Five die в Malaysia вертолёт crash",
+      "description": "Five люди, including pilot и medical staff, have погиб в Malaysia вертолёт crash в Sarawak. Flying Doctor Service aircraft went down на Tues Read More: https://punchng.com/five-dies-в-malaysia-вертолёт-crash/",
+      "source": "punchng",
+      "url": "https://punchng.com/five-dies-in-malaysia-helicopter-crash/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-09-08",
       "lat": -3.8198,
@@ -111,6 +137,45 @@
       "victims": 0
     },
     {
+      "date": "2026-09-08",
+      "lat": 11.8662,
+      "lng": 8.4213,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "More than 30 христиане убит в плато штат, Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected пастухи фулани убит more than 30 христиане в one area плато штат, Nigeria в past месяц, sources said. последний атака в Mangu округ took place на Saturda",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/09/more-than-30-christians-slain-in-plateau-state-nigeria/",
+      "victims": 30
+    },
+    {
+      "date": "2026-09-08",
+      "lat": 31.707,
+      "lng": 74.1635,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "murder",
+      "title": "Мусульманин Shoots христианка смерть в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – married, 21-год-old христианка was застрелен погибшие inside her home в Rawalpindi на прошлой неделе мусульманин neighbor whose advances she had rejected, reflecting attitude among many",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/09/muslim-shoots-christian-woman-to-death-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-08",
+      "lat": 26.6874,
+      "lng": 80.8962,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "murder",
+      "title": "Ashray: Sanctuary для Community Renewal",
+      "description": "В high-stakes humanitarian landscape central India’s Chhattisgarh, addressing перемещение has become critical strategic priority. для семьи в this регион, гонение is not theoretical risk but physical onslaught that has reached",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/08/ashray-a-sanctuary-for-community-renewal/",
+      "victims": 0
+    },
+    {
       "date": "2026-09-07",
       "lat": 24.6891,
       "lng": 66.9114,
@@ -186,6 +251,19 @@
       "description": "Церковь bodies introduce written applications и affidavits для converts as атаки на молитва meetings и funerals raise fears запугивание и calls для anti-обращение law христианские организации в west bengal are tightening safeguards, wit",
       "source": "newsapi:Freerepublic.com",
       "url": "https://freerepublic.com/focus/f-religion/4394541/posts",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-07",
+      "lat": 33.7,
+      "lng": 72.9032,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "other",
+      "title": "Rights Record в Pakistan Jeopardizes Trade Status, EU чиновник Says",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Pakistan’s continued access lucrative European Union trade preference could be jeopardized if Islamabad fails demonstrate meaningful progress в protecting human rights, inc",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/09/rights-record-in-pakistan-jeopardizes-trade-status-eu-official-says/",
       "victims": 0
     },
     {
@@ -6426,84 +6504,6 @@
       "description": "Presidency has criticised кардинал John Onaiyekan’s television interview на meeting between президент Bola Tinubu и Catholic епископы’ Conference Nigeria, describing it as inappropriate и breach privilege attached cleric",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/08/presidency-faults-onaiyekans-interview-on-tinubus-meeting-with-bishops/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-02",
-      "lat": 0.1144,
-      "lng": 32.8289,
-      "country": "Uganda",
-      "city": "Kampala",
-      "type": "murder",
-      "title": "Deadly distortions христианство в Africa",
-      "description": "This is devastating story how христианин веры и symbols were twisted в violent apocalyptic ideology that brought terror и bloodshed Uganda и neighbouring countries.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/deadly-distortions-of-christianity-in-africa",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-02",
-      "lat": 9.2298,
-      "lng": 9.6561,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Obasanjo urges церковь be ‘боевик’ в driving righteousness, transformation",
-      "description": "Calls для stronger role в tackling Nigeria’s испытания Olayinka Latona Former президент Olusegun Obasanjo has urged Nigerian церковь reclaim its prophetic role в transforming society, saying country would have witnessed greater progre",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/08/obasanjo-urges-church-to-be-militant-in-driving-righteousness-transformation/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-02",
-      "lat": 11.9348,
-      "lng": 8.6823,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "Apostolic церковь Nigeria convention triggers gridlock as traffic backs up Iyana Oworo",
-      "description": "Ongoing annual convention Apostolic церковь Nigeria National штаб-квартира, Ketu, Lagos, has continued cause heavy traffic congestion along Ogudu–Toll Gate corridor, с backlog extending beyond NNPC Filling Station Iyana",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/08/the-apostolic-church-nigeria-convention-triggers-gridlock-as-traffic-backs-up-to-iyana-oworo/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-02",
-      "lat": 29.3971,
-      "lng": 33.0128,
-      "country": "Egypt",
-      "city": "Sinai",
-      "type": "murder",
-      "title": "Egypt executes осуждён killer Coptic Orthodox священник",
-      "description": "Семья Father Arsanios Wadid, who was убит в апрель 2022, confirmed that мужчина found guilty crime has been put смерть.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/egypt-executes-convicted-killer-of-coptic-orthodox-priest",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-02",
-      "lat": 31.1924,
-      "lng": 30.1362,
-      "country": "Egypt",
-      "city": "Alexandria",
-      "type": "murder",
-      "title": "Egypt executes осуждён killer Coptic Orthodox священник",
-      "description": "Семья Father Arsanios Wadid, who was убит в апрель 2022, confirmed that мужчина found guilty crime has been put смерть.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/egypt-executes-convicted-killer-of-coptic-orthodox-priest",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-02",
-      "lat": 9.2614,
-      "lng": 7.4981,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "Obasanjo urges церковь be ‘боевик’ в driving righteousness, transformation",
-      "description": "Calls для stronger role в tackling Nigeria’s испытания Olayinka Latona Former президент Olusegun Obasanjo has urged Nigerian церковь reclaim its prophetic role в transforming society, saying country would have witnessed greater progre",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/08/obasanjo-urges-church-to-be-militant-in-driving-righteousness-transformation/",
       "victims": 0
     }
   ]
