@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-09T10:14:11.819Z",
+    "lastUpdated": "2026-09-09T15:25:34.034Z",
     "totalEvents": 500
   },
   "events": [
@@ -31,6 +31,32 @@
       "source": "punchng",
       "url": "https://punchng.com/five-dies-in-malaysia-helicopter-crash/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
+    },
+    {
+      "date": "2026-09-09",
+      "lat": 6.5842,
+      "lng": 3.223,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "После мечеть атака, Nigeria’s епископы say enough is enough",
+      "description": "Catholic епископы’ Conference Nigeria issued urgent statement на август 27 condemning two separate атаки that have left dozens погибшие и 60 люди похищен — и calling на Nigerian правительство, силы безопасности, и attackers t",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/09/09/after-mosque-attack-nigerias-bishops-say-enough-is-enough/",
+      "victims": 60
+    },
+    {
+      "date": "2026-09-09",
+      "lat": 10.6057,
+      "lng": 7.644,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "More than 30 христиане убит в плато штат, Nigeria",
+      "description": "Атаки на деревни one area also leave ранения и разрушение.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/more-than-30-christians-slain-in-plateau-state-nigeria",
+      "victims": 30
     },
     {
       "date": "2026-09-08",
@@ -6478,32 +6504,6 @@
       "description": "Президент Tinubu и Catholic епископы clash Nigeria’s economic и security штат. кардинал Onaiyekan reveals details, Presidency hits back. Read More: https://punchng.com/more-heat-на-atiku-as-БТР-backs-obasanjo/",
       "source": "punchng",
       "url": "https://punchng.com/more-heat-on-atiku-as-apc-backs-obasanjo/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-02",
-      "lat": 9.3629,
-      "lng": 9.5524,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Heed Catholic епископы’ warning на economy, Timi Frank tells Tinubu",
-      "description": "Timi Frank urges президент Tinubu address Nigeria’s economic испытания и heed Catholic епископы’ warning restore public confidence в his admin Read More: https://punchng.com/heed-catholic-епископы-warning-на-economy-timi-frank-tells-tinu",
-      "source": "punchng",
-      "url": "https://punchng.com/heed-catholic-bishops-warning-on-economy-timi-frank-tells-tinubu/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-02",
-      "lat": 9.2347,
-      "lng": 7.6444,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "Presidency faults Onaiyekan’s interview на Tinubu’s meeting с епископы",
-      "description": "Presidency has criticised кардинал John Onaiyekan’s television interview на meeting between президент Bola Tinubu и Catholic епископы’ Conference Nigeria, describing it as inappropriate и breach privilege attached cleric",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/08/presidency-faults-onaiyekans-interview-on-tinubus-meeting-with-bishops/",
       "victims": 0
     }
   ]
