@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-09T15:25:34.034Z",
+    "lastUpdated": "2026-09-09T20:07:42.551Z",
     "totalEvents": 500
   },
   "events": [
@@ -57,6 +57,19 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/more-than-30-christians-slain-in-plateau-state-nigeria",
       "victims": 30
+    },
+    {
+      "date": "2026-09-09",
+      "lat": 9.2289,
+      "lng": 7.6821,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "После мечеть атака, Nigeria’s епископы say enough is enough",
+      "description": "Catholic епископы’ Conference Nigeria issued urgent statement на август 27 condemning two separate атаки that have left dozens погибшие и 60 люди похищен — и calling на Nigerian правительство, силы безопасности, и attackers t",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/09/09/after-mosque-attack-nigerias-bishops-say-enough-is-enough/",
+      "victims": 60
     },
     {
       "date": "2026-09-08",
@@ -202,6 +215,45 @@
       "victims": 0
     },
     {
+      "date": "2026-09-08",
+      "lat": 11.6025,
+      "lng": 13.392,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "More than 30 христиане убит в плато штат, Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected пастухи фулани убит more than 30 христиане в one area плато штат, Nigeria в past месяц, sources said. последний атака в Mangu округ took place на Saturda",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/09/more-than-30-christians-slain-in-plateau-state-nigeria/",
+      "victims": 30
+    },
+    {
+      "date": "2026-09-08",
+      "lat": 24.7389,
+      "lng": 66.9952,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "murder",
+      "title": "Мусульманин Shoots христианка смерть в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – married, 21-год-old христианка was застрелен погибшие inside her home в Rawalpindi на прошлой неделе мусульманин neighbor whose advances she had rejected, reflecting attitude among many",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/09/muslim-shoots-christian-woman-to-death-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-08",
+      "lat": 20.9716,
+      "lng": 85.1042,
+      "country": "India",
+      "city": "Odisha",
+      "type": "murder",
+      "title": "Ashray: Sanctuary для Community Renewal",
+      "description": "В high-stakes humanitarian landscape central India’s Chhattisgarh, addressing перемещение has become critical strategic priority. для семьи в this регион, гонение is not theoretical risk but physical onslaught that has reached",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/08/ashray-a-sanctuary-for-community-renewal/",
+      "victims": 0
+    },
+    {
       "date": "2026-09-07",
       "lat": 24.6891,
       "lng": 66.9114,
@@ -290,6 +342,19 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Pakistan’s continued access lucrative European Union trade preference could be jeopardized if Islamabad fails demonstrate meaningful progress в protecting human rights, inc",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/09/rights-record-in-pakistan-jeopardizes-trade-status-eu-official-says/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-07",
+      "lat": 28.6493,
+      "lng": 77.0207,
+      "country": "India",
+      "city": "Delhi",
+      "type": "attack",
+      "title": "{India} West Bengal христиане tighten safeguards amid атаки, обращение row",
+      "description": "Церковь bodies introduce written applications и affidavits для converts as атаки на молитва meetings и funerals raise fears запугивание и calls для anti-обращение law христианские организации в west bengal are tightening safeguards, wit",
+      "source": "newsapi:Freerepublic.com",
+      "url": "https://freerepublic.com/focus/f-religion/4394541/posts",
       "victims": 0
     },
     {
@@ -6440,71 +6505,6 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/08/funeral-services-held-for-30-christians-massacred-in-nigeria/",
       "victims": 30
-    },
-    {
-      "date": "2026-08-03",
-      "lat": 30.9515,
-      "lng": 29.8319,
-      "country": "Egypt",
-      "city": "Alexandria",
-      "type": "other",
-      "title": "Egypt Persecutes христиане. Why Won't конгресс Oppose Foreign Aid It?",
-      "description": "В прошлом году, двупартийный group members конгресс introduced H.Res.776: resolution expressing concern о гонение Coptic христиане под Egypt’s исламский regime. resolution has only picked up 8 cosponsors и has yet make it",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4390370/posts",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-03",
-      "lat": 29.3257,
-      "lng": 33.3336,
-      "country": "Egypt",
-      "city": "Sinai",
-      "type": "other",
-      "title": "Egypt Persecutes христиане. Why Won't конгресс Oppose Foreign Aid It?",
-      "description": "В прошлом году, двупартийный group members конгресс introduced H.Res.776: resolution expressing concern о гонение Coptic христиане под Egypt’s исламский regime. resolution has only picked up 8 cosponsors и has yet make it",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-news/4390370/posts",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-03",
-      "lat": 11.8741,
-      "lng": 8.5112,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Funeral Services Held для 30 христиане зарезан в Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пасторы и members various церкви attended Catholic funeral service на суббота (Aug. 1) для 27 христиане зарезан suspected фулани террористы в Kaduna штат, Nigeria, s",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/08/funeral-services-held-for-30-christians-massacred-in-nigeria/",
-      "victims": 30
-    },
-    {
-      "date": "2026-08-03",
-      "lat": 28.5548,
-      "lng": 76.8706,
-      "country": "India",
-      "city": "Delhi",
-      "type": "arrest",
-      "title": "Христиане приговорён тюрьма для ‘вынужден обращения’ Birthday Party",
-      "description": "Seven христиане из India’s Madhya Pradesh штат have been приговорён после суд found them guilty forceful обращения во время birthday party. осуждения, which follow legal battle that’s lasted since апрель 2024, are последний exampl",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/03/christians-sentenced-to-prison-for-forced-conversions-at-birthday-party/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-02",
-      "lat": 11.8135,
-      "lng": 8.5868,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "More heat на Atiku as БТР backs Obasanjo",
-      "description": "Президент Tinubu и Catholic епископы clash Nigeria’s economic и security штат. кардинал Onaiyekan reveals details, Presidency hits back. Read More: https://punchng.com/more-heat-на-atiku-as-БТР-backs-obasanjo/",
-      "source": "punchng",
-      "url": "https://punchng.com/more-heat-on-atiku-as-apc-backs-obasanjo/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
     }
   ]
 }
