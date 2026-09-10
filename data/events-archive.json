@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-09T20:07:42.551Z",
+    "lastUpdated": "2026-09-10T01:42:10.149Z",
     "totalEvents": 500
   },
   "events": [
@@ -70,6 +70,32 @@
       "source": "aleteia",
       "url": "https://aleteia.org/2026/09/09/after-mosque-attack-nigerias-bishops-say-enough-is-enough/",
       "victims": 60
+    },
+    {
+      "date": "2026-09-09",
+      "lat": 12.0267,
+      "lng": 8.3666,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Боко Харам Kills 11 в Adamawa штат",
+      "description": "Least 11 люди were убит в рано hours понедельник, Sept. 7, as suspected Боко Харам террористы invaded Zaranga деревня в Gombi Local правительство Area Adamawa штат, Nigeria. attackers reportedly entered community до рассвет, sh",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/09/boko-haram-kills-11-in-adamawa-state/",
+      "victims": 11
+    },
+    {
+      "date": "2026-09-09",
+      "lat": 6.5653,
+      "lng": 3.3892,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "More than 30 христиане убит в плато штат, Nigeria",
+      "description": "Атаки на деревни one area also leave ранения и разрушение.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/more-than-30-christians-slain-in-plateau-state-nigeria",
+      "victims": 30
     },
     {
       "date": "2026-09-08",
@@ -6473,32 +6499,6 @@
       "lng": 7.5919,
       "country": "Nigeria",
       "city": "Abuja",
-      "type": "murder",
-      "title": "Funeral Services Held для 30 христиане зарезан в Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пасторы и members various церкви attended Catholic funeral service на суббота (Aug. 1) для 27 христиане зарезан suspected фулани террористы в Kaduna штат, Nigeria, s",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/08/funeral-services-held-for-30-christians-massacred-in-nigeria/",
-      "victims": 30
-    },
-    {
-      "date": "2026-08-03",
-      "lat": 20.7662,
-      "lng": 84.8876,
-      "country": "India",
-      "city": "Odisha",
-      "type": "arrest",
-      "title": "Христиане приговорён тюрьма для ‘вынужден обращения’ Birthday Party",
-      "description": "Seven христиане из India’s Madhya Pradesh штат have been приговорён после суд found them guilty forceful обращения во время birthday party. осуждения, which follow legal battle that’s lasted since апрель 2024, are последний exampl",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/03/christians-sentenced-to-prison-for-forced-conversions-at-birthday-party/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-03",
-      "lat": 11.879,
-      "lng": 12.9038,
-      "country": "Nigeria",
-      "city": "Borno",
       "type": "murder",
       "title": "Funeral Services Held для 30 христиане зарезан в Nigeria",
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пасторы и members various церкви attended Catholic funeral service на суббота (Aug. 1) для 27 христиане зарезан suspected фулани террористы в Kaduna штат, Nigeria, s",
