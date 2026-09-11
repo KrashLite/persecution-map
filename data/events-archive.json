@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-10T20:09:49.650Z",
+    "lastUpdated": "2026-09-11T01:41:06.364Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-09-11",
+      "lat": 13.4012,
+      "lng": 2.3645,
+      "country": "Niger",
+      "city": "Niamey",
+      "type": "other",
+      "title": "C&S launches surveillance training boost церковь security",
+      "description": "Cherubim & Seraphim церковь has launched surveillance и security-awareness training programme boost церковь security amid growing угрозы в Niger Read More: https://punchng.com/cs-launches-surveillance-training--boost-церковь-security/",
+      "source": "punchng",
+      "url": "https://punchng.com/cs-launches-surveillance-training-to-boost-church-security/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-09-10",
       "lat": 9.0158,
@@ -43,6 +56,19 @@
       "description": "Христианство has grown в Nepal, despite rising гонение.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/many-christians-among-the-missing-and-dead-after-nepal-floods",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-10",
+      "lat": 33.5325,
+      "lng": 73.0628,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "kidnapping",
+      "title": "Христианка застрелен мусульманин в Pakistan",
+      "description": "21-год-old женщина was fatally застрелен inside her home в Rawalpindi, Pakistan, her мусульманин neighbor, according report христианин Daily International. Her killer then похищен her 16-год-old stepbrother, coercing him confess her murde",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/10/christian-woman-shot-by-muslim-in-pakistan/",
       "victims": 0
     },
     {
@@ -395,6 +421,19 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/09/more-than-30-christians-slain-in-plateau-state-nigeria/",
       "victims": 30
+    },
+    {
+      "date": "2026-09-08",
+      "lat": 21.143,
+      "lng": 82.091,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "murder",
+      "title": "Ashray: Sanctuary для Community Renewal",
+      "description": "В high-stakes humanitarian landscape central India’s Chhattisgarh, addressing перемещение has become critical strategic priority. для семьи в this регион, гонение is not theoretical risk but physical onslaught that has reached",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/08/ashray-a-sanctuary-for-community-renewal/",
+      "victims": 0
     },
     {
       "date": "2026-09-07",
@@ -6466,45 +6505,6 @@
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/08/onaiyekan-northern-christians-atiku-senator-shehu-sani-defend-catholic-bishops/",
       "victims": 0
-    },
-    {
-      "date": "2026-08-03",
-      "lat": 10.2887,
-      "lng": 7.2356,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Sanusi II, Onaiyekan, и critiques Tinubunomics, Suleiman Suleiman",
-      "description": "Otherwise routine meeting between президент Bola Ahmed Tinubu и Catholic епископы Nigeria Conference на прошлой неделе took dramatic turn. post Sanusi II, Onaiyekan, и critiques Tinubunomics, Suleiman Suleiman appeared первый на Va",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/08/sanusi-ii-onaiyekan-and-critiques-of-tinubunomics-by-suleiman-suleiman/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-03",
-      "lat": 6.7108,
-      "lng": 3.2512,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Nigeria’s progress impossible without leadership continuity – Bakare",
-      "description": "Пастор Tunde Bakare warns Nigeria’s development hinges на leadership continuity и strong institutions. Discover his insights на governance и nation-bui Read More: https://punchng.com/nigerias-progress-impossible-without-leadership-continuity-bak",
-      "source": "punchng",
-      "url": "https://punchng.com/nigerias-progress-impossible-without-leadership-continuity-bakare/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-03",
-      "lat": 9.0526,
-      "lng": 9.4591,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Funeral Services Held для 30 христиане зарезан в Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пасторы и members various церкви attended Catholic funeral service на суббота (Aug. 1) для 27 христиане зарезан suspected фулани террористы в Kaduna штат, Nigeria, s",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/08/funeral-services-held-for-30-christians-massacred-in-nigeria/",
-      "victims": 30
     }
   ]
 }
