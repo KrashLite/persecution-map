@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-11T01:41:06.364Z",
+    "lastUpdated": "2026-09-11T10:06:09.306Z",
     "totalEvents": 500
   },
   "events": [
@@ -64,6 +64,19 @@
       "lng": 73.0628,
       "country": "Pakistan",
       "city": "Islamabad",
+      "type": "kidnapping",
+      "title": "Христианка застрелен мусульманин в Pakistan",
+      "description": "21-год-old женщина was fatally застрелен inside her home в Rawalpindi, Pakistan, her мусульманин neighbor, according report христианин Daily International. Her killer then похищен her 16-год-old stepbrother, coercing him confess her murde",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/10/christian-woman-shot-by-muslim-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-10",
+      "lat": 24.9544,
+      "lng": 66.9815,
+      "country": "Pakistan",
+      "city": "Karachi",
       "type": "kidnapping",
       "title": "Христианка застрелен мусульманин в Pakistan",
       "description": "21-год-old женщина was fatally застрелен inside her home в Rawalpindi, Pakistan, her мусульманин neighbor, according report христианин Daily International. Her killer then похищен her 16-год-old stepbrother, coercing him confess her murde",
@@ -220,6 +233,19 @@
       "lng": 7.5864,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "murder",
+      "title": "More than 30 христиане убит в плато штат, Nigeria",
+      "description": "Атаки на деревни one area also leave ранения и разрушение.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/more-than-30-christians-slain-in-plateau-state-nigeria",
+      "victims": 30
+    },
+    {
+      "date": "2026-09-09",
+      "lat": 12.173,
+      "lng": 8.8207,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "murder",
       "title": "More than 30 христиане убит в плато штат, Nigeria",
       "description": "Атаки на деревни one area also leave ранения и разрушение.",
@@ -428,6 +454,19 @@
       "lng": 82.091,
       "country": "India",
       "city": "Chhattisgarh",
+      "type": "murder",
+      "title": "Ashray: Sanctuary для Community Renewal",
+      "description": "В high-stakes humanitarian landscape central India’s Chhattisgarh, addressing перемещение has become critical strategic priority. для семьи в this регион, гонение is not theoretical risk but physical onslaught that has reached",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/08/ashray-a-sanctuary-for-community-renewal/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-08",
+      "lat": 28.6045,
+      "lng": 77.0596,
+      "country": "India",
+      "city": "Delhi",
       "type": "murder",
       "title": "Ashray: Sanctuary для Community Renewal",
       "description": "В high-stakes humanitarian landscape central India’s Chhattisgarh, addressing перемещение has become critical strategic priority. для семьи в this регион, гонение is not theoretical risk but physical onslaught that has reached",
@@ -6465,45 +6504,6 @@
       "description": "Пока local церковь was still mourning священник’s смерть, yet another act violence shook country’s Catholics.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/priest-killed-kidnappings-at-mass-in-nigeria",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-04",
-      "lat": 9.0365,
-      "lng": 7.5942,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "30 христиане зарезан в Nigeria laid rest",
-      "description": "Пасторы и members various церкви attended Catholic funeral service на суббота для 27 христиане зарезан suspected фулани террористы в Kaduna штат, Nigeria, sources said.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/30-christians-massacred-in-nigeria-laid-to-rest",
-      "victims": 30
-    },
-    {
-      "date": "2026-08-04",
-      "lat": 9.2017,
-      "lng": 9.4793,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "30 христиане зарезан в Nigeria laid rest",
-      "description": "Пасторы и members various церкви attended Catholic funeral service на суббота для 27 христиане зарезан suspected фулани террористы в Kaduna штат, Nigeria, sources said.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/30-christians-massacred-in-nigeria-laid-to-rest",
-      "victims": 30
-    },
-    {
-      "date": "2026-08-03",
-      "lat": 10.2863,
-      "lng": 7.1677,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Onaiyekan: Northern христиане, Atiku, Senator Shehu Sani defend Catholic епископы",
-      "description": "Northern христианин Association, NCA, presidential candidate African Democratic конгресс, ADC, Atiku Abubakar, и Senator Shehu Sani have defended Catholic епископ Conference Nigeria, CBCN, statements credited former епископ o",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/08/onaiyekan-northern-christians-atiku-senator-shehu-sani-defend-catholic-bishops/",
       "victims": 0
     }
   ]
