@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-11T15:21:58.011Z",
+    "lastUpdated": "2026-09-11T20:08:57.844Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "Cherubim & Seraphim церковь has launched surveillance и security-awareness training programme boost церковь security amid growing угрозы в Niger Read More: https://punchng.com/cs-launches-surveillance-training--boost-церковь-security/",
       "source": "punchng",
       "url": "https://punchng.com/cs-launches-surveillance-training-to-boost-church-security/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-11",
+      "lat": 2.1721,
+      "lng": 45.3918,
+      "country": "Somalia",
+      "city": "Mogadishu",
+      "type": "other",
+      "title": "Interview с ‘Rebekah,’ ICC-Supported миссионер в Somaliland",
+      "description": "Editor’s Note: following is interview с “Rebekah,” миссионер whom International христианин Concern (ICC) supports в Somaliland, where sharing gospel is extremely difficult и dangerous. Some details have been altered or omitted p",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/11/an-interview-with-rebekah-an-icc-supported-missionary-in-somaliland/",
       "victims": 0
     },
     {
@@ -96,6 +109,19 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/09/10/christian-woman-shot-by-muslim-in-pakistan/",
       "victims": 0
+    },
+    {
+      "date": "2026-09-10",
+      "lat": 11.8483,
+      "lng": 8.4739,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Nigeria: 3,000 люди убит и 3,000 похищен: toll anti-христианин гонение в первый 8 месяцы 2026",
+      "description": "Broader figures compiled Intersociety are even more alarming. Since Боко Харам launched its кампания в 2009, organization says least 19,800 церкви have been атакован. Its researchers estimate that 130,783 христиане have been убит",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/09/10/nigeria-3000-people-killed-and-3000-kidnapped-the-toll-of-anti-christian-persecution-in-the-first-8-months-of-2026/",
+      "victims": 19
     },
     {
       "date": "2026-09-09",
@@ -6473,32 +6499,6 @@
       "lng": 3.1833,
       "country": "Nigeria",
       "city": "Lagos",
-      "type": "murder",
-      "title": "Священник убит, followed похищения месса в Nigeria",
-      "description": "Пока local церковь was still mourning священник’s смерть, yet another act violence shook country’s Catholics.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/priest-killed-kidnappings-at-mass-in-nigeria",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-04",
-      "lat": 9.2997,
-      "lng": 7.5501,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "John кардинал Onaiyekan spoke bit too much, Rotimi Fasan",
-      "description": "Storm that has followed Catholic епископы’ Conference Nigeria’s visit президент Bola Tinubu would certainly not have occurred had архиепископ Emeritus Abuja, John кардинал Onaiyekan, not taken airwaves в form telev",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/08/john-cardinal-onaiyekan-spoke-a-bit-too-much-by-rotimi-fasan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-04",
-      "lat": 12.057,
-      "lng": 8.5195,
-      "country": "Nigeria",
-      "city": "Kano",
       "type": "murder",
       "title": "Священник убит, followed похищения месса в Nigeria",
       "description": "Пока local церковь was still mourning священник’s смерть, yet another act violence shook country’s Catholics.",
