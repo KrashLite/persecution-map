@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-11T20:08:57.844Z",
+    "lastUpdated": "2026-09-12T01:47:13.381Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,19 @@
       "description": "Editor’s Note: following is interview с “Rebekah,” миссионер whom International христианин Concern (ICC) supports в Somaliland, where sharing gospel is extremely difficult и dangerous. Some details have been altered or omitted p",
       "source": "persecution",
       "url": "https://persecution.org/2026/09/11/an-interview-with-rebekah-an-icc-supported-missionary-in-somaliland/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-11",
+      "lat": 24.7761,
+      "lng": 67.0044,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "arrest",
+      "title": "Христианин арестован для богохульство в Pakistan",
+      "description": "26-год-old христианин, Samuel Arif, has been арестован и sent на judicial заключение под стражу в Lahore после being accused богохульство. incident has снова raised deep concerns among local rights activists и христианская община regarding mis",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/11/christian-man-arrested-for-blasphemy-in-pakistan/",
       "victims": 0
     },
     {
@@ -122,6 +135,32 @@
       "source": "zenit",
       "url": "https://zenit.org/2026/09/10/nigeria-3000-people-killed-and-3000-kidnapped-the-toll-of-anti-christian-persecution-in-the-first-8-months-of-2026/",
       "victims": 19
+    },
+    {
+      "date": "2026-09-10",
+      "lat": 9.3277,
+      "lng": 7.6064,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Nigeria: 3,000 люди убит и 3,000 похищен: toll anti-христианин гонение в первый 8 месяцы 2026",
+      "description": "Broader figures compiled Intersociety are even more alarming. Since Боко Харам launched its кампания в 2009, organization says least 19,800 церкви have been атакован. Its researchers estimate that 130,783 христиане have been убит",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/09/10/nigeria-3000-people-killed-and-3000-kidnapped-the-toll-of-anti-christian-persecution-in-the-first-8-months-of-2026/",
+      "victims": 19
+    },
+    {
+      "date": "2026-09-10",
+      "lat": 31.6041,
+      "lng": 74.5217,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "kidnapping",
+      "title": "Христианка застрелен мусульманин в Pakistan",
+      "description": "21-год-old женщина was fatally застрелен inside her home в Rawalpindi, Pakistan, her мусульманин neighbor, according report христианин Daily International. Her killer then похищен her 16-год-old stepbrother, coercing him confess her murde",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/10/christian-woman-shot-by-muslim-in-pakistan/",
+      "victims": 0
     },
     {
       "date": "2026-09-09",
@@ -304,6 +343,32 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/09/09/boko-haram-kills-11-in-adamawa-state/",
       "victims": 11
+    },
+    {
+      "date": "2026-09-09",
+      "lat": 12.0748,
+      "lng": 13.1888,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "Боко Харам Kills 11 в Adamawa штат",
+      "description": "Least 11 люди were убит в рано hours понедельник, Sept. 7, as suspected Боко Харам террористы invaded Zaranga деревня в Gombi Local правительство Area Adamawa штат, Nigeria. attackers reportedly entered community до рассвет, sh",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/09/boko-haram-kills-11-in-adamawa-state/",
+      "victims": 11
+    },
+    {
+      "date": "2026-09-09",
+      "lat": 9.0382,
+      "lng": 9.2998,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "После мечеть атака, Nigeria’s епископы say enough is enough",
+      "description": "Catholic епископы’ Conference Nigeria issued urgent statement на август 27 condemning two separate атаки that have left dozens погибшие и 60 люди похищен — и calling на Nigerian правительство, силы безопасности, и attackers t",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/09/09/after-mosque-attack-nigerias-bishops-say-enough-is-enough/",
+      "victims": 60
     },
     {
       "date": "2026-09-08",
@@ -6439,71 +6504,6 @@
       "description": "(утро Star News) – Following Algeria’s закрытие nearly all евангелические церкви в waves подавление that began в 2017, христиане have been вынужден underground в what they describe as internal ссылка, sources said. христиане в 99-per",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/08/oppressed-christians-in-algeria-go-underground/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-04",
-      "lat": 11.9967,
-      "lng": 13.3274,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Священник убит, followed похищения месса в Nigeria",
-      "description": "Пока local церковь was still mourning священник’s смерть, yet another act violence shook country’s Catholics.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/priest-killed-kidnappings-at-mass-in-nigeria",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-04",
-      "lat": 15.7428,
-      "lng": 32.4111,
-      "country": "Sudan",
-      "city": "Khartoum",
-      "type": "attack",
-      "title": "Upper Kauda Catholic Parish Continues Mourn Following атака, убийство священник",
-      "description": "Upper Kauda St. Vincent Catholic Parish в Sudan’s Nuba горы had long served as place богослужение, education, и humanitarian care для community living amid conflict. на июнь 19, place refuge came под атака после 48-hour ultimatu",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/04/upper-kauda-catholic-parish-continues-to-mourn-following-attack-killing-of-priest/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-04",
-      "lat": 11.9909,
-      "lng": 8.7866,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "Middle Belt forum backs Onaiyekan, Catholic епископы economic warnings",
-      "description": "Middle Belt Forum supports кардинал Onaiyekan и Catholic епископы’ economic warnings, stating their comments reflect Nigerians’ daily realities. Read More: https://punchng.com/middle-belt-forum-backs-onaiyekan-catholic-епископы--economic-war",
-      "source": "punchng",
-      "url": "https://punchng.com/middle-belt-forum-backs-onaiyekan-catholic-bishops-over-economic-warnings/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-04",
-      "lat": 11.6645,
-      "lng": 13.1481,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "2027: Don’t be политический thugs, Anglican Primate tells Nigerian молодёжь",
-      "description": "Primate urged христиане across country register с политический parties и participate в electing their представители, saying politics shapes every aspect national life. post 2027: Don’t be политический thugs, Anglican Primate tell",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/08/2027-dont-be-political-thugs-anglican-primate-tells-nigerian-youths/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-04",
-      "lat": 6.5502,
-      "lng": 3.1833,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Священник убит, followed похищения месса в Nigeria",
-      "description": "Пока local церковь was still mourning священник’s смерть, yet another act violence shook country’s Catholics.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/priest-killed-kidnappings-at-mass-in-nigeria",
       "victims": 0
     }
   ]
