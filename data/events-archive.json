@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-12T01:47:13.381Z",
+    "lastUpdated": "2026-09-12T09:41:27.598Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-09-12",
+      "lat": 9.337,
+      "lng": 9.3966,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Around 300 христиане убит и 200 похищен в Nigeria в июль alone amid wave атаки - report",
+      "description": "Least 299 христиане were убит и more than 200 похищен across parts Nigeria в июль, according new report documenting wave атаки на predominantly христианские общины.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/around-300-christians-killed-and-over-200-abducted-in-nigeria-in-july-alone-amid-wave-of-attacks-report",
+      "victims": 300
+    },
     {
       "date": "2026-09-11",
       "lat": 13.4012,
@@ -38,6 +51,19 @@
       "lng": 67.0044,
       "country": "Pakistan",
       "city": "Karachi",
+      "type": "arrest",
+      "title": "Христианин арестован для богохульство в Pakistan",
+      "description": "26-год-old христианин, Samuel Arif, has been арестован и sent на judicial заключение под стражу в Lahore после being accused богохульство. incident has снова raised deep concerns among local rights activists и христианская община regarding mis",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/11/christian-man-arrested-for-blasphemy-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-11",
+      "lat": 31.3931,
+      "lng": 74.3961,
+      "country": "Pakistan",
+      "city": "Lahore",
       "type": "arrest",
       "title": "Христианин арестован для богохульство в Pakistan",
       "description": "26-год-old христианин, Samuel Arif, has been арестован и sent на judicial заключение под стражу в Lahore после being accused богохульство. incident has снова raised deep concerns among local rights activists и христианская община regarding mis",
@@ -363,6 +389,19 @@
       "lng": 9.2998,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "murder",
+      "title": "После мечеть атака, Nigeria’s епископы say enough is enough",
+      "description": "Catholic епископы’ Conference Nigeria issued urgent statement на август 27 condemning two separate атаки that have left dozens погибшие и 60 люди похищен — и calling на Nigerian правительство, силы безопасности, и attackers t",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/09/09/after-mosque-attack-nigerias-bishops-say-enough-is-enough/",
+      "victims": 60
+    },
+    {
+      "date": "2026-09-09",
+      "lat": 11.5994,
+      "lng": 13.1769,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "murder",
       "title": "После мечеть атака, Nigeria’s епископы say enough is enough",
       "description": "Catholic епископы’ Conference Nigeria issued urgent statement на август 27 condemning two separate атаки that have left dozens погибшие и 60 люди похищен — и calling на Nigerian правительство, силы безопасности, и attackers t",
@@ -6465,45 +6504,6 @@
       "description": "Христианин coalition warns US that retaining same-вера presidential ticket в Nigeria threatens христиане и worsens insecurity. Read More: https://punchng.com/coalition-says-same-вера-ticket-угроза--христиане-urges-us-intervention/",
       "source": "punchng",
       "url": "https://punchng.com/coalition-says-same-faith-ticket-threat-to-christians-urges-us-intervention/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-04",
-      "lat": 10.4633,
-      "lng": 7.5279,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "30 христиане зарезан в Nigeria laid rest",
-      "description": "Пасторы и members various церкви attended Catholic funeral service на суббота для 27 христиане зарезан suspected фулани террористы в Kaduna штат, Nigeria, sources said.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/30-christians-massacred-in-nigeria-laid-to-rest",
-      "victims": 30
-    },
-    {
-      "date": "2026-08-04",
-      "lat": 12.0647,
-      "lng": 8.7562,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "30 христиане зарезан в Nigeria laid rest",
-      "description": "Пасторы и members various церкви attended Catholic funeral service на суббота для 27 христиане зарезан suspected фулани террористы в Kaduna штат, Nigeria, sources said.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/30-christians-massacred-in-nigeria-laid-to-rest",
-      "victims": 30
-    },
-    {
-      "date": "2026-08-04",
-      "lat": 36.6412,
-      "lng": 3.1433,
-      "country": "Algeria",
-      "city": "Algiers",
-      "type": "other",
-      "title": "Oppressed христиане в Algeria Go Underground",
-      "description": "(утро Star News) – Following Algeria’s закрытие nearly all евангелические церкви в waves подавление that began в 2017, христиане have been вынужден underground в what they describe as internal ссылка, sources said. христиане в 99-per",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/08/oppressed-christians-in-algeria-go-underground/",
       "victims": 0
     }
   ]
