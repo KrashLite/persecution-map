@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-13T01:37:55.410Z",
+    "lastUpdated": "2026-09-13T10:42:46.481Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-09-13",
+      "lat": 12.1287,
+      "lng": 8.7283,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Don’t leave politics opportunists, Fayemi tells Catholics",
+      "description": "Shina Abubakar, Osogbo OSOGBO — Former Ekiti штат губернатор, Dr Kayode Fayemi, has urged Nigerian Catholics actively participate в politics rather than withdraw из политический process because perception that politics is “dirty gam",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/09/dont-leave-politics-to-opportunists-fayemi-tells-catholics/",
+      "victims": 0
+    },
     {
       "date": "2026-09-12",
       "lat": 9.337,
@@ -83,6 +96,19 @@
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/09/okene-anglican-diocese-explains-ban-on-immediate-burials/",
       "victims": 0
+    },
+    {
+      "date": "2026-09-12",
+      "lat": 11.9379,
+      "lng": 13.2682,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "Around 300 христиане убит и 200 похищен в Nigeria в июль alone amid wave атаки - report",
+      "description": "Least 299 христиане were убит и more than 200 похищен across parts Nigeria в июль, according new report documenting wave атаки на predominantly христианские общины.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/around-300-christians-killed-and-over-200-abducted-in-nigeria-in-july-alone-amid-wave-of-attacks-report",
+      "victims": 300
     },
     {
       "date": "2026-09-11",
@@ -6479,32 +6505,6 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/iraqi-bishops-consider-pm-s-invitation-for-christians-to-return",
       "victims": 0
-    },
-    {
-      "date": "2026-08-05",
-      "lat": 8.9103,
-      "lng": 7.6043,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Nigerian армия аресты Suspect Tied смерти 30 христиане",
-      "description": "Nigerian армия арестован 48-год-old фулани мусульманин suspected participating в атака that убит least 30 христианин residents Naridon деревня в Kaduna штат. Troops из Sector 3 операция Enduring Peace арестован Salihu Miakailu",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/05/nigerian-army-arrests-suspect-tied-to-deaths-of-30-christians/",
-      "victims": 30
-    },
-    {
-      "date": "2026-08-05",
-      "lat": 11.6824,
-      "lng": 13.0329,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Nigerian армия аресты Suspect Tied смерти 30 христиане",
-      "description": "Nigerian армия арестован 48-год-old фулани мусульманин suspected participating в атака that убит least 30 христианин residents Naridon деревня в Kaduna штат. Troops из Sector 3 операция Enduring Peace арестован Salihu Miakailu",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/05/nigerian-army-arrests-suspect-tied-to-deaths-of-30-christians/",
-      "victims": 30
     }
   ]
 }
