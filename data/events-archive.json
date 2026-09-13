@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-13T10:42:46.481Z",
+    "lastUpdated": "2026-09-13T15:10:30.203Z",
     "totalEvents": 500
   },
   "events": [
@@ -109,6 +109,19 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/around-300-christians-killed-and-over-200-abducted-in-nigeria-in-july-alone-amid-wave-of-attacks-report",
       "victims": 300
+    },
+    {
+      "date": "2026-09-12",
+      "lat": 35.7114,
+      "lng": 44.1662,
+      "country": "Iraq",
+      "city": "Kirkuk",
+      "type": "arrest",
+      "title": "Claire Lai, daughter заключён Hong Kong защитник, announces cancer diagnosis",
+      "description": "Catholic activist Jimmy Lai’s daughter enters treatment для cancer, Iraq build largest Marian святыня, canonization cause opens для Belfast священники, и more в на этой неделе’s world news roundup.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/claire-lai-daughter-of-jailed-hong-kong-advocate-announces-cancer-diagnosis",
+      "victims": 0
     },
     {
       "date": "2026-09-11",
@@ -538,6 +551,19 @@
       "source": "aleteia",
       "url": "https://aleteia.org/2026/09/09/after-mosque-attack-nigerias-bishops-say-enough-is-enough/",
       "victims": 60
+    },
+    {
+      "date": "2026-09-09",
+      "lat": 9.2574,
+      "lng": 7.3599,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Боко Харам Kills 11 в Adamawa штат",
+      "description": "Least 11 люди were убит в рано hours понедельник, Sept. 7, as suspected Боко Харам террористы invaded Zaranga деревня в Gombi Local правительство Area Adamawa штат, Nigeria. attackers reportedly entered community до рассвет, sh",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/09/boko-haram-kills-11-in-adamawa-state/",
+      "victims": 11
     },
     {
       "date": "2026-09-08",
@@ -6479,32 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/08/05/nigerian-army-arrests-suspect-tied-to-deaths-of-30-christians/",
       "victims": 30
-    },
-    {
-      "date": "2026-08-05",
-      "lat": 9.0243,
-      "lng": 7.6341,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "Когда Land Can No Longer Sustain Its люди",
-      "description": "Part Two series, “когда Creation Groans” ICC Fellow Lisa Navarrette Across Nigeria’s Middle Belt, rhythm daily life has long been shaped land. до sunrise, farmers walk fields cultivated their семьи для generatio",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/05/when-the-land-can-no-longer-sustain-its-people/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-05",
-      "lat": 33.1241,
-      "lng": 44.3265,
-      "country": "Iraq",
-      "city": "Baghdad",
-      "type": "other",
-      "title": "Iraqi епископы consider PM's invitation для христиане return",
-      "description": "Some христиане suspect motives Iraqi PM.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iraqi-bishops-consider-pm-s-invitation-for-christians-to-return",
-      "victims": 0
     }
   ]
 }
