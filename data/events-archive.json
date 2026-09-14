@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-14T11:05:35.004Z",
+    "lastUpdated": "2026-09-14T17:08:53.577Z",
     "totalEvents": 500
   },
   "events": [
@@ -18,6 +18,19 @@
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/09/terror-alert-can-muslims-tighten-security-in-osun/",
       "victims": 0
+    },
+    {
+      "date": "2026-09-14",
+      "lat": 36.799,
+      "lng": 3.1287,
+      "country": "Algeria",
+      "city": "Algiers",
+      "type": "arrest",
+      "title": "Полиция в Algeria арест 12 христиане во время богослужение",
+      "description": "(утро Star News) – спецназ полиция в Algeria raided богослужение service residential building на Sept. 4, arresting all 12 христиане present на suspicion holding unauthorized, non-мусульманин религиозный service, sources said. building",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/09/police-in-algeria-arrest-12-christians-during-worship/",
+      "victims": 12
     },
     {
       "date": "2026-09-13",
@@ -6491,19 +6504,6 @@
       "description": "Omeiza Ajayi ABUJA: Federal правительство has restated its readiness deepen consultations с Catholic епископы’ Conference Nigeria CBCN и other вера-based groups, insisting that many Nigeria’s испытания can only be resolved through",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/08/presidency-to-deepen-consultations-with-catholic-bishops/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-05",
-      "lat": 36.172,
-      "lng": 43.3669,
-      "country": "Iraq",
-      "city": "Mosul",
-      "type": "other",
-      "title": "Iraqi епископы consider PM's invitation для христиане return",
-      "description": "Some христиане suspect motives Iraqi PM.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iraqi-bishops-consider-pm-s-invitation-for-christians-to-return",
       "victims": 0
     }
   ]
