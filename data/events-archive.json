@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-13T19:57:00.095Z",
+    "lastUpdated": "2026-09-14T01:55:54.660Z",
     "totalEvents": 500
   },
   "events": [
@@ -135,6 +135,32 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/around-300-christians-killed-and-over-200-abducted-in-nigeria-in-july-alone-amid-wave-of-attacks-report",
       "victims": 300
+    },
+    {
+      "date": "2026-09-12",
+      "lat": 33.4281,
+      "lng": 44.2437,
+      "country": "Iraq",
+      "city": "Baghdad",
+      "type": "arrest",
+      "title": "Claire Lai, daughter заключён Hong Kong защитник, announces cancer diagnosis",
+      "description": "Catholic activist Jimmy Lai’s daughter enters treatment для cancer, Iraq build largest Marian святыня, canonization cause opens для Belfast священники, и more в на этой неделе’s world news roundup.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/claire-lai-daughter-of-jailed-hong-kong-advocate-announces-cancer-diagnosis",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-12",
+      "lat": 4.4975,
+      "lng": -74.0652,
+      "country": "Colombia",
+      "city": "Bogota",
+      "type": "other",
+      "title": "Colombian президент Announces Funding для Restoration Major церковь повреждён Earthquake",
+      "description": "Basilica was повреждён август 10 earthquake, particularly в its dome. для safety reasons, мессы inside церковь have been suspended. литургия is в настоящее время being celebrated в посёлок’s central square, transforming extraordinary di",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/09/12/colombian-president-announces-funding-for-the-restoration-of-a-major-church-damaged-by-the-earthquake/",
+      "victims": 0
     },
     {
       "date": "2026-09-11",
@@ -6479,32 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/08/05/nigerian-army-arrests-suspect-tied-to-deaths-of-30-christians/",
       "victims": 30
-    },
-    {
-      "date": "2026-08-05",
-      "lat": 12.2409,
-      "lng": 8.6265,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "Когда Land Can No Longer Sustain Its люди",
-      "description": "Part Two series, “когда Creation Groans” ICC Fellow Lisa Navarrette Across Nigeria’s Middle Belt, rhythm daily life has long been shaped land. до sunrise, farmers walk fields cultivated their семьи для generatio",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/05/when-the-land-can-no-longer-sustain-its-people/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-05",
-      "lat": 36.3883,
-      "lng": 44.0997,
-      "country": "Iraq",
-      "city": "Erbil",
-      "type": "other",
-      "title": "Iraqi епископы consider PM's invitation для христиане return",
-      "description": "Some христиане suspect motives Iraqi PM.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iraqi-bishops-consider-pm-s-invitation-for-christians-to-return",
-      "victims": 0
     }
   ]
 }
