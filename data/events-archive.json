@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-14T17:08:53.577Z",
+    "lastUpdated": "2026-09-14T21:07:10.178Z",
     "totalEvents": 500
   },
   "events": [
@@ -31,6 +31,32 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/09/police-in-algeria-arrest-12-christians-during-worship/",
       "victims": 12
+    },
+    {
+      "date": "2026-09-14",
+      "lat": 15.5888,
+      "lng": 32.7581,
+      "country": "Sudan",
+      "city": "Khartoum",
+      "type": "discrimination",
+      "title": "Христианин Mother’s Courage Fight для Her дети",
+      "description": "В quiet corners лагерь беженцев в South Sudan, mother six holds tightly her вера и hope that her дети will one день live free из fear. Lulu was однажды мусульманин, wife мусульманин husband, и mother living в Sudan. Whe",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/14/a-christian-mothers-courage-to-fight-for-her-children/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-14",
+      "lat": 36.1256,
+      "lng": 43.9087,
+      "country": "Iraq",
+      "city": "Erbil",
+      "type": "other",
+      "title": "Nearly 700 young христиане gather в Iraq для Baghdeda молодёжь Festival",
+      "description": "Young люди came together pray и hear talks под theme “в Footsteps St. Francis.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/nearly-700-young-christians-gather-in-iraq-for-baghdeda-youth-festival",
+      "victims": 0
     },
     {
       "date": "2026-09-13",
@@ -246,6 +272,19 @@
       "lng": 73.0224,
       "country": "Pakistan",
       "city": "Islamabad",
+      "type": "arrest",
+      "title": "Христианин арестован для богохульство в Pakistan",
+      "description": "26-год-old христианин, Samuel Arif, has been арестован и sent на judicial заключение под стражу в Lahore после being accused богохульство. incident has снова raised deep concerns among local rights activists и христианская община regarding mis",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/11/christian-man-arrested-for-blasphemy-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-11",
+      "lat": 34.1204,
+      "lng": 71.4023,
+      "country": "Pakistan",
+      "city": "Peshawar",
       "type": "arrest",
       "title": "Христианин арестован для богохульство в Pakistan",
       "description": "26-год-old христианин, Samuel Arif, has been арестован и sent на judicial заключение под стражу в Lahore после being accused богохульство. incident has снова raised deep concerns among local rights activists и христианская община regarding mis",
@@ -6465,45 +6504,6 @@
       "description": "Dayo Johnson Akure Former Ondo штат губернатор, Dr. Olusegun Mimiko, says Nigeria can only break free из administrative gridlock и insecurity if power is genuinely transferred sub-national правительства. Mimiko spoke пасторы’ Seed Servi",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/08/devolve-power-to-states-mimiko-cites-jethro-principle-as-cure-for-nigerias-governance-crisis/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-05",
-      "lat": 35.6247,
-      "lng": 44.1946,
-      "country": "Iraq",
-      "city": "Kirkuk",
-      "type": "other",
-      "title": "Iraqi епископы consider PM's invitation для христиане return",
-      "description": "Some христиане suspect motives Iraqi PM.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iraqi-bishops-consider-pm-s-invitation-for-christians-to-return",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-05",
-      "lat": 6.6887,
-      "lng": 3.507,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Когда Land Can No Longer Sustain Its люди",
-      "description": "Part Two series, “когда Creation Groans” ICC Fellow Lisa Navarrette Across Nigeria’s Middle Belt, rhythm daily life has long been shaped land. до sunrise, farmers walk fields cultivated their семьи для generatio",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/05/when-the-land-can-no-longer-sustain-its-people/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-05",
-      "lat": 9.1828,
-      "lng": 9.6716,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Presidency deepen consultations с Catholic епископы",
-      "description": "Omeiza Ajayi ABUJA: Federal правительство has restated its readiness deepen consultations с Catholic епископы’ Conference Nigeria CBCN и other вера-based groups, insisting that many Nigeria’s испытания can only be resolved through",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/08/presidency-to-deepen-consultations-with-catholic-bishops/",
       "victims": 0
     }
   ]
