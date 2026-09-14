@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-14T01:55:54.660Z",
+    "lastUpdated": "2026-09-14T11:05:35.004Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-09-14",
+      "lat": 6.6512,
+      "lng": 3.5027,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "attack",
+      "title": "Terror Alert: CAN, мусульмане tighten security в Osun",
+      "description": "Shina Abubakar, Osogbo Following alert департамент штат Services, DSS, alleged plan атака богослужение centres в Osun штат, христианин Association Nigeria, CAN, и мусульманин community have adopted measures prevent",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/09/terror-alert-can-muslims-tighten-security-in-osun/",
+      "victims": 0
+    },
     {
       "date": "2026-09-13",
       "lat": 12.1287,
@@ -6492,19 +6505,6 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/iraqi-bishops-consider-pm-s-invitation-for-christians-to-return",
       "victims": 0
-    },
-    {
-      "date": "2026-08-05",
-      "lat": 12.0848,
-      "lng": 8.6846,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Nigerian армия аресты Suspect Tied смерти 30 христиане",
-      "description": "Nigerian армия арестован 48-год-old фулани мусульманин suspected participating в атака that убит least 30 христианин residents Naridon деревня в Kaduna штат. Troops из Sector 3 операция Enduring Peace арестован Salihu Miakailu",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/05/nigerian-army-arrests-suspect-tied-to-deaths-of-30-christians/",
-      "victims": 30
     }
   ]
 }
