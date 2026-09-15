@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-15T02:05:36.484Z",
+    "lastUpdated": "2026-09-15T10:34:08.395Z",
     "totalEvents": 500
   },
   "events": [
@@ -64,6 +64,19 @@
       "lng": 44.2185,
       "country": "Iraq",
       "city": "Kirkuk",
+      "type": "other",
+      "title": "Nearly 700 young христиане gather в Iraq для Baghdeda молодёжь Festival",
+      "description": "Young люди came together pray и hear talks под theme “в Footsteps St. Francis.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/nearly-700-young-christians-gather-in-iraq-for-baghdeda-youth-festival",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-14",
+      "lat": 33.2592,
+      "lng": 44.4834,
+      "country": "Iraq",
+      "city": "Baghdad",
       "type": "other",
       "title": "Nearly 700 young христиане gather в Iraq для Baghdeda молодёжь Festival",
       "description": "Young люди came together pray и hear talks под theme “в Footsteps St. Francis.”",
@@ -6486,19 +6499,6 @@
       "lng": 121.5157,
       "country": "China",
       "city": "Shanghai",
-      "type": "arrest",
-      "title": "Americans Are Embracing коммунизм. пастор Ezra Jin Felt Its Iron Fist.",
-      "description": "Пастор Ezra Jin’s feet touched American soil на июль 3 для первый time since 2018. для preaching gospel в коммунист China, Jin spent 266 дни в Chinese тюрьма. Two дни после his return, Democratic социалисты America announced that",
-      "source": "newsapi:Daily Signal",
-      "url": "https://www.dailysignal.com/2026/08/06/communism-jin-felt-iron-fist/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-06",
-      "lat": 40.0147,
-      "lng": 116.3119,
-      "country": "China",
-      "city": "Beijing",
       "type": "arrest",
       "title": "Americans Are Embracing коммунизм. пастор Ezra Jin Felt Its Iron Fist.",
       "description": "Пастор Ezra Jin’s feet touched American soil на июль 3 для первый time since 2018. для preaching gospel в коммунист China, Jin spent 266 дни в Chinese тюрьма. Two дни после his return, Democratic социалисты America announced that",
