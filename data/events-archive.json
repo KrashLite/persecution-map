@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-15T15:47:29.824Z",
+    "lastUpdated": "2026-09-15T20:32:20.218Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,71 @@
       "description": "Iran has not responded.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/un-officials-demand-explanation-for-iranian-church-seizure",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-15",
+      "lat": 9.381,
+      "lng": 9.4788,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "NAF takes delivery five new вертолёты",
+      "description": "Kingsley Omonobi Nigerian военно-воздушные силы (NAF) has taken delivery five new вертолёты as Federal правительство intensifies усилия modernise и re-equip вооружённые силы confront evolving security угрозы. newly acquired platforms c",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/09/naf-takes-delivery-of-five-new-helicopters/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-15",
+      "lat": 6.4794,
+      "lng": 3.4043,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "NAF takes delivery five new вертолёты boost anti-terror операции",
+      "description": "Nigerian военно-воздушные силы has taken delivery five new вертолёты boost its anti-terror операции и modernise its airpower capabilities. Read More: https://punchng.com/naf-takes-delivery--five-new-вертолёты--boost-anti-terror-операции/",
+      "source": "punchng",
+      "url": "https://punchng.com/naf-takes-delivery-of-five-new-helicopters-to-boost-anti-terror-operations/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-15",
+      "lat": 36.1355,
+      "lng": 36.9166,
+      "country": "Syria",
+      "city": "Aleppo",
+      "type": "arrest",
+      "title": "Daughter заключён христианин Syrian urges Trump intervene",
+      "description": "Христианин Solidarity International (CSI) is calling для U.S. governmental intervention после Suleiman Khalil was арестован и задержан Feb. 8, 2025.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/daughter-of-imprisoned-christian-syrian-urges-trump-to-intervene",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-15",
+      "lat": 35.7467,
+      "lng": 51.5191,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "other",
+      "title": "UN чиновники demand explanation для Iranian церковь изъятие",
+      "description": "Iran has not responded.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/un-officials-demand-explanation-for-iranian-church-seizure",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-15",
+      "lat": 0.2077,
+      "lng": 32.4403,
+      "country": "Uganda",
+      "city": "Kampala",
+      "type": "other",
+      "title": "Мусульманин Father попытки Burn христианин Daughters Alive",
+      "description": "Around полночь на Sept. 6, Amina и Shamila were inside their home в Kibenge, Kasese район, Uganda, когда their house was set на fire. Their father, Muhamud, had doused house с petrol, then set it alight пока girls slept inside.",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/15/muslim-father-attempts-to-burn-christian-daughters-alive/",
       "victims": 0
     },
     {
@@ -278,6 +343,19 @@
       "source": "zenit",
       "url": "https://zenit.org/2026/09/12/colombian-president-announces-funding-for-the-restoration-of-a-major-church-damaged-by-the-earthquake/",
       "victims": 0
+    },
+    {
+      "date": "2026-09-12",
+      "lat": 6.7025,
+      "lng": 3.2276,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Around 300 христиане убит и 200 похищен в Nigeria в июль alone amid wave атаки - report",
+      "description": "Least 299 христиане were убит и more than 200 похищен across parts Nigeria в июль, according new report documenting wave атаки на predominantly христианские общины.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/around-300-christians-killed-and-over-200-abducted-in-nigeria-in-july-alone-amid-wave-of-attacks-report",
+      "victims": 300
     },
     {
       "date": "2026-09-11",
@@ -6426,84 +6504,6 @@
       "description": "India's министерство External Affairs stated proposed FCRA amendments are internal legislative matter. US Congressman Riley Moore criticised bill as атака against христиане. proposed amendments empower правительство manage foreign",
       "source": "newsapi:The Times of India",
       "url": "https://economictimes.indiatimes.com/news/india/fcra-amendment-is-indias-internal-matter-says-mea-hits-back-at-us-lawmakers-church-takeover-claim/articleshow/133032033.cms",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-07",
-      "lat": 18.9629,
-      "lng": 72.8228,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "attack",
-      "title": "FCRA amendment is India's internal matter, says MEA, hits back US lawmaker's церковь захват claim",
-      "description": "India's министерство External Affairs stated proposed FCRA amendments are internal legislative matter. US Congressman Riley Moore criticised bill as атака against христиане. proposed amendments empower правительство manage foreign",
-      "source": "newsapi:The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/india/fcra-amendment-is-indias-internal-matter-says-mea-hits-back-at-us-lawmakers-church-takeover-claim/articleshow/133032033.cms",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-07",
-      "lat": 26.7907,
-      "lng": 80.8873,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "attack",
-      "title": "FCRA amendment is India's internal matter, says MEA, hits back US lawmaker's церковь захват claim",
-      "description": "India's министерство External Affairs stated proposed FCRA amendments are internal legislative matter. US Congressman Riley Moore criticised bill as атака against христиане. proposed amendments empower правительство manage foreign",
-      "source": "newsapi:The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/india/fcra-amendment-is-indias-internal-matter-says-mea-hits-back-at-us-lawmakers-church-takeover-claim/articleshow/133032033.cms",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-07",
-      "lat": 28.8244,
-      "lng": 76.8542,
-      "country": "India",
-      "city": "Delhi",
-      "type": "attack",
-      "title": "FCRA amendment is India's internal matter, says MEA, hits back US lawmaker's церковь захват claim",
-      "description": "India's министерство External Affairs stated proposed FCRA amendments are internal legislative matter. US Congressman Riley Moore criticised bill as атака against христиане. proposed amendments empower правительство manage foreign",
-      "source": "newsapi:The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/india/fcra-amendment-is-indias-internal-matter-says-mea-hits-back-at-us-lawmakers-church-takeover-claim/articleshow/133032033.cms",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-07",
-      "lat": 20.71,
-      "lng": 85.1257,
-      "country": "India",
-      "city": "Odisha",
-      "type": "attack",
-      "title": "FCRA amendment is India's internal matter, says MEA, hits back US lawmaker's церковь захват claim",
-      "description": "India's министерство External Affairs stated proposed FCRA amendments are internal legislative matter. US Congressman Riley Moore criticised bill as атака against христиане. proposed amendments empower правительство manage foreign",
-      "source": "newsapi:The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/india/fcra-amendment-is-indias-internal-matter-says-mea-hits-back-at-us-lawmakers-church-takeover-claim/articleshow/133032033.cms",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-06",
-      "lat": 9.1766,
-      "lng": 9.4383,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Onaiyekan Controversy: Afenifere leaders, analysts clash Tinubu presidency’s response Catholic епископы",
-      "description": "\"That act президент was demonstrate Roman Catholic community в Nigeria that they have no better friend than президент Bola Ahmed Tinubu.\" post Onaiyekan Controversy: Afenifere leaders, analysts clash Tinubu presidency’s res",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/08/onaiyekan-controversy-afenifere-leaders-analysts-clash-over-tinubu-presidencys-response-to-catholic-bishops/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-06",
-      "lat": -6.3438,
-      "lng": 35.9158,
-      "country": "Tanzania",
-      "city": "Dodoma",
-      "type": "other",
-      "title": "Tanzania’s Coastal церкви богослужение Despite Fear",
-      "description": "Broken doors have been repaired, benches were returned their places, и Библии were gathered из floor, but fear remained. в several мусульманин-majority communities along Tanzania’s побережье, small христианин церкви continue wo",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/06/tanzanias-coastal-churches-worship-despite-fear/",
       "victims": 0
     }
   ]
