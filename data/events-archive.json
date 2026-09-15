@@ -2,10 +2,49 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-15T10:34:08.395Z",
+    "lastUpdated": "2026-09-15T15:47:29.824Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-09-15",
+      "lat": 6.4368,
+      "lng": 3.3273,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Anglican епископ urges церковь leaders speak against bad governance",
+      "description": "Retired Anglican епископ, Joseph Akinfenwa, has urged церковь leaders speak truth power against hunger, insecurity и лишения в Nigeria. Read More: https://punchng.com/anglican-епископ-urges-церковь-leaders--speak-against-bad-governance",
+      "source": "punchng",
+      "url": "https://punchng.com/anglican-bishop-urges-church-leaders-to-speak-against-bad-governance/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-15",
+      "lat": 34.9088,
+      "lng": 36.9017,
+      "country": "Syria",
+      "city": "Homs",
+      "type": "arrest",
+      "title": "Daughter заключён христианин Syrian urges Trump intervene",
+      "description": "Христианин Solidarity International (CSI) is calling для U.S. governmental intervention после Suleiman Khalil was арестован и задержан Feb. 8, 2025.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/daughter-of-imprisoned-christian-syrian-urges-trump-to-intervene",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-15",
+      "lat": 32.6341,
+      "lng": 51.8129,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "other",
+      "title": "UN чиновники demand explanation для Iranian церковь изъятие",
+      "description": "Iran has not responded.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/un-officials-demand-explanation-for-iranian-church-seizure",
+      "victims": 0
+    },
     {
       "date": "2026-09-14",
       "lat": 6.6512,
@@ -6465,45 +6504,6 @@
       "description": "Broken doors have been repaired, benches were returned their places, и Библии were gathered из floor, but fear remained. в several мусульманин-majority communities along Tanzania’s побережье, small христианин церкви continue wo",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/06/tanzanias-coastal-churches-worship-despite-fear/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-06",
-      "lat": 23.1446,
-      "lng": 113.9352,
-      "country": "China",
-      "city": "Guangdong",
-      "type": "arrest",
-      "title": "Americans Are Embracing коммунизм. пастор Ezra Jin Felt Its Iron Fist.",
-      "description": "Пастор Ezra Jin’s feet touched American soil на июль 3 для первый time since 2018. для preaching gospel в коммунист China, Jin spent 266 дни в Chinese тюрьма. Two дни после his return, Democratic социалисты America announced that",
-      "source": "newsapi:Daily Signal",
-      "url": "https://www.dailysignal.com/2026/08/06/communism-jin-felt-iron-fist/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-06",
-      "lat": 43.9695,
-      "lng": 87.3863,
-      "country": "China",
-      "city": "Xinjiang",
-      "type": "arrest",
-      "title": "Americans Are Embracing коммунизм. пастор Ezra Jin Felt Its Iron Fist.",
-      "description": "Пастор Ezra Jin’s feet touched American soil на июль 3 для первый time since 2018. для preaching gospel в коммунист China, Jin spent 266 дни в Chinese тюрьма. Two дни после his return, Democratic социалисты America announced that",
-      "source": "newsapi:Daily Signal",
-      "url": "https://www.dailysignal.com/2026/08/06/communism-jin-felt-iron-fist/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-06",
-      "lat": 31.0535,
-      "lng": 121.5157,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "arrest",
-      "title": "Americans Are Embracing коммунизм. пастор Ezra Jin Felt Its Iron Fist.",
-      "description": "Пастор Ezra Jin’s feet touched American soil на июль 3 для первый time since 2018. для preaching gospel в коммунист China, Jin spent 266 дни в Chinese тюрьма. Two дни после his return, Democratic социалисты America announced that",
-      "source": "newsapi:Daily Signal",
-      "url": "https://www.dailysignal.com/2026/08/06/communism-jin-felt-iron-fist/",
       "victims": 0
     }
   ]
