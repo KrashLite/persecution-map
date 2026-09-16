@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-16T10:23:18.202Z",
+    "lastUpdated": "2026-09-16T15:39:30.888Z",
     "totalEvents": 500
   },
   "events": [
@@ -129,6 +129,19 @@
       "lng": 59.6182,
       "country": "Iran",
       "city": "Mashhad",
+      "type": "other",
+      "title": "UN чиновники demand explanation для Iranian церковь изъятие",
+      "description": "Iran has not responded.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/un-officials-demand-explanation-for-iranian-church-seizure",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-15",
+      "lat": 29.5876,
+      "lng": 52.6367,
+      "country": "Iran",
+      "city": "Shiraz",
       "type": "other",
       "title": "UN чиновники demand explanation для Iranian церковь изъятие",
       "description": "Iran has not responded.",
@@ -6491,19 +6504,6 @@
       "description": "JUBA, South Sudan (утро Star News) – Following атаки на clergy в Sudan’s South Kordofan штат в прошлом месяце, another церковь leader в Heiban посёлок was похищен на прошлой неделе, according sources. Zakaria Suliman Jana, leader в Sudanese церковь o",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/08/another-church-leader-abducted-in-sudan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-07",
-      "lat": 12.0408,
-      "lng": 13.1466,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "2027: БТР has failed Nigerians, ADC chieftain tells Tinubu, Mbah",
-      "description": "Anayo Okoli ENUGU — chieftain African Democratic конгресс (ADC) в Enugu штат, Dr. (Sir) Walter Oji, has criticised All Progressives конгресс (БТР) administration, alleging that party has failed Nigerians и would struggle se",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/08/2027-apc-has-failed-nigerians-adc-chieftain-tells-tinubu-mbah/",
       "victims": 0
     }
   ]
