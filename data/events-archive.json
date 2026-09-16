@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-15T20:32:20.218Z",
+    "lastUpdated": "2026-09-16T01:56:11.307Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-09-16",
+      "lat": 9.173,
+      "lng": 7.6067,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Anglican епископ urges action against лишения, insecurity",
+      "description": "Retired Anglican епископ, Joseph Akinfenwa, has decried лишения и insecurity в Nigeria, urging церковь leaders speak truth power. Read More: https://punchng.com/anglican-епископ-urges-action-against-лишения-insecurity/",
+      "source": "punchng",
+      "url": "https://punchng.com/anglican-bishop-urges-action-against-hardship-insecurity/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-09-15",
       "lat": 6.4368,
@@ -111,6 +124,19 @@
       "victims": 0
     },
     {
+      "date": "2026-09-15",
+      "lat": 36.1513,
+      "lng": 59.6182,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "UN чиновники demand explanation для Iranian церковь изъятие",
+      "description": "Iran has not responded.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/un-officials-demand-explanation-for-iranian-church-seizure",
+      "victims": 0
+    },
+    {
       "date": "2026-09-14",
       "lat": 6.6512,
       "lng": 3.5027,
@@ -181,6 +207,19 @@
       "lng": 44.4834,
       "country": "Iraq",
       "city": "Baghdad",
+      "type": "other",
+      "title": "Nearly 700 young христиане gather в Iraq для Baghdeda молодёжь Festival",
+      "description": "Young люди came together pray и hear talks под theme “в Footsteps St. Francis.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/nearly-700-young-christians-gather-in-iraq-for-baghdeda-youth-festival",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-14",
+      "lat": 36.5026,
+      "lng": 42.9836,
+      "country": "Iraq",
+      "city": "Mosul",
       "type": "other",
       "title": "Nearly 700 young христиане gather в Iraq для Baghdeda молодёжь Festival",
       "description": "Young люди came together pray и hear talks под theme “в Footsteps St. Francis.”",
@@ -6465,45 +6504,6 @@
       "description": "Anayo Okoli ENUGU — chieftain African Democratic конгресс (ADC) в Enugu штат, Dr. (Sir) Walter Oji, has criticised All Progressives конгресс (БТР) administration, alleging that party has failed Nigerians и would struggle se",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/08/2027-apc-has-failed-nigerians-adc-chieftain-tells-tinubu-mbah/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-07",
-      "lat": 33.322,
-      "lng": 36.0552,
-      "country": "Syria",
-      "city": "Damascus",
-      "type": "discrimination",
-      "title": "Kurdish пастор released из Syria после two недели в задержание",
-      "description": "Пастор Hassan was advised go back Lebanon для his own safety.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/kurdish-pastor-released-from-syria-after-two-weeks-in-detention",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-07",
-      "lat": 36.0007,
-      "lng": 37.0412,
-      "country": "Syria",
-      "city": "Aleppo",
-      "type": "discrimination",
-      "title": "Kurdish пастор released из Syria после two недели в задержание",
-      "description": "Пастор Hassan was advised go back Lebanon для his own safety.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/kurdish-pastor-released-from-syria-after-two-weeks-in-detention",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-07",
-      "lat": 21.1744,
-      "lng": 81.6476,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "attack",
-      "title": "FCRA amendment is India's internal matter, says MEA, hits back US lawmaker's церковь захват claim",
-      "description": "India's министерство External Affairs stated proposed FCRA amendments are internal legislative matter. US Congressman Riley Moore criticised bill as атака against христиане. proposed amendments empower правительство manage foreign",
-      "source": "newsapi:The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/india/fcra-amendment-is-indias-internal-matter-says-mea-hits-back-at-us-lawmakers-church-takeover-claim/articleshow/133032033.cms",
       "victims": 0
     }
   ]
