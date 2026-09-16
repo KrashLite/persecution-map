@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-16T15:39:30.888Z",
+    "lastUpdated": "2026-09-16T20:32:11.424Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "Retired Anglican епископ, Joseph Akinfenwa, has decried лишения и insecurity в Nigeria, urging церковь leaders speak truth power. Read More: https://punchng.com/anglican-епископ-urges-action-against-лишения-insecurity/",
       "source": "punchng",
       "url": "https://punchng.com/anglican-bishop-urges-action-against-hardship-insecurity/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-16",
+      "lat": 6.5748,
+      "lng": 3.4945,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "CAN dismisses rumour Alia’s plan demolish Secretariat",
+      "description": "Peter Duru, Makurdi христианин Association Nigeria (CAN), Benue штат Chapter, has dismissed reports circulating на social media и other platforms alleging that губернатор Hyacinth Alia was planning demolish association’s secretariat",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/09/can-dismisses-rumour-of-alias-plan-to-demolish-secretariat/",
       "victims": 0
     },
     {
@@ -6491,19 +6504,6 @@
       "description": "В холмы Sudan’s Nuba горы, grief continues deepen as христианские общины face repeated атаки на their leaders. на июль 24, fighters из breakaway faction Sudan люди’s Liberation армия-North (SPLA-N) штурмован Dabbi ar",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/07/one-pastor-dies-another-abducted-in-attack-in-sudans-nuba-mountains/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-07",
-      "lat": 15.4294,
-      "lng": 32.6781,
-      "country": "Sudan",
-      "city": "Khartoum",
-      "type": "kidnapping",
-      "title": "Another церковь Leader похищен в Sudan",
-      "description": "JUBA, South Sudan (утро Star News) – Following атаки на clergy в Sudan’s South Kordofan штат в прошлом месяце, another церковь leader в Heiban посёлок was похищен на прошлой неделе, according sources. Zakaria Suliman Jana, leader в Sudanese церковь o",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/08/another-church-leader-abducted-in-sudan/",
       "victims": 0
     }
   ]
