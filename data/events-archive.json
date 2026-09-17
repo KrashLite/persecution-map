@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-17T15:47:15.951Z",
+    "lastUpdated": "2026-09-17T20:38:58.682Z",
     "totalEvents": 500
   },
   "events": [
@@ -56,6 +56,45 @@
       "description": "Masih was rushed больница и позже referred район штаб-квартира (DHQ) больница due severity his condition. чиновник medical certificate was issued confirming severe ранения across multiple parts his body. post C",
       "source": "zenit",
       "url": "https://zenit.org/2026/09/16/christian-teen-beaten-for-protecting-women-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-17",
+      "lat": 33.5357,
+      "lng": 73.2948,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "other",
+      "title": "Христианин Teen избит для Protecting женщины в Pakistan",
+      "description": "Masih was rushed больница и позже referred район штаб-квартира (DHQ) больница due severity his condition. чиновник medical certificate was issued confirming severe ранения across multiple parts his body. post C",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/09/16/christian-teen-beaten-for-protecting-women-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-17",
+      "lat": 27.0243,
+      "lng": 80.9444,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "other",
+      "title": "Когда Fear Prevents люди из Attending месса и церковь Understands: епископ Indianapolis Exempts Migrants из воскресенье месса",
+      "description": "Decree, issued сентябрь 4, is unusually concrete pastoral response atmosphere anxiety surrounding intensified immigration crackdown в United штаты post когда Fear Prevents люди из Attending месса и церковь Unders",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/09/16/when-fear-prevents-people-from-attending-mass-and-the-church-understands-bishop-of-indianapolis-exempts-migrants-from-sunday-mass/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-17",
+      "lat": 19.5095,
+      "lng": -99.3688,
+      "country": "Mexico",
+      "city": "Mexico City",
+      "type": "murder",
+      "title": "Mexican епископы demand ‘thorough investigation’ священник’s убийство",
+      "description": "Священник was found погибшие с выстрел раны along stretch highway. local епископ urged люди not speculate о crime и denounced ongoing violence в country.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/americas/mexican-bishops-demand-thorough-investigation-of-priest-s-murder",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Суды are not able determine who exactly did what в 100-plus толпа.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/christian-couple-murdered-in-pakistan-receive-no-justice",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-08",
-      "lat": 10.4779,
-      "lng": 7.4732,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Nigeria risks losing out на fresh $1.4bn US aid ‘христианин гонение’",
-      "description": "Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according terms contained",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/08/nigeria-risks-losing-out-on-fresh-1-4bn-us-aid-over-christian-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-08",
-      "lat": 6.5257,
-      "lng": 3.2984,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Nigeria risks losing out на fresh $1.4bn US aid ‘христианин гонение’",
-      "description": "Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according terms contained",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/08/nigeria-risks-losing-out-on-fresh-1-4bn-us-aid-over-christian-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-08",
-      "lat": 35.7465,
-      "lng": 51.5916,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Iran clamps down на христианин broadcasters",
-      "description": "Increased гонение has not stopped церковь из growing.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iran-clamps-down-on-christian-broadcasters",
       "victims": 0
     }
   ]
