@@ -2,10 +2,49 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-16T20:32:11.424Z",
+    "lastUpdated": "2026-09-17T02:00:12.905Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-09-17",
+      "lat": 31.7346,
+      "lng": 74.5505,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "other",
+      "title": "Христианин Teen избит для Protecting женщины в Pakistan",
+      "description": "Masih was rushed больница и позже referred район штаб-квартира (DHQ) больница due severity his condition. чиновник medical certificate was issued confirming severe ранения across multiple parts his body. post C",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/09/16/christian-teen-beaten-for-protecting-women-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-17",
+      "lat": 11.6385,
+      "lng": 13.1158,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "Nigeria’s mounting debt, insecurity worsen лишения — Anglican Primate",
+      "description": "Primate церковь Nigeria, архиепископ Henry Ndukuba, has raised concerns Nigeria’s rising debt, insecurity, и corruption. Read More: https://punchng.com/nigerias-mounting-debt-insecurity-worsen-лишения-anglican-primate/",
+      "source": "punchng",
+      "url": "https://punchng.com/nigerias-mounting-debt-insecurity-worsen-hardship-anglican-primate/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-17",
+      "lat": 20.7712,
+      "lng": 84.9714,
+      "country": "India",
+      "city": "Odisha",
+      "type": "other",
+      "title": "Когда Fear Prevents люди из Attending месса и церковь Understands: епископ Indianapolis Exempts Migrants из воскресенье месса",
+      "description": "Decree, issued сентябрь 4, is unusually concrete pastoral response atmosphere anxiety surrounding intensified immigration crackdown в United штаты post когда Fear Prevents люди из Attending месса и церковь Unders",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/09/16/when-fear-prevents-people-from-attending-mass-and-the-church-understands-bishop-of-indianapolis-exempts-migrants-from-sunday-mass/",
+      "victims": 0
+    },
     {
       "date": "2026-09-16",
       "lat": 9.173,
@@ -30,6 +69,32 @@
       "description": "Peter Duru, Makurdi христианин Association Nigeria (CAN), Benue штат Chapter, has dismissed reports circulating на social media и other platforms alleging that губернатор Hyacinth Alia was planning demolish association’s secretariat",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/09/can-dismisses-rumour-of-alias-plan-to-demolish-secretariat/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-16",
+      "lat": 9.0675,
+      "lng": 9.7648,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "CAN dismisses rumour Alia’s plan demolish Secretariat",
+      "description": "Peter Duru, Makurdi христианин Association Nigeria (CAN), Benue штат Chapter, has dismissed reports circulating на social media и other platforms alleging that губернатор Hyacinth Alia was planning demolish association’s secretariat",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/09/can-dismisses-rumour-of-alias-plan-to-demolish-secretariat/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-16",
+      "lat": 10.2804,
+      "lng": -67.1259,
+      "country": "Venezuela",
+      "city": "Caracas",
+      "type": "other",
+      "title": "Venezuela: Talks с оппозиция, oil deal, Delcy Rodríguez в New York, и церковь’s stance",
+      "description": "Ongoing talks between социалист regime и оппозиция в Venezuela are making some progress пока церковь is trying contribute transition democracy и freedom.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/americas/venezuela-talks-with-opposition-oil-deal-delcy-rodriguez-in-new-york-and-the-church-s-stance",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according terms contained",
       "source": "newsapi:Vanguard",
       "url": "https://www.vanguardngr.com/2026/08/nigeria-risks-losing-out-on-fresh-1-4bn-us-aid-over-christian-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-08",
-      "lat": 24.9674,
-      "lng": 67.0307,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "murder",
-      "title": "Христианин couple убит в Pakistan receive no justice",
-      "description": "Суды are not able determine who exactly did what в 100-plus толпа.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christian-couple-murdered-in-pakistan-receive-no-justice",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-08",
-      "lat": 8.9232,
-      "lng": 7.5097,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "Nigeria risks losing out на fresh $1.4bn US aid ‘христианин гонение’",
-      "description": "Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according terms contained",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/08/nigeria-risks-losing-out-on-fresh-1-4bn-us-aid-over-christian-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-08",
-      "lat": 11.7366,
-      "lng": 13.3425,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "Nigeria risks losing out на fresh $1.4bn US aid ‘христианин гонение’",
-      "description": "Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according terms contained",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/08/nigeria-risks-losing-out-on-fresh-1-4bn-us-aid-over-christian-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-07",
-      "lat": 34.5498,
-      "lng": 36.7715,
-      "country": "Syria",
-      "city": "Homs",
-      "type": "discrimination",
-      "title": "Kurdish пастор released из Syria после two недели в задержание",
-      "description": "Пастор Hassan was advised go back Lebanon для his own safety.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/kurdish-pastor-released-from-syria-after-two-weeks-in-detention",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-07",
-      "lat": 15.2531,
-      "lng": 32.7418,
-      "country": "Sudan",
-      "city": "Khartoum",
-      "type": "kidnapping",
-      "title": "One пастор Dies, Another похищен в атака в Sudan’s Nuba горы",
-      "description": "В холмы Sudan’s Nuba горы, grief continues deepen as христианские общины face repeated атаки на their leaders. на июль 24, fighters из breakaway faction Sudan люди’s Liberation армия-North (SPLA-N) штурмован Dabbi ar",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/07/one-pastor-dies-another-abducted-in-attack-in-sudans-nuba-mountains/",
       "victims": 0
     }
   ]
