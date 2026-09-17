@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-17T02:00:12.905Z",
+    "lastUpdated": "2026-09-17T10:32:57.398Z",
     "totalEvents": 500
   },
   "events": [
@@ -225,6 +225,19 @@
       "description": "Iran has not responded.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/un-officials-demand-explanation-for-iranian-church-seizure",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-15",
+      "lat": 33.5177,
+      "lng": 36.1715,
+      "country": "Syria",
+      "city": "Damascus",
+      "type": "arrest",
+      "title": "Daughter заключён христианин Syrian urges Trump intervene",
+      "description": "Христианин Solidarity International (CSI) is calling для U.S. governmental intervention после Suleiman Khalil was арестован и задержан Feb. 8, 2025.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/daughter-of-imprisoned-christian-syrian-urges-trump-to-intervene",
       "victims": 0
     },
     {
@@ -6486,19 +6499,6 @@
       "lng": 8.4403,
       "country": "Nigeria",
       "city": "Kano",
-      "type": "other",
-      "title": "Nigeria risks losing out на fresh $1.4bn US aid ‘христианин гонение’",
-      "description": "Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according terms contained",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/08/nigeria-risks-losing-out-on-fresh-1-4bn-us-aid-over-christian-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-08",
-      "lat": 9.325,
-      "lng": 9.608,
-      "country": "Nigeria",
-      "city": "Plateau",
       "type": "other",
       "title": "Nigeria risks losing out на fresh $1.4bn US aid ‘христианин гонение’",
       "description": "Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according terms contained",
