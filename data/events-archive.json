@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-17T10:32:57.398Z",
+    "lastUpdated": "2026-09-17T15:47:15.951Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,19 @@
       "description": "Decree, issued сентябрь 4, is unusually concrete pastoral response atmosphere anxiety surrounding intensified immigration crackdown в United штаты post когда Fear Prevents люди из Attending месса и церковь Unders",
       "source": "zenit",
       "url": "https://zenit.org/2026/09/16/when-fear-prevents-people-from-attending-mass-and-the-church-understands-bishop-of-indianapolis-exempts-migrants-from-sunday-mass/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-17",
+      "lat": 24.9922,
+      "lng": 67.0328,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "other",
+      "title": "Христианин Teen избит для Protecting женщины в Pakistan",
+      "description": "Masih was rushed больница и позже referred район штаб-квартира (DHQ) больница due severity his condition. чиновник medical certificate was issued confirming severe ранения across multiple parts his body. post C",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/09/16/christian-teen-beaten-for-protecting-women-in-pakistan/",
       "victims": 0
     },
     {
@@ -6491,19 +6504,6 @@
       "description": "Increased гонение has not stopped церковь из growing.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/iran-clamps-down-on-christian-broadcasters",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-08",
-      "lat": 12.1674,
-      "lng": 8.4403,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "Nigeria risks losing out на fresh $1.4bn US aid ‘христианин гонение’",
-      "description": "Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according terms contained",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/08/nigeria-risks-losing-out-on-fresh-1-4bn-us-aid-over-christian-persecution/",
       "victims": 0
     }
   ]
