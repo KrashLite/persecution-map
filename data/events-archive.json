@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-17T20:38:58.682Z",
+    "lastUpdated": "2026-09-18T01:47:28.877Z",
     "totalEvents": 500
   },
   "events": [
@@ -95,6 +95,32 @@
       "description": "Священник was found погибшие с выстрел раны along stretch highway. local епископ urged люди not speculate о crime и denounced ongoing violence в country.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/americas/mexican-bishops-demand-thorough-investigation-of-priest-s-murder",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-17",
+      "lat": 16.8544,
+      "lng": 96.2848,
+      "country": "Myanmar",
+      "city": "Yangon",
+      "type": "murder",
+      "title": "Военные Kills Another пастор в Myanmar",
+      "description": "Another пастор has погиб hands военные в Myanmar. о 4 p.m. на Sept. 14, военные застрелен и убит Rev. Dal Thawn Tuang, assistant пастор Lamzang баптистская церковь в Lamzang деревня, Chin штат. Burma Research Institu",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/17/military-kills-another-pastor-in-myanmar/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-17",
+      "lat": 28.7453,
+      "lng": 77.2514,
+      "country": "India",
+      "city": "Delhi",
+      "type": "other",
+      "title": "Когда Fear Prevents люди из Attending месса и церковь Understands: епископ Indianapolis Exempts Migrants из воскресенье месса",
+      "description": "Decree, issued сентябрь 4, is unusually concrete pastoral response atmosphere anxiety surrounding intensified immigration crackdown в United штаты post когда Fear Prevents люди из Attending месса и церковь Unders",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/09/16/when-fear-prevents-people-from-attending-mass-and-the-church-understands-bishop-of-indianapolis-exempts-migrants-from-sunday-mass/",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Increased гонение has not stopped церковь из growing.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/iran-clamps-down-on-christian-broadcasters",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-08",
-      "lat": 29.8219,
-      "lng": 52.7414,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "Iran clamps down на христианин broadcasters",
-      "description": "Increased гонение has not stopped церковь из growing.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iran-clamps-down-on-christian-broadcasters",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-08",
-      "lat": 33.7586,
-      "lng": 73.2683,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "murder",
-      "title": "Христианин couple убит в Pakistan receive no justice",
-      "description": "Суды are not able determine who exactly did what в 100-plus толпа.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christian-couple-murdered-in-pakistan-receive-no-justice",
       "victims": 0
     }
   ]
