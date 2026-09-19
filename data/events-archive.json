@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-19T14:55:38.429Z",
+    "lastUpdated": "2026-09-19T19:41:11.279Z",
     "totalEvents": 500
   },
   "events": [
@@ -95,6 +95,45 @@
       "description": "Thankfully inept террористы couldn't burn down церковь as they hadn't any petrol.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/militants-in-nigeria-give-christian-villagers-ultimatum",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-18",
+      "lat": 33.8589,
+      "lng": 71.3143,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "arrest",
+      "title": "Pakistani христианин Remains задержан Following богохульство Allegations",
+      "description": "Pakistani христианин remains задержан после полиция арестован him в август allegations богохульство connected религиозный remarks и video said have circulated на social media. Amir Masih, христианин из Dhala Sharif, near Nowshera",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/18/pakistani-christian-remains-detained-following-blasphemy-allegations/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-18",
+      "lat": 11.683,
+      "lng": 13.2557,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "attack",
+      "title": "Боевики в Nigeria give христианин villagers ultimatum",
+      "description": "Thankfully inept террористы couldn't burn down церковь as they hadn't any petrol.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/militants-in-nigeria-give-christian-villagers-ultimatum",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-18",
+      "lat": 21.1877,
+      "lng": 85.0908,
+      "country": "India",
+      "city": "Odisha",
+      "type": "attack",
+      "title": "Abroad, India’s RSS Speaks ‘Love.’ Home, Its Affiliates атака христиане.",
+      "description": "Из церковь вандализм могила осквернение, нападения against христианские меньшинства are increasing в large штат West Bengal since BJP, RSS offshoot, came power в май.",
+      "source": "newsapi:The Diplomat",
+      "url": "https://thediplomat.com/2026/09/abroad-indias-rss-speaks-of-love-at-home-its-affiliates-attack-christians/",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Regarding Syria, internal problems persist. христиане май face mounting adversity. Veldkamp commented: \"Syria is undergoing slow process Islamization. в other words, it is becoming much more like Afghanistan than it used be.\" post Catho",
       "source": "zenit",
       "url": "https://zenit.org/2026/08/09/catholic-church-in-the-us-and-europe-strengthens-legal-measures-to-address-fraudulent-abuse-allegations/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-09",
-      "lat": 33.2798,
-      "lng": 36.1059,
-      "country": "Syria",
-      "city": "Damascus",
-      "type": "other",
-      "title": "Католическая церковь в US и Europe Strengthens Legal Measures Address Fraudulent насилие Allegations",
-      "description": "Regarding Syria, internal problems persist. христиане май face mounting adversity. Veldkamp commented: \"Syria is undergoing slow process Islamization. в other words, it is becoming much more like Afghanistan than it used be.\" post Catho",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/08/09/catholic-church-in-the-us-and-europe-strengthens-legal-measures-to-address-fraudulent-abuse-allegations/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-09",
-      "lat": 6.519,
-      "lng": 3.5569,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Nigerian епископ в мусульманин-majority регион says being ‘creative minority’ is key diocese’s mission",
-      "description": "SIGNIS World конгресс, епископ Gerald Mamman Musa said young Katsina Diocese в northwestern Nigeria will focus на “transforming society” rather than на испытания христиане face there.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/nigerian-bishop-in-muslim-majority-region-says-being-creative-minority-is-key-to-diocese-s",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-09",
-      "lat": 12.0042,
-      "lng": 8.5764,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "Nigeria май lose out на fresh $1.4bn US health aid христиане гонение",
-      "description": "Nkiruka Nnorom Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/08/nigeria-may-lose-out-on-fresh-1-4bn-us-health-aid-over-christians-persecution/",
       "victims": 0
     }
   ]
