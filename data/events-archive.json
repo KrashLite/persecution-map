@@ -2,10 +2,49 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-18T20:04:28.730Z",
+    "lastUpdated": "2026-09-19T01:52:27.412Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-09-19",
+      "lat": 11.8419,
+      "lng": 8.4309,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Христианин Madu versus Mensah, Emeka Obasi",
+      "description": "Ghanaians regard Robert Mensah as their best goalie, ahead Edward Doodo Ankrah, John Naawu, Joseph Carr, John Baker и Richard Kingston. One мужчина who found way round goalie was христианин Madu, Nigerian born в Kumasi. Madu’s salad дни в",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/09/christian-madu-versus-mensah-by-emeka-obasi/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-18",
+      "lat": 31.7012,
+      "lng": 74.4436,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "arrest",
+      "title": "Pakistani христианин Remains задержан Following богохульство Allegations",
+      "description": "Pakistani христианин remains задержан после полиция арестован him в август allegations богохульство connected религиозный remarks и video said have circulated на social media. Amir Masih, христианин из Dhala Sharif, near Nowshera",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/18/pakistani-christian-remains-detained-following-blasphemy-allegations/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-18",
+      "lat": 10.2977,
+      "lng": 7.5768,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "attack",
+      "title": "Боевики в Nigeria give христианин villagers ultimatum",
+      "description": "Thankfully inept террористы couldn't burn down церковь as they hadn't any petrol.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/militants-in-nigeria-give-christian-villagers-ultimatum",
+      "victims": 0
+    },
     {
       "date": "2026-09-17",
       "lat": 31.7346,
@@ -134,6 +173,19 @@
       "description": "Another пастор has погиб hands военные в Myanmar. о 4 p.m. на Sept. 14, военные застрелен и убит Rev. Dal Thawn Tuang, assistant пастор Lamzang баптистская церковь в Lamzang деревня, Chin штат. Burma Research Institu",
       "source": "persecution",
       "url": "https://persecution.org/2026/09/17/military-kills-another-pastor-in-myanmar/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-17",
+      "lat": 21.0918,
+      "lng": 81.7901,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Когда Fear Prevents люди из Attending месса и церковь Understands: епископ Indianapolis Exempts Migrants из воскресенье месса",
+      "description": "Decree, issued сентябрь 4, is unusually concrete pastoral response atmosphere anxiety surrounding intensified immigration crackdown в United штаты post когда Fear Prevents люди из Attending месса и церковь Unders",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/09/16/when-fear-prevents-people-from-attending-mass-and-the-church-understands-bishop-of-indianapolis-exempts-migrants-from-sunday-mass/",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "Nkiruka Nnorom Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according",
       "source": "newsapi:Vanguard",
       "url": "https://www.vanguardngr.com/2026/08/nigeria-may-lose-out-on-fresh-1-4bn-us-health-aid-over-christians-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-09",
-      "lat": 9.1698,
-      "lng": 9.526,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Nigeria май lose out на fresh $1.4bn US health aid христиане гонение",
-      "description": "Nkiruka Nnorom Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/08/nigeria-may-lose-out-on-fresh-1-4bn-us-health-aid-over-christians-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-08",
-      "lat": 34.2216,
-      "lng": 71.4716,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "murder",
-      "title": "Христианин couple убит в Pakistan receive no justice",
-      "description": "Суды are not able determine who exactly did what в 100-plus толпа.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christian-couple-murdered-in-pakistan-receive-no-justice",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-08",
-      "lat": 32.5047,
-      "lng": 51.46,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Iran clamps down на христианин broadcasters",
-      "description": "Increased гонение has not stopped церковь из growing.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/iran-clamps-down-on-christian-broadcasters",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-08",
-      "lat": 31.5961,
-      "lng": 74.3498,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "murder",
-      "title": "Христианин couple убит в Pakistan receive no justice",
-      "description": "Суды are not able determine who exactly did what в 100-plus толпа.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christian-couple-murdered-in-pakistan-receive-no-justice",
       "victims": 0
     }
   ]
