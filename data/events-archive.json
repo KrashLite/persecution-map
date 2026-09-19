@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-19T09:50:05.397Z",
+    "lastUpdated": "2026-09-19T14:55:38.429Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,19 @@
       "description": "Olayinka Latona LAGOS — Catholic епископы Conference Nigeria (CBCN) has called для end insecurity, poverty и what it described as bad governance, saying violence, poor infrastructure и economic лишения continue undermine we",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/09/catholic-bishops-demand-end-to-insecurity-poverty/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-19",
+      "lat": 9.1085,
+      "lng": 9.6297,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "attack",
+      "title": "Армия dismisses Боко Харам атака alert as fake",
+      "description": "Nigerian армия has dismissed as fake и unverified purported intelligence alert warning planned Боко Харам и ISWAP атаки на школы, церкви, мечети, NYSC orientation лагеря и other public institutions across country. post Arm",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/09/army-dismisses-boko-haram-attack-alert-as-fake/",
       "victims": 0
     },
     {
@@ -64,6 +77,19 @@
       "lng": 3.2335,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "attack",
+      "title": "Боевики в Nigeria give христианин villagers ultimatum",
+      "description": "Thankfully inept террористы couldn't burn down церковь as they hadn't any petrol.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/militants-in-nigeria-give-christian-villagers-ultimatum",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-18",
+      "lat": 9.0953,
+      "lng": 7.5699,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "attack",
       "title": "Боевики в Nigeria give христианин villagers ultimatum",
       "description": "Thankfully inept террористы couldn't burn down церковь as they hadn't any petrol.",
@@ -6478,32 +6504,6 @@
       "description": "Nkiruka Nnorom Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according",
       "source": "newsapi:Vanguard",
       "url": "https://www.vanguardngr.com/2026/08/nigeria-may-lose-out-on-fresh-1-4bn-us-health-aid-over-christians-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-09",
-      "lat": 9.2894,
-      "lng": 9.6048,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Nigerian епископ в мусульманин-majority регион says being ‘creative minority’ is key diocese’s mission",
-      "description": "SIGNIS World конгресс, епископ Gerald Mamman Musa said young Katsina Diocese в northwestern Nigeria will focus на “transforming society” rather than на испытания христиане face there.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/nigerian-bishop-in-muslim-majority-region-says-being-creative-minority-is-key-to-diocese-s",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-09",
-      "lat": 34.9033,
-      "lng": 36.6766,
-      "country": "Syria",
-      "city": "Homs",
-      "type": "other",
-      "title": "Католическая церковь в US и Europe Strengthens Legal Measures Address Fraudulent насилие Allegations",
-      "description": "Regarding Syria, internal problems persist. христиане май face mounting adversity. Veldkamp commented: \"Syria is undergoing slow process Islamization. в other words, it is becoming much more like Afghanistan than it used be.\" post Catho",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/08/09/catholic-church-in-the-us-and-europe-strengthens-legal-measures-to-address-fraudulent-abuse-allegations/",
       "victims": 0
     }
   ]
