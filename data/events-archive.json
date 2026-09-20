@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-20T10:11:52.200Z",
+    "lastUpdated": "2026-09-20T14:59:38.447Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-09-20",
+      "lat": 6.4198,
+      "lng": 3.2246,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Catholic епископы reject foreign aid bill",
+      "description": "Catholic епископы’ Conference Nigeria has rejected proposed Foreign Aid Bill 2026, urging National собрание halt its enactment. Read More: https://punchng.com/catholic-епископы-reject-foreign-aid-bill/",
+      "source": "punchng",
+      "url": "https://punchng.com/catholic-bishops-reject-foreign-aid-bill/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-09-19",
       "lat": 11.8419,
@@ -6486,19 +6499,6 @@
       "lng": 7.6426,
       "country": "Nigeria",
       "city": "Kaduna",
-      "type": "other",
-      "title": "Nigerian епископ в мусульманин-majority регион says being ‘creative minority’ is key diocese’s mission",
-      "description": "SIGNIS World конгресс, епископ Gerald Mamman Musa said young Katsina Diocese в northwestern Nigeria will focus на “transforming society” rather than на испытания христиане face there.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/nigerian-bishop-in-muslim-majority-region-says-being-creative-minority-is-key-to-diocese-s",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-09",
-      "lat": 11.6464,
-      "lng": 13.2782,
-      "country": "Nigeria",
-      "city": "Borno",
       "type": "other",
       "title": "Nigerian епископ в мусульманин-majority регион says being ‘creative minority’ is key diocese’s mission",
       "description": "SIGNIS World конгресс, епископ Gerald Mamman Musa said young Katsina Diocese в northwestern Nigeria will focus на “transforming society” rather than на испытания христиане face there.",
