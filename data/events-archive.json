@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-20T14:59:38.447Z",
+    "lastUpdated": "2026-09-20T19:54:08.792Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "Catholic епископы’ Conference Nigeria has rejected proposed Foreign Aid Bill 2026, urging National собрание halt its enactment. Read More: https://punchng.com/catholic-епископы-reject-foreign-aid-bill/",
       "source": "punchng",
       "url": "https://punchng.com/catholic-bishops-reject-foreign-aid-bill/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-20",
+      "lat": 9.0353,
+      "lng": 9.6038,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Berom молодёжь place communities на red alert после nine убит в плато атаки",
+      "description": "Warning followed renewed атаки в parts штат which reportedly left nine лица погибшие, including passengers и пастор, heightening tension across affected communities. post Berom молодёжь place communities на red alert после nine ki",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/09/berom-youths-place-communities-on-red-alert-after-nine-killed-in-plateau-attacks/",
       "victims": 0
     },
     {
@@ -199,6 +212,19 @@
       "description": "Thankfully inept террористы couldn't burn down церковь as they hadn't any petrol.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/militants-in-nigeria-give-christian-villagers-ultimatum",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-18",
+      "lat": 33.7011,
+      "lng": 72.8509,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "arrest",
+      "title": "Pakistani христианин Remains задержан Following богохульство Allegations",
+      "description": "Pakistani христианин remains задержан после полиция арестован him в август allegations богохульство connected религиозный remarks и video said have circulated на social media. Amir Masih, христианин из Dhala Sharif, near Nowshera",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/18/pakistani-christian-remains-detained-following-blasphemy-allegations/",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Nkiruka Nnorom Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/08/nigeria-may-lose-out-on-fresh-1-4bn-us-health-aid-over-christians-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-09",
-      "lat": 9.1668,
-      "lng": 9.7353,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "attack",
-      "title": "Атака на Catholic епископы is атака на entire церковь, PFN fumes",
-      "description": "National президент Pentecostal Fellowship Nigeria, PFN, епископ Wale Oke, has thrown full weight Pentecostal body behind Catholic епископы Conference Nigeria, declaring that any атака на Catholic епископы is атака на",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/08/attack-on-catholic-bishops-is-attack-on-entire-church-pfn-fumes/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-09",
-      "lat": 10.404,
-      "lng": 7.6426,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Nigerian епископ в мусульманин-majority регион says being ‘creative minority’ is key diocese’s mission",
-      "description": "SIGNIS World конгресс, епископ Gerald Mamman Musa said young Katsina Diocese в northwestern Nigeria will focus на “transforming society” rather than на испытания христиане face there.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/nigerian-bishop-in-muslim-majority-region-says-being-creative-minority-is-key-to-diocese-s",
       "victims": 0
     }
   ]
