@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-21T11:14:19.418Z",
+    "lastUpdated": "2026-09-21T17:19:32.337Z",
     "totalEvents": 500
   },
   "events": [
@@ -251,6 +251,19 @@
       "description": "Pakistani христианин remains задержан после полиция арестован him в август allegations богохульство connected религиозный remarks и video said have circulated на social media. Amir Masih, христианин из Dhala Sharif, near Nowshera",
       "source": "persecution",
       "url": "https://persecution.org/2026/09/18/pakistani-christian-remains-detained-following-blasphemy-allegations/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-18",
+      "lat": 21.161,
+      "lng": 81.7108,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "attack",
+      "title": "Abroad, India’s RSS Speaks ‘Love.’ Home, Its Affiliates атака христиане.",
+      "description": "Из церковь вандализм могила осквернение, нападения against христианские меньшинства are increasing в large штат West Bengal since BJP, RSS offshoot, came power в май.",
+      "source": "newsapi:The Diplomat",
+      "url": "https://thediplomat.com/2026/09/abroad-indias-rss-speaks-of-love-at-home-its-affiliates-attack-christians/",
       "victims": 0
     },
     {
@@ -6491,19 +6504,6 @@
       "description": "Nigeria could lose access significant share new United штаты health и humanitarian assistance package unless it demonstrates progress в tackling violence against христиане, according bilateral agreement between Washington и Abuj",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/nigeria-risks-losing-major-us-aid-package-over-christian-persecution-concerns",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-10",
-      "lat": 11.8167,
-      "lng": 8.7649,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Three христиане убит в плато штат, Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – христианин на his way воскресенье утро богослужение service was застрелен и убит suspected пастухи фулани на воскресенье (Aug. 9) в Fann деревня, Barkin Ladi округ, плато штат в ce",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/08/three-christians-killed-in-plateau-state-nigeria/",
       "victims": 0
     }
   ]
