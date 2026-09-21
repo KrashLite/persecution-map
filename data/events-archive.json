@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-20T19:54:08.792Z",
+    "lastUpdated": "2026-09-21T01:55:57.752Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-09-21",
+      "lat": 9.2328,
+      "lng": 7.6362,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Пастор, eight others убит в fresh плато атаки",
+      "description": "Least nine лица, including пастор, have been убит в separate атаки боевики в Barkin Ladi и Riyom communities в плато штат. Read More: https://punchng.com/пастор-eight-others-убит-в-fresh-плато-атаки/",
+      "source": "punchng",
+      "url": "https://punchng.com/pastor-eight-others-killed-in-fresh-plateau-attacks/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-09-20",
       "lat": 6.4198,
@@ -30,6 +43,19 @@
       "description": "Warning followed renewed атаки в parts штат which reportedly left nine лица погибшие, including passengers и пастор, heightening tension across affected communities. post Berom молодёжь place communities на red alert после nine ki",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/09/berom-youths-place-communities-on-red-alert-after-nine-killed-in-plateau-attacks/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-20",
+      "lat": 19.6228,
+      "lng": -99.016,
+      "country": "Mexico",
+      "city": "Mexico City",
+      "type": "murder",
+      "title": "Catholic священник убит в Mexico: 13th Such убийство во время MORENA Administration",
+      "description": "Centro Católico Multimedial, which tracks атаки against clergy и other members церковь, reports 28 incidents involving церковь personnel во время current federal administration MORENA, including four убит священники post Cathol",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/09/19/catholic-priest-murdered-in-mexico-the-13th-such-killing-during-the-morena-administration/",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – христианин на his way воскресенье утро богослужение service was застрелен и убит suspected пастухи фулани на воскресенье (Aug. 9) в Fann деревня, Barkin Ladi округ, плато штат в ce",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/08/three-christians-killed-in-plateau-state-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-10",
-      "lat": 29.8192,
-      "lng": 31.3346,
-      "country": "Egypt",
-      "city": "Cairo",
-      "type": "attack",
-      "title": "Гонение Egyptian христиане Continues в Series Recent Incidents",
-      "description": "Recent series атаки на христиане prompted attention из верующие around world, as well as response из U.S. post гонение Egyptian христиане Continues в Series Recent Incidents appeared первый на Gateway Pundit.",
-      "source": "newsapi:Thegatewaypundit.com",
-      "url": "https://www.thegatewaypundit.com/2026/08/persecution-egyptian-christians-continues-series-recent-incidents/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-09",
-      "lat": 9.1831,
-      "lng": 7.6889,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "Nigeria май lose out на fresh $1.4bn US health aid христиане гонение",
-      "description": "Nkiruka Nnorom Nigeria май be excluded из new $1.4 billion U.S health и humanitarian assistance package announced раньше на этой неделе if Federal правительство fails take measurable actions address violence against христиане, according",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/08/nigeria-may-lose-out-on-fresh-1-4bn-us-health-aid-over-christians-persecution/",
       "victims": 0
     }
   ]
