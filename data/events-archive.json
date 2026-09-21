@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-21T17:19:32.337Z",
+    "lastUpdated": "2026-09-21T21:18:22.479Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "Least nine лица, including пастор, have been убит в separate атаки боевики в Barkin Ladi и Riyom communities в плато штат. Read More: https://punchng.com/пастор-eight-others-убит-в-fresh-плато-атаки/",
       "source": "punchng",
       "url": "https://punchng.com/pastor-eight-others-killed-in-fresh-plateau-attacks/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-21",
+      "lat": 8.8507,
+      "lng": 7.4888,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Baptist пастор, other христиане убит в плато штат, Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани ополчение атаки в one округ в плато штат, Nigeria выходные убит least eight христиане, including Baptist пастор и церковь employee на their way serv",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/09/baptist-pastor-other-christians-killed-in-plateau-state-nigeria/",
       "victims": 0
     },
     {
@@ -6491,19 +6504,6 @@
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – христианин на his way воскресенье утро богослужение service was застрелен и убит suspected пастухи фулани на воскресенье (Aug. 9) в Fann деревня, Barkin Ladi округ, плато штат в ce",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/08/three-christians-killed-in-plateau-state-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-10",
-      "lat": 11.6706,
-      "lng": 13.0797,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "Nigeria risks losing major US aid package христианин гонение concerns",
-      "description": "Nigeria could lose access significant share new United штаты health и humanitarian assistance package unless it demonstrates progress в tackling violence against христиане, according bilateral agreement between Washington и Abuj",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/nigeria-risks-losing-major-us-aid-package-over-christian-persecution-concerns",
       "victims": 0
     }
   ]
