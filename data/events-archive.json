@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-22T10:27:01.130Z",
+    "lastUpdated": "2026-09-22T15:50:10.819Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,32 @@
       "description": "Read утро recap на Nyesom Wike’s fresh battle с БТР губернаторы, launch Trump TV, и Nigeria’s deal для 12 US ударные вертолёты. Read More: https://punchng.com/утро-recap-wike-draws-fresh-battle-lines-с-БТР-губернаторы-trump-tv-",
       "source": "punchng",
       "url": "https://punchng.com/morning-recap-wike-draws-fresh-battle-lines-with-apc-governors-trump-tv-goes-live-fg-seals-deal-for-12-us-helicopters-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-22",
+      "lat": 6.4128,
+      "lng": 3.4237,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "34-год-old Nigerian убит в South Africa, NUSA demands probe",
+      "description": "Nigerian Union в South Africa has demanded probe в смерть 34-год-old Nigerian, христианин Nnaemeka, после alleged атака в Johannesbu Read More: https://punchng.com/34-год-old-nigerian-убит-в-south-africa-nusa-demands-probe",
+      "source": "punchng",
+      "url": "https://punchng.com/34-year-old-nigerian-killed-in-south-africa-nusa-demands-probe/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-22",
+      "lat": 6.6593,
+      "lng": 3.5722,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Плато убийства: Northern CAN demands urgent action halt bloodshed",
+      "description": "Христианин Association Nigeria, CAN, Northern штаты и Federal столица Territory, FCT, has condemned continued убийства и разрушение property в плато штат, urging Federal и штат правительства take immediate steps rest",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/09/plateau-killings-northern-can-demands-urgent-action-to-halt-bloodshed/",
       "victims": 0
     },
     {
@@ -324,6 +350,19 @@
       "lng": 81.7108,
       "country": "India",
       "city": "Chhattisgarh",
+      "type": "attack",
+      "title": "Abroad, India’s RSS Speaks ‘Love.’ Home, Its Affiliates атака христиане.",
+      "description": "Из церковь вандализм могила осквернение, нападения against христианские меньшинства are increasing в large штат West Bengal since BJP, RSS offshoot, came power в май.",
+      "source": "newsapi:The Diplomat",
+      "url": "https://thediplomat.com/2026/09/abroad-indias-rss-speaks-of-love-at-home-its-affiliates-attack-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-18",
+      "lat": 28.6449,
+      "lng": 76.9234,
+      "country": "India",
+      "city": "Delhi",
       "type": "attack",
       "title": "Abroad, India’s RSS Speaks ‘Love.’ Home, Its Affiliates атака христиане.",
       "description": "Из церковь вандализм могила осквернение, нападения against христианские меньшинства are increasing в large штат West Bengal since BJP, RSS offshoot, came power в май.",
@@ -6460,45 +6499,6 @@
       "lng": 9.5256,
       "country": "Nigeria",
       "city": "Plateau",
-      "type": "murder",
-      "title": "Three христиане убит в плато штат, Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – христианин на his way воскресенье утро богослужение service was застрелен и убит suspected пастухи фулани на воскресенье (Aug. 9) в Fann деревня, Barkin Ladi округ, плато штат в ce",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/08/three-christians-killed-in-plateau-state-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-10",
-      "lat": 29.1933,
-      "lng": 32.9945,
-      "country": "Egypt",
-      "city": "Sinai",
-      "type": "attack",
-      "title": "Гонение Egyptian христиане Continues в Series Recent Incidents",
-      "description": "Recent series атаки на христиане prompted attention из верующие around world, as well as response из U.S. post гонение Egyptian христиане Continues в Series Recent Incidents appeared первый на Gateway Pundit.",
-      "source": "newsapi:Thegatewaypundit.com",
-      "url": "https://www.thegatewaypundit.com/2026/08/persecution-egyptian-christians-continues-series-recent-incidents/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-10",
-      "lat": 6.411,
-      "lng": 3.6218,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Nigeria risks losing major US aid package христианин гонение concerns",
-      "description": "Nigeria could lose access significant share new United штаты health и humanitarian assistance package unless it demonstrates progress в tackling violence against христиане, according bilateral agreement between Washington и Abuj",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/nigeria-risks-losing-major-us-aid-package-over-christian-persecution-concerns",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-10",
-      "lat": 9.1591,
-      "lng": 7.7237,
-      "country": "Nigeria",
-      "city": "Abuja",
       "type": "murder",
       "title": "Three христиане убит в плато штат, Nigeria",
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – христианин на his way воскресенье утро богослужение service was застрелен и убит suspected пастухи фулани на воскресенье (Aug. 9) в Fann деревня, Barkin Ladi округ, плато штат в ce",
