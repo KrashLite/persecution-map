@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-22T20:34:11.321Z",
+    "lastUpdated": "2026-09-23T02:01:25.636Z",
     "totalEvents": 500
   },
   "events": [
@@ -98,6 +98,32 @@
       "victims": 0
     },
     {
+      "date": "2026-09-22",
+      "lat": 26.7827,
+      "lng": 81.037,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "other",
+      "title": "Христианин Educational Institutions в India Face Mounting Pressure",
+      "description": "Elite христианин educational institutions в Indian штат West Bengal are последний targets религиозный extremism в what seems be systematic dismantling intellectual strongholds. пока правительство чиновники have begun conduct surp",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/22/christian-educational-institutions-in-india-face-mounting-pressure/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-22",
+      "lat": 19.3012,
+      "lng": -99.383,
+      "country": "Mexico",
+      "city": "Mexico City",
+      "type": "other",
+      "title": "Священник’s убийство в Mexico май be warning sow fear, священник says",
+      "description": "Sept. 15 убийство Father Román de la Cruz Hernández was likely perpetrated organized crime и is not isolated incident but forms part pattern fear и запугивание.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/americas/priest-s-murder-in-mexico-may-be-warning-to-sow-fear-priest-says",
+      "victims": 0
+    },
+    {
       "date": "2026-09-21",
       "lat": 9.2328,
       "lng": 7.6362,
@@ -160,6 +186,19 @@
       "description": "Пастор Ezra Jin's release из Chinese тюрьма spotlights CCP's vast apparatus религиозный гонение ahead Xi Jinping's Washington visit.",
       "source": "newsapi:Fox News",
       "url": "https://www.foxnews.com/opinion/trump-press-xi-chinas-persecution-believers-home-abroad",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-21",
+      "lat": 10.3824,
+      "lng": 7.4532,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Baptist пастор, other христиане убит в плато штат, Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани ополчение атаки в one округ в плато штат, Nigeria выходные убит least eight христиане, including Baptist пастор и церковь employee на their way serv",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/09/baptist-pastor-other-christians-killed-in-plateau-state-nigeria/",
       "victims": 0
     },
     {
@@ -6460,45 +6499,6 @@
       "lng": 7.3273,
       "country": "Nigeria",
       "city": "Kaduna",
-      "type": "other",
-      "title": "Nigeria risks losing major US aid package христианин гонение concerns",
-      "description": "Nigeria could lose access significant share new United штаты health и humanitarian assistance package unless it demonstrates progress в tackling violence against христиане, according bilateral agreement between Washington и Abuj",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/nigeria-risks-losing-major-us-aid-package-over-christian-persecution-concerns",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-10",
-      "lat": 6.739,
-      "lng": 3.419,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Епископ urges Nigerians shun vengeance, embrace forgiveness",
-      "description": "Catholic архиепископ Ignatius Kaigama urges Nigerians embrace forgiveness, reconciliation, и peaceful coexistence для national development. Read More: https://punchng.com/епископ-urges-nigerians--shun-vengeance-embrace-forgiveness/",
-      "source": "punchng",
-      "url": "https://punchng.com/bishop-urges-nigerians-to-shun-vengeance-embrace-forgiveness/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-10",
-      "lat": 10.4835,
-      "lng": 7.5058,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Three христиане убит в плато штат, Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – христианин на his way воскресенье утро богослужение service was застрелен и убит suspected пастухи фулани на воскресенье (Aug. 9) в Fann деревня, Barkin Ladi округ, плато штат в ce",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/08/three-christians-killed-in-plateau-state-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-10",
-      "lat": 9.1711,
-      "lng": 7.5153,
-      "country": "Nigeria",
-      "city": "Abuja",
       "type": "other",
       "title": "Nigeria risks losing major US aid package христианин гонение concerns",
       "description": "Nigeria could lose access significant share new United штаты health и humanitarian assistance package unless it demonstrates progress в tackling violence against христиане, according bilateral agreement between Washington и Abuj",
