@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-24T01:50:36.630Z",
+    "lastUpdated": "2026-09-24T10:37:08.075Z",
     "totalEvents": 500
   },
   "events": [
@@ -64,6 +64,19 @@
       "lng": 116.6299,
       "country": "China",
       "city": "Beijing",
+      "type": "arrest",
+      "title": "Trump urged raise case преследуемый пастор с Xi",
+      "description": "Пастор John Cao has been released из тюрьма, but is запрещён из leaving China.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/trump-urged-to-raise-case-of-persecuted-pastor-with-xi",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-23",
+      "lat": 23.4751,
+      "lng": 113.6929,
+      "country": "China",
+      "city": "Guangdong",
       "type": "arrest",
       "title": "Trump urged raise case преследуемый пастор с Xi",
       "description": "Пастор John Cao has been released из тюрьма, but is запрещён из leaving China.",
@@ -272,6 +285,19 @@
       "lng": 113.5444,
       "country": "China",
       "city": "Guangdong",
+      "type": "arrest",
+      "title": "Select China комитет Begs Trump Pressure Xi Jinping Release религиозный прихожане",
+      "description": "Key congressional panel met вторник urge президент Donald Trump discuss release заключён христианские прихожане, some whom are American citizens, из China во время his upcoming meeting с Chinese leader Xi Jinping. hearing fr",
+      "source": "newsapi:Daily Signal",
+      "url": "https://www.dailysignal.com/2026/09/22/xi-jinping-religious-worshippers/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-22",
+      "lat": 39.7645,
+      "lng": 116.483,
+      "country": "China",
+      "city": "Beijing",
       "type": "arrest",
       "title": "Select China комитет Begs Trump Pressure Xi Jinping Release религиозный прихожане",
       "description": "Key congressional panel met вторник urge президент Donald Trump discuss release заключён христианские прихожане, some whom are American citizens, из China во время his upcoming meeting с Chinese leader Xi Jinping. hearing fr",
@@ -6479,32 +6505,6 @@
       "source": "aleteia",
       "url": "https://aleteia.org/2026/08/11/the-church-mobilizes-after-colombias-deadliest-quake-in-decades/",
       "victims": 132
-    },
-    {
-      "date": "2026-08-11",
-      "lat": 9.1545,
-      "lng": 9.7675,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Ex-OnlyFans model gets six годы тюрьма term смерть Nigerian мужчина",
-      "description": "Former OnlyFans model Courtney Clenney has been приговорён six годы в тюрьма для 2022 смерть her Nigerian-American boyfriend, христианин Obumseli. Read More: https://punchng.com/ex-onlyfans-model-gets-six-годы-тюрьма-term--смерть--niger",
-      "source": "punchng",
-      "url": "https://punchng.com/ex-onlyfans-model-gets-six-years-jail-term-over-death-of-nigerian-man/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-11",
-      "lat": 20.9549,
-      "lng": 105.7543,
-      "country": "Vietnam",
-      "city": "Hanoi",
-      "type": "arrest",
-      "title": "Montagnard пастор Gets 7-год тюрьма приговор в Vietnam",
-      "description": "Пастор Y Nuen Ayun, member Montagnard и Ede люди group, has been приговорён seven и half годы в тюрьма и additional four годы испытательный срок. власти арестован him в октябрь 2025 для leading и pastoring Central High",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/11/montagnard-pastor-gets-7-year-prison-sentence-in-vietnam/",
-      "victims": 0
     }
   ]
 }
