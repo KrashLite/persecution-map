@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-23T20:45:59.251Z",
+    "lastUpdated": "2026-09-24T01:50:36.630Z",
     "totalEvents": 500
   },
   "events": [
@@ -51,6 +51,19 @@
       "lng": 87.7786,
       "country": "China",
       "city": "Xinjiang",
+      "type": "arrest",
+      "title": "Trump urged raise case преследуемый пастор с Xi",
+      "description": "Пастор John Cao has been released из тюрьма, but is запрещён из leaving China.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/trump-urged-to-raise-case-of-persecuted-pastor-with-xi",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-23",
+      "lat": 40.0367,
+      "lng": 116.6299,
+      "country": "China",
+      "city": "Beijing",
       "type": "arrest",
       "title": "Trump urged raise case преследуемый пастор с Xi",
       "description": "Пастор John Cao has been released из тюрьма, but is запрещён из leaving China.",
@@ -241,6 +254,32 @@
       "victims": 0
     },
     {
+      "date": "2026-09-22",
+      "lat": 10.2662,
+      "lng": 7.4565,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "attack",
+      "title": "Nigeria: боевики Kill 11 христиане в Benue штат",
+      "description": "Атака began о 6:12 p.m., according полиция. полиция Mobile сила personnel, tactical teams, и conventional officers engaged attackers в gun battle that lasted о seven hours до assailants withdrew в surrounding для",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/09/22/nigeria-gunmen-kill-11-christians-in-benue-state/",
+      "victims": 11
+    },
+    {
+      "date": "2026-09-22",
+      "lat": 23.595,
+      "lng": 113.5444,
+      "country": "China",
+      "city": "Guangdong",
+      "type": "arrest",
+      "title": "Select China комитет Begs Trump Pressure Xi Jinping Release религиозный прихожане",
+      "description": "Key congressional panel met вторник urge президент Donald Trump discuss release заключён христианские прихожане, some whom are American citizens, из China во время his upcoming meeting с Chinese leader Xi Jinping. hearing fr",
+      "source": "newsapi:Daily Signal",
+      "url": "https://www.dailysignal.com/2026/09/22/xi-jinping-religious-worshippers/",
+      "victims": 0
+    },
+    {
       "date": "2026-09-21",
       "lat": 9.2328,
       "lng": 7.6362,
@@ -350,6 +389,19 @@
       "lng": 12.9153,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "murder",
+      "title": "Baptist пастор, other христиане убит в плато штат, Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани ополчение атаки в one округ в плато штат, Nigeria выходные убит least eight христиане, including Baptist пастор и церковь employee на their way serv",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/09/baptist-pastor-other-christians-killed-in-plateau-state-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-21",
+      "lat": 9.3864,
+      "lng": 9.3829,
+      "country": "Nigeria",
+      "city": "Plateau",
       "type": "murder",
       "title": "Baptist пастор, other христиане убит в плато штат, Nigeria",
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани ополчение атаки в one округ в плато штат, Nigeria выходные убит least eight христиане, including Baptist пастор и церковь employee на their way serv",
@@ -6452,58 +6504,6 @@
       "description": "Пастор Y Nuen Ayun, member Montagnard и Ede люди group, has been приговорён seven и half годы в тюрьма и additional four годы испытательный срок. власти арестован him в октябрь 2025 для leading и pastoring Central High",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/11/montagnard-pastor-gets-7-year-prison-sentence-in-vietnam/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-11",
-      "lat": 15.5407,
-      "lng": 32.7929,
-      "country": "Sudan",
-      "city": "Khartoum",
-      "type": "kidnapping",
-      "title": "Sudan’s христиане Face Rising гонение as War Devastates церкви",
-      "description": "Пастор в Sudan’s Nuba горы was недавно казнён alongside six other люди после being задержан armed faction. Another церковь leader was похищен из same регион дни позже. атаки are part growing wave violence снова",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/11/sudans-christians-face-rising-persecution-as-war-devastates-churches/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-11",
-      "lat": 10.6113,
-      "lng": 106.7501,
-      "country": "Vietnam",
-      "city": "Ho Chi Minh City",
-      "type": "arrest",
-      "title": "Montagnard пастор Gets 7-год тюрьма приговор в Vietnam",
-      "description": "Пастор Y Nuen Ayun, member Montagnard и Ede люди group, has been приговорён seven и half годы в тюрьма и additional four годы испытательный срок. власти арестован him в октябрь 2025 для leading и pastoring Central High",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/11/montagnard-pastor-gets-7-year-prison-sentence-in-vietnam/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-11",
-      "lat": 4.787,
-      "lng": -74.2244,
-      "country": "Colombia",
-      "city": "Bogota",
-      "type": "other",
-      "title": "Церковь в Colombia prays и mobilizes help those affected major earthquake",
-      "description": "Local церковь leaders called на faithful respond с молитва, generosity, и solidarity.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/americas/church-in-colombia-prays-and-mobilizes-to-help-those-affected-by-major-earthquake",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-11",
-      "lat": 11.6219,
-      "lng": 13.1184,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "kidnapping",
-      "title": "Exclusive — Nigerian Lawyer Details Harrowing христианин гонение: ' Daily Occurrence'",
-      "description": "Христиане в Nigeria face похищения, пытки, изнасилование, и убийство на \"daily\" basis hands hordes armed фулани джихадисты, lawyer working в country's Middle Belt told Breitbart News в exclusive conversation на понедельник. post E",
-      "source": "newsapi:Breitbart News",
-      "url": "https://www.breitbart.com/africa/2026/08/11/exclusive-nigerian-lawyer-details-harrowing-christian-persecution-a-daily-occurrence/",
       "victims": 0
     }
   ]
