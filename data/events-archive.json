@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-24T16:00:28.090Z",
+    "lastUpdated": "2026-09-24T20:51:51.040Z",
     "totalEvents": 500
   },
   "events": [
@@ -355,6 +355,19 @@
       "description": "Key congressional panel met вторник urge президент Donald Trump discuss release заключён христианские прихожане, some whom are American citizens, из China во время his upcoming meeting с Chinese leader Xi Jinping. hearing fr",
       "source": "newsapi:Daily Signal",
       "url": "https://www.dailysignal.com/2026/09/22/xi-jinping-religious-worshippers/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-22",
+      "lat": 20.8925,
+      "lng": 85.2279,
+      "country": "India",
+      "city": "Odisha",
+      "type": "other",
+      "title": "Христианин Educational Institutions в India Face Mounting Pressure",
+      "description": "Elite христианин educational institutions в Indian штат West Bengal are последний targets религиозный extremism в what seems be systematic dismantling intellectual strongholds. пока правительство чиновники have begun conduct surp",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/22/christian-educational-institutions-in-india-face-mounting-pressure/",
       "victims": 0
     },
     {
@@ -6486,19 +6499,6 @@
       "lng": 74.5705,
       "country": "Pakistan",
       "city": "Lahore",
-      "type": "other",
-      "title": "Pakistani христиане rally для equal rights",
-      "description": "Rallies в Karachi и Faisalabad pressed для constitutional amendments allowing non-мусульмане serve as президент or премьер-министр и для curbs на богохульство law насилие.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-christians-rally-for-equal-rights-beyond-minorities-day-ceremonies",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-12",
-      "lat": 33.8267,
-      "lng": 72.8276,
-      "country": "Pakistan",
-      "city": "Islamabad",
       "type": "other",
       "title": "Pakistani христиане rally для equal rights",
       "description": "Rallies в Karachi и Faisalabad pressed для constitutional amendments allowing non-мусульмане serve as президент or премьер-министр и для curbs на богохульство law насилие.",
