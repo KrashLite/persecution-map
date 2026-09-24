@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-24T10:37:08.075Z",
+    "lastUpdated": "2026-09-24T16:00:28.090Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-09-24",
+      "lat": 6.8215,
+      "lng": 79.7882,
+      "country": "Sri Lanka",
+      "city": "Colombo",
+      "type": "arrest",
+      "title": "Cautious welcome as 15 мужчины приговорён Sri Lanka Пасха воскресенье взрывы",
+      "description": "Христианин groups welcomed осуждения but say questions remain о who was involved.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/cautious-welcome-as-15-men-sentenced-over-sri-lanka-easter-sunday-bombings",
+      "victims": 0
+    },
     {
       "date": "2026-09-23",
       "lat": 10.4787,
@@ -298,6 +311,45 @@
       "lng": 116.483,
       "country": "China",
       "city": "Beijing",
+      "type": "arrest",
+      "title": "Select China комитет Begs Trump Pressure Xi Jinping Release религиозный прихожане",
+      "description": "Key congressional panel met вторник urge президент Donald Trump discuss release заключён христианские прихожане, some whom are American citizens, из China во время his upcoming meeting с Chinese leader Xi Jinping. hearing fr",
+      "source": "newsapi:Daily Signal",
+      "url": "https://www.dailysignal.com/2026/09/22/xi-jinping-religious-worshippers/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-22",
+      "lat": 9.1024,
+      "lng": 9.5366,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "attack",
+      "title": "Nigeria: боевики Kill 11 христиане в Benue штат",
+      "description": "Атака began о 6:12 p.m., according полиция. полиция Mobile сила personnel, tactical teams, и conventional officers engaged attackers в gun battle that lasted о seven hours до assailants withdrew в surrounding для",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/09/22/nigeria-gunmen-kill-11-christians-in-benue-state/",
+      "victims": 11
+    },
+    {
+      "date": "2026-09-22",
+      "lat": 31.2132,
+      "lng": 121.641,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "arrest",
+      "title": "Trump-Xi Meeting Comes Amid Ongoing гонение в China",
+      "description": "U.S. президент Donald Trump и Chinese президент Xi Jinping are scheduled meet в Washington на Sept. 24, с trade, artificial intelligence, critical minerals, Taiwan, и other issues expected dominate discussions. But meeting also com",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/22/trump-xi-meeting-comes-amid-ongoing-persecution-in-china/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-22",
+      "lat": 31.3558,
+      "lng": 121.4815,
+      "country": "China",
+      "city": "Shanghai",
       "type": "arrest",
       "title": "Select China комитет Begs Trump Pressure Xi Jinping Release религиозный прихожане",
       "description": "Key congressional panel met вторник urge президент Donald Trump discuss release заключён христианские прихожане, some whom are American citizens, из China во время his upcoming meeting с Chinese leader Xi Jinping. hearing fr",
@@ -6453,58 +6505,6 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-christians-rally-for-equal-rights-beyond-minorities-day-ceremonies",
       "victims": 0
-    },
-    {
-      "date": "2026-08-12",
-      "lat": 4.9033,
-      "lng": -74.2829,
-      "country": "Colombia",
-      "city": "Bogota",
-      "type": "other",
-      "title": "В wake earthquake, Colombian католическая церковь has become haven hope. папа Leo XIV has sent emergency financial aid",
-      "description": "Human cost has been accompanied significant blow Colombia's Catholic heritage. церкви и other ecclesial buildings have suffered extensive повреждение, including Cathedral Manizales и Basilica Lord Miracles. post",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/08/12/in-the-wake-of-the-earthquake-the-colombian-catholic-church-has-become-a-haven-of-hope-pope-leo-xiv-has-sent-emergency-financial-aid/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-12",
-      "lat": 24.9537,
-      "lng": 66.9618,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "other",
-      "title": "Pakistani христиане rally для equal rights",
-      "description": "Rallies в Karachi и Faisalabad pressed для constitutional amendments allowing non-мусульмане serve as президент or премьер-министр и для curbs на богохульство law насилие.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-christians-rally-for-equal-rights-beyond-minorities-day-ceremonies",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-11",
-      "lat": 6.3122,
-      "lng": 3.442,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "arrest",
-      "title": "Former OnlyFans model приговорён six годы для убийство Nigerian мужчина",
-      "description": "Former OnlyFans model Courtney Clenney has been приговорён six годы в тюрьма после pleading guilty непреднамеренное убийство в 2022 убийство her boyfriend, христианин Obumseli, в Miami, Florida. post Former OnlyFans model приговорён six годы",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/08/onlyfans-model-sentenced-to-six-years-for-killing-nigerian-man/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-11",
-      "lat": 4.9492,
-      "lng": -74.1359,
-      "country": "Colombia",
-      "city": "Bogota",
-      "type": "murder",
-      "title": "Церковь mobilizes после Colombia’s deadliest quake в десятилетия",
-      "description": "Least 132 люди were убит и dozens buildings collapsed across western Colombia на понедельник после 7.4-magnitude earthquake struck South American nation — strongest hit country this век, according Colombia’s Geological",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/08/11/the-church-mobilizes-after-colombias-deadliest-quake-in-decades/",
-      "victims": 132
     }
   ]
 }
