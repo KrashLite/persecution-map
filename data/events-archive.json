@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-25T02:07:13.615Z",
+    "lastUpdated": "2026-09-25T10:40:38.054Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,32 @@
       "description": "General надзиратель Foursquare Gospel церковь в Nigeria, Rev ЗУР Aboyeji, has advised Nigerians not abandon their вера amid economic лишения. Read More: https://punchng.com/лишения-foursquare-leader-urges-nigerians--keep-вера/",
       "source": "punchng",
       "url": "https://punchng.com/hardship-foursquare-leader-urges-nigerians-to-keep-faith/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 19.1951,
+      "lng": -99.2381,
+      "country": "Mexico",
+      "city": "Mexico City",
+      "type": "murder",
+      "title": "Mexico и Poland: священники убит в стрельба, knife атаки",
+      "description": "На сентябрь 15, 2026, Mexican священник Fr. Román de la Cruz Hernández погиб после being застрелен multiple times. His body was left side highway в штат Hidalgo, Mexico. threatening note was left his body, although власти haven",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/09/25/mexico-and-poland-priests-killed-in-shooting-knife-attacks/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 12.1001,
+      "lng": 8.7142,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Meet Nigerian пастор Idachama, первый robotic surgery patient Ogun больница",
+      "description": "Пастор Alexander Idachama has become первый patient undergo robotic-assisted surgery Redeemer’s Health деревня больница в Ogun штат. Read More: https://punchng.com/meet-nigerian-пастор-idachama-первый-robotic-surgery-patient--ogun-hospit",
+      "source": "punchng",
+      "url": "https://punchng.com/meet-nigerian-pastor-idachama-first-robotic-surgery-patient-at-ogun-hospital/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     },
     {
@@ -532,6 +558,19 @@
       "lng": 9.3829,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "murder",
+      "title": "Baptist пастор, other христиане убит в плато штат, Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани ополчение атаки в one округ в плато штат, Nigeria выходные убит least eight христиане, including Baptist пастор и церковь employee на their way serv",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/09/baptist-pastor-other-christians-killed-in-plateau-state-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-21",
+      "lat": 6.3863,
+      "lng": 3.2836,
+      "country": "Nigeria",
+      "city": "Lagos",
       "type": "murder",
       "title": "Baptist пастор, other христиане убит в плато штат, Nigeria",
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани ополчение атаки в one округ в плато штат, Nigeria выходные убит least eight христиане, including Baptist пастор и церковь employee на their way serv",
@@ -6460,45 +6499,6 @@
       "lng": 9.2797,
       "country": "Nigeria",
       "city": "Plateau",
-      "type": "arrest",
-      "title": "Nigerian Rights комиссия Calls для арест исламский Cleric Remarks Against христиане",
-      "description": "Шейх Muhammadu Sani Yahaya Jingir, prominent исламский cleric в northern Nigeria, faces calls для арест и prosecution после he described христиане и other non-мусульмане as “infidels” и urged мусульмане use their votes preserve мусульманин poli",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/13/nigerian-rights-commission-calls-for-arrest-of-islamic-cleric-over-remarks-against-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-13",
-      "lat": 12.0765,
-      "lng": 8.8406,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "UN letter warns Nigeria violence risk христианки, girls",
-      "description": "“We wish raise serious concern regarding patterns religiously motivated violence и гонение,” letter said, “especially христиане, including женщины и girls.”",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/un-letter-warns-nigeria-of-violence-risk-to-christian-women-girls",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-13",
-      "lat": 20.8988,
-      "lng": 85.0671,
-      "country": "India",
-      "city": "Odisha",
-      "type": "discrimination",
-      "title": "Call Issued Make Odisha ‘церковь-Free’ штат",
-      "description": "Под guise literary launch для book о индус монах в Bhubaneswar, столица Odisha, индус религиозный leader issued definitive, public call make central Indian штат “церковь-free.” This marks chilling escalation в th",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/13/call-issued-to-make-odisha-church-free-state/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-13",
-      "lat": 9.2962,
-      "lng": 7.543,
-      "country": "Nigeria",
-      "city": "Abuja",
       "type": "arrest",
       "title": "Nigerian Rights комиссия Calls для арест исламский Cleric Remarks Against христиане",
       "description": "Шейх Muhammadu Sani Yahaya Jingir, prominent исламский cleric в northern Nigeria, faces calls для арест и prosecution после he described христиане и other non-мусульмане as “infidels” и urged мусульмане use their votes preserve мусульманин poli",
