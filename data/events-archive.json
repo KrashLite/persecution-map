@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-25T10:40:38.054Z",
+    "lastUpdated": "2026-09-25T16:00:52.685Z",
     "totalEvents": 500
   },
   "events": [
@@ -69,6 +69,45 @@
       "description": "Пастор Alexander Idachama has become первый patient undergo robotic-assisted surgery Redeemer’s Health деревня больница в Ogun штат. Read More: https://punchng.com/meet-nigerian-пастор-idachama-первый-robotic-surgery-patient--ogun-hospit",
       "source": "punchng",
       "url": "https://punchng.com/meet-nigerian-pastor-idachama-first-robotic-surgery-patient-at-ogun-hospital/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 8.9768,
+      "lng": 38.5335,
+      "country": "Ethiopia",
+      "city": "Addis Ababa",
+      "type": "murder",
+      "title": "Catholic Relief Services aid convoy comes под атака в Ethiopia",
+      "description": "Catholic relief convoy атакован в Ethiopia, Kazakhstan abolishes смерть penalty, South African архиепископ condemns убийство nine женщины, и more в на этой неделе’s Catholic world news roundup.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/catholic-relief-services-aid-convoy-comes-under-attack-in-ethiopia",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 10.3578,
+      "lng": 7.3426,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Adeboye welcomes 105 Nigerians после RCCG-funded repatriation из South Africa",
+      "description": "Пастор Enoch Adeboye has welcomed 105 Nigerians repatriated из South Africa, первый batch humanitarian intervention funded RCCG. Read More: https://punchng.com/adeboye-welcomes-105-nigerians-после-rccg-funded-repatriation-из-south",
+      "source": "punchng",
+      "url": "https://punchng.com/adeboye-welcomes-105-nigerians-after-rccg-funded-repatriation-from-south-africa/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 15.4071,
+      "lng": 32.3302,
+      "country": "Sudan",
+      "city": "Khartoum",
+      "type": "other",
+      "title": "Христиане call для more action promote peace в Sudan",
+      "description": "Sudan has been в штат civil war для most its post-independence history.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christians-call-for-more-action-to-promote-peace-in-sudan",
       "victims": 0
     },
     {
@@ -6460,45 +6499,6 @@
       "lng": 13.3228,
       "country": "Nigeria",
       "city": "Borno",
-      "type": "arrest",
-      "title": "Nigerian Rights комиссия Calls для арест исламский Cleric Remarks Against христиане",
-      "description": "Шейх Muhammadu Sani Yahaya Jingir, prominent исламский cleric в northern Nigeria, faces calls для арест и prosecution после he described христиане и other non-мусульмане as “infidels” и urged мусульмане use their votes preserve мусульманин poli",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/13/nigerian-rights-commission-calls-for-arrest-of-islamic-cleric-over-remarks-against-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-13",
-      "lat": 10.3884,
-      "lng": 7.4589,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "UN letter warns Nigeria violence risk христианки, girls",
-      "description": "“We wish raise serious concern regarding patterns religiously motivated violence и гонение,” letter said, “especially христиане, including женщины и girls.”",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/un-letter-warns-nigeria-of-violence-risk-to-christian-women-girls",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-13",
-      "lat": 21.3211,
-      "lng": 81.9291,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "discrimination",
-      "title": "Call Issued Make Odisha ‘церковь-Free’ штат",
-      "description": "Под guise literary launch для book о индус монах в Bhubaneswar, столица Odisha, индус религиозный leader issued definitive, public call make central Indian штат “церковь-free.” This marks chilling escalation в th",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/13/call-issued-to-make-odisha-church-free-state/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-13",
-      "lat": 9.0963,
-      "lng": 9.2797,
-      "country": "Nigeria",
-      "city": "Plateau",
       "type": "arrest",
       "title": "Nigerian Rights комиссия Calls для арест исламский Cleric Remarks Against христиане",
       "description": "Шейх Muhammadu Sani Yahaya Jingir, prominent исламский cleric в northern Nigeria, faces calls для арест и prosecution после he described христиане и other non-мусульмане as “infidels” и urged мусульмане use their votes preserve мусульманин poli",
