@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-25T16:00:52.685Z",
+    "lastUpdated": "2026-09-25T20:48:59.005Z",
     "totalEvents": 500
   },
   "events": [
@@ -108,6 +108,45 @@
       "description": "Sudan has been в штат civil war для most its post-independence history.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/christians-call-for-more-action-to-promote-peace-in-sudan",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 11.9434,
+      "lng": 12.9593,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "Nigerian пастор, Believer убит на Their Way церковь",
+      "description": "Пастор и another believer на their way богослужение God were among 13 убит во время выходные в плато штат, Nigeria. пастор, his son, и церковь worker were traveling церковь service на воскресенье утро в Dorowa Babuje когда arme",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/25/nigerian-pastor-believer-killed-on-their-way-to-church/",
+      "victims": 13
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 6.46,
+      "lng": 3.5671,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "More христиане убит в ранее атакован Area в Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Following атаки на воскресенье (Sept. 20) that left церковь пастор и others погибшие, пастухи фулани убит least 12 more христиане в same округ в плато штат, Nigeria из",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/09/more-christians-killed-in-previously-attacked-area-in-nigeria/",
+      "victims": 12
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 6.7555,
+      "lng": 3.4874,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Kukah bemoans waning Catholic influence в Nigeria",
+      "description": "Catholic епископ Sokoto, Matthew Kukah, has called на церковь renew its values и reclaim its influence в Nigeria’s public life. Read More: https://punchng.com/kukah-bemoans-waning-catholic-influence-в-nigeria/",
+      "source": "punchng",
+      "url": "https://punchng.com/kukah-bemoans-waning-catholic-influence-in-nigeria/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     },
     {
@@ -472,6 +511,32 @@
       "description": "Elite христианин educational institutions в Indian штат West Bengal are последний targets религиозный extremism в what seems be systematic dismantling intellectual strongholds. пока правительство чиновники have begun conduct surp",
       "source": "persecution",
       "url": "https://persecution.org/2026/09/22/christian-educational-institutions-in-india-face-mounting-pressure/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-22",
+      "lat": 21.5215,
+      "lng": 82.0451,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Христианин Educational Institutions в India Face Mounting Pressure",
+      "description": "Elite христианин educational institutions в Indian штат West Bengal are последний targets религиозный extremism в what seems be systematic dismantling intellectual strongholds. пока правительство чиновники have begun conduct surp",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/22/christian-educational-institutions-in-india-face-mounting-pressure/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-22",
+      "lat": 43.8824,
+      "lng": 87.5277,
+      "country": "China",
+      "city": "Xinjiang",
+      "type": "arrest",
+      "title": "Select China комитет Begs Trump Pressure Xi Jinping Release религиозный прихожане",
+      "description": "Key congressional panel met вторник urge президент Donald Trump discuss release заключён христианские прихожане, some whom are American citizens, из China во время his upcoming meeting с Chinese leader Xi Jinping. hearing fr",
+      "source": "newsapi:Daily Signal",
+      "url": "https://www.dailysignal.com/2026/09/22/xi-jinping-religious-worshippers/",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "Под guise literary launch для book о индус монах в Bhubaneswar, столица Odisha, индус религиозный leader issued definitive, public call make central Indian штат “церковь-free.” This marks chilling escalation в th",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/13/call-issued-to-make-odisha-church-free-state/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-13",
-      "lat": -1.4131,
-      "lng": 36.8909,
-      "country": "Kenya",
-      "city": "Nairobi",
-      "type": "murder",
-      "title": "Окончательный Chapter в Tragic убийство Susan Magara",
-      "description": "На Aug. 5, Ugandan суд presided High суд судья Alex Mackay Ajiji приговорён two мусульмане, Hajarah Nakandi и Abas Musa, смерть для убийство innocent христианка, Susan Magara. other seven convicts, Yusuf Lubega, Mahad",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/13/the-final-chapter-in-the-tragic-murder-of-susan-magara/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-13",
-      "lat": 10.6377,
-      "lng": 7.5077,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "arrest",
-      "title": "Nigerian Rights комиссия Calls для арест исламский Cleric Remarks Against христиане",
-      "description": "Шейх Muhammadu Sani Yahaya Jingir, prominent исламский cleric в northern Nigeria, faces calls для арест и prosecution после he described христиане и other non-мусульмане as “infidels” и urged мусульмане use their votes preserve мусульманин poli",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/13/nigerian-rights-commission-calls-for-arrest-of-islamic-cleric-over-remarks-against-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-13",
-      "lat": 9.2613,
-      "lng": 9.7151,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "UN letter warns Nigeria violence risk христианки, girls",
-      "description": "“We wish raise serious concern regarding patterns religiously motivated violence и гонение,” letter said, “especially христиане, including женщины и girls.”",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/un-letter-warns-nigeria-of-violence-risk-to-christian-women-girls",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-13",
-      "lat": 28.6674,
-      "lng": 77.2316,
-      "country": "India",
-      "city": "Delhi",
-      "type": "discrimination",
-      "title": "Call Issued Make Odisha ‘церковь-Free’ штат",
-      "description": "Под guise literary launch для book о индус монах в Bhubaneswar, столица Odisha, индус религиозный leader issued definitive, public call make central Indian штат “церковь-free.” This marks chilling escalation в th",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/13/call-issued-to-make-odisha-church-free-state/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-13",
-      "lat": 11.8335,
-      "lng": 13.3228,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "arrest",
-      "title": "Nigerian Rights комиссия Calls для арест исламский Cleric Remarks Against христиане",
-      "description": "Шейх Muhammadu Sani Yahaya Jingir, prominent исламский cleric в northern Nigeria, faces calls для арест и prosecution после he described христиане и other non-мусульмане as “infidels” и urged мусульмане use their votes preserve мусульманин poli",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/13/nigerian-rights-commission-calls-for-arrest-of-islamic-cleric-over-remarks-against-christians/",
       "victims": 0
     }
   ]
