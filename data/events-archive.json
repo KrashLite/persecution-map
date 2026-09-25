@@ -2,10 +2,49 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-24T20:51:51.040Z",
+    "lastUpdated": "2026-09-25T02:07:13.615Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-09-25",
+      "lat": 4.6277,
+      "lng": 18.3886,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "murder",
+      "title": "Священники Carry Names дети убит в Gaza и Lebanon Through Rome, Urging Return Diplomacy",
+      "description": "Shroud, they said, commemorated дети убит в месяцы после ceasefires were announced в Gaza и Lebanon. network reported that more than 300 дети had погиб в Gaza since октябрь 2025 и around 150 в Lebanon previous fi",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/09/24/priests-carry-names-of-children-killed-in-gaza-and-lebanon-through-rome-urging-a-return-to-diplomacy/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 9.1856,
+      "lng": 7.3762,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "RCCG begins repatriation 500 Nigerians из S’Africa",
+      "description": "Redeemed христианин церковь God has begun repatriation 500 Nigerians из South Africa, с первый batch 100 arriving в Lagos. Read More: https://punchng.com/rccg-begins-repatriation--500-nigerians-из-safrica/",
+      "source": "punchng",
+      "url": "https://punchng.com/rccg-begins-repatriation-of-500-nigerians-from-safrica/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 10.6642,
+      "lng": 7.3497,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "discrimination",
+      "title": "Лишения: Foursquare leader urges Nigerians keep вера",
+      "description": "General надзиратель Foursquare Gospel церковь в Nigeria, Rev ЗУР Aboyeji, has advised Nigerians not abandon their вера amid economic лишения. Read More: https://punchng.com/лишения-foursquare-leader-urges-nigerians--keep-вера/",
+      "source": "punchng",
+      "url": "https://punchng.com/hardship-foursquare-leader-urges-nigerians-to-keep-faith/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-09-24",
       "lat": 6.8215,
@@ -753,6 +792,19 @@
       "lng": 76.9234,
       "country": "India",
       "city": "Delhi",
+      "type": "attack",
+      "title": "Abroad, India’s RSS Speaks ‘Love.’ Home, Its Affiliates атака христиане.",
+      "description": "Из церковь вандализм могила осквернение, нападения against христианские меньшинства are increasing в large штат West Bengal since BJP, RSS offshoot, came power в май.",
+      "source": "newsapi:The Diplomat",
+      "url": "https://thediplomat.com/2026/09/abroad-indias-rss-speaks-of-love-at-home-its-affiliates-attack-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-18",
+      "lat": 19.0956,
+      "lng": 72.6813,
+      "country": "India",
+      "city": "Mumbai",
       "type": "attack",
       "title": "Abroad, India’s RSS Speaks ‘Love.’ Home, Its Affiliates атака христиане.",
       "description": "Из церковь вандализм могила осквернение, нападения against христианские меньшинства are increasing в large штат West Bengal since BJP, RSS offshoot, came power в май.",
@@ -6452,58 +6504,6 @@
       "description": "Шейх Muhammadu Sani Yahaya Jingir, prominent исламский cleric в northern Nigeria, faces calls для арест и prosecution после he described христиане и other non-мусульмане as “infidels” и urged мусульмане use their votes preserve мусульманин poli",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/13/nigerian-rights-commission-calls-for-arrest-of-islamic-cleric-over-remarks-against-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-13",
-      "lat": 11.9435,
-      "lng": 13.1996,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "UN letter warns Nigeria violence risk христианки, girls",
-      "description": "“We wish raise serious concern regarding patterns religiously motivated violence и гонение,” letter said, “especially христиане, including женщины и girls.”",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/un-letter-warns-nigeria-of-violence-risk-to-christian-women-girls",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-12",
-      "lat": 9.1231,
-      "lng": 9.657,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "2027 polls: NHRC, CAN, PFN, Kwankwaso knock шейх Jingir",
-      "description": "National Human Rights комиссия, NHRC, христианин Association Nigeria, CAN, Pentecostal Fellowship Nigeria, PFN, вице-президентial Candidate Nigeria Democratic конгресс, NDC,... post 2027 polls: NHRC, CAN, PFN, Kwankwaso knock Sh",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/08/2027-polls-nhrc-can-pfn-kwankwaso-knock-sheikh-jingir/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-12",
-      "lat": 34.1875,
-      "lng": 71.5778,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "other",
-      "title": "Pakistani христиане rally для equal rights",
-      "description": "Rallies в Karachi и Faisalabad pressed для constitutional amendments allowing non-мусульмане serve as президент or премьер-министр и для curbs на богохульство law насилие.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-christians-rally-for-equal-rights-beyond-minorities-day-ceremonies",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-12",
-      "lat": 31.334,
-      "lng": 74.5705,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "other",
-      "title": "Pakistani христиане rally для equal rights",
-      "description": "Rallies в Karachi и Faisalabad pressed для constitutional amendments allowing non-мусульмане serve as президент or премьер-министр и для curbs на богохульство law насилие.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/pakistani-christians-rally-for-equal-rights-beyond-minorities-day-ceremonies",
       "victims": 0
     }
   ]
