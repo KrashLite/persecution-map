@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-26T15:13:02.811Z",
+    "lastUpdated": "2026-09-26T20:16:40.975Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-09-26",
+      "lat": 9.0993,
+      "lng": 7.5662,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Video/ Photos: Old Trafford turns молитва ground as Jerry Eze leads UK conference",
+      "description": "Manchester United’s iconic Old Trafford stadium took на different atmosphere на суббота as Nigerian пастор Jerry Eze led прихожане в молитва во время NSPPD UK молитва Conference. post Video/ Photos: Old Trafford turns молитва ground as Jerry",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/09/photos-old-trafford-turns-prayer-ground-as-jerry-eze-leads-uk-conference/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-26",
+      "lat": 10.5805,
+      "lng": 7.5055,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "PHOTOS: Jerry Eze leads thousands в молитва мужчина United’s Old Trafford",
+      "description": "Nigerian пастор Jerry Eze led thousands верующие в молитва Manchester United’s Old Trafford stadium для NSPPD UK молитва Conference на суббота. Read More: https://punchng.com/photos-jerry-eze-leads-thousands-в-молитва--мужчина-uniteds-old-t",
+      "source": "punchng",
+      "url": "https://punchng.com/photos-jerry-eze-leads-thousands-in-prayer-at-man-uniteds-old-trafford/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-09-25",
       "lat": 4.6277,
@@ -226,6 +252,58 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/09/25/nigerian-pastor-believer-killed-on-their-way-to-church/",
       "victims": 13
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 10.6697,
+      "lng": 7.3894,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Nigerian пастор, Believer убит на Their Way церковь",
+      "description": "Пастор и another believer на their way богослужение God were among 13 убит во время выходные в плато штат, Nigeria. пастор, his son, и церковь worker were traveling церковь service на воскресенье утро в Dorowa Babuje когда arme",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/25/nigerian-pastor-believer-killed-on-their-way-to-church/",
+      "victims": 13
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 10.278,
+      "lng": 7.3264,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "More христиане убит в ранее атакован Area в Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Following атаки на воскресенье (Sept. 20) that left церковь пастор и others погибшие, пастухи фулани убит least 15 more христиане в same округ в плато штат, Nigeria из",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/09/more-christians-killed-in-previously-attacked-area-in-nigeria/",
+      "victims": 15
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 12.1253,
+      "lng": 8.4147,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "kidnapping",
+      "title": "Exclusive -- гонение Expert: Nigeria's похищение Boom Is Still Driven Hate для христиане",
+      "description": "Nigeria has made improvements в addressing pervasive джихадист кампании against христиане nationwide, but skyrocketing похищение rates should not be treated as mere \"security\" problem когда жертвы say their captors demand they convert, Ryan",
+      "source": "newsapi:Breitbart News",
+      "url": "https://www.breitbart.com/africa/2026/09/25/exclusive-persecution-expert-nigerias-kidnapping-boom-is-still-driven-by-hate-for-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 28.7156,
+      "lng": 77.0619,
+      "country": "India",
+      "city": "Delhi",
+      "type": "other",
+      "title": "Seven Letters из преследуемый церковь",
+      "description": "International христианин Concern’s field leader для South Asia недавно, I traveled through Nepal, India, и Bhutan as part our министерство преследуемый церковь, meeting верующие и listening realities they face because their вера",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/25/seven-letters-from-the-persecuted-church/",
+      "victims": 0
     },
     {
       "date": "2026-09-24",
@@ -6426,84 +6504,6 @@
       "description": "…warn against land grabbing Peter Duru, Makurdi Nigeria Catholic Diocesan священники Association, NCDPA, Makurdi Diocese, has rejected Federal правительство’s decision include Benue штат в pilot implementation its National Ranching P",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/08/catholic-priests-reject-fgs-ranching-plan-for-benue/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-13",
-      "lat": 11.8503,
-      "lng": 8.8089,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "arrest",
-      "title": "Nigerian Rights комиссия Calls для арест исламский Cleric Remarks Against христиане",
-      "description": "Шейх Muhammadu Sani Yahaya Jingir, prominent исламский cleric в northern Nigeria, faces calls для арест и prosecution после he described христиане и other non-мусульмане as “infidels” и urged мусульмане use their votes preserve мусульманин poli",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/13/nigerian-rights-commission-calls-for-arrest-of-islamic-cleric-over-remarks-against-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-13",
-      "lat": -6.126,
-      "lng": 106.7154,
-      "country": "Indonesia",
-      "city": "Jakarta",
-      "type": "arrest",
-      "title": "Пастор приговорён Two годы в тюрьма в Indonesia",
-      "description": "SURABAYA, Indonesia (утро Star News) – христианин пастор has been приговорён тюрьма для two годы для violating Indonesia’s law against богохульство и hate speech в case that has drawn scrutiny speed his арест и суд. panel",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/08/pastor-sentenced-to-two-years-in-prison-in-indonesia/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-13",
-      "lat": 26.7888,
-      "lng": 80.922,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "discrimination",
-      "title": "Call Issued Make Odisha ‘церковь-Free’ штат",
-      "description": "Под guise literary launch для book о индус монах в Bhubaneswar, столица Odisha, индус религиозный leader issued definitive, public call make central Indian штат “церковь-free.” This marks chilling escalation в th",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/13/call-issued-to-make-odisha-church-free-state/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-13",
-      "lat": -4.3577,
-      "lng": 15.1637,
-      "country": "Democratic Republic of the Congo",
-      "city": "Kinshasa",
-      "type": "other",
-      "title": "Congolese епископ Speaks на Terrorism, Ebola в North Kivu",
-      "description": "Для many годы, люди в eastern Democratic Republic Congo have been living through ongoing ADF террорист atrocities. Many семьи have lost loved ones, homes, и everything they had because armed conflict. Many others have been",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/13/a-congolese-bishop-speaks-on-terrorism-ebola-in-north-kivu/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-13",
-      "lat": 6.5176,
-      "lng": 3.4489,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "UN letter warns Nigeria violence risk христианки, girls",
-      "description": "“We wish raise serious concern regarding patterns religiously motivated violence и гонение,” letter said, “especially христиане, including женщины и girls.”",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/un-letter-warns-nigeria-of-violence-risk-to-christian-women-girls",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-13",
-      "lat": 15.4472,
-      "lng": 32.5002,
-      "country": "Sudan",
-      "city": "Khartoum",
-      "type": "attack",
-      "title": "Sudanese христианин Finds Hope после Fleeing South Sudan",
-      "description": "Когда исламский ополчение атакован Saleh’s деревня в Sudan, everything he had built collapsed в single день. As new convert христианство, decision follow Jesus had already come high cost. семья ties were broken. His community no lo",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/13/sudanese-christian-finds-hope-after-fleeing-to-south-sudan/",
       "victims": 0
     }
   ]
