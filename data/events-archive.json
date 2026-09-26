@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-25T20:48:59.005Z",
+    "lastUpdated": "2026-09-26T02:12:38.820Z",
     "totalEvents": 500
   },
   "events": [
@@ -147,6 +147,32 @@
       "description": "Catholic епископ Sokoto, Matthew Kukah, has called на церковь renew its values и reclaim its influence в Nigeria’s public life. Read More: https://punchng.com/kukah-bemoans-waning-catholic-influence-в-nigeria/",
       "source": "punchng",
       "url": "https://punchng.com/kukah-bemoans-waning-catholic-influence-in-nigeria/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 11.8843,
+      "lng": 13.3253,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "More христиане убит в ранее атакован Area в Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Following атаки на воскресенье (Sept. 20) that left церковь пастор и others погибшие, пастухи фулани убит least 15 more христиане в same округ в плато штат, Nigeria из",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/09/more-christians-killed-in-previously-attacked-area-in-nigeria/",
+      "victims": 15
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 18.9974,
+      "lng": 73.0382,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "other",
+      "title": "Seven Letters из преследуемый церковь",
+      "description": "International христианин Concern’s field leader для South Asia недавно, I traveled through Nepal, India, и Bhutan as part our министерство преследуемый церковь, meeting верующие и listening realities they face because their вера",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/25/seven-letters-from-the-persecuted-church/",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Шейх Muhammadu Sani Yahaya Jingir, prominent исламский cleric в northern Nigeria, faces calls для арест и prosecution после he described христиане и other non-мусульмане as “infidels” и urged мусульмане use their votes preserve мусульманин poli",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/13/nigerian-rights-commission-calls-for-arrest-of-islamic-cleric-over-remarks-against-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-13",
-      "lat": 8.9866,
-      "lng": 7.575,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "UN letter warns Nigeria violence risk христианки, girls",
-      "description": "“We wish raise serious concern regarding patterns religiously motivated violence и гонение,” letter said, “especially христиане, including женщины и girls.”",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/un-letter-warns-nigeria-of-violence-risk-to-christian-women-girls",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-13",
-      "lat": 19.2636,
-      "lng": 72.978,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "discrimination",
-      "title": "Call Issued Make Odisha ‘церковь-Free’ штат",
-      "description": "Под guise literary launch для book о индус монах в Bhubaneswar, столица Odisha, индус религиозный leader issued definitive, public call make central Indian штат “церковь-free.” This marks chilling escalation в th",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/13/call-issued-to-make-odisha-church-free-state/",
       "victims": 0
     }
   ]
