@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-26T10:24:15.195Z",
+    "lastUpdated": "2026-09-26T15:13:02.811Z",
     "totalEvents": 500
   },
   "events": [
@@ -213,6 +213,19 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/09/25/seven-letters-from-the-persecuted-church/",
       "victims": 0
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 9.3992,
+      "lng": 9.4913,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Nigerian пастор, Believer убит на Their Way церковь",
+      "description": "Пастор и another believer на their way богослужение God were among 13 убит во время выходные в плато штат, Nigeria. пастор, his son, и церковь worker were traveling церковь service на воскресенье утро в Dorowa Babuje когда arme",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/25/nigerian-pastor-believer-killed-on-their-way-to-church/",
+      "victims": 13
     },
     {
       "date": "2026-09-24",
@@ -6491,19 +6504,6 @@
       "description": "Когда исламский ополчение атакован Saleh’s деревня в Sudan, everything he had built collapsed в single день. As new convert христианство, decision follow Jesus had already come high cost. семья ties were broken. His community no lo",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/13/sudanese-christian-finds-hope-after-fleeing-to-south-sudan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-13",
-      "lat": 4.1758,
-      "lng": 18.409,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "other",
-      "title": "Священник takes Blessed таинство и flees церковь с faithful во время earthquake в Colombia",
-      "description": "As церковь began shake right после consecration, Father Oscar Aguirre uttered quick молитва, grabbed Blessed таинство, и directed faithful exit церковь.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/americas/priest-takes-blessed-sacrament-and-flees-church-with-faithful-during-earthquake-in-colombia",
       "victims": 0
     }
   ]
