@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-27T15:53:57.730Z",
+    "lastUpdated": "2026-09-27T20:31:42.163Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,19 @@
       "description": "Архиепископ Bashar Warda Erbil called для investment в future young христиане в Iraq, pointing structure country’s economy as part problem.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/iraqi-christians-require-jobs-and-education-for-long-term-stability-erbil-archbishop-says",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-27",
+      "lat": 10.6668,
+      "lng": 7.5629,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "CAN demands rescue Borno schoolchildren, others в плен",
+      "description": "Христианин Association Nigeria в Borno has called для urgent rescue 78 schoolchildren и others who have been в плен для 100 дни Read More: https://punchng.com/can-demands-rescue--borno-schoolchildren-others-в-плен",
+      "source": "punchng",
+      "url": "https://punchng.com/can-demands-rescue-of-borno-schoolchildren-others-in-captivity/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     },
     {
@@ -433,6 +446,32 @@
       "description": "Pakistani мусульманин cleric honored архиепископ Canterbury has reportedly been accused protecting alleged extortion gang linked похищения и пытки",
       "source": "newsapi:RT",
       "url": "https://www.rt.com/news/646257-church-of-england-pakistani-gang/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 6.3906,
+      "lng": 3.1787,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Nigerian пастор, Believer убит на Their Way церковь",
+      "description": "Пастор и another believer на their way богослужение God were among 13 убит во время выходные в плато штат, Nigeria. пастор, his son, и церковь worker were traveling церковь service на воскресенье утро в Dorowa Babuje когда arme",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/25/nigerian-pastor-believer-killed-on-their-way-to-church/",
+      "victims": 13
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 6.5586,
+      "lng": 3.3621,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "kidnapping",
+      "title": "Exclusive -- гонение Expert: Nigeria's похищение Boom Is Still Driven Hate для христиане",
+      "description": "Nigeria has made improvements в addressing pervasive джихадист кампании against христиане nationwide, but skyrocketing похищение rates should not be treated as mere \"security\" problem когда жертвы say their captors demand they convert, Ryan",
+      "source": "newsapi:Breitbart News",
+      "url": "https://www.breitbart.com/africa/2026/09/25/exclusive-persecution-expert-nigerias-kidnapping-boom-is-still-driven-by-hate-for-christians/",
       "victims": 0
     },
     {
@@ -6466,45 +6505,6 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/08/herdsmen-kill-at-least-31-christians-in-central-nigeria/",
       "victims": 31
-    },
-    {
-      "date": "2026-08-14",
-      "lat": 34.5139,
-      "lng": 36.6707,
-      "country": "Syria",
-      "city": "Homs",
-      "type": "arrest",
-      "title": "Baptist пастор Released из задержание в Syria",
-      "description": "Kurdish пастор has been released из Syrian тюрьма после being задержан для two недели without чиновник обвинение. пастор Nihad Hassan was visiting семья в Afrin, Syria, когда власти арестован him на июль 20. He was reportedly задержан beca",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/14/baptist-pastor-released-from-detention-in-syria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-14",
-      "lat": 33.8486,
-      "lng": 71.7463,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "arrest",
-      "title": "Первый осуждение Handed Down в Pakistan’s Jaranwala христианин Enclave атаки",
-      "description": "Pakistani anti-terrorism суд has secured its первый осуждение devastating 2023 Jaranwala riots, sentencing мусульманин мужчина десятилетие в тюрьма для снос two церкви. However, milestone ruling was мгновенно overshadowed",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/14/first-conviction-handed-down-in-pakistans-jaranwala-christian-enclave-attacks/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-14",
-      "lat": 31.3352,
-      "lng": 121.379,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "arrest",
-      "title": "Cancer Diagnosis Raises Stakes для Chinese пастор John Cao",
-      "description": "Пастор John Cao, Chinese христианский лидер who completed seven-год тюрьма приговор в 2024, has been diagnosed с поздно-stage prostate cancer и spinal tumor, according reports из христианин advocacy organizations. His diagnosis has renew",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/14/cancer-diagnosis-raises-stakes-for-chinese-pastor-john-cao/",
-      "victims": 0
     }
   ]
 }
