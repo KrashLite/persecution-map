@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-27T02:05:19.984Z",
+    "lastUpdated": "2026-09-27T10:55:42.006Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-09-27",
+      "lat": 35.6713,
+      "lng": 44.3991,
+      "country": "Iraq",
+      "city": "Kirkuk",
+      "type": "other",
+      "title": "Для Iraq’s христиане, архиепископ Warda says long-term stability requires jobs",
+      "description": "Архиепископ Bashar Warda Erbil called для investment в future young христиане в Iraq, pointing structure country’s economy as part problem.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/iraqi-christians-require-jobs-and-education-for-long-term-stability-erbil-archbishop-says",
+      "victims": 0
+    },
     {
       "date": "2026-09-26",
       "lat": 9.0993,
@@ -355,6 +368,19 @@
       "description": "Pakistani мусульманин cleric honored архиепископ Canterbury has reportedly been accused protecting alleged extortion gang linked похищения и пытки",
       "source": "newsapi:RT",
       "url": "https://www.rt.com/news/646257-church-of-england-pakistani-gang/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 11.7734,
+      "lng": 12.9516,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "kidnapping",
+      "title": "Exclusive -- гонение Expert: Nigeria's похищение Boom Is Still Driven Hate для христиане",
+      "description": "Nigeria has made improvements в addressing pervasive джихадист кампании against христиане nationwide, but skyrocketing похищение rates should not be treated as mere \"security\" problem когда жертвы say their captors demand they convert, Ryan",
+      "source": "newsapi:Breitbart News",
+      "url": "https://www.breitbart.com/africa/2026/09/25/exclusive-persecution-expert-nigerias-kidnapping-boom-is-still-driven-by-hate-for-christians/",
       "victims": 0
     },
     {
@@ -6473,32 +6499,6 @@
       "lng": 51.3854,
       "country": "Iran",
       "city": "Tehran",
-      "type": "other",
-      "title": "United Nations calls out Iran для its ‘other war’ – against христиане",
-      "description": "Human Rights совет asked intervene в изъятие historic церковь",
-      "source": "newsapi:Wnd.com",
-      "url": "https://www.wnd.com/2026/08/united-nations-calls-iran-its-other-war-against/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-14",
-      "lat": 9.1652,
-      "lng": 7.5589,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Пастухи Kill Least 31 христиане в Central Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани have убит 16 христиане в плато штат, Nigeria since Aug. 2, в addition slaughters в two other штаты, sources said. armed пастухи overran five predomin",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/08/herdsmen-kill-at-least-31-christians-in-central-nigeria/",
-      "victims": 31
-    },
-    {
-      "date": "2026-08-14",
-      "lat": 32.8159,
-      "lng": 51.7174,
-      "country": "Iran",
-      "city": "Isfahan",
       "type": "other",
       "title": "United Nations calls out Iran для its ‘other war’ – against христиане",
       "description": "Human Rights совет asked intervene в изъятие historic церковь",
