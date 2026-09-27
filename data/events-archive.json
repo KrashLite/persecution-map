@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-27T10:55:42.006Z",
+    "lastUpdated": "2026-09-27T15:53:57.730Z",
     "totalEvents": 500
   },
   "events": [
@@ -12,6 +12,19 @@
       "lng": 44.3991,
       "country": "Iraq",
       "city": "Kirkuk",
+      "type": "other",
+      "title": "Для Iraq’s христиане, архиепископ Warda says long-term stability requires jobs",
+      "description": "Архиепископ Bashar Warda Erbil called для investment в future young христиане в Iraq, pointing structure country’s economy as part problem.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/iraqi-christians-require-jobs-and-education-for-long-term-stability-erbil-archbishop-says",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-27",
+      "lat": 36.1151,
+      "lng": 43.8503,
+      "country": "Iraq",
+      "city": "Erbil",
       "type": "other",
       "title": "Для Iraq’s христиане, архиепископ Warda says long-term stability requires jobs",
       "description": "Архиепископ Bashar Warda Erbil called для investment в future young христиане в Iraq, pointing structure country’s economy as part problem.",
@@ -381,6 +394,45 @@
       "description": "Nigeria has made improvements в addressing pervasive джихадист кампании against христиане nationwide, but skyrocketing похищение rates should not be treated as mere \"security\" problem когда жертвы say their captors demand they convert, Ryan",
       "source": "newsapi:Breitbart News",
       "url": "https://www.breitbart.com/africa/2026/09/25/exclusive-persecution-expert-nigerias-kidnapping-boom-is-still-driven-by-hate-for-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 11.7775,
+      "lng": 8.3552,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "More христиане убит в ранее атакован Area в Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Following атаки на воскресенье (Sept. 20) that left церковь пастор и others погибшие, пастухи фулани убит least 15 more христиане в same округ в плато штат, Nigeria из",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/09/more-christians-killed-in-previously-attacked-area-in-nigeria/",
+      "victims": 15
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 26.7318,
+      "lng": 81.0462,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "other",
+      "title": "Seven Letters из преследуемый церковь",
+      "description": "International христианин Concern’s field leader для South Asia недавно, I traveled through Nepal, India, и Bhutan as part our министерство преследуемый церковь, meeting верующие и listening realities they face because their вера",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/25/seven-letters-from-the-persecuted-church/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 33.6218,
+      "lng": 73.2226,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "kidnapping",
+      "title": "Церковь England leader honored cleric linked Pakistani gang – Telegraph",
+      "description": "Pakistani мусульманин cleric honored архиепископ Canterbury has reportedly been accused protecting alleged extortion gang linked похищения и пытки",
+      "source": "newsapi:RT",
+      "url": "https://www.rt.com/news/646257-church-of-england-pakistani-gang/",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "Пастор John Cao, Chinese христианский лидер who completed seven-год тюрьма приговор в 2024, has been diagnosed с поздно-stage prostate cancer и spinal tumor, according reports из христианин advocacy organizations. His diagnosis has renew",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/14/cancer-diagnosis-raises-stakes-for-chinese-pastor-john-cao/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-14",
-      "lat": 25.0747,
-      "lng": 67.0261,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "arrest",
-      "title": "Первый осуждение Handed Down в Pakistan’s Jaranwala христианин Enclave атаки",
-      "description": "Pakistani anti-terrorism суд has secured its первый осуждение devastating 2023 Jaranwala riots, sentencing мусульманин мужчина десятилетие в тюрьма для снос two церкви. However, milestone ruling was мгновенно overshadowed",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/14/first-conviction-handed-down-in-pakistans-jaranwala-christian-enclave-attacks/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-14",
-      "lat": 43.8983,
-      "lng": 87.7298,
-      "country": "China",
-      "city": "Xinjiang",
-      "type": "arrest",
-      "title": "Cancer Diagnosis Raises Stakes для Chinese пастор John Cao",
-      "description": "Пастор John Cao, Chinese христианский лидер who completed seven-год тюрьма приговор в 2024, has been diagnosed с поздно-stage prostate cancer и spinal tumor, according reports из христианин advocacy organizations. His diagnosis has renew",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/14/cancer-diagnosis-raises-stakes-for-chinese-pastor-john-cao/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-14",
-      "lat": 36.2748,
-      "lng": 59.7518,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "United Nations calls out Iran для its ‘other war’ – against христиане",
-      "description": "Human Rights совет asked intervene в изъятие historic церковь",
-      "source": "newsapi:Wnd.com",
-      "url": "https://www.wnd.com/2026/08/united-nations-calls-iran-its-other-war-against/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-14",
-      "lat": 35.5953,
-      "lng": 51.3854,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "United Nations calls out Iran для its ‘other war’ – against христиане",
-      "description": "Human Rights совет asked intervene в изъятие historic церковь",
-      "source": "newsapi:Wnd.com",
-      "url": "https://www.wnd.com/2026/08/united-nations-calls-iran-its-other-war-against/",
       "victims": 0
     }
   ]
