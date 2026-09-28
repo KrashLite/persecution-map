@@ -2,10 +2,49 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-28T12:08:25.730Z",
+    "lastUpdated": "2026-09-28T22:41:36.484Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-09-28",
+      "lat": 21.3674,
+      "lng": 82.0167,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "discrimination",
+      "title": "Церкви Restrict Entry Non-христиане в гонение-Hit регион",
+      "description": "В unprecedented development на прошлой неделе, more than 40 церкви в Dhamtari район central Indian штат Chhattisgarh, India, declared that богослужение is ограничен христиане only, raising eyebrows among христиане и non-христиане",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/28/churches-restrict-entry-of-non-christians-in-persecution-hit-region/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-28",
+      "lat": 11.8064,
+      "lng": 13.3186,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "New Legislation Threatens независимый Documentation гонение в Nigeria",
+      "description": "Nigeria’s сенат is advancing legislation that could significantly expand правительство oversight organizations receiving foreign funding, raising concerns that measure could affect ability церкви, humanitarian organizations, human right",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/28/new-legislation-threatens-independent-documentation-of-persecution-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-28",
+      "lat": 16.7824,
+      "lng": 95.9694,
+      "country": "Myanmar",
+      "city": "Yangon",
+      "type": "other",
+      "title": "Conditions Worsen для лицо без гражданства Rohingya христиане",
+      "description": "Rohingya are known largely as мусульманин ethnic group forcibly driven из Myanmar. But small subset Rohingya are христианин. Numbering о 1,500 в total, these христиане comprise small fraction 1% overall Rohingya population.",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/28/conditions-worsen-for-stateless-rohingya-christians/",
+      "victims": 0
+    },
     {
       "date": "2026-09-27",
       "lat": 35.6713,
@@ -6466,45 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/08/14/first-conviction-handed-down-in-pakistans-jaranwala-christian-enclave-attacks/",
       "victims": 0
-    },
-    {
-      "date": "2026-08-14",
-      "lat": 36.8947,
-      "lng": 10.1608,
-      "country": "Tunisia",
-      "city": "Tunis",
-      "type": "other",
-      "title": "Tunisian христиане Keep Quiet в Land Nightclubs, ИГИЛ Fighters",
-      "description": "Tunisia makes для interesting case study в apparent contrasts: Many would describe it as most secularized country в Arab World. Yet it has also been abundant source recruits для Исламское государство group (ИГИЛ). христианство arrive",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/14/tunisian-christians-keep-quiet-in-a-land-of-nightclubs-isis-fighters/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-14",
-      "lat": 40.0369,
-      "lng": 116.409,
-      "country": "China",
-      "city": "Beijing",
-      "type": "arrest",
-      "title": "Cancer Diagnosis Raises Stakes для Chinese пастор John Cao",
-      "description": "Пастор John Cao, Chinese христианский лидер who completed seven-год тюрьма приговор в 2024, has been diagnosed с поздно-stage prostate cancer и spinal tumor, according reports из христианин advocacy organizations. His diagnosis has renew",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/14/cancer-diagnosis-raises-stakes-for-chinese-pastor-john-cao/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-14",
-      "lat": 10.2943,
-      "lng": 7.639,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Пастухи Kill Least 31 христиане в Central Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани have убит 16 христиане в плато штат, Nigeria since Aug. 2, в addition slaughters в two other штаты, sources said. armed пастухи overran five predomin",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/08/herdsmen-kill-at-least-31-christians-in-central-nigeria/",
-      "victims": 31
     }
   ]
 }
