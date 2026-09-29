@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-29T11:40:46.183Z",
+    "lastUpdated": "2026-09-29T17:07:21.716Z",
     "totalEvents": 500
   },
   "events": [
@@ -142,6 +142,19 @@
       "lng": 76.974,
       "country": "India",
       "city": "Delhi",
+      "type": "discrimination",
+      "title": "Христианин Educational Institutions в India Face Mounting Pressure",
+      "description": "С tacit backing индус-nationalist правительство Bharatiya Janata Party (BJP) в West Bengal, focus запугивание has expanded из rural молитва meetings prestigious urban landmarks. post христианин Educational Instituti",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/09/28/christian-educational-institutions-in-india-face-mounting-pressure/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-28",
+      "lat": 26.8104,
+      "lng": 81.0497,
+      "country": "India",
+      "city": "Uttar Pradesh",
       "type": "discrimination",
       "title": "Христианин Educational Institutions в India Face Mounting Pressure",
       "description": "С tacit backing индус-nationalist правительство Bharatiya Janata Party (BJP) в West Bengal, focus запугивание has expanded из rural молитва meetings prestigious urban landmarks. post христианин Educational Instituti",
@@ -680,6 +693,19 @@
       "description": "Nigeria has made improvements в addressing pervasive джихадист кампании against христиане nationwide, but skyrocketing похищение rates should not be treated as mere \"security\" problem когда жертвы say their captors demand they convert, Ryan",
       "source": "newsapi:Breitbart News",
       "url": "https://www.breitbart.com/africa/2026/09/25/exclusive-persecution-expert-nigerias-kidnapping-boom-is-still-driven-by-hate-for-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 31.6355,
+      "lng": 74.5977,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "kidnapping",
+      "title": "Церковь England leader honored cleric linked Pakistani gang – Telegraph",
+      "description": "Pakistani мусульманин cleric honored архиепископ Canterbury has reportedly been accused protecting alleged extortion gang linked похищения и пытки",
+      "source": "newsapi:RT",
+      "url": "https://www.rt.com/news/646257-church-of-england-pakistani-gang/",
       "victims": 0
     },
     {
@@ -6473,32 +6499,6 @@
       "lng": 13.241,
       "country": "Nigeria",
       "city": "Borno",
-      "type": "arrest",
-      "title": "Nigerian суд запреты исламский полиция из arresting христианин-конверт вера, marriage отказ",
-      "description": "Federal high суд described actions taken against женщина as “flagrant violation” her fundamental rights human dignity и freedom религия.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/nigerian-court-bars-islamic-police-from-arresting-christian-convert-over-faith-forced-marriage",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-16",
-      "lat": 6.701,
-      "lng": 3.4163,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "arrest",
-      "title": "Nigerian суд запреты исламский полиция из arresting христианин-конверт вера, marriage отказ",
-      "description": "Federal high суд described actions taken against женщина as “flagrant violation” her fundamental rights human dignity и freedom религия.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/nigerian-court-bars-islamic-police-from-arresting-christian-convert-over-faith-forced-marriage",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-16",
-      "lat": 9.341,
-      "lng": 9.4013,
-      "country": "Nigeria",
-      "city": "Plateau",
       "type": "arrest",
       "title": "Nigerian суд запреты исламский полиция из arresting христианин-конверт вера, marriage отказ",
       "description": "Federal high суд described actions taken against женщина as “flagrant violation” her fundamental rights human dignity и freedom религия.",
