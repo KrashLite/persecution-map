@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-28T22:41:36.484Z",
+    "lastUpdated": "2026-09-29T02:56:24.503Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,58 @@
       "description": "Rohingya are known largely as мусульманин ethnic group forcibly driven из Myanmar. But small subset Rohingya are христианин. Numbering о 1,500 в total, these христиане comprise small fraction 1% overall Rohingya population.",
       "source": "persecution",
       "url": "https://persecution.org/2026/09/28/conditions-worsen-for-stateless-rohingya-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-28",
+      "lat": 26.655,
+      "lng": 81.0655,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "discrimination",
+      "title": "Церкви Restrict Entry Non-христиане в гонение-Hit регион",
+      "description": "В unprecedented development на прошлой неделе, more than 40 церкви в Dhamtari район central Indian штат Chhattisgarh, India, declared that богослужение is ограничен христиане only, raising eyebrows among христиане и non-христиане",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/28/churches-restrict-entry-of-non-christians-in-persecution-hit-region/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-28",
+      "lat": 10.5484,
+      "lng": 7.5326,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "New Legislation Threatens независимый Documentation гонение в Nigeria",
+      "description": "Nigeria’s сенат is advancing legislation that could significantly expand правительство oversight organizations receiving foreign funding, raising concerns that measure could affect ability церкви, humanitarian organizations, human right",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/28/new-legislation-threatens-independent-documentation-of-persecution-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-28",
+      "lat": 22.0787,
+      "lng": 96.019,
+      "country": "Myanmar",
+      "city": "Mandalay",
+      "type": "other",
+      "title": "Conditions Worsen для лицо без гражданства Rohingya христиане",
+      "description": "Rohingya are known largely as мусульманин ethnic group forcibly driven из Myanmar. But small subset Rohingya are христианин. Numbering о 1,500 в total, these христиане comprise small fraction 1% overall Rohingya population.",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/28/conditions-worsen-for-stateless-rohingya-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-28",
+      "lat": 19.2799,
+      "lng": 73.0372,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "discrimination",
+      "title": "Христианин Educational Institutions в India Face Mounting Pressure",
+      "description": "С tacit backing индус-nationalist правительство Bharatiya Janata Party (BJP) в West Bengal, focus запугивание has expanded из rural молитва meetings prestigious urban landmarks. post христианин Educational Instituti",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/09/28/christian-educational-institutions-in-india-face-mounting-pressure/",
       "victims": 0
     },
     {
@@ -563,6 +615,19 @@
       "description": "International христианин Concern’s field leader для South Asia недавно, I traveled through Nepal, India, и Bhutan as part our министерство преследуемый церковь, meeting верующие и listening realities they face because their вера",
       "source": "persecution",
       "url": "https://persecution.org/2026/09/25/seven-letters-from-the-persecuted-church/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 9.1036,
+      "lng": 9.6862,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "kidnapping",
+      "title": "Exclusive -- гонение Expert: Nigeria's похищение Boom Is Still Driven Hate для христиане",
+      "description": "Nigeria has made improvements в addressing pervasive джихадист кампании against христиане nationwide, but skyrocketing похищение rates should not be treated as mere \"security\" problem когда жертвы say their captors demand they convert, Ryan",
+      "source": "newsapi:Breitbart News",
+      "url": "https://www.breitbart.com/africa/2026/09/25/exclusive-persecution-expert-nigerias-kidnapping-boom-is-still-driven-by-hate-for-christians/",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "American христианский миссионер, Kevin Rideout, has been released U.S. чиновники после spending nine месяцы в плен в Niger. post US миссионер похищен в Niger released после nine месяцы в плен appeared первый на Vanguard",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/08/us-missionary-kidnapped-in-niger-released-after-nine-months-in-captivity/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-14",
-      "lat": 6.3685,
-      "lng": 3.1805,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Пастухи Kill Least 31 христиане в Central Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани have убит 16 христиане в плато штат, Nigeria since Aug. 2, в addition slaughters в two other штаты, sources said. armed пастухи overran five predomin",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/08/herdsmen-kill-at-least-31-christians-in-central-nigeria/",
-      "victims": 31
-    },
-    {
-      "date": "2026-08-14",
-      "lat": 23.738,
-      "lng": 90.3839,
-      "country": "Bangladesh",
-      "city": "Dhaka",
-      "type": "arrest",
-      "title": "Catholic leaders urge protection для христианин деревня атакован в Bangladesh",
-      "description": "Several homes were разграблен и разгромлен в mainly Catholic деревня после body мусульманин мужчина was found nearby, и 19 Indigenous villagers were арестован.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-leaders-urge-protection-for-christian-village-attacked-in-bangladesh",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-14",
-      "lat": 11.9172,
-      "lng": 8.3749,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Пастухи Kill Least 31 христиане в Central Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – пастухи фулани have убит 16 христиане в плато штат, Nigeria since Aug. 2, в addition slaughters в two other штаты, sources said. armed пастухи overran five predomin",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/08/herdsmen-kill-at-least-31-christians-in-central-nigeria/",
-      "victims": 31
-    },
-    {
-      "date": "2026-08-14",
-      "lat": 36.0573,
-      "lng": 36.9302,
-      "country": "Syria",
-      "city": "Aleppo",
-      "type": "arrest",
-      "title": "Baptist пастор Released из задержание в Syria",
-      "description": "Kurdish пастор has been released из Syrian тюрьма после being задержан для two недели without чиновник обвинение. пастор Nihad Hassan was visiting семья в Afrin, Syria, когда власти арестован him на июль 20. He was reportedly задержан beca",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/14/baptist-pastor-released-from-detention-in-syria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-14",
-      "lat": 31.6872,
-      "lng": 74.1475,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "arrest",
-      "title": "Первый осуждение Handed Down в Pakistan’s Jaranwala христианин Enclave атаки",
-      "description": "Pakistani anti-terrorism суд has secured its первый осуждение devastating 2023 Jaranwala riots, sentencing мусульманин мужчина десятилетие в тюрьма для снос two церкви. However, milestone ruling was мгновенно overshadowed",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/14/first-conviction-handed-down-in-pakistans-jaranwala-christian-enclave-attacks/",
       "victims": 0
     }
   ]
