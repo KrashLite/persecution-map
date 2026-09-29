@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-29T17:07:21.716Z",
+    "lastUpdated": "2026-09-29T21:35:06.783Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "Первый martyrs Americas were not миссионер священники but three young Indigenous boys в Mexico who sought spread вера they were taught и embraced 500 годы ago.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/americas/mexico-commemorates-500th-anniversary-of-child-martyrs",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-29",
+      "lat": 9.4011,
+      "lng": 9.5942,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Nigeria Advances полиция Reform as первый Constitutional Amendment Reach штаты",
+      "description": "Nigeria has taken important step toward decentralizing its policing system после National собрание transmitted constitutional amendment establishing штат полиция services all 36 штат Houses собрание для consideration. measure, fo",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/29/nigeria-advances-police-reform-as-first-constitutional-amendment-to-reach-states/",
       "victims": 0
     },
     {
@@ -155,6 +168,19 @@
       "lng": 81.0497,
       "country": "India",
       "city": "Uttar Pradesh",
+      "type": "discrimination",
+      "title": "Христианин Educational Institutions в India Face Mounting Pressure",
+      "description": "С tacit backing индус-nationalist правительство Bharatiya Janata Party (BJP) в West Bengal, focus запугивание has expanded из rural молитва meetings prestigious urban landmarks. post христианин Educational Instituti",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/09/28/christian-educational-institutions-in-india-face-mounting-pressure/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-28",
+      "lat": 21.463,
+      "lng": 81.8499,
+      "country": "India",
+      "city": "Chhattisgarh",
       "type": "discrimination",
       "title": "Христианин Educational Institutions в India Face Mounting Pressure",
       "description": "С tacit backing индус-nationalist правительство Bharatiya Janata Party (BJP) в West Bengal, focus запугивание has expanded из rural молитва meetings prestigious urban landmarks. post христианин Educational Instituti",
@@ -6478,32 +6504,6 @@
       "description": "India’s парламент has temporarily delayed action на proposed amendment country’s foreign-funding law that could significantly affect христианские служения и other organizations receiving foreign contributions. India’s Lok Sabha referred t",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/17/india-delays-problematic-fcra-amendment-bill/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-17",
-      "lat": 26.9852,
-      "lng": 81.0859,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "other",
-      "title": "India Delays Problematic FCRA Amendment Bill",
-      "description": "India’s парламент has temporarily delayed action на proposed amendment country’s foreign-funding law that could significantly affect христианские служения и other organizations receiving foreign contributions. India’s Lok Sabha referred t",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/17/india-delays-problematic-fcra-amendment-bill/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-16",
-      "lat": 12.0348,
-      "lng": 13.241,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "arrest",
-      "title": "Nigerian суд запреты исламский полиция из arresting христианин-конверт вера, marriage отказ",
-      "description": "Federal high суд described actions taken against женщина as “flagrant violation” her fundamental rights human dignity и freedom религия.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/nigerian-court-bars-islamic-police-from-arresting-christian-convert-over-faith-forced-marriage",
       "victims": 0
     }
   ]
