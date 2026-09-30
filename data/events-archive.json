@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-30T02:38:01.636Z",
+    "lastUpdated": "2026-09-30T11:27:56.729Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-09-30",
+      "lat": 18.9693,
+      "lng": 72.8493,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "other",
+      "title": "Indian церкви fearing anti-обращение laws tell non-христиане: enter your own risk",
+      "description": "Церкви в Dhamtari, посёлок в central Indian штат Chhattisgarh, have put up notices warning non-христиане that they enter their own risk, недели после law against религиозный обращение came в сила в штат.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/indian-churches-fearing-anti-conversion-laws-tell-non-christians-enter-at-your-own-risk",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-30",
+      "lat": 9.2574,
+      "lng": 7.4749,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Digital distractions could erode silence needed для молитва, Nigerian Catholic епископ warns",
+      "description": "Седьмой annual general собрание Archdiocese Abuja, епископ Anselm Umoren challenged христиане reflect на how they can preserve their вера amid rapid technological changes.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/digital-distractions-could-erode-silence-needed-for-prayer-nigerian-bishop-warns",
+      "victims": 0
+    },
     {
       "date": "2026-09-29",
       "lat": 19.2123,
@@ -25,6 +51,19 @@
       "lng": 9.5942,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "other",
+      "title": "Nigeria Advances полиция Reform as первый Constitutional Amendment Reach штаты",
+      "description": "Nigeria has taken important step toward decentralizing its policing system после National собрание transmitted constitutional amendment establishing штат полиция services all 36 штат Houses собрание для consideration. measure, fo",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/29/nigeria-advances-police-reform-as-first-constitutional-amendment-to-reach-states/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-29",
+      "lat": 11.9251,
+      "lng": 13.1141,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "other",
       "title": "Nigeria Advances полиция Reform as первый Constitutional Amendment Reach штаты",
       "description": "Nigeria has taken important step toward decentralizing its policing system после National собрание transmitted constitutional amendment establishing штат полиция services all 36 штат Houses собрание для consideration. measure, fo",
@@ -199,6 +238,32 @@
       "description": "В unprecedented development на прошлой неделе, more than 40 церкви в Dhamtari район central Indian штат Chhattisgarh, India, declared that богослужение is ограничен христиане only, raising eyebrows among христиане и non-христиане",
       "source": "persecution",
       "url": "https://persecution.org/2026/09/28/churches-restrict-entry-of-non-christians-in-persecution-hit-region/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-28",
+      "lat": 12.0961,
+      "lng": 8.4583,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "New Legislation Threatens независимый Documentation гонение в Nigeria",
+      "description": "Nigeria’s сенат is advancing legislation that could significantly expand правительство oversight organizations receiving foreign funding, raising concerns that measure could affect ability церкви, humanitarian organizations, human right",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/28/new-legislation-threatens-independent-documentation-of-persecution-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-28",
+      "lat": 21.1882,
+      "lng": 85.2196,
+      "country": "India",
+      "city": "Odisha",
+      "type": "discrimination",
+      "title": "Христианин Educational Institutions в India Face Mounting Pressure",
+      "description": "С tacit backing индус-nationalist правительство Bharatiya Janata Party (BJP) в West Bengal, focus запугивание has expanded из rural молитва meetings prestigious urban landmarks. post христианин Educational Instituti",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/09/28/christian-educational-institutions-in-india-face-mounting-pressure/",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "Despite danger earthquake’s aftershocks, священник и монахиня в Colombia entered chapel в search hosts that were kept в tabernacle that they found разрушен.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/americas/priest-and-nun-recover-sacred-hosts-from-earthquake-rubble-in-colombia",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-17",
-      "lat": 19.2581,
-      "lng": 72.6563,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "other",
-      "title": "India Delays Problematic FCRA Amendment Bill",
-      "description": "India’s парламент has temporarily delayed action на proposed amendment country’s foreign-funding law that could significantly affect христианские служения и other organizations receiving foreign contributions. India’s Lok Sabha referred t",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/17/india-delays-problematic-fcra-amendment-bill/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-17",
-      "lat": 31.2358,
-      "lng": 121.2392,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "arrest",
-      "title": "Seven христиане held incommunicado China",
-      "description": "Обвинения against those арестован have not been disclosed.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/seven-christians-held-incommunicado-by-china",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-17",
-      "lat": 43.7593,
-      "lng": 87.5954,
-      "country": "China",
-      "city": "Xinjiang",
-      "type": "arrest",
-      "title": "Seven христиане held incommunicado China",
-      "description": "Обвинения against those арестован have not been disclosed.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/seven-christians-held-incommunicado-by-china",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-17",
-      "lat": 21.0712,
-      "lng": 81.8946,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "other",
-      "title": "India Delays Problematic FCRA Amendment Bill",
-      "description": "India’s парламент has temporarily delayed action на proposed amendment country’s foreign-funding law that could significantly affect христианские служения и other organizations receiving foreign contributions. India’s Lok Sabha referred t",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/17/india-delays-problematic-fcra-amendment-bill/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-17",
-      "lat": 28.7076,
-      "lng": 77.0374,
-      "country": "India",
-      "city": "Delhi",
-      "type": "other",
-      "title": "India Delays Problematic FCRA Amendment Bill",
-      "description": "India’s парламент has temporarily delayed action на proposed amendment country’s foreign-funding law that could significantly affect христианские служения и other organizations receiving foreign contributions. India’s Lok Sabha referred t",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/17/india-delays-problematic-fcra-amendment-bill/",
       "victims": 0
     }
   ]
