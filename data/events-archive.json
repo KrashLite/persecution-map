@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-30T17:05:38.234Z",
+    "lastUpdated": "2026-09-30T21:35:39.918Z",
     "totalEvents": 500
   },
   "events": [
@@ -72,6 +72,32 @@
       "victims": 0
     },
     {
+      "date": "2026-09-30",
+      "lat": 27.9946,
+      "lng": 30.8944,
+      "country": "Egypt",
+      "city": "Minya",
+      "type": "other",
+      "title": "Egypt: Internet, христианин обращение, и гонение",
+      "description": "ICC Fellow Linda Burkle, PhD недавно, I had privilege having lunch с Caleb, who lives в Cairo, Egypt. Fluent в Arabic, Caleb министры колледж students National христианский университет, one several private христианин instit",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/30/egypt-the-internet-christian-conversion-and-persecution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-30",
+      "lat": 36.5026,
+      "lng": 43.3799,
+      "country": "Iraq",
+      "city": "Mosul",
+      "type": "discrimination",
+      "title": "Disappearing христианин Middle East, Part I: Can христианство Disappear из Land Where It Was Born?",
+      "description": "ICC Fellow Lisa Navarrette на воскресенье утро somewhere в Middle East, old церковь bell still rings. It май sound across район в northern Iraq, ancient quarter Damascus, or деревня tucked в Lebanon’s горы. Insi",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/30/the-disappearing-christian-middle-east-part-i-can-christianity-disappear-from-the-land-where-it-was-born/",
+      "victims": 0
+    },
+    {
       "date": "2026-09-29",
       "lat": 19.2123,
       "lng": -98.9636,
@@ -103,6 +129,19 @@
       "lng": 13.1141,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "other",
+      "title": "Nigeria Advances полиция Reform as первый Constitutional Amendment Reach штаты",
+      "description": "Nigeria has taken important step toward decentralizing its policing system после National собрание transmitted constitutional amendment establishing штат полиция services all 36 штат Houses собрание для consideration. measure, fo",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/29/nigeria-advances-police-reform-as-first-constitutional-amendment-to-reach-states/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-29",
+      "lat": 9.0192,
+      "lng": 7.2653,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "other",
       "title": "Nigeria Advances полиция Reform as первый Constitutional Amendment Reach штаты",
       "description": "Nigeria has taken important step toward decentralizing its policing system после National собрание transmitted constitutional amendment establishing штат полиция services all 36 штат Houses собрание для consideration. measure, fo",
@@ -6466,45 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/08/18/fulani-militias-kill-24-christians-in-governor-mutfwangs-county/",
       "victims": 24
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 9.2685,
-      "lng": 7.6973,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "kidnapping",
-      "title": "UN experts raise ‘могила concern’ violence against христианки и girls в Nigeria",
-      "description": "UN experts have raised concerns worsening violence и insecurity в Nigeria, warning that христианки и girls are among those facing elevated угроза убийства, похищение, sexual violence и вынужден marriage.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/un-experts-raise-grave-concern-over-violence-against-christian-women-and-girls-in-nigeria",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 10.5695,
-      "lng": 7.4263,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Фулани ополчения Kill 24 христиане в губернатор Mutfwang’s округ",
-      "description": "Least 24 христиане were убит в overnight атака на Bin Mper community в Kombun район Mangu округ, плато штат, округ губернатор Caleb Mutfwang, according local community leaders, as семьи gathered вторник bury victi",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/18/fulani-militias-kill-24-christians-in-governor-mutfwangs-county/",
-      "victims": 24
-    },
-    {
-      "date": "2026-08-17",
-      "lat": 9.2834,
-      "lng": 7.2876,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "VIDEO: христианство not subordinate any религия, Enenche declares",
-      "description": "Пастор Paul Enenche Dunamis International Gospel Centre declares христианство is not subordinate any религия в Nigeria, condemning divisive comment Read More: https://punchng.com/video-христианство-not-subordinate--any-религия-enenche-dec",
-      "source": "punchng",
-      "url": "https://punchng.com/video-christianity-not-subordinate-to-any-religion-enenche-declares/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
     }
   ]
 }
