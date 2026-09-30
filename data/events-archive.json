@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-30T11:27:56.729Z",
+    "lastUpdated": "2026-09-30T17:05:38.234Z",
     "totalEvents": 500
   },
   "events": [
@@ -25,6 +25,45 @@
       "lng": 7.4749,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "other",
+      "title": "Digital distractions could erode silence needed для молитва, Nigerian Catholic епископ warns",
+      "description": "Седьмой annual general собрание Archdiocese Abuja, епископ Anselm Umoren challenged христиане reflect на how they can preserve their вера amid rapid technological changes.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/digital-distractions-could-erode-silence-needed-for-prayer-nigerian-bishop-warns",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-30",
+      "lat": 21.5033,
+      "lng": 81.7074,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Indian церкви fearing anti-обращение laws tell non-христиане: enter your own risk",
+      "description": "Церкви в Dhamtari, посёлок в central Indian штат Chhattisgarh, have put up notices warning non-христиане that they enter their own risk, недели после law against религиозный обращение came в сила в штат.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/indian-churches-fearing-anti-conversion-laws-tell-non-christians-enter-at-your-own-risk",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-30",
+      "lat": 31.1849,
+      "lng": 29.9851,
+      "country": "Egypt",
+      "city": "Alexandria",
+      "type": "other",
+      "title": "Egypt: Internet, христианин обращение, и гонение",
+      "description": "ICC Fellow Linda Burkle, PhD недавно, I had privilege having lunch с Caleb, who lives в Cairo, Egypt. Fluent в Arabic, Caleb министры колледж students National христианский университет, one several private христианин instit",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/30/egypt-the-internet-christian-conversion-and-persecution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-30",
+      "lat": 11.9882,
+      "lng": 8.4609,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "other",
       "title": "Digital distractions could erode silence needed для молитва, Nigerian Catholic епископ warns",
       "description": "Седьмой annual general собрание Archdiocese Abuja, епископ Anselm Umoren challenged христиане reflect на how they can preserve their вера amid rapid technological changes.",
@@ -264,6 +303,19 @@
       "description": "С tacit backing индус-nationalist правительство Bharatiya Janata Party (BJP) в West Bengal, focus запугивание has expanded из rural молитва meetings prestigious urban landmarks. post христианин Educational Instituti",
       "source": "zenit",
       "url": "https://zenit.org/2026/09/28/christian-educational-institutions-in-india-face-mounting-pressure/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-28",
+      "lat": 19.0426,
+      "lng": 72.731,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "discrimination",
+      "title": "Церкви Restrict Entry Non-христиане в гонение-Hit регион",
+      "description": "В unprecedented development на прошлой неделе, more than 40 церкви в Dhamtari район central Indian штат Chhattisgarh, India, declared that богослужение is ограничен христиане only, raising eyebrows among христиане и non-христиане",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/28/churches-restrict-entry-of-non-christians-in-persecution-hit-region/",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "Пастор Paul Enenche Dunamis International Gospel Centre declares христианство is not subordinate any религия в Nigeria, condemning divisive comment Read More: https://punchng.com/video-христианство-not-subordinate--any-религия-enenche-dec",
       "source": "punchng",
       "url": "https://punchng.com/video-christianity-not-subordinate-to-any-religion-enenche-declares/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-17",
-      "lat": 6.5308,
-      "lng": 3.1765,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Христианин group congratulates Adeleke на Osun re-election",
-      "description": "Христианин group, OAIC Nigeria регион, congratulates Osun штат губернатор Ademola Adeleke на his re-election, praising his leadership и renewed mandate. Read More: https://punchng.com/христианин-group-congratulates-adeleke-на-osun-re-election/",
-      "source": "punchng",
-      "url": "https://punchng.com/christian-group-congratulates-adeleke-on-osun-re-election/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-17",
-      "lat": 23.252,
-      "lng": 113.8321,
-      "country": "China",
-      "city": "Guangdong",
-      "type": "arrest",
-      "title": "Seven христиане held incommunicado China",
-      "description": "Обвинения against those арестован have not been disclosed.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/seven-christians-held-incommunicado-by-china",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-17",
-      "lat": 13.3998,
-      "lng": 2.1753,
-      "country": "Niger",
-      "city": "Niamey",
-      "type": "kidnapping",
-      "title": "Похищен U.S. миссионер Pilot Freed в Niger",
-      "description": "Kevin Rideout, American миссионер pilot based в Niamey, Niger, was недавно released после spending nine месяцы в плен. Three armed мужчины похищен Rideout из outside his home на Oct. 21, 2025. Serving в Mission (SIM) USA, North Carolin",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/17/kidnapped-u-s-missionary-pilot-freed-in-niger/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-17",
-      "lat": 4.9144,
-      "lng": -73.8708,
-      "country": "Colombia",
-      "city": "Bogota",
-      "type": "attack",
-      "title": "Священник и монахиня recover sacred hosts из earthquake rubble в Colombia",
-      "description": "Despite danger earthquake’s aftershocks, священник и монахиня в Colombia entered chapel в search hosts that were kept в tabernacle that they found разрушен.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/americas/priest-and-nun-recover-sacred-hosts-from-earthquake-rubble-in-colombia",
       "victims": 0
     }
   ]
