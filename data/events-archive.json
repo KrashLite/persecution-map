@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-29T21:35:06.783Z",
+    "lastUpdated": "2026-09-30T02:38:01.636Z",
     "totalEvents": 500
   },
   "events": [
@@ -189,6 +189,19 @@
       "victims": 0
     },
     {
+      "date": "2026-09-28",
+      "lat": 28.6352,
+      "lng": 77.1556,
+      "country": "India",
+      "city": "Delhi",
+      "type": "discrimination",
+      "title": "Церкви Restrict Entry Non-христиане в гонение-Hit регион",
+      "description": "В unprecedented development на прошлой неделе, more than 40 церкви в Dhamtari район central Indian штат Chhattisgarh, India, declared that богослужение is ограничен христиане only, raising eyebrows among христиане и non-христиане",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/28/churches-restrict-entry-of-non-christians-in-persecution-hit-region/",
+      "victims": 0
+    },
+    {
       "date": "2026-09-27",
       "lat": 35.6713,
       "lng": 44.3991,
@@ -233,6 +246,19 @@
       "lng": 44.1365,
       "country": "Iraq",
       "city": "Baghdad",
+      "type": "other",
+      "title": "Для Iraq’s христиане, архиепископ Warda says long-term stability requires jobs",
+      "description": "Архиепископ Bashar Warda Erbil called для investment в future young христиане в Iraq, pointing structure country’s economy as part problem.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/iraqi-christians-require-jobs-and-education-for-long-term-stability-erbil-archbishop-says",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-27",
+      "lat": 36.4237,
+      "lng": 42.9831,
+      "country": "Iraq",
+      "city": "Mosul",
       "type": "other",
       "title": "Для Iraq’s христиане, архиепископ Warda says long-term stability requires jobs",
       "description": "Архиепископ Bashar Warda Erbil called для investment в future young христиане в Iraq, pointing structure country’s economy as part problem.",
@@ -6473,32 +6499,6 @@
       "lng": 77.0374,
       "country": "India",
       "city": "Delhi",
-      "type": "other",
-      "title": "India Delays Problematic FCRA Amendment Bill",
-      "description": "India’s парламент has temporarily delayed action на proposed amendment country’s foreign-funding law that could significantly affect христианские служения и other organizations receiving foreign contributions. India’s Lok Sabha referred t",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/17/india-delays-problematic-fcra-amendment-bill/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-17",
-      "lat": 40.1341,
-      "lng": 116.6302,
-      "country": "China",
-      "city": "Beijing",
-      "type": "arrest",
-      "title": "Seven христиане held incommunicado China",
-      "description": "Обвинения against those арестован have not been disclosed.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/seven-christians-held-incommunicado-by-china",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-17",
-      "lat": 21.1142,
-      "lng": 85.2807,
-      "country": "India",
-      "city": "Odisha",
       "type": "other",
       "title": "India Delays Problematic FCRA Amendment Bill",
       "description": "India’s парламент has temporarily delayed action на proposed amendment country’s foreign-funding law that could significantly affect христианские служения и other organizations receiving foreign contributions. India’s Lok Sabha referred t",
