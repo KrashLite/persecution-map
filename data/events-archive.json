@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-01T02:41:26.377Z",
+    "lastUpdated": "2026-10-01T11:55:28.437Z",
     "totalEvents": 500
   },
   "events": [
@@ -95,6 +95,45 @@
       "description": "ICC Fellow Lisa Navarrette на воскресенье утро somewhere в Middle East, old церковь bell still rings. It май sound across район в northern Iraq, ancient quarter Damascus, or деревня tucked в Lebanon’s горы. Insi",
       "source": "persecution",
       "url": "https://persecution.org/2026/09/30/the-disappearing-christian-middle-east-part-i-can-christianity-disappear-from-the-land-where-it-was-born/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-30",
+      "lat": 23.3701,
+      "lng": 113.8311,
+      "country": "China",
+      "city": "Guangdong",
+      "type": "arrest",
+      "title": "Beijing полиция задержан пастор и Seven церковь Members as They Set Up Their 20th Anniversary Service",
+      "description": "Beijing пастор и seven members his церковь have been held в criminal задержание для nearly месяц после полиция broke up preparations для подпольная церковь’s 20th anniversary celebration, according letter из пастор’s wife publis",
+      "source": "newsapi:Relevantmagazine.com",
+      "url": "https://relevantmagazine.com/faith/church/a-beijing-church-was-setting-up-its-20th-birthday-party-more-than-100-police-showed-up-instead/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-30",
+      "lat": 35.944,
+      "lng": 43.8233,
+      "country": "Iraq",
+      "city": "Erbil",
+      "type": "discrimination",
+      "title": "Disappearing христианин Middle East, Part I: Can христианство Disappear из Land Where It Was Born?",
+      "description": "ICC Fellow Lisa Navarrette на воскресенье утро somewhere в Middle East, old церковь bell still rings. It май sound across район в northern Iraq, ancient quarter Damascus, or деревня tucked в Lebanon’s горы. Insi",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/30/the-disappearing-christian-middle-east-part-i-can-christianity-disappear-from-the-land-where-it-was-born/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-30",
+      "lat": 6.3115,
+      "lng": 3.1722,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Digital distractions could erode silence needed для молитва, Nigerian Catholic епископ warns",
+      "description": "Седьмой annual general собрание Archdiocese Abuja, епископ Anselm Umoren challenged христиане reflect на how they can preserve their вера amid rapid technological changes.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/digital-distractions-could-erode-silence-needed-for-prayer-nigerian-bishop-warns",
       "victims": 0
     },
     {
@@ -368,6 +407,19 @@
       "description": "В unprecedented development на прошлой неделе, more than 40 церкви в Dhamtari район central Indian штат Chhattisgarh, India, declared that богослужение is ограничен христиане only, raising eyebrows among христиане и non-христиане",
       "source": "persecution",
       "url": "https://persecution.org/2026/09/28/churches-restrict-entry-of-non-christians-in-persecution-hit-region/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-28",
+      "lat": 6.7153,
+      "lng": 3.5947,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "New Legislation Threatens независимый Documentation гонение в Nigeria",
+      "description": "Nigeria’s сенат is advancing legislation that could significantly expand правительство oversight organizations receiving foreign funding, raising concerns that measure could affect ability церкви, humanitarian organizations, human right",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/28/new-legislation-threatens-independent-documentation-of-persecution-in-nigeria/",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "UN experts have raised concerns worsening violence и insecurity в Nigeria, warning that христианки и girls are among those facing elevated угроза убийства, похищение, sexual violence и вынужден marriage.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/un-experts-raise-grave-concern-over-violence-against-christian-women-and-girls-in-nigeria",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 12.0056,
-      "lng": 8.5565,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "Catholic Relief Services receives share $1.4 billion в aid вера‑based groups",
-      "description": "Funding will help improve больницы, клиники, и health networks в rural parts Cameroon, Liberia, и Nigeria, working as part group вера-based organizations, CRS представитель said.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/catholic-relief-services-receives-share-aid-to-faith-based-groups",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 6.7589,
-      "lng": 3.441,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Фулани ополчения Kill 24 христиане в губернатор Mutfwang’s округ",
-      "description": "Least 24 христиане were убит в overnight атака на Bin Mper community в Kombun район Mangu округ, плато штат, округ губернатор Caleb Mutfwang, according local community leaders, as семьи gathered вторник bury victi",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/18/fulani-militias-kill-24-christians-in-governor-mutfwangs-county/",
-      "victims": 24
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 43.6268,
-      "lng": 87.3993,
-      "country": "China",
-      "city": "Xinjiang",
-      "type": "arrest",
-      "title": "' party is в обвинение everything,' freed пастор says China's crackdown на религия",
-      "description": "China недавно took rare step releasing detainee United штаты' request. пастор Ezra Jin Mingri was picked up Chinese власти последний октябрь, one dozens христиане targeted Chinese коммунист Party, which only allows au",
-      "source": "newsapi:PBS",
-      "url": "https://www.pbs.org/newshour/show/the-party-is-in-charge-of-everything-freed-pastor-says-of-chinas-crackdown-on-religion",
-      "victims": 24
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 11.9042,
-      "lng": 8.5406,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "US lawmaker opposes lifting Nigeria’s CPC status после плато атака",
-      "description": "Following deadly плато атака, US lawmaker opposes lifting Nigeria’s Country Particular Concern (CPC) status, citing ongoing христианин гонение Read More: https://punchng.com/us-lawmaker-opposes-lifting-nigerias-cpc-status-после-плато-",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-lawmaker-opposes-lifting-nigerias-cpc-status-after-plateau-attack/",
       "victims": 0
     }
   ]
