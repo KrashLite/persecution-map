@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-01T11:55:28.437Z",
+    "lastUpdated": "2026-10-01T17:35:41.933Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-10-01",
+      "lat": 11.9539,
+      "lng": 8.7105,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Nigeria @66: Make prosperity felt в every home, CAN urges FG",
+      "description": "Христианин Association Nigeria has urged Federal правительство reduce food и energy costs и improve security mark Nigeria’s 66th anniversa Read More: https://punchng.com/nigeria-66-make-prosperity-felt-в-every-home-can-urges-fg/",
+      "source": "punchng",
+      "url": "https://punchng.com/nigeria-66-make-prosperity-felt-in-every-home-can-urges-fg/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-09-30",
       "lat": 18.9693,
@@ -137,6 +150,45 @@
       "victims": 0
     },
     {
+      "date": "2026-09-30",
+      "lat": 20.7318,
+      "lng": 85.0072,
+      "country": "India",
+      "city": "Odisha",
+      "type": "other",
+      "title": "Indian церкви fearing anti-обращение laws tell non-христиане: enter your own risk",
+      "description": "Церкви в Dhamtari, посёлок в central Indian штат Chhattisgarh, have put up notices warning non-христиане that they enter their own risk, недели после law against религиозный обращение came в сила в штат.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/indian-churches-fearing-anti-conversion-laws-tell-non-christians-enter-at-your-own-risk",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-30",
+      "lat": 39.8464,
+      "lng": 116.6255,
+      "country": "China",
+      "city": "Beijing",
+      "type": "arrest",
+      "title": "Beijing полиция задержан пастор и Seven церковь Members as They Set Up Their 20th Anniversary Service",
+      "description": "Beijing пастор и seven members his церковь have been held в criminal задержание для nearly месяц после полиция broke up preparations для подпольная церковь’s 20th anniversary celebration, according letter из пастор’s wife publis",
+      "source": "newsapi:Relevantmagazine.com",
+      "url": "https://relevantmagazine.com/faith/church/a-beijing-church-was-setting-up-its-20th-birthday-party-more-than-100-police-showed-up-instead/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-30",
+      "lat": 33.0691,
+      "lng": 44.2821,
+      "country": "Iraq",
+      "city": "Baghdad",
+      "type": "discrimination",
+      "title": "Disappearing христианин Middle East, Part I: Can христианство Disappear из Land Where It Was Born?",
+      "description": "ICC Fellow Lisa Navarrette на воскресенье утро somewhere в Middle East, old церковь bell still rings. It май sound across район в northern Iraq, ancient quarter Damascus, or деревня tucked в Lebanon’s горы. Insi",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/30/the-disappearing-christian-middle-east-part-i-can-christianity-disappear-from-the-land-where-it-was-born/",
+      "victims": 0
+    },
+    {
       "date": "2026-09-29",
       "lat": 19.2123,
       "lng": -98.9636,
@@ -194,6 +246,19 @@
       "lng": 7.521,
       "country": "Nigeria",
       "city": "Kaduna",
+      "type": "other",
+      "title": "Nigeria Advances полиция Reform as первый Constitutional Amendment Reach штаты",
+      "description": "Nigeria has taken important step toward decentralizing its policing system после National собрание transmitted constitutional amendment establishing штат полиция services all 36 штат Houses собрание для consideration. measure, fo",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/29/nigeria-advances-police-reform-as-first-constitutional-amendment-to-reach-states/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-29",
+      "lat": 11.87,
+      "lng": 8.6573,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "other",
       "title": "Nigeria Advances полиция Reform as первый Constitutional Amendment Reach штаты",
       "description": "Nigeria has taken important step toward decentralizing its policing system после National собрание transmitted constitutional amendment establishing штат полиция services all 36 штат Houses собрание для consideration. measure, fo",
@@ -6440,71 +6505,6 @@
       "source": "newsapi:PBS",
       "url": "https://www.pbs.org/newshour/show/the-party-is-in-charge-of-everything-freed-pastor-says-of-chinas-crackdown-on-religion",
       "victims": 24
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 33.8004,
-      "lng": 71.2954,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "murder",
-      "title": "Details Given в Acquittal в убийство христианин Couple в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Pakistan’s Supreme суд на четверг (Aug. 13) provided details на июль 9 acquittal three мусульмане приговорён смерть для 2014 сожжение alive христианин couple. Citing",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/08/details-given-in-acquittal-in-killing-of-christian-couple-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 8.9051,
-      "lng": 7.2423,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "US lawmaker opposes lifting Nigeria’s CPC status после плато атака",
-      "description": "Following deadly плато атака, US lawmaker opposes lifting Nigeria’s Country Particular Concern (CPC) status, citing ongoing христианин гонение Read More: https://punchng.com/us-lawmaker-opposes-lifting-nigerias-cpc-status-после-плато-",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-lawmaker-opposes-lifting-nigerias-cpc-status-after-plateau-attack/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 6.5342,
-      "lng": 3.3665,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "US lawmaker opposes lifting Nigeria’s CPC status после плато атака",
-      "description": "Following deadly плато атака, US lawmaker opposes lifting Nigeria’s Country Particular Concern (CPC) status, citing ongoing христианин гонение Read More: https://punchng.com/us-lawmaker-opposes-lifting-nigerias-cpc-status-после-плато-",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/us-lawmaker-opposes-lifting-nigerias-cpc-status-after-plateau-attack/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 31.2458,
-      "lng": 121.6408,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "arrest",
-      "title": "' party is в обвинение everything,' freed пастор says China's crackdown на религия",
-      "description": "China недавно took rare step releasing detainee United штаты' request. пастор Ezra Jin Mingri was picked up Chinese власти последний октябрь, one dozens христиане targeted Chinese коммунист Party, which only allows au",
-      "source": "newsapi:PBS",
-      "url": "https://www.pbs.org/newshour/show/the-party-is-in-charge-of-everything-freed-pastor-says-of-chinas-crackdown-on-religion",
-      "victims": 24
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 11.8241,
-      "lng": 8.779,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "kidnapping",
-      "title": "UN experts raise ‘могила concern’ violence against христианки и girls в Nigeria",
-      "description": "UN experts have raised concerns worsening violence и insecurity в Nigeria, warning that христианки и girls are among those facing elevated угроза убийства, похищение, sexual violence и вынужден marriage.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/un-experts-raise-grave-concern-over-violence-against-christian-women-and-girls-in-nigeria",
-      "victims": 0
     }
   ]
 }
