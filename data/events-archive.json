@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-09-30T21:35:39.918Z",
+    "lastUpdated": "2026-10-01T02:41:26.377Z",
     "totalEvents": 500
   },
   "events": [
@@ -142,6 +142,19 @@
       "lng": 7.2653,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "other",
+      "title": "Nigeria Advances полиция Reform as первый Constitutional Amendment Reach штаты",
+      "description": "Nigeria has taken important step toward decentralizing its policing system после National собрание transmitted constitutional amendment establishing штат полиция services all 36 штат Houses собрание для consideration. measure, fo",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/29/nigeria-advances-police-reform-as-first-constitutional-amendment-to-reach-states/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-29",
+      "lat": 10.632,
+      "lng": 7.521,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "other",
       "title": "Nigeria Advances полиция Reform as первый Constitutional Amendment Reach штаты",
       "description": "Nigeria has taken important step toward decentralizing its policing system после National собрание transmitted constitutional amendment establishing штат полиция services all 36 штат Houses собрание для consideration. measure, fo",
@@ -909,6 +922,19 @@
       "lng": 74.5977,
       "country": "Pakistan",
       "city": "Lahore",
+      "type": "kidnapping",
+      "title": "Церковь England leader honored cleric linked Pakistani gang – Telegraph",
+      "description": "Pakistani мусульманин cleric honored архиепископ Canterbury has reportedly been accused protecting alleged extortion gang linked похищения и пытки",
+      "source": "newsapi:RT",
+      "url": "https://www.rt.com/news/646257-church-of-england-pakistani-gang/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-25",
+      "lat": 24.8476,
+      "lng": 66.9309,
+      "country": "Pakistan",
+      "city": "Karachi",
       "type": "kidnapping",
       "title": "Церковь England leader honored cleric linked Pakistani gang – Telegraph",
       "description": "Pakistani мусульманин cleric honored архиепископ Canterbury has reportedly been accused protecting alleged extortion gang linked похищения и пытки",
@@ -6479,32 +6505,6 @@
       "source": "newsapi:The Punch",
       "url": "https://punchng.com/us-lawmaker-opposes-lifting-nigerias-cpc-status-after-plateau-attack/",
       "victims": 0
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 11.9463,
-      "lng": 13.3252,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "Catholic Relief Services receives share $1.4 billion в aid вера‑based groups",
-      "description": "Funding will help improve больницы, клиники, и health networks в rural parts Cameroon, Liberia, и Nigeria, working as part group вера-based organizations, CRS представитель said.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/catholic-relief-services-receives-share-aid-to-faith-based-groups",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 8.9954,
-      "lng": 9.6153,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Фулани ополчения Kill 24 христиане в губернатор Mutfwang’s округ",
-      "description": "Least 24 христиане were убит в overnight атака на Bin Mper community в Kombun район Mangu округ, плато штат, округ губернатор Caleb Mutfwang, according local community leaders, as семьи gathered вторник bury victi",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/18/fulani-militias-kill-24-christians-in-governor-mutfwangs-county/",
-      "victims": 24
     }
   ]
 }
