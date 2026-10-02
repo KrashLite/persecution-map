@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-02T02:45:44.613Z",
+    "lastUpdated": "2026-10-02T11:27:31.736Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,32 @@
       "description": "Христианин Association Nigeria has urged Federal правительство prioritise reductions в cost food, transportation и energy as country marks its 66th Independence Anniversary. It also asked правительство strengthen social pr",
       "source": "punchng",
       "url": "https://punchng.com/nigeria-66-can-demands-lower-food-transport-costs/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-02",
+      "lat": 36.2076,
+      "lng": 43.0376,
+      "country": "Iraq",
+      "city": "Mosul",
+      "type": "discrimination",
+      "title": "Disappearing христианин Middle East Part II: Iraq — из Ancient христианин Homeland Exodus",
+      "description": "ICC Fellow Lisa Navarrette на ordinary август вечер в 2014, Mariam was preparing dinner пока her husband, Nabil, закрыт small repair shop his семья had owned для десятилетия. Their two дети were arguing who would use televis",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/02/the-disappearing-christian-middle-east-part-ii-iraq-from-ancient-christian-homeland-to-exodus/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-02",
+      "lat": 43.7499,
+      "lng": 87.574,
+      "country": "China",
+      "city": "Xinjiang",
+      "type": "arrest",
+      "title": "Chinese пастор задержан для ‘Organizing Illegal религиозный Activities’",
+      "description": "Yankui was his home когда чиновники арестован him 10:30.m. на Sept. 29 для investigation на suspicion “organizing illegal религиозный activities,” according полиция record presented time арест. record justifies th",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/02/chinese-pastor-detained-for-organizing-illegal-religious-activities/",
       "victims": 0
     },
     {
@@ -280,6 +306,19 @@
       "victims": 150
     },
     {
+      "date": "2026-09-30",
+      "lat": 31.0035,
+      "lng": 121.5109,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "arrest",
+      "title": "Beijing полиция задержан пастор и Seven церковь Members as They Set Up Their 20th Anniversary Service",
+      "description": "Beijing пастор и seven members his церковь have been held в criminal задержание для nearly месяц после полиция broke up preparations для подпольная церковь’s 20th anniversary celebration, according letter из пастор’s wife publis",
+      "source": "newsapi:Relevantmagazine.com",
+      "url": "https://relevantmagazine.com/faith/church/a-beijing-church-was-setting-up-its-20th-birthday-party-more-than-100-police-showed-up-instead/",
+      "victims": 0
+    },
+    {
       "date": "2026-09-29",
       "lat": 19.2123,
       "lng": -98.9636,
@@ -350,6 +389,19 @@
       "lng": 8.6573,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "other",
+      "title": "Nigeria Advances полиция Reform as первый Constitutional Amendment Reach штаты",
+      "description": "Nigeria has taken important step toward decentralizing its policing system после National собрание transmitted constitutional amendment establishing штат полиция services all 36 штат Houses собрание для consideration. measure, fo",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/29/nigeria-advances-police-reform-as-first-constitutional-amendment-to-reach-states/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-29",
+      "lat": 6.4332,
+      "lng": 3.6136,
+      "country": "Nigeria",
+      "city": "Lagos",
       "type": "other",
       "title": "Nigeria Advances полиция Reform as первый Constitutional Amendment Reach штаты",
       "description": "Nigeria has taken important step toward decentralizing its policing system после National собрание transmitted constitutional amendment establishing штат полиция services all 36 штат Houses собрание для consideration. measure, fo",
@@ -6447,58 +6499,6 @@
       "lng": 9.2874,
       "country": "Nigeria",
       "city": "Plateau",
-      "type": "other",
-      "title": "Catholic Relief Services receives share $1.4 billion в aid вера‑based groups",
-      "description": "Funding will help improve больницы, клиники, и health networks в rural parts Cameroon, Liberia, и Nigeria, working as part group вера-based organizations, CRS представитель said.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/catholic-relief-services-receives-share-aid-to-faith-based-groups",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 33.8931,
-      "lng": 73.1844,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "murder",
-      "title": "Details Given в Acquittal в убийство христианин Couple в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Pakistan’s Supreme суд на четверг (Aug. 13) provided details на июль 9 acquittal three мусульмане приговорён смерть для 2014 сожжение alive христианин couple. Citing",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/08/details-given-in-acquittal-in-killing-of-christian-couple-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 10.4538,
-      "lng": 7.5891,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "kidnapping",
-      "title": "UN experts raise ‘могила concern’ violence against христианки и girls в Nigeria",
-      "description": "UN experts have raised concerns worsening violence и insecurity в Nigeria, warning that христианки и girls are among those facing elevated угроза убийства, похищение, sexual violence и вынужден marriage.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/un-experts-raise-grave-concern-over-violence-against-christian-women-and-girls-in-nigeria",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 19.2244,
-      "lng": 72.9446,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "other",
-      "title": "Церковь в India Opposes Singing Controversial National Song",
-      "description": "На Aug. 13, Nagaland баптистская церковь совет (NBCC) said it opposed directives requiring singing or playing индус-nationalist song “Vande Mataram” чиновник events в India. NBCC, из majority христианин штат Nagaland, joi",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/18/church-in-india-opposes-singing-of-controversial-national-song/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 9.2799,
-      "lng": 7.735,
-      "country": "Nigeria",
-      "city": "Abuja",
       "type": "other",
       "title": "Catholic Relief Services receives share $1.4 billion в aid вера‑based groups",
       "description": "Funding will help improve больницы, клиники, и health networks в rural parts Cameroon, Liberia, и Nigeria, working as part group вера-based organizations, CRS представитель said.",
