@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-01T22:04:15.861Z",
+    "lastUpdated": "2026-10-02T02:45:44.613Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-10-02",
+      "lat": 12.194,
+      "lng": 8.3527,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Nigeria @66: CAN demands lower food, transport costs",
+      "description": "Христианин Association Nigeria has urged Federal правительство prioritise reductions в cost food, transportation и energy as country marks its 66th Independence Anniversary. It also asked правительство strengthen social pr",
+      "source": "punchng",
+      "url": "https://punchng.com/nigeria-66-can-demands-lower-food-transport-costs/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-10-01",
       "lat": 11.9539,
@@ -233,6 +246,32 @@
       "lng": 3.5539,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "other",
+      "title": "Гонение: Trump’s pressure на Nigeria just saved hundreds христиане’ lives",
+      "description": "Для первый time, правительство is acknowledging и acting ' counter' угрозы",
+      "source": "newsapi:Wnd.com",
+      "url": "https://www.wnd.com/2026/09/persecution-trumps-pressure-nigeria-just-saved-hundreds-christians/",
+      "victims": 150
+    },
+    {
+      "date": "2026-09-30",
+      "lat": 26.8178,
+      "lng": 81.0872,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "other",
+      "title": "Indian церкви fearing anti-обращение laws tell non-христиане: enter your own risk",
+      "description": "Церкви в Dhamtari, посёлок в central Indian штат Chhattisgarh, have put up notices warning non-христиане that they enter their own risk, недели после law against религиозный обращение came в сила в штат.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/indian-churches-fearing-anti-conversion-laws-tell-non-christians-enter-at-your-own-risk",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-30",
+      "lat": 11.9561,
+      "lng": 13.2051,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "other",
       "title": "Гонение: Trump’s pressure на Nigeria just saved hundreds христиане’ lives",
       "description": "Для первый time, правительство is acknowledging и acting ' counter' угрозы",
@@ -532,6 +571,19 @@
       "lng": 3.5947,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "other",
+      "title": "New Legislation Threatens независимый Documentation гонение в Nigeria",
+      "description": "Nigeria’s сенат is advancing legislation that could significantly expand правительство oversight organizations receiving foreign funding, raising concerns that measure could affect ability церкви, humanitarian organizations, human right",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/09/28/new-legislation-threatens-independent-documentation-of-persecution-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-28",
+      "lat": 9.1688,
+      "lng": 7.2823,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "other",
       "title": "New Legislation Threatens независимый Documentation гонение в Nigeria",
       "description": "Nigeria’s сенат is advancing legislation that could significantly expand правительство oversight organizations receiving foreign funding, raising concerns that measure could affect ability церкви, humanitarian organizations, human right",
@@ -6452,58 +6504,6 @@
       "description": "Funding will help improve больницы, клиники, и health networks в rural parts Cameroon, Liberia, и Nigeria, working as part group вера-based organizations, CRS представитель said.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/catholic-relief-services-receives-share-aid-to-faith-based-groups",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 28.7005,
-      "lng": 77.2909,
-      "country": "India",
-      "city": "Delhi",
-      "type": "other",
-      "title": "Церковь в India Opposes Singing Controversial National Song",
-      "description": "На Aug. 13, Nagaland баптистская церковь совет (NBCC) said it opposed directives requiring singing or playing индус-nationalist song “Vande Mataram” чиновник events в India. NBCC, из majority христианин штат Nagaland, joi",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/18/church-in-india-opposes-singing-of-controversial-national-song/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 10.3572,
-      "lng": 7.3733,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Catholic Relief Services receives share $1.4 billion в aid вера‑based groups",
-      "description": "Funding will help improve больницы, клиники, и health networks в rural parts Cameroon, Liberia, и Nigeria, working as part group вера-based organizations, CRS представитель said.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/catholic-relief-services-receives-share-aid-to-faith-based-groups",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 11.8389,
-      "lng": 13.3774,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Фулани ополчения Kill 24 христиане в губернатор Mutfwang’s округ",
-      "description": "Least 24 христиане were убит в overnight атака на Bin Mper community в Kombun район Mangu округ, плато штат, округ губернатор Caleb Mutfwang, according local community leaders, as семьи gathered вторник bury victi",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/18/fulani-militias-kill-24-christians-in-governor-mutfwangs-county/",
-      "victims": 24
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 26.605,
-      "lng": 80.8771,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "other",
-      "title": "Церковь в India Opposes Singing Controversial National Song",
-      "description": "На Aug. 13, Nagaland баптистская церковь совет (NBCC) said it opposed directives requiring singing or playing индус-nationalist song “Vande Mataram” чиновник events в India. NBCC, из majority христианин штат Nagaland, joi",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/18/church-in-india-opposes-singing-of-controversial-national-song/",
       "victims": 0
     }
   ]
