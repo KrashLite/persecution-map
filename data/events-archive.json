@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-03T15:18:42.002Z",
+    "lastUpdated": "2026-10-03T20:18:29.459Z",
     "totalEvents": 500
   },
   "events": [
@@ -56,6 +56,19 @@
       "description": "Плато-based cleric who has repeatedly spoken out убийства в штат, Rev. Ezekiel Dachomo, has travelled Israel для what he described as his первый international христианин advocacy tour. Dachomo disclosed this в Facebook post на Frid",
       "source": "punchng",
       "url": "https://punchng.com/plateau-cleric-who-lost-relatives-in-attack-visits-israel-prays-for-netanyahu-tinubu/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-03",
+      "lat": 4.1685,
+      "lng": 18.5413,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "murder",
+      "title": "Latin Patriarchate mourns two христианки убит в Gaza город strike",
+      "description": "Two женщины had reportedly stayed Holy семья католическая церковь до moving в apartment where strike was carried out.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/latin-patriarchate-mourns-two-christian-women-killed-in-gaza-city-strike",
       "victims": 0
     },
     {
@@ -199,6 +212,19 @@
       "description": "ICC Fellow Lisa Navarrette на ordinary август вечер в 2014, Mariam was preparing dinner пока her husband, Nabil, закрыт small repair shop his семья had owned для десятилетия. Their two дети were arguing who would use televis",
       "source": "persecution",
       "url": "https://persecution.org/2026/10/02/the-disappearing-christian-middle-east-part-ii-iraq-from-ancient-christian-homeland-to-exodus/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-02",
+      "lat": 9.1226,
+      "lng": 7.4197,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "arrest",
+      "title": "EXCLUSIVE: Nigerian Leaders Turn на Alleged ‘христианин-убийство’ Warlord после U.S. Pressure According Whistleblower",
+      "description": "Nigerian правительство is beginning take action defend its христиане, including арест alleged commander террорист group.",
+      "source": "newsapi:The Daily Caller",
+      "url": "https://dailycaller.com/2026/10/02/nigeria-christian-persecution-hassan-fulani-terrorism-mahmoud-adam-shehu-buba-whistle-blower",
       "victims": 0
     },
     {
@@ -6473,32 +6499,6 @@
       "lng": 72.9161,
       "country": "India",
       "city": "Mumbai",
-      "type": "discrimination",
-      "title": "Finding Shelter после Storm",
-      "description": "Around 11.m. на Feb. 26, толпа nearly 200 индусы surrounded Faizal’s house в central Indian штат Chhattisgarh. They угрожали him, demanding that he renounce Jesus и reconvert индуизм. когда Faizal отказано abandon his вера, th",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/19/finding-shelter-after-the-storm/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-19",
-      "lat": 21.3394,
-      "lng": 81.9959,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "discrimination",
-      "title": "Finding Shelter после Storm",
-      "description": "Around 11.m. на Feb. 26, толпа nearly 200 индусы surrounded Faizal’s house в central Indian штат Chhattisgarh. They угрожали him, demanding that he renounce Jesus и reconvert индуизм. когда Faizal отказано abandon his вера, th",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/19/finding-shelter-after-the-storm/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-19",
-      "lat": 28.5741,
-      "lng": 76.9002,
-      "country": "India",
-      "city": "Delhi",
       "type": "discrimination",
       "title": "Finding Shelter после Storm",
       "description": "Around 11.m. на Feb. 26, толпа nearly 200 индусы surrounded Faizal’s house в central Indian штат Chhattisgarh. They угрожали him, demanding that he renounce Jesus и reconvert индуизм. когда Faizal отказано abandon his вера, th",
