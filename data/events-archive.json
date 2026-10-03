@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-02T21:32:06.306Z",
+    "lastUpdated": "2026-10-03T02:32:45.749Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-10-03",
+      "lat": 10.4432,
+      "lng": 7.3135,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Hamzat backs церковь’s N2bn endowment fund",
+      "description": "Lagos Deputy губернатор, Obafemi Hamzat, has backed N2bn endowment fund Knights St. Mulumba support vulnerable Nigerians. Read More: https://punchng.com/hamzat-backs-churchs-n2bn-endowment-fund/",
+      "source": "punchng",
+      "url": "https://punchng.com/hamzat-backs-churchs-n2bn-endowment-fund/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-10-02",
       "lat": 12.194,
@@ -64,6 +77,32 @@
       "lng": 113.8044,
       "country": "China",
       "city": "Guangdong",
+      "type": "arrest",
+      "title": "Chinese пастор задержан для ‘Organizing Illegal религиозный Activities’",
+      "description": "Yankui was his home когда чиновники арестован him 10:30.m. на Sept. 29 для investigation на suspicion “organizing illegal религиозный activities,” according полиция record presented time арест. record justifies th",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/02/chinese-pastor-detained-for-organizing-illegal-religious-activities/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-02",
+      "lat": 33.4091,
+      "lng": 36.048,
+      "country": "Syria",
+      "city": "Damascus",
+      "type": "other",
+      "title": "Disappearing христианин Middle East, Part III: Syria — War, перемещение, и Vanishing христианская община",
+      "description": "ICC Fellow Lisa Navarrette на воскресенье, июнь 22, 2025, христиане gathered для богослужение inside Mar Elias Greek православная церковь в Damascus. семьи sat together, молитвы were spoken, и familiar rhythms богослужение continued в город с h",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/02/the-disappearing-christian-middle-east-part-iii-syria-war-displacement-and-a-vanishing-christian-community/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-02",
+      "lat": 31.0579,
+      "lng": 121.6011,
+      "country": "China",
+      "city": "Shanghai",
       "type": "arrest",
       "title": "Chinese пастор задержан для ‘Organizing Illegal религиозный Activities’",
       "description": "Yankui was his home когда чиновники арестован him 10:30.m. на Sept. 29 для investigation на suspicion “organizing illegal религиозный activities,” according полиция record presented time арест. record justifies th",
@@ -369,6 +408,32 @@
       "source": "newsapi:Wnd.com",
       "url": "https://www.wnd.com/2026/09/persecution-trumps-pressure-nigeria-just-saved-hundreds-christians/",
       "victims": 150
+    },
+    {
+      "date": "2026-09-30",
+      "lat": 44.0206,
+      "lng": 87.5213,
+      "country": "China",
+      "city": "Xinjiang",
+      "type": "arrest",
+      "title": "Beijing полиция задержан пастор и Seven церковь Members as They Set Up Their 20th Anniversary Service",
+      "description": "Beijing пастор и seven members his церковь have been held в criminal задержание для nearly месяц после полиция broke up preparations для подпольная церковь’s 20th anniversary celebration, according letter из пастор’s wife publis",
+      "source": "newsapi:Relevantmagazine.com",
+      "url": "https://relevantmagazine.com/faith/church/a-beijing-church-was-setting-up-its-20th-birthday-party-more-than-100-police-showed-up-instead/",
+      "victims": 0
+    },
+    {
+      "date": "2026-09-30",
+      "lat": 11.7507,
+      "lng": 13.06,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "Digital distractions could erode silence needed для молитва, Nigerian Catholic епископ warns",
+      "description": "Седьмой annual general собрание Archdiocese Abuja, епископ Anselm Umoren challenged христиане reflect на how they can preserve their вера amid rapid technological changes.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/digital-distractions-could-erode-silence-needed-for-prayer-nigerian-bishop-warns",
+      "victims": 0
     },
     {
       "date": "2026-09-29",
@@ -6440,71 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/08/18/fulani-militias-kill-24-christians-in-governor-mutfwangs-county/",
       "victims": 24
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 11.6848,
-      "lng": 13.2725,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "kidnapping",
-      "title": "UN experts raise ‘могила concern’ violence against христианки и girls в Nigeria",
-      "description": "UN experts have raised concerns worsening violence и insecurity в Nigeria, warning that христианки и girls are among those facing elevated угроза убийства, похищение, sexual violence и вынужден marriage.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/un-experts-raise-grave-concern-over-violence-against-christian-women-and-girls-in-nigeria",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 19.5143,
-      "lng": -98.8963,
-      "country": "Mexico",
-      "city": "Mexico City",
-      "type": "murder",
-      "title": "15,000 faithful и папа’s представитель commemorate centenary 4 Mexican martyrs",
-      "description": "Special месса was held commemorating Sts. Luis Bátis Sáinz, Manuel Morales, Salvador Lara Puente, и David Roldán Lara, who were убит за веру во время гонение церковь в Cristero период.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/americas/15000-faithful-and-popes-representative-commemorate-centenary-of-4-mexican-martyrs",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 21.2927,
-      "lng": 82.0442,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "other",
-      "title": "Церковь в India Opposes Singing Controversial National Song",
-      "description": "На Aug. 13, Nagaland баптистская церковь совет (NBCC) said it opposed directives requiring singing or playing индус-nationalist song “Vande Mataram” чиновник events в India. NBCC, из majority христианин штат Nagaland, joi",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/18/church-in-india-opposes-singing-of-controversial-national-song/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 10.2717,
-      "lng": 7.1861,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "US lawmaker opposes lifting Nigeria’s CPC status после плато атака",
-      "description": "Following deadly плато атака, US lawmaker opposes lifting Nigeria’s Country Particular Concern (CPC) status, citing ongoing христианин гонение Read More: https://punchng.com/us-lawmaker-opposes-lifting-nigerias-cpc-status-после-плато-",
-      "source": "punchng",
-      "url": "https://punchng.com/us-lawmaker-opposes-lifting-nigerias-cpc-status-after-plateau-attack/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 6.2815,
-      "lng": 3.4846,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Catholic Relief Services receives share $1.4 billion в aid вера‑based groups",
-      "description": "Funding will help improve больницы, клиники, и health networks в rural parts Cameroon, Liberia, и Nigeria, working as part group вера-based organizations, CRS представитель said.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/catholic-relief-services-receives-share-aid-to-faith-based-groups",
-      "victims": 0
     }
   ]
 }
