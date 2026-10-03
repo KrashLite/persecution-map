@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-03T10:44:05.401Z",
+    "lastUpdated": "2026-10-03T15:18:42.002Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,19 @@
       "description": "Христианин Association Nigeria will criticise правительство когда it fails protect citizens or violates their rights, its президент, Daniel Okoh, Read More: https://punchng.com/can-will-criticise-правительство-когда-necessary-says-президент/",
       "source": "punchng",
       "url": "https://punchng.com/can-will-criticise-government-when-necessary-says-president/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-03",
+      "lat": 10.6547,
+      "lng": 7.3418,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "discrimination",
+      "title": "Плато cleric who lost relatives в атака visits Israel, prays для Netanyahu, Tinubu",
+      "description": "Плато-based cleric who has repeatedly spoken out убийства в штат, Rev. Ezekiel Dachomo, has travelled Israel для what he described as his первый international христианин advocacy tour. Dachomo disclosed this в Facebook post на Frid",
+      "source": "punchng",
+      "url": "https://punchng.com/plateau-cleric-who-lost-relatives-in-attack-visits-israel-prays-for-netanyahu-tinubu/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     },
     {
@@ -155,6 +168,32 @@
       "lng": 44.1874,
       "country": "Iraq",
       "city": "Kirkuk",
+      "type": "discrimination",
+      "title": "Disappearing христианин Middle East Part II: Iraq — из Ancient христианин Homeland Exodus",
+      "description": "ICC Fellow Lisa Navarrette на ordinary август вечер в 2014, Mariam was preparing dinner пока her husband, Nabil, закрыт small repair shop his семья had owned для десятилетия. Their two дети were arguing who would use televis",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/02/the-disappearing-christian-middle-east-part-ii-iraq-from-ancient-christian-homeland-to-exodus/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-02",
+      "lat": 34.5623,
+      "lng": 36.8428,
+      "country": "Syria",
+      "city": "Homs",
+      "type": "other",
+      "title": "Disappearing христианин Middle East, Part III: Syria — War, перемещение, и Vanishing христианская община",
+      "description": "ICC Fellow Lisa Navarrette на воскресенье, июнь 22, 2025, христиане gathered для богослужение inside Mar Elias Greek православная церковь в Damascus. семьи sat together, молитвы were spoken, и familiar rhythms богослужение continued в город с h",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/02/the-disappearing-christian-middle-east-part-iii-syria-war-displacement-and-a-vanishing-christian-community/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-02",
+      "lat": 36.0837,
+      "lng": 44.1449,
+      "country": "Iraq",
+      "city": "Erbil",
       "type": "discrimination",
       "title": "Disappearing христианин Middle East Part II: Iraq — из Ancient христианин Homeland Exodus",
       "description": "ICC Fellow Lisa Navarrette на ordinary август вечер в 2014, Mariam was preparing dinner пока her husband, Nabil, закрыт small repair shop his семья had owned для десятилетия. Their two дети were arguing who would use televis",
@@ -6465,45 +6504,6 @@
       "description": "Around 11.m. на Feb. 26, толпа nearly 200 индусы surrounded Faizal’s house в central Indian штат Chhattisgarh. They угрожали him, demanding that he renounce Jesus и reconvert индуизм. когда Faizal отказано abandon his вера, th",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/19/finding-shelter-after-the-storm/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-19",
-      "lat": 43.8693,
-      "lng": 87.7344,
-      "country": "China",
-      "city": "Xinjiang",
-      "type": "arrest",
-      "title": "Petition Launched Bring Home пастор заключён в China",
-      "description": "ChinaAid, international organization supporting преследуемый христиане inside China, has launched petition и advocacy кампания bring пастор John Cao back his home в U.S. пастор John has been заключён в China для seven годы для hi",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/19/petition-launched-to-bring-home-pastor-imprisoned-in-china/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 10.6685,
-      "lng": 7.3662,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Northern group backs Catholic епископы’ warning лишения",
-      "description": "Northern Reform Organisation supports Catholic епископы’ call для urgent action на Nigeria’s worsening economic лишения, insecurity, и declining public c Read More: https://punchng.com/northern-group-backs-catholic-епископы-warning--лишения/",
-      "source": "punchng",
-      "url": "https://punchng.com/northern-group-backs-catholic-bishops-warning-over-hardship/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-18",
-      "lat": 9.1614,
-      "lng": 9.6779,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "kidnapping",
-      "title": "UN experts raise ‘могила concern’ violence against христианки и girls в Nigeria",
-      "description": "UN experts have raised concerns worsening violence и insecurity в Nigeria, warning that христианки и girls are among those facing elevated угроза убийства, похищение, sexual violence и вынужден marriage.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/un-experts-raise-grave-concern-over-violence-against-christian-women-and-girls-in-nigeria",
       "victims": 0
     }
   ]
