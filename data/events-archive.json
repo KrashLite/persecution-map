@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-03T20:18:29.459Z",
+    "lastUpdated": "2026-10-04T03:02:57.588Z",
     "totalEvents": 500
   },
   "events": [
@@ -220,6 +220,19 @@
       "lng": 7.4197,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "arrest",
+      "title": "EXCLUSIVE: Nigerian Leaders Turn на Alleged ‘христианин-убийство’ Warlord после U.S. Pressure According Whistleblower",
+      "description": "Nigerian правительство is beginning take action defend its христиане, including арест alleged commander террорист group.",
+      "source": "newsapi:The Daily Caller",
+      "url": "https://dailycaller.com/2026/10/02/nigeria-christian-persecution-hassan-fulani-terrorism-mahmoud-adam-shehu-buba-whistle-blower",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-02",
+      "lat": 12.0027,
+      "lng": 8.5437,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "arrest",
       "title": "EXCLUSIVE: Nigerian Leaders Turn на Alleged ‘христианин-убийство’ Warlord после U.S. Pressure According Whistleblower",
       "description": "Nigerian правительство is beginning take action defend its христиане, including арест alleged commander террорист group.",
@@ -6491,19 +6504,6 @@
       "description": "ChinaAid, international organization supporting преследуемый христиане inside China, has launched petition и advocacy кампания bring пастор John Cao back his home в U.S. пастор John has been заключён в China для seven годы для hi",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/19/petition-launched-to-bring-home-pastor-imprisoned-in-china/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-19",
-      "lat": 19.2988,
-      "lng": 72.9161,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "discrimination",
-      "title": "Finding Shelter после Storm",
-      "description": "Around 11.m. на Feb. 26, толпа nearly 200 индусы surrounded Faizal’s house в central Indian штат Chhattisgarh. They угрожали him, demanding that he renounce Jesus и reconvert индуизм. когда Faizal отказано abandon his вера, th",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/19/finding-shelter-after-the-storm/",
       "victims": 0
     }
   ]
