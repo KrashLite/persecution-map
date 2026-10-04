@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-04T11:25:04.221Z",
+    "lastUpdated": "2026-10-04T16:03:18.501Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "Villaregia миссионер Community seeks reach communities where католическая церковь has limited presence.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/italian-community-establishes-new-presence-in-muslim-majority-area-of-ethiopia",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-04",
+      "lat": 6.3542,
+      "lng": 3.1352,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Nigeria’s welfare hampered systemic corruption — Ugorji",
+      "description": "Chidi Nkwopara OWERRI — welfare Nigerians would have been considerably better than it is сегодня if not для socio-economic испытания и systemic corruption that have bedevilled country годы, Catholic архиепископ Ower",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/10/nigerias-welfare-hampered-by-systemic-corruption-ugorji/",
       "victims": 0
     },
     {
@@ -90,6 +103,19 @@
       "lng": 7.3842,
       "country": "Nigeria",
       "city": "Kaduna",
+      "type": "other",
+      "title": "CAN will criticise правительство когда necessary, says президент",
+      "description": "Христианин Association Nigeria will criticise правительство когда it fails protect citizens or violates their rights, its президент, Daniel Okoh, Read More: https://punchng.com/can-will-criticise-правительство-когда-necessary-says-президент/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/can-will-criticise-government-when-necessary-says-president/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-03",
+      "lat": 9.1026,
+      "lng": 7.3255,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "other",
       "title": "CAN will criticise правительство когда necessary, says президент",
       "description": "Христианин Association Nigeria will criticise правительство когда it fails protect citizens or violates their rights, its президент, Daniel Okoh, Read More: https://punchng.com/can-will-criticise-правительство-когда-necessary-says-президент/",
@@ -277,6 +303,19 @@
       "description": "Yankui was his home когда чиновники арестован him 10:30.m. на Sept. 29 для investigation на suspicion “organizing illegal религиозный activities,” according полиция record presented time арест. record justifies th",
       "source": "persecution",
       "url": "https://persecution.org/2026/10/02/chinese-pastor-detained-for-organizing-illegal-religious-activities/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-02",
+      "lat": 9.2964,
+      "lng": 9.5618,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "arrest",
+      "title": "EXCLUSIVE: Nigerian Leaders Turn на Alleged ‘христианин-убийство’ Warlord после U.S. Pressure According Whistleblower",
+      "description": "Nigerian правительство is beginning take action defend its христиане, including арест alleged commander террорист group.",
+      "source": "newsapi:The Daily Caller",
+      "url": "https://dailycaller.com/2026/10/02/nigeria-christian-persecution-hassan-fulani-terrorism-mahmoud-adam-shehu-buba-whistle-blower",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Nigerian полиция арестован 22-год-old женщина для converting христианство из ислам. Though Federal High суд ruled в her favor, христианская семья that helped her is facing false обвинения похищение. в 2025, “Sarah” fled из her home",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/20/adf-defends-christians-against-islamic-police-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-19",
-      "lat": 4.6273,
-      "lng": 18.399,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "other",
-      "title": "Tourist вертолёт crashes в Kenya, no выжившие",
-      "description": "Вертолёт carrying several tourists crashed среда в Kenya's Samburu округ, north столица, Nairobi, убийство all those на board, aviation source told AFP. post Tourist вертолёт crashes в Kenya, no выжившие appeared первый на V",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/08/tourist-helicopter-crashes-in-kenya-no-survivors/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-19",
-      "lat": 14.6617,
-      "lng": 120.9364,
-      "country": "Philippines",
-      "city": "Manila",
-      "type": "attack",
-      "title": "Второй Philippine школа стрельба в 2 месяцы hits Jesuit университет",
-      "description": "Catholic Educational Association Philippines urged public not circulate images атака, saying grieving школа community stands behind every post.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/catholics-in-the-philippines-mourn-2-students-killed-in-catholic-school-shooting",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-19",
-      "lat": 23.2448,
-      "lng": 113.916,
-      "country": "China",
-      "city": "Guangdong",
-      "type": "arrest",
-      "title": "Petition Launched Bring Home пастор заключён в China",
-      "description": "ChinaAid, international organization supporting преследуемый христиане inside China, has launched petition и advocacy кампания bring пастор John Cao back his home в U.S. пастор John has been заключён в China для seven годы для hi",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/19/petition-launched-to-bring-home-pastor-imprisoned-in-china/",
       "victims": 0
     }
   ]
