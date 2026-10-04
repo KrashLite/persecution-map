@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-04T03:02:57.588Z",
+    "lastUpdated": "2026-10-04T11:25:04.221Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-10-04",
+      "lat": 9.0634,
+      "lng": 38.6164,
+      "country": "Ethiopia",
+      "city": "Addis Ababa",
+      "type": "other",
+      "title": "Italian Catholic community establishes new presence в мусульманин-majority area Ethiopia",
+      "description": "Villaregia миссионер Community seeks reach communities where католическая церковь has limited presence.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/italian-community-establishes-new-presence-in-muslim-majority-area-of-ethiopia",
+      "victims": 0
+    },
     {
       "date": "2026-10-03",
       "lat": 10.4432,
@@ -69,6 +82,19 @@
       "description": "Two женщины had reportedly stayed Holy семья католическая церковь до moving в apartment where strike was carried out.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/latin-patriarchate-mourns-two-christian-women-killed-in-gaza-city-strike",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-03",
+      "lat": 10.6377,
+      "lng": 7.3842,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "CAN will criticise правительство когда necessary, says президент",
+      "description": "Христианин Association Nigeria will criticise правительство когда it fails protect citizens or violates their rights, its президент, Daniel Okoh, Read More: https://punchng.com/can-will-criticise-правительство-когда-necessary-says-президент/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/can-will-criticise-government-when-necessary-says-president/",
       "victims": 0
     },
     {
@@ -238,6 +264,19 @@
       "description": "Nigerian правительство is beginning take action defend its христиане, including арест alleged commander террорист group.",
       "source": "newsapi:The Daily Caller",
       "url": "https://dailycaller.com/2026/10/02/nigeria-christian-persecution-hassan-fulani-terrorism-mahmoud-adam-shehu-buba-whistle-blower",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-02",
+      "lat": 39.856,
+      "lng": 116.4915,
+      "country": "China",
+      "city": "Beijing",
+      "type": "arrest",
+      "title": "Chinese пастор задержан для ‘Organizing Illegal религиозный Activities’",
+      "description": "Yankui was his home когда чиновники арестован him 10:30.m. на Sept. 29 для investigation на suspicion “organizing illegal религиозный activities,” according полиция record presented time арест. record justifies th",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/02/chinese-pastor-detained-for-organizing-illegal-religious-activities/",
       "victims": 0
     },
     {
@@ -564,6 +603,19 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/digital-distractions-could-erode-silence-needed-for-prayer-nigerian-bishop-warns",
       "victims": 0
+    },
+    {
+      "date": "2026-09-30",
+      "lat": 9.1335,
+      "lng": 7.4683,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Гонение: Trump’s pressure на Nigeria just saved hundreds христиане’ lives",
+      "description": "Для первый time, правительство is acknowledging и acting ' counter' угрозы",
+      "source": "newsapi:Wnd.com",
+      "url": "https://www.wnd.com/2026/09/persecution-trumps-pressure-nigeria-just-saved-hundreds-christians/",
+      "victims": 150
     },
     {
       "date": "2026-09-29",
@@ -6447,58 +6499,6 @@
       "lng": 113.916,
       "country": "China",
       "city": "Guangdong",
-      "type": "arrest",
-      "title": "Petition Launched Bring Home пастор заключён в China",
-      "description": "ChinaAid, international organization supporting преследуемый христиане inside China, has launched petition и advocacy кампания bring пастор John Cao back his home в U.S. пастор John has been заключён в China для seven годы для hi",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/19/petition-launched-to-bring-home-pastor-imprisoned-in-china/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-19",
-      "lat": 20.7039,
-      "lng": 85.1184,
-      "country": "India",
-      "city": "Odisha",
-      "type": "discrimination",
-      "title": "Finding Shelter после Storm",
-      "description": "Around 11.m. на Feb. 26, толпа nearly 200 индусы surrounded Faizal’s house в central Indian штат Chhattisgarh. They угрожали him, demanding that he renounce Jesus и reconvert индуизм. когда Faizal отказано abandon his вера, th",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/19/finding-shelter-after-the-storm/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-19",
-      "lat": 31.2949,
-      "lng": 121.4011,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "arrest",
-      "title": "Petition Launched Bring Home пастор заключён в China",
-      "description": "ChinaAid, international organization supporting преследуемый христиане inside China, has launched petition и advocacy кампания bring пастор John Cao back his home в U.S. пастор John has been заключён в China для seven годы для hi",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/19/petition-launched-to-bring-home-pastor-imprisoned-in-china/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-19",
-      "lat": 26.8536,
-      "lng": 80.7507,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "discrimination",
-      "title": "Finding Shelter после Storm",
-      "description": "Around 11.m. на Feb. 26, толпа nearly 200 индусы surrounded Faizal’s house в central Indian штат Chhattisgarh. They угрожали him, demanding that he renounce Jesus и reconvert индуизм. когда Faizal отказано abandon his вера, th",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/19/finding-shelter-after-the-storm/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-19",
-      "lat": 40.1279,
-      "lng": 116.3427,
-      "country": "China",
-      "city": "Beijing",
       "type": "arrest",
       "title": "Petition Launched Bring Home пастор заключён в China",
       "description": "ChinaAid, international organization supporting преследуемый христиане inside China, has launched petition и advocacy кампания bring пастор John Cao back his home в U.S. пастор John has been заключён в China для seven годы для hi",
