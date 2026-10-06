@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-06T03:29:59.653Z",
+    "lastUpdated": "2026-10-06T12:18:29.628Z",
     "totalEvents": 500
   },
   "events": [
@@ -150,6 +150,32 @@
       "victims": 0
     },
     {
+      "date": "2026-10-05",
+      "lat": 9.1057,
+      "lng": 9.7045,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "More than 4,200 христиане убит в Nigeria в этом году - report",
+      "description": "More than 4,200 христиане have been убит в Nigeria so far в этом году, according new report calling для stronger action protect communities facing violence across country’s Middle Belt.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/more-than-4-200-christians-killed-in-nigeria-this-year-report",
+      "victims": 200
+    },
+    {
+      "date": "2026-10-05",
+      "lat": 34.2478,
+      "lng": 71.6011,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "other",
+      "title": "Punjab Panel Approves Bill Reform христианин Marriage Law",
+      "description": "Legislative комитет в Pakistan’s Punjab провинция has unanimously approved bill that would set minimum век для христианин marriages 18 для both partners, require чиновник registration, и strengthen safeguards для free consent. Punj",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/05/punjab-panel-approves-bill-to-reform-christian-marriage-law/",
+      "victims": 0
+    },
+    {
       "date": "2026-10-04",
       "lat": 9.0634,
       "lng": 38.6164,
@@ -233,6 +259,19 @@
       "lng": 7.6608,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "murder",
+      "title": "Плато губернатор Imposes Curfew после пастор, 27 Others убит в неделя",
+      "description": "David Nanpet, очевидец documenter с International комитет на Nigeria (ICON), was monitoring reports renewed атаки across плато штат когда he received news that пастор had been убит на his way церковь. “Yes, it is true,” Na",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/04/plateau-governor-imposes-curfew-after-pastor-27-others-killed-in-week/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-04",
+      "lat": 11.7877,
+      "lng": 13.2653,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "murder",
       "title": "Плато губернатор Imposes Curfew после пастор, 27 Others убит в неделя",
       "description": "David Nanpet, очевидец documenter с International комитет на Nigeria (ICON), was monitoring reports renewed атаки across плато штат когда he received news that пастор had been убит на his way церковь. “Yes, it is true,” Na",
@@ -446,6 +485,32 @@
       "description": "Христианин Association Nigeria (CAN) says it will criticise правительство if it fails protect citizens or violates their rights, says its Preside Read More: https://punchng.com/can-will-criticise-govt-if-citizensre-not-protected-президент/",
       "source": "newsapi:The Punch",
       "url": "https://punchng.com/can-will-criticise-govt-if-citizensre-not-protected-president/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-03",
+      "lat": 10.406,
+      "lng": 7.2125,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "CAN will criticise govt if citizens’re not protected– президент",
+      "description": "Христианин Association Nigeria (CAN) says it will criticise правительство if it fails protect citizens or violates their rights, says its Preside Read More: https://punchng.com/can-will-criticise-govt-if-citizensre-not-protected-президент/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/can-will-criticise-govt-if-citizensre-not-protected-president/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-03",
+      "lat": 12.0721,
+      "lng": 13.2118,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "CAN will criticise правительство когда necessary, says президент",
+      "description": "Христианин Association Nigeria will criticise правительство когда it fails protect citizens or violates their rights, its президент, Daniel Okoh, Read More: https://punchng.com/can-will-criticise-правительство-когда-necessary-says-президент/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/can-will-criticise-government-when-necessary-says-president/",
       "victims": 0
     },
     {
@@ -675,6 +740,19 @@
       "lng": 7.5235,
       "country": "Nigeria",
       "city": "Kaduna",
+      "type": "arrest",
+      "title": "EXCLUSIVE: Nigerian Leaders Turn на Alleged ‘христианин-убийство’ Warlord после U.S. Pressure According Whistleblower",
+      "description": "Nigerian правительство is beginning take action defend its христиане, including арест alleged commander террорист group.",
+      "source": "newsapi:The Daily Caller",
+      "url": "https://dailycaller.com/2026/10/02/nigeria-christian-persecution-hassan-fulani-terrorism-mahmoud-adam-shehu-buba-whistle-blower",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-02",
+      "lat": 6.7658,
+      "lng": 3.1937,
+      "country": "Nigeria",
+      "city": "Lagos",
       "type": "arrest",
       "title": "EXCLUSIVE: Nigerian Leaders Turn на Alleged ‘христианин-убийство’ Warlord после U.S. Pressure According Whistleblower",
       "description": "Nigerian правительство is beginning take action defend its христиане, including арест alleged commander террорист group.",
@@ -6426,84 +6504,6 @@
       "description": "Крещения significantly осень в Ireland, German епископ resigns, Asian церкви rally после Indonesia earthquake, и more в на этой неделе’s Catholic world news roundup.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/europe/baptisms-in-ireland-drop-by-nearly-30-percent-in-past-decade-survey-finds",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-21",
-      "lat": -6.3104,
-      "lng": 106.963,
-      "country": "Indonesia",
-      "city": "Jakarta",
-      "type": "arrest",
-      "title": "Пастор приговорён тюрьма в Indonesia",
-      "description": "Арест и задержание пастор Dedi Saputra в февраль 2026 have continued spark prolonged public debate в Indonesia. Saputra is Aceh native who converted христианство и resides в Bengkayang, West Kalimantan. Aceh Regional Poli",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/21/pastor-sentenced-to-prison-in-indonesia/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-21",
-      "lat": 6.6229,
-      "lng": 3.6081,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Христиане убийства: Why US won’t remove Nigeria’s CPC tag —Congressman Moore",
-      "description": "Member United штаты конгресс, Rep. Riley Moore, has insisted that US must not remove Nigeria из its Country Particular Concern, CPC, designation list alleged гонение христиане, citing continued violence в Middle B",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/08/christians-killings-why-us-wont-remove-nigerias-cpc-tag-congressman-moore/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-21",
-      "lat": 8.8471,
-      "lng": 7.5565,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "Христиане убийства: Why US won’t remove Nigeria’s CPC tag —Congressman Moore",
-      "description": "Member United штаты конгресс, Rep. Riley Moore, has insisted that US must not remove Nigeria из its Country Particular Concern, CPC, designation list alleged гонение христиане, citing continued violence в Middle B",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/08/christians-killings-why-us-wont-remove-nigerias-cpc-tag-congressman-moore/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-21",
-      "lat": 12.0948,
-      "lng": 8.3687,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "Христиане убийства: Why US won’t remove Nigeria’s CPC tag —Congressman Moore",
-      "description": "Member United штаты конгресс, Rep. Riley Moore, has insisted that US must not remove Nigeria из its Country Particular Concern, CPC, designation list alleged гонение христиане, citing continued violence в Middle B",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/08/christians-killings-why-us-wont-remove-nigerias-cpc-tag-congressman-moore/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-21",
-      "lat": 10.7117,
-      "lng": 7.4126,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Христиане убийства: Why US won’t remove Nigeria’s CPC tag —Congressman Moore",
-      "description": "Member United штаты конгресс, Rep. Riley Moore, has insisted that US must not remove Nigeria из its Country Particular Concern, CPC, designation list alleged гонение христиане, citing continued violence в Middle B",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/08/christians-killings-why-us-wont-remove-nigerias-cpc-tag-congressman-moore/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-21",
-      "lat": 9.4445,
-      "lng": 9.6285,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Христиане убийства: Why US won’t remove Nigeria’s CPC tag —Congressman Moore",
-      "description": "Member United штаты конгресс, Rep. Riley Moore, has insisted that US must not remove Nigeria из its Country Particular Concern, CPC, designation list alleged гонение христиане, citing continued violence в Middle B",
-      "source": "newsapi:Vanguard",
-      "url": "https://www.vanguardngr.com/2026/08/christians-killings-why-us-wont-remove-nigerias-cpc-tag-congressman-moore/",
       "victims": 0
     }
   ]
