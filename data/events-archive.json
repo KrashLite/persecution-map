@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-07T02:54:36.296Z",
+    "lastUpdated": "2026-10-07T12:09:50.838Z",
     "totalEvents": 500
   },
   "events": [
@@ -64,6 +64,19 @@
       "lng": 80.8193,
       "country": "India",
       "city": "Uttar Pradesh",
+      "type": "discrimination",
+      "title": "Христиане Reel под Effects Floods, гонение в Chhattisgarh",
+      "description": "Христиане в Chhattisgarh, India, facing relentless pressure из индус nationalists, must сейчас deal с aftermath recent floods. flooding unfolded between Sept. 24 и 27 along volatile banks Indravati река в Chhattisgarh’s",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/06/christians-reel-under-effects-of-floods-persecution-in-chhattisgarh/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-06",
+      "lat": 28.8414,
+      "lng": 76.8791,
+      "country": "India",
+      "city": "Delhi",
       "type": "discrimination",
       "title": "Христиане Reel под Effects Floods, гонение в Chhattisgarh",
       "description": "Христиане в Chhattisgarh, India, facing relentless pressure из индус nationalists, must сейчас deal с aftermath recent floods. flooding unfolded between Sept. 24 и 27 along volatile banks Indravati река в Chhattisgarh’s",
@@ -285,6 +298,19 @@
       "lng": 66.9724,
       "country": "Pakistan",
       "city": "Karachi",
+      "type": "kidnapping",
+      "title": "Pakistan Urged Protect Girls из вынужден обращение/Marriage",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Three United Nations special rapporteurs на прошлой неделе urged Pakistan protect girls из похищение, вынужден религиозный обращение и ребёнок marriage, warning that existing laws will ha",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/pakistan-urged-to-protect-girls-from-forced-conversion-marriage/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-05",
+      "lat": 33.4703,
+      "lng": 73.1934,
+      "country": "Pakistan",
+      "city": "Islamabad",
       "type": "kidnapping",
       "title": "Pakistan Urged Protect Girls из вынужден обращение/Marriage",
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Three United Nations special rapporteurs на прошлой неделе urged Pakistan protect girls из похищение, вынужден религиозный обращение и ребёнок marriage, warning that existing laws will ha",
@@ -662,6 +688,19 @@
       "lng": 13.2163,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "discrimination",
+      "title": "My criticism христианин bodies exposed me security угрозы –Rev.Omolehin",
+      "description": "Reverend Isaac Omolehin says his criticism denominational divisions в Nigerian христианство has exposed him и his семья security угрозы из запрет Read More: https://punchng.com/my-criticism--христианин-bodies-exposed-me--security-угроза",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/my-criticism-of-christian-bodies-exposed-me-to-security-threats-rev-omolehin/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-03",
+      "lat": 10.6256,
+      "lng": 7.4085,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "discrimination",
       "title": "My criticism христианин bodies exposed me security угрозы –Rev.Omolehin",
       "description": "Reverend Isaac Omolehin says his criticism denominational divisions в Nigerian христианство has exposed him и his семья security угрозы из запрет Read More: https://punchng.com/my-criticism--христианин-bodies-exposed-me--security-угроза",
@@ -6466,45 +6505,6 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/open-doors-raises-alarm-over-violence-in-sudan",
       "victims": 0
-    },
-    {
-      "date": "2026-08-23",
-      "lat": 9.3017,
-      "lng": 9.6085,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "I don’t hate христиане — шейх Jingir",
-      "description": "— Urges Tinubu, губернаторы ensure justice, fairness для all Nigerians Golok Nanmwa JOS: Chairman Izalatil Bid’ Wa’ikamatis Sunnah, JIBWIS, шейх Sani Yahaya Jingir, has dismissed claims that he dislikes христиане, describing allega",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/08/i-dont-hate-christians-sheikh-jingir/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-23",
-      "lat": 8.9739,
-      "lng": 9.3321,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "arrest",
-      "title": "Nigerian суд Rules религиозный полиция Cannot арест христианка для Converting из ислам",
-      "description": "Nigerian суд has ruled that Kano штат’s Hisbah религиозный полиция cannot арест Sarah*, young женщина who converted из ислам христианство. христианская семья that helped her is still facing false criminal обвинения. post Nigerian суд Rules",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/08/23/nigerian-court-rules-religious-police-cannot-arrest-christian-woman-for-converting-from-islam/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-23",
-      "lat": 36.2277,
-      "lng": 43.3067,
-      "country": "Iraq",
-      "city": "Mosul",
-      "type": "other",
-      "title": "Iraq’s суд Cassation affirms женщина’s right be classified as христианин в штат’s чиновник database",
-      "description": "Country’s highest суд для civil, criminal, и семья matters affirms right Iraqi христианин freely choose her религия, sets persuasive precedent для scores христиане в Iraq facing serious legal и personal consequences штат-assigne",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/08/23/iraqs-court-of-cassation-affirms-womans-right-to-be-classified-as-christian-in-states-official-database/",
-      "victims": 40
     }
   ]
 }
