@@ -2,10 +2,49 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-07T12:09:50.838Z",
+    "lastUpdated": "2026-10-07T22:21:05.991Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-10-07",
+      "lat": 10.5244,
+      "lng": 7.4233,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Six христиане убит выходные в Central Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани боевики в Nigeria застрелен two христиане смерть в деревня Bokkos округ, плато штат, на воскресенье (Oct. 4) и four others в Riyom округ на суббота, sources said. “Two",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/six-christians-slain-over-weekend-in-central-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-07",
+      "lat": 2.1314,
+      "lng": 45.2873,
+      "country": "Somalia",
+      "city": "Mogadishu",
+      "type": "discrimination",
+      "title": "Христианка в Somalia избит, Confined для Converting",
+      "description": "NAIROBI, Kenya (утро Star News) – мусульманин uncle 20-год-old женщина в Somalia has confined her his home, where he has избит her и deprived her adequate food и water для converting христианство, sources said. Mariam Fatuma has",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/christian-woman-in-somalia-beaten-confined-for-converting/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-07",
+      "lat": 36.2925,
+      "lng": 43.8422,
+      "country": "Iraq",
+      "city": "Erbil",
+      "type": "discrimination",
+      "title": "Disappearing христианин Middle East, Part VI: когда христианство Becomes History",
+      "description": "ICC Fellow Lisa Navarrette Throughout this series, Disappearing христианин Middle East, we have traveled through Iraq, Syria, Lebanon, Bethlehem, Jerusalem, West Bank, и Gaza. Circumstances differ в each place, but pattern is в",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/07/the-disappearing-christian-middle-east-part-vi-when-christianity-becomes-history/",
+      "victims": 0
+    },
     {
       "date": "2026-10-06",
       "lat": 9.2892,
@@ -83,6 +122,19 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/10/06/christians-reel-under-effects-of-floods-persecution-in-chhattisgarh/",
       "victims": 0
+    },
+    {
+      "date": "2026-10-06",
+      "lat": 9.3145,
+      "lng": 9.5998,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Атаки в плато штат, Nigeria Claim Lives 12 христиане",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани боевики в Nigeria убит least 12 христиане в Barkin Ladi округ, плато штат three дни end сентябрь, sources said. Five христиане were убит,",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/attacks-in-plateau-state-nigeria-claim-lives-of-12-christians/",
+      "victims": 12
     },
     {
       "date": "2026-10-05",
@@ -316,6 +368,19 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Three United Nations special rapporteurs на прошлой неделе urged Pakistan protect girls из похищение, вынужден религиозный обращение и ребёнок marriage, warning that existing laws will ha",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/10/pakistan-urged-to-protect-girls-from-forced-conversion-marriage/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-05",
+      "lat": 10.3607,
+      "lng": 7.4555,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Fulanis Kill Two христиане, рана Three others в Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани боевики убит two христиане и ранен three others на воскресенье ночь (Oct. 4) в атака в Bokkos округ, плато штат, central Nigeria, sources said. Area resident Aaron",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/fulanis-kill-two-christians-wound-three-others-in-nigeria/",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "Власти обвинён British христианский лидер Indian descent в Pune, Maharashtra, India, для allegedly attempting illegally convert индусы христианство под law that has yet come в effect. Pune полиция filed chargesheet на",
       "source": "persecution",
       "url": "https://persecution.org/2026/08/24/uk-pastor-booked-on-bizarre-charges/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-24",
-      "lat": 10.5474,
-      "lng": 7.2213,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "San Francisco архиепископ urges new Nigerian священники be ‘friends и fathers’ their люди",
-      "description": "“ люди God must know that священник is с them, that he is для them, и that he acts only с their best interest в mind,” архиепископ Salvatore Cordileone told 14 newly ordained священники.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/san-francisco-archbishop-urges-new-nigerian-priests-to-be-friends-and-fathers-to-their-people",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-24",
-      "lat": 26.7152,
-      "lng": 80.7427,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "arrest",
-      "title": "UK пастор Booked на Bizarre обвинения",
-      "description": "Власти обвинён British христианский лидер Indian descent в Pune, Maharashtra, India, для allegedly attempting illegally convert индусы христианство под law that has yet come в effect. Pune полиция filed chargesheet на",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/24/uk-pastor-booked-on-bizarre-charges/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-23",
-      "lat": 13.6532,
-      "lng": 2.122,
-      "country": "Niger",
-      "city": "Niamey",
-      "type": "kidnapping",
-      "title": "Террористы атака Niger мечеть, abduct прихожане",
-      "description": "Террористы атакован мечеть в Niger штат, abducting прихожане во время Jumat молитвы. Joint силы безопасности deployed для rescue операции. Read More: https://punchng.com/террористы-атака-niger-мечеть-abduct-прихожане/",
-      "source": "punchng",
-      "url": "https://punchng.com/terrorists-attack-niger-mosque-abduct-worshippers/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-23",
-      "lat": 23.138,
-      "lng": -82.4824,
-      "country": "Cuba",
-      "city": "Havana",
-      "type": "discrimination",
-      "title": "Obi Cubana announces house gift для пастор Jerry Eze’s 44th birthday",
-      "description": "\"и I make it bold say сегодня I am presenting one you as birthday gift для work God и для service mankind\" post Obi Cubana announces house gift для пастор Jerry Eze’s 44th birthday appeared первый на Vanguard News.",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/08/obi-cubana-announces-house-gift-for-pastor-jerry-ezes-44th-birthday/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-23",
-      "lat": 15.3256,
-      "lng": 32.7672,
-      "country": "Sudan",
-      "city": "Khartoum",
-      "type": "kidnapping",
-      "title": "Open Doors raises alarm violence в Sudan",
-      "description": "Церковь leaders и христиане в Sudan's Nuba горы are facing growing wave убийства, похищения и атаки as fighting between rival armed factions intensifies в country's South Kordofan штат.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/open-doors-raises-alarm-over-violence-in-sudan",
       "victims": 0
     }
   ]
