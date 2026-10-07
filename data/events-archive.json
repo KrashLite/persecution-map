@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-06T21:57:06.585Z",
+    "lastUpdated": "2026-10-07T02:54:36.296Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,32 @@
       "description": "JUBA, South Sudan (утро Star News) – Six христианские работники похищен в South Sudan на Sept. 26 were released на четверг (Oct. 1), sources said. Young Life South Sudan workers were traveling из Kajo Keji Maridi, посёлок в Western Equatori",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/10/christian-workers-abducted-in-south-sudan-are-released/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-06",
+      "lat": 6.72,
+      "lng": 3.4319,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Атаки в плато штат, Nigeria Claim Lives 12 христиане",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани боевики в Nigeria убит least 12 христиане в Barkin Ladi округ, плато штат three дни end сентябрь, sources said. Five христиане were убит,",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/attacks-in-plateau-state-nigeria-claim-lives-of-12-christians/",
+      "victims": 12
+    },
+    {
+      "date": "2026-10-06",
+      "lat": 26.7548,
+      "lng": 80.8193,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "discrimination",
+      "title": "Христиане Reel под Effects Floods, гонение в Chhattisgarh",
+      "description": "Христиане в Chhattisgarh, India, facing relentless pressure из индус nationalists, must сейчас deal с aftermath recent floods. flooding unfolded between Sept. 24 и 27 along volatile banks Indravati река в Chhattisgarh’s",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/06/christians-reel-under-effects-of-floods-persecution-in-chhattisgarh/",
       "victims": 0
     },
     {
@@ -228,6 +254,45 @@
       "victims": 0
     },
     {
+      "date": "2026-10-05",
+      "lat": 9.0927,
+      "lng": 7.6076,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Fulanis Kill Two христиане, рана Three others в Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани боевики убит two христиане и ранен three others на воскресенье ночь (Oct. 4) в атака в Bokkos округ, плато штат, central Nigeria, sources said. Area resident Aaron",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/fulanis-kill-two-christians-wound-three-others-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-05",
+      "lat": 9.0301,
+      "lng": 7.3935,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "More than 4,200 христиане убит в Nigeria в этом году - report",
+      "description": "More than 4,200 христиане have been убит в Nigeria so far в этом году, according new report calling для stronger action protect communities facing violence across country’s Middle Belt.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/more-than-4-200-christians-killed-in-nigeria-this-year-report",
+      "victims": 200
+    },
+    {
+      "date": "2026-10-05",
+      "lat": 24.6126,
+      "lng": 66.9724,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "kidnapping",
+      "title": "Pakistan Urged Protect Girls из вынужден обращение/Marriage",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Three United Nations special rapporteurs на прошлой неделе urged Pakistan protect girls из похищение, вынужден религиозный обращение и ребёнок marriage, warning that existing laws will ha",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/pakistan-urged-to-protect-girls-from-forced-conversion-marriage/",
+      "victims": 0
+    },
+    {
       "date": "2026-10-04",
       "lat": 9.0634,
       "lng": 38.6164,
@@ -337,6 +402,19 @@
       "lng": 9.5263,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "murder",
+      "title": "Плато губернатор Imposes Curfew после пастор, 27 Others убит в неделя",
+      "description": "David Nanpet, очевидец documenter с International комитет на Nigeria (ICON), was monitoring reports renewed атаки across плато штат когда he received news that пастор had been убит на his way церковь. “Yes, it is true,” Na",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/04/plateau-governor-imposes-curfew-after-pastor-27-others-killed-in-week/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-04",
+      "lat": 6.6399,
+      "lng": 3.1647,
+      "country": "Nigeria",
+      "city": "Lagos",
       "type": "murder",
       "title": "Плато губернатор Imposes Curfew после пастор, 27 Others убит в неделя",
       "description": "David Nanpet, очевидец documenter с International комитет на Nigeria (ICON), was monitoring reports renewed атаки across плато штат когда he received news that пастор had been убит на his way церковь. “Yes, it is true,” Na",
@@ -576,6 +654,19 @@
       "description": "Христианин Association Nigeria will criticise правительство когда it fails protect citizens or violates their rights, its президент, Daniel Okoh, Read More: https://punchng.com/can-will-criticise-правительство-когда-necessary-says-президент/",
       "source": "newsapi:The Punch",
       "url": "https://punchng.com/can-will-criticise-government-when-necessary-says-president/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-03",
+      "lat": 12.0039,
+      "lng": 13.2163,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "discrimination",
+      "title": "My criticism христианин bodies exposed me security угрозы –Rev.Omolehin",
+      "description": "Reverend Isaac Omolehin says his criticism denominational divisions в Nigerian христианство has exposed him и his семья security угрозы из запрет Read More: https://punchng.com/my-criticism--христианин-bodies-exposed-me--security-угроза",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/my-criticism-of-christian-bodies-exposed-me-to-security-threats-rev-omolehin/",
       "victims": 0
     },
     {
@@ -6414,97 +6505,6 @@
       "source": "zenit",
       "url": "https://zenit.org/2026/08/23/iraqs-court-of-cassation-affirms-womans-right-to-be-classified-as-christian-in-states-official-database/",
       "victims": 40
-    },
-    {
-      "date": "2026-08-23",
-      "lat": 8.836,
-      "lng": 7.435,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "arrest",
-      "title": "Nigerian суд Rules религиозный полиция Cannot арест христианка для Converting из ислам",
-      "description": "Nigerian суд has ruled that Kano штат’s Hisbah религиозный полиция cannot арест Sarah*, young женщина who converted из ислам христианство. христианская семья that helped her is still facing false criminal обвинения. post Nigerian суд Rules",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/08/23/nigerian-court-rules-religious-police-cannot-arrest-christian-woman-for-converting-from-islam/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-23",
-      "lat": 12.0505,
-      "lng": 8.6057,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "arrest",
-      "title": "Nigerian суд Rules религиозный полиция Cannot арест христианка для Converting из ислам",
-      "description": "Nigerian суд has ruled that Kano штат’s Hisbah религиозный полиция cannot арест Sarah*, young женщина who converted из ислам христианство. христианская семья that helped her is still facing false criminal обвинения. post Nigerian суд Rules",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/08/23/nigerian-court-rules-religious-police-cannot-arrest-christian-woman-for-converting-from-islam/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-23",
-      "lat": 36.407,
-      "lng": 43.8577,
-      "country": "Iraq",
-      "city": "Erbil",
-      "type": "other",
-      "title": "Iraq’s суд Cassation affirms женщина’s right be classified as христианин в штат’s чиновник database",
-      "description": "Country’s highest суд для civil, criminal, и семья matters affirms right Iraqi христианин freely choose her религия, sets persuasive precedent для scores христиане в Iraq facing serious legal и personal consequences штат-assigne",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/08/23/iraqs-court-of-cassation-affirms-womans-right-to-be-classified-as-christian-in-states-official-database/",
-      "victims": 40
-    },
-    {
-      "date": "2026-08-23",
-      "lat": 6.7185,
-      "lng": 3.3296,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "arrest",
-      "title": "Nigerian суд Rules религиозный полиция Cannot арест христианка для Converting из ислам",
-      "description": "Nigerian суд has ruled that Kano штат’s Hisbah религиозный полиция cannot арест Sarah*, young женщина who converted из ислам христианство. христианская семья that helped her is still facing false criminal обвинения. post Nigerian суд Rules",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/08/23/nigerian-court-rules-religious-police-cannot-arrest-christian-woman-for-converting-from-islam/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-23",
-      "lat": 35.6659,
-      "lng": 44.5469,
-      "country": "Iraq",
-      "city": "Kirkuk",
-      "type": "other",
-      "title": "Iraq’s суд Cassation affirms женщина’s right be classified as христианин в штат’s чиновник database",
-      "description": "Country’s highest суд для civil, criminal, и семья matters affirms right Iraqi христианин freely choose her религия, sets persuasive precedent для scores христиане в Iraq facing serious legal и personal consequences штат-assigne",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/08/23/iraqs-court-of-cassation-affirms-womans-right-to-be-classified-as-christian-in-states-official-database/",
-      "victims": 40
-    },
-    {
-      "date": "2026-08-23",
-      "lat": 33.5226,
-      "lng": 44.404,
-      "country": "Iraq",
-      "city": "Baghdad",
-      "type": "other",
-      "title": "Iraq’s суд Cassation affirms женщина’s right be classified as христианин в штат’s чиновник database",
-      "description": "Country’s highest суд для civil, criminal, и семья matters affirms right Iraqi христианин freely choose her религия, sets persuasive precedent для scores христиане в Iraq facing serious legal и personal consequences штат-assigne",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/08/23/iraqs-court-of-cassation-affirms-womans-right-to-be-classified-as-christian-in-states-official-database/",
-      "victims": 40
-    },
-    {
-      "date": "2026-08-22",
-      "lat": 9.2915,
-      "lng": 7.3818,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "discrimination",
-      "title": "VIDEO: Obi Cubana gifts пастор Jerry Eze mansion",
-      "description": "Nigerian businessman Obi Cubana has gifted popular пастор Jerry Eze luxurious mansion as birthday present, sparking widespread reactions online. Read m Read More: https://punchng.com/video-obi-cubana-gifts-пастор-jerry-eze-mansion/",
-      "source": "punchng",
-      "url": "https://punchng.com/video-obi-cubana-gifts-pastor-jerry-eze-mansion/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
     }
   ]
 }
