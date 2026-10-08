@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-08T03:12:01.873Z",
+    "lastUpdated": "2026-10-08T12:20:21.220Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-10-08",
+      "lat": 6.7417,
+      "lng": 3.4894,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "NAF confirms вертолёт makes precautionary landing в Benue",
+      "description": "Nigerian военно-воздушные силы has confirmed one its вертолёты made precautionary landing в Makurdi, Benue штат, после successful операция against kidn Read More: https://punchng.com/naf-confirms-вертолёт-makes-precautionary-landing-в-benue/",
+      "source": "punchng",
+      "url": "https://punchng.com/naf-confirms-helicopter-makes-precautionary-landing-in-benue/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-08",
+      "lat": 34.8331,
+      "lng": 36.9555,
+      "country": "Syria",
+      "city": "Homs",
+      "type": "attack",
+      "title": "Syrian христианин посёлок атакован для второй time мусульманин толпа",
+      "description": "Мусульманин толпа has однажды снова атакован христианин majority посёлок Suqaylabiyah в Syria.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/syrian-christian-town-attacked-for-second-time-by-muslim-mob",
+      "victims": 0
+    },
     {
       "date": "2026-10-07",
       "lat": 10.5244,
@@ -69,6 +95,32 @@
       "description": "ICC Fellow Lisa Navarrette Throughout this series, Disappearing христианин Middle East, we have traveled through Iraq, Syria, Lebanon, Bethlehem, Jerusalem, West Bank, и Gaza. Circumstances differ в each place, but pattern is в",
       "source": "persecution",
       "url": "https://persecution.org/2026/10/07/the-disappearing-christian-middle-east-part-vi-when-christianity-becomes-history/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-07",
+      "lat": 8.8812,
+      "lng": 7.7294,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Six христиане убит выходные в Central Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани боевики в Nigeria застрелен two христиане смерть в деревня Bokkos округ, плато штат, на воскресенье (Oct. 4) и four others в Riyom округ на суббота, sources said. “Two",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/six-christians-slain-over-weekend-in-central-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-07",
+      "lat": 34.8886,
+      "lng": 36.8948,
+      "country": "Syria",
+      "city": "Homs",
+      "type": "other",
+      "title": "5 Leadership Lessons из преследуемый церковь",
+      "description": "This post is в partnership с Global христианин Relief, written Brian Orme, CEO Global христианин Relief Father Boutros и I sat в front large wooden board near entrance Mar Elias церковь outside Damascus, Syria. board covered",
+      "source": "newsapi:Careynieuwhof.com",
+      "url": "https://careynieuwhof.com/persecuted-church-leadership-lessons/",
       "victims": 0
     },
     {
@@ -155,6 +207,19 @@
       "lng": 9.5998,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "murder",
+      "title": "Атаки в плато штат, Nigeria Claim Lives 12 христиане",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани боевики в Nigeria убит least 12 христиане в Barkin Ladi округ, плато штат three дни end сентябрь, sources said. Five христиане were убит,",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/attacks-in-plateau-state-nigeria-claim-lives-of-12-christians/",
+      "victims": 12
+    },
+    {
+      "date": "2026-10-06",
+      "lat": 12.1424,
+      "lng": 8.5742,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "murder",
       "title": "Атаки в плато штат, Nigeria Claim Lives 12 христиане",
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани боевики в Nigeria убит least 12 христиане в Barkin Ladi округ, плато штат three дни end сентябрь, sources said. Five христиане were убит,",
@@ -420,6 +485,32 @@
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани боевики убит two христиане и ранен three others на воскресенье ночь (Oct. 4) в атака в Bokkos округ, плато штат, central Nigeria, sources said. Area resident Aaron",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/10/fulanis-kill-two-christians-wound-three-others-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-05",
+      "lat": 12.0466,
+      "lng": 13.3516,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "Fulanis Kill Two христиане, рана Three others в Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани боевики убит two христиане и ранен three others на воскресенье ночь (Oct. 4) в атака в Bokkos округ, плато штат, central Nigeria, sources said. Area resident Aaron",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/fulanis-kill-two-christians-wound-three-others-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-05",
+      "lat": 33.6395,
+      "lng": 72.8335,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "other",
+      "title": "Punjab Panel Approves Bill Reform христианин Marriage Law",
+      "description": "Legislative комитет в Pakistan’s Punjab провинция has unanimously approved bill that would set minimum век для христианин marriages 18 для both partners, require чиновник registration, и strengthen safeguards для free consent. Punj",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/05/punjab-panel-approves-bill-to-reform-christian-marriage-law/",
       "victims": 0
     },
     {
@@ -6413,97 +6504,6 @@
       "description": "Папа Leo XIV received Paul Oga Adikwu, Nigeria’s new посол Holy See, в audience Vatican, where he presented his credentials на август 24, 2026. Catholic и specialist в educational matters, he ранее served as посол t",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/08/25/reappointed-nigerian-ambassador-meets-with-pope-leo/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-25",
-      "lat": 10.3585,
-      "lng": 7.4251,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Reappointed Nigerian посол meets с папа Leo",
-      "description": "Папа Leo XIV received Paul Oga Adikwu, Nigeria’s new посол Holy See, в audience Vatican, where he presented his credentials на август 24, 2026. Catholic и specialist в educational matters, he ранее served as посол t",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/08/25/reappointed-nigerian-ambassador-meets-with-pope-leo/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-25",
-      "lat": 9.4665,
-      "lng": 9.4046,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Reappointed Nigerian посол meets с папа Leo",
-      "description": "Папа Leo XIV received Paul Oga Adikwu, Nigeria’s new посол Holy See, в audience Vatican, where he presented his credentials на август 24, 2026. Catholic и specialist в educational matters, he ранее served as посол t",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/08/25/reappointed-nigerian-ambassador-meets-with-pope-leo/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-24",
-      "lat": 6.4727,
-      "lng": 3.2366,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "San Francisco архиепископ urges new Nigerian священники be ‘friends и fathers’ their люди",
-      "description": "“ люди God must know that священник is с them, that he is для them, и that he acts only с their best interest в mind,” архиепископ Salvatore Cordileone told 14 newly ordained священники.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/san-francisco-archbishop-urges-new-nigerian-priests-to-be-friends-and-fathers-to-their-people",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-24",
-      "lat": 15.4779,
-      "lng": 32.48,
-      "country": "Sudan",
-      "city": "Khartoum",
-      "type": "kidnapping",
-      "title": "Христианин Relief Worker задержан в Sudan’s Nuba горы",
-      "description": "NAIROBI, Kenya (утро Star News) – христианин relief worker арестован повстанец боевики в Sudan’s Nuba горы five месяцы ago remains пленник, her семья said. в South Kordofan штат, семья is making urgent appeal для release N",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/08/christian-relief-worker-detained-in-sudans-nuba-mountains/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-24",
-      "lat": 9.3111,
-      "lng": 7.6179,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "San Francisco архиепископ urges new Nigerian священники be ‘friends и fathers’ their люди",
-      "description": "“ люди God must know that священник is с them, that he is для them, и that he acts only с their best interest в mind,” архиепископ Salvatore Cordileone told 14 newly ordained священники.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/san-francisco-archbishop-urges-new-nigerian-priests-to-be-friends-and-fathers-to-their-people",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-24",
-      "lat": 19.2204,
-      "lng": 72.9271,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "arrest",
-      "title": "UK пастор Booked на Bizarre обвинения",
-      "description": "Власти обвинён British христианский лидер Indian descent в Pune, Maharashtra, India, для allegedly attempting illegally convert индусы христианство под law that has yet come в effect. Pune полиция filed chargesheet на",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/24/uk-pastor-booked-on-bizarre-charges/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-24",
-      "lat": 11.5845,
-      "lng": 12.9576,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "San Francisco архиепископ urges new Nigerian священники be ‘friends и fathers’ their люди",
-      "description": "“ люди God must know that священник is с them, that he is для them, и that he acts only с their best interest в mind,” архиепископ Salvatore Cordileone told 14 newly ordained священники.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/san-francisco-archbishop-urges-new-nigerian-priests-to-be-friends-and-fathers-to-their-people",
       "victims": 0
     }
   ]
