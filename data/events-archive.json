@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-09T03:17:56.288Z",
+    "lastUpdated": "2026-10-09T12:10:52.528Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,19 @@
       "description": "General надзиратель Foursquare Gospel церковь, Rev ЗУР Aboyeji, has urged Federal правительство prioritise welfare poor Nigerians и reduce Read More: https://punchng.com/foursquare-go-urges-fg--tackle-rising-living-costs/",
       "source": "punchng",
       "url": "https://punchng.com/foursquare-go-urges-fg-to-tackle-rising-living-costs/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-09",
+      "lat": 9.1592,
+      "lng": 9.5722,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Ogun monarch’s cap removal во время богослужение sparks mixed reactions",
+      "description": "Removal his cap Osile Oke-Ona Egba, Oba Adedapo Adewale Tejuoso, во время христианин богослужение event has sparked mixed reactions на social media, с some Nigerians criticising gesture as disrespectful Yoruba tradition и other",
+      "source": "punchng",
+      "url": "https://punchng.com/ogun-monarchs-cap-removal-during-worship-sparks-mixed-reactions/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     },
     {
@@ -129,6 +142,32 @@
       "lng": 37.1702,
       "country": "Syria",
       "city": "Aleppo",
+      "type": "attack",
+      "title": "Syrian христианин посёлок атакован для второй time мусульманин толпа",
+      "description": "Мусульманин толпа has однажды снова атакован христианин majority посёлок Suqaylabiyah в Syria.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/syrian-christian-town-attacked-for-second-time-by-muslim-mob",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-08",
+      "lat": 9.4651,
+      "lng": 9.5182,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "arrest",
+      "title": "Военные в Nigeria Detains христианский журналист-Rights защитник",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – религиозный freedom защитник и христианский журналист в Nigeria was being held without обвинения и incommunicado после soldiers арестован him военные больница, where relatives",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/military-in-nigeria-detains-christian-journalist-rights-advocate/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-08",
+      "lat": 33.5286,
+      "lng": 36.4441,
+      "country": "Syria",
+      "city": "Damascus",
       "type": "attack",
       "title": "Syrian христианин посёлок атакован для второй time мусульманин толпа",
       "description": "Мусульманин толпа has однажды снова атакован христианин majority посёлок Suqaylabiyah в Syria.",
@@ -264,6 +303,32 @@
       "description": "ICC Fellow Lisa Navarrette Throughout this series, Disappearing христианин Middle East, we have traveled through Iraq, Syria, Lebanon, Bethlehem, Jerusalem, West Bank, и Gaza. Circumstances differ в each place, but pattern is в",
       "source": "persecution",
       "url": "https://persecution.org/2026/10/07/the-disappearing-christian-middle-east-part-vi-when-christianity-becomes-history/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-07",
+      "lat": 6.4522,
+      "lng": 3.3933,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Six христиане убит выходные в Central Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани боевики в Nigeria застрелен two христиане смерть в деревня Bokkos округ, плато штат, на воскресенье (Oct. 4) и four others в Riyom округ на суббота, sources said. “Two",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/six-christians-slain-over-weekend-in-central-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-07",
+      "lat": 35.9962,
+      "lng": 36.9801,
+      "country": "Syria",
+      "city": "Aleppo",
+      "type": "other",
+      "title": "5 Leadership Lessons из преследуемый церковь",
+      "description": "This post is в partnership с Global христианин Relief, written Brian Orme, CEO Global христианин Relief Father Boutros и I sat в front large wooden board near entrance Mar Elias церковь outside Damascus, Syria. board covered",
+      "source": "newsapi:Careynieuwhof.com",
+      "url": "https://careynieuwhof.com/persecuted-church-leadership-lessons/",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "Catholic Charities Diocese Gary said that пока roughly 99% those who had lost power have сейчас had it restored, significant needs remain among residents recovering из recent storms.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/amid-prolonged-power-outages-in-indiana-catholic-charities-serves-those-in-need",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-27",
-      "lat": 6.7357,
-      "lng": 3.2586,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "discrimination",
-      "title": "Христианские фермеры Fear Returning Their Fields в плато штат после фулани ополчения Kill 27",
-      "description": "Для many христианские фермеры в Irigwe communities в плато штат, Nigeria, traveling their farms has become dangerous. Some have stopped going altogether. Others сейчас move в groups, hoping that numbers will offer some protection. But для familie",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/27/christian-farmers-fear-returning-to-their-fields-in-plateau-state-after-fulani-militias-kill-27/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-27",
-      "lat": 19.1896,
-      "lng": 72.6526,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "other",
-      "title": "Catholic Charities steps up amid prolonged power outages в Indiana",
-      "description": "Catholic Charities Diocese Gary said that пока roughly 99% those who had lost power have сейчас had it restored, significant needs remain among residents recovering из recent storms.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/amid-prolonged-power-outages-in-indiana-catholic-charities-serves-those-in-need",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-27",
-      "lat": 21.1118,
-      "lng": 85.2314,
-      "country": "India",
-      "city": "Odisha",
-      "type": "other",
-      "title": "Catholic Charities steps up amid prolonged power outages в Indiana",
-      "description": "Catholic Charities Diocese Gary said that пока roughly 99% those who had lost power have сейчас had it restored, significant needs remain among residents recovering из recent storms.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/amid-prolonged-power-outages-in-indiana-catholic-charities-serves-those-in-need",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-27",
-      "lat": 9.1083,
-      "lng": 9.4415,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "discrimination",
-      "title": "Христианские фермеры Fear Returning Their Fields в плато штат после фулани ополчения Kill 27",
-      "description": "Для many христианские фермеры в Irigwe communities в плато штат, Nigeria, traveling their farms has become dangerous. Some have stopped going altogether. Others сейчас move в groups, hoping that numbers will offer some protection. But для familie",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/27/christian-farmers-fear-returning-to-their-fields-in-plateau-state-after-fulani-militias-kill-27/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-27",
-      "lat": 12.2268,
-      "lng": 8.519,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "discrimination",
-      "title": "Христианские фермеры Fear Returning Their Fields в плато штат после фулани ополчения Kill 27",
-      "description": "Для many христианские фермеры в Irigwe communities в плато штат, Nigeria, traveling their farms has become dangerous. Some have stopped going altogether. Others сейчас move в groups, hoping that numbers will offer some protection. But для familie",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/27/christian-farmers-fear-returning-to-their-fields-in-plateau-state-after-fulani-militias-kill-27/",
       "victims": 0
     }
   ]
