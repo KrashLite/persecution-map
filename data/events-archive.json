@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-10T16:27:53.438Z",
+    "lastUpdated": "2026-10-10T20:47:31.161Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,32 @@
       "description": "Qaiser Ayub's ordeal began в 2011.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/christians-deeply-concerned-as-pakistani-accused-of-blasphemy-has-death-sentence-upheld",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-10",
+      "lat": 25.0814,
+      "lng": 67.1522,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "murder",
+      "title": "Христиане 'deeply concerned' as Pakistani accused богохульство has смертный приговор upheld",
+      "description": "Qaiser Ayub's ordeal began в 2011.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christians-deeply-concerned-as-pakistani-accused-of-blasphemy-has-death-sentence-upheld",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-10",
+      "lat": 12.0583,
+      "lng": 13.1823,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "kidnapping",
+      "title": "Полиция foil plot kidnap Abuja prophetess, арест 4 suspects",
+      "description": "Intelligence Response Team (IRT) Nigeria полиция сила has foiled alleged plot kidnap prophetess и assistant пастор в Federal столица Territory (FCT), Abuja, и арестован four suspects с locally fabricated firearm и",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/10/police-foil-plot-to-kidnap-abuja-prophetess-arrest-4-suspects/",
       "victims": 0
     },
     {
@@ -215,6 +241,19 @@
       "victims": 0
     },
     {
+      "date": "2026-10-09",
+      "lat": 11.8863,
+      "lng": 13.367,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "kidnapping",
+      "title": "Fulanis Kill, Kidnap христиане в Kaduna штат, Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани assailants на вторник (Oct. 6) broke в homes near столица Kaduna штат и похищен five христиане и 6-месяц-old ребёнок, sources said. assailants похищен",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/fulanis-kill-kidnap-christians-in-kaduna-state-nigeria/",
+      "victims": 0
+    },
+    {
       "date": "2026-10-08",
       "lat": 6.7417,
       "lng": 3.4894,
@@ -376,6 +415,19 @@
       "lng": 7.6073,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "arrest",
+      "title": "Военные в Nigeria Detains христианский журналист-Rights защитник",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – религиозный freedom защитник и христианский журналист в Nigeria was being held without обвинения и incommunicado после soldiers арестован him военные больница, where relatives",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/military-in-nigeria-detains-christian-journalist-rights-advocate/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-08",
+      "lat": 10.5473,
+      "lng": 7.2253,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "arrest",
       "title": "Военные в Nigeria Detains христианский журналист-Rights защитник",
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – религиозный freedom защитник и христианский журналист в Nigeria was being held without обвинения и incommunicado после soldiers арестован him военные больница, where relatives",
@@ -6447,58 +6499,6 @@
       "lng": 9.5945,
       "country": "Nigeria",
       "city": "Plateau",
-      "type": "other",
-      "title": "Rest для священник not luxury but necessity для mental health, Nigerian Vatican чиновник says",
-      "description": "As part formation program, secretary Vatican Dicastery для Evangelization urged священники take time away из министерство sustain their physical и mental health.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/rest-for-a-priest-not-a-luxury-but-a-necessity-for-mental-health-nigerian-vatican-official-says",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-30",
-      "lat": 10.3076,
-      "lng": 7.5334,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "VIDEO: Nigerians are already в hell, Ibiyeomie urges compassionate evangelism",
-      "description": "Пастор David Ibiyeomie защитники для compassionate evangelism, stating Nigerians are “already в hell” due economic лишения. Learn why he believes love Read More: https://punchng.com/video-nigerians-are-already-в-hell-ibiyeomie-urges-compassion",
-      "source": "punchng",
-      "url": "https://punchng.com/video-nigerians-are-already-in-hell-ibiyeomie-urges-compassionate-evangelism/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-30",
-      "lat": 10.5843,
-      "lng": 7.2195,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Rest для священник not luxury but necessity для mental health, Nigerian Vatican чиновник says",
-      "description": "As part formation program, secretary Vatican Dicastery для Evangelization urged священники take time away из министерство sustain their physical и mental health.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/rest-for-a-priest-not-a-luxury-but-a-necessity-for-mental-health-nigerian-vatican-official-says",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-30",
-      "lat": 9.0825,
-      "lng": 7.349,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "Rest для священник not luxury but necessity для mental health, Nigerian Vatican чиновник says",
-      "description": "As part formation program, secretary Vatican Dicastery для Evangelization urged священники take time away из министерство sustain their physical и mental health.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/rest-for-a-priest-not-a-luxury-but-a-necessity-for-mental-health-nigerian-vatican-official-says",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-30",
-      "lat": 12.1612,
-      "lng": 8.7879,
-      "country": "Nigeria",
-      "city": "Kano",
       "type": "other",
       "title": "Rest для священник not luxury but necessity для mental health, Nigerian Vatican чиновник says",
       "description": "As part formation program, secretary Vatican Dicastery для Evangelization urged священники take time away из министерство sustain their physical и mental health.",
