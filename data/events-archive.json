@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-09T21:56:05.584Z",
+    "lastUpdated": "2026-10-10T02:57:51.957Z",
     "totalEvents": 500
   },
   "events": [
@@ -122,6 +122,45 @@
       "source": "aleteia",
       "url": "https://aleteia.org/2026/10/09/bishop-responds-to-us-plan-for-public-execution/",
       "victims": 13
+    },
+    {
+      "date": "2026-10-09",
+      "lat": 11.7971,
+      "lng": 8.6616,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "kidnapping",
+      "title": "Fulanis Kill, Kidnap христиане в Kaduna штат, Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани assailants на вторник (Oct. 6) broke в homes near столица Kaduna штат и похищен five христиане и 6-месяц-old ребёнок, sources said. assailants похищен",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/fulanis-kill-kidnap-christians-in-kaduna-state-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-09",
+      "lat": 33.7989,
+      "lng": 72.9597,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "arrest",
+      "title": "Мусульмане Burn Home, Shop христианин в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – мусульманин толпа в Pakistan set fire христианин’s house и shop на пятница (Oct. 9) после he was accused богохульство, forcing more than 35 христианские семьи flee their homes",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/muslims-burn-home-shop-of-christian-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-09",
+      "lat": 36.3553,
+      "lng": 59.7064,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "arrest",
+      "title": "Armenian Prisoners в Azerbaijan Report ограничения на религиозный Practice",
+      "description": "Armenian prisoners held в Azerbaijan are being отказано meaningful contact с their семьи, независимый medical professionals, и international humanitarian monitors, пока reports ограничения на their христианин религиозный practice have raised",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/09/armenian-prisoners-in-azerbaijan-report-restrictions-on-religious-practice/",
+      "victims": 0
     },
     {
       "date": "2026-10-08",
@@ -423,6 +462,19 @@
       "victims": 0
     },
     {
+      "date": "2026-10-07",
+      "lat": 0.2643,
+      "lng": 32.4955,
+      "country": "Uganda",
+      "city": "Kampala",
+      "type": "murder",
+      "title": "Hunted для Following Jesus",
+      "description": "В some communities, мусульмане who leave ислам follow Christ face rejection, угрозы, violence, и even смерть because their вера. для мусульманин-background верующие, choosing follow Jesus can place their lives serious risk. This is what happ",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/07/hunted-for-following-jesus/",
+      "victims": 0
+    },
+    {
       "date": "2026-10-06",
       "lat": 9.2892,
       "lng": 9.6283,
@@ -564,6 +616,19 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/10/06/christians-reel-under-effects-of-floods-persecution-in-chhattisgarh/",
       "victims": 0
+    },
+    {
+      "date": "2026-10-06",
+      "lat": 8.9828,
+      "lng": 7.6096,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Атаки в плато штат, Nigeria Claim Lives 12 христиане",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани боевики в Nigeria убит least 12 христиане в Barkin Ladi округ, плато штат three дни end сентябрь, sources said. Five христиане were убит,",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/attacks-in-plateau-state-nigeria-claim-lives-of-12-christians/",
+      "victims": 12
     },
     {
       "date": "2026-10-05",
@@ -1265,6 +1330,19 @@
       "description": "Reverend Isaac Omolehin says his criticism denominational divisions в Nigerian христианство has exposed him и his семья security угрозы из запрет Read More: https://punchng.com/my-criticism--христианин-bodies-exposed-me--security-угроза",
       "source": "newsapi:The Punch",
       "url": "https://punchng.com/my-criticism-of-christian-bodies-exposed-me-to-security-threats-rev-omolehin/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-03",
+      "lat": 8.958,
+      "lng": 7.6749,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "CAN will criticise govt if citizens’re not protected– президент",
+      "description": "Христианин Association Nigeria (CAN) says it will criticise правительство if it fails protect citizens or violates their rights, says its Preside Read More: https://punchng.com/can-will-criticise-govt-if-citizensre-not-protected-президент/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/can-will-criticise-govt-if-citizensre-not-protected-president/",
       "victims": 0
     },
     {
@@ -6421,84 +6499,6 @@
       "lng": 74.2962,
       "country": "Pakistan",
       "city": "Lahore",
-      "type": "kidnapping",
-      "title": "U.S. Lawmakers Urge Protection для христианин Girl в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Members U.S. конгресс have urged Pakistani правительство take steps protect 18-год-old христианка who her семья says was похищен и forcibly converted I",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/08/u-s-lawmakers-urge-protection-for-christian-girl-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-28",
-      "lat": 29.6031,
-      "lng": 52.7316,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "New Iranian security law could be used further suppress христианин activity",
-      "description": "Религиозный freedom campaigners have warned that new law aimed countering foreign espionage в Iran май actually be used further suppress rights христиане.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/new-iranian-security-law-could-be-used-to-further-suppress-christian-activity",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-28",
-      "lat": 20.8288,
-      "lng": 105.9412,
-      "country": "Vietnam",
-      "city": "Hanoi",
-      "type": "other",
-      "title": "Revival Latin месса spreads among Vietnamese Catholic молодёжь",
-      "description": "Vietnamese молодёжь drawn TLM, Holy Land священники highlight plight христианская община, Philippine dioceses call для end mining agreement, и more в на этой неделе’s world news roundup.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/revival-of-latin-mass-spreads-among-vietnamese-catholic-youth",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-28",
-      "lat": 24.6807,
-      "lng": 66.9393,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "kidnapping",
-      "title": "U.S. Lawmakers Urge Protection для христианин Girl в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Members U.S. конгресс have urged Pakistani правительство take steps protect 18-год-old христианка who her семья says was похищен и forcibly converted I",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/08/u-s-lawmakers-urge-protection-for-christian-girl-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-28",
-      "lat": 32.5948,
-      "lng": 51.7518,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "New Iranian security law could be used further suppress христианин activity",
-      "description": "Религиозный freedom campaigners have warned that new law aimed countering foreign espionage в Iran май actually be used further suppress rights христиане.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/new-iranian-security-law-could-be-used-to-further-suppress-christian-activity",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-28",
-      "lat": 35.7867,
-      "lng": 51.165,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "New Iranian security law could be used further suppress христианин activity",
-      "description": "Религиозный freedom campaigners have warned that new law aimed countering foreign espionage в Iran май actually be used further suppress rights христиане.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/new-iranian-security-law-could-be-used-to-further-suppress-christian-activity",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-28",
-      "lat": 33.8288,
-      "lng": 73.2563,
-      "country": "Pakistan",
-      "city": "Islamabad",
       "type": "kidnapping",
       "title": "U.S. Lawmakers Urge Protection для христианин Girl в Pakistan",
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Members U.S. конгресс have urged Pakistani правительство take steps protect 18-год-old христианка who her семья says was похищен и forcibly converted I",
