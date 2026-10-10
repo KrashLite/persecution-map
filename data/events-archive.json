@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-10T02:57:51.957Z",
+    "lastUpdated": "2026-10-10T11:28:17.442Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-10-10",
+      "lat": 34.1168,
+      "lng": 71.5649,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "murder",
+      "title": "Христиане 'deeply concerned' as Pakistani accused богохульство has смертный приговор upheld",
+      "description": "Qaiser Ayub's ordeal began в 2011.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christians-deeply-concerned-as-pakistani-accused-of-blasphemy-has-death-sentence-upheld",
+      "victims": 0
+    },
     {
       "date": "2026-10-09",
       "lat": 11.7238,
@@ -163,6 +176,19 @@
       "victims": 0
     },
     {
+      "date": "2026-10-09",
+      "lat": 35.905,
+      "lng": 51.5772,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "arrest",
+      "title": "Armenian Prisoners в Azerbaijan Report ограничения на религиозный Practice",
+      "description": "Armenian prisoners held в Azerbaijan are being отказано meaningful contact с their семьи, независимый medical professionals, и international humanitarian monitors, пока reports ограничения на their христианин религиозный practice have raised",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/09/armenian-prisoners-in-azerbaijan-report-restrictions-on-religious-practice/",
+      "victims": 0
+    },
+    {
       "date": "2026-10-08",
       "lat": 6.7417,
       "lng": 3.4894,
@@ -303,6 +329,19 @@
       "description": "Neither trip has been confirmed Holy See, but possibility reflects growing importance Guadalupe jubilee в Mexican церковь’s pastoral plans и its ambitions для wider spiritual renewal across Americas. post папа Le",
       "source": "zenit",
       "url": "https://zenit.org/2026/10/08/pope-leo-xiv-will-visit-mexico-twice-according-to-statements-by-the-president-of-the-mexican-bishops-conference-the-dates-will-be-as-follows/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-08",
+      "lat": 6.2957,
+      "lng": 3.3797,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "arrest",
+      "title": "Военные в Nigeria Detains христианский журналист-Rights защитник",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – религиозный freedom защитник и христианский журналист в Nigeria was being held without обвинения и incommunicado после soldiers арестован him военные больница, where relatives",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/military-in-nigeria-detains-christian-journalist-rights-advocate/",
       "victims": 0
     },
     {
@@ -475,6 +514,19 @@
       "victims": 0
     },
     {
+      "date": "2026-10-07",
+      "lat": 33.3256,
+      "lng": 36.4046,
+      "country": "Syria",
+      "city": "Damascus",
+      "type": "other",
+      "title": "5 Leadership Lessons из преследуемый церковь",
+      "description": "This post is в partnership с Global христианин Relief, written Brian Orme, CEO Global христианин Relief Father Boutros и I sat в front large wooden board near entrance Mar Elias церковь outside Damascus, Syria. board covered",
+      "source": "newsapi:Careynieuwhof.com",
+      "url": "https://careynieuwhof.com/persecuted-church-leadership-lessons/",
+      "victims": 0
+    },
+    {
       "date": "2026-10-06",
       "lat": 9.2892,
       "lng": 9.6283,
@@ -629,6 +681,19 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/10/attacks-in-plateau-state-nigeria-claim-lives-of-12-christians/",
       "victims": 12
+    },
+    {
+      "date": "2026-10-06",
+      "lat": 21.0276,
+      "lng": 85.2808,
+      "country": "India",
+      "city": "Odisha",
+      "type": "discrimination",
+      "title": "Христиане Reel под Effects Floods, гонение в Chhattisgarh",
+      "description": "Христиане в Chhattisgarh, India, facing relentless pressure из индус nationalists, must сейчас deal с aftermath recent floods. flooding unfolded between Sept. 24 и 27 along volatile banks Indravati река в Chhattisgarh’s",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/06/christians-reel-under-effects-of-floods-persecution-in-chhattisgarh/",
+      "victims": 0
     },
     {
       "date": "2026-10-05",
@@ -6434,71 +6499,6 @@
       "lng": 71.6449,
       "country": "Pakistan",
       "city": "Peshawar",
-      "type": "kidnapping",
-      "title": "U.S. Lawmakers Urge Protection для христианин Girl в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Members U.S. конгресс have urged Pakistani правительство take steps protect 18-год-old христианка who her семья says was похищен и forcibly converted I",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/08/u-s-lawmakers-urge-protection-for-christian-girl-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-28",
-      "lat": 36.0818,
-      "lng": 59.7273,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "New Iranian security law could be used further suppress христианин activity",
-      "description": "Религиозный freedom campaigners have warned that new law aimed countering foreign espionage в Iran май actually be used further suppress rights христиане.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/new-iranian-security-law-could-be-used-to-further-suppress-christian-activity",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-28",
-      "lat": 16.9045,
-      "lng": 96.1343,
-      "country": "Myanmar",
-      "city": "Yangon",
-      "type": "murder",
-      "title": "Baptist пастор убит за веру в Myanmar военные Dictatorship",
-      "description": "Burma Research Institute (BRI) has confirmed that Rev. William и another Chin христианин, Nam Ceu, were extrajudicially убит на июнь 4 Burmese военные dictatorship. Rev. William had pastored Chungcung баптистская церковь в Chin stat",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/28/baptist-pastor-martyred-in-myanmar-by-military-dictatorship/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-28",
-      "lat": 10.5787,
-      "lng": 106.5871,
-      "country": "Vietnam",
-      "city": "Ho Chi Minh City",
-      "type": "other",
-      "title": "Revival Latin месса spreads among Vietnamese Catholic молодёжь",
-      "description": "Vietnamese молодёжь drawn TLM, Holy Land священники highlight plight христианская община, Philippine dioceses call для end mining agreement, и more в на этой неделе’s world news roundup.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/revival-of-latin-mass-spreads-among-vietnamese-catholic-youth",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-28",
-      "lat": 21.9614,
-      "lng": 95.8635,
-      "country": "Myanmar",
-      "city": "Mandalay",
-      "type": "murder",
-      "title": "Baptist пастор убит за веру в Myanmar военные Dictatorship",
-      "description": "Burma Research Institute (BRI) has confirmed that Rev. William и another Chin христианин, Nam Ceu, were extrajudicially убит на июнь 4 Burmese военные dictatorship. Rev. William had pastored Chungcung баптистская церковь в Chin stat",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/28/baptist-pastor-martyred-in-myanmar-by-military-dictatorship/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-28",
-      "lat": 31.658,
-      "lng": 74.2962,
-      "country": "Pakistan",
-      "city": "Lahore",
       "type": "kidnapping",
       "title": "U.S. Lawmakers Urge Protection для христианин Girl в Pakistan",
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Members U.S. конгресс have urged Pakistani правительство take steps protect 18-год-old христианка who her семья says was похищен и forcibly converted I",
