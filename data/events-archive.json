@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-11T16:52:15.428Z",
+    "lastUpdated": "2026-10-11T21:08:37.224Z",
     "totalEvents": 500
   },
   "events": [
@@ -329,6 +329,19 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – мусульманин толпа в Pakistan set fire христианин’s house и shop на пятница (Oct. 9) после he was accused богохульство, forcing more than 35 христианские семьи flee their homes",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/10/muslims-burn-home-shop-of-christian-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-09",
+      "lat": 29.3836,
+      "lng": 52.6407,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "arrest",
+      "title": "Armenian Prisoners в Azerbaijan Report ограничения на религиозный Practice",
+      "description": "Armenian prisoners held в Azerbaijan are being отказано meaningful contact с their семьи, независимый medical professionals, и international humanitarian monitors, пока reports ограничения на their христианин религиозный practice have raised",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/09/armenian-prisoners-in-azerbaijan-report-restrictions-on-religious-practice/",
       "victims": 0
     },
     {
@@ -6491,19 +6504,6 @@
       "description": "Speakers Rimini Meeting highlighted гонение христиане, violence в Nigeria и Lebanon, и importance defending freedom вера для люди all веры.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/europe/religious-freedom-under-growing-threat-worldwide-experts-warn-at-catholic-gathering-in-italy",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-31",
-      "lat": 28.5863,
-      "lng": 76.903,
-      "country": "India",
-      "city": "Delhi",
-      "type": "other",
-      "title": "Христиане move protect themselves as another Indian штат enacts anti-обращение law",
-      "description": "Церкви are asking visitors sign consent forms declaring that they attend services their own free will.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christians-move-to-protect-themselves-as-another-indian-state-enacts-anti-conversion-law",
       "victims": 0
     }
   ]
