@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-11T11:41:53.562Z",
+    "lastUpdated": "2026-10-11T16:52:15.428Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,19 @@
       "description": "Из Turkey's Sumela Monastery, built against cliff, Ethiopia’s rock-hewn церковь reached difficult climb, some христианский паломниквек sites make journey itself part experience.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/from-turkey-to-ethiopia-7-churches-and-monasteries-for-adventurous-pilgrims",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-11",
+      "lat": 4.3552,
+      "lng": 18.8065,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "Епископы страдания Nicaragua will visit Rome на этой неделе",
+      "description": "Following епископы Honduras previous неделя и ahead those Panama неделя после, епископы Nicaragua will make their ad limina visit beginning октябрь 12, с audience scheduled с папа Leo XIV likely на пятница утро. Beh",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/10/11/bishops-of-suffering-nicaragua-will-visit-rome-this-week/",
       "victims": 0
     },
     {
@@ -6491,19 +6504,6 @@
       "description": "Церкви are asking visitors sign consent forms declaring that they attend services their own free will.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/christians-move-to-protect-themselves-as-another-indian-state-enacts-anti-conversion-law",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-31",
-      "lat": 29.6099,
-      "lng": 52.6902,
-      "country": "Iran",
-      "city": "Shiraz",
-      "type": "other",
-      "title": "Canada Grants убежище Iranian христианин депортирован из US",
-      "description": "После being депортирован из United штаты пока seeking убежище, христианин-конверт who fled гонение в Iran has new home. Artemis Ghasemzadeh, 27, недавно received убежище through Canada’s беженец resettlement program. She arrived her new",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/31/canada-grants-asylum-to-iranian-christian-deported-from-us/",
       "victims": 0
     }
   ]
