@@ -2,10 +2,62 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-12T02:51:39.179Z",
+    "lastUpdated": "2026-10-12T13:40:05.472Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-10-12",
+      "lat": 33.4484,
+      "lng": 44.1764,
+      "country": "Iraq",
+      "city": "Baghdad",
+      "type": "discrimination",
+      "title": "Vatican scholarships keep христиане в Middle East",
+      "description": "Папа Leo XIV received Synod епископы Greek-Melkite церковь Antioch на октябрь 10, offering words solidarity с community that has lived для десятилетия под weight war, религиозный extremism, вынужден migration, и economic col",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/10/12/vatican-scholarships-to-keep-christians-in-the-middle-east/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-12",
+      "lat": 6.6685,
+      "lng": 3.4719,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "My Nigerian пастор inspired me speak out на христианин гонение — Nicki Minaj",
+      "description": "“для Nigeria personally, my пастор is из Nigeria, so I have link Nigeria because him. и course, I have lot Nigerian barbs, but what I started seeing was жестокость с which христиане are being treated there just для being Ch",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/10/my-nigerian-pastor-inspired-me-to-speak-out-on-christian-persecution-nicki-minaj/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-12",
+      "lat": 10.4725,
+      "lng": 7.4797,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "My пастор is из Nigeria — Nicki Minaj",
+      "description": "Rapper Nicki Minaj says her Nigerian пастор influenced her decision speak out о alleged гонение христиане в Nigeria. Read More: https://punchng.com/my-пастор-is-из-nigeria-nicki-minaj/",
+      "source": "punchng",
+      "url": "https://punchng.com/my-pastor-is-from-nigeria-nicki-minaj/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-12",
+      "lat": 8.8332,
+      "lng": 38.527,
+      "country": "Ethiopia",
+      "city": "Addis Ababa",
+      "type": "other",
+      "title": "Who was Ethiopian eunuch и what can we learn из him?",
+      "description": "Когда we think о history христианство в Africa, we май немедленно think European миссионеры who travelled continent spread gospel. Yet Africa’s connection христианство stretches much further back, earliest день",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/who-was-the-ethiopian-eunuch-and-what-can-we-learn-from-him",
+      "victims": 0
+    },
     {
       "date": "2026-10-11",
       "lat": 9.0345,
@@ -342,6 +394,19 @@
       "description": "Armenian prisoners held в Azerbaijan are being отказано meaningful contact с their семьи, независимый medical professionals, и international humanitarian monitors, пока reports ограничения на their христианин религиозный practice have raised",
       "source": "persecution",
       "url": "https://persecution.org/2026/10/09/armenian-prisoners-in-azerbaijan-report-restrictions-on-religious-practice/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-09",
+      "lat": 6.3949,
+      "lng": 3.3889,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "kidnapping",
+      "title": "Fulanis Kill, Kidnap христиане в Kaduna штат, Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани assailants на вторник (Oct. 6) broke в homes near столица Kaduna штат и похищен five христиане и 6-месяц-old ребёнок, sources said. assailants похищен",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/fulanis-kill-kidnap-christians-in-kaduna-state-nigeria/",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – христианин rights защитники на суббота (Aug. 29) condemned Pakistani суд’s decision give custody 13-год-old христианин girl мусульманин accused abducting, forcibly co",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/08/muslims-custody-of-christian-girl-to-muslim-in-pakistan-condemned/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-31",
-      "lat": 6.6721,
-      "lng": 3.2236,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "discrimination",
-      "title": "Религиозный freedom под growing угроза worldwide, experts warn Catholic gathering в Italy",
-      "description": "Speakers Rimini Meeting highlighted гонение христиане, violence в Nigeria и Lebanon, и importance defending freedom вера для люди all веры.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/europe/religious-freedom-under-growing-threat-worldwide-experts-warn-at-catholic-gathering-in-italy",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-31",
-      "lat": 32.7016,
-      "lng": 51.8895,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "other",
-      "title": "Canada Grants убежище Iranian христианин депортирован из US",
-      "description": "После being депортирован из United штаты пока seeking убежище, христианин-конверт who fled гонение в Iran has new home. Artemis Ghasemzadeh, 27, недавно received убежище through Canada’s беженец resettlement program. She arrived her new",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/31/canada-grants-asylum-to-iranian-christian-deported-from-us/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-31",
-      "lat": 33.6788,
-      "lng": 73.0454,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "kidnapping",
-      "title": "Мусульманин’s Custody христианин Girl в Pakistan Condemned",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – христианин rights защитники на суббота (Aug. 29) condemned Pakistani суд’s decision give custody 13-год-old христианин girl мусульманин accused abducting, forcibly co",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/08/muslims-custody-of-christian-girl-to-muslim-in-pakistan-condemned/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-31",
-      "lat": 11.7572,
-      "lng": 8.694,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "discrimination",
-      "title": "Религиозный freedom под growing угроза worldwide, experts warn Catholic gathering в Italy",
-      "description": "Speakers Rimini Meeting highlighted гонение христиане, violence в Nigeria и Lebanon, и importance defending freedom вера для люди all веры.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/europe/religious-freedom-under-growing-threat-worldwide-experts-warn-at-catholic-gathering-in-italy",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-31",
-      "lat": 10.4123,
-      "lng": 7.4717,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "discrimination",
-      "title": "Религиозный freedom под growing угроза worldwide, experts warn Catholic gathering в Italy",
-      "description": "Speakers Rimini Meeting highlighted гонение христиане, violence в Nigeria и Lebanon, и importance defending freedom вера для люди all веры.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/europe/religious-freedom-under-growing-threat-worldwide-experts-warn-at-catholic-gathering-in-italy",
       "victims": 0
     }
   ]
