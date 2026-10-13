@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-13T04:08:02.078Z",
+    "lastUpdated": "2026-10-13T13:02:22.357Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-10-13",
+      "lat": 12.6402,
+      "lng": -7.9048,
+      "country": "Mali",
+      "city": "Bamako",
+      "type": "murder",
+      "title": "Catholics can’t participate в казнь, says военные архиепископ",
+      "description": "Пока Vatican secretary штат и leader US епископы have already spoken out against plans для live-streamed казнь в United штаты, сейчас военные архиепископ nation has taken further step, saying that as bis",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/10/13/catholics-cant-participate-in-execution-says-military-archbishop/",
+      "victims": 13
+    },
     {
       "date": "2026-10-12",
       "lat": 33.4484,
@@ -108,6 +121,45 @@
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected исламский террористы атакован three predominantly христианин деревни в Adamawa штат, Nigeria, на четверг (Oct. 8), убийство least one человек и поджог least one chu",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/10/islamic-terrorists-attack-three-villages-in-northeast-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-12",
+      "lat": 36.0838,
+      "lng": 43.8629,
+      "country": "Iraq",
+      "city": "Erbil",
+      "type": "discrimination",
+      "title": "Vatican scholarships keep христиане в Middle East",
+      "description": "Папа Leo XIV received Synod епископы Greek-Melkite церковь Antioch на октябрь 10, offering words solidarity с community that has lived для десятилетия под weight war, религиозный extremism, вынужден migration, и economic col",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/10/12/vatican-scholarships-to-keep-christians-in-the-middle-east/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-12",
+      "lat": 6.7366,
+      "lng": 3.5424,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "My пастор is из Nigeria — Nicki Minaj",
+      "description": "Rapper Nicki Minaj says her Nigerian пастор influenced her decision speak out о alleged гонение христиане в Nigeria. Read More: https://punchng.com/my-пастор-is-из-nigeria-nicki-minaj/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/my-pastor-is-from-nigeria-nicki-minaj/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-12",
+      "lat": 24.6649,
+      "lng": 66.869,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "murder",
+      "title": "Христианин’s смертный приговор Upheld под богохульство Law в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Pakistan’s Supreme суд на среда (Oct. 7) announced that it had upheld смертный приговор христианин осуждён под богохульство laws пока acquitting his брат, с right",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/christians-death-sentence-upheld-under-blasphemy-law-in-pakistan/",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "Speakers Rimini Meeting highlighted гонение христиане, violence в Nigeria и Lebanon, и importance defending freedom вера для люди all веры.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/europe/religious-freedom-under-growing-threat-worldwide-experts-warn-at-catholic-gathering-in-italy",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-31",
-      "lat": 21.2069,
-      "lng": 81.6735,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "other",
-      "title": "Христиане move protect themselves as another Indian штат enacts anti-обращение law",
-      "description": "Церкви are asking visitors sign consent forms declaring that they attend services their own free will.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christians-move-to-protect-themselves-as-another-indian-state-enacts-anti-conversion-law",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-31",
-      "lat": 27.5226,
-      "lng": 85.44,
-      "country": "Nepal",
-      "city": "Kathmandu",
-      "type": "murder",
-      "title": "Церкви Affected Nepal Floods",
-      "description": "As смерть toll из Nepal’s floods exceeds 900 люди и number пропавший без вести sits more than 4,400 люди, narratives are starting emerge о lives that got swept away. в addition horrific loss life, floods have also",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/31/churches-affected-by-nepal-floods/",
-      "victims": 900
-    },
-    {
-      "date": "2026-08-31",
-      "lat": 35.602,
-      "lng": 51.241,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "other",
-      "title": "Canada Grants убежище Iranian христианин депортирован из US",
-      "description": "После being депортирован из United штаты пока seeking убежище, христианин-конверт who fled гонение в Iran has new home. Artemis Ghasemzadeh, 27, недавно received убежище through Canada’s беженец resettlement program. She arrived her new",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/08/31/canada-grants-asylum-to-iranian-christian-deported-from-us/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-31",
-      "lat": 24.9504,
-      "lng": 67.0855,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "kidnapping",
-      "title": "Мусульманин’s Custody христианин Girl в Pakistan Condemned",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – христианин rights защитники на суббота (Aug. 29) condemned Pakistani суд’s decision give custody 13-год-old христианин girl мусульманин accused abducting, forcibly co",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/08/muslims-custody-of-christian-girl-to-muslim-in-pakistan-condemned/",
       "victims": 0
     }
   ]
