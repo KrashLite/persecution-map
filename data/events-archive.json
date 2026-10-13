@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-13T13:02:22.357Z",
+    "lastUpdated": "2026-10-13T22:01:47.338Z",
     "totalEvents": 500
   },
   "events": [
@@ -18,6 +18,32 @@
       "source": "aleteia",
       "url": "https://aleteia.org/2026/10/13/catholics-cant-participate-in-execution-says-military-archbishop/",
       "victims": 13
+    },
+    {
+      "date": "2026-10-13",
+      "lat": 8.9988,
+      "lng": 7.5489,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Христианин Humanitarian Worker убит в Northwest Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Unidentified боевики застрелен и убит христианка volunteering с Nigerian Red крест Society в Oct. 6 атака на her team’s vehicle в Sokoto штат, sources said. Lydia N",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/christian-humanitarian-worker-slain-in-northwest-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-13",
+      "lat": 33.5178,
+      "lng": 73.0893,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "kidnapping",
+      "title": "Pakistani суд orders reopening case involving young христианка похищен, вынужден convert, и married 30-год-old мужчина",
+      "description": "High суд в Pakistan ordered reopening полиция investigation в case Maria Shahbaz, 13-год-old girl who was похищен и вынужден marry her abductor. post Pakistani суд orders reopening case involving young христианка",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/10/13/pakistani-court-orders-reopening-of-case-involving-young-christian-woman-abducted-forced-to-convert-and-married-to-a-30-year-old-man/",
+      "victims": 0
     },
     {
       "date": "2026-10-12",
@@ -160,6 +186,58 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Pakistan’s Supreme суд на среда (Oct. 7) announced that it had upheld смертный приговор христианин осуждён под богохульство laws пока acquitting his брат, с right",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/10/christians-death-sentence-upheld-under-blasphemy-law-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-12",
+      "lat": 11.9196,
+      "lng": 12.9559,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "My пастор is из Nigeria — Nicki Minaj",
+      "description": "Rapper Nicki Minaj says her Nigerian пастор influenced her decision speak out о alleged гонение христиане в Nigeria. Read More: https://punchng.com/my-пастор-is-из-nigeria-nicki-minaj/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/my-pastor-is-from-nigeria-nicki-minaj/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-12",
+      "lat": 10.3578,
+      "lng": 7.2841,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "attack",
+      "title": "Исламский террористы атака Three деревни в Northeast Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected исламский террористы атакован three predominantly христианин деревни в Adamawa штат, Nigeria, на четверг (Oct. 8), убийство least one человек и поджог least one chu",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/islamic-terrorists-attack-three-villages-in-northeast-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-12",
+      "lat": 33.7907,
+      "lng": 71.3812,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "murder",
+      "title": "Христианин’s смертный приговор Upheld под богохульство Law в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Pakistan’s Supreme суд на среда (Oct. 7) announced that it had upheld смертный приговор христианин осуждён под богохульство laws пока acquitting his брат, с right",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/christians-death-sentence-upheld-under-blasphemy-law-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-12",
+      "lat": 33.665,
+      "lng": 72.9011,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "other",
+      "title": "Pakistan: Bill Reform христианин Marriage Law Passes",
+      "description": "Bill seeks replace христианин Marriage Act 1872, law introduced во время British colonial rule 154 годы ago. Falbous Christopher, chairman Punjab собрание’s Standing комитет на Human Rights и Minority Affairs, introduced",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/10/12/pakistan-bill-to-reform-the-christian-marriage-law-passes/",
       "victims": 0
     },
     {
@@ -6426,84 +6504,6 @@
       "description": "Плато штат губернатор Caleb Manasseh Mutfwang has ordered security агентства закрыт unauthorized activities group reportedly operating as Hisbah, warning that anyone attempting enforce исламский rules, intimidate residents, or exercise po",
       "source": "persecution",
       "url": "https://persecution.org/2026/09/01/plateau-governor-cracks-down-on-unauthorized-islamic-police-hisbah-operations-in-jos/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-01",
-      "lat": 9.163,
-      "lng": 9.5244,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "U.S. ‘must balance other interests’ в Nigeria, чиновники say as христианин гонение continues",
-      "description": "“There are solutions out there but Nigerians have solve this end день,” said Tibor Nagy, former assistant secretary бюро African Affairs штат департамент.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/u-s-must-balance-other-interests-in-nigeria-experts-say-as-christian-persecution-continues",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-01",
-      "lat": 10.5849,
-      "lng": 7.17,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "arrest",
-      "title": "Плато губернатор Cracks Down на Unauthorized исламский полиция ‘Hisbah’ операции в Jos",
-      "description": "Плато штат губернатор Caleb Manasseh Mutfwang has ordered security агентства закрыт unauthorized activities group reportedly operating as Hisbah, warning that anyone attempting enforce исламский rules, intimidate residents, or exercise po",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/01/plateau-governor-cracks-down-on-unauthorized-islamic-police-hisbah-operations-in-jos/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-01",
-      "lat": 11.9961,
-      "lng": 8.7172,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "arrest",
-      "title": "Плато губернатор Cracks Down на Unauthorized исламский полиция ‘Hisbah’ операции в Jos",
-      "description": "Плато штат губернатор Caleb Manasseh Mutfwang has ordered security агентства закрыт unauthorized activities group reportedly operating as Hisbah, warning that anyone attempting enforce исламский rules, intimidate residents, or exercise po",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/01/plateau-governor-cracks-down-on-unauthorized-islamic-police-hisbah-operations-in-jos/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-31",
-      "lat": 18.9707,
-      "lng": 72.9592,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "other",
-      "title": "Христиане move protect themselves as another Indian штат enacts anti-обращение law",
-      "description": "Церкви are asking visitors sign consent forms declaring that they attend services their own free will.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christians-move-to-protect-themselves-as-another-indian-state-enacts-anti-conversion-law",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-31",
-      "lat": 33.7996,
-      "lng": 71.481,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "kidnapping",
-      "title": "Мусульманин’s Custody христианин Girl в Pakistan Condemned",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – христианин rights защитники на суббота (Aug. 29) condemned Pakistani суд’s decision give custody 13-год-old христианин girl мусульманин accused abducting, forcibly co",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/08/muslims-custody-of-christian-girl-to-muslim-in-pakistan-condemned/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-31",
-      "lat": 9.128,
-      "lng": 7.2644,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "discrimination",
-      "title": "Религиозный freedom под growing угроза worldwide, experts warn Catholic gathering в Italy",
-      "description": "Speakers Rimini Meeting highlighted гонение христиане, violence в Nigeria и Lebanon, и importance defending freedom вера для люди all веры.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/europe/religious-freedom-under-growing-threat-worldwide-experts-warn-at-catholic-gathering-in-italy",
       "victims": 0
     }
   ]
