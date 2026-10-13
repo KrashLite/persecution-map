@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-12T23:53:07.729Z",
+    "lastUpdated": "2026-10-13T04:08:02.078Z",
     "totalEvents": 500
   },
   "events": [
@@ -95,6 +95,19 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Pakistan’s Supreme суд на среда (Oct. 7) announced that it had upheld смертный приговор христианин осуждён под богохульство laws пока acquitting his брат, с right",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/10/christians-death-sentence-upheld-under-blasphemy-law-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-12",
+      "lat": 9.1473,
+      "lng": 7.6802,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "attack",
+      "title": "Исламский террористы атака Three деревни в Northeast Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected исламский террористы атакован three predominantly христианин деревни в Adamawa штат, Nigeria, на четверг (Oct. 8), убийство least one человек и поджог least one chu",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/islamic-terrorists-attack-three-villages-in-northeast-nigeria/",
       "victims": 0
     },
     {
@@ -6491,19 +6504,6 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – христианин rights защитники на суббота (Aug. 29) condemned Pakistani суд’s decision give custody 13-год-old христианин girl мусульманин accused abducting, forcibly co",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/08/muslims-custody-of-christian-girl-to-muslim-in-pakistan-condemned/",
-      "victims": 0
-    },
-    {
-      "date": "2026-08-31",
-      "lat": 8.9974,
-      "lng": 9.6596,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "discrimination",
-      "title": "Религиозный freedom под growing угроза worldwide, experts warn Catholic gathering в Italy",
-      "description": "Speakers Rimini Meeting highlighted гонение христиане, violence в Nigeria и Lebanon, и importance defending freedom вера для люди all веры.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/europe/religious-freedom-under-growing-threat-worldwide-experts-warn-at-catholic-gathering-in-italy",
       "victims": 0
     }
   ]
