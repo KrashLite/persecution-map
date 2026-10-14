@@ -2,10 +2,49 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-14T10:43:43.779Z",
+    "lastUpdated": "2026-10-14T16:02:52.652Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-10-14",
+      "lat": 6.5903,
+      "lng": 3.1472,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "attack",
+      "title": "Nigeria Catholic parish, больница и 3 школы suspend activities indefinitely amid insecurity",
+      "description": "Catholic Diocese Gboko has suspended операции number Catholic institutions в Ihugh withdrawing all diocesan personnel due ongoing violence, атаки, и угрозы.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/nigeria-catholic-parish-hospital-and-3-schools-suspend-activities-indefinitely-amid-insecurity",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-14",
+      "lat": 6.7469,
+      "lng": 3.3706,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Complete первый tenure до seeking re-election, Anglican епископ tells Tinubu",
+      "description": "Ogbaru Diocese warns against ‘commercial политики’ misleading президент Chimaobi Nwaiwu NNEWI — церковь Nigeria, Anglican причастие, Diocese Ogbaru, Anambra штат, has urged президент Bola Tinubu focus на completing his первый tenure",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/10/complete-first-tenure-before-seeking-re-election-anglican-bishop-tells-tinubu/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-14",
+      "lat": 4.5598,
+      "lng": 18.7252,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "Ohio’s университет Dayton names первый женщина президент",
+      "description": "Университет Dayton announced its первый женщина президент, пока Catholic high школы в Cleveland и Omaha launched career development programs в на этой неделе’s roundup Catholic education news.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/ohio-university-of-dayton-names-first-woman-president",
+      "victims": 0
+    },
     {
       "date": "2026-10-13",
       "lat": 12.6402,
@@ -142,6 +181,19 @@
       "lng": 85.1005,
       "country": "India",
       "city": "Odisha",
+      "type": "other",
+      "title": "Chhattisgarh’s Anti-обращение Law Challenged в суд",
+      "description": "Petition challenging validity Chhattisgarh Freedom религия Act, 2026, was heard в Chhattisgarh High суд на Oct. 8, even as intense гонение христианская община в central Indian штат continues unabated. Bas",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/13/chhattisgarhs-anti-conversion-law-challenged-in-court/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-13",
+      "lat": 28.5942,
+      "lng": 77.316,
+      "country": "India",
+      "city": "Delhi",
       "type": "other",
       "title": "Chhattisgarh’s Anti-обращение Law Challenged в суд",
       "description": "Petition challenging validity Chhattisgarh Freedom религия Act, 2026, was heard в Chhattisgarh High суд на Oct. 8, even as intense гонение христианская община в central Indian штат continues unabated. Bas",
@@ -407,6 +459,32 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Pakistan’s Supreme суд на среда (Oct. 7) announced that it had upheld смертный приговор христианин осуждён под богохульство laws пока acquitting his брат, с right",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/10/christians-death-sentence-upheld-under-blasphemy-law-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-12",
+      "lat": 9.0125,
+      "lng": 7.6224,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "My пастор is из Nigeria — Nicki Minaj",
+      "description": "Rapper Nicki Minaj says her Nigerian пастор influenced her decision speak out о alleged гонение христиане в Nigeria. Read More: https://punchng.com/my-пастор-is-из-nigeria-nicki-minaj/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/my-pastor-is-from-nigeria-nicki-minaj/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-12",
+      "lat": 31.55,
+      "lng": 74.3638,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "other",
+      "title": "Pakistan: Bill Reform христианин Marriage Law Passes",
+      "description": "Bill seeks replace христианин Marriage Act 1872, law introduced во время British colonial rule 154 годы ago. Falbous Christopher, chairman Punjab собрание’s Standing комитет на Human Rights и Minority Affairs, introduced",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/10/12/pakistan-bill-to-reform-the-christian-marriage-law-passes/",
       "victims": 0
     },
     {
@@ -2045,6 +2123,19 @@
       "description": "Христианин Association Nigeria (CAN) says it will criticise правительство if it fails protect citizens or violates their rights, says its Preside Read More: https://punchng.com/can-will-criticise-govt-if-citizensre-not-protected-президент/",
       "source": "newsapi:The Punch",
       "url": "https://punchng.com/can-will-criticise-govt-if-citizensre-not-protected-president/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-03",
+      "lat": 9.3504,
+      "lng": 9.3986,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "CAN will criticise правительство когда necessary, says президент",
+      "description": "Христианин Association Nigeria will criticise правительство когда it fails protect citizens or violates their rights, its президент, Daniel Okoh, Read More: https://punchng.com/can-will-criticise-правительство-когда-necessary-says-президент/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/can-will-criticise-government-when-necessary-says-president/",
       "victims": 0
     },
     {
@@ -6413,97 +6504,6 @@
       "description": "New law в India's most populous western штат drew protests из civil society и Catholic leaders. Neighboring Goa dropped similar measure.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-weighs-legal-challenge-to-new-anti-conversion-law-in-india",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-02",
-      "lat": 33.5913,
-      "lng": 72.8771,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "murder",
-      "title": "Two христиане арестован под богохульство Laws в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – One христианин в Pakistan was арестован и обвинён с богохульство на суббота (Aug. 29) и another faced same accusation на Aug. 11 под laws that carry смерть penalty, sou",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/09/two-christians-arrested-under-blasphemy-laws-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-02",
-      "lat": 19.0576,
-      "lng": 72.7199,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "attack",
-      "title": "Индусы Cut Water, Electricity Off для христианская семья в Chhattisgarh",
-      "description": "Радикал индус толпа недавно атакован христианская семья в Chhattisgarh после they отказано participate в индус reconversion ceremony called Ghar Wapsi. толпа tore down roof семья’s home, leaving seven люди exposed heavy mon",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/02/hindus-cut-water-electricity-off-for-christian-family-in-chhattisgarh/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-02",
-      "lat": 18.8306,
-      "lng": 72.726,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "other",
-      "title": "Религиозный freedom комиссия urges accountability для India violators после leader’s U.S. visit",
-      "description": "Mohan Bhagwat, chief Rashtriya Swayamsevak Sangh (RSS), prominent индус nationalist volunteer organization accused targeting христиане, visited U.S. в поздно август.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/religious-freedom-commission-urges-accountability-for-india-violators-after-leader-s-u-s-visit",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-02",
-      "lat": 28.4658,
-      "lng": 77.2211,
-      "country": "India",
-      "city": "Delhi",
-      "type": "attack",
-      "title": "Индусы Cut Water, Electricity Off для христианская семья в Chhattisgarh",
-      "description": "Радикал индус толпа недавно атакован христианская семья в Chhattisgarh после they отказано participate в индус reconversion ceremony called Ghar Wapsi. толпа tore down roof семья’s home, leaving seven люди exposed heavy mon",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/02/hindus-cut-water-electricity-off-for-christian-family-in-chhattisgarh/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-02",
-      "lat": 28.7425,
-      "lng": 77.0914,
-      "country": "India",
-      "city": "Delhi",
-      "type": "other",
-      "title": "Религиозный freedom комиссия urges accountability для India violators после leader’s U.S. visit",
-      "description": "Mohan Bhagwat, chief Rashtriya Swayamsevak Sangh (RSS), prominent индус nationalist volunteer organization accused targeting христиане, visited U.S. в поздно август.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/religious-freedom-commission-urges-accountability-for-india-violators-after-leader-s-u-s-visit",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-01",
-      "lat": 9.3723,
-      "lng": 9.5398,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "NUPRC clarifies $300 вертолёт levy, exempts offshore oil операции из TNC",
-      "description": "Nigerian Upstream Petroleum Regulatory комиссия (NUPRC) says 300-dollar вертолёт levy для air navigational services remains payable, пока Terminal Navigational обвинение (TNC) does not apply offshore petroleum операции. post NU",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/09/nuprc-clarifies-300-helicopter-levy-exempts-offshore-oil-operations-from-tnc/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-01",
-      "lat": 19.4389,
-      "lng": -99.0052,
-      "country": "Mexico",
-      "city": "Mexico City",
-      "type": "other",
-      "title": "Mexico’s церкви Become Places Hope as Search для пропавший без вести Reaches 135,000",
-      "description": "That is why Mexican церковь's intervention has increasingly focused not only на молитва, but also на presence post Mexico’s церкви Become Places Hope as Search для пропавший без вести Reaches 135,000 appeared первый на ZENIT - English.",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/08/31/mexicos-churches-become-places-of-hope-as-the-search-for-the-missing-reaches-135000/",
       "victims": 0
     }
   ]
