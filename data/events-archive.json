@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-15T10:27:01.790Z",
+    "lastUpdated": "2026-10-15T15:51:06.630Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,45 @@
       "description": "Боевики засада aid team vehicle.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/christian-red-cross-volunteer-slain-in-northwest-nigeria",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-15",
+      "lat": 12.251,
+      "lng": 8.8394,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Intersociety claims 7,500 христиане убит в Africa",
+      "description": "Alleges Nigeria accounts для 4,300 смерти в nine месяцы Jeff Agbodo, Abakaliki International Society для Civil Liberties и Rule Law (Intersociety) has claimed that о 7,500 христиане were убит в атаки across several African coun",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/10/intersociety-claims-7500-christians-killed-in-africa/",
+      "victims": 500
+    },
+    {
+      "date": "2026-10-15",
+      "lat": 9.28,
+      "lng": 9.442,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Христианин Red крест volunteer убит в northwest Nigeria",
+      "description": "Боевики засада aid team vehicle.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christian-red-cross-volunteer-slain-in-northwest-nigeria",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-15",
+      "lat": 19.488,
+      "lng": -99.1469,
+      "country": "Mexico",
+      "city": "Mexico City",
+      "type": "other",
+      "title": "Mexican церковь holds colloquium на forgotten период fierce гонение",
+      "description": "One hundred годы после start Catholic сопротивление that led Cristero War, церковь в Mexico proposes re-examining this период “objectively.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/americas/mexican-church-holding-colloquium-on-forgotten-period-of-fierce-persecution",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Mohan Bhagwat, chief Rashtriya Swayamsevak Sangh (RSS), prominent индус nationalist volunteer organization accused targeting христиане, visited U.S. в поздно август.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/religious-freedom-commission-urges-accountability-for-india-violators-after-leader-s-u-s-visit",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-02",
-      "lat": 24.6555,
-      "lng": 67.0443,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "murder",
-      "title": "Two христиане арестован под богохульство Laws в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – One христианин в Pakistan was арестован и обвинён с богохульство на суббота (Aug. 29) и another faced same accusation на Aug. 11 под laws that carry смерть penalty, sou",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/09/two-christians-arrested-under-blasphemy-laws-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-02",
-      "lat": 20.7848,
-      "lng": 85.1331,
-      "country": "India",
-      "city": "Odisha",
-      "type": "attack",
-      "title": "Индусы Cut Water, Electricity Off для христианская семья в Chhattisgarh",
-      "description": "Радикал индус толпа недавно атакован христианская семья в Chhattisgarh после they отказано participate в индус reconversion ceremony called Ghar Wapsi. толпа tore down roof семья’s home, leaving seven люди exposed heavy mon",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/02/hindus-cut-water-electricity-off-for-christian-family-in-chhattisgarh/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-02",
-      "lat": 4.4955,
-      "lng": 18.5515,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "other",
-      "title": "Церковь в Nepal helping flood жертвы find hope, apostolic администратор says",
-      "description": "Although small minority в Nepal, католическая церковь through Caritas is providing what aid it can help those affected major flooding.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/church-in-nepal-helping-flood-victims-find-hope-apostolic-administrator-says",
       "victims": 0
     }
   ]
