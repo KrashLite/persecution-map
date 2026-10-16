@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-16T01:52:12.556Z",
+    "lastUpdated": "2026-10-16T10:14:25.502Z",
     "totalEvents": 500
   },
   "events": [
@@ -108,6 +108,32 @@
       "description": "Боевики засада aid team vehicle.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/christian-red-cross-volunteer-slain-in-northwest-nigeria",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-15",
+      "lat": 36.245,
+      "lng": 37.0065,
+      "country": "Syria",
+      "city": "Aleppo",
+      "type": "discrimination",
+      "title": "Names отказано и properties снесён для Turkey’s христиане",
+      "description": "Из Azekh (Idil в Turkish) деревня Anhel (Yemisli), there have been worrying cases violations rights Assyrian-Chaldeans. в addition private homes, guesthouse belonging Syriac православная церковь has also been targete",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/10/15/names-denied-and-properties-demolished-for-turkeys-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-15",
+      "lat": 34.7809,
+      "lng": 36.6886,
+      "country": "Syria",
+      "city": "Homs",
+      "type": "attack",
+      "title": "Open Doors calls для молитва для Syrian христиане following renewed violence",
+      "description": "Христианин гонение charity Open Doors has appealed для молитвы для верующие в Syria following another armed атака на predominantly христианин посёлок Al-Suqaylabiyah.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/open-doors-calls-for-prayer-for-syrian-christians-following-renewed-violence",
       "victims": 0
     },
     {
@@ -719,6 +745,19 @@
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected исламский террористы атакован three predominantly христианин деревни в Adamawa штат, Nigeria, на четверг (Oct. 8), убийство least one человек и поджог least one chu",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/10/islamic-terrorists-attack-three-villages-in-northeast-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-12",
+      "lat": 9.4382,
+      "lng": 9.3003,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "My пастор is из Nigeria — Nicki Minaj",
+      "description": "Rapper Nicki Minaj says her Nigerian пастор influenced her decision speak out о alleged гонение христиане в Nigeria. Read More: https://punchng.com/my-пастор-is-из-nigeria-nicki-minaj/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/my-pastor-is-from-nigeria-nicki-minaj/",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Chinese lawyer who defended подпольная церковь в Beijing has fled Taiwan и is seeking help для resettlement",
       "source": "newsapi:Abcnews.com",
       "url": "https://abcnews.com/International/wireStory/lawyer-chinas-zion-church-seeks-resettlement-transiting-taiwan-136166953",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-03",
-      "lat": 39.7175,
-      "lng": 116.301,
-      "country": "China",
-      "city": "Beijing",
-      "type": "arrest",
-      "title": "Ezra Jin Is Free, But There Are More пасторы в China Behind запреты",
-      "description": "“I respectfully ask international community stand с me – fight для freedom пастор Gao Quanfu, Pang Yu, и all peaceful христиане заключён в China. ”",
-      "source": "newsapi:The Diplomat",
-      "url": "https://thediplomat.com/2026/09/ezra-jin-is-free-but-there-are-more-pastors-in-china-behind-bars/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-03",
-      "lat": 31.1561,
-      "lng": 121.5772,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "other",
-      "title": "Lawyer для China's Zion церковь seeks resettlement help пока transiting through Taiwan",
-      "description": "Chinese lawyer who defended подпольная церковь в Beijing has fled Taiwan и is seeking help для resettlement",
-      "source": "newsapi:Abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/lawyer-chinas-zion-church-seeks-resettlement-transiting-taiwan-136166953",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-03",
-      "lat": 31.3939,
-      "lng": 121.679,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "arrest",
-      "title": "Ezra Jin Is Free, But There Are More пасторы в China Behind запреты",
-      "description": "“I respectfully ask international community stand с me – fight для freedom пастор Gao Quanfu, Pang Yu, и all peaceful христиане заключён в China. ”",
-      "source": "newsapi:The Diplomat",
-      "url": "https://thediplomat.com/2026/09/ezra-jin-is-free-but-there-are-more-pastors-in-china-behind-bars/",
       "victims": 0
     }
   ]
