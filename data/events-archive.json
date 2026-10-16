@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-15T20:36:29.919Z",
+    "lastUpdated": "2026-10-16T01:52:12.556Z",
     "totalEvents": 500
   },
   "events": [
@@ -82,6 +82,32 @@
       "description": "Христианин гонение charity Open Doors has appealed для молитвы для верующие в Syria following another armed атака на predominantly христианин посёлок Al-Suqaylabiyah.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/open-doors-calls-for-prayer-for-syrian-christians-following-renewed-violence",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-15",
+      "lat": 33.3528,
+      "lng": 36.4905,
+      "country": "Syria",
+      "city": "Damascus",
+      "type": "discrimination",
+      "title": "Names отказано и properties снесён для Turkey’s христиане",
+      "description": "Из Azekh (Idil в Turkish) деревня Anhel (Yemisli), there have been worrying cases violations rights Assyrian-Chaldeans. в addition private homes, guesthouse belonging Syriac православная церковь has also been targete",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/10/15/names-denied-and-properties-demolished-for-turkeys-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-15",
+      "lat": 6.4711,
+      "lng": 3.4319,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Христианин Red крест volunteer убит в northwest Nigeria",
+      "description": "Боевики засада aid team vehicle.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christian-red-cross-volunteer-slain-in-northwest-nigeria",
       "victims": 0
     },
     {
@@ -381,6 +407,19 @@
       "description": "High суд в Pakistan ordered reopening полиция investigation в case Maria Shahbaz, 13-год-old girl who was похищен и вынужден marry her abductor. post Pakistani суд orders reopening case involving young христианка",
       "source": "zenit",
       "url": "https://zenit.org/2026/10/13/pakistani-court-orders-reopening-of-case-involving-young-christian-woman-abducted-forced-to-convert-and-married-to-a-30-year-old-man/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-13",
+      "lat": 9.3049,
+      "lng": 9.6797,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Христианин Humanitarian Worker убит в Northwest Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Unidentified боевики застрелен и убит христианка volunteering с Nigerian Red крест Society в Oct. 6 атака на her team’s vehicle в Sokoto штат, sources said. Lydia N",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/christian-humanitarian-worker-slain-in-northwest-nigeria/",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "“I respectfully ask international community stand с me – fight для freedom пастор Gao Quanfu, Pang Yu, и all peaceful христиане заключён в China. ”",
       "source": "newsapi:The Diplomat",
       "url": "https://thediplomat.com/2026/09/ezra-jin-is-free-but-there-are-more-pastors-in-china-behind-bars/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-03",
-      "lat": 31.0363,
-      "lng": 121.4614,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "arrest",
-      "title": "Chinese пастор Still пропавший без вести после Being арестован в март",
-      "description": "73-год-old Chinese пастор is still пропавший без вести месяцы после Chinese власти арестован him his home в март. пастор Wang Sanyuan is пастор Chanchunli церковь в Ji’nan, столица Shandong провинция в eastern China. As influential",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/03/chinese-pastor-still-missing-after-being-arrested-in-march/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-02",
-      "lat": 15.587,
-      "lng": 32.6958,
-      "country": "Sudan",
-      "city": "Khartoum",
-      "type": "murder",
-      "title": "2 Carmelites survive засада на highway where bandits убит Catholic сёстры в South Sudan",
-      "description": "Сёстры were traveling из Torit toward Juba на Aug. 300 когда their vehicle came под атака.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/two-carmelites-survive-ambush-on-highway-where-bandits-killed-catholic-sisters-in-south-sudan",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-02",
-      "lat": 27.0274,
-      "lng": 80.8412,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "other",
-      "title": "Католическая церковь weighs legal испытание new anti-обращение law в India",
-      "description": "New law в India's most populous western штат drew protests из civil society и Catholic leaders. Neighboring Goa dropped similar measure.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-church-weighs-legal-challenge-to-new-anti-conversion-law-in-india",
       "victims": 0
     }
   ]
