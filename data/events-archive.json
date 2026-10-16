@@ -2,10 +2,49 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-16T10:14:25.502Z",
+    "lastUpdated": "2026-10-16T15:39:39.404Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-10-16",
+      "lat": 4.5785,
+      "lng": 18.593,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "What is ideology — и why should христиане care?",
+      "description": "Few words в contemporary политический life are deployed more carelessly than “ideology.” политики use it dismiss opponents. Commentators use it explain what they don’t understand. Ordinary люди use it mean something like веры I disagre",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/10/16/what-is-an-ideology-and-why-should-christians-care/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-16",
+      "lat": 9.2555,
+      "lng": 7.7317,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "discrimination",
+      "title": "Catholic миссионеры в Nigeria urged persevere amid insecurity, ограничения на богослужение",
+      "description": "Despite угрозы violence и ограничения placed на some христианские общины, national director Pontifical Mission Societies в Nigeria is encouragging миссионеры be unafraid.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/catholic-missionaries-in-nigeria-urged-to-persevere-amid-insecurity-restrictions-on-worship",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-16",
+      "lat": 13.6489,
+      "lng": 1.9875,
+      "country": "Niger",
+      "city": "Niamey",
+      "type": "other",
+      "title": "Англиканская церковь suspends архиепископ Ibezim Awka для 6 месяцы",
+      "description": "Anglican епископ Awka, и митрополит архиепископ на Niger, Most Reverend Alexander Ibezim, has been suspended из офис и directed not embark на церковь activities. post англиканская церковь suspends архиепископ Ibezim Awka для 6 m",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/10/anglican-church-suspends-archbishop-ibezim-of-awka-for-6-months/",
+      "victims": 0
+    },
     {
       "date": "2026-10-15",
       "lat": 33.7278,
@@ -134,6 +173,19 @@
       "description": "Христианин гонение charity Open Doors has appealed для молитвы для верующие в Syria following another armed атака на predominantly христианин посёлок Al-Suqaylabiyah.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/open-doors-calls-for-prayer-for-syrian-christians-following-renewed-violence",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-15",
+      "lat": 10.6405,
+      "lng": 7.4891,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Христианин Red крест volunteer убит в northwest Nigeria",
+      "description": "Боевики засада aid team vehicle.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christian-red-cross-volunteer-slain-in-northwest-nigeria",
       "victims": 0
     },
     {
@@ -446,6 +498,19 @@
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Unidentified боевики застрелен и убит христианка volunteering с Nigerian Red крест Society в Oct. 6 атака на her team’s vehicle в Sokoto штат, sources said. Lydia N",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/10/christian-humanitarian-worker-slain-in-northwest-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-13",
+      "lat": 21.055,
+      "lng": 81.7923,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Chhattisgarh’s Anti-обращение Law Challenged в суд",
+      "description": "Petition challenging validity Chhattisgarh Freedom религия Act, 2026, was heard в Chhattisgarh High суд на Oct. 8, even as intense гонение христианская община в central Indian штат continues unabated. Bas",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/13/chhattisgarhs-anti-conversion-law-challenged-in-court/",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "“I respectfully ask international community stand с me – fight для freedom пастор Gao Quanfu, Pang Yu, и all peaceful христиане заключён в China. ”",
       "source": "newsapi:The Diplomat",
       "url": "https://thediplomat.com/2026/09/ezra-jin-is-free-but-there-are-more-pastors-in-china-behind-bars/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-03",
-      "lat": 39.8934,
-      "lng": 116.2602,
-      "country": "China",
-      "city": "Beijing",
-      "type": "other",
-      "title": "Lawyer для China's Zion церковь flees Taiwan после facing pressure",
-      "description": "Chinese lawyer who defended подпольная церковь в Beijing has fled Taiwan и is seeking help для resettlement. Ruth Wang, partner VDoor Law Firm, has faced mounting pressure из Chinese власти. Her firm has represented пасторы и",
-      "source": "newsapi:Associated Press",
-      "url": "https://apnews.com/article/china-lawyer-zion-church-ruth-wang-72345e2706acf55fd0c3091997b90bb3",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-03",
-      "lat": 43.6373,
-      "lng": 87.8763,
-      "country": "China",
-      "city": "Xinjiang",
-      "type": "other",
-      "title": "Lawyer для China's Zion церковь seeks resettlement help пока transiting through Taiwan",
-      "description": "Chinese lawyer who defended подпольная церковь в Beijing has fled Taiwan и is seeking help для resettlement",
-      "source": "newsapi:Abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/lawyer-chinas-zion-church-seeks-resettlement-transiting-taiwan-136166953",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-03",
-      "lat": 43.6161,
-      "lng": 87.8345,
-      "country": "China",
-      "city": "Xinjiang",
-      "type": "arrest",
-      "title": "Ezra Jin Is Free, But There Are More пасторы в China Behind запреты",
-      "description": "“I respectfully ask international community stand с me – fight для freedom пастор Gao Quanfu, Pang Yu, и all peaceful христиане заключён в China. ”",
-      "source": "newsapi:The Diplomat",
-      "url": "https://thediplomat.com/2026/09/ezra-jin-is-free-but-there-are-more-pastors-in-china-behind-bars/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-03",
-      "lat": 33.4457,
-      "lng": 72.8215,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "other",
-      "title": "Pakistan суд Rules Marriage Underage Girls Is ребёнок насилие",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – христианские лидеры и attorneys на этой неделе welcomed Lahore High суд (LHC) ruling that says living в marital relationship с girl под 18 can constitute ребёнок насилие even i",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/09/pakistan-court-rules-marriage-to-underage-girls-is-child-abuse/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-03",
-      "lat": 23.261,
-      "lng": 113.8902,
-      "country": "China",
-      "city": "Guangdong",
-      "type": "other",
-      "title": "Lawyer для China's Zion церковь seeks resettlement help пока transiting through Taiwan",
-      "description": "Chinese lawyer who defended подпольная церковь в Beijing has fled Taiwan и is seeking help для resettlement",
-      "source": "newsapi:Abcnews.com",
-      "url": "https://abcnews.com/International/wireStory/lawyer-chinas-zion-church-seeks-resettlement-transiting-taiwan-136166953",
       "victims": 0
     }
   ]
