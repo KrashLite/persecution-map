@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-17T01:47:15.349Z",
+    "lastUpdated": "2026-10-17T09:48:08.558Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-10-17",
+      "lat": 9.448,
+      "lng": 9.4831,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Англиканская церковь sends Awka епископ на six-месяц leave",
+      "description": "Церковь Nigeria (Anglican причастие) has directed епископ Awka Diocese, Most Rev. Alexander Ibezim, proceed на six-месяц leave amid ongoing administrative investigations в diocese. directive is contained в letter dated Oc",
+      "source": "punchng",
+      "url": "https://punchng.com/anglican-church-sends-awka-bishop-on-six-month-leave/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-17",
+      "lat": 9.2874,
+      "lng": 7.2981,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Suspended Anglican архиепископ Ibezim, sues церковь Primate",
+      "description": "Vincent Ujumadu AWKA — Anglican архиепископ провинция Niger и епископ Diocese Awka, Most Rev. Alexander Ibezim, has instituted legal proceedings against Primate церковь Nigeria, Most Rev. Henry C. Ndukuba, c",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/10/suspended-anglican-archbishop-ibezim-sues-church-primate/",
+      "victims": 0
+    },
     {
       "date": "2026-10-16",
       "lat": 4.5785,
@@ -134,6 +160,19 @@
       "description": "Swiss Guards, дипломаты, кардиналы Roman Curia, Eastern Catholic патриархи в full liturgical vestments, и епископы representing nearly every country в world: Everything о protocol и ceremony в St. Peter’s Square на среда",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/10/16/at-the-vatican-leo-xivs-absence-makes-him-more-present/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-16",
+      "lat": 9.4464,
+      "lng": 9.7574,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "discrimination",
+      "title": "Catholic миссионеры в Nigeria urged persevere amid insecurity, ограничения на богослужение",
+      "description": "Despite угрозы violence и ограничения placed на some христианские общины, national director Pontifical Mission Societies в Nigeria is encouragging миссионеры be unafraid.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/catholic-missionaries-in-nigeria-urged-to-persevere-amid-insecurity-restrictions-on-worship",
       "victims": 0
     },
     {
@@ -389,6 +428,19 @@
       "lng": 7.4899,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "attack",
+      "title": "Nigeria Catholic parish, больница и 3 школы suspend activities indefinitely amid insecurity",
+      "description": "Catholic Diocese Gboko has suspended операции number Catholic institutions в Ihugh withdrawing all diocesan personnel due ongoing violence, атаки, и угрозы.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/nigeria-catholic-parish-hospital-and-3-schools-suspend-activities-indefinitely-amid-insecurity",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-14",
+      "lat": 9.2858,
+      "lng": 9.3994,
+      "country": "Nigeria",
+      "city": "Plateau",
       "type": "attack",
       "title": "Nigeria Catholic parish, больница и 3 школы suspend activities indefinitely amid insecurity",
       "description": "Catholic Diocese Gboko has suspended операции number Catholic institutions в Ihugh withdrawing all diocesan personnel due ongoing violence, атаки, и угрозы.",
@@ -6452,58 +6504,6 @@
       "description": "Rashtriya Swayamsevak Sangh (RSS), India’s leading индус nationalist organization и ideological parent ruling Bharatiya Janata Party (BJP), has taken its кампания reshape its international image one world’s most prominent st",
       "source": "persecution",
       "url": "https://persecution.org/2026/09/04/rss-celebrates-in-new-york-amid-continuing-persecution-in-india/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-04",
-      "lat": 28.8307,
-      "lng": 77.0688,
-      "country": "India",
-      "city": "Delhi",
-      "type": "other",
-      "title": "RSS Celebrates в New York Amid Continuing гонение в India",
-      "description": "Rashtriya Swayamsevak Sangh (RSS), India’s leading индус nationalist organization и ideological parent ruling Bharatiya Janata Party (BJP), has taken its кампания reshape its international image one world’s most prominent st",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/04/rss-celebrates-in-new-york-amid-continuing-persecution-in-india/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-04",
-      "lat": 21.1723,
-      "lng": 81.7643,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "other",
-      "title": "RSS Celebrates в New York Amid Continuing гонение в India",
-      "description": "Rashtriya Swayamsevak Sangh (RSS), India’s leading индус nationalist organization и ideological parent ruling Bharatiya Janata Party (BJP), has taken its кампания reshape its international image one world’s most prominent st",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/04/rss-celebrates-in-new-york-amid-continuing-persecution-in-india/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-04",
-      "lat": 26.9762,
-      "lng": 80.8855,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "other",
-      "title": "RSS Celebrates в New York Amid Continuing гонение в India",
-      "description": "Rashtriya Swayamsevak Sangh (RSS), India’s leading индус nationalist organization и ideological parent ruling Bharatiya Janata Party (BJP), has taken its кампания reshape its international image one world’s most prominent st",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/04/rss-celebrates-in-new-york-amid-continuing-persecution-in-india/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-03",
-      "lat": 27.6359,
-      "lng": 85.1538,
-      "country": "Nepal",
-      "city": "Kathmandu",
-      "type": "other",
-      "title": "Христиане в Nepal assisting с flood aftermath",
-      "description": "Catholics и Evangelicals are doing what they can aid выжившие.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christians-in-nepal-to-assist-with-flood-aftermath",
       "victims": 0
     }
   ]
