@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-16T20:09:50.059Z",
+    "lastUpdated": "2026-10-17T01:47:15.349Z",
     "totalEvents": 500
   },
   "events": [
@@ -108,6 +108,32 @@
       "description": "Tragedy that claimed lives three students has prompted outpouring pastoral care и community support across штат.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/in-wake-of-deadly-shooting-at-oregon-elementary-school-bishops-call-for-prayer",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-16",
+      "lat": 10.7523,
+      "lng": 7.5231,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "discrimination",
+      "title": "Catholic миссионеры в Nigeria urged persevere amid insecurity, ограничения на богослужение",
+      "description": "Despite угрозы violence и ограничения placed на some христианские общины, national director Pontifical Mission Societies в Nigeria is encouragging миссионеры be unafraid.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/catholic-missionaries-in-nigeria-urged-to-persevere-amid-insecurity-restrictions-on-worship",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-16",
+      "lat": 4.3648,
+      "lng": 18.7776,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "Vatican, Leo XIV’s absence makes him more present",
+      "description": "Swiss Guards, дипломаты, кардиналы Roman Curia, Eastern Catholic патриархи в full liturgical vestments, и епископы representing nearly every country в world: Everything о protocol и ceremony в St. Peter’s Square на среда",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/10/16/at-the-vatican-leo-xivs-absence-makes-him-more-present/",
       "victims": 0
     },
     {
@@ -6478,32 +6504,6 @@
       "description": "Catholics и Evangelicals are doing what they can aid выжившие.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/christians-in-nepal-to-assist-with-flood-aftermath",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-03",
-      "lat": 27.7455,
-      "lng": 85.1707,
-      "country": "Nepal",
-      "city": "Kathmandu",
-      "type": "other",
-      "title": "Христиане rally help жертвы devastating Nepal floods",
-      "description": "Catholics и Evangelicals are doing what they can aid выжившие.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christians-in-nepal-to-assist-with-flood-aftermath",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-03",
-      "lat": 34.0293,
-      "lng": 71.6649,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "other",
-      "title": "Pakistan суд Rules Marriage Underage Girls Is ребёнок насилие",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – христианские лидеры и attorneys на этой неделе welcomed Lahore High суд (LHC) ruling that says living в marital relationship с girl под 18 can constitute ребёнок насилие even i",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/09/pakistan-court-rules-marriage-to-underage-girls-is-child-abuse/",
       "victims": 0
     }
   ]
