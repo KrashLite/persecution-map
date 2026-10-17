@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-17T14:31:42.488Z",
+    "lastUpdated": "2026-10-17T19:45:52.469Z",
     "totalEvents": 500
   },
   "events": [
@@ -77,6 +77,32 @@
       "lng": 84.8503,
       "country": "India",
       "city": "Odisha",
+      "type": "arrest",
+      "title": "Jesuit беженец Service UK calls Catholic finance leaders aid беженцы",
+      "description": "Jesuit беженец Service UK urges solidarity с migrants, священник в India is арест для несовершеннолетний sex насилие, Maronite епископ is appointed в Mexico, и more в на этой неделе’s world news roundup.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/europe/jesuit-refugee-service-uk-calls-catholic-finance-leaders-to-aid-refugees",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-17",
+      "lat": 10.7421,
+      "lng": 7.6651,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "discrimination",
+      "title": "Nigeria awaits 10 ударные вертолёты, БПЛА — Defence министр",
+      "description": "EU pledges €20m defence support Nigerian военные Kingsley Omonobi ABUJA — Nigeria is expecting delivery 10 ударные вертолёты, беспилотные летательные аппараты (БПЛА) и other военные equipment strengthen its capacity tackle emerging se",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/10/nigeria-awaits-10-attack-helicopters-uavs-defence-minister/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-17",
+      "lat": 26.954,
+      "lng": 80.7921,
+      "country": "India",
+      "city": "Uttar Pradesh",
       "type": "arrest",
       "title": "Jesuit беженец Service UK calls Catholic finance leaders aid беженцы",
       "description": "Jesuit беженец Service UK urges solidarity с migrants, священник в India is арест для несовершеннолетний sex насилие, Maronite епископ is appointed в Mexico, и more в на этой неделе’s world news roundup.",
@@ -6478,32 +6504,6 @@
       "description": "Femi Bolaji JALINGO — президент Bola Tinubu has called для patriotic leaders и citizens who will place public good above personal interests и self-aggrandisement в pursuit national development. Tinubu made call St. Monica Ca",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/09/nigeria-needs-leaders-committed-to-public-good-not-personal-gains-tinubu/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-05",
-      "lat": 8.9596,
-      "lng": 7.4715,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "До Stardom с… KamCY",
-      "description": "Explore KamCY’s music journey, из церковь singing facing industry испытания. Discover his inspirations, values, и advice для up-и-coming Nigerian Read More: https://punchng.com/до-stardom-с-kamcy/",
-      "source": "punchng",
-      "url": "https://punchng.com/before-stardom-with-kamcy/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-05",
-      "lat": 10.3749,
-      "lng": 7.6581,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Утро recap: Celestial пастор kills wife infidelity, outcry as fake products flood markets, other top stories",
-      "description": "Catch up на top Nigerian news: Celestial пастор kills wife, N33.75bn flagged, Nigerian professor appointed dean, fake products flood markets, и more. Read More: https://punchng.com/утро-recap-celestial-пастор-kills-wife--infidelity-dies-und",
-      "source": "punchng",
-      "url": "https://punchng.com/morning-recap-celestial-pastor-kills-wife-over-infidelity-dies-under-truck-auditor-general-flags-n33-75bn-unverified-transfers-outcry-as-fake-products-flood-markets-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     }
   ]
