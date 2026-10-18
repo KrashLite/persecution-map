@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-17T19:45:52.469Z",
+    "lastUpdated": "2026-10-18T01:44:20.785Z",
     "totalEvents": 500
   },
   "events": [
@@ -103,6 +103,32 @@
       "lng": 80.7921,
       "country": "India",
       "city": "Uttar Pradesh",
+      "type": "arrest",
+      "title": "Jesuit беженец Service UK calls Catholic finance leaders aid беженцы",
+      "description": "Jesuit беженец Service UK urges solidarity с migrants, священник в India is арест для несовершеннолетний sex насилие, Maronite епископ is appointed в Mexico, и more в на этой неделе’s world news roundup.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/europe/jesuit-refugee-service-uk-calls-catholic-finance-leaders-to-aid-refugees",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-17",
+      "lat": 11.8663,
+      "lng": 8.8288,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "discrimination",
+      "title": "Nigeria awaits 10 ударные вертолёты, БПЛА — Defence министр",
+      "description": "EU pledges €20m defence support Nigerian военные Kingsley Omonobi ABUJA — Nigeria is expecting delivery 10 ударные вертолёты, беспилотные летательные аппараты (БПЛА) и other военные equipment strengthen its capacity tackle emerging se",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/10/nigeria-awaits-10-attack-helicopters-uavs-defence-minister/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-17",
+      "lat": 19.2203,
+      "lng": 73.1023,
+      "country": "India",
+      "city": "Mumbai",
       "type": "arrest",
       "title": "Jesuit беженец Service UK calls Catholic finance leaders aid беженцы",
       "description": "Jesuit беженец Service UK urges solidarity с migrants, священник в India is арест для несовершеннолетний sex насилие, Maronite епископ is appointed в Mexico, и more в на этой неделе’s world news roundup.",
@@ -553,6 +579,19 @@
       "victims": 0
     },
     {
+      "date": "2026-10-14",
+      "lat": 10.6969,
+      "lng": 7.6082,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "attack",
+      "title": "Nigeria Catholic parish, больница и 3 школы suspend activities indefinitely amid insecurity",
+      "description": "Catholic Diocese Gboko has suspended операции number Catholic institutions в Ihugh withdrawing all diocesan personnel due ongoing violence, атаки, и угрозы.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/nigeria-catholic-parish-hospital-and-3-schools-suspend-activities-indefinitely-amid-insecurity",
+      "victims": 0
+    },
+    {
       "date": "2026-10-13",
       "lat": 12.6402,
       "lng": -7.9048,
@@ -805,6 +844,19 @@
       "lng": 74.1843,
       "country": "Pakistan",
       "city": "Lahore",
+      "type": "attack",
+      "title": "Толпа Burns христианин’s Home, Pharmacy богохульство Allegation",
+      "description": "Христианин’s home и adjoining pharmacy в Pakistan’s Sheikhupura район were сожжён толпа на Oct. 9 following богохульство allegation, sparking safety fears для his семья и neighboring христианин residents. Kamran Gill, 40-год-old fa",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/13/mob-burns-christian-mans-home-pharmacy-over-blasphemy-allegation/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-13",
+      "lat": 24.9816,
+      "lng": 67.0962,
+      "country": "Pakistan",
+      "city": "Karachi",
       "type": "attack",
       "title": "Толпа Burns христианин’s Home, Pharmacy богохульство Allegation",
       "description": "Христианин’s home и adjoining pharmacy в Pakistan’s Sheikhupura район were сожжён толпа на Oct. 9 following богохульство allegation, sparking safety fears для his семья и neighboring христианин residents. Kamran Gill, 40-год-old fa",
@@ -6452,58 +6504,6 @@
       "description": "Церковь bodies introduce written applications и affidavits для converts as атаки на молитва meetings и funerals raise fears запугивание и calls для anti-обращение law христианские организации в west bengal are tightening safeguards, wit",
       "source": "newsapi:Freerepublic.com",
       "url": "https://freerepublic.com/focus/f-religion/4394541/posts",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-07",
-      "lat": 33.7,
-      "lng": 72.9032,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "other",
-      "title": "Rights Record в Pakistan Jeopardizes Trade Status, EU чиновник Says",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Pakistan’s continued access lucrative European Union trade preference could be jeopardized if Islamabad fails demonstrate meaningful progress в protecting human rights, inc",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/09/rights-record-in-pakistan-jeopardizes-trade-status-eu-official-says/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-07",
-      "lat": 28.6493,
-      "lng": 77.0207,
-      "country": "India",
-      "city": "Delhi",
-      "type": "attack",
-      "title": "{India} West Bengal христиане tighten safeguards amid атаки, обращение row",
-      "description": "Церковь bodies introduce written applications и affidavits для converts as атаки на молитва meetings и funerals raise fears запугивание и calls для anti-обращение law христианские организации в west bengal are tightening safeguards, wit",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-religion/4394541/posts",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-07",
-      "lat": 26.6971,
-      "lng": 81.0195,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "attack",
-      "title": "{India} West Bengal христиане tighten safeguards amid атаки, обращение row",
-      "description": "Церковь bodies introduce written applications и affidavits для converts as атаки на молитва meetings и funerals raise fears запугивание и calls для anti-обращение law христианские организации в west bengal are tightening safeguards, wit",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-religion/4394541/posts",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-06",
-      "lat": 6.5804,
-      "lng": 3.1835,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Nigeria needs leaders committed public good, not personal gains — Tinubu",
-      "description": "Femi Bolaji JALINGO — президент Bola Tinubu has called для patriotic leaders и citizens who will place public good above personal interests и self-aggrandisement в pursuit national development. Tinubu made call St. Monica Ca",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/09/nigeria-needs-leaders-committed-to-public-good-not-personal-gains-tinubu/",
       "victims": 0
     }
   ]
