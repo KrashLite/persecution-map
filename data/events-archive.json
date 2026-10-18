@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-18T01:44:20.785Z",
+    "lastUpdated": "2026-10-18T10:00:19.893Z",
     "totalEvents": 500
   },
   "events": [
@@ -129,6 +129,19 @@
       "lng": 73.1023,
       "country": "India",
       "city": "Mumbai",
+      "type": "arrest",
+      "title": "Jesuit беженец Service UK calls Catholic finance leaders aid беженцы",
+      "description": "Jesuit беженец Service UK urges solidarity с migrants, священник в India is арест для несовершеннолетний sex насилие, Maronite епископ is appointed в Mexico, и more в на этой неделе’s world news roundup.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/europe/jesuit-refugee-service-uk-calls-catholic-finance-leaders-to-aid-refugees",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-17",
+      "lat": 21.0629,
+      "lng": 82.0593,
+      "country": "India",
+      "city": "Chhattisgarh",
       "type": "arrest",
       "title": "Jesuit беженец Service UK calls Catholic finance leaders aid беженцы",
       "description": "Jesuit беженец Service UK urges solidarity с migrants, священник в India is арест для несовершеннолетний sex насилие, Maronite епископ is appointed в Mexico, и more в на этой неделе’s world news roundup.",
@@ -303,6 +316,19 @@
       "description": "Despite угрозы violence и ограничения placed на some христианские общины, national director Pontifical Mission Societies в Nigeria is encouragging миссионеры be unafraid.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/catholic-missionaries-in-nigeria-urged-to-persevere-amid-insecurity-restrictions-on-worship",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-16",
+      "lat": 24.7812,
+      "lng": 66.9719,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "murder",
+      "title": "Христианин’s смертный приговор Upheld в Pakistan",
+      "description": "В 2018, two христианин братья were приговорён смерть allegations богохульство. после о десятилетие fighting для their freedom, one брат was acquitted Pakistan’s Supreme суд на Oct. 7. other брат, however, is still на смерть",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/16/christians-death-sentence-upheld-in-pakistan/",
       "victims": 0
     },
     {
@@ -6473,32 +6499,6 @@
       "lng": 73.0762,
       "country": "India",
       "city": "Mumbai",
-      "type": "attack",
-      "title": "{India} West Bengal христиане tighten safeguards amid атаки, обращение row",
-      "description": "Церковь bodies introduce written applications и affidavits для converts as атаки на молитва meetings и funerals raise fears запугивание и calls для anti-обращение law христианские организации в west bengal are tightening safeguards, wit",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-religion/4394541/posts",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-07",
-      "lat": 20.736,
-      "lng": 85.1627,
-      "country": "India",
-      "city": "Odisha",
-      "type": "attack",
-      "title": "{India} West Bengal христиане tighten safeguards amid атаки, обращение row",
-      "description": "Церковь bodies introduce written applications и affidavits для converts as атаки на молитва meetings и funerals raise fears запугивание и calls для anti-обращение law христианские организации в west bengal are tightening safeguards, wit",
-      "source": "newsapi:Freerepublic.com",
-      "url": "https://freerepublic.com/focus/f-religion/4394541/posts",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-07",
-      "lat": 21.0815,
-      "lng": 81.9574,
-      "country": "India",
-      "city": "Chhattisgarh",
       "type": "attack",
       "title": "{India} West Bengal христиане tighten safeguards amid атаки, обращение row",
       "description": "Церковь bodies introduce written applications и affidavits для converts as атаки на молитва meetings и funerals raise fears запугивание и calls для anti-обращение law христианские организации в west bengal are tightening safeguards, wit",
