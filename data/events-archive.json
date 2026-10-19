@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-19T17:50:57.843Z",
+    "lastUpdated": "2026-10-19T21:47:29.334Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,84 @@
       "description": "Христианин Association Nigeria has mourned смерть former Delta штат губернатор, Emmanuel Uduaghan, commending his role в national unity. Read More: https://punchng.com/can-mourns-uduaghan-hails-role-в-national-unity/",
       "source": "punchng",
       "url": "https://punchng.com/can-mourns-uduaghan-hails-role-in-national-unity/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-19",
+      "lat": -3.9434,
+      "lng": 39.7331,
+      "country": "Kenya",
+      "city": "Mombasa",
+      "type": "murder",
+      "title": "Убит христианин Harbored Converts в Western Uganda",
+      "description": "NAIROBI, Kenya (утро Star News) – христианин returning из evangelistic outreach was убит на Sept. 29 в western Uganda когда he и colleague were атакован three мусульмане, including one upset that his сестра had converted Christianit",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/slain-christian-harbored-converts-in-western-uganda/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-19",
+      "lat": 21.8634,
+      "lng": 95.9433,
+      "country": "Myanmar",
+      "city": "Mandalay",
+      "type": "attack",
+      "title": "Myanmar’s военные Intensifies атаки as U.S. Reopens Diplomatic Talks",
+      "description": "Myanmar’s военные-backed правительство is facing renewed scrutiny атаки на христианские общины, including убийство пасторы, оккупация церкви, и разрушение религиозный sites. developments come even as United Stat",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/19/myanmars-military-intensifies-attacks-as-u-s-reopens-diplomatic-talks/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-19",
+      "lat": -3.9454,
+      "lng": 39.9127,
+      "country": "Kenya",
+      "city": "Mombasa",
+      "type": "murder",
+      "title": "Kenyan пастор, who told followers starve для Jesus, осуждён 191 убийства",
+      "description": "Kenyan суд has осуждён пастор Paul Mackenzie murdering 191 люди, including 190 дети, после he allegedly directed members his религиозный group starve themselves и their дети смерть “meet Jesus”. post Kenyan пастор, w",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/10/kenyan-pastor-who-told-followers-to-starve-for-jesus-convicted-of-191-murders/",
+      "victims": 191
+    },
+    {
+      "date": "2026-10-19",
+      "lat": -4.1401,
+      "lng": 39.6876,
+      "country": "Kenya",
+      "city": "Mombasa",
+      "type": "murder",
+      "title": "Kenyan пастор осуждён для ordering 191 followers starve смерть",
+      "description": "Kenyan пастор, Paul Mackenzie, has been осуждён murdering 191 люди, including 190 дети, после ordering his культ followers starve смерть. Read More: https://punchng.com/kenyan-пастор-осуждён-для-ordering-191-followers--starve-",
+      "source": "punchng",
+      "url": "https://punchng.com/kenyan-pastor-convicted-for-ordering-191-followers-to-starve-to-death/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 191
+    },
+    {
+      "date": "2026-10-19",
+      "lat": 4.285,
+      "lng": 18.5175,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "French церковь leaders urge peace among protests",
+      "description": "“ level violence we’ve never seen до.” That was how Lamia El Aaraje, первый deputy мэр Paris, described situation на воскресенье, октябрь 18. previous день, protests had been marked violence в столица и several other French ci",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/10/19/french-church-leaders-urge-peace-among-protests/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-19",
+      "lat": 13.6454,
+      "lng": 1.9282,
+      "country": "Niger",
+      "city": "Niamey",
+      "type": "other",
+      "title": "Полиция explain presence suspended архиепископ Ibezim’s церковь service",
+      "description": "Anambra штат полиция Command has explained that presence security operatives во время церковь service conducted архиепископ Alexander Ibezim, suspended Anglican архиепископ на Niger и епископ Awka Diocese, на воскресенье was ma",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/10/police-explain-presence-at-suspended-archbishop-ibezims-church-service/",
       "victims": 0
     },
     {
@@ -6427,84 +6505,6 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/09/muslim-shoots-christian-woman-to-death-in-pakistan/",
       "victims": 0
-    },
-    {
-      "date": "2026-09-08",
-      "lat": 12.0897,
-      "lng": 8.7969,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "Stop blaming spirits для disasters, PFN chairman tells C’река residents",
-      "description": "Ike Uchechukwu, CALABAR CALABAR — Chairman Pentecostal Fellowship Nigeria, PFN, в крест река штат, Apostle Trinity Ogar, has urged residents stop attributing recent flood, landslide и fire incidents в штат spiritual",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/09/stop-blaming-spirits-for-disasters-pfn-chairman-tells-criver-residents/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-08",
-      "lat": 19.3257,
-      "lng": 72.8402,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "murder",
-      "title": "Ashray: Sanctuary для Community Renewal",
-      "description": "В high-stakes humanitarian landscape central India’s Chhattisgarh, addressing перемещение has become critical strategic priority. для семьи в this регион, гонение is not theoretical risk but physical onslaught that has reached",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/08/ashray-a-sanctuary-for-community-renewal/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-08",
-      "lat": 11.8662,
-      "lng": 8.4213,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "More than 30 христиане убит в плато штат, Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected пастухи фулани убит more than 30 христиане в one area плато штат, Nigeria в past месяц, sources said. последний атака в Mangu округ took place на Saturda",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/09/more-than-30-christians-slain-in-plateau-state-nigeria/",
-      "victims": 30
-    },
-    {
-      "date": "2026-09-08",
-      "lat": 31.707,
-      "lng": 74.1635,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "murder",
-      "title": "Мусульманин Shoots христианка смерть в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – married, 21-год-old христианка was застрелен погибшие inside her home в Rawalpindi на прошлой неделе мусульманин neighbor whose advances she had rejected, reflecting attitude among many",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/09/muslim-shoots-christian-woman-to-death-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-08",
-      "lat": 26.6874,
-      "lng": 80.8962,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "murder",
-      "title": "Ashray: Sanctuary для Community Renewal",
-      "description": "В high-stakes humanitarian landscape central India’s Chhattisgarh, addressing перемещение has become critical strategic priority. для семьи в this регион, гонение is not theoretical risk but physical onslaught that has reached",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/08/ashray-a-sanctuary-for-community-renewal/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-08",
-      "lat": 11.6025,
-      "lng": 13.392,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "More than 30 христиане убит в плато штат, Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected пастухи фулани убит more than 30 христиане в one area плато штат, Nigeria в past месяц, sources said. последний атака в Mangu округ took place на Saturda",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/09/more-than-30-christians-slain-in-plateau-state-nigeria/",
-      "victims": 30
     }
   ]
 }
