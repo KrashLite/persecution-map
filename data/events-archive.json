@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-19T11:23:07.117Z",
+    "lastUpdated": "2026-10-19T17:50:57.843Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-10-19",
+      "lat": -1.1162,
+      "lng": 36.5874,
+      "country": "Kenya",
+      "city": "Nairobi",
+      "type": "murder",
+      "title": "Убит христианин Harbored Converts в Western Uganda",
+      "description": "NAIROBI, Kenya (утро Star News) – христианин returning из evangelistic outreach was убит на Sept. 29 в western Uganda когда he и colleague were атакован three мусульмане, including one upset that his сестра had converted Christianit",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/slain-christian-harbored-converts-in-western-uganda/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-19",
+      "lat": 9.3288,
+      "lng": 9.7025,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "CAN mourns Uduaghan, hails role в national unity",
+      "description": "Христианин Association Nigeria has mourned смерть former Delta штат губернатор, Emmanuel Uduaghan, commending his role в national unity. Read More: https://punchng.com/can-mourns-uduaghan-hails-role-в-national-unity/",
+      "source": "punchng",
+      "url": "https://punchng.com/can-mourns-uduaghan-hails-role-in-national-unity/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-10-18",
       "lat": 9.2496,
@@ -194,6 +220,19 @@
       "lng": 116.2962,
       "country": "China",
       "city": "Beijing",
+      "type": "arrest",
+      "title": "ChinaAid raises alarm заключён Chinese пастор's health as семья seeks answers",
+      "description": "ChinaAid founder Bob Fu says reports пастор Wang Yi's advanced liver cancer в Chinese тюрьма are credible but cannot be independently verified.",
+      "source": "newsapi:Fox News",
+      "url": "https://www.foxnews.com/world/chinaaid-raises-alarm-imprisoned-chinese-pastor-health-family-seeks-answers",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-17",
+      "lat": 43.918,
+      "lng": 87.6158,
+      "country": "China",
+      "city": "Xinjiang",
       "type": "arrest",
       "title": "ChinaAid raises alarm заключён Chinese пастор's health as семья seeks answers",
       "description": "ChinaAid founder Bob Fu says reports пастор Wang Yi's advanced liver cancer в Chinese тюрьма are credible but cannot be independently verified.",
@@ -394,6 +433,32 @@
       "description": "В 2018, two христианин братья were приговорён смерть allegations богохульство. после о десятилетие fighting для their freedom, one брат was acquitted Pakistan’s Supreme суд на Oct. 7. other брат, however, is still на смерть",
       "source": "persecution",
       "url": "https://persecution.org/2026/10/16/christians-death-sentence-upheld-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-16",
+      "lat": 11.7523,
+      "lng": 8.5843,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "discrimination",
+      "title": "Catholic миссионеры в Nigeria urged persevere amid insecurity, ограничения на богослужение",
+      "description": "Despite угрозы violence и ограничения placed на some христианские общины, national director Pontifical Mission Societies в Nigeria is encouragging миссионеры be unafraid.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/catholic-missionaries-in-nigeria-urged-to-persevere-amid-insecurity-restrictions-on-worship",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-16",
+      "lat": 12.5869,
+      "lng": -8.0551,
+      "country": "Mali",
+      "city": "Bamako",
+      "type": "murder",
+      "title": "Trump, после двупартийный и Catholic backlash, says Pentagon won’t livestream казнь Fort Hood shooter",
+      "description": "Президент Donald Trump said четверг that Pentagon will no longer livestream расстрельная команда казнь Fort Hood shooter Nidal Malik Hasan, после announcement faced двупартийный criticism и вице-президент JD Vance said he wouldn’t watch i",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-usa/2026/10/trump-after-bipartisan-and-catholic-backlash-says-pentagon-wont-livestream-execution-of-fort-hood-shooter/",
       "victims": 0
     },
     {
@@ -6440,71 +6505,6 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/09/more-than-30-christians-slain-in-plateau-state-nigeria/",
       "victims": 30
-    },
-    {
-      "date": "2026-09-08",
-      "lat": 24.7389,
-      "lng": 66.9952,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "murder",
-      "title": "Мусульманин Shoots христианка смерть в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – married, 21-год-old христианка was застрелен погибшие inside her home в Rawalpindi на прошлой неделе мусульманин neighbor whose advances she had rejected, reflecting attitude among many",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/09/muslim-shoots-christian-woman-to-death-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-08",
-      "lat": 20.9716,
-      "lng": 85.1042,
-      "country": "India",
-      "city": "Odisha",
-      "type": "murder",
-      "title": "Ashray: Sanctuary для Community Renewal",
-      "description": "В high-stakes humanitarian landscape central India’s Chhattisgarh, addressing перемещение has become critical strategic priority. для семьи в this регион, гонение is not theoretical risk but physical onslaught that has reached",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/08/ashray-a-sanctuary-for-community-renewal/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-08",
-      "lat": 9.3885,
-      "lng": 9.5807,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "More than 30 христиане убит в плато штат, Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected пастухи фулани убит more than 30 христиане в one area плато штат, Nigeria в past месяц, sources said. последний атака в Mangu округ took place на Saturda",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/09/more-than-30-christians-slain-in-plateau-state-nigeria/",
-      "victims": 30
-    },
-    {
-      "date": "2026-09-08",
-      "lat": 21.143,
-      "lng": 82.091,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "murder",
-      "title": "Ashray: Sanctuary для Community Renewal",
-      "description": "В high-stakes humanitarian landscape central India’s Chhattisgarh, addressing перемещение has become critical strategic priority. для семьи в this регион, гонение is not theoretical risk but physical onslaught that has reached",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/08/ashray-a-sanctuary-for-community-renewal/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-08",
-      "lat": 28.6045,
-      "lng": 77.0596,
-      "country": "India",
-      "city": "Delhi",
-      "type": "murder",
-      "title": "Ashray: Sanctuary для Community Renewal",
-      "description": "В high-stakes humanitarian landscape central India’s Chhattisgarh, addressing перемещение has become critical strategic priority. для семьи в this регион, гонение is not theoretical risk but physical onslaught that has reached",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/08/ashray-a-sanctuary-for-community-renewal/",
-      "victims": 0
     }
   ]
 }
