@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-20T02:18:54.223Z",
+    "lastUpdated": "2026-10-20T10:30:45.756Z",
     "totalEvents": 500
   },
   "events": [
@@ -160,6 +160,32 @@
       "description": "Catholic епископы Conference Nigeria, CBCN, has declared nationwide молитва и пост programme promote free, fair, credible и peaceful elections в 2027. programme, themed ‘Let Justice и Peace Flow’, is drawn из Amos 5:24. bi",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/10/catholic-bishops-declare-nationwide-fasting-prayer/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-19",
+      "lat": 33.9286,
+      "lng": 71.5593,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "other",
+      "title": "ICC Releases Report на Financial Networks Enabling христианин гонение",
+      "description": "New report International христианин Concern (ICC) examines Исламское государство Khorasan провинция (ISKP) и international financial networks that enable systematic targeting христианские общины. Written ICC Fellow Daniel St John, “T",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/19/icc-releases-report-on-financial-networks-enabling-christian-persecution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-19",
+      "lat": 16.9106,
+      "lng": 96.1218,
+      "country": "Myanmar",
+      "city": "Yangon",
+      "type": "attack",
+      "title": "Myanmar’s военные Intensifies атаки as U.S. Reopens Diplomatic Talks",
+      "description": "Myanmar’s военные-backed правительство is facing renewed scrutiny атаки на христианские общины, including убийство пасторы, оккупация церкви, и разрушение религиозный sites. developments come even as United Stat",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/19/myanmars-military-intensifies-attacks-as-u-s-reopens-diplomatic-talks/",
       "victims": 0
     },
     {
@@ -753,6 +779,19 @@
       "lng": 13.3276,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "murder",
+      "title": "Христианин Red крест volunteer убит в northwest Nigeria",
+      "description": "Боевики засада aid team vehicle.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christian-red-cross-volunteer-slain-in-northwest-nigeria",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-15",
+      "lat": 11.9484,
+      "lng": 8.7113,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "murder",
       "title": "Христианин Red крест volunteer убит в northwest Nigeria",
       "description": "Боевики засада aid team vehicle.",
@@ -6466,45 +6505,6 @@
       "source": "aleteia",
       "url": "https://aleteia.org/2026/09/09/after-mosque-attack-nigerias-bishops-say-enough-is-enough/",
       "victims": 60
-    },
-    {
-      "date": "2026-09-09",
-      "lat": 9.2574,
-      "lng": 7.3599,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Боко Харам Kills 11 в Adamawa штат",
-      "description": "Least 11 люди were убит в рано hours понедельник, Sept. 7, as suspected Боко Харам террористы invaded Zaranga деревня в Gombi Local правительство Area Adamawa штат, Nigeria. attackers reportedly entered community до рассвет, sh",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/09/boko-haram-kills-11-in-adamawa-state/",
-      "victims": 11
-    },
-    {
-      "date": "2026-09-08",
-      "lat": -3.8198,
-      "lng": 39.5167,
-      "country": "Kenya",
-      "city": "Mombasa",
-      "type": "other",
-      "title": "Italian священник quits католическая церковь, marries Kenyan женщина в traditional ceremony",
-      "description": "Former Italian Catholic священник, Sandro Ferretto, has left priesthood и married Kenyan женщина в traditional ceremony в Baringo округ. Read More: https://punchng.com/italian-священник-quits-catholic-церковь-marries-kenyan-женщина-в-traditional-",
-      "source": "punchng",
-      "url": "https://punchng.com/italian-priest-quits-catholic-church-marries-kenyan-woman-in-traditional-ceremony/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-08",
-      "lat": -1.4986,
-      "lng": 36.9425,
-      "country": "Kenya",
-      "city": "Nairobi",
-      "type": "other",
-      "title": "Italian священник quits priesthood, marries Kenyan женщина в traditional ceremony",
-      "description": "Italian Catholic священник, Sandro Ferretto, 55, has left priesthood и married Kenyan женщина, Sharon Jepng’ok, в traditional ceremony в Baringo округ, Kenya. post Italian священник quits priesthood, marries Kenyan женщина в traditional ce",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/09/italian-priest-quits-priesthood-marries-kenyan-woman-in-traditional-ceremony/",
-      "victims": 0
     }
   ]
 }
