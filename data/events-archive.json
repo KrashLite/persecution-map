@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-19T21:47:29.334Z",
+    "lastUpdated": "2026-10-20T02:18:54.223Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-10-20",
+      "lat": 28.6228,
+      "lng": 77.1123,
+      "country": "India",
+      "city": "Delhi",
+      "type": "attack",
+      "title": "Библия Convention атакован в India",
+      "description": "Armed толпа о 200 религиозный фанатики assaulted major annual indigenous gathering Santhali христиане на Oct. 9 в Indian штат West Bengal, highlighting escalation hostilities и vulnerability религиозный minorities i",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/20/bible-convention-attacked-in-india/",
+      "victims": 0
+    },
     {
       "date": "2026-10-19",
       "lat": -1.1162,
@@ -108,6 +121,45 @@
       "description": "Anambra штат полиция Command has explained that presence security operatives во время церковь service conducted архиепископ Alexander Ibezim, suspended Anglican архиепископ на Niger и епископ Awka Diocese, на воскресенье was ma",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/10/police-explain-presence-at-suspended-archbishop-ibezims-church-service/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-19",
+      "lat": 31.6776,
+      "lng": 74.1302,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "other",
+      "title": "ICC Releases Report на Financial Networks Enabling христианин гонение",
+      "description": "New report International христианин Concern (ICC) examines Исламское государство Khorasan провинция (ISKP) и international financial networks that enable systematic targeting христианские общины. Written ICC Fellow Daniel St John, “T",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/19/icc-releases-report-on-financial-networks-enabling-christian-persecution/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-19",
+      "lat": -1.4418,
+      "lng": 36.8152,
+      "country": "Kenya",
+      "city": "Nairobi",
+      "type": "murder",
+      "title": "Kenyan пастор, who told followers starve для Jesus, осуждён 191 убийства",
+      "description": "Kenyan суд has осуждён пастор Paul Mackenzie murdering 191 люди, including 190 дети, после he allegedly directed members his религиозный group starve themselves и their дети смерть “meet Jesus”. post Kenyan пастор, w",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/10/kenyan-pastor-who-told-followers-to-starve-for-jesus-convicted-of-191-murders/",
+      "victims": 191
+    },
+    {
+      "date": "2026-10-19",
+      "lat": 10.5333,
+      "lng": 7.2858,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Catholic епископы declare nationwide пост, молитва",
+      "description": "Catholic епископы Conference Nigeria, CBCN, has declared nationwide молитва и пост programme promote free, fair, credible и peaceful elections в 2027. programme, themed ‘Let Justice и Peace Flow’, is drawn из Amos 5:24. bi",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/10/catholic-bishops-declare-nationwide-fasting-prayer/",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "Italian Catholic священник, Sandro Ferretto, 55, has left priesthood и married Kenyan женщина, Sharon Jepng’ok, в traditional ceremony в Baringo округ, Kenya. post Italian священник quits priesthood, marries Kenyan женщина в traditional ce",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/09/italian-priest-quits-priesthood-marries-kenyan-woman-in-traditional-ceremony/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-08",
-      "lat": 10.6923,
-      "lng": 7.4,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "More than 30 христиане убит в плато штат, Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected пастухи фулани убит more than 30 христиане в one area плато штат, Nigeria в past месяц, sources said. последний атака в Mangu округ took place на Saturda",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/09/more-than-30-christians-slain-in-plateau-state-nigeria/",
-      "victims": 30
-    },
-    {
-      "date": "2026-09-08",
-      "lat": 33.9811,
-      "lng": 71.6292,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "murder",
-      "title": "Мусульманин Shoots христианка смерть в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – married, 21-год-old христианка was застрелен погибшие inside her home в Rawalpindi на прошлой неделе мусульманин neighbor whose advances she had rejected, reflecting attitude among many",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/09/muslim-shoots-christian-woman-to-death-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-08",
-      "lat": 9.2148,
-      "lng": 7.436,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "More than 30 христиане убит в плато штат, Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected пастухи фулани убит more than 30 христиане в one area плато штат, Nigeria в past месяц, sources said. последний атака в Mangu округ took place на Saturda",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/09/more-than-30-christians-slain-in-plateau-state-nigeria/",
-      "victims": 30
-    },
-    {
-      "date": "2026-09-08",
-      "lat": 33.6253,
-      "lng": 72.9736,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "murder",
-      "title": "Мусульманин Shoots христианка смерть в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – married, 21-год-old христианка was застрелен погибшие inside her home в Rawalpindi на прошлой неделе мусульманин neighbor whose advances she had rejected, reflecting attitude among many",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/09/muslim-shoots-christian-woman-to-death-in-pakistan/",
       "victims": 0
     }
   ]
