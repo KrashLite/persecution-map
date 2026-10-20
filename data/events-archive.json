@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-20T10:30:45.756Z",
+    "lastUpdated": "2026-10-20T15:54:52.355Z",
     "totalEvents": 500
   },
   "events": [
@@ -12,6 +12,19 @@
       "lng": 77.1123,
       "country": "India",
       "city": "Delhi",
+      "type": "attack",
+      "title": "Библия Convention атакован в India",
+      "description": "Armed толпа о 200 религиозный фанатики assaulted major annual indigenous gathering Santhali христиане на Oct. 9 в Indian штат West Bengal, highlighting escalation hostilities и vulnerability религиозный minorities i",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/20/bible-convention-attacked-in-india/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-20",
+      "lat": 21.3979,
+      "lng": 81.8411,
+      "country": "India",
+      "city": "Chhattisgarh",
       "type": "attack",
       "title": "Библия Convention атакован в India",
       "description": "Armed толпа о 200 религиозный фанатики assaulted major annual indigenous gathering Santhali христиане на Oct. 9 в Indian штат West Bengal, highlighting escalation hostilities и vulnerability религиозный minorities i",
@@ -6486,19 +6499,6 @@
       "lng": 9.2998,
       "country": "Nigeria",
       "city": "Plateau",
-      "type": "murder",
-      "title": "После мечеть атака, Nigeria’s епископы say enough is enough",
-      "description": "Catholic епископы’ Conference Nigeria issued urgent statement на август 27 condemning two separate атаки that have left dozens погибшие и 60 люди похищен — и calling на Nigerian правительство, силы безопасности, и attackers t",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/09/09/after-mosque-attack-nigerias-bishops-say-enough-is-enough/",
-      "victims": 60
-    },
-    {
-      "date": "2026-09-09",
-      "lat": 11.5994,
-      "lng": 13.1769,
-      "country": "Nigeria",
-      "city": "Borno",
       "type": "murder",
       "title": "После мечеть атака, Nigeria’s епископы say enough is enough",
       "description": "Catholic епископы’ Conference Nigeria issued urgent statement на август 27 condemning two separate атаки that have left dozens погибшие и 60 люди похищен — и calling на Nigerian правительство, силы безопасности, и attackers t",
