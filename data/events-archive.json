@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-20T15:54:52.355Z",
+    "lastUpdated": "2026-10-20T20:57:32.361Z",
     "totalEvents": 500
   },
   "events": [
@@ -25,6 +25,19 @@
       "lng": 81.8411,
       "country": "India",
       "city": "Chhattisgarh",
+      "type": "attack",
+      "title": "Библия Convention атакован в India",
+      "description": "Armed толпа о 200 религиозный фанатики assaulted major annual indigenous gathering Santhali христиане на Oct. 9 в Indian штат West Bengal, highlighting escalation hostilities и vulnerability религиозный minorities i",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/20/bible-convention-attacked-in-india/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-20",
+      "lat": 26.9508,
+      "lng": 81.1359,
+      "country": "India",
+      "city": "Uttar Pradesh",
       "type": "attack",
       "title": "Библия Convention атакован в India",
       "description": "Armed толпа о 200 религиозный фанатики assaulted major annual indigenous gathering Santhali христиане на Oct. 9 в Indian штат West Bengal, highlighting escalation hostilities и vulnerability религиозный minorities i",
@@ -6492,19 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/09/09/boko-haram-kills-11-in-adamawa-state/",
       "victims": 11
-    },
-    {
-      "date": "2026-09-09",
-      "lat": 9.0382,
-      "lng": 9.2998,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "После мечеть атака, Nigeria’s епископы say enough is enough",
-      "description": "Catholic епископы’ Conference Nigeria issued urgent statement на август 27 condemning two separate атаки that have left dozens погибшие и 60 люди похищен — и calling на Nigerian правительство, силы безопасности, и attackers t",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/09/09/after-mosque-attack-nigerias-bishops-say-enough-is-enough/",
-      "victims": 60
     }
   ]
 }
