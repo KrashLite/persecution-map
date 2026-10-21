@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-21T16:11:48.995Z",
+    "lastUpdated": "2026-10-21T20:57:39.471Z",
     "totalEvents": 500
   },
   "events": [
@@ -18,6 +18,19 @@
       "source": "aleteia",
       "url": "https://aleteia.org/2026/10/21/brooklyn-bishop-faithful-take-to-streets-to-defend-haitians/",
       "victims": 150
+    },
+    {
+      "date": "2026-10-21",
+      "lat": 9.3425,
+      "lng": 9.5912,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "arrest",
+      "title": "Христианин Mother приговорён 14 годы в тюрьма в Nigeria",
+      "description": "Христианин mother в northeastern Nigeria has reportedly been приговорён 14 годы в тюрьма после sharing her вера с мусульманин женщина who позже testified that she subsequently converted христианство voluntarily. Justice. B. Kumdila",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/21/christian-mother-sentenced-to-14-years-in-prison-in-nigeria/",
+      "victims": 0
     },
     {
       "date": "2026-10-20",
@@ -6492,19 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/09/09/boko-haram-kills-11-in-adamawa-state/",
       "victims": 11
-    },
-    {
-      "date": "2026-09-09",
-      "lat": 6.5653,
-      "lng": 3.3892,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "More than 30 христиане убит в плато штат, Nigeria",
-      "description": "Атаки на деревни one area also leave ранения и разрушение.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/more-than-30-christians-slain-in-plateau-state-nigeria",
-      "victims": 30
     }
   ]
 }
