@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-21T02:12:18.765Z",
+    "lastUpdated": "2026-10-21T10:42:32.380Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-10-21",
+      "lat": 4.5821,
+      "lng": 18.3532,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "Brooklyn епископ, faithful take streets defend Haitians",
+      "description": "Some 350,000 Haitians в U.S. face uncertain future с termination в июль their Temporary Protected Status (TPS), decision that many Catholic епископы have beseeched правительство reconsider. сейчас, Catholics из least three p",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/10/21/brooklyn-bishop-faithful-take-to-streets-to-defend-haitians/",
+      "victims": 150
+    },
     {
       "date": "2026-10-20",
       "lat": 28.6228,
@@ -280,6 +293,19 @@
       "victims": 0
     },
     {
+      "date": "2026-10-19",
+      "lat": 24.7277,
+      "lng": 67.1227,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "other",
+      "title": "ICC Releases Report на Financial Networks Enabling христианин гонение",
+      "description": "New report International христианин Concern (ICC) examines Исламское государство Khorasan провинция (ISKP) и international financial networks that enable systematic targeting христианские общины. Written ICC Fellow Daniel St John, “T",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/19/icc-releases-report-on-financial-networks-enabling-christian-persecution/",
+      "victims": 0
+    },
+    {
       "date": "2026-10-18",
       "lat": 9.2496,
       "lng": 7.5869,
@@ -480,6 +506,19 @@
       "lng": 87.6158,
       "country": "China",
       "city": "Xinjiang",
+      "type": "arrest",
+      "title": "ChinaAid raises alarm заключён Chinese пастор's health as семья seeks answers",
+      "description": "ChinaAid founder Bob Fu says reports пастор Wang Yi's advanced liver cancer в Chinese тюрьма are credible but cannot be independently verified.",
+      "source": "newsapi:Fox News",
+      "url": "https://www.foxnews.com/world/chinaaid-raises-alarm-imprisoned-chinese-pastor-health-family-seeks-answers",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-17",
+      "lat": 23.2432,
+      "lng": 113.9977,
+      "country": "China",
+      "city": "Guangdong",
       "type": "arrest",
       "title": "ChinaAid raises alarm заключён Chinese пастор's health as семья seeks answers",
       "description": "ChinaAid founder Bob Fu says reports пастор Wang Yi's advanced liver cancer в Chinese тюрьма are credible but cannot be independently verified.",
@@ -6466,45 +6505,6 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/more-than-30-christians-slain-in-plateau-state-nigeria",
       "victims": 30
-    },
-    {
-      "date": "2026-09-09",
-      "lat": 10.7117,
-      "lng": 7.3536,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Боко Харам Kills 11 в Adamawa штат",
-      "description": "Least 11 люди were убит в рано hours понедельник, Sept. 7, as suspected Боко Харам террористы invaded Zaranga деревня в Gombi Local правительство Area Adamawa штат, Nigeria. attackers reportedly entered community до рассвет, sh",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/09/boko-haram-kills-11-in-adamawa-state/",
-      "victims": 11
-    },
-    {
-      "date": "2026-09-09",
-      "lat": 9.1076,
-      "lng": 9.406,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "More than 30 христиане убит в плато штат, Nigeria",
-      "description": "Атаки на деревни one area also leave ранения и разрушение.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/more-than-30-christians-slain-in-plateau-state-nigeria",
-      "victims": 30
-    },
-    {
-      "date": "2026-09-09",
-      "lat": 6.7242,
-      "lng": 3.3978,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Боко Харам Kills 11 в Adamawa штат",
-      "description": "Least 11 люди were убит в рано hours понедельник, Sept. 7, as suspected Боко Харам террористы invaded Zaranga деревня в Gombi Local правительство Area Adamawa штат, Nigeria. attackers reportedly entered community до рассвет, sh",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/09/boko-haram-kills-11-in-adamawa-state/",
-      "victims": 11
     }
   ]
 }
