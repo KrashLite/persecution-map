@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-22T10:44:37.700Z",
+    "lastUpdated": "2026-10-22T16:09:48.739Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-10-22",
+      "lat": 24.8348,
+      "lng": 67.1215,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "kidnapping",
+      "title": "Суд в Pakistan Adjourns Hearing на христиане’ похищен Daughter",
+      "description": "ISLAMABAD (христианин Daily International–утро Star News) – Pakistan’s top constitutional суд на среда (Oct. 21) adjourned hearing на христианин couple’s petition seeking recovery their daughter после learning that мусульманин accused",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/court-in-pakistan-adjourns-hearing-on-christians-abducted-daughter/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-22",
+      "lat": 10.3858,
+      "lng": 7.6354,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Confronting workplace injustice part христианская миссия, Nigerian епископ says",
+      "description": "Епископ Sylvester Luka Gopep spoke во время celebration marking centenary World Mission день, organized Pontifical Mission Societies (PMS) в Nigeria.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/confronting-workplace-injustice-part-of-christian-mission-nigerian-bishop-says",
+      "victims": 0
+    },
     {
       "date": "2026-10-21",
       "lat": 4.5821,
@@ -6479,32 +6505,6 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/more-than-30-christians-slain-in-plateau-state-nigeria",
       "victims": 30
-    },
-    {
-      "date": "2026-09-09",
-      "lat": 3.1835,
-      "lng": 101.7324,
-      "country": "Malaysia",
-      "city": "Kuala Lumpur",
-      "type": "murder",
-      "title": "Five die в Malaysia вертолёт crash",
-      "description": "Five люди, including pilot и medical staff, have погиб в Malaysia вертолёт crash в Sarawak. Flying Doctor Service aircraft went down на Tues Read More: https://punchng.com/five-dies-в-malaysia-вертолёт-crash/",
-      "source": "punchng",
-      "url": "https://punchng.com/five-dies-in-malaysia-helicopter-crash/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-09",
-      "lat": 6.5842,
-      "lng": 3.223,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "После мечеть атака, Nigeria’s епископы say enough is enough",
-      "description": "Catholic епископы’ Conference Nigeria issued urgent statement на август 27 condemning two separate атаки that have left dozens погибшие и 60 люди похищен — и calling на Nigerian правительство, силы безопасности, и attackers t",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/09/09/after-mosque-attack-nigerias-bishops-say-enough-is-enough/",
-      "victims": 60
     }
   ]
 }
