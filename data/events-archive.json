@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-22T16:09:48.739Z",
+    "lastUpdated": "2026-10-22T20:54:55.160Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,32 @@
       "description": "Епископ Sylvester Luka Gopep spoke во время celebration marking centenary World Mission день, organized Pontifical Mission Societies (PMS) в Nigeria.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/confronting-workplace-injustice-part-of-christian-mission-nigerian-bishop-says",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-22",
+      "lat": 31.3565,
+      "lng": 74.1514,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "kidnapping",
+      "title": "Суд в Pakistan Adjourns Hearing на христиане’ похищен Daughter",
+      "description": "ISLAMABAD (христианин Daily International–утро Star News) – Pakistan’s top constitutional суд на среда (Oct. 21) adjourned hearing на христианин couple’s petition seeking recovery their daughter после learning that мусульманин accused",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/court-in-pakistan-adjourns-hearing-on-christians-abducted-daughter/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-22",
+      "lat": 11.8363,
+      "lng": 12.9293,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "2027: Leave папа, церковь out политический кампании, Obi tells opponents",
+      "description": "Presidential candidate Nigeria Democratic конгресс, NDC ahead 2027 elections, Peter Obi has urged политический opponents keep папа, папа Leo XIV и католическая церковь out партизан кампании. post 2027: Leave папа, церковь ou",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/10/2027-leave-pope-church-out-of-political-campaigns-obi-tells-opponents/",
       "victims": 0
     },
     {
@@ -6479,32 +6505,6 @@
       "source": "zenit",
       "url": "https://zenit.org/2026/09/10/nigeria-3000-people-killed-and-3000-kidnapped-the-toll-of-anti-christian-persecution-in-the-first-8-months-of-2026/",
       "victims": 19
-    },
-    {
-      "date": "2026-09-10",
-      "lat": 10.3271,
-      "lng": 7.2047,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Nigeria: 3,000 люди убит и 3,000 похищен: toll anti-христианин гонение в первый 8 месяцы 2026",
-      "description": "Broader figures compiled Intersociety are even more alarming. Since Боко Харам launched its кампания в 2009, organization says least 19,800 церкви have been атакован. Its researchers estimate that 130,783 христиане have been убит",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/09/10/nigeria-3000-people-killed-and-3000-kidnapped-the-toll-of-anti-christian-persecution-in-the-first-8-months-of-2026/",
-      "victims": 19
-    },
-    {
-      "date": "2026-09-09",
-      "lat": 12.0174,
-      "lng": 13.2697,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "More than 30 христиане убит в плато штат, Nigeria",
-      "description": "Атаки на деревни one area also leave ранения и разрушение.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/more-than-30-christians-slain-in-plateau-state-nigeria",
-      "victims": 30
     }
   ]
 }
