@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-21T20:57:39.471Z",
+    "lastUpdated": "2026-10-22T02:06:37.984Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,19 @@
       "description": "Христианин mother в northeastern Nigeria has reportedly been приговорён 14 годы в тюрьма после sharing her вера с мусульманин женщина who позже testified that she subsequently converted христианство voluntarily. Justice. B. Kumdila",
       "source": "persecution",
       "url": "https://persecution.org/2026/10/21/christian-mother-sentenced-to-14-years-in-prison-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-21",
+      "lat": -4.4832,
+      "lng": 15.4091,
+      "country": "Democratic Republic of the Congo",
+      "city": "Kinshasa",
+      "type": "murder",
+      "title": "Христианка похищен ADF Rescued",
+      "description": "Katungu Mbaka Darke’s life took devastating turn в июль 2022 когда, around 9 p.m., members Allied Democratic силы (ADF) похищен her во время deadly атака в Lume деревня в eastern Democratic Republic Congo (DRC). во время her c",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/21/christian-woman-abducted-by-adf-rescued/",
       "victims": 0
     },
     {
@@ -6492,19 +6505,6 @@
       "source": "aleteia",
       "url": "https://aleteia.org/2026/09/09/after-mosque-attack-nigerias-bishops-say-enough-is-enough/",
       "victims": 60
-    },
-    {
-      "date": "2026-09-09",
-      "lat": 12.0267,
-      "lng": 8.3666,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Боко Харам Kills 11 в Adamawa штат",
-      "description": "Least 11 люди were убит в рано hours понедельник, Sept. 7, as suspected Боко Харам террористы invaded Zaranga деревня в Gombi Local правительство Area Adamawa штат, Nigeria. attackers reportedly entered community до рассвет, sh",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/09/boko-haram-kills-11-in-adamawa-state/",
-      "victims": 11
     }
   ]
 }
