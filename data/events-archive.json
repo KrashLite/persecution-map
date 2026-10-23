@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-23T02:11:28.270Z",
+    "lastUpdated": "2026-10-23T10:36:22.473Z",
     "totalEvents": 500
   },
   "events": [
@@ -137,6 +137,32 @@
       "victims": 0
     },
     {
+      "date": "2026-10-22",
+      "lat": 33.7876,
+      "lng": 71.5005,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "kidnapping",
+      "title": "Суд в Pakistan Adjourns Hearing на христиане’ похищен Daughter",
+      "description": "ISLAMABAD (христианин Daily International–утро Star News) – Pakistan’s top constitutional суд на среда (Oct. 21) adjourned hearing на христианин couple’s petition seeking recovery their daughter после learning that мусульманин accused",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/court-in-pakistan-adjourns-hearing-on-christians-abducted-daughter/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-22",
+      "lat": 6.334,
+      "lng": 3.3488,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Confronting workplace injustice part христианская миссия, Nigerian епископ says",
+      "description": "Епископ Sylvester Luka Gopep spoke во время celebration marking centenary World Mission день, organized Pontifical Mission Societies (PMS) в Nigeria.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/confronting-workplace-injustice-part-of-christian-mission-nigerian-bishop-says",
+      "victims": 0
+    },
+    {
       "date": "2026-10-21",
       "lat": 4.5821,
       "lng": 18.3532,
@@ -181,6 +207,19 @@
       "lng": 7.383,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "arrest",
+      "title": "Христианин Mother приговорён 14 годы в тюрьма в Nigeria",
+      "description": "Христианин mother в northeastern Nigeria has reportedly been приговорён 14 годы в тюрьма после sharing her вера с мусульманин женщина who позже testified that she subsequently converted христианство voluntarily. Justice. B. Kumdila",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/21/christian-mother-sentenced-to-14-years-in-prison-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-21",
+      "lat": 12.0689,
+      "lng": 8.7815,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "arrest",
       "title": "Христианин Mother приговорён 14 годы в тюрьма в Nigeria",
       "description": "Христианин mother в northeastern Nigeria has reportedly been приговорён 14 годы в тюрьма после sharing her вера с мусульманин женщина who позже testified that she subsequently converted христианство voluntarily. Justice. B. Kumdila",
@@ -6465,45 +6504,6 @@
       "description": "Omeiza Ajayi ABUJA: Diocese Okene, церковь Nigeria (Anglican причастие) в Kogi штат, has запрещён members из burying their departed relatives немедленно, insisting that minimum период two недели must elapse до any burial arrang",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/09/anglican-church-bans-immediate-burial-of-relatives-sets-2-week-minimum-timeframe/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-10",
-      "lat": 4.4424,
-      "lng": 18.4512,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "other",
-      "title": "Beloved Catholic женщины’s conference is back после 6 годы",
-      "description": "Женщины are so often “doing для others” as caregivers, и it’s less frequent that they get chance be truly cared для и nurtured в their turn. But one Catholic женщина is на mission change that. Liv Harrison, Catholic speaker и host “",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/09/10/beloved-catholic-womens-conference-is-back-after-6-years/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-10",
-      "lat": 27.5358,
-      "lng": 85.4963,
-      "country": "Nepal",
-      "city": "Kathmandu",
-      "type": "murder",
-      "title": "Many христиане among пропавший без вести и погибшие после Nepal floods",
-      "description": "Христианство has grown в Nepal, despite rising гонение.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/many-christians-among-the-missing-and-dead-after-nepal-floods",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-10",
-      "lat": 33.5325,
-      "lng": 73.0628,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "kidnapping",
-      "title": "Христианка застрелен мусульманин в Pakistan",
-      "description": "21-год-old женщина was fatally застрелен inside her home в Rawalpindi, Pakistan, her мусульманин neighbor, according report христианин Daily International. Her killer then похищен her 16-год-old stepbrother, coercing him confess her murde",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/10/christian-woman-shot-by-muslim-in-pakistan/",
       "victims": 0
     }
   ]
