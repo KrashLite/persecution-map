@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-23T10:36:22.473Z",
+    "lastUpdated": "2026-10-23T15:59:59.700Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,19 @@
       "description": "Niger штат правительство has revived христианский паломниквек exercise для 2026, more than ten годы после it was stopped due economic испытания. Read More: https://punchng.com/niger-revives-христианин-паломничество-exercise/",
       "source": "punchng",
       "url": "https://punchng.com/niger-revives-christian-pilgrimage-exercise/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-23",
+      "lat": 4.5592,
+      "lng": 18.7121,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "murder",
+      "title": "Leo XIV carries St. Óscar Romero с him",
+      "description": "Папа Leo XIV carries holy card St. Óscar Romero around с him, along с третий-class relic saint, whom he entrusts himself daily. That’s what архиепископ José Luis Escobar San Salvador, президент Salvadoran Episcopal Conf",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/10/23/leo-xiv-carries-st-oscar-romero-with-him/",
       "victims": 0
     },
     {
@@ -220,6 +233,19 @@
       "lng": 8.7815,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "arrest",
+      "title": "Христианин Mother приговорён 14 годы в тюрьма в Nigeria",
+      "description": "Христианин mother в northeastern Nigeria has reportedly been приговорён 14 годы в тюрьма после sharing her вера с мусульманин женщина who позже testified that she subsequently converted христианство voluntarily. Justice. B. Kumdila",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/21/christian-mother-sentenced-to-14-years-in-prison-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-21",
+      "lat": 11.6849,
+      "lng": 13.1405,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "arrest",
       "title": "Христианин Mother приговорён 14 годы в тюрьма в Nigeria",
       "description": "Христианин mother в northeastern Nigeria has reportedly been приговорён 14 годы в тюрьма после sharing her вера с мусульманин женщина who позже testified that she subsequently converted христианство voluntarily. Justice. B. Kumdila",
@@ -6478,32 +6504,6 @@
       "description": "26-год-old христианин, Samuel Arif, has been арестован и sent на judicial заключение под стражу в Lahore после being accused богохульство. incident has снова raised deep concerns among local rights activists и христианская община regarding mis",
       "source": "persecution",
       "url": "https://persecution.org/2026/09/11/christian-man-arrested-for-blasphemy-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-11",
-      "lat": 34.1204,
-      "lng": 71.4023,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "arrest",
-      "title": "Христианин арестован для богохульство в Pakistan",
-      "description": "26-год-old христианин, Samuel Arif, has been арестован и sent на judicial заключение под стражу в Lahore после being accused богохульство. incident has снова raised deep concerns among local rights activists и христианская община regarding mis",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/11/christian-man-arrested-for-blasphemy-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-10",
-      "lat": 9.0158,
-      "lng": 7.7105,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "discrimination",
-      "title": "Англиканская церковь запреты immediate burial relatives, sets 2-неделя minimum timeframe",
-      "description": "Omeiza Ajayi ABUJA: Diocese Okene, церковь Nigeria (Anglican причастие) в Kogi штат, has запрещён members из burying their departed relatives немедленно, insisting that minimum период two недели must elapse до any burial arrang",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/09/anglican-church-bans-immediate-burial-of-relatives-sets-2-week-minimum-timeframe/",
       "victims": 0
     }
   ]
