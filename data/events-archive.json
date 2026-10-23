@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-22T20:54:55.160Z",
+    "lastUpdated": "2026-10-23T02:11:28.270Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-10-23",
+      "lat": 15.5654,
+      "lng": 32.3884,
+      "country": "Sudan",
+      "city": "Khartoum",
+      "type": "arrest",
+      "title": "Update: Amin Ismail Released из тюрьма",
+      "description": "Для more than год, Amin Ismail sat в Kobar тюрьма в Khartoum — one Sudan’s harshest facilities. He was not there для any crime he had committed. He was there because he is son пастор Ismail Azzaz, faithful церковь leader who однажды re",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/23/update-amin-ismail-released-from-prison/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-23",
+      "lat": 13.6844,
+      "lng": 1.8825,
+      "country": "Niger",
+      "city": "Niamey",
+      "type": "other",
+      "title": "Niger revives христианский паломниквек exercise",
+      "description": "Niger штат правительство has revived христианский паломниквек exercise для 2026, more than ten годы после it was stopped due economic испытания. Read More: https://punchng.com/niger-revives-христианин-паломничество-exercise/",
+      "source": "punchng",
+      "url": "https://punchng.com/niger-revives-christian-pilgrimage-exercise/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-10-22",
       "lat": 24.8348,
@@ -56,6 +82,58 @@
       "description": "Presidential candidate Nigeria Democratic конгресс, NDC ahead 2027 elections, Peter Obi has urged политический opponents keep папа, папа Leo XIV и католическая церковь out партизан кампании. post 2027: Leave папа, церковь ou",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/10/2027-leave-pope-church-out-of-political-campaigns-obi-tells-opponents/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-22",
+      "lat": 33.4567,
+      "lng": 72.83,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "kidnapping",
+      "title": "Суд в Pakistan Adjourns Hearing на христиане’ похищен Daughter",
+      "description": "ISLAMABAD (христианин Daily International–утро Star News) – Pakistan’s top constitutional суд на среда (Oct. 21) adjourned hearing на христианин couple’s petition seeking recovery their daughter после learning that мусульманин accused",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/court-in-pakistan-adjourns-hearing-on-christians-abducted-daughter/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-22",
+      "lat": 15.2921,
+      "lng": 32.557,
+      "country": "Sudan",
+      "city": "Khartoum",
+      "type": "murder",
+      "title": "Христиане Flee беспилотники Amid War в Khartoum",
+      "description": "На утро Oct. 19, sound беспилотники filled air above Sudan’s столица. According reports, Rapid Support силы ополчение launched aerial атака на areas Khartoum под control Sudanese вооружённые силы. Four люди",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/22/christians-flee-drones-amid-war-in-khartoum/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-22",
+      "lat": 6.632,
+      "lng": 3.3621,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "2027: Leave папа, церковь out политический кампании, Obi tells opponents",
+      "description": "Presidential candidate Nigeria Democratic конгресс, NDC ahead 2027 elections, Peter Obi has urged политический opponents keep папа, папа Leo XIV и католическая церковь out партизан кампании. post 2027: Leave папа, церковь ou",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/10/2027-leave-pope-church-out-of-political-campaigns-obi-tells-opponents/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-22",
+      "lat": 9.2915,
+      "lng": 7.2597,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Confronting workplace injustice part христианская миссия, Nigerian епископ says",
+      "description": "Епископ Sylvester Luka Gopep spoke во время celebration marking centenary World Mission день, organized Pontifical Mission Societies (PMS) в Nigeria.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/confronting-workplace-injustice-part-of-christian-mission-nigerian-bishop-says",
       "victims": 0
     },
     {
@@ -6427,84 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/09/10/christian-woman-shot-by-muslim-in-pakistan/",
       "victims": 0
-    },
-    {
-      "date": "2026-09-10",
-      "lat": 24.9544,
-      "lng": 66.9815,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "kidnapping",
-      "title": "Христианка застрелен мусульманин в Pakistan",
-      "description": "21-год-old женщина was fatally застрелен inside her home в Rawalpindi, Pakistan, her мусульманин neighbor, according report христианин Daily International. Her killer then похищен her 16-год-old stepbrother, coercing him confess her murde",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/10/christian-woman-shot-by-muslim-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-10",
-      "lat": 34.0869,
-      "lng": 71.3636,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "kidnapping",
-      "title": "Христианка застрелен мусульманин в Pakistan",
-      "description": "21-год-old женщина was fatally застрелен inside her home в Rawalpindi, Pakistan, her мусульманин neighbor, according report христианин Daily International. Her killer then похищен her 16-год-old stepbrother, coercing him confess her murde",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/10/christian-woman-shot-by-muslim-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-10",
-      "lat": 11.8483,
-      "lng": 8.4739,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Nigeria: 3,000 люди убит и 3,000 похищен: toll anti-христианин гонение в первый 8 месяцы 2026",
-      "description": "Broader figures compiled Intersociety are even more alarming. Since Боко Харам launched its кампания в 2009, organization says least 19,800 церкви have been атакован. Its researchers estimate that 130,783 христиане have been убит",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/09/10/nigeria-3000-people-killed-and-3000-kidnapped-the-toll-of-anti-christian-persecution-in-the-first-8-months-of-2026/",
-      "victims": 19
-    },
-    {
-      "date": "2026-09-10",
-      "lat": 9.3277,
-      "lng": 7.6064,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Nigeria: 3,000 люди убит и 3,000 похищен: toll anti-христианин гонение в первый 8 месяцы 2026",
-      "description": "Broader figures compiled Intersociety are even more alarming. Since Боко Харам launched its кампания в 2009, organization says least 19,800 церкви have been атакован. Its researchers estimate that 130,783 христиане have been убит",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/09/10/nigeria-3000-people-killed-and-3000-kidnapped-the-toll-of-anti-christian-persecution-in-the-first-8-months-of-2026/",
-      "victims": 19
-    },
-    {
-      "date": "2026-09-10",
-      "lat": 31.6041,
-      "lng": 74.5217,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "kidnapping",
-      "title": "Христианка застрелен мусульманин в Pakistan",
-      "description": "21-год-old женщина was fatally застрелен inside her home в Rawalpindi, Pakistan, her мусульманин neighbor, according report христианин Daily International. Her killer then похищен her 16-год-old stepbrother, coercing him confess her murde",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/10/christian-woman-shot-by-muslim-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-10",
-      "lat": 6.4156,
-      "lng": 3.6094,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Nigeria: 3,000 люди убит и 3,000 похищен: toll anti-христианин гонение в первый 8 месяцы 2026",
-      "description": "Broader figures compiled Intersociety are even more alarming. Since Боко Харам launched its кампания в 2009, organization says least 19,800 церкви have been атакован. Its researchers estimate that 130,783 христиане have been убит",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/09/10/nigeria-3000-people-killed-and-3000-kidnapped-the-toll-of-anti-christian-persecution-in-the-first-8-months-of-2026/",
-      "victims": 19
     }
   ]
 }
