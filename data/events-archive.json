@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-24T09:54:16.766Z",
+    "lastUpdated": "2026-10-24T14:57:38.261Z",
     "totalEvents": 500
   },
   "events": [
@@ -31,6 +31,71 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/10/24/christian-village-attacked-in-syria/",
       "victims": 0
+    },
+    {
+      "date": "2026-10-24",
+      "lat": 4.499,
+      "lng": 18.5574,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "discrimination",
+      "title": "Священники’ generosity inspires big donor для New Zealand project",
+      "description": "В июль 2026, New Zealand Diocese Christchurch revealed designs для new Cathedral Blessed таинство. country’s первый cathedral be built из ground up в more than век will be raised в place 1905 original ca",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/10/24/priests-generosity-inspires-big-donor-for-new-zealand-project/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-24",
+      "lat": 33.7506,
+      "lng": 36.2235,
+      "country": "Syria",
+      "city": "Damascus",
+      "type": "attack",
+      "title": "Христианин деревня атакован в Syria",
+      "description": "Predominantly христианин деревня в Syria is calling для “security, justice, и accountability,” as one священник wrote на Facebook. Al-Suqaylabiyah has experienced its второй атака в six месяцы из its predominantly мусульманин neighbor, Al-Qalaa (Qa",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/24/christian-village-attacked-in-syria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-24",
+      "lat": 31.4365,
+      "lng": 29.9796,
+      "country": "Egypt",
+      "city": "Alexandria",
+      "type": "arrest",
+      "title": "Suspect арестован после fire Virgin Mary церковь в Egypt’s Giza",
+      "description": "Coptic Orthodox Diocese Central Giza saidaid no one was hurt после fire was set inside церковь Virgin Mary в Giza.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/suspect-arrested-after-fire-at-virgin-mary-church-in-egypt-s-giza",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-24",
+      "lat": 29.5469,
+      "lng": 33.0326,
+      "country": "Egypt",
+      "city": "Sinai",
+      "type": "arrest",
+      "title": "Suspect арестован после Fire Virgin Mary церковь в Egypt’s Giza",
+      "description": "Coptic Orthodox Diocese Central Giza saidaid no one was hurt после fire was set inside церковь Virgin Mary в Giza.",
+      "source": "nationalCatholicRegister",
+      "url": "https://www.ncregister.com/cna/egypt-church",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-24",
+      "lat": 9.2929,
+      "lng": 7.3448,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "discrimination",
+      "title": "Христианин widows в Nigeria hold fast вера as they rebuild lives после violence",
+      "description": "Hundreds христианин widows в Nigeria’s плато штат are putting their lives back together после losing husbands, homes и livelihoods violence.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christian-widows-in-nigeria-hold-fast-to-faith-as-they-rebuild-lives-after-violence",
+      "victims": 150
     },
     {
       "date": "2026-10-23",
@@ -207,6 +272,19 @@
       "lng": 3.3488,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "other",
+      "title": "Confronting workplace injustice part христианская миссия, Nigerian епископ says",
+      "description": "Епископ Sylvester Luka Gopep spoke во время celebration marking centenary World Mission день, organized Pontifical Mission Societies (PMS) в Nigeria.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/confronting-workplace-injustice-part-of-christian-mission-nigerian-bishop-says",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-22",
+      "lat": 11.8927,
+      "lng": 12.9975,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "other",
       "title": "Confronting workplace injustice part христианская миссия, Nigerian епископ says",
       "description": "Епископ Sylvester Luka Gopep spoke во время celebration marking centenary World Mission день, organized Pontifical Mission Societies (PMS) в Nigeria.",
@@ -6427,84 +6505,6 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/around-300-christians-killed-and-over-200-abducted-in-nigeria-in-july-alone-amid-wave-of-attacks-report",
       "victims": 300
-    },
-    {
-      "date": "2026-09-12",
-      "lat": 35.7114,
-      "lng": 44.1662,
-      "country": "Iraq",
-      "city": "Kirkuk",
-      "type": "arrest",
-      "title": "Claire Lai, daughter заключён Hong Kong защитник, announces cancer diagnosis",
-      "description": "Catholic activist Jimmy Lai’s daughter enters treatment для cancer, Iraq build largest Marian святыня, canonization cause opens для Belfast священники, и more в на этой неделе’s world news roundup.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/claire-lai-daughter-of-jailed-hong-kong-advocate-announces-cancer-diagnosis",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-12",
-      "lat": 9.1536,
-      "lng": 7.4997,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Around 300 христиане убит и 200 похищен в Nigeria в июль alone amid wave атаки - report",
-      "description": "Least 299 христиане were убит и more than 200 похищен across parts Nigeria в июль, according new report documenting wave атаки на predominantly христианские общины.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/around-300-christians-killed-and-over-200-abducted-in-nigeria-in-july-alone-amid-wave-of-attacks-report",
-      "victims": 300
-    },
-    {
-      "date": "2026-09-12",
-      "lat": 33.4281,
-      "lng": 44.2437,
-      "country": "Iraq",
-      "city": "Baghdad",
-      "type": "arrest",
-      "title": "Claire Lai, daughter заключён Hong Kong защитник, announces cancer diagnosis",
-      "description": "Catholic activist Jimmy Lai’s daughter enters treatment для cancer, Iraq build largest Marian святыня, canonization cause opens для Belfast священники, и more в на этой неделе’s world news roundup.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/claire-lai-daughter-of-jailed-hong-kong-advocate-announces-cancer-diagnosis",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-12",
-      "lat": 4.4975,
-      "lng": -74.0652,
-      "country": "Colombia",
-      "city": "Bogota",
-      "type": "other",
-      "title": "Colombian президент Announces Funding для Restoration Major церковь повреждён Earthquake",
-      "description": "Basilica was повреждён август 10 earthquake, particularly в its dome. для safety reasons, мессы inside церковь have been suspended. литургия is в настоящее время being celebrated в посёлок’s central square, transforming extraordinary di",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/09/12/colombian-president-announces-funding-for-the-restoration-of-a-major-church-damaged-by-the-earthquake/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-12",
-      "lat": 6.7025,
-      "lng": 3.2276,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Around 300 христиане убит и 200 похищен в Nigeria в июль alone amid wave атаки - report",
-      "description": "Least 299 христиане were убит и more than 200 похищен across parts Nigeria в июль, according new report documenting wave атаки на predominantly христианские общины.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/around-300-christians-killed-and-over-200-abducted-in-nigeria-in-july-alone-amid-wave-of-attacks-report",
-      "victims": 300
-    },
-    {
-      "date": "2026-09-11",
-      "lat": 13.4012,
-      "lng": 2.3645,
-      "country": "Niger",
-      "city": "Niamey",
-      "type": "other",
-      "title": "C&S launches surveillance training boost церковь security",
-      "description": "Cherubim & Seraphim церковь has launched surveillance и security-awareness training programme boost церковь security amid growing угрозы в Niger Read More: https://punchng.com/cs-launches-surveillance-training--boost-церковь-security/",
-      "source": "punchng",
-      "url": "https://punchng.com/cs-launches-surveillance-training-to-boost-church-security/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
     }
   ]
 }
