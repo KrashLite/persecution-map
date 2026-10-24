@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-24T14:57:38.261Z",
+    "lastUpdated": "2026-10-24T19:54:10.210Z",
     "totalEvents": 500
   },
   "events": [
@@ -90,6 +90,19 @@
       "lng": 7.3448,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "discrimination",
+      "title": "Христианин widows в Nigeria hold fast вера as they rebuild lives после violence",
+      "description": "Hundreds христианин widows в Nigeria’s плато штат are putting their lives back together после losing husbands, homes и livelihoods violence.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christian-widows-in-nigeria-hold-fast-to-faith-as-they-rebuild-lives-after-violence",
+      "victims": 150
+    },
+    {
+      "date": "2026-10-24",
+      "lat": 9.2766,
+      "lng": 9.3084,
+      "country": "Nigeria",
+      "city": "Plateau",
       "type": "discrimination",
       "title": "Христианин widows в Nigeria hold fast вера as they rebuild lives после violence",
       "description": "Hundreds христианин widows в Nigeria’s плато штат are putting their lives back together после losing husbands, homes и livelihoods violence.",
@@ -6492,19 +6505,6 @@
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/09/okene-anglican-diocese-explains-ban-on-immediate-burials/",
       "victims": 0
-    },
-    {
-      "date": "2026-09-12",
-      "lat": 11.9379,
-      "lng": 13.2682,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Around 300 христиане убит и 200 похищен в Nigeria в июль alone amid wave атаки - report",
-      "description": "Least 299 христиане were убит и more than 200 похищен across parts Nigeria в июль, according new report documenting wave атаки на predominantly христианские общины.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/around-300-christians-killed-and-over-200-abducted-in-nigeria-in-july-alone-amid-wave-of-attacks-report",
-      "victims": 300
     }
   ]
 }
