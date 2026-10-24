@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-23T20:43:04.631Z",
+    "lastUpdated": "2026-10-24T02:09:51.021Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-10-24",
+      "lat": 34.8706,
+      "lng": 36.466,
+      "country": "Syria",
+      "city": "Homs",
+      "type": "attack",
+      "title": "Христианин деревня атакован в Syria",
+      "description": "Predominantly христианин деревня в Syria is calling для “security, justice, и accountability,” as one священник wrote на Facebook. Al-Suqaylabiyah has experienced its второй атака в six месяцы из its predominantly мусульманин neighbor, Al-Qalaa (Qa",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/24/christian-village-attacked-in-syria/",
+      "victims": 0
+    },
     {
       "date": "2026-10-23",
       "lat": 15.5654,
@@ -43,6 +56,19 @@
       "description": "Папа Leo XIV carries holy card St. Óscar Romero around с him, along с третий-class relic saint, whom he entrusts himself daily. That’s what архиепископ José Luis Escobar San Salvador, президент Salvadoran Episcopal Conf",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/10/23/leo-xiv-carries-st-oscar-romero-with-him/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-23",
+      "lat": 9.1463,
+      "lng": 9.4638,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "GIDEON OLAJIDE (1930-2026): tribute beloved церковь father",
+      "description": "Prof. Jacob Kehinde Olupona passing Rt. Revd. Gideon Isaac Oladipo Olajide, retired епископ Diocese Ibadan (Anglican причастие), marks end эра для церковь Nigeria. I extend my heartfelt condolences his семья",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/10/gideon-olajide-1930-2026-a-tribute-to-a-beloved-church-father/",
       "victims": 0
     },
     {
@@ -6473,32 +6499,6 @@
       "lng": 67.0044,
       "country": "Pakistan",
       "city": "Karachi",
-      "type": "arrest",
-      "title": "Христианин арестован для богохульство в Pakistan",
-      "description": "26-год-old христианин, Samuel Arif, has been арестован и sent на judicial заключение под стражу в Lahore после being accused богохульство. incident has снова raised deep concerns among local rights activists и христианская община regarding mis",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/11/christian-man-arrested-for-blasphemy-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-11",
-      "lat": 31.3931,
-      "lng": 74.3961,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "arrest",
-      "title": "Христианин арестован для богохульство в Pakistan",
-      "description": "26-год-old христианин, Samuel Arif, has been арестован и sent на judicial заключение под стражу в Lahore после being accused богохульство. incident has снова raised deep concerns among local rights activists и христианская община regarding mis",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/11/christian-man-arrested-for-blasphemy-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-11",
-      "lat": 33.7314,
-      "lng": 73.0224,
-      "country": "Pakistan",
-      "city": "Islamabad",
       "type": "arrest",
       "title": "Христианин арестован для богохульство в Pakistan",
       "description": "26-год-old христианин, Samuel Arif, has been арестован и sent на judicial заключение под стражу в Lahore после being accused богохульство. incident has снова raised deep concerns among local rights activists и христианская община regarding mis",
