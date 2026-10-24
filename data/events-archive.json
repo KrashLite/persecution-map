@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-24T02:09:51.021Z",
+    "lastUpdated": "2026-10-24T09:54:16.766Z",
     "totalEvents": 500
   },
   "events": [
@@ -12,6 +12,19 @@
       "lng": 36.466,
       "country": "Syria",
       "city": "Homs",
+      "type": "attack",
+      "title": "Христианин деревня атакован в Syria",
+      "description": "Predominantly христианин деревня в Syria is calling для “security, justice, и accountability,” as one священник wrote на Facebook. Al-Suqaylabiyah has experienced its второй атака в six месяцы из its predominantly мусульманин neighbor, Al-Qalaa (Qa",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/24/christian-village-attacked-in-syria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-24",
+      "lat": 36.2725,
+      "lng": 37.297,
+      "country": "Syria",
+      "city": "Aleppo",
       "type": "attack",
       "title": "Христианин деревня атакован в Syria",
       "description": "Predominantly христианин деревня в Syria is calling для “security, justice, и accountability,” as one священник wrote на Facebook. Al-Suqaylabiyah has experienced its второй атака в six месяцы из its predominantly мусульманин neighbor, Al-Qalaa (Qa",
@@ -272,6 +285,19 @@
       "lng": 13.1405,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "arrest",
+      "title": "Христианин Mother приговорён 14 годы в тюрьма в Nigeria",
+      "description": "Христианин mother в northeastern Nigeria has reportedly been приговорён 14 годы в тюрьма после sharing her вера с мусульманин женщина who позже testified that she subsequently converted христианство voluntarily. Justice. B. Kumdila",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/21/christian-mother-sentenced-to-14-years-in-prison-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-21",
+      "lat": 10.3047,
+      "lng": 7.4943,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "arrest",
       "title": "Христианин Mother приговорён 14 годы в тюрьма в Nigeria",
       "description": "Христианин mother в northeastern Nigeria has reportedly been приговорён 14 годы в тюрьма после sharing her вера с мусульманин женщина who позже testified that she subsequently converted христианство voluntarily. Justice. B. Kumdila",
@@ -6478,32 +6504,6 @@
       "description": "Cherubim & Seraphim церковь has launched surveillance и security-awareness training programme boost церковь security amid growing угрозы в Niger Read More: https://punchng.com/cs-launches-surveillance-training--boost-церковь-security/",
       "source": "punchng",
       "url": "https://punchng.com/cs-launches-surveillance-training-to-boost-church-security/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-11",
-      "lat": 2.1721,
-      "lng": 45.3918,
-      "country": "Somalia",
-      "city": "Mogadishu",
-      "type": "other",
-      "title": "Interview с ‘Rebekah,’ ICC-Supported миссионер в Somaliland",
-      "description": "Editor’s Note: following is interview с “Rebekah,” миссионер whom International христианин Concern (ICC) supports в Somaliland, where sharing gospel is extremely difficult и dangerous. Some details have been altered or omitted p",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/11/an-interview-with-rebekah-an-icc-supported-missionary-in-somaliland/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-11",
-      "lat": 24.7761,
-      "lng": 67.0044,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "arrest",
-      "title": "Христианин арестован для богохульство в Pakistan",
-      "description": "26-год-old христианин, Samuel Arif, has been арестован и sent на judicial заключение под стражу в Lahore после being accused богохульство. incident has снова raised deep concerns among local rights activists и христианская община regarding mis",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/11/christian-man-arrested-for-blasphemy-in-pakistan/",
       "victims": 0
     }
   ]
