@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-24T19:54:10.210Z",
+    "lastUpdated": "2026-10-25T01:56:30.331Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-10-25",
+      "lat": 11.813,
+      "lng": 13.0074,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "Пасторы’ heavenly tales spark earthly row",
+      "description": "Claims some Nigerian пасторы, including Apostle Arome Osayi, visiting heaven и seeing Jesus have divided христианские лидеры, sparking row. Read More: https://punchng.com/пасторы-heavenly-tales-spark-earthly-row/",
+      "source": "punchng",
+      "url": "https://punchng.com/pastors-heavenly-tales-spark-earthly-row/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-10-24",
       "lat": 34.8706,
@@ -103,6 +116,19 @@
       "lng": 9.3084,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "discrimination",
+      "title": "Христианин widows в Nigeria hold fast вера as they rebuild lives после violence",
+      "description": "Hundreds христианин widows в Nigeria’s плато штат are putting their lives back together после losing husbands, homes и livelihoods violence.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christian-widows-in-nigeria-hold-fast-to-faith-as-they-rebuild-lives-after-violence",
+      "victims": 150
+    },
+    {
+      "date": "2026-10-24",
+      "lat": 12.0248,
+      "lng": 8.7713,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "discrimination",
       "title": "Христианин widows в Nigeria hold fast вера as they rebuild lives после violence",
       "description": "Hundreds христианин widows в Nigeria’s плато штат are putting their lives back together после losing husbands, homes и livelihoods violence.",
@@ -6479,32 +6505,6 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/around-300-christians-killed-and-over-200-abducted-in-nigeria-in-july-alone-amid-wave-of-attacks-report",
       "victims": 300
-    },
-    {
-      "date": "2026-09-12",
-      "lat": 36.1225,
-      "lng": 43.9438,
-      "country": "Iraq",
-      "city": "Erbil",
-      "type": "arrest",
-      "title": "Claire Lai, daughter заключён Hong Kong защитник, announces cancer diagnosis",
-      "description": "Catholic activist Jimmy Lai’s daughter enters treatment для cancer, Iraq build largest Marian святыня, canonization cause opens для Belfast священники, и more в на этой неделе’s world news roundup.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/claire-lai-daughter-of-jailed-hong-kong-advocate-announces-cancer-diagnosis",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-12",
-      "lat": 8.9043,
-      "lng": 7.3049,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "discrimination",
-      "title": "Okene Anglican Diocese explains ‘запрет’ на immediate burials",
-      "description": "…Says resolution does not apply all Omeiza Ajayi ABUJA — Diocese Okene, церковь Nigeria (Anglican причастие), has clarified its recent resolution setting minimum two-неделя период до burial arrangements are concluded, saying di",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/09/okene-anglican-diocese-explains-ban-on-immediate-burials/",
-      "victims": 0
     }
   ]
 }
