@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-25T10:15:38.701Z",
+    "lastUpdated": "2026-10-25T15:07:53.755Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,45 @@
       "description": "Mozhda TV, which its founders describe as первый Afghan христианин television channel, began broadcasting суббота, Oct. 24, as церковь leaders, mission partners и Afghan верующие gathered mark its launch.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/afghanistan-s-first-dedicated-christian-tv-channel-launches-despite-taliban-restrictions",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-25",
+      "lat": 29.1302,
+      "lng": 33.1643,
+      "country": "Egypt",
+      "city": "Sinai",
+      "type": "other",
+      "title": "What католическая церковь в Egypt is doing keep молодёжь attached their вера",
+      "description": "Speaking Aid церковь в Need, епископ Emmanuel Bishay Egypt’s Coptic Catholic Eparchy Luxor said that relations between Catholic и православные церкви are good.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/what-the-catholic-church-in-egypt-is-doing-to-keep-youths-attached-to-their-faith",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-25",
+      "lat": 31.3944,
+      "lng": 30.0556,
+      "country": "Egypt",
+      "city": "Alexandria",
+      "type": "arrest",
+      "title": "Rights group urges immediate release 6 христиане задержан TikTok video в Egypt",
+      "description": "Alliance Defending Freedom has urged Egyptian власти free six young христиане после they posted TikTok video that власти considered наступление ислам.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/rights-group-urges-immediate-release-of-6-christians-detained-over-tiktok-video-in-egypt",
+      "victims": 6
+    },
+    {
+      "date": "2026-10-25",
+      "lat": 15.1609,
+      "lng": 44.2427,
+      "country": "Yemen",
+      "city": "Sanaa",
+      "type": "murder",
+      "title": "Папа appeals для peace в Yemen",
+      "description": "Папа also prayed для жертвы deadly terror атака Greek православная церковь на прошлой неделе в Jordan. post папа appeals для peace в Yemen appeared первый на Crux.",
+      "source": "crux",
+      "url": "https://cruxnow.com/vatican/2026/10/pope-appeals-for-peace-in-yemen/",
       "victims": 0
     },
     {
@@ -187,6 +226,32 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/suspect-arrested-after-fire-at-virgin-mary-church-in-egypt-s-giza",
       "victims": 0
+    },
+    {
+      "date": "2026-10-24",
+      "lat": 6.5694,
+      "lng": 3.4303,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "discrimination",
+      "title": "Христианин widows в Nigeria hold fast вера as they rebuild lives после violence",
+      "description": "Hundreds христианин widows в Nigeria’s плато штат are putting their lives back together после losing husbands, homes и livelihoods violence.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christian-widows-in-nigeria-hold-fast-to-faith-as-they-rebuild-lives-after-violence",
+      "victims": 150
+    },
+    {
+      "date": "2026-10-24",
+      "lat": 26.7271,
+      "lng": 80.959,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "murder",
+      "title": "India condemns атака на церковь в Jordan that убит 7, ранен 34",
+      "description": "India на суббота unequivocally condemned атака на церковь в Jordan's Karak governorate that left least seven люди погибшие и 34 ранен. New Delhi said it stands \"firmly\" с правительство и \"friendly люди\" Jordan в \"this diff",
+      "source": "newsapi:Business Standard",
+      "url": "https://www.business-standard.com/external-affairs-defence-security/news/india-condemns-attack-on-church-in-jordan-that-killed-7-injured-34-126102400714_1.html",
+      "victims": 7
     },
     {
       "date": "2026-10-23",
@@ -6440,71 +6505,6 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/09/police-in-algeria-arrest-12-christians-during-worship/",
       "victims": 12
-    },
-    {
-      "date": "2026-09-14",
-      "lat": 15.5888,
-      "lng": 32.7581,
-      "country": "Sudan",
-      "city": "Khartoum",
-      "type": "discrimination",
-      "title": "Христианин Mother’s Courage Fight для Her дети",
-      "description": "В quiet corners лагерь беженцев в South Sudan, mother six holds tightly her вера и hope that her дети will one день live free из fear. Lulu was однажды мусульманин, wife мусульманин husband, и mother living в Sudan. Whe",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/14/a-christian-mothers-courage-to-fight-for-her-children/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-14",
-      "lat": 36.1256,
-      "lng": 43.9087,
-      "country": "Iraq",
-      "city": "Erbil",
-      "type": "other",
-      "title": "Nearly 700 young христиане gather в Iraq для Baghdeda молодёжь Festival",
-      "description": "Young люди came together pray и hear talks под theme “в Footsteps St. Francis.”",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/nearly-700-young-christians-gather-in-iraq-for-baghdeda-youth-festival",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-14",
-      "lat": 35.6293,
-      "lng": 44.2185,
-      "country": "Iraq",
-      "city": "Kirkuk",
-      "type": "other",
-      "title": "Nearly 700 young христиане gather в Iraq для Baghdeda молодёжь Festival",
-      "description": "Young люди came together pray и hear talks под theme “в Footsteps St. Francis.”",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/nearly-700-young-christians-gather-in-iraq-for-baghdeda-youth-festival",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-14",
-      "lat": 33.2592,
-      "lng": 44.4834,
-      "country": "Iraq",
-      "city": "Baghdad",
-      "type": "other",
-      "title": "Nearly 700 young христиане gather в Iraq для Baghdeda молодёжь Festival",
-      "description": "Young люди came together pray и hear talks под theme “в Footsteps St. Francis.”",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/nearly-700-young-christians-gather-in-iraq-for-baghdeda-youth-festival",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-14",
-      "lat": 36.5026,
-      "lng": 42.9836,
-      "country": "Iraq",
-      "city": "Mosul",
-      "type": "other",
-      "title": "Nearly 700 young христиане gather в Iraq для Baghdeda молодёжь Festival",
-      "description": "Young люди came together pray и hear talks под theme “в Footsteps St. Francis.”",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/middle-east/nearly-700-young-christians-gather-in-iraq-for-baghdeda-youth-festival",
-      "victims": 0
     }
   ]
 }
