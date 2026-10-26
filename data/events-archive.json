@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-26T11:39:52.798Z",
+    "lastUpdated": "2026-10-26T17:44:33.117Z",
     "totalEvents": 500
   },
   "events": [
@@ -18,6 +18,32 @@
       "source": "aleteia",
       "url": "https://aleteia.org/2026/10/26/their-martyrdom-left-the-diocese-with-only-half-its-priests/",
       "victims": 0
+    },
+    {
+      "date": "2026-10-26",
+      "lat": 9.279,
+      "lng": 38.768,
+      "country": "Ethiopia",
+      "city": "Addis Ababa",
+      "type": "murder",
+      "title": "40 убит в атака на Orthodox христиане в Ethiopia",
+      "description": "Least 43 люди have been убит и 18 others ранен в атака targeting деревни, Orthodox христианин церкви и homes в Ethiopia’s Oromia регион, according residents и conflict monitoring organisation. post 40 убит в",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/10/over-40-killed-in-attack-on-orthodox-christians-in-ethiopia/",
+      "victims": 40
+    },
+    {
+      "date": "2026-10-26",
+      "lat": 4.622,
+      "lng": 18.3428,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "murder",
+      "title": "4 люди who погиб в 1990s closer sainthood",
+      "description": "Causes для canonization two миссионер епископы has gone forward, along с four other causes advancing, according note published октябрь 24. Vatican also recognized heroic virtues two Italian священники, Capuchin монах who was",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/10/26/4-people-who-died-in-1990s-closer-to-sainthood/",
+      "victims": 4
     },
     {
       "date": "2026-10-25",
@@ -161,6 +187,19 @@
       "source": "nationalCatholicRegister",
       "url": "https://www.ncregister.com/cna/egypt-christians",
       "victims": 6
+    },
+    {
+      "date": "2026-10-25",
+      "lat": 30.2301,
+      "lng": 31.39,
+      "country": "Egypt",
+      "city": "Cairo",
+      "type": "other",
+      "title": "What католическая церковь в Egypt is doing keep молодёжь attached their вера",
+      "description": "Speaking Aid церковь в Need, епископ Emmanuel Bishay Egypt’s Coptic Catholic Eparchy Luxor said that relations between Catholic и православные церкви are good.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/what-the-catholic-church-in-egypt-is-doing-to-keep-youths-attached-to-their-faith",
+      "victims": 0
     },
     {
       "date": "2026-10-24",
@@ -415,6 +454,19 @@
       "lng": 73.0854,
       "country": "India",
       "city": "Mumbai",
+      "type": "attack",
+      "title": "India condemns атака на церковь в Jordan's Karak; reaffirms zero tolerance для terrorism",
+      "description": "India has condemned атака на церковь в Karak, Jordan, which occurred во время funeral. министерство External Affairs expressed condolences жертвы' семьи и wished для swift recovery для ранен. External Affairs министр S",
+      "source": "newsapi:The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/india/india-condemns-attack-on-church-in-jordans-karak-reaffirms-zero-tolerance-for-terrorism/articleshow/135168635.cms",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-24",
+      "lat": 21.3335,
+      "lng": 81.6556,
+      "country": "India",
+      "city": "Chhattisgarh",
       "type": "attack",
       "title": "India condemns атака на церковь в Jordan's Karak; reaffirms zero tolerance для terrorism",
       "description": "India has condemned атака на церковь в Karak, Jordan, which occurred во время funeral. министерство External Affairs expressed condolences жертвы' семьи и wished для swift recovery для ранен. External Affairs министр S",
@@ -6452,58 +6504,6 @@
       "description": "Decree, issued сентябрь 4, is unusually concrete pastoral response atmosphere anxiety surrounding intensified immigration crackdown в United штаты post когда Fear Prevents люди из Attending месса и церковь Unders",
       "source": "zenit",
       "url": "https://zenit.org/2026/09/16/when-fear-prevents-people-from-attending-mass-and-the-church-understands-bishop-of-indianapolis-exempts-migrants-from-sunday-mass/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-16",
-      "lat": 9.173,
-      "lng": 7.6067,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "Anglican епископ urges action against лишения, insecurity",
-      "description": "Retired Anglican епископ, Joseph Akinfenwa, has decried лишения и insecurity в Nigeria, urging церковь leaders speak truth power. Read More: https://punchng.com/anglican-епископ-urges-action-against-лишения-insecurity/",
-      "source": "punchng",
-      "url": "https://punchng.com/anglican-bishop-urges-action-against-hardship-insecurity/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-16",
-      "lat": 6.5748,
-      "lng": 3.4945,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "CAN dismisses rumour Alia’s plan demolish Secretariat",
-      "description": "Peter Duru, Makurdi христианин Association Nigeria (CAN), Benue штат Chapter, has dismissed reports circulating на social media и other platforms alleging that губернатор Hyacinth Alia was planning demolish association’s secretariat",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/09/can-dismisses-rumour-of-alias-plan-to-demolish-secretariat/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-16",
-      "lat": 9.0675,
-      "lng": 9.7648,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "CAN dismisses rumour Alia’s plan demolish Secretariat",
-      "description": "Peter Duru, Makurdi христианин Association Nigeria (CAN), Benue штат Chapter, has dismissed reports circulating на social media и other platforms alleging that губернатор Hyacinth Alia was planning demolish association’s secretariat",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/09/can-dismisses-rumour-of-alias-plan-to-demolish-secretariat/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-16",
-      "lat": 10.2804,
-      "lng": -67.1259,
-      "country": "Venezuela",
-      "city": "Caracas",
-      "type": "other",
-      "title": "Venezuela: Talks с оппозиция, oil deal, Delcy Rodríguez в New York, и церковь’s stance",
-      "description": "Ongoing talks between социалист regime и оппозиция в Venezuela are making some progress пока церковь is trying contribute transition democracy и freedom.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/americas/venezuela-talks-with-opposition-oil-deal-delcy-rodriguez-in-new-york-and-the-church-s-stance",
       "victims": 0
     }
   ]
