@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-25T20:04:29.397Z",
+    "lastUpdated": "2026-10-26T01:58:09.634Z",
     "totalEvents": 500
   },
   "events": [
@@ -304,6 +304,19 @@
       "source": "newsapi:Business Standard",
       "url": "https://www.business-standard.com/external-affairs-defence-security/news/india-condemns-attack-on-church-in-jordan-that-killed-7-injured-34-126102400714_1.html",
       "victims": 7
+    },
+    {
+      "date": "2026-10-24",
+      "lat": 21.1331,
+      "lng": 85.0306,
+      "country": "India",
+      "city": "Odisha",
+      "type": "murder",
+      "title": "MEA condemns deadly церковь атака в Jordan that убит eight",
+      "description": "India на суббота condemned deadly атака на Greek православная церковь в Jordan that убит eight люди и ранен several others, expressing",
+      "source": "newsapi:The Times of India",
+      "url": "https://timesofindia.indiatimes.com/india/mea-condemns-deadly-church-attack-in-jordan-that-killed-eight/articleshow/135167781.cms",
+      "victims": 0
     },
     {
       "date": "2026-10-23",
@@ -6491,19 +6504,6 @@
       "description": "Around полночь на Sept. 6, Amina и Shamila were inside their home в Kibenge, Kasese район, Uganda, когда their house was set на fire. Their father, Muhamud, had doused house с petrol, then set it alight пока girls slept inside.",
       "source": "persecution",
       "url": "https://persecution.org/2026/09/15/muslim-father-attempts-to-burn-christian-daughters-alive/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-15",
-      "lat": 36.1513,
-      "lng": 59.6182,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "other",
-      "title": "UN чиновники demand explanation для Iranian церковь изъятие",
-      "description": "Iran has not responded.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/un-officials-demand-explanation-for-iranian-church-seizure",
       "victims": 0
     }
   ]
