@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-27T02:36:06.365Z",
+    "lastUpdated": "2026-10-27T11:09:01.213Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-10-27",
+      "lat": 33.6376,
+      "lng": 73.1954,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "murder",
+      "title": "‘Constant угроза из extremism’: брат Shahbaz Bhatti tells Crux сейчас plight Pakistan христиане",
+      "description": "Брат Pakistani Catholic политик убит экстремисты has lifted lid на life в Pakisan для христиане и религиозный minorities, saying they live под constant угроза исламский extremism.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/10/constant-threat-from-extremism-brother-of-shahbaz-bhatti-tells-crux-now-of-plight-of-pakistan-christians/",
+      "victims": 0
+    },
     {
       "date": "2026-10-26",
       "lat": 4.4837,
@@ -6491,19 +6504,6 @@
       "description": "Decree, issued сентябрь 4, is unusually concrete pastoral response atmosphere anxiety surrounding intensified immigration crackdown в United штаты post когда Fear Prevents люди из Attending месса и церковь Unders",
       "source": "zenit",
       "url": "https://zenit.org/2026/09/16/when-fear-prevents-people-from-attending-mass-and-the-church-understands-bishop-of-indianapolis-exempts-migrants-from-sunday-mass/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-17",
-      "lat": 21.9016,
-      "lng": 95.99,
-      "country": "Myanmar",
-      "city": "Mandalay",
-      "type": "murder",
-      "title": "Военные Kills Another пастор в Myanmar",
-      "description": "Another пастор has погиб hands военные в Myanmar. о 4 p.m. на Sept. 14, военные застрелен и убит Rev. Dal Thawn Tuang, assistant пастор Lamzang баптистская церковь в Lamzang деревня, Chin штат. Burma Research Institu",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/17/military-kills-another-pastor-in-myanmar/",
       "victims": 0
     }
   ]
