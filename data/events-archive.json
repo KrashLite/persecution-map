@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-27T16:56:09.868Z",
+    "lastUpdated": "2026-10-27T21:31:57.408Z",
     "totalEvents": 500
   },
   "events": [
@@ -90,6 +90,58 @@
       "lng": 8.4429,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "other",
+      "title": "Seminarian training kicks off в Nigeria combat sexual и gender-based violence",
+      "description": "Initiative aims reach least 1,000 seminarians prepare them recognize different forms насилие, support выжившие, и promote safer communities в their future pastoral министерство.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/seminarian-training-kicks-off-in-nigeria-to-combat-sexual-and-gender-based-violence",
+      "victims": 1
+    },
+    {
+      "date": "2026-10-27",
+      "lat": 39.8073,
+      "lng": 116.4906,
+      "country": "China",
+      "city": "Beijing",
+      "type": "arrest",
+      "title": "Пастор Jin’s Release Does Not End China’s гонение христиане",
+      "description": "Release раньше в этом году пастор Ezra Jin Mingri после nine месяцы в Chinese задержание marked significant victory для религиозный freedom защитники, but it has done little change circumstances facing христиане who refuse submit",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/27/pastor-jins-release-does-not-end-chinas-persecution-of-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-27",
+      "lat": 29.4237,
+      "lng": 33.1777,
+      "country": "Egypt",
+      "city": "Sinai",
+      "type": "arrest",
+      "title": "Власти в Egypt Hold христианин Incommunicado",
+      "description": "LONDON (утро Star News) – власти в Egypt арестован Coptic христианин в этом месяце для Facebook posts criticizing вынужден исламский education non-мусульмане, пока six young Copts задержан TikTok video have been ordered released. Egyptian S",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/authorities-in-egypt-hold-christian-incommunidado/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-27",
+      "lat": 34.1466,
+      "lng": 71.4605,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "murder",
+      "title": "‘Constant угроза из extremism’: брат Shahbaz Bhatti tells Crux сейчас plight Pakistan христиане",
+      "description": "Брат Pakistani Catholic политик убит экстремисты has lifted lid на life в Pakisan для христиане и религиозный minorities, saying they live под constant угроза исламский extremism.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/10/constant-threat-from-extremism-brother-of-shahbaz-bhatti-tells-crux-now-of-plight-of-pakistan-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-27",
+      "lat": 9.0474,
+      "lng": 7.5702,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "other",
       "title": "Seminarian training kicks off в Nigeria combat sexual и gender-based violence",
       "description": "Initiative aims reach least 1,000 seminarians prepare them recognize different forms насилие, support выжившие, и promote safer communities в their future pastoral министерство.",
@@ -6452,58 +6504,6 @@
       "description": "Из церковь вандализм могила осквернение, нападения against христианские меньшинства are increasing в large штат West Bengal since BJP, RSS offshoot, came power в май.",
       "source": "newsapi:The Diplomat",
       "url": "https://thediplomat.com/2026/09/abroad-indias-rss-speaks-of-love-at-home-its-affiliates-attack-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-18",
-      "lat": 19.0956,
-      "lng": 72.6813,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "attack",
-      "title": "Abroad, India’s RSS Speaks ‘Love.’ Home, Its Affiliates атака христиане.",
-      "description": "Из церковь вандализм могила осквернение, нападения against христианские меньшинства are increasing в large штат West Bengal since BJP, RSS offshoot, came power в май.",
-      "source": "newsapi:The Diplomat",
-      "url": "https://thediplomat.com/2026/09/abroad-indias-rss-speaks-of-love-at-home-its-affiliates-attack-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-17",
-      "lat": 31.7346,
-      "lng": 74.5505,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "other",
-      "title": "Христианин Teen избит для Protecting женщины в Pakistan",
-      "description": "Masih was rushed больница и позже referred район штаб-квартира (DHQ) больница due severity his condition. чиновник medical certificate was issued confirming severe ранения across multiple parts his body. post C",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/09/16/christian-teen-beaten-for-protecting-women-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-17",
-      "lat": 11.6385,
-      "lng": 13.1158,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "Nigeria’s mounting debt, insecurity worsen лишения — Anglican Primate",
-      "description": "Primate церковь Nigeria, архиепископ Henry Ndukuba, has raised concerns Nigeria’s rising debt, insecurity, и corruption. Read More: https://punchng.com/nigerias-mounting-debt-insecurity-worsen-лишения-anglican-primate/",
-      "source": "punchng",
-      "url": "https://punchng.com/nigerias-mounting-debt-insecurity-worsen-hardship-anglican-primate/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-17",
-      "lat": 20.7712,
-      "lng": 84.9714,
-      "country": "India",
-      "city": "Odisha",
-      "type": "other",
-      "title": "Когда Fear Prevents люди из Attending месса и церковь Understands: епископ Indianapolis Exempts Migrants из воскресенье месса",
-      "description": "Decree, issued сентябрь 4, is unusually concrete pastoral response atmosphere anxiety surrounding intensified immigration crackdown в United штаты post когда Fear Prevents люди из Attending месса и церковь Unders",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/09/16/when-fear-prevents-people-from-attending-mass-and-the-church-understands-bishop-of-indianapolis-exempts-migrants-from-sunday-mass/",
       "victims": 0
     }
   ]
