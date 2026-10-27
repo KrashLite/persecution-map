@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-26T21:58:56.394Z",
+    "lastUpdated": "2026-10-27T02:36:06.365Z",
     "totalEvents": 500
   },
   "events": [
@@ -44,6 +44,19 @@
       "source": "aleteia",
       "url": "https://aleteia.org/2026/10/26/4-people-who-died-in-1990s-closer-to-sainthood/",
       "victims": 4
+    },
+    {
+      "date": "2026-10-26",
+      "lat": 4.5935,
+      "lng": 18.5564,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "murder",
+      "title": "Community Mourns as Nine убит в Jordanian церковь атака Buried",
+      "description": "Thousands люди gathered St. George’s Greek православная церковь в Hamoud, Karak, Jordan на воскресенье, as eight nine христиане убит в пятница’s атака на церковь were laid rest. девятый жертва, Mohammed al-Qasous, was buried на Mond",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/26/community-mourns-as-nine-killed-in-jordanian-church-attack-buried/",
+      "victims": 0
     },
     {
       "date": "2026-10-25",
@@ -6491,19 +6504,6 @@
       "description": "Another пастор has погиб hands военные в Myanmar. о 4 p.m. на Sept. 14, военные застрелен и убит Rev. Dal Thawn Tuang, assistant пастор Lamzang баптистская церковь в Lamzang деревня, Chin штат. Burma Research Institu",
       "source": "persecution",
       "url": "https://persecution.org/2026/09/17/military-kills-another-pastor-in-myanmar/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-17",
-      "lat": 21.0918,
-      "lng": 81.7901,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "other",
-      "title": "Когда Fear Prevents люди из Attending месса и церковь Understands: епископ Indianapolis Exempts Migrants из воскресенье месса",
-      "description": "Decree, issued сентябрь 4, is unusually concrete pastoral response atmosphere anxiety surrounding intensified immigration crackdown в United штаты post когда Fear Prevents люди из Attending месса и церковь Unders",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/09/16/when-fear-prevents-people-from-attending-mass-and-the-church-understands-bishop-of-indianapolis-exempts-migrants-from-sunday-mass/",
       "victims": 0
     }
   ]
