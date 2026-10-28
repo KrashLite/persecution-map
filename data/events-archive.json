@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-28T02:45:11.491Z",
+    "lastUpdated": "2026-10-28T11:44:23.364Z",
     "totalEvents": 500
   },
   "events": [
@@ -18,6 +18,32 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/10/28/plateau-christian-leaders-question-military-response-to-attacks/",
       "victims": 0
+    },
+    {
+      "date": "2026-10-28",
+      "lat": 8.9566,
+      "lng": 7.2809,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "attack",
+      "title": "Плато христианские лидеры Question военные Response атаки",
+      "description": "Христианские лидеры representing indigenous молодёжь organizations в Nigeria’s плато штат have accused security власти failing adequately protect vulnerable communities из armed атаки, calling для investigations в alleged security la",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/28/plateau-christian-leaders-question-military-response-to-attacks/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-28",
+      "lat": 8.9332,
+      "lng": 38.6701,
+      "country": "Ethiopia",
+      "city": "Addis Ababa",
+      "type": "murder",
+      "title": "More than 60 убит в атаки на Ethiopian христиане, православная церковь says",
+      "description": "Дети were reportedly among погибшие as семьи fled violence в Oromia.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/more-than-60-killed-in-attacks-on-ethiopian-christians-orthodox-church-says",
+      "victims": 60
     },
     {
       "date": "2026-10-27",
@@ -200,6 +226,19 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/seminarian-training-kicks-off-in-nigeria-to-combat-sexual-and-gender-based-violence",
       "victims": 1
+    },
+    {
+      "date": "2026-10-27",
+      "lat": 24.9261,
+      "lng": 66.9937,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "murder",
+      "title": "‘Constant угроза из extremism’: брат Shahbaz Bhatti tells Crux сейчас plight Pakistan христиане",
+      "description": "Брат Pakistani Catholic политик убит экстремисты has lifted lid на life в Pakisan для христиане и религиозный minorities, saying they live под constant угроза исламский extremism.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/10/constant-threat-from-extremism-brother-of-shahbaz-bhatti-tells-crux-now-of-plight-of-pakistan-christians/",
+      "victims": 0
     },
     {
       "date": "2026-10-26",
@@ -680,6 +719,19 @@
       "description": "India has condemned атака на церковь в Karak, Jordan, which occurred во время funeral. министерство External Affairs expressed condolences жертвы' семьи и wished для swift recovery для ранен. External Affairs министр S",
       "source": "newsapi:The Times of India",
       "url": "https://economictimes.indiatimes.com/news/india/india-condemns-attack-on-church-in-jordans-karak-reaffirms-zero-tolerance-for-terrorism/articleshow/135168635.cms",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-24",
+      "lat": 29.9468,
+      "lng": 31.0398,
+      "country": "Egypt",
+      "city": "Cairo",
+      "type": "arrest",
+      "title": "Suspect арестован после fire Virgin Mary церковь в Egypt’s Giza",
+      "description": "Coptic Orthodox Diocese Central Giza saidaid no one was hurt после fire was set inside церковь Virgin Mary в Giza.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/suspect-arrested-after-fire-at-virgin-mary-church-in-egypt-s-giza",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "Thankfully inept террористы couldn't burn down церковь as they hadn't any petrol.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/militants-in-nigeria-give-christian-villagers-ultimatum",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-18",
-      "lat": 21.1877,
-      "lng": 85.0908,
-      "country": "India",
-      "city": "Odisha",
-      "type": "attack",
-      "title": "Abroad, India’s RSS Speaks ‘Love.’ Home, Its Affiliates атака христиане.",
-      "description": "Из церковь вандализм могила осквернение, нападения against христианские меньшинства are increasing в large штат West Bengal since BJP, RSS offshoot, came power в май.",
-      "source": "newsapi:The Diplomat",
-      "url": "https://thediplomat.com/2026/09/abroad-indias-rss-speaks-of-love-at-home-its-affiliates-attack-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-18",
-      "lat": 24.8931,
-      "lng": 67.047,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "arrest",
-      "title": "Pakistani христианин Remains задержан Following богохульство Allegations",
-      "description": "Pakistani христианин remains задержан после полиция арестован him в август allegations богохульство connected религиозный remarks и video said have circulated на social media. Amir Masih, христианин из Dhala Sharif, near Nowshera",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/18/pakistani-christian-remains-detained-following-blasphemy-allegations/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-18",
-      "lat": 11.7954,
-      "lng": 8.5004,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "attack",
-      "title": "Боевики в Nigeria give христианин villagers ultimatum",
-      "description": "Thankfully inept террористы couldn't burn down церковь as they hadn't any petrol.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/militants-in-nigeria-give-christian-villagers-ultimatum",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-18",
-      "lat": 26.7989,
-      "lng": 81.0733,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "attack",
-      "title": "Abroad, India’s RSS Speaks ‘Love.’ Home, Its Affiliates атака христиане.",
-      "description": "Из церковь вандализм могила осквернение, нападения against христианские меньшинства are increasing в large штат West Bengal since BJP, RSS offshoot, came power в май.",
-      "source": "newsapi:The Diplomat",
-      "url": "https://thediplomat.com/2026/09/abroad-indias-rss-speaks-of-love-at-home-its-affiliates-attack-christians/",
       "victims": 0
     }
   ]
