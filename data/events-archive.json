@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-28T11:44:23.364Z",
+    "lastUpdated": "2026-10-28T17:30:05.785Z",
     "totalEvents": 500
   },
   "events": [
@@ -44,6 +44,19 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/more-than-60-killed-in-attacks-on-ethiopian-christians-orthodox-church-says",
       "victims": 60
+    },
+    {
+      "date": "2026-10-28",
+      "lat": 11.6362,
+      "lng": 13.2797,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "attack",
+      "title": "Плато христианские лидеры Question военные Response атаки",
+      "description": "Христианские лидеры representing indigenous молодёжь organizations в Nigeria’s плато штат have accused security власти failing adequately protect vulnerable communities из armed атаки, calling для investigations в alleged security la",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/28/plateau-christian-leaders-question-military-response-to-attacks/",
+      "victims": 0
     },
     {
       "date": "2026-10-27",
@@ -239,6 +252,58 @@
       "source": "crux",
       "url": "https://cruxnow.com/church-in-asia/2026/10/constant-threat-from-extremism-brother-of-shahbaz-bhatti-tells-crux-now-of-plight-of-pakistan-christians/",
       "victims": 0
+    },
+    {
+      "date": "2026-10-27",
+      "lat": 31.2171,
+      "lng": 121.6884,
+      "country": "China",
+      "city": "Shanghai",
+      "type": "arrest",
+      "title": "Пастор Jin’s Release Does Not End China’s гонение христиане",
+      "description": "Release раньше в этом году пастор Ezra Jin Mingri после nine месяцы в Chinese задержание marked significant victory для религиозный freedom защитники, but it has done little change circumstances facing христиане who refuse submit",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/27/pastor-jins-release-does-not-end-chinas-persecution-of-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-27",
+      "lat": 26.9144,
+      "lng": 80.846,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "discrimination",
+      "title": "Христиане Rendered Homeless в Chhattisgarh’s Tribal Belt",
+      "description": "В southern Chhattisgarh’s tribal belt, localized community disputes религиозный adherence have быстро escalated в severe civil rights violations и вынужден перемещение, в which христианские семьи are being forcibly выселен из their homes,",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/27/christians-rendered-homeless-in-chhattisgarhs-tribal-belt/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-27",
+      "lat": 33.9587,
+      "lng": 71.2983,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "murder",
+      "title": "Pakistan’s top суд upholds христианин’s смертный приговор для богохульство",
+      "description": "Pakistan’s Supreme суд upheld христианин’s смертный приговор для богохульство в historic ruling that защитники warn could have far-reaching consequences.",
+      "source": "newsapi:Fox News",
+      "url": "https://www.foxnews.com/world/pakistans-top-court-upholds-christian-mans-death-sentence-blasphemy",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-27",
+      "lat": 11.9757,
+      "lng": 13.0086,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "Seminarian training kicks off в Nigeria combat sexual и gender-based violence",
+      "description": "Initiative aims reach least 1,000 seminarians prepare them recognize different forms насилие, support выжившие, и promote safer communities в their future pastoral министерство.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/seminarian-training-kicks-off-in-nigeria-to-combat-sexual-and-gender-based-violence",
+      "victims": 1
     },
     {
       "date": "2026-10-26",
@@ -733,6 +798,19 @@
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/suspect-arrested-after-fire-at-virgin-mary-church-in-egypt-s-giza",
       "victims": 0
+    },
+    {
+      "date": "2026-10-24",
+      "lat": 10.4092,
+      "lng": 7.2091,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "discrimination",
+      "title": "Христианин widows в Nigeria hold fast вера as they rebuild lives после violence",
+      "description": "Hundreds христианин widows в Nigeria’s плато штат are putting their lives back together после losing husbands, homes и livelihoods violence.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christian-widows-in-nigeria-hold-fast-to-faith-as-they-rebuild-lives-after-violence",
+      "victims": 150
     },
     {
       "date": "2026-10-23",
@@ -6426,84 +6504,6 @@
       "description": "Nigerian армия has dismissed as fake и unverified purported intelligence alert warning planned Боко Харам и ISWAP атаки на школы, церкви, мечети, NYSC orientation лагеря и other public institutions across country. post Arm",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/09/army-dismisses-boko-haram-attack-alert-as-fake/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-18",
-      "lat": 31.7012,
-      "lng": 74.4436,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "arrest",
-      "title": "Pakistani христианин Remains задержан Following богохульство Allegations",
-      "description": "Pakistani христианин remains задержан после полиция арестован him в август allegations богохульство connected религиозный remarks и video said have circulated на social media. Amir Masih, христианин из Dhala Sharif, near Nowshera",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/18/pakistani-christian-remains-detained-following-blasphemy-allegations/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-18",
-      "lat": 10.2977,
-      "lng": 7.5768,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "attack",
-      "title": "Боевики в Nigeria give христианин villagers ultimatum",
-      "description": "Thankfully inept террористы couldn't burn down церковь as they hadn't any petrol.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/militants-in-nigeria-give-christian-villagers-ultimatum",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-18",
-      "lat": 6.5717,
-      "lng": 3.2335,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "attack",
-      "title": "Боевики в Nigeria give христианин villagers ultimatum",
-      "description": "Thankfully inept террористы couldn't burn down церковь as they hadn't any petrol.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/militants-in-nigeria-give-christian-villagers-ultimatum",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-18",
-      "lat": 9.0953,
-      "lng": 7.5699,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "attack",
-      "title": "Боевики в Nigeria give христианин villagers ultimatum",
-      "description": "Thankfully inept террористы couldn't burn down церковь as they hadn't any petrol.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/militants-in-nigeria-give-christian-villagers-ultimatum",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-18",
-      "lat": 33.8589,
-      "lng": 71.3143,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "arrest",
-      "title": "Pakistani христианин Remains задержан Following богохульство Allegations",
-      "description": "Pakistani христианин remains задержан после полиция арестован him в август allegations богохульство connected религиозный remarks и video said have circulated на social media. Amir Masih, христианин из Dhala Sharif, near Nowshera",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/18/pakistani-christian-remains-detained-following-blasphemy-allegations/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-18",
-      "lat": 11.683,
-      "lng": 13.2557,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "attack",
-      "title": "Боевики в Nigeria give христианин villagers ultimatum",
-      "description": "Thankfully inept террористы couldn't burn down церковь as they hadn't any petrol.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/militants-in-nigeria-give-christian-villagers-ultimatum",
       "victims": 0
     }
   ]
