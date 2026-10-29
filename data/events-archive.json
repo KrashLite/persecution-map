@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-29T03:04:45.796Z",
+    "lastUpdated": "2026-10-29T11:52:04.886Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-10-29",
+      "lat": 11.7894,
+      "lng": 8.4673,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Insecurity: Tinubu boost военно-воздушные силы с five new вертолёты",
+      "description": "Президент Bola Tinubu is set induct five new вертолёты в Nigerian военно-воздушные силы fleet strengthen военные операции against insecurity в c Read More: https://punchng.com/insecurity-tinubu--boost-air-сила-с-five-new-вертолёты",
+      "source": "punchng",
+      "url": "https://punchng.com/insecurity-tinubu-to-boost-air-force-with-five-new-helicopters/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-29",
+      "lat": 30.1563,
+      "lng": 31.107,
+      "country": "Egypt",
+      "city": "Cairo",
+      "type": "arrest",
+      "title": "Egypt urged drop обвинения against six христиане TikTok video",
+      "description": "Egypt releases six young христиане заключён TikTok video but обвинения remain",
+      "source": "catholicHerald",
+      "url": "https://thecatholicherald.com/article/egypt-urged-to-drop-charges-against-six-christians-over-tiktok-video",
+      "victims": 0
+    },
     {
       "date": "2026-10-28",
       "lat": 12.0337,
@@ -181,6 +207,32 @@
       "lng": 31.2878,
       "country": "Egypt",
       "city": "Cairo",
+      "type": "other",
+      "title": "Coptic молодёжь freed после video sparks accusations insulting ислам",
+      "description": "Coptic researcher urges caution as религиозный contempt cases persist в Egypt.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/coptic-youths-freed-after-video-sparks-accusations-of-insulting-islam",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-28",
+      "lat": 34.5819,
+      "lng": 36.6888,
+      "country": "Syria",
+      "city": "Homs",
+      "type": "murder",
+      "title": "Jordan strikes Syria после церковь резня: Seven гражданские погибшие в retaliatory рейды",
+      "description": "Jordan launched retaliatory airstrikes в southern Syria на понедельник, targeting alleged террорист sites linked октябрь 23 церковь атака that убит nine mourners в Karak. Syrian чиновники reported seven гражданские убит, including three дети",
+      "source": "newsapi:Naturalnews.com",
+      "url": "https://www.naturalnews.com/2026-10-28-jordan-strikes-syria-after-church-massacre.html",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-28",
+      "lat": 31.2366,
+      "lng": 30.14,
+      "country": "Egypt",
+      "city": "Alexandria",
       "type": "other",
       "title": "Coptic молодёжь freed после video sparks accusations insulting ислам",
       "description": "Coptic researcher urges caution as религиозный contempt cases persist в Egypt.",
@@ -519,6 +571,19 @@
       "lng": 3.2462,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "other",
+      "title": "Seminarian training kicks off в Nigeria combat sexual и gender-based violence",
+      "description": "Initiative aims reach least 1,000 seminarians prepare them recognize different forms насилие, support выжившие, и promote safer communities в their future pastoral министерство.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/seminarian-training-kicks-off-in-nigeria-to-combat-sexual-and-gender-based-violence",
+      "victims": 1
+    },
+    {
+      "date": "2026-10-27",
+      "lat": 10.5295,
+      "lng": 7.6487,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "other",
       "title": "Seminarian training kicks off в Nigeria combat sexual и gender-based violence",
       "description": "Initiative aims reach least 1,000 seminarians prepare them recognize different forms насилие, support выжившие, и promote safer communities в their future pastoral министерство.",
@@ -6440,71 +6505,6 @@
       "source": "zenit",
       "url": "https://zenit.org/2026/09/22/nigeria-gunmen-kill-11-christians-in-benue-state/",
       "victims": 11
-    },
-    {
-      "date": "2026-09-22",
-      "lat": 31.2132,
-      "lng": 121.641,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "arrest",
-      "title": "Trump-Xi Meeting Comes Amid Ongoing гонение в China",
-      "description": "U.S. президент Donald Trump и Chinese президент Xi Jinping are scheduled meet в Washington на Sept. 24, с trade, artificial intelligence, critical minerals, Taiwan, и other issues expected dominate discussions. But meeting also com",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/22/trump-xi-meeting-comes-amid-ongoing-persecution-in-china/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-22",
-      "lat": 31.3558,
-      "lng": 121.4815,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "arrest",
-      "title": "Select China комитет Begs Trump Pressure Xi Jinping Release религиозный прихожане",
-      "description": "Key congressional panel met вторник urge президент Donald Trump discuss release заключён христианские прихожане, some whom are American citizens, из China во время his upcoming meeting с Chinese leader Xi Jinping. hearing fr",
-      "source": "newsapi:Daily Signal",
-      "url": "https://www.dailysignal.com/2026/09/22/xi-jinping-religious-worshippers/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-22",
-      "lat": 20.8925,
-      "lng": 85.2279,
-      "country": "India",
-      "city": "Odisha",
-      "type": "other",
-      "title": "Христианин Educational Institutions в India Face Mounting Pressure",
-      "description": "Elite христианин educational institutions в Indian штат West Bengal are последний targets религиозный extremism в what seems be systematic dismantling intellectual strongholds. пока правительство чиновники have begun conduct surp",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/22/christian-educational-institutions-in-india-face-mounting-pressure/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-22",
-      "lat": 21.5215,
-      "lng": 82.0451,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "other",
-      "title": "Христианин Educational Institutions в India Face Mounting Pressure",
-      "description": "Elite христианин educational institutions в Indian штат West Bengal are последний targets религиозный extremism в what seems be systematic dismantling intellectual strongholds. пока правительство чиновники have begun conduct surp",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/22/christian-educational-institutions-in-india-face-mounting-pressure/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-22",
-      "lat": 43.8824,
-      "lng": 87.5277,
-      "country": "China",
-      "city": "Xinjiang",
-      "type": "arrest",
-      "title": "Select China комитет Begs Trump Pressure Xi Jinping Release религиозный прихожане",
-      "description": "Key congressional panel met вторник urge президент Donald Trump discuss release заключён христианские прихожане, some whom are American citizens, из China во время his upcoming meeting с Chinese leader Xi Jinping. hearing fr",
-      "source": "newsapi:Daily Signal",
-      "url": "https://www.dailysignal.com/2026/09/22/xi-jinping-religious-worshippers/",
-      "victims": 0
     }
   ]
 }
