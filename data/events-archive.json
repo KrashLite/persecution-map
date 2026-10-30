@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-30T11:44:54.239Z",
+    "lastUpdated": "2026-10-30T17:19:08.757Z",
     "totalEvents": 500
   },
   "events": [
@@ -18,6 +18,19 @@
       "source": "catholicHerald",
       "url": "https://thecatholicherald.com/article/at-least-60-killed-in-attacks-on-orthodox-christian-communities-in-ethiopia",
       "victims": 60
+    },
+    {
+      "date": "2026-10-30",
+      "lat": 20.7937,
+      "lng": 85.0884,
+      "country": "India",
+      "city": "Odisha",
+      "type": "other",
+      "title": "Христиане в India Lose Ancestral Home для вера в Christ",
+      "description": "NEW DELHI (утро Star News) – семья в India has decided leave their ancestral home rather than renounce Christ после полиция allowed толпа more than 150 индус экстремисты intent на убийство them severely beat them, sources said. injur",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/christians-in-india-lose-ancestral-home-for-faith-in-christ/",
+      "victims": 0
     },
     {
       "date": "2026-10-29",
@@ -129,6 +142,19 @@
       "lng": 116.1814,
       "country": "China",
       "city": "Beijing",
+      "type": "discrimination",
+      "title": "China’s Drive для Party Discipline Underscores угроза независимый церкви",
+      "description": "As Chinese коммунист Party publicly enforced политический discipline within its ranks its annual party gathering на этой неделе, независимый религиозный organizations continue experience ever-tightening ограничения на their activities. China’s 20th",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/29/chinas-drive-for-party-discipline-underscores-threat-to-independent-churches/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-29",
+      "lat": 31.2885,
+      "lng": 121.6458,
+      "country": "China",
+      "city": "Shanghai",
       "type": "discrimination",
       "title": "China’s Drive для Party Discipline Underscores угроза независимый церкви",
       "description": "As Chinese коммунист Party publicly enforced политический discipline within its ranks its annual party gathering на этой неделе, независимый религиозный organizations continue experience ever-tightening ограничения на their activities. China’s 20th",
@@ -394,6 +420,19 @@
       "description": "Coptic researcher urges caution as религиозный contempt cases persist в Egypt.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/coptic-youths-freed-after-video-sparks-accusations-of-insulting-islam",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-28",
+      "lat": 10.7525,
+      "lng": 7.6294,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "kidnapping",
+      "title": "Чиновник Help Sought Recover пастор’s Wife, Daughter в Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Receiving large требование выкупа в прошлом месяце, пастор в northeastern Nigeria learned that his wife и daughter, пропавший без вести since ноябрь 2025, were похищен исламский террористы, sou",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/official-help-sought-to-recover-pastors-wife-daughter-in-nigeria/",
       "victims": 0
     },
     {
@@ -844,6 +883,19 @@
       "lng": 73.1082,
       "country": "Pakistan",
       "city": "Islamabad",
+      "type": "attack",
+      "title": "Young христианин, who recovered из атака толпа that was harassing женщина, forgives his attackers",
+      "description": "Толпа атакован христианин teen после he attempted help girl being преследуемый group мужчины на воскресенье, Aug. 16, в Nasrat Colony, community с sizeable христианское население в Ajnianwala, Sheikhupura, Pakistan. post Young Christ",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/10/26/young-christian-who-recovered-from-an-attack-by-a-mob-that-was-harassing-a-woman-forgives-his-attackers/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-26",
+      "lat": 34.0129,
+      "lng": 71.4311,
+      "country": "Pakistan",
+      "city": "Peshawar",
       "type": "attack",
       "title": "Young христианин, who recovered из атака толпа that was harassing женщина, forgives his attackers",
       "description": "Толпа атакован христианин teen после he attempted help girl being преследуемый group мужчины на воскресенье, Aug. 16, в Nasrat Colony, community с sizeable христианское население в Ajnianwala, Sheikhupura, Pakistan. post Young Christ",
@@ -6452,58 +6504,6 @@
       "description": "Пастор John Cao has been released из тюрьма, but is запрещён из leaving China.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/trump-urged-to-raise-case-of-persecuted-pastor-with-xi",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-23",
-      "lat": 40.0367,
-      "lng": 116.6299,
-      "country": "China",
-      "city": "Beijing",
-      "type": "arrest",
-      "title": "Trump urged raise case преследуемый пастор с Xi",
-      "description": "Пастор John Cao has been released из тюрьма, but is запрещён из leaving China.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/trump-urged-to-raise-case-of-persecuted-pastor-with-xi",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-23",
-      "lat": 23.4751,
-      "lng": 113.6929,
-      "country": "China",
-      "city": "Guangdong",
-      "type": "arrest",
-      "title": "Trump urged raise case преследуемый пастор с Xi",
-      "description": "Пастор John Cao has been released из тюрьма, but is запрещён из leaving China.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/trump-urged-to-raise-case-of-persecuted-pastor-with-xi",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-22",
-      "lat": 11.9946,
-      "lng": 8.5851,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "attack",
-      "title": "Плато атаки: Nigerians must not get used убийства – Northern христиане",
-      "description": "Northern христианин Association condemns recent плато атаки, urging правительство prevent violence и prosecute culprits. Nine lives were lost. Read More: https://punchng.com/плато-атаки-nigerians-must-not-get-used--убийства-northern-c",
-      "source": "punchng",
-      "url": "https://punchng.com/plateau-attacks-nigerians-must-not-get-used-to-killings-northern-christians/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-22",
-      "lat": 9.1785,
-      "lng": 9.6924,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "attack",
-      "title": "Утро recap: Wike draws fresh battle lines с БТР губернаторы, Trump TV goes live, FG seals deal для 12 US вертолёты, other top stories",
-      "description": "Read утро recap на Nyesom Wike’s fresh battle с БТР губернаторы, launch Trump TV, и Nigeria’s deal для 12 US ударные вертолёты. Read More: https://punchng.com/утро-recap-wike-draws-fresh-battle-lines-с-БТР-губернаторы-trump-tv-",
-      "source": "punchng",
-      "url": "https://punchng.com/morning-recap-wike-draws-fresh-battle-lines-with-apc-governors-trump-tv-goes-live-fg-seals-deal-for-12-us-helicopters-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     }
   ]
