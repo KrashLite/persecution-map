@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-29T22:05:43.898Z",
+    "lastUpdated": "2026-10-30T03:09:20.058Z",
     "totalEvents": 500
   },
   "events": [
@@ -82,6 +82,32 @@
       "description": "NAIROBI, Kenya (утро Star News) – судья в Uganda в этом месяце приговорён five мусульмане смерть для убийство two христианские евангелисты в 2024, sources said. Three other мусульмане also received смертные приговоры для being present нападение и fail",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/10/muslims-sentenced-to-death-for-killing-two-evangelists-in-uganda/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-29",
+      "lat": 34.8128,
+      "lng": 36.831,
+      "country": "Syria",
+      "city": "Homs",
+      "type": "murder",
+      "title": "Священник Found убит Inside Home",
+      "description": "Father Samir Daou, Syriac Maronite священник, was found убит his home в деревня Ain Jrain в Lebanon’s Jbeil район. Daou’s phone signal reportedly went undetected around 1 p.m. на среда. после his reported disappearance, search o",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/29/priest-found-murdered-inside-home/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-29",
+      "lat": 43.5699,
+      "lng": 87.5098,
+      "country": "China",
+      "city": "Xinjiang",
+      "type": "discrimination",
+      "title": "China’s Drive для Party Discipline Underscores угроза независимый церкви",
+      "description": "As Chinese коммунист Party publicly enforced политический discipline within its ranks its annual party gathering на этой неделе, независимый религиозный organizations continue experience ever-tightening ограничения на their activities. China’s 20th",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/29/chinas-drive-for-party-discipline-underscores-threat-to-independent-churches/",
       "victims": 0
     },
     {
@@ -316,6 +342,32 @@
       "description": "Jordan launched retaliatory airstrikes в southern Syria на понедельник, targeting alleged террорист sites linked октябрь 23 церковь атака that убит nine mourners в Karak. Syrian чиновники reported seven гражданские убит, including three дети",
       "source": "newsapi:Naturalnews.com",
       "url": "https://www.naturalnews.com/2026-10-28-jordan-strikes-syria-after-church-massacre.html",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-28",
+      "lat": 11.8419,
+      "lng": 8.5602,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "kidnapping",
+      "title": "Чиновник Help Sought Recover пастор’s Wife, Daughter в Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Receiving large требование выкупа в прошлом месяце, пастор в northeastern Nigeria learned that his wife и daughter, пропавший без вести since ноябрь 2025, were похищен исламский террористы, sou",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/official-help-sought-to-recover-pastors-wife-daughter-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-28",
+      "lat": 27.9232,
+      "lng": 30.9764,
+      "country": "Egypt",
+      "city": "Minya",
+      "type": "other",
+      "title": "Coptic молодёжь freed после video sparks accusations insulting ислам",
+      "description": "Coptic researcher urges caution as религиозный contempt cases persist в Egypt.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/coptic-youths-freed-after-video-sparks-accusations-of-insulting-islam",
       "victims": 0
     },
     {
@@ -670,6 +722,32 @@
       "victims": 1
     },
     {
+      "date": "2026-10-27",
+      "lat": 34.6911,
+      "lng": 69.3701,
+      "country": "Afghanistan",
+      "city": "Kabul",
+      "type": "other",
+      "title": "Afghanistan: Report на Financial Networks That Facilitate гонение христиане",
+      "description": "Report aims provide policymakers и христианин advocacy organizations с knowledge needed understand link between international исламист financing и гонение христиане. post Afghanistan: Report на Financial Ne",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/10/27/afghanistan-report-on-the-financial-networks-that-facilitate-the-persecution-of-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-27",
+      "lat": 33.5902,
+      "lng": 72.9635,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "murder",
+      "title": "Pakistan’s top суд upholds христианин’s смертный приговор для богохульство",
+      "description": "Pakistan’s Supreme суд upheld христианин’s смертный приговор для богохульство в historic ruling that защитники warn could have far-reaching consequences.",
+      "source": "newsapi:Fox News",
+      "url": "https://www.foxnews.com/world/pakistans-top-court-upholds-christian-mans-death-sentence-blasphemy",
+      "victims": 0
+    },
+    {
       "date": "2026-10-26",
       "lat": 4.4837,
       "lng": 18.4233,
@@ -719,6 +797,19 @@
       "description": "Thousands люди gathered St. George’s Greek православная церковь в Hamoud, Karak, Jordan на воскресенье, as eight nine христиане убит в пятница’s атака на церковь were laid rest. девятый жертва, Mohammed al-Qasous, was buried на Mond",
       "source": "persecution",
       "url": "https://persecution.org/2026/10/26/community-mourns-as-nine-killed-in-jordanian-church-attack-buried/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-26",
+      "lat": 31.7062,
+      "lng": 74.4825,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "attack",
+      "title": "Young христианин, who recovered из атака толпа that was harassing женщина, forgives his attackers",
+      "description": "Толпа атакован христианин teen после he attempted help girl being преследуемый group мужчины на воскресенье, Aug. 16, в Nasrat Colony, community с sizeable христианское население в Ajnianwala, Sheikhupura, Pakistan. post Young Christ",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/10/26/young-christian-who-recovered-from-an-attack-by-a-mob-that-was-harassing-a-woman-forgives-his-attackers/",
       "victims": 0
     },
     {
@@ -6414,97 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/09/22/divided-and-dispossessed-how-sudans-government-targets-the-church/",
       "victims": 0
-    },
-    {
-      "date": "2026-09-22",
-      "lat": 23.3466,
-      "lng": 113.6164,
-      "country": "China",
-      "city": "Guangdong",
-      "type": "arrest",
-      "title": "Trump-Xi Meeting Comes Amid Ongoing гонение в China",
-      "description": "U.S. президент Donald Trump и Chinese президент Xi Jinping are scheduled meet в Washington на Sept. 24, с trade, artificial intelligence, critical minerals, Taiwan, и other issues expected dominate discussions. But meeting also com",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/22/trump-xi-meeting-comes-amid-ongoing-persecution-in-china/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-22",
-      "lat": -5.9834,
-      "lng": 106.8013,
-      "country": "Indonesia",
-      "city": "Jakarta",
-      "type": "other",
-      "title": "Мусульмане Stall Construction церковь Building в Indonesia",
-      "description": "SURABAYA, Indonesia (утро Star News) – мусульмане who have long opposed proposed церковь building в East Java провинция are using administrative error as pretext halt its approved construction, sources said. Claiming have backing t",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/09/muslims-stall-construction-of-church-building-in-indonesia/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-22",
-      "lat": 26.7827,
-      "lng": 81.037,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "other",
-      "title": "Христианин Educational Institutions в India Face Mounting Pressure",
-      "description": "Elite христианин educational institutions в Indian штат West Bengal are последний targets религиозный extremism в what seems be systematic dismantling intellectual strongholds. пока правительство чиновники have begun conduct surp",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/22/christian-educational-institutions-in-india-face-mounting-pressure/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-22",
-      "lat": 19.3012,
-      "lng": -99.383,
-      "country": "Mexico",
-      "city": "Mexico City",
-      "type": "other",
-      "title": "Священник’s убийство в Mexico май be warning sow fear, священник says",
-      "description": "Sept. 15 убийство Father Román de la Cruz Hernández was likely perpetrated organized crime и is not isolated incident but forms part pattern fear и запугивание.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/americas/priest-s-murder-in-mexico-may-be-warning-to-sow-fear-priest-says",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-22",
-      "lat": 39.7794,
-      "lng": 116.398,
-      "country": "China",
-      "city": "Beijing",
-      "type": "arrest",
-      "title": "Trump-Xi Meeting Comes Amid Ongoing гонение в China",
-      "description": "U.S. президент Donald Trump и Chinese президент Xi Jinping are scheduled meet в Washington на Sept. 24, с trade, artificial intelligence, critical minerals, Taiwan, и other issues expected dominate discussions. But meeting also com",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/22/trump-xi-meeting-comes-amid-ongoing-persecution-in-china/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-22",
-      "lat": 28.5536,
-      "lng": 77.1234,
-      "country": "India",
-      "city": "Delhi",
-      "type": "other",
-      "title": "Христианин Educational Institutions в India Face Mounting Pressure",
-      "description": "Elite христианин educational institutions в Indian штат West Bengal are последний targets религиозный extremism в what seems be systematic dismantling intellectual strongholds. пока правительство чиновники have begun conduct surp",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/22/christian-educational-institutions-in-india-face-mounting-pressure/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-22",
-      "lat": 11.7588,
-      "lng": 13.0351,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "attack",
-      "title": "Nigeria: боевики Kill 11 христиане в Benue штат",
-      "description": "Атака began о 6:12 p.m., according полиция. полиция Mobile сила personnel, tactical teams, и conventional officers engaged attackers в gun battle that lasted о seven hours до assailants withdrew в surrounding для",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/09/22/nigeria-gunmen-kill-11-christians-in-benue-state/",
-      "victims": 11
     }
   ]
 }
