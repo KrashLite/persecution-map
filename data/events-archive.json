@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-30T17:19:08.757Z",
+    "lastUpdated": "2026-10-30T21:44:30.940Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,71 @@
       "description": "NEW DELHI (утро Star News) – семья в India has decided leave their ancestral home rather than renounce Christ после полиция allowed толпа more than 150 индус экстремисты intent на убийство them severely beat them, sources said. injur",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/10/christians-in-india-lose-ancestral-home-for-faith-in-christ/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-30",
+      "lat": 6.6355,
+      "lng": 3.479,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "kidnapping",
+      "title": "Suspected Боко Харам боевики Threaten Kill пастор’s Wife, Sell Daughter",
+      "description": "Пастор в northeastern Nigeria said suspected Боко Харам боевики have угрожали execute his wife и sell his young daughter в slavery unless he pays выкуп, nearly год после they were похищен в Borno штат. пастор Simon Yohanna",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/30/suspected-boko-haram-militants-threaten-to-kill-pastors-wife-sell-daughter/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-30",
+      "lat": 28.0641,
+      "lng": 30.9341,
+      "country": "Egypt",
+      "city": "Minya",
+      "type": "arrest",
+      "title": "Coptic христианин арестован",
+      "description": "На Oct. 5 в Alexandria, Egypt, Sherif Wagih Fahmi was арестован National Security, which showed up his home под false pretenses. 41-год-old Coptic engineer has reportedly been обвинён с speaking against ислам. Around 1 p.m., two casu",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/30/coptic-christian-arrested/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-30",
+      "lat": 28.7201,
+      "lng": 77.3165,
+      "country": "India",
+      "city": "Delhi",
+      "type": "other",
+      "title": "Христиане в India Lose Ancestral Home для вера в Christ",
+      "description": "NEW DELHI (утро Star News) – семья в India has decided leave their ancestral home rather than renounce Christ после полиция allowed толпа more than 150 индус экстремисты intent на убийство them severely beat them, sources said. injur",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/christians-in-india-lose-ancestral-home-for-faith-in-christ/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-30",
+      "lat": 11.7618,
+      "lng": 13.087,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "arrest",
+      "title": "Полиция арест пастор, accomplice Abuja car theft",
+      "description": "FCT полиция have арестован пастор, Edwin Nwabueze, и accomplice для allegedly stealing Toyota Camry UTC Plaza в Garki, Abuja. Read More: https://punchng.com/полиция-арест-пастор-accomplice--abuja-car-theft/",
+      "source": "punchng",
+      "url": "https://punchng.com/police-arrest-pastor-accomplice-over-abuja-car-theft/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-30",
+      "lat": 21.1344,
+      "lng": 105.7909,
+      "country": "Vietnam",
+      "city": "Hanoi",
+      "type": "other",
+      "title": "Catholic сёстры’ visit буддист храм stirs controversy в Vietnam",
+      "description": "Catholic сёстры visit буддист святыня, number епископы в Ireland drop третий, Holy See U.N. meeting calls для “peaceful uses outer space,” и more в на этой неделе’s world news roundup.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-sisters-visit-to-buddhist-temple-stirs-controversy-in-vietnam",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "Pakistani мусульманин cleric honored архиепископ Canterbury has reportedly been accused protecting alleged extortion gang linked похищения и пытки",
       "source": "newsapi:RT",
       "url": "https://www.rt.com/news/646257-church-of-england-pakistani-gang/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-24",
-      "lat": 6.8215,
-      "lng": 79.7882,
-      "country": "Sri Lanka",
-      "city": "Colombo",
-      "type": "arrest",
-      "title": "Cautious welcome as 15 мужчины приговорён Sri Lanka Пасха воскресенье взрывы",
-      "description": "Христианин groups welcomed осуждения but say questions remain о who was involved.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/cautious-welcome-as-15-men-sentenced-over-sri-lanka-easter-sunday-bombings",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-23",
-      "lat": 10.4787,
-      "lng": 7.1742,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Nigerian cleric flees после body found buried в Cameroon церковь",
-      "description": "Nigerian cleric, Kedi Samuel Kenechukwu, has gone в hiding после mummified body was found buried property linked his церковь в Yaoundé, Came Read More: https://punchng.com/nigerian-cleric-flees-после-body-found-buried-в-cameroon-chur",
-      "source": "punchng",
-      "url": "https://punchng.com/nigerian-cleric-flees-after-body-found-buried-in-cameroon-church/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-23",
-      "lat": 6.8872,
-      "lng": 79.969,
-      "country": "Sri Lanka",
-      "city": "Colombo",
-      "type": "arrest",
-      "title": "Sri Lanka тюрьмы 15 для up 260 годы Пасха воскресенье церковь взрывы",
-      "description": "Archdiocese Colombo welcomed ruling but said those осуждён are only part case, as separate probe в alleged штат links continues.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/asia-pacific/sri-lanka-jails-15-for-up-to-260-years-over-easter-sunday-church-bombings",
-      "victims": 260
-    },
-    {
-      "date": "2026-09-23",
-      "lat": 31.4738,
-      "lng": 121.5252,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "arrest",
-      "title": "Trump urged raise case преследуемый пастор с Xi",
-      "description": "Пастор John Cao has been released из тюрьма, but is запрещён из leaving China.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/trump-urged-to-raise-case-of-persecuted-pastor-with-xi",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-23",
-      "lat": 44.0258,
-      "lng": 87.7786,
-      "country": "China",
-      "city": "Xinjiang",
-      "type": "arrest",
-      "title": "Trump urged raise case преследуемый пастор с Xi",
-      "description": "Пастор John Cao has been released из тюрьма, but is запрещён из leaving China.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/trump-urged-to-raise-case-of-persecuted-pastor-with-xi",
       "victims": 0
     }
   ]
