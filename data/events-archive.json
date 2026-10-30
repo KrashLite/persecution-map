@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-30T03:09:20.058Z",
+    "lastUpdated": "2026-10-30T11:44:54.239Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-10-30",
+      "lat": 8.8639,
+      "lng": 38.676,
+      "country": "Ethiopia",
+      "city": "Addis Ababa",
+      "type": "murder",
+      "title": "Least 60 убит в атаки на Orthodox христианские общины в Ethiopia",
+      "description": "Ethiopian Orthodox Tewahedo церковь reported 60 смерти в two атаки на октябрь 20 и 24, с дети among жертвы и least 20 homes сожжён дотла",
+      "source": "catholicHerald",
+      "url": "https://thecatholicherald.com/article/at-least-60-killed-in-attacks-on-orthodox-christian-communities-in-ethiopia",
+      "victims": 60
+    },
     {
       "date": "2026-10-29",
       "lat": 11.7894,
@@ -103,6 +116,19 @@
       "lng": 87.5098,
       "country": "China",
       "city": "Xinjiang",
+      "type": "discrimination",
+      "title": "China’s Drive для Party Discipline Underscores угроза независимый церкви",
+      "description": "As Chinese коммунист Party publicly enforced политический discipline within its ranks its annual party gathering на этой неделе, независимый религиозный organizations continue experience ever-tightening ограничения на their activities. China’s 20th",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/29/chinas-drive-for-party-discipline-underscores-threat-to-independent-churches/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-29",
+      "lat": 39.8183,
+      "lng": 116.1814,
+      "country": "China",
+      "city": "Beijing",
       "type": "discrimination",
       "title": "China’s Drive для Party Discipline Underscores угроза независимый церкви",
       "description": "As Chinese коммунист Party publicly enforced политический discipline within its ranks its annual party gathering на этой неделе, независимый религиозный organizations continue experience ever-tightening ограничения на their activities. China’s 20th",
@@ -805,6 +831,19 @@
       "lng": 74.4825,
       "country": "Pakistan",
       "city": "Lahore",
+      "type": "attack",
+      "title": "Young христианин, who recovered из атака толпа that was harassing женщина, forgives his attackers",
+      "description": "Толпа атакован христианин teen после he attempted help girl being преследуемый group мужчины на воскресенье, Aug. 16, в Nasrat Colony, community с sizeable христианское население в Ajnianwala, Sheikhupura, Pakistan. post Young Christ",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/10/26/young-christian-who-recovered-from-an-attack-by-a-mob-that-was-harassing-a-woman-forgives-his-attackers/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-26",
+      "lat": 33.7027,
+      "lng": 73.1082,
+      "country": "Pakistan",
+      "city": "Islamabad",
       "type": "attack",
       "title": "Young христианин, who recovered из атака толпа that was harassing женщина, forgives his attackers",
       "description": "Толпа атакован христианин teen после he attempted help girl being преследуемый group мужчины на воскресенье, Aug. 16, в Nasrat Colony, community с sizeable христианское население в Ajnianwala, Sheikhupura, Pakistan. post Young Christ",
@@ -6465,45 +6504,6 @@
       "description": "Read утро recap на Nyesom Wike’s fresh battle с БТР губернаторы, launch Trump TV, и Nigeria’s deal для 12 US ударные вертолёты. Read More: https://punchng.com/утро-recap-wike-draws-fresh-battle-lines-с-БТР-губернаторы-trump-tv-",
       "source": "punchng",
       "url": "https://punchng.com/morning-recap-wike-draws-fresh-battle-lines-with-apc-governors-trump-tv-goes-live-fg-seals-deal-for-12-us-helicopters-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-22",
-      "lat": 6.4128,
-      "lng": 3.4237,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "34-год-old Nigerian убит в South Africa, NUSA demands probe",
-      "description": "Nigerian Union в South Africa has demanded probe в смерть 34-год-old Nigerian, христианин Nnaemeka, после alleged атака в Johannesbu Read More: https://punchng.com/34-год-old-nigerian-убит-в-south-africa-nusa-demands-probe",
-      "source": "punchng",
-      "url": "https://punchng.com/34-year-old-nigerian-killed-in-south-africa-nusa-demands-probe/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-22",
-      "lat": 6.6593,
-      "lng": 3.5722,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Плато убийства: Northern CAN demands urgent action halt bloodshed",
-      "description": "Христианин Association Nigeria, CAN, Northern штаты и Federal столица Territory, FCT, has condemned continued убийства и разрушение property в плато штат, urging Federal и штат правительства take immediate steps rest",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/09/plateau-killings-northern-can-demands-urgent-action-to-halt-bloodshed/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-22",
-      "lat": 15.2765,
-      "lng": 32.5361,
-      "country": "Sudan",
-      "city": "Khartoum",
-      "type": "other",
-      "title": "Divided и Dispossessed: How Sudan’s правительство Targets церковь",
-      "description": "В Sudan, battle для soul церковь is not only fought с guns. It is also fought с суд papers, administrative orders, и calculated division. для годы, successive власти в Khartoum have pressured церковь leaders comply,",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/22/divided-and-dispossessed-how-sudans-government-targets-the-church/",
       "victims": 0
     }
   ]
