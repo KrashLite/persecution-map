@@ -2,10 +2,62 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-31T11:18:31.235Z",
+    "lastUpdated": "2026-10-31T16:24:14.244Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-10-31",
+      "lat": 11.8254,
+      "lng": 8.5997,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "arrest",
+      "title": "CAN questions осуждение христианка в Borno",
+      "description": "…Raises религиозный freedom concerns Luminous Jannamike христианин Association Nigeria (CAN) has faulted reported осуждение и заключение христианка в Borno штат, raising concerns религиозный freedom и protection o",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/10/can-questions-conviction-of-christian-woman-in-borno/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-31",
+      "lat": 24.746,
+      "lng": 66.9608,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "murder",
+      "title": "Minorities afraid stand up для rights в Pakistan, says брат убит христианин министр",
+      "description": "Shahbaz Bhatti was Pakistan’s Federal министр для Minority Affairs until his убийство в 2011.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/minorities-afraid-to-stand-up-for-rights-in-pakistan-says-brother-of-murdered-christian-minister",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-31",
+      "lat": 26.8584,
+      "lng": 81.0606,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "other",
+      "title": "80 годы ago Wojtyla became священник; this institute continues his vision",
+      "description": "Note: ноябрь 1, 2026, is 80th anniversary Karol Wojtyla’s рукоположение priesthood. на All Saint’s день в 1946, he became священник Christ, crowning годы preparation и beginning one most instrumental priestly министерства",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/10/31/80-years-ago-wojtyla-became-a-priest-this-institute-continues-his-vision/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-31",
+      "lat": 12.0218,
+      "lng": 8.8154,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "arrest",
+      "title": "CAN raises concerns Borno женщина’s 14-год тюрьма term",
+      "description": "Христианин Association Nigeria has raised concerns 14-год заключение Lami Samuel Dawa, христианка в Borno штат. Read More: https://punchng.com/can-raises-concerns--borno-womans-14-год-тюрьма-term/",
+      "source": "punchng",
+      "url": "https://punchng.com/can-raises-concerns-over-borno-womans-14-year-jail-term/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-10-30",
       "lat": 8.8639,
@@ -173,6 +225,32 @@
       "description": "На Oct. 5 в Alexandria, Egypt, Sherif Wagih Fahmi was арестован National Security, which showed up his home под false pretenses. 41-год-old Coptic engineer has reportedly been обвинён с speaking against ислам. Around 1 p.m., two casu",
       "source": "persecution",
       "url": "https://persecution.org/2026/10/30/coptic-christian-arrested/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-30",
+      "lat": 30.9683,
+      "lng": 29.9896,
+      "country": "Egypt",
+      "city": "Alexandria",
+      "type": "arrest",
+      "title": "Coptic христианин арестован",
+      "description": "На Oct. 5 в Alexandria, Egypt, Sherif Wagih Fahmi was арестован National Security, which showed up his home под false pretenses. 41-год-old Coptic engineer has reportedly been обвинён с speaking against ислам. Around 1 p.m., two casu",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/30/coptic-christian-arrested/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-30",
+      "lat": 19.0202,
+      "lng": 72.8364,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "other",
+      "title": "Христиане в India Lose Ancestral Home для вера в Christ",
+      "description": "NEW DELHI (утро Star News) – семья в India has decided leave their ancestral home rather than renounce Christ после полиция allowed толпа more than 150 индус экстремисты intent на убийство them severely beat them, sources said. injur",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/christians-in-india-lose-ancestral-home-for-faith-in-christ/",
       "victims": 0
     },
     {
@@ -654,6 +732,19 @@
       "description": "Христианские лидеры representing indigenous молодёжь organizations в Nigeria’s плато штат have accused security власти failing adequately protect vulnerable communities из armed атаки, calling для investigations в alleged security la",
       "source": "persecution",
       "url": "https://persecution.org/2026/10/28/plateau-christian-leaders-question-military-response-to-attacks/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-28",
+      "lat": 9.3575,
+      "lng": 9.4796,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "kidnapping",
+      "title": "Чиновник Help Sought Recover пастор’s Wife, Daughter в Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Receiving large требование выкупа в прошлом месяце, пастор в northeastern Nigeria learned that his wife и daughter, пропавший без вести since ноябрь 2025, were похищен исламский террористы, sou",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/official-help-sought-to-recover-pastors-wife-daughter-in-nigeria/",
       "victims": 0
     },
     {
@@ -6413,97 +6504,6 @@
       "description": "International христианин Concern’s field leader для South Asia недавно, I traveled through Nepal, India, и Bhutan as part our министерство преследуемый церковь, meeting верующие и listening realities they face because their вера",
       "source": "persecution",
       "url": "https://persecution.org/2026/09/25/seven-letters-from-the-persecuted-church/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-25",
-      "lat": 9.3992,
-      "lng": 9.4913,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Nigerian пастор, Believer убит на Their Way церковь",
-      "description": "Пастор и another believer на their way богослужение God were among 13 убит во время выходные в плато штат, Nigeria. пастор, his son, и церковь worker were traveling церковь service на воскресенье утро в Dorowa Babuje когда arme",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/25/nigerian-pastor-believer-killed-on-their-way-to-church/",
-      "victims": 13
-    },
-    {
-      "date": "2026-09-25",
-      "lat": 10.6697,
-      "lng": 7.3894,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Nigerian пастор, Believer убит на Their Way церковь",
-      "description": "Пастор и another believer на their way богослужение God were among 13 убит во время выходные в плато штат, Nigeria. пастор, his son, и церковь worker were traveling церковь service на воскресенье утро в Dorowa Babuje когда arme",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/25/nigerian-pastor-believer-killed-on-their-way-to-church/",
-      "victims": 13
-    },
-    {
-      "date": "2026-09-25",
-      "lat": 10.278,
-      "lng": 7.3264,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "More христиане убит в ранее атакован Area в Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Following атаки на воскресенье (Sept. 20) that left церковь пастор и others погибшие, пастухи фулани убит least 15 more христиане в same округ в плато штат, Nigeria из",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/09/more-christians-killed-in-previously-attacked-area-in-nigeria/",
-      "victims": 15
-    },
-    {
-      "date": "2026-09-25",
-      "lat": 12.1253,
-      "lng": 8.4147,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "kidnapping",
-      "title": "Exclusive -- гонение Expert: Nigeria's похищение Boom Is Still Driven Hate для христиане",
-      "description": "Nigeria has made improvements в addressing pervasive джихадист кампании against христиане nationwide, but skyrocketing похищение rates should not be treated as mere \"security\" problem когда жертвы say their captors demand they convert, Ryan",
-      "source": "newsapi:Breitbart News",
-      "url": "https://www.breitbart.com/africa/2026/09/25/exclusive-persecution-expert-nigerias-kidnapping-boom-is-still-driven-by-hate-for-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-25",
-      "lat": 28.7156,
-      "lng": 77.0619,
-      "country": "India",
-      "city": "Delhi",
-      "type": "other",
-      "title": "Seven Letters из преследуемый церковь",
-      "description": "International христианин Concern’s field leader для South Asia недавно, I traveled through Nepal, India, и Bhutan as part our министерство преследуемый церковь, meeting верующие и listening realities they face because their вера",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/25/seven-letters-from-the-persecuted-church/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-25",
-      "lat": 9.0523,
-      "lng": 7.4872,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Nigerian пастор, Believer убит на Their Way церковь",
-      "description": "Пастор и another believer на their way богослужение God were among 13 убит во время выходные в плато штат, Nigeria. пастор, his son, и церковь worker were traveling церковь service на воскресенье утро в Dorowa Babuje когда arme",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/25/nigerian-pastor-believer-killed-on-their-way-to-church/",
-      "victims": 13
-    },
-    {
-      "date": "2026-09-25",
-      "lat": 10.3519,
-      "lng": 7.645,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "kidnapping",
-      "title": "Exclusive -- гонение Expert: Nigeria's похищение Boom Is Still Driven Hate для христиане",
-      "description": "Nigeria has made improvements в addressing pervasive джихадист кампании against христиане nationwide, but skyrocketing похищение rates should not be treated as mere \"security\" problem когда жертвы say their captors demand they convert, Ryan",
-      "source": "newsapi:Breitbart News",
-      "url": "https://www.breitbart.com/africa/2026/09/25/exclusive-persecution-expert-nigerias-kidnapping-boom-is-still-driven-by-hate-for-christians/",
       "victims": 0
     }
   ]
