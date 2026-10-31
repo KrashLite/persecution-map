@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-31T16:24:14.244Z",
+    "lastUpdated": "2026-10-31T20:44:08.755Z",
     "totalEvents": 500
   },
   "events": [
@@ -56,6 +56,45 @@
       "description": "Христианин Association Nigeria has raised concerns 14-год заключение Lami Samuel Dawa, христианка в Borno штат. Read More: https://punchng.com/can-raises-concerns--borno-womans-14-год-тюрьма-term/",
       "source": "punchng",
       "url": "https://punchng.com/can-raises-concerns-over-borno-womans-14-year-jail-term/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-31",
+      "lat": 9.203,
+      "lng": 7.6717,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Meet первый native Nigerian священник",
+      "description": "Nigeria has emerged as one world’s leading sources священники, helping fill many vacancies left declining numbers seminarians в Western nations. But Nigeria did not have its первый native Catholic священник until 1920 рукоположение F",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/10/31/meet-the-first-native-nigerian-priest/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-31",
+      "lat": 34.1398,
+      "lng": 71.3016,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "murder",
+      "title": "Minorities afraid stand up для rights в Pakistan, says брат убит христианин министр",
+      "description": "Shahbaz Bhatti was Pakistan’s Federal министр для Minority Affairs until his убийство в 2011.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/minorities-afraid-to-stand-up-for-rights-in-pakistan-says-brother-of-murdered-christian-minister",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-31",
+      "lat": 20.7161,
+      "lng": 84.9701,
+      "country": "India",
+      "city": "Odisha",
+      "type": "other",
+      "title": "80 годы ago Wojtyla became священник; this institute continues his vision",
+      "description": "Note: ноябрь 1, 2026, is 80th anniversary Karol Wojtyla’s рукоположение priesthood. на All Saint’s день в 1946, he became священник Christ, crowning годы preparation и beginning one most instrumental priestly министерства",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/10/31/80-years-ago-wojtyla-became-a-priest-this-institute-continues-his-vision/",
       "victims": 0
     },
     {
@@ -441,6 +480,19 @@
       "lng": 7.5419,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "arrest",
+      "title": "Христианин Mother приговорён 14 годы в тюрьма в Nigeria",
+      "description": "Женщина center case testified that she had chosen христианство her own free will и had not been вынужден convert. Dawa reportedly told суд she had only advised женщина и asked для leniency до sentencing. post",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/10/29/christian-mother-sentenced-to-14-years-in-prison-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-29",
+      "lat": 6.7416,
+      "lng": 3.4611,
+      "country": "Nigeria",
+      "city": "Lagos",
       "type": "arrest",
       "title": "Христианин Mother приговорён 14 годы в тюрьма в Nigeria",
       "description": "Женщина center case testified that she had chosen христианство her own free will и had not been вынужден convert. Dawa reportedly told суд she had only advised женщина и asked для leniency до sentencing. post",
@@ -6453,58 +6505,6 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/09/more-christians-killed-in-previously-attacked-area-in-nigeria/",
       "victims": 15
-    },
-    {
-      "date": "2026-09-25",
-      "lat": 18.9974,
-      "lng": 73.0382,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "other",
-      "title": "Seven Letters из преследуемый церковь",
-      "description": "International христианин Concern’s field leader для South Asia недавно, I traveled through Nepal, India, и Bhutan as part our министерство преследуемый церковь, meeting верующие и listening realities they face because their вера",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/25/seven-letters-from-the-persecuted-church/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-25",
-      "lat": 12.1495,
-      "lng": 8.3791,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Nigerian пастор, Believer убит на Their Way церковь",
-      "description": "Пастор и another believer на their way богослужение God were among 13 убит во время выходные в плато штат, Nigeria. пастор, his son, и церковь worker were traveling церковь service на воскресенье утро в Dorowa Babuje когда arme",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/25/nigerian-pastor-believer-killed-on-their-way-to-church/",
-      "victims": 13
-    },
-    {
-      "date": "2026-09-25",
-      "lat": 9.312,
-      "lng": 7.5135,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "More христиане убит в ранее атакован Area в Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Following атаки на воскресенье (Sept. 20) that left церковь пастор и others погибшие, пастухи фулани убит least 15 more христиане в same округ в плато штат, Nigeria из",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/09/more-christians-killed-in-previously-attacked-area-in-nigeria/",
-      "victims": 15
-    },
-    {
-      "date": "2026-09-25",
-      "lat": 20.9022,
-      "lng": 85.1865,
-      "country": "India",
-      "city": "Odisha",
-      "type": "other",
-      "title": "Seven Letters из преследуемый церковь",
-      "description": "International христианин Concern’s field leader для South Asia недавно, I traveled through Nepal, India, и Bhutan as part our министерство преследуемый церковь, meeting верующие и listening realities they face because their вера",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/25/seven-letters-from-the-persecuted-church/",
-      "victims": 0
     }
   ]
 }
