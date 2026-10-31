@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-10-31T02:55:16.011Z",
+    "lastUpdated": "2026-10-31T11:18:31.235Z",
     "totalEvents": 500
   },
   "events": [
@@ -147,6 +147,32 @@
       "description": "Catholic сёстры visit буддист святыня, number епископы в Ireland drop третий, Holy See U.N. meeting calls для “peaceful uses outer space,” и more в на этой неделе’s world news roundup.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/asia-pacific/catholic-sisters-visit-to-buddhist-temple-stirs-controversy-in-vietnam",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-30",
+      "lat": 10.2633,
+      "lng": 7.3998,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "kidnapping",
+      "title": "Suspected Боко Харам боевики Threaten Kill пастор’s Wife, Sell Daughter",
+      "description": "Пастор в northeastern Nigeria said suspected Боко Харам боевики have угрожали execute his wife и sell his young daughter в slavery unless he pays выкуп, nearly год после they were похищен в Borno штат. пастор Simon Yohanna",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/30/suspected-boko-haram-militants-threaten-to-kill-pastors-wife-sell-daughter/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-30",
+      "lat": 29.2789,
+      "lng": 33.3383,
+      "country": "Egypt",
+      "city": "Sinai",
+      "type": "arrest",
+      "title": "Coptic христианин арестован",
+      "description": "На Oct. 5 в Alexandria, Egypt, Sherif Wagih Fahmi was арестован National Security, which showed up his home под false pretenses. 41-год-old Coptic engineer has reportedly been обвинён с speaking against ислам. Around 1 p.m., two casu",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/10/30/coptic-christian-arrested/",
       "victims": 0
     },
     {
@@ -329,6 +355,19 @@
       "description": "Egypt releases six young христиане заключён TikTok video but обвинения remain",
       "source": "catholicHerald",
       "url": "https://thecatholicherald.com/article/egypt-urged-to-drop-charges-against-six-christians-over-tiktok-video",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-29",
+      "lat": 9.1324,
+      "lng": 7.5419,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "arrest",
+      "title": "Христианин Mother приговорён 14 годы в тюрьма в Nigeria",
+      "description": "Женщина center case testified that she had chosen христианство her own free will и had not been вынужден convert. Dawa reportedly told суд she had only advised женщина и asked для leniency до sentencing. post",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/10/29/christian-mother-sentenced-to-14-years-in-prison-in-nigeria/",
       "victims": 0
     },
     {
@@ -6466,45 +6505,6 @@
       "source": "newsapi:Breitbart News",
       "url": "https://www.breitbart.com/africa/2026/09/25/exclusive-persecution-expert-nigerias-kidnapping-boom-is-still-driven-by-hate-for-christians/",
       "victims": 0
-    },
-    {
-      "date": "2026-09-25",
-      "lat": 34.0825,
-      "lng": 71.7532,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "kidnapping",
-      "title": "Церковь England leader honored cleric linked Pakistani gang – Telegraph",
-      "description": "Pakistani мусульманин cleric honored архиепископ Canterbury has reportedly been accused protecting alleged extortion gang linked похищения и пытки",
-      "source": "newsapi:RT",
-      "url": "https://www.rt.com/news/646257-church-of-england-pakistani-gang/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-25",
-      "lat": 11.7734,
-      "lng": 12.9516,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "kidnapping",
-      "title": "Exclusive -- гонение Expert: Nigeria's похищение Boom Is Still Driven Hate для христиане",
-      "description": "Nigeria has made improvements в addressing pervasive джихадист кампании against христиане nationwide, but skyrocketing похищение rates should not be treated as mere \"security\" problem когда жертвы say their captors demand they convert, Ryan",
-      "source": "newsapi:Breitbart News",
-      "url": "https://www.breitbart.com/africa/2026/09/25/exclusive-persecution-expert-nigerias-kidnapping-boom-is-still-driven-by-hate-for-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-25",
-      "lat": 11.7775,
-      "lng": 8.3552,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "More христиане убит в ранее атакован Area в Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Following атаки на воскресенье (Sept. 20) that left церковь пастор и others погибшие, пастухи фулани убит least 15 more христиане в same округ в плато штат, Nigeria из",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/09/more-christians-killed-in-previously-attacked-area-in-nigeria/",
-      "victims": 15
     }
   ]
 }
