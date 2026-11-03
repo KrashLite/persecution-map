@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-03T00:07:01.347Z",
+    "lastUpdated": "2026-11-03T13:06:23.588Z",
     "totalEvents": 500
   },
   "events": [
@@ -51,6 +51,19 @@
       "lng": 85.0248,
       "country": "India",
       "city": "Odisha",
+      "type": "other",
+      "title": "Demand Repeal Anti-обращение Law Grows в Karnataka",
+      "description": "Христианское меньшинство leaders и human rights защитники met в southern штат Karnataka в India на Oct. 29, demanding immediate repeal contentious “anti-обращение” law. joint press conference в Bengaluru, столица Karna",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/02/demand-to-repeal-anti-conversion-law-grows-in-karnataka/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-02",
+      "lat": 28.7287,
+      "lng": 77.3388,
+      "country": "India",
+      "city": "Delhi",
       "type": "other",
       "title": "Demand Repeal Anti-обращение Law Grows в Karnataka",
       "description": "Христианское меньшинство leaders и human rights защитники met в southern штат Karnataka в India на Oct. 29, demanding immediate repeal contentious “anti-обращение” law. joint press conference в Bengaluru, столица Karna",
@@ -597,6 +610,19 @@
       "lng": 3.2403,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "other",
+      "title": "PFN, христианские адвокаты urge caution Borno женщина’s осуждение",
+      "description": "PFN и христианские адвокаты urge caution 14-год осуждение Borno женщина, Lami Dawa, для allegedly preaching мусульманин girl. Read More: https://punchng.com/pfn-христианин-lawyers-urge-caution--borno-womans-осуждение/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/pfn-christian-lawyers-urge-caution-over-borno-womans-conviction/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-30",
+      "lat": 9.3114,
+      "lng": 7.5741,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "other",
       "title": "PFN, христианские адвокаты urge caution Borno женщина’s осуждение",
       "description": "PFN и христианские адвокаты urge caution 14-год осуждение Borno женщина, Lami Dawa, для allegedly preaching мусульманин girl. Read More: https://punchng.com/pfn-христианин-lawyers-urge-caution--borno-womans-осуждение/",
@@ -6478,32 +6504,6 @@
       "description": "С tacit backing индус-nationalist правительство Bharatiya Janata Party (BJP) в West Bengal, focus запугивание has expanded из rural молитва meetings prestigious urban landmarks. post христианин Educational Instituti",
       "source": "zenit",
       "url": "https://zenit.org/2026/09/28/christian-educational-institutions-in-india-face-mounting-pressure/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-28",
-      "lat": 20.9143,
-      "lng": 85.0437,
-      "country": "India",
-      "city": "Odisha",
-      "type": "discrimination",
-      "title": "Церкви Restrict Entry Non-христиане в гонение-Hit регион",
-      "description": "В unprecedented development на прошлой неделе, more than 40 церкви в Dhamtari район central Indian штат Chhattisgarh, India, declared that богослужение is ограничен христиане only, raising eyebrows among христиане и non-христиане",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/28/churches-restrict-entry-of-non-christians-in-persecution-hit-region/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-28",
-      "lat": 9.3652,
-      "lng": 9.6301,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "New Legislation Threatens независимый Documentation гонение в Nigeria",
-      "description": "Nigeria’s сенат is advancing legislation that could significantly expand правительство oversight organizations receiving foreign funding, raising concerns that measure could affect ability церкви, humanitarian organizations, human right",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/28/new-legislation-threatens-independent-documentation-of-persecution-in-nigeria/",
       "victims": 0
     }
   ]
