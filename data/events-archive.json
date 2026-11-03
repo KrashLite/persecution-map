@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-02T13:57:57.764Z",
+    "lastUpdated": "2026-11-03T00:07:01.347Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,45 @@
       "description": "Старший пастор Victory Life Библия церковь International, Apostle Lawrence Achudume, has criticised Nigeria’s политический culture, saying celebration questionable wealth is discouraging creative entrepreneurs и talented люди из co",
       "source": "punchng",
       "url": "https://punchng.com/nigeria-glorifies-ill-gotten-wealth-discourages-creativity-cleric/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-02",
+      "lat": 6.4031,
+      "lng": 3.277,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "17 похищен Kaduna прихожане погиб в плен – CSW",
+      "description": "Ibrahim Hassan-Wuyo No fewer than 17 прихожане похищен во время атака на церкви в Ariko community, Kachia Local правительство Area Kaduna штат, reportedly погиб в плен, пока eight others were released после spending five месяцы с",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/11/17-abducted-kaduna-worshippers-died-in-captivity-csw/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-02",
+      "lat": 9.2128,
+      "lng": 38.9332,
+      "country": "Ethiopia",
+      "city": "Addis Ababa",
+      "type": "other",
+      "title": "Ethiopia’s Ongoing Conflict Leaves христианские общины Living в Fear",
+      "description": "Thousands христианские общины в Ethiopia are fleeing violence в their country as clashes around border посёлок Moyale сила семьи seek safety в neighboring Kenya. ongoing conflict has disrupted daily life, separated семьи,",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/02/ethiopias-ongoing-conflict-leaves-christian-communities-living-in-fear/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-02",
+      "lat": 21.0158,
+      "lng": 85.0248,
+      "country": "India",
+      "city": "Odisha",
+      "type": "other",
+      "title": "Demand Repeal Anti-обращение Law Grows в Karnataka",
+      "description": "Христианское меньшинство leaders и human rights защитники met в southern штат Karnataka в India на Oct. 29, demanding immediate repeal contentious “anti-обращение” law. joint press conference в Bengaluru, столица Karna",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/02/demand-to-repeal-anti-conversion-law-grows-in-karnataka/",
       "victims": 0
     },
     {
@@ -545,6 +584,19 @@
       "lng": 9.5675,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "other",
+      "title": "PFN, христианские адвокаты urge caution Borno женщина’s осуждение",
+      "description": "PFN и христианские адвокаты urge caution 14-год осуждение Borno женщина, Lami Dawa, для allegedly preaching мусульманин girl. Read More: https://punchng.com/pfn-христианин-lawyers-urge-caution--borno-womans-осуждение/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/pfn-christian-lawyers-urge-caution-over-borno-womans-conviction/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-30",
+      "lat": 6.5617,
+      "lng": 3.2403,
+      "country": "Nigeria",
+      "city": "Lagos",
       "type": "other",
       "title": "PFN, христианские адвокаты urge caution Borno женщина’s осуждение",
       "description": "PFN и христианские адвокаты urge caution 14-год осуждение Borno женщина, Lami Dawa, для allegedly preaching мусульманин girl. Read More: https://punchng.com/pfn-христианин-lawyers-urge-caution--borno-womans-осуждение/",
@@ -6452,58 +6504,6 @@
       "description": "Nigeria’s сенат is advancing legislation that could significantly expand правительство oversight organizations receiving foreign funding, raising concerns that measure could affect ability церкви, humanitarian organizations, human right",
       "source": "persecution",
       "url": "https://persecution.org/2026/09/28/new-legislation-threatens-independent-documentation-of-persecution-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-28",
-      "lat": 28.5136,
-      "lng": 76.974,
-      "country": "India",
-      "city": "Delhi",
-      "type": "discrimination",
-      "title": "Христианин Educational Institutions в India Face Mounting Pressure",
-      "description": "С tacit backing индус-nationalist правительство Bharatiya Janata Party (BJP) в West Bengal, focus запугивание has expanded из rural молитва meetings prestigious urban landmarks. post христианин Educational Instituti",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/09/28/christian-educational-institutions-in-india-face-mounting-pressure/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-28",
-      "lat": 26.8104,
-      "lng": 81.0497,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "discrimination",
-      "title": "Христианин Educational Institutions в India Face Mounting Pressure",
-      "description": "С tacit backing индус-nationalist правительство Bharatiya Janata Party (BJP) в West Bengal, focus запугивание has expanded из rural молитва meetings prestigious urban landmarks. post христианин Educational Instituti",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/09/28/christian-educational-institutions-in-india-face-mounting-pressure/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-28",
-      "lat": 21.463,
-      "lng": 81.8499,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "discrimination",
-      "title": "Христианин Educational Institutions в India Face Mounting Pressure",
-      "description": "С tacit backing индус-nationalist правительство Bharatiya Janata Party (BJP) в West Bengal, focus запугивание has expanded из rural молитва meetings prestigious urban landmarks. post христианин Educational Instituti",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/09/28/christian-educational-institutions-in-india-face-mounting-pressure/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-28",
-      "lat": 28.6352,
-      "lng": 77.1556,
-      "country": "India",
-      "city": "Delhi",
-      "type": "discrimination",
-      "title": "Церкви Restrict Entry Non-христиане в гонение-Hit регион",
-      "description": "В unprecedented development на прошлой неделе, more than 40 церкви в Dhamtari район central Indian штат Chhattisgarh, India, declared that богослужение is ограничен христиане only, raising eyebrows among христиане и non-христиане",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/28/churches-restrict-entry-of-non-christians-in-persecution-hit-region/",
       "victims": 0
     }
   ]
