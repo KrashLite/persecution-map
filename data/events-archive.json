@@ -2,10 +2,49 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-03T13:06:23.588Z",
+    "lastUpdated": "2026-11-03T22:38:20.800Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-11-03",
+      "lat": 15.75,
+      "lng": 32.5333,
+      "country": "Sudan",
+      "city": "Khartoum",
+      "type": "attack",
+      "title": "Церковь Building в Omdurman, Sudan угрожали с снос",
+      "description": "JUBA, South Sudan (утро Star News) – приход в Omdurman, Sudan fears their церковь building could be разрушен any moment due правительство targeting и bureaucratic delay, sources said. Local land власти arrived unannounced",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/11/church-building-in-omdurman-sudan-threatened-with-demolition/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-03",
+      "lat": 33.4779,
+      "lng": 72.9309,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "other",
+      "title": "Amid Drop в чиновник богохульство Accusations, Underlying Concerns Remain в Pakistan",
+      "description": "Recent Reuters report said that registered богохульство cases have seen huge drop в этом году, после Pakistan’s армия chief cracked down на fundamentalist groups. после годы widespread increases в богохульство accusations, such reversal seems lik",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/03/amid-drop-in-official-blasphemy-accusations-underlying-concerns-remain-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-03",
+      "lat": 9.0284,
+      "lng": 7.5127,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Four African varsities join силы boost nomadic education",
+      "description": "Four African университеты, including Nigeria’s MAAUN, have formed consortium improve access education для nomadic pastoralists и marginalised gro Read More: https://punchng.com/four-african-varsities-join-силы--boost-nomadic-education/",
+      "source": "punchng",
+      "url": "https://punchng.com/four-african-varsities-join-forces-to-boost-nomadic-education/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-11-02",
       "lat": 9.1396,
@@ -72,6 +111,19 @@
       "victims": 0
     },
     {
+      "date": "2026-11-02",
+      "lat": 21.3621,
+      "lng": 81.8992,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Demand Repeal Anti-обращение Law Grows в Karnataka",
+      "description": "Христианское меньшинство leaders и human rights защитники met в southern штат Karnataka в India на Oct. 29, demanding immediate repeal contentious “anti-обращение” law. joint press conference в Bengaluru, столица Karna",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/02/demand-to-repeal-anti-conversion-law-grows-in-karnataka/",
+      "victims": 0
+    },
+    {
       "date": "2026-11-01",
       "lat": 4.5178,
       "lng": 18.6994,
@@ -109,6 +161,19 @@
       "source": "zenit",
       "url": "https://zenit.org/2026/10/31/following-the-murder-of-60-christians-in-ethiopia-calls-are-being-made-for-action-in-the-wake-of-the-massacre/",
       "victims": 60
+    },
+    {
+      "date": "2026-11-01",
+      "lat": 15.5164,
+      "lng": 32.5315,
+      "country": "Sudan",
+      "city": "Khartoum",
+      "type": "other",
+      "title": "British церковь leaders stand в solidarity с South Sudanese христиане as civil war looms",
+      "description": "Senior церковь leaders в Britain have committed stand в solidarity с христиане в South Sudan as country teeters на brink full на civil war.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/british-church-leaders-stand-in-solidarity-with-south-sudanese-christians-as-civil-war-looms",
+      "victims": 0
     },
     {
       "date": "2026-10-31",
@@ -290,6 +355,19 @@
       "description": "Note: ноябрь 1, 2026, is 80th anniversary Karol Wojtyla’s рукоположение priesthood. на All Saint’s день в 1946, he became священник Christ, crowning годы preparation и beginning one most instrumental priestly министерства",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/10/31/80-years-ago-wojtyla-became-a-priest-this-institute-continues-his-vision/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-31",
+      "lat": 9.1731,
+      "lng": 9.2725,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "Meet первый native Nigerian священник",
+      "description": "Nigeria has emerged as one world’s leading sources священники, helping fill many vacancies left declining numbers seminarians в Western nations. But Nigeria did not have its первый native Catholic священник until 1920 рукоположение F",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/10/31/meet-the-first-native-nigerian-priest/",
       "victims": 0
     },
     {
@@ -628,6 +706,19 @@
       "description": "PFN и христианские адвокаты urge caution 14-год осуждение Borno женщина, Lami Dawa, для allegedly preaching мусульманин girl. Read More: https://punchng.com/pfn-христианин-lawyers-urge-caution--borno-womans-осуждение/",
       "source": "newsapi:The Punch",
       "url": "https://punchng.com/pfn-christian-lawyers-urge-caution-over-borno-womans-conviction/",
+      "victims": 0
+    },
+    {
+      "date": "2026-10-30",
+      "lat": 26.6614,
+      "lng": 80.9062,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "other",
+      "title": "Христиане в India Lose Ancestral Home для вера в Christ",
+      "description": "NEW DELHI (утро Star News) – семья в India has decided leave their ancestral home rather than renounce Christ после полиция allowed толпа more than 150 индус экстремисты intent на убийство them severely beat them, sources said. injur",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/10/christians-in-india-lose-ancestral-home-for-faith-in-christ/",
       "victims": 0
     },
     {
@@ -6413,97 +6504,6 @@
       "description": "Nigeria has taken important step toward decentralizing its policing system после National собрание transmitted constitutional amendment establishing штат полиция services all 36 штат Houses собрание для consideration. measure, fo",
       "source": "persecution",
       "url": "https://persecution.org/2026/09/29/nigeria-advances-police-reform-as-first-constitutional-amendment-to-reach-states/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-28",
-      "lat": 21.3674,
-      "lng": 82.0167,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "discrimination",
-      "title": "Церкви Restrict Entry Non-христиане в гонение-Hit регион",
-      "description": "В unprecedented development на прошлой неделе, more than 40 церкви в Dhamtari район central Indian штат Chhattisgarh, India, declared that богослужение is ограничен христиане only, raising eyebrows among христиане и non-христиане",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/28/churches-restrict-entry-of-non-christians-in-persecution-hit-region/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-28",
-      "lat": 11.8064,
-      "lng": 13.3186,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "New Legislation Threatens независимый Documentation гонение в Nigeria",
-      "description": "Nigeria’s сенат is advancing legislation that could significantly expand правительство oversight organizations receiving foreign funding, raising concerns that measure could affect ability церкви, humanitarian organizations, human right",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/28/new-legislation-threatens-independent-documentation-of-persecution-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-28",
-      "lat": 16.7824,
-      "lng": 95.9694,
-      "country": "Myanmar",
-      "city": "Yangon",
-      "type": "other",
-      "title": "Conditions Worsen для лицо без гражданства Rohingya христиане",
-      "description": "Rohingya are known largely as мусульманин ethnic group forcibly driven из Myanmar. But small subset Rohingya are христианин. Numbering о 1,500 в total, these христиане comprise small fraction 1% overall Rohingya population.",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/28/conditions-worsen-for-stateless-rohingya-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-28",
-      "lat": 26.655,
-      "lng": 81.0655,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "discrimination",
-      "title": "Церкви Restrict Entry Non-христиане в гонение-Hit регион",
-      "description": "В unprecedented development на прошлой неделе, more than 40 церкви в Dhamtari район central Indian штат Chhattisgarh, India, declared that богослужение is ограничен христиане only, raising eyebrows among христиане и non-христиане",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/28/churches-restrict-entry-of-non-christians-in-persecution-hit-region/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-28",
-      "lat": 10.5484,
-      "lng": 7.5326,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "New Legislation Threatens независимый Documentation гонение в Nigeria",
-      "description": "Nigeria’s сенат is advancing legislation that could significantly expand правительство oversight organizations receiving foreign funding, raising concerns that measure could affect ability церкви, humanitarian organizations, human right",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/28/new-legislation-threatens-independent-documentation-of-persecution-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-28",
-      "lat": 22.0787,
-      "lng": 96.019,
-      "country": "Myanmar",
-      "city": "Mandalay",
-      "type": "other",
-      "title": "Conditions Worsen для лицо без гражданства Rohingya христиане",
-      "description": "Rohingya are known largely as мусульманин ethnic group forcibly driven из Myanmar. But small subset Rohingya are христианин. Numbering о 1,500 в total, these христиане comprise small fraction 1% overall Rohingya population.",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/28/conditions-worsen-for-stateless-rohingya-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-28",
-      "lat": 19.2799,
-      "lng": 73.0372,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "discrimination",
-      "title": "Христианин Educational Institutions в India Face Mounting Pressure",
-      "description": "С tacit backing индус-nationalist правительство Bharatiya Janata Party (BJP) в West Bengal, focus запугивание has expanded из rural молитва meetings prestigious urban landmarks. post христианин Educational Instituti",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/09/28/christian-educational-institutions-in-india-face-mounting-pressure/",
       "victims": 0
     }
   ]
