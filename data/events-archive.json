@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-04T13:21:38.841Z",
+    "lastUpdated": "2026-11-04T22:57:24.972Z",
     "totalEvents": 500
   },
   "events": [
@@ -56,6 +56,19 @@
       "description": "Sudan has been в штат civil war для most its post-independence history.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/bishop-raises-plight-of-christians-caught-in-sudanese-civil-war",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-04",
+      "lat": 6.6792,
+      "lng": 3.3816,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "This beatified Nigerian священник baptized кардинал Arinze",
+      "description": "Nigeria possesses one fastest growing Catholic populations в world, с Nigerian священники сейчас being sent out as миссионеры, когда only short time ago they were receiving foreign миссионеры their land. establishment Cath",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/11/04/this-beatified-nigerian-priest-baptized-cardinal-arinze/",
       "victims": 0
     },
     {
@@ -6486,19 +6499,6 @@
       "lng": 7.4683,
       "country": "Nigeria",
       "city": "Abuja",
-      "type": "other",
-      "title": "Гонение: Trump’s pressure на Nigeria just saved hundreds христиане’ lives",
-      "description": "Для первый time, правительство is acknowledging и acting ' counter' угрозы",
-      "source": "newsapi:Wnd.com",
-      "url": "https://www.wnd.com/2026/09/persecution-trumps-pressure-nigeria-just-saved-hundreds-christians/",
-      "victims": 150
-    },
-    {
-      "date": "2026-09-30",
-      "lat": 9.4178,
-      "lng": 9.3193,
-      "country": "Nigeria",
-      "city": "Plateau",
       "type": "other",
       "title": "Гонение: Trump’s pressure на Nigeria just saved hundreds христиане’ lives",
       "description": "Для первый time, правительство is acknowledging и acting ' counter' угрозы",
