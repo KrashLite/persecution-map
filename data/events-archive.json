@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-04T03:32:16.512Z",
+    "lastUpdated": "2026-11-04T13:21:38.841Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,45 @@
       "description": "ICC Fellow Lisa Navarrette 7.m., Connor has already checked fuel gauge дважды. He works с small христианин relief team в Syria, where his день begins до roads become crowded. в back van are boxes food, medicine,",
       "source": "persecution",
       "url": "https://persecution.org/2026/11/04/fueling-persecution-part-2-of-4-when-aid-becomes-more-expensive/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-04",
+      "lat": 9.2322,
+      "lng": 9.2846,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "This beatified Nigerian священник baptized кардинал Arinze",
+      "description": "Nigeria possesses one fastest growing Catholic populations в world, с Nigerian священники сейчас being sent out as миссионеры, когда only short time ago they were receiving foreign миссионеры their land. establishment Cath",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/11/04/this-beatified-nigerian-priest-baptized-cardinal-arinze/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-04",
+      "lat": 36.4131,
+      "lng": 36.998,
+      "country": "Syria",
+      "city": "Aleppo",
+      "type": "other",
+      "title": "Fueling гонение Part 2 4: когда Aid Becomes More Expensive",
+      "description": "ICC Fellow Lisa Navarrette 7.m., Connor has already checked fuel gauge дважды. He works с small христианин relief team в Syria, where his день begins до roads become crowded. в back van are boxes food, medicine,",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/04/fueling-persecution-part-2-of-4-when-aid-becomes-more-expensive/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-04",
+      "lat": 15.61,
+      "lng": 32.6072,
+      "country": "Sudan",
+      "city": "Khartoum",
+      "type": "other",
+      "title": "Епископ raises plight христиане caught в Sudanese civil war",
+      "description": "Sudan has been в штат civil war для most its post-independence history.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/bishop-raises-plight-of-christians-caught-in-sudanese-civil-war",
       "victims": 0
     },
     {
@@ -77,6 +116,19 @@
       "lng": 71.676,
       "country": "Pakistan",
       "city": "Peshawar",
+      "type": "other",
+      "title": "Amid Drop в чиновник богохульство Accusations, Underlying Concerns Remain в Pakistan",
+      "description": "Recent Reuters report said that registered богохульство cases have seen huge drop в этом году, после Pakistan’s армия chief cracked down на fundamentalist groups. после годы widespread increases в богохульство accusations, such reversal seems lik",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/03/amid-drop-in-official-blasphemy-accusations-underlying-concerns-remain-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-03",
+      "lat": 31.3567,
+      "lng": 74.4335,
+      "country": "Pakistan",
+      "city": "Lahore",
       "type": "other",
       "title": "Amid Drop в чиновник богохульство Accusations, Underlying Concerns Remain в Pakistan",
       "description": "Recent Reuters report said that registered богохульство cases have seen huge drop в этом году, после Pakistan’s армия chief cracked down на fundamentalist groups. после годы widespread increases в богохульство accusations, such reversal seems lik",
@@ -155,6 +207,19 @@
       "lng": 81.8992,
       "country": "India",
       "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Demand Repeal Anti-обращение Law Grows в Karnataka",
+      "description": "Христианское меньшинство leaders и human rights защитники met в southern штат Karnataka в India на Oct. 29, demanding immediate repeal contentious “anti-обращение” law. joint press conference в Bengaluru, столица Karna",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/02/demand-to-repeal-anti-conversion-law-grows-in-karnataka/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-02",
+      "lat": 19.0231,
+      "lng": 72.8734,
+      "country": "India",
+      "city": "Mumbai",
       "type": "other",
       "title": "Demand Repeal Anti-обращение Law Grows в Karnataka",
       "description": "Христианское меньшинство leaders и human rights защитники met в southern штат Karnataka в India на Oct. 29, demanding immediate repeal contentious “anti-обращение” law. joint press conference в Bengaluru, столица Karna",
@@ -6440,71 +6505,6 @@
       "source": "newsapi:Wnd.com",
       "url": "https://www.wnd.com/2026/09/persecution-trumps-pressure-nigeria-just-saved-hundreds-christians/",
       "victims": 150
-    },
-    {
-      "date": "2026-09-30",
-      "lat": 12.0316,
-      "lng": 8.6267,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "Гонение: Trump’s pressure на Nigeria just saved hundreds христиане’ lives",
-      "description": "Для первый time, правительство is acknowledging и acting ' counter' угрозы",
-      "source": "newsapi:Wnd.com",
-      "url": "https://www.wnd.com/2026/09/persecution-trumps-pressure-nigeria-just-saved-hundreds-christians/",
-      "victims": 150
-    },
-    {
-      "date": "2026-09-29",
-      "lat": 19.2123,
-      "lng": -98.9636,
-      "country": "Mexico",
-      "city": "Mexico City",
-      "type": "other",
-      "title": "Mexico commemorates 500th anniversary ребёнок Martyrs",
-      "description": "Первый martyrs Americas were not миссионер священники but three young Indigenous boys в Mexico who sought spread вера they were taught и embraced 500 годы ago.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/americas/mexico-commemorates-500th-anniversary-of-child-martyrs",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-29",
-      "lat": 9.4011,
-      "lng": 9.5942,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Nigeria Advances полиция Reform as первый Constitutional Amendment Reach штаты",
-      "description": "Nigeria has taken important step toward decentralizing its policing system после National собрание transmitted constitutional amendment establishing штат полиция services all 36 штат Houses собрание для consideration. measure, fo",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/29/nigeria-advances-police-reform-as-first-constitutional-amendment-to-reach-states/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-29",
-      "lat": 11.9251,
-      "lng": 13.1141,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "Nigeria Advances полиция Reform as первый Constitutional Amendment Reach штаты",
-      "description": "Nigeria has taken important step toward decentralizing its policing system после National собрание transmitted constitutional amendment establishing штат полиция services all 36 штат Houses собрание для consideration. measure, fo",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/29/nigeria-advances-police-reform-as-first-constitutional-amendment-to-reach-states/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-29",
-      "lat": 9.0192,
-      "lng": 7.2653,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "Nigeria Advances полиция Reform as первый Constitutional Amendment Reach штаты",
-      "description": "Nigeria has taken important step toward decentralizing its policing system после National собрание transmitted constitutional amendment establishing штат полиция services all 36 штат Houses собрание для consideration. measure, fo",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/29/nigeria-advances-police-reform-as-first-constitutional-amendment-to-reach-states/",
-      "victims": 0
     }
   ]
 }
