@@ -2,10 +2,49 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-05T13:35:19.116Z",
+    "lastUpdated": "2026-11-05T22:58:17.666Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-11-05",
+      "lat": -4.4123,
+      "lng": 15.0203,
+      "country": "Democratic Republic of the Congo",
+      "city": "Kinshasa",
+      "type": "kidnapping",
+      "title": "29 заложники Rescued из ADF экстремисты",
+      "description": "Для годы, люди в eastern Democratic Republic Congo (DRC) have been terrorized Allied Democratic силы (ADF) through убийства, похищения, и атаки на innocent люди — most whom are христиане. Amid this ongoing tragedy",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/05/29-hostages-rescued-from-adf-extremists/",
+      "victims": 29
+    },
+    {
+      "date": "2026-11-05",
+      "lat": 11.7789,
+      "lng": 8.3495,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "No ребёнок is useless, every ребёнок is ordained для greatness — Foluke Adeboye",
+      "description": "Olayinka Latona wife General надзиратель Redeemed христианин церковь God (RCCG), пастор Foluke Adeboye, has called на parents, церкви, правительства и other stakeholders take greater responsibility для raising дети с go",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/11/no-child-is-useless-every-child-is-ordained-for-greatness-foluke-adeboye/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-05",
+      "lat": -4.2635,
+      "lng": 15.4073,
+      "country": "Democratic Republic of the Congo",
+      "city": "Kinshasa",
+      "type": "attack",
+      "title": "ADF Returns Lubero, Spreading Fear Amid Ebola Crisis",
+      "description": "После nearly half год away, fighters из Allied Democratic силы (ADF) have returned Lubero territory в North Kivu, Democratic Republic Congo (DRC). на вторник утро, Nov. 3, исламский экстремист ADF атакован Maikengu деревня,",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/05/adf-returns-to-lubero-spreading-fear-amid-ebola-crisis/",
+      "victims": 0
+    },
     {
       "date": "2026-11-04",
       "lat": 34.6468,
@@ -108,6 +147,19 @@
       "description": "Nigeria possesses one fastest growing Catholic populations в world, с Nigerian священники сейчас being sent out as миссионеры, когда only short time ago they were receiving foreign миссионеры their land. establishment Cath",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/11/04/this-beatified-nigerian-priest-baptized-cardinal-arinze/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-04",
+      "lat": 33.3623,
+      "lng": 36.3751,
+      "country": "Syria",
+      "city": "Damascus",
+      "type": "other",
+      "title": "Fueling гонение Part 2 4: когда Aid Becomes More Expensive",
+      "description": "ICC Fellow Lisa Navarrette 7.m., Connor has already checked fuel gauge дважды. He works с small христианин relief team в Syria, where his день begins до roads become crowded. в back van are boxes food, medicine,",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/04/fueling-persecution-part-2-of-4-when-aid-becomes-more-expensive/",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "ICC Fellow Lisa Navarrette на воскресенье утро somewhere в Middle East, old церковь bell still rings. It май sound across район в northern Iraq, ancient quarter Damascus, or деревня tucked в Lebanon’s горы. Insi",
       "source": "persecution",
       "url": "https://persecution.org/2026/09/30/the-disappearing-christian-middle-east-part-i-can-christianity-disappear-from-the-land-where-it-was-born/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-30",
-      "lat": 6.6789,
-      "lng": 3.5539,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Гонение: Trump’s pressure на Nigeria just saved hundreds христиане’ lives",
-      "description": "Для первый time, правительство is acknowledging и acting ' counter' угрозы",
-      "source": "newsapi:Wnd.com",
-      "url": "https://www.wnd.com/2026/09/persecution-trumps-pressure-nigeria-just-saved-hundreds-christians/",
-      "victims": 150
-    },
-    {
-      "date": "2026-09-30",
-      "lat": 26.8178,
-      "lng": 81.0872,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "other",
-      "title": "Indian церкви fearing anti-обращение laws tell non-христиане: enter your own risk",
-      "description": "Церкви в Dhamtari, посёлок в central Indian штат Chhattisgarh, have put up notices warning non-христиане that they enter their own risk, недели после law against религиозный обращение came в сила в штат.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/indian-churches-fearing-anti-conversion-laws-tell-non-christians-enter-at-your-own-risk",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-30",
-      "lat": 11.9561,
-      "lng": 13.2051,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "Гонение: Trump’s pressure на Nigeria just saved hundreds христиане’ lives",
-      "description": "Для первый time, правительство is acknowledging и acting ' counter' угрозы",
-      "source": "newsapi:Wnd.com",
-      "url": "https://www.wnd.com/2026/09/persecution-trumps-pressure-nigeria-just-saved-hundreds-christians/",
-      "victims": 150
-    },
-    {
-      "date": "2026-09-30",
-      "lat": 31.0035,
-      "lng": 121.5109,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "arrest",
-      "title": "Beijing полиция задержан пастор и Seven церковь Members as They Set Up Their 20th Anniversary Service",
-      "description": "Beijing пастор и seven members his церковь have been held в criminal задержание для nearly месяц после полиция broke up preparations для подпольная церковь’s 20th anniversary celebration, according letter из пастор’s wife publis",
-      "source": "newsapi:Relevantmagazine.com",
-      "url": "https://relevantmagazine.com/faith/church/a-beijing-church-was-setting-up-its-20th-birthday-party-more-than-100-police-showed-up-instead/",
       "victims": 0
     }
   ]
