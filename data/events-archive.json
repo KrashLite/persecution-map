@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-04T22:57:24.972Z",
+    "lastUpdated": "2026-11-05T03:54:02.503Z",
     "totalEvents": 500
   },
   "events": [
@@ -69,6 +69,32 @@
       "description": "Nigeria possesses one fastest growing Catholic populations в world, с Nigerian священники сейчас being sent out as миссионеры, когда only short time ago they were receiving foreign миссионеры their land. establishment Cath",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/11/04/this-beatified-nigerian-priest-baptized-cardinal-arinze/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-04",
+      "lat": 10.6602,
+      "lng": 7.4701,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "This beatified Nigerian священник baptized кардинал Arinze",
+      "description": "Nigeria possesses one fastest growing Catholic populations в world, с Nigerian священники сейчас being sent out as миссионеры, когда only short time ago they were receiving foreign миссионеры their land. establishment Cath",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/11/04/this-beatified-nigerian-priest-baptized-cardinal-arinze/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-04",
+      "lat": 9.0073,
+      "lng": 9.6709,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "NACCIMA honours NAFDAC DG, hails war на fake drugs",
+      "description": "…Adeyeye highlights reforms boost industry, protect public health Daniel Kudayah Director-General National агентство для Food и Drug Administration и Control (NAFDAC), Prof. Mojisola Christianah Adeyeye, has received Award Exc",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/11/naccima-honours-nafdac-dg-hails-war-on-fake-drugs/",
       "victims": 0
     },
     {
@@ -233,6 +259,19 @@
       "lng": 72.8734,
       "country": "India",
       "city": "Mumbai",
+      "type": "other",
+      "title": "Demand Repeal Anti-обращение Law Grows в Karnataka",
+      "description": "Христианское меньшинство leaders и human rights защитники met в southern штат Karnataka в India на Oct. 29, demanding immediate repeal contentious “anti-обращение” law. joint press conference в Bengaluru, столица Karna",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/02/demand-to-repeal-anti-conversion-law-grows-in-karnataka/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-02",
+      "lat": 26.8284,
+      "lng": 81.1143,
+      "country": "India",
+      "city": "Uttar Pradesh",
       "type": "other",
       "title": "Demand Repeal Anti-обращение Law Grows в Karnataka",
       "description": "Христианское меньшинство leaders и human rights защитники met в southern штат Karnataka в India на Oct. 29, demanding immediate repeal contentious “anti-обращение” law. joint press conference в Bengaluru, столица Karna",
@@ -6460,45 +6499,6 @@
       "lng": 7.4368,
       "country": "Nigeria",
       "city": "Kaduna",
-      "type": "other",
-      "title": "Гонение: Trump’s pressure на Nigeria just saved hundreds христиане’ lives",
-      "description": "Для первый time, правительство is acknowledging и acting ' counter' угрозы",
-      "source": "newsapi:Wnd.com",
-      "url": "https://www.wnd.com/2026/09/persecution-trumps-pressure-nigeria-just-saved-hundreds-christians/",
-      "victims": 150
-    },
-    {
-      "date": "2026-09-30",
-      "lat": 44.0206,
-      "lng": 87.5213,
-      "country": "China",
-      "city": "Xinjiang",
-      "type": "arrest",
-      "title": "Beijing полиция задержан пастор и Seven церковь Members as They Set Up Their 20th Anniversary Service",
-      "description": "Beijing пастор и seven members his церковь have been held в criminal задержание для nearly месяц после полиция broke up preparations для подпольная церковь’s 20th anniversary celebration, according letter из пастор’s wife publis",
-      "source": "newsapi:Relevantmagazine.com",
-      "url": "https://relevantmagazine.com/faith/church/a-beijing-church-was-setting-up-its-20th-birthday-party-more-than-100-police-showed-up-instead/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-30",
-      "lat": 11.7507,
-      "lng": 13.06,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "Digital distractions could erode silence needed для молитва, Nigerian Catholic епископ warns",
-      "description": "Седьмой annual general собрание Archdiocese Abuja, епископ Anselm Umoren challenged христиане reflect на how they can preserve their вера amid rapid technological changes.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/digital-distractions-could-erode-silence-needed-for-prayer-nigerian-bishop-warns",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-30",
-      "lat": 9.1335,
-      "lng": 7.4683,
-      "country": "Nigeria",
-      "city": "Abuja",
       "type": "other",
       "title": "Гонение: Trump’s pressure на Nigeria just saved hundreds христиане’ lives",
       "description": "Для первый time, правительство is acknowledging и acting ' counter' угрозы",
