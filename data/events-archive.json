@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-05T03:54:02.503Z",
+    "lastUpdated": "2026-11-05T13:35:19.116Z",
     "totalEvents": 500
   },
   "events": [
@@ -98,6 +98,19 @@
       "victims": 0
     },
     {
+      "date": "2026-11-04",
+      "lat": 9.1177,
+      "lng": 7.6952,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "This beatified Nigerian священник baptized кардинал Arinze",
+      "description": "Nigeria possesses one fastest growing Catholic populations в world, с Nigerian священники сейчас being sent out as миссионеры, когда only short time ago they were receiving foreign миссионеры their land. establishment Cath",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/11/04/this-beatified-nigerian-priest-baptized-cardinal-arinze/",
+      "victims": 0
+    },
+    {
       "date": "2026-11-03",
       "lat": 15.75,
       "lng": 32.5333,
@@ -168,6 +181,19 @@
       "lng": 74.4335,
       "country": "Pakistan",
       "city": "Lahore",
+      "type": "other",
+      "title": "Amid Drop в чиновник богохульство Accusations, Underlying Concerns Remain в Pakistan",
+      "description": "Recent Reuters report said that registered богохульство cases have seen huge drop в этом году, после Pakistan’s армия chief cracked down на fundamentalist groups. после годы widespread increases в богохульство accusations, such reversal seems lik",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/03/amid-drop-in-official-blasphemy-accusations-underlying-concerns-remain-in-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-03",
+      "lat": 25.1019,
+      "lng": 66.7858,
+      "country": "Pakistan",
+      "city": "Karachi",
       "type": "other",
       "title": "Amid Drop в чиновник богохульство Accusations, Underlying Concerns Remain в Pakistan",
       "description": "Recent Reuters report said that registered богохульство cases have seen huge drop в этом году, после Pakistan’s армия chief cracked down на fundamentalist groups. после годы widespread increases в богохульство accusations, such reversal seems lik",
@@ -6479,32 +6505,6 @@
       "source": "newsapi:Relevantmagazine.com",
       "url": "https://relevantmagazine.com/faith/church/a-beijing-church-was-setting-up-its-20th-birthday-party-more-than-100-police-showed-up-instead/",
       "victims": 0
-    },
-    {
-      "date": "2026-09-30",
-      "lat": 10.2729,
-      "lng": 7.4521,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Digital distractions could erode silence needed для молитва, Nigerian Catholic епископ warns",
-      "description": "Седьмой annual general собрание Archdiocese Abuja, епископ Anselm Umoren challenged христиане reflect на how they can preserve their вера amid rapid technological changes.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/digital-distractions-could-erode-silence-needed-for-prayer-nigerian-bishop-warns",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-30",
-      "lat": 10.7023,
-      "lng": 7.4368,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "Гонение: Trump’s pressure на Nigeria just saved hundreds христиане’ lives",
-      "description": "Для первый time, правительство is acknowledging и acting ' counter' угрозы",
-      "source": "newsapi:Wnd.com",
-      "url": "https://www.wnd.com/2026/09/persecution-trumps-pressure-nigeria-just-saved-hundreds-christians/",
-      "victims": 150
     }
   ]
 }
