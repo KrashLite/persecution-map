@@ -2,10 +2,49 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-06T13:19:40.009Z",
+    "lastUpdated": "2026-11-06T22:28:22.202Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-11-06",
+      "lat": 29.9019,
+      "lng": 31.3816,
+      "country": "Egypt",
+      "city": "Cairo",
+      "type": "murder",
+      "title": "Egyptian христианский мученикed в Libya",
+      "description": "В рано октябрь, 20-год-old Coptic христианин was похищен и убит hands Исламское государство group. Milad Malak lived в Sebarbay, Egypt, и served as церковь диакон local Coptic церковь. However, because country’s econom",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/06/egyptian-christian-martyred-in-libya/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-06",
+      "lat": 10.3478,
+      "lng": 7.6505,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Nigerian правительство lacks политический will end атаки в Benue штат, Catholic епископ says",
+      "description": "Епископ Wilfred Chikpa Anagbe alleged that repeated warnings до deadly атака на Yelwata community went unheeded.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/nigerian-government-lacks-political-will-to-end-attacks-in-benue-state-catholic-bishop-says",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-06",
+      "lat": 4.6297,
+      "lng": 18.5698,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "discrimination",
+      "title": "Кардинал Ranjith: Western церковь has abandoned its ‘spiritual и liturgical heritage’",
+      "description": "Кардинал Colombo, Sri Lanka offered wide-ranging commentary на штат церковь в Europe, warning о theological laziness и rampant секуляризм",
+      "source": "catholicHerald",
+      "url": "https://thecatholicherald.com/article/cardinal-ranjith-western-church-has-abandoned-its-spiritual-and-liturgical-heritage",
+      "victims": 0
+    },
     {
       "date": "2026-11-05",
       "lat": -4.4123,
@@ -6465,45 +6504,6 @@
       "description": "Beijing пастор и seven members his церковь have been held в criminal задержание для nearly месяц после полиция broke up preparations для подпольная церковь’s 20th anniversary celebration, according letter из пастор’s wife publis",
       "source": "newsapi:Relevantmagazine.com",
       "url": "https://relevantmagazine.com/faith/church/a-beijing-church-was-setting-up-its-20th-birthday-party-more-than-100-police-showed-up-instead/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-30",
-      "lat": 33.0691,
-      "lng": 44.2821,
-      "country": "Iraq",
-      "city": "Baghdad",
-      "type": "discrimination",
-      "title": "Disappearing христианин Middle East, Part I: Can христианство Disappear из Land Where It Was Born?",
-      "description": "ICC Fellow Lisa Navarrette на воскресенье утро somewhere в Middle East, old церковь bell still rings. It май sound across район в northern Iraq, ancient quarter Damascus, or деревня tucked в Lebanon’s горы. Insi",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/30/the-disappearing-christian-middle-east-part-i-can-christianity-disappear-from-the-land-where-it-was-born/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-30",
-      "lat": 28.9304,
-      "lng": 76.903,
-      "country": "India",
-      "city": "Delhi",
-      "type": "other",
-      "title": "Indian церкви fearing anti-обращение laws tell non-христиане: enter your own risk",
-      "description": "Церкви в Dhamtari, посёлок в central Indian штат Chhattisgarh, have put up notices warning non-христиане that they enter their own risk, недели после law against религиозный обращение came в сила в штат.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/indian-churches-fearing-anti-conversion-laws-tell-non-christians-enter-at-your-own-risk",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-30",
-      "lat": 29.0975,
-      "lng": 33.3014,
-      "country": "Egypt",
-      "city": "Sinai",
-      "type": "other",
-      "title": "Egypt: Internet, христианин обращение, и гонение",
-      "description": "ICC Fellow Linda Burkle, PhD недавно, I had privilege having lunch с Caleb, who lives в Cairo, Egypt. Fluent в Arabic, Caleb министры колледж students National христианский университет, one several private христианин instit",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/30/egypt-the-internet-christian-conversion-and-persecution/",
       "victims": 0
     }
   ]
