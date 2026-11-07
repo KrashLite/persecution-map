@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-07T03:26:20.377Z",
+    "lastUpdated": "2026-11-07T11:59:10.629Z",
     "totalEvents": 500
   },
   "events": [
@@ -30,6 +30,19 @@
       "description": "Ibrahim Hassan-Wuyo христианин Association Nigeria (CAN) в Chikun Local правительство Area Kaduna штат has appealed губернатор Uba Sani reinstate traditional rulers removed во время administration former губернатор Nasir El-Rufai. T",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/11/2027-can-seeks-reinstatement-of-removed-kaduna-monarchs/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-07",
+      "lat": 15.4044,
+      "lng": 32.3271,
+      "country": "Sudan",
+      "city": "Khartoum",
+      "type": "other",
+      "title": "South Sudanese церкви work для peace as tensions mount",
+      "description": "South Sudan is world's youngest sovereign nation.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/south-sudanese-churches-work-for-peace-as-tensions-mount",
       "victims": 0
     },
     {
@@ -90,6 +103,19 @@
       "lng": 9.7269,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "murder",
+      "title": "Nigerian правительство lacks политический will end атаки в Benue штат, Catholic епископ says",
+      "description": "Епископ Wilfred Chikpa Anagbe alleged that repeated warnings до deadly атака на Yelwata community went unheeded.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/nigerian-government-lacks-political-will-to-end-attacks-in-benue-state-catholic-bishop-says",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-06",
+      "lat": 6.3903,
+      "lng": 3.1365,
+      "country": "Nigeria",
+      "city": "Lagos",
       "type": "murder",
       "title": "Nigerian правительство lacks политический will end атаки в Benue штат, Catholic епископ says",
       "description": "Епископ Wilfred Chikpa Anagbe alleged that repeated warnings до deadly атака на Yelwata community went unheeded.",
@@ -6478,32 +6504,6 @@
       "description": "ICC Fellow Linda Burkle, PhD недавно, I had privilege having lunch с Caleb, who lives в Cairo, Egypt. Fluent в Arabic, Caleb министры колледж students National христианский университет, one several private христианин instit",
       "source": "persecution",
       "url": "https://persecution.org/2026/09/30/egypt-the-internet-christian-conversion-and-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-30",
-      "lat": 36.5026,
-      "lng": 43.3799,
-      "country": "Iraq",
-      "city": "Mosul",
-      "type": "discrimination",
-      "title": "Disappearing христианин Middle East, Part I: Can христианство Disappear из Land Where It Was Born?",
-      "description": "ICC Fellow Lisa Navarrette на воскресенье утро somewhere в Middle East, old церковь bell still rings. It май sound across район в northern Iraq, ancient quarter Damascus, or деревня tucked в Lebanon’s горы. Insi",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/30/the-disappearing-christian-middle-east-part-i-can-christianity-disappear-from-the-land-where-it-was-born/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-30",
-      "lat": 23.3701,
-      "lng": 113.8311,
-      "country": "China",
-      "city": "Guangdong",
-      "type": "arrest",
-      "title": "Beijing полиция задержан пастор и Seven церковь Members as They Set Up Their 20th Anniversary Service",
-      "description": "Beijing пастор и seven members his церковь have been held в criminal задержание для nearly месяц после полиция broke up preparations для подпольная церковь’s 20th anniversary celebration, according letter из пастор’s wife publis",
-      "source": "newsapi:Relevantmagazine.com",
-      "url": "https://relevantmagazine.com/faith/church/a-beijing-church-was-setting-up-its-20th-birthday-party-more-than-100-police-showed-up-instead/",
       "victims": 0
     }
   ]
