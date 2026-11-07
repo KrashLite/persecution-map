@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-07T11:59:10.629Z",
+    "lastUpdated": "2026-11-07T17:20:08.585Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,32 @@
       "description": "South Sudan is world's youngest sovereign nation.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/south-sudanese-churches-work-for-peace-as-tensions-mount",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-07",
+      "lat": 9.1901,
+      "lng": 9.606,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Help vulnerable Nigerians, ex-Akwa Ibom первый Lady urges христианки",
+      "description": "Former первый Lady Akwa Ibom штат, Dr Martha Udom-Emmanuel, has urged христианки, particularly female министры, demonstrate exemplary character reaching out vulnerable люди и young Nigerians в need guidance, love и hope.",
+      "source": "punchng",
+      "url": "https://punchng.com/help-vulnerable-nigerians-ex-akwa-ibom-first-lady-urges-christian-women/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-07",
+      "lat": 39.7886,
+      "lng": 116.5021,
+      "country": "China",
+      "city": "Beijing",
+      "type": "discrimination",
+      "title": "Leo XIV gives his 1st address церковь в China",
+      "description": "Папа Leo XIV called для церковь в China that is fully rooted в its culture пока remaining united с Rome, в video message shown на ноябрь 5, 2026, conference в Rome marking centenary рукоположение первый Chinese епископы",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/11/07/leo-xiv-gives-his-1st-address-to-church-in-china/",
       "victims": 0
     },
     {
@@ -121,6 +147,19 @@
       "description": "Епископ Wilfred Chikpa Anagbe alleged that repeated warnings до deadly атака на Yelwata community went unheeded.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/nigerian-government-lacks-political-will-to-end-attacks-in-benue-state-catholic-bishop-says",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-06",
+      "lat": 29.1334,
+      "lng": 32.9139,
+      "country": "Egypt",
+      "city": "Sinai",
+      "type": "murder",
+      "title": "Egyptian христианский мученикed в Libya",
+      "description": "В рано октябрь, 20-год-old Coptic христианин was похищен и убит hands Исламское государство group. Milad Malak lived в Sebarbay, Egypt, и served as церковь диакон local Coptic церковь. However, because country’s econom",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/06/egyptian-christian-martyred-in-libya/",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Церкви в Dhamtari, посёлок в central Indian штат Chhattisgarh, have put up notices warning non-христиане that they enter their own risk, недели после law against религиозный обращение came в сила в штат.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/indian-churches-fearing-anti-conversion-laws-tell-non-christians-enter-at-your-own-risk",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-30",
-      "lat": 31.1849,
-      "lng": 29.9851,
-      "country": "Egypt",
-      "city": "Alexandria",
-      "type": "other",
-      "title": "Egypt: Internet, христианин обращение, и гонение",
-      "description": "ICC Fellow Linda Burkle, PhD недавно, I had privilege having lunch с Caleb, who lives в Cairo, Egypt. Fluent в Arabic, Caleb министры колледж students National христианский университет, one several private христианин instit",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/30/egypt-the-internet-christian-conversion-and-persecution/",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-30",
-      "lat": 11.9882,
-      "lng": 8.4609,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "Digital distractions could erode silence needed для молитва, Nigerian Catholic епископ warns",
-      "description": "Седьмой annual general собрание Archdiocese Abuja, епископ Anselm Umoren challenged христиане reflect на how they can preserve their вера amid rapid technological changes.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/digital-distractions-could-erode-silence-needed-for-prayer-nigerian-bishop-warns",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-30",
-      "lat": 27.9946,
-      "lng": 30.8944,
-      "country": "Egypt",
-      "city": "Minya",
-      "type": "other",
-      "title": "Egypt: Internet, христианин обращение, и гонение",
-      "description": "ICC Fellow Linda Burkle, PhD недавно, I had privilege having lunch с Caleb, who lives в Cairo, Egypt. Fluent в Arabic, Caleb министры колледж students National христианский университет, one several private христианин instit",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/09/30/egypt-the-internet-christian-conversion-and-persecution/",
       "victims": 0
     }
   ]
