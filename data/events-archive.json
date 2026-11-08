@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-07T21:08:49.300Z",
+    "lastUpdated": "2026-11-08T02:54:30.151Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-11-08",
+      "lat": 9.0475,
+      "lng": 9.3176,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Faleke, Lagos LG boss bag awards",
+      "description": "Христианин Association Nigeria, Ikeja Local правительство Chapter, has honoured member representing Ikeja Federal Constituency в House представители, James Faleke, и Ikeja… Read More: https://punchng.com/faleke-lagos-lg-boss-b",
+      "source": "punchng",
+      "url": "https://punchng.com/faleke-lagos-lg-boss-bag-awards/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-11-07",
       "lat": 11.7751,
@@ -160,6 +173,32 @@
       "description": "В рано октябрь, 20-год-old Coptic христианин was похищен и убит hands Исламское государство group. Milad Malak lived в Sebarbay, Egypt, и served as церковь диакон local Coptic церковь. However, because country’s econom",
       "source": "persecution",
       "url": "https://persecution.org/2026/11/06/egyptian-christian-martyred-in-libya/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-06",
+      "lat": 31.1918,
+      "lng": 29.9861,
+      "country": "Egypt",
+      "city": "Alexandria",
+      "type": "murder",
+      "title": "Egyptian христианский мученикed в Libya",
+      "description": "В рано октябрь, 20-год-old Coptic христианин was похищен и убит hands Исламское государство group. Milad Malak lived в Sebarbay, Egypt, и served as церковь диакон local Coptic церковь. However, because country’s econom",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/06/egyptian-christian-martyred-in-libya/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-06",
+      "lat": 23.4506,
+      "lng": 113.9763,
+      "country": "China",
+      "city": "Guangdong",
+      "type": "attack",
+      "title": "Can католическая церковь be fully Chinese without compromising its universal identity? conference в Rome addresses controversial issue",
+      "description": "This aspect decision could have far-reaching implications для dioceses и религиозный orders that continue maintain such lists. судьи also noted climate fear that practice can create among священники, who май feel that their rep",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/11/05/can-the-catholic-church-be-fully-chinese-without-compromising-its-universal-identity-a-conference-in-rome-addresses-a-controversial-issue/",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Христианин Association Nigeria has urged Federal правительство reduce food и energy costs и improve security mark Nigeria’s 66th anniversa Read More: https://punchng.com/nigeria-66-make-prosperity-felt-в-every-home-can-urges-fg/",
       "source": "punchng",
       "url": "https://punchng.com/nigeria-66-make-prosperity-felt-in-every-home-can-urges-fg/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-30",
-      "lat": 18.9693,
-      "lng": 72.8493,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "other",
-      "title": "Indian церкви fearing anti-обращение laws tell non-христиане: enter your own risk",
-      "description": "Церкви в Dhamtari, посёлок в central Indian штат Chhattisgarh, have put up notices warning non-христиане that they enter their own risk, недели после law against религиозный обращение came в сила в штат.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/indian-churches-fearing-anti-conversion-laws-tell-non-christians-enter-at-your-own-risk",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-30",
-      "lat": 9.2574,
-      "lng": 7.4749,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "other",
-      "title": "Digital distractions could erode silence needed для молитва, Nigerian Catholic епископ warns",
-      "description": "Седьмой annual general собрание Archdiocese Abuja, епископ Anselm Umoren challenged христиане reflect на how they can preserve their вера amid rapid technological changes.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/digital-distractions-could-erode-silence-needed-for-prayer-nigerian-bishop-warns",
-      "victims": 0
-    },
-    {
-      "date": "2026-09-30",
-      "lat": 21.5033,
-      "lng": 81.7074,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "other",
-      "title": "Indian церкви fearing anti-обращение laws tell non-христиане: enter your own risk",
-      "description": "Церкви в Dhamtari, посёлок в central Indian штат Chhattisgarh, have put up notices warning non-христиане that they enter their own risk, недели после law against религиозный обращение came в сила в штат.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/indian-churches-fearing-anti-conversion-laws-tell-non-christians-enter-at-your-own-risk",
       "victims": 0
     }
   ]
