@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-08T12:18:13.750Z",
+    "lastUpdated": "2026-11-08T21:25:22.271Z",
     "totalEvents": 500
   },
   "events": [
@@ -43,6 +43,45 @@
       "description": "Епископ Mark Kadima Wamukoya reminded христиане follow Christ’s example pray для everyone, even those who “hurt и betray.”",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/bless-those-who-wrong-you-kenyan-bishop-urges-christians",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-08",
+      "lat": 4.1718,
+      "lng": 18.4064,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "murder",
+      "title": "Kraków кардинал: Our weakness calls upon God’s power",
+      "description": "Poland is living two дни national mourning после rare instance месса стрельба brought смерти six люди в Krakow’s Market Square на суббота. shooter also убит his parents и сестра, it was позже found. кардинал archbisho",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/11/08/krakow-cardinal-our-weakness-calls-upon-gods-power/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-08",
+      "lat": -4.0772,
+      "lng": 39.6262,
+      "country": "Kenya",
+      "city": "Mombasa",
+      "type": "other",
+      "title": "‘Bless those who wrong you,’ Kenyan епископ urges христиане",
+      "description": "Епископ Mark Kadima Wamukoya reminded христиане follow Christ’s example pray для everyone, even those who “hurt и betray.”",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/bless-those-who-wrong-you-kenyan-bishop-urges-christians",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-08",
+      "lat": 35.6081,
+      "lng": 44.2288,
+      "country": "Iraq",
+      "city": "Kirkuk",
+      "type": "other",
+      "title": "Chaldean монахи return historic manuscripts Iraqi archdiocese после more than 50 годы",
+      "description": "Formal handover ceremony took place Monastery Servant God и Martyr Gabriel Danbo в Ankawa, predominantly христианин район Erbil.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/chaldean-monks-return-historic-manuscripts-to-iraqi-archdiocese-after-more-than-50-years",
       "victims": 0
     },
     {
@@ -103,6 +142,19 @@
       "lng": 116.5021,
       "country": "China",
       "city": "Beijing",
+      "type": "discrimination",
+      "title": "Leo XIV gives his 1st address церковь в China",
+      "description": "Папа Leo XIV called для церковь в China that is fully rooted в its culture пока remaining united с Rome, в video message shown на ноябрь 5, 2026, conference в Rome marking centenary рукоположение первый Chinese епископы",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/11/07/leo-xiv-gives-his-1st-address-to-church-in-china/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-07",
+      "lat": 43.93,
+      "lng": 87.5199,
+      "country": "China",
+      "city": "Xinjiang",
       "type": "discrimination",
       "title": "Leo XIV gives his 1st address церковь в China",
       "description": "Папа Leo XIV called для церковь в China that is fully rooted в its culture пока remaining united с Rome, в video message shown на ноябрь 5, 2026, conference в Rome marking centenary рукоположение первый Chinese епископы",
@@ -6452,58 +6504,6 @@
       "description": "Nigerian правительство is beginning take action defend its христиане, including арест alleged commander террорист group.",
       "source": "newsapi:The Daily Caller",
       "url": "https://dailycaller.com/2026/10/02/nigeria-christian-persecution-hassan-fulani-terrorism-mahmoud-adam-shehu-buba-whistle-blower",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-02",
-      "lat": 12.0027,
-      "lng": 8.5437,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "arrest",
-      "title": "EXCLUSIVE: Nigerian Leaders Turn на Alleged ‘христианин-убийство’ Warlord после U.S. Pressure According Whistleblower",
-      "description": "Nigerian правительство is beginning take action defend its христиане, including арест alleged commander террорист group.",
-      "source": "newsapi:The Daily Caller",
-      "url": "https://dailycaller.com/2026/10/02/nigeria-christian-persecution-hassan-fulani-terrorism-mahmoud-adam-shehu-buba-whistle-blower",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-02",
-      "lat": 39.856,
-      "lng": 116.4915,
-      "country": "China",
-      "city": "Beijing",
-      "type": "arrest",
-      "title": "Chinese пастор задержан для ‘Organizing Illegal религиозный Activities’",
-      "description": "Yankui was his home когда чиновники арестован him 10:30.m. на Sept. 29 для investigation на suspicion “organizing illegal религиозный activities,” according полиция record presented time арест. record justifies th",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/02/chinese-pastor-detained-for-organizing-illegal-religious-activities/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-02",
-      "lat": 9.2964,
-      "lng": 9.5618,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "arrest",
-      "title": "EXCLUSIVE: Nigerian Leaders Turn на Alleged ‘христианин-убийство’ Warlord после U.S. Pressure According Whistleblower",
-      "description": "Nigerian правительство is beginning take action defend its христиане, including арест alleged commander террорист group.",
-      "source": "newsapi:The Daily Caller",
-      "url": "https://dailycaller.com/2026/10/02/nigeria-christian-persecution-hassan-fulani-terrorism-mahmoud-adam-shehu-buba-whistle-blower",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-02",
-      "lat": 24.8139,
-      "lng": 66.9211,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "discrimination",
-      "title": "Pakistan: New Report Highlights дискриминация Against религиозный Minorities",
-      "description": "Христиане и other minorities continue face гонение в country, including false accusations богохульство и violence against женщины. post Pakistan: New Report Highlights дискриминация Against религиозный Minorities appeared первый на Z",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/10/02/pakistan-new-report-highlights-discrimination-against-religious-minorities/",
       "victims": 0
     }
   ]
