@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-08T21:25:22.271Z",
+    "lastUpdated": "2026-11-09T03:14:33.646Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-11-09",
+      "lat": -12.2948,
+      "lng": 40.4409,
+      "country": "Mozambique",
+      "city": "Cabo Delgado",
+      "type": "murder",
+      "title": "African Detective Story: Who убит епископ Osório Citora Afonso?",
+      "description": "Убийство в Mozambique raised embarrassing questions для правительство и для католическая церковь itself post African Detective Story: Who убит епископ Osório Citora Afonso? appeared первый на ZENIT - English.",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/11/08/an-african-detective-story-who-killed-bishop-osorio-citora-afonso/",
+      "victims": 0
+    },
     {
       "date": "2026-11-08",
       "lat": 9.0475,
@@ -85,6 +98,32 @@
       "victims": 0
     },
     {
+      "date": "2026-11-08",
+      "lat": 36.4804,
+      "lng": 43.2024,
+      "country": "Iraq",
+      "city": "Mosul",
+      "type": "other",
+      "title": "Chaldean монахи return historic manuscripts Iraqi archdiocese после more than 50 годы",
+      "description": "Formal handover ceremony took place Monastery Servant God и Martyr Gabriel Danbo в Ankawa, predominantly христианин район Erbil.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/middle-east/chaldean-monks-return-historic-manuscripts-to-iraqi-archdiocese-after-more-than-50-years",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-08",
+      "lat": 33.2993,
+      "lng": 44.6129,
+      "country": "Iraq",
+      "city": "Baghdad",
+      "type": "other",
+      "title": "Chaldean монахи Return Historic Manuscripts Iraqi Archdiocese после More Than 50 годы",
+      "description": "Formal handover ceremony took place Monastery Servant God и Martyr Gabriel Danbo в Ankawa, predominantly христианин район Erbil.",
+      "source": "nationalCatholicRegister",
+      "url": "https://www.ncregister.com/cna/aci-mena-chaldean-monks-return-manuscripts",
+      "victims": 0
+    },
+    {
       "date": "2026-11-07",
       "lat": 11.7751,
       "lng": 13.1204,
@@ -155,6 +194,19 @@
       "lng": 87.5199,
       "country": "China",
       "city": "Xinjiang",
+      "type": "discrimination",
+      "title": "Leo XIV gives his 1st address церковь в China",
+      "description": "Папа Leo XIV called для церковь в China that is fully rooted в its culture пока remaining united с Rome, в video message shown на ноябрь 5, 2026, conference в Rome marking centenary рукоположение первый Chinese епископы",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/11/07/leo-xiv-gives-his-1st-address-to-church-in-china/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-07",
+      "lat": 31.0024,
+      "lng": 121.5776,
+      "country": "China",
+      "city": "Shanghai",
       "type": "discrimination",
       "title": "Leo XIV gives his 1st address церковь в China",
       "description": "Папа Leo XIV called для церковь в China that is fully rooted в its culture пока remaining united с Rome, в video message shown на ноябрь 5, 2026, conference в Rome marking centenary рукоположение первый Chinese епископы",
@@ -303,6 +355,19 @@
       "description": "Епископ Wilfred Chikpa Anagbe alleged that repeated warnings до deadly атака на Yelwata community went unheeded.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/nigerian-government-lacks-political-will-to-end-attacks-in-benue-state-catholic-bishop-says",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-06",
+      "lat": 40.1282,
+      "lng": 116.3152,
+      "country": "China",
+      "city": "Beijing",
+      "type": "attack",
+      "title": "Can католическая церковь be fully Chinese without compromising its universal identity? conference в Rome addresses controversial issue",
+      "description": "This aspect decision could have far-reaching implications для dioceses и религиозный orders that continue maintain such lists. судьи also noted climate fear that practice can create among священники, who май feel that their rep",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/11/05/can-the-catholic-church-be-fully-chinese-without-compromising-its-universal-identity-a-conference-in-rome-addresses-a-controversial-issue/",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "Yankui was his home когда чиновники арестован him 10:30.m. на Sept. 29 для investigation на suspicion “organizing illegal религиозный activities,” according полиция record presented time арест. record justifies th",
       "source": "persecution",
       "url": "https://persecution.org/2026/10/02/chinese-pastor-detained-for-organizing-illegal-religious-activities/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-02",
-      "lat": 36.2311,
-      "lng": 37.094,
-      "country": "Syria",
-      "city": "Aleppo",
-      "type": "other",
-      "title": "Disappearing христианин Middle East, Part III: Syria — War, перемещение, и Vanishing христианская община",
-      "description": "ICC Fellow Lisa Navarrette на воскресенье, июнь 22, 2025, христиане gathered для богослужение inside Mar Elias Greek православная церковь в Damascus. семьи sat together, молитвы were spoken, и familiar rhythms богослужение continued в город с h",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/02/the-disappearing-christian-middle-east-part-iii-syria-war-displacement-and-a-vanishing-christian-community/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-02",
-      "lat": 35.589,
-      "lng": 44.1874,
-      "country": "Iraq",
-      "city": "Kirkuk",
-      "type": "discrimination",
-      "title": "Disappearing христианин Middle East Part II: Iraq — из Ancient христианин Homeland Exodus",
-      "description": "ICC Fellow Lisa Navarrette на ordinary август вечер в 2014, Mariam was preparing dinner пока her husband, Nabil, закрыт small repair shop his семья had owned для десятилетия. Their two дети were arguing who would use televis",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/02/the-disappearing-christian-middle-east-part-ii-iraq-from-ancient-christian-homeland-to-exodus/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-02",
-      "lat": 34.5623,
-      "lng": 36.8428,
-      "country": "Syria",
-      "city": "Homs",
-      "type": "other",
-      "title": "Disappearing христианин Middle East, Part III: Syria — War, перемещение, и Vanishing христианская община",
-      "description": "ICC Fellow Lisa Navarrette на воскресенье, июнь 22, 2025, христиане gathered для богослужение inside Mar Elias Greek православная церковь в Damascus. семьи sat together, молитвы were spoken, и familiar rhythms богослужение continued в город с h",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/02/the-disappearing-christian-middle-east-part-iii-syria-war-displacement-and-a-vanishing-christian-community/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-02",
-      "lat": 36.0837,
-      "lng": 44.1449,
-      "country": "Iraq",
-      "city": "Erbil",
-      "type": "discrimination",
-      "title": "Disappearing христианин Middle East Part II: Iraq — из Ancient христианин Homeland Exodus",
-      "description": "ICC Fellow Lisa Navarrette на ordinary август вечер в 2014, Mariam was preparing dinner пока her husband, Nabil, закрыт small repair shop his семья had owned для десятилетия. Their two дети were arguing who would use televis",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/02/the-disappearing-christian-middle-east-part-ii-iraq-from-ancient-christian-homeland-to-exodus/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-02",
-      "lat": 9.1226,
-      "lng": 7.4197,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "arrest",
-      "title": "EXCLUSIVE: Nigerian Leaders Turn на Alleged ‘христианин-убийство’ Warlord после U.S. Pressure According Whistleblower",
-      "description": "Nigerian правительство is beginning take action defend its христиане, including арест alleged commander террорист group.",
-      "source": "newsapi:The Daily Caller",
-      "url": "https://dailycaller.com/2026/10/02/nigeria-christian-persecution-hassan-fulani-terrorism-mahmoud-adam-shehu-buba-whistle-blower",
       "victims": 0
     }
   ]
