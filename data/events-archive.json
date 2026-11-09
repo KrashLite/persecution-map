@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-09T03:14:33.646Z",
+    "lastUpdated": "2026-11-09T14:29:56.006Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,32 @@
       "description": "Убийство в Mozambique raised embarrassing questions для правительство и для католическая церковь itself post African Detective Story: Who убит епископ Osório Citora Afonso? appeared первый на ZENIT - English.",
       "source": "zenit",
       "url": "https://zenit.org/2026/11/08/an-african-detective-story-who-killed-bishop-osorio-citora-afonso/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-09",
+      "lat": -26.1043,
+      "lng": 32.5053,
+      "country": "Mozambique",
+      "city": "Maputo",
+      "type": "murder",
+      "title": "African Detective Story: Who убит епископ Osório Citora Afonso?",
+      "description": "Убийство в Mozambique raised embarrassing questions для правительство и для католическая церковь itself post African Detective Story: Who убит епископ Osório Citora Afonso? appeared первый на ZENIT - English.",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/11/08/an-african-detective-story-who-killed-bishop-osorio-citora-afonso/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-09",
+      "lat": 14.7707,
+      "lng": 120.9411,
+      "country": "Philippines",
+      "city": "Manila",
+      "type": "other",
+      "title": "Philippines: 12 Hours Rosary на декабрь 12",
+      "description": "На июнь 13, 2026, feast Immaculate Heart Mary, replica Our Lady Guadalupe’s image из Mexico began six-месяц паломничество в Philippines that concludes на декабрь 12 в Manila. паломничество is designed as part",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/11/09/philippines-12-hours-of-the-rosary-on-december-12/",
       "victims": 0
     },
     {
@@ -207,6 +233,19 @@
       "lng": 121.5776,
       "country": "China",
       "city": "Shanghai",
+      "type": "discrimination",
+      "title": "Leo XIV gives his 1st address церковь в China",
+      "description": "Папа Leo XIV called для церковь в China that is fully rooted в its culture пока remaining united с Rome, в video message shown на ноябрь 5, 2026, conference в Rome marking centenary рукоположение первый Chinese епископы",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/11/07/leo-xiv-gives-his-1st-address-to-church-in-china/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-07",
+      "lat": 23.6268,
+      "lng": 113.545,
+      "country": "China",
+      "city": "Guangdong",
       "type": "discrimination",
       "title": "Leo XIV gives his 1st address церковь в China",
       "description": "Папа Leo XIV called для церковь в China that is fully rooted в its culture пока remaining united с Rome, в video message shown на ноябрь 5, 2026, conference в Rome marking centenary рукоположение первый Chinese епископы",
@@ -6465,45 +6504,6 @@
       "description": "ICC Fellow Lisa Navarrette на ordinary август вечер в 2014, Mariam was preparing dinner пока her husband, Nabil, закрыт small repair shop his семья had owned для десятилетия. Their two дети were arguing who would use televis",
       "source": "persecution",
       "url": "https://persecution.org/2026/10/02/the-disappearing-christian-middle-east-part-ii-iraq-from-ancient-christian-homeland-to-exodus/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-02",
-      "lat": 23.4002,
-      "lng": 113.8044,
-      "country": "China",
-      "city": "Guangdong",
-      "type": "arrest",
-      "title": "Chinese пастор задержан для ‘Organizing Illegal религиозный Activities’",
-      "description": "Yankui was his home когда чиновники арестован him 10:30.m. на Sept. 29 для investigation на suspicion “organizing illegal религиозный activities,” according полиция record presented time арест. record justifies th",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/02/chinese-pastor-detained-for-organizing-illegal-religious-activities/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-02",
-      "lat": 33.4091,
-      "lng": 36.048,
-      "country": "Syria",
-      "city": "Damascus",
-      "type": "other",
-      "title": "Disappearing христианин Middle East, Part III: Syria — War, перемещение, и Vanishing христианская община",
-      "description": "ICC Fellow Lisa Navarrette на воскресенье, июнь 22, 2025, христиане gathered для богослужение inside Mar Elias Greek православная церковь в Damascus. семьи sat together, молитвы were spoken, и familiar rhythms богослужение continued в город с h",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/02/the-disappearing-christian-middle-east-part-iii-syria-war-displacement-and-a-vanishing-christian-community/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-02",
-      "lat": 31.0579,
-      "lng": 121.6011,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "arrest",
-      "title": "Chinese пастор задержан для ‘Organizing Illegal религиозный Activities’",
-      "description": "Yankui was his home когда чиновники арестован him 10:30.m. на Sept. 29 для investigation на suspicion “organizing illegal религиозный activities,” according полиция record presented time арест. record justifies th",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/02/chinese-pastor-detained-for-organizing-illegal-religious-activities/",
       "victims": 0
     }
   ]
