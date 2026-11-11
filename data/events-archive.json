@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-10T22:37:26.714Z",
+    "lastUpdated": "2026-11-11T03:22:18.707Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-11-11",
+      "lat": 12.1994,
+      "lng": 8.8086,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "Ansaru боевики Claim убийство мусульманин Cleric Who Preached Peace с христиане",
+      "description": "Ansaru боевики have claimed responsibility для стрельба погибшие мусульманин cleric known для promoting peaceful coexistence between христиане и мусульмане, raising fresh concerns о угрозы facing религиозный voices who испытание экстремист ideologie",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/11/ansaru-militants-claim-killing-of-muslim-cleric-who-preached-peace-with-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-11",
+      "lat": 4.5282,
+      "lng": 18.5077,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "Кардинал Ranjith: ислам’s Rise Should Prompt христианин Soul-Searching, Not Confrontation",
+      "description": "Sri Lankan архиепископ Colombo says христиане have undermined their свидетель embracing светский values и should learn из мусульмане’ commitment living consistently с their веры.",
+      "source": "nationalCatholicRegister",
+      "url": "https://www.ncregister.com/news/cardinal-ranjith-on-christian-soul-searching-amid-islam-s-rise",
+      "victims": 0
+    },
     {
       "date": "2026-11-10",
       "lat": 6.7402,
@@ -121,6 +147,32 @@
       "description": "Steve Oko Indigenous люди Biafra (IPOB) has accused British правительство complicity в alleged гонение its задержан leader, Mazi Nnamdi Kanu, particularly his похищение в Kenya и extraordinary rendition Nigeria.",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/11/ipob-accuses-britain-of-complicity-in-kanus-rendition/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-10",
+      "lat": 10.4223,
+      "lng": 7.6189,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Дети among погибшие после похищение в Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – 4-год-old girl и 13-год-old girl в Nigeria, похищен among nine other христиане фулани боевики на апрель 20, погиб вскоре после their Nov. 2 release, sources said. Silvia",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/11/children-among-the-dead-after-kidnapping-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-10",
+      "lat": 8.9951,
+      "lng": 9.4866,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "murder",
+      "title": "No аресты после мусульманин боевики Kill 6 в плато атаки",
+      "description": "Suspected мусульманин боевики убит least six люди, including Nigerian soldier, в separate атаки на communities в плато штат, Nigeria. атаки occurred на воскресенье ночь, Nov. 8, в Bel деревня, Sho community, Barkin Ladi Local Governmen",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/10/no-arrests-after-muslim-gunmen-kill-6-in-plateau-attacks/",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "Dispute arose из unusual but deliberately broad религиозный moment incorporated в inauguration. statue Our Lady Fatima was displayed briefly, пока rabbi, evangelical пастор и Catholic священник took part в период в",
       "source": "zenit",
       "url": "https://zenit.org/2026/10/03/bogota-court-rejects-religious-neutrality-challenge-to-colombias-presidential-inauguration/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-03",
-      "lat": 6.6872,
-      "lng": 3.1506,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "CAN will criticise правительство когда necessary, says президент",
-      "description": "Христианин Association Nigeria will criticise правительство когда it fails protect citizens or violates their rights, its президент, Daniel Okoh, Read More: https://punchng.com/can-will-criticise-правительство-когда-necessary-says-президент/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/can-will-criticise-government-when-necessary-says-president/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-03",
-      "lat": 6.4159,
-      "lng": 3.536,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "discrimination",
-      "title": "My criticism христианин bodies exposed me security угрозы –Rev.Omolehin",
-      "description": "Reverend Isaac Omolehin says his criticism denominational divisions в Nigerian христианство has exposed him и his семья security угрозы из запрет Read More: https://punchng.com/my-criticism--христианин-bodies-exposed-me--security-угроза",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/my-criticism-of-christian-bodies-exposed-me-to-security-threats-rev-omolehin/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-03",
-      "lat": 6.6435,
-      "lng": 3.2363,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "CAN will criticise govt if citizens’re not protected– президент",
-      "description": "Христианин Association Nigeria (CAN) says it will criticise правительство if it fails protect citizens or violates their rights, says its Preside Read More: https://punchng.com/can-will-criticise-govt-if-citizensre-not-protected-президент/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/can-will-criticise-govt-if-citizensre-not-protected-president/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-03",
-      "lat": 9.0424,
-      "lng": 7.4813,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "discrimination",
-      "title": "My criticism христианин bodies exposed me security угрозы –Rev.Omolehin",
-      "description": "Reverend Isaac Omolehin says his criticism denominational divisions в Nigerian христианство has exposed him и his семья security угрозы из запрет Read More: https://punchng.com/my-criticism--христианин-bodies-exposed-me--security-угроза",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/my-criticism-of-christian-bodies-exposed-me-to-security-threats-rev-omolehin/",
       "victims": 0
     }
   ]
