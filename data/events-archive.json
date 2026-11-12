@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-12T04:32:28.969Z",
+    "lastUpdated": "2026-11-12T14:04:40.049Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-11-12",
+      "lat": 9.0203,
+      "lng": 7.6664,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Widow христианин убит в Nigeria takes plea для преследуемый христиане Downing Street",
+      "description": "Nigerian widow who witnessed Боко Харам боевики shoot погибшие her husband после he identified himself as христианин is joining delegation handing в petition Downing Street на четверг.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/widow-of-christian-killed-in-nigeria-takes-plea-for-persecuted-christians-to-downing-street",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-12",
+      "lat": 29.2404,
+      "lng": 33.0498,
+      "country": "Egypt",
+      "city": "Sinai",
+      "type": "murder",
+      "title": "Egyptian христианин убит в Libya после refusing deny Jesus",
+      "description": "He was убит despite семья paying выкуп.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/egyptian-christian-killed-in-libya-after-refusing-to-deny-jesus",
+      "victims": 0
+    },
     {
       "date": "2026-11-11",
       "lat": 12.1994,
@@ -90,6 +116,32 @@
       "lng": 9.5956,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "kidnapping",
+      "title": "Священник Left Unconscious в атака в Benue штат, Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Targeting христианские лидеры в Nigeria continued as Catholic священник was assaulted на прошлой неделе, и another who was похищен в октябрь was released дни позже, sources said. в ce",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/11/priest-left-unconscious-in-attack-in-benue-state-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-11",
+      "lat": 12.0198,
+      "lng": 13.0124,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "murder",
+      "title": "Ansaru боевики Claim убийство мусульманин Cleric Who Preached Peace с христиане",
+      "description": "Ansaru боевики have claimed responsibility для стрельба погибшие мусульманин cleric known для promoting peaceful coexistence between христиане и мусульмане, raising fresh concerns о угрозы facing религиозный voices who испытание экстремист ideologie",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/11/ansaru-militants-claim-killing-of-muslim-cleric-who-preached-peace-with-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-11",
+      "lat": 6.6894,
+      "lng": 3.2554,
+      "country": "Nigeria",
+      "city": "Lagos",
       "type": "kidnapping",
       "title": "Священник Left Unconscious в атака в Benue штат, Nigeria",
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Targeting христианские лидеры в Nigeria continued as Catholic священник was assaulted на прошлой неделе, и another who was похищен в октябрь was released дни позже, sources said. в ce",
@@ -342,6 +394,32 @@
       "description": "Egyptian прокуроры have asked terrorism суд impose maximum penalty на Said Mansour Rezk Abdelrazek (also spelled Saeid Mansour Abdulraziq и known as Said Abu Mustafa), христианин, обратившийся из ислама на суд до Egypt's первый Crimin",
       "source": "newsapi:Thegatewaypundit.com",
       "url": "https://www.thegatewaypundit.com/2026/11/egypt-seeks-death-penalty-christian-convert-who-refused/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-10",
+      "lat": 12.1439,
+      "lng": 8.7171,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "murder",
+      "title": "No аресты после мусульманин боевики Kill 6 в плато атаки",
+      "description": "Suspected мусульманин боевики убит least six люди, including Nigerian soldier, в separate атаки на communities в плато штат, Nigeria. атаки occurred на воскресенье ночь, Nov. 8, в Bel деревня, Sho community, Barkin Ladi Local Governmen",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/10/no-arrests-after-muslim-gunmen-kill-6-in-plateau-attacks/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-10",
+      "lat": 12.1007,
+      "lng": 8.4061,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "US конгресс schedules hearing на violence в Nigeria",
+      "description": "US House представители will hold congressional hearing на Nigerian правительство’s усилия protect христиане и address insecurity в Read More: https://punchng.com/us-конгресс-schedules-hearing-на-violence-в-nigeria/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/us-congress-schedules-hearing-on-violence-in-nigeria/",
       "victims": 0
     },
     {
@@ -6427,84 +6505,6 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/10/pakistan-urged-to-protect-girls-from-forced-conversion-marriage/",
       "victims": 0
-    },
-    {
-      "date": "2026-10-05",
-      "lat": 33.4703,
-      "lng": 73.1934,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "kidnapping",
-      "title": "Pakistan Urged Protect Girls из вынужден обращение/Marriage",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Three United Nations special rapporteurs на прошлой неделе urged Pakistan protect girls из похищение, вынужден религиозный обращение и ребёнок marriage, warning that existing laws will ha",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/pakistan-urged-to-protect-girls-from-forced-conversion-marriage/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-05",
-      "lat": 10.3607,
-      "lng": 7.4555,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "murder",
-      "title": "Fulanis Kill Two христиане, рана Three others в Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани боевики убит two христиане и ранен three others на воскресенье ночь (Oct. 4) в атака в Bokkos округ, плато штат, central Nigeria, sources said. Area resident Aaron",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/fulanis-kill-two-christians-wound-three-others-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-05",
-      "lat": 6.4178,
-      "lng": 3.4349,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Fulanis Kill Two христиане, рана Three others в Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани боевики убит two христиане и ранен three others на воскресенье ночь (Oct. 4) в атака в Bokkos округ, плато штат, central Nigeria, sources said. Area resident Aaron",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/fulanis-kill-two-christians-wound-three-others-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-05",
-      "lat": 12.0466,
-      "lng": 13.3516,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Fulanis Kill Two христиане, рана Three others в Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани боевики убит two христиане и ранен three others на воскресенье ночь (Oct. 4) в атака в Bokkos округ, плато штат, central Nigeria, sources said. Area resident Aaron",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/fulanis-kill-two-christians-wound-three-others-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-05",
-      "lat": 33.6395,
-      "lng": 72.8335,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "other",
-      "title": "Punjab Panel Approves Bill Reform христианин Marriage Law",
-      "description": "Legislative комитет в Pakistan’s Punjab провинция has unanimously approved bill that would set minimum век для христианин marriages 18 для both partners, require чиновник registration, и strengthen safeguards для free consent. Punj",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/05/punjab-panel-approves-bill-to-reform-christian-marriage-law/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-05",
-      "lat": 6.3771,
-      "lng": 3.3189,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "More than 4,200 христиане убит в Nigeria в этом году - report",
-      "description": "More than 4,200 христиане have been убит в Nigeria so far в этом году, according new report calling для stronger action protect communities facing violence across country’s Middle Belt.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/more-than-4-200-christians-killed-in-nigeria-this-year-report",
-      "victims": 200
     }
   ]
 }
