@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-13T03:47:17.981Z",
+    "lastUpdated": "2026-11-13T13:30:30.721Z",
     "totalEvents": 500
   },
   "events": [
@@ -18,6 +18,19 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/11/13/al-shabab-kills-8-christians-in-mandera-kenya/",
       "victims": 5
+    },
+    {
+      "date": "2026-11-13",
+      "lat": 3.1746,
+      "lng": 101.5574,
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "type": "other",
+      "title": "Malaysian суд Sends христианин-конверт’s религиозный Freedom Suit Regional Bench",
+      "description": "34-год-old law graduate’s multi-год battle exposes severe reality религиозный control и legal trap facing citizens who want leave ислам. high-stakes constitutional испытание highlighting erosion религиозный freedom в Malays",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/13/malaysian-court-sends-christian-converts-religious-freedom-suit-to-regional-bench/",
+      "victims": 0
     },
     {
       "date": "2026-11-12",
@@ -194,6 +207,58 @@
       "lng": 7.3594,
       "country": "Nigeria",
       "city": "Kaduna",
+      "type": "other",
+      "title": "Olawepo-Hashim presents религиозный freedom, security plan US конгресс",
+      "description": "Accord Party’s Gbenga Olawepo-Hashim has presented security plan US конгресс, proposing law criminalise религиозный гонение в Nigeria. Read More: https://punchng.com/olawepo-hashim-presents-религиозный-freedom-security-plan--us-cong",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/olawepo-hashim-presents-religious-freedom-security-plan-to-us-congress/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-12",
+      "lat": 6.5615,
+      "lng": 3.3453,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Widow христианин убит в Nigeria takes plea для преследуемый христиане Downing Street",
+      "description": "Nigerian widow who witnessed Боко Харам боевики shoot her husband погибшие после he identified himself as христианин is joining delegation handing в petition Downing Street на четверг.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/widow-of-christian-killed-in-nigeria-takes-plea-for-persecuted-christians-to-downing-street",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-12",
+      "lat": 31.4251,
+      "lng": 30.0184,
+      "country": "Egypt",
+      "city": "Alexandria",
+      "type": "murder",
+      "title": "Egyptian христианин убит в Libya после refusing deny Jesus",
+      "description": "He was убит despite семья paying выкуп.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/egyptian-christian-killed-in-libya-after-refusing-to-deny-jesus",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-12",
+      "lat": 9.0002,
+      "lng": 7.6414,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Republicans demand more progress в halting христианин гонение в Nigeria",
+      "description": "Lawmakers discussed Nigeria’s designation as country particular concern для религиозный гонение и expressed concern о slow pace progress.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/republicans-demand-more-progress-in-halting-christian-persecution-in-nigeria",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-12",
+      "lat": 9.2027,
+      "lng": 7.3343,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "other",
       "title": "Olawepo-Hashim presents религиозный freedom, security plan US конгресс",
       "description": "Accord Party’s Gbenga Olawepo-Hashim has presented security plan US конгресс, proposing law criminalise религиозный гонение в Nigeria. Read More: https://punchng.com/olawepo-hashim-presents-религиозный-freedom-security-plan--us-cong",
@@ -667,6 +732,32 @@
       "description": "US House представители will hold congressional hearing на Nigerian правительство’s усилия protect христиане и address insecurity в Read More: https://punchng.com/us-конгресс-schedules-hearing-на-violence-в-nigeria/",
       "source": "newsapi:The Punch",
       "url": "https://punchng.com/us-congress-schedules-hearing-on-violence-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-10",
+      "lat": 6.771,
+      "lng": 3.516,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "murder",
+      "title": "Дети among погибшие после похищение в Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – 4-год-old girl и 13-год-old girl в Nigeria, похищен among nine other христиане фулани боевики на апрель 20, погиб вскоре после their Nov. 2 release, sources said. Silvia",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/11/children-among-the-dead-after-kidnapping-in-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-10",
+      "lat": 28.3382,
+      "lng": 30.6315,
+      "country": "Egypt",
+      "city": "Minya",
+      "type": "murder",
+      "title": "Egypt Seeks смерть Penalty для христианин-конверт Who отказано ‘Renounce Jesus’ as U.S. Sends $1.3 Billion в военные Aid",
+      "description": "Egyptian прокуроры have asked terrorism суд impose maximum penalty на Said Mansour Rezk Abdelrazek (also spelled Saeid Mansour Abdulraziq и known as Said Abu Mustafa), христианин, обратившийся из ислама на суд до Egypt's первый Crimin",
+      "source": "newsapi:Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/11/egypt-seeks-death-penalty-christian-convert-who-refused/",
       "victims": 0
     },
     {
@@ -6414,97 +6505,6 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/10/attacks-in-plateau-state-nigeria-claim-lives-of-12-christians/",
       "victims": 12
-    },
-    {
-      "date": "2026-10-06",
-      "lat": 26.7548,
-      "lng": 80.8193,
-      "country": "India",
-      "city": "Uttar Pradesh",
-      "type": "discrimination",
-      "title": "Христиане Reel под Effects Floods, гонение в Chhattisgarh",
-      "description": "Христиане в Chhattisgarh, India, facing relentless pressure из индус nationalists, must сейчас deal с aftermath recent floods. flooding unfolded between Sept. 24 и 27 along volatile banks Indravati река в Chhattisgarh’s",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/06/christians-reel-under-effects-of-floods-persecution-in-chhattisgarh/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-06",
-      "lat": 28.8414,
-      "lng": 76.8791,
-      "country": "India",
-      "city": "Delhi",
-      "type": "discrimination",
-      "title": "Христиане Reel под Effects Floods, гонение в Chhattisgarh",
-      "description": "Христиане в Chhattisgarh, India, facing relentless pressure из индус nationalists, must сейчас deal с aftermath recent floods. flooding unfolded between Sept. 24 и 27 along volatile banks Indravati река в Chhattisgarh’s",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/06/christians-reel-under-effects-of-floods-persecution-in-chhattisgarh/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-06",
-      "lat": 9.3145,
-      "lng": 9.5998,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Атаки в плато штат, Nigeria Claim Lives 12 христиане",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани боевики в Nigeria убит least 12 христиане в Barkin Ladi округ, плато штат three дни end сентябрь, sources said. Five христиане were убит,",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/attacks-in-plateau-state-nigeria-claim-lives-of-12-christians/",
-      "victims": 12
-    },
-    {
-      "date": "2026-10-06",
-      "lat": 12.1424,
-      "lng": 8.5742,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Атаки в плато штат, Nigeria Claim Lives 12 христиане",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани боевики в Nigeria убит least 12 христиане в Barkin Ladi округ, плато штат three дни end сентябрь, sources said. Five христиане were убит,",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/attacks-in-plateau-state-nigeria-claim-lives-of-12-christians/",
-      "victims": 12
-    },
-    {
-      "date": "2026-10-06",
-      "lat": 12.0281,
-      "lng": 13.2305,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Атаки в плато штат, Nigeria Claim Lives 12 христиане",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани боевики в Nigeria убит least 12 христиане в Barkin Ladi округ, плато штат three дни end сентябрь, sources said. Five христиане were убит,",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/attacks-in-plateau-state-nigeria-claim-lives-of-12-christians/",
-      "victims": 12
-    },
-    {
-      "date": "2026-10-06",
-      "lat": 21.1611,
-      "lng": 82.1078,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "discrimination",
-      "title": "Христиане Reel под Effects Floods, гонение в Chhattisgarh",
-      "description": "Христиане в Chhattisgarh, India, facing relentless pressure из индус nationalists, must сейчас deal с aftermath recent floods. flooding unfolded between Sept. 24 и 27 along volatile banks Indravati река в Chhattisgarh’s",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/06/christians-reel-under-effects-of-floods-persecution-in-chhattisgarh/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-06",
-      "lat": 19.3111,
-      "lng": 73.098,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "discrimination",
-      "title": "Христиане Reel под Effects Floods, гонение в Chhattisgarh",
-      "description": "Христиане в Chhattisgarh, India, facing relentless pressure из индус nationalists, must сейчас deal с aftermath recent floods. flooding unfolded between Sept. 24 и 27 along volatile banks Indravati река в Chhattisgarh’s",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/06/christians-reel-under-effects-of-floods-persecution-in-chhattisgarh/",
-      "victims": 0
     }
   ]
 }
