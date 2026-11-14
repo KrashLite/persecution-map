@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-14T03:45:28.816Z",
+    "lastUpdated": "2026-11-14T12:36:01.167Z",
     "totalEvents": 500
   },
   "events": [
@@ -121,6 +121,45 @@
       "description": "Vincent Ujumadu Anglican епископ Awka Diocese, Most Rev. Alexander Chibuzo Ibezim, has withdrawn suit he instituted against Primate церковь Nigeria (Anglican причастие), Most Rev. Henry Ndukuba, и Dean церковь, Mos",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/11/awka-anglican-crisis-ibezim-withdraws-suit-against-primate/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-13",
+      "lat": 29.7166,
+      "lng": 52.6812,
+      "country": "Iran",
+      "city": "Shiraz",
+      "type": "other",
+      "title": "Why Are So Many Iranians Becoming Catholic в Austria?",
+      "description": "С Iranians making up large proportion взрослые being baptized в Vienna, Hananias министерство — led Iranian convert — helps new converts find spiritual home within церковь.",
+      "source": "nationalCatholicRegister",
+      "url": "https://www.ncregister.com/interview/iranians-becoming-catholic-in-austria",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-13",
+      "lat": 10.5021,
+      "lng": 7.5638,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "attack",
+      "title": "Nigeria not doing enough stop атаки – US",
+      "description": "United штаты says Nigeria has not made sufficient progress в addressing атаки на христианские общины, warning its CPC designation should remain. Read More: https://punchng.com/nigeria-not-doing-enough--stop-атаки-us/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/nigeria-not-doing-enough-to-stop-attacks-us/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-13",
+      "lat": 33.4986,
+      "lng": 36.507,
+      "country": "Syria",
+      "city": "Damascus",
+      "type": "discrimination",
+      "title": "Из Gaza West Bank: Palestinian, Syrian, и христианин гражданские под атака еврейский settlers и Israeli армия",
+      "description": "Small Catholic community around Holy семья parish continues assist those most в need, including sick люди, пожилые residents и дети с disabilities cared для миссионеры Charity. Despite трудности, parish",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/11/13/from-gaza-to-the-west-bank-palestinian-syrian-and-christian-civilians-under-attack-by-jewish-settlers-and-the-israeli-army/",
       "victims": 0
     },
     {
@@ -397,6 +436,19 @@
       "victims": 0
     },
     {
+      "date": "2026-11-12",
+      "lat": 10.6488,
+      "lng": 7.2787,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Republicans demand more progress в halting христианин гонение в Nigeria",
+      "description": "Lawmakers discussed Nigeria’s designation as country particular concern для религиозный гонение и expressed concern о slow pace progress.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/republicans-demand-more-progress-in-halting-christian-persecution-in-nigeria",
+      "victims": 0
+    },
+    {
       "date": "2026-11-11",
       "lat": 12.1994,
       "lng": 8.8086,
@@ -550,6 +602,19 @@
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Targeting христианские лидеры в Nigeria continued as Catholic священник was assaulted на прошлой неделе, и another who was похищен в октябрь was released дни позже, sources said. в ce",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/11/priest-left-unconscious-in-attack-in-benue-state-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-11",
+      "lat": 8.9586,
+      "lng": 7.3863,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Ansaru боевики Claim убийство мусульманин Cleric Who Preached Peace с христиане",
+      "description": "Ansaru боевики have claimed responsibility для стрельба погибшие мусульманин cleric known для promoting peaceful coexistence between христиане и мусульмане, raising fresh concerns о угрозы facing религиозный voices who испытание экстремист ideologie",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/11/ansaru-militants-claim-killing-of-muslim-cleric-who-preached-peace-with-christians/",
       "victims": 0
     },
     {
@@ -888,6 +953,19 @@
       "description": "Egyptian прокуроры have asked terrorism суд impose maximum penalty на Said Mansour Rezk Abdelrazek (also spelled Saeid Mansour Abdulraziq и known as Said Abu Mustafa), христианин, обратившийся из ислама на суд до Egypt's первый Crimin",
       "source": "newsapi:Thegatewaypundit.com",
       "url": "https://www.thegatewaypundit.com/2026/11/egypt-seeks-death-penalty-christian-convert-who-refused/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-10",
+      "lat": 34.569,
+      "lng": 36.5209,
+      "country": "Syria",
+      "city": "Homs",
+      "type": "kidnapping",
+      "title": "Syria’s христиане Face похищения и “Jizya” Protection Tax Demands as Population Falls 80 Percent",
+      "description": "Боевики в Syria are abducting христиане из their homes, shops и roads и holding them для выкуп. post Syria’s христиане Face похищения и “Jizya” Protection Tax Demands as Population Falls 80 Percent appeared первый на Gateway Pundi",
+      "source": "newsapi:Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/11/syrias-christians-face-kidnappings-jizya-protection-tax-demands/",
       "victims": 0
     },
     {
@@ -6426,84 +6504,6 @@
       "description": "ICC Fellow Lisa Navarrette Throughout this series, Disappearing христианин Middle East, we have traveled through Iraq, Syria, Lebanon, Bethlehem, Jerusalem, West Bank, и Gaza. Circumstances differ в each place, but pattern is в",
       "source": "persecution",
       "url": "https://persecution.org/2026/10/07/the-disappearing-christian-middle-east-part-vi-when-christianity-becomes-history/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-07",
-      "lat": 12.1263,
-      "lng": 8.566,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Six христиане убит выходные в Central Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани боевики в Nigeria застрелен two христиане смерть в деревня Bokkos округ, плато штат, на воскресенье (Oct. 4) и four others в Riyom округ на суббота, sources said. “Two",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/six-christians-slain-over-weekend-in-central-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-07",
-      "lat": 35.2421,
-      "lng": 44.4795,
-      "country": "Iraq",
-      "city": "Kirkuk",
-      "type": "discrimination",
-      "title": "Disappearing христианин Middle East, Part VI: когда христианство Becomes History",
-      "description": "ICC Fellow Lisa Navarrette Throughout this series, Disappearing христианин Middle East, we have traveled through Iraq, Syria, Lebanon, Bethlehem, Jerusalem, West Bank, и Gaza. Circumstances differ в each place, but pattern is в",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/07/the-disappearing-christian-middle-east-part-vi-when-christianity-becomes-history/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-07",
-      "lat": 8.8812,
-      "lng": 7.7294,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Six христиане убит выходные в Central Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани боевики в Nigeria застрелен two христиане смерть в деревня Bokkos округ, плато штат, на воскресенье (Oct. 4) и four others в Riyom округ на суббота, sources said. “Two",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/six-christians-slain-over-weekend-in-central-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-07",
-      "lat": 34.8886,
-      "lng": 36.8948,
-      "country": "Syria",
-      "city": "Homs",
-      "type": "other",
-      "title": "5 Leadership Lessons из преследуемый церковь",
-      "description": "This post is в partnership с Global христианин Relief, written Brian Orme, CEO Global христианин Relief Father Boutros и I sat в front large wooden board near entrance Mar Elias церковь outside Damascus, Syria. board covered",
-      "source": "newsapi:Careynieuwhof.com",
-      "url": "https://careynieuwhof.com/persecuted-church-leadership-lessons/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-07",
-      "lat": 33.4985,
-      "lng": 44.4864,
-      "country": "Iraq",
-      "city": "Baghdad",
-      "type": "discrimination",
-      "title": "Disappearing христианин Middle East, Part VI: когда христианство Becomes History",
-      "description": "ICC Fellow Lisa Navarrette Throughout this series, Disappearing христианин Middle East, we have traveled through Iraq, Syria, Lebanon, Bethlehem, Jerusalem, West Bank, и Gaza. Circumstances differ в each place, but pattern is в",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/07/the-disappearing-christian-middle-east-part-vi-when-christianity-becomes-history/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-07",
-      "lat": 11.9141,
-      "lng": 13.1985,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Six христиане убит выходные в Central Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани боевики в Nigeria застрелен two христиане смерть в деревня Bokkos округ, плато штат, на воскресенье (Oct. 4) и four others в Riyom округ на суббота, sources said. “Two",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/six-christians-slain-over-weekend-in-central-nigeria/",
       "victims": 0
     }
   ]
