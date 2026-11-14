@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-13T22:57:54.329Z",
+    "lastUpdated": "2026-11-14T03:45:28.816Z",
     "totalEvents": 500
   },
   "events": [
@@ -95,6 +95,32 @@
       "description": "Small Catholic community around Holy семья parish continues assist those most в need, including sick люди, пожилые residents и дети с disabilities cared для миссионеры Charity. Despite трудности, parish",
       "source": "zenit",
       "url": "https://zenit.org/2026/11/13/from-gaza-to-the-west-bank-palestinian-syrian-and-christian-civilians-under-attack-by-jewish-settlers-and-the-israeli-army/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-13",
+      "lat": 36.3877,
+      "lng": 59.6081,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "other",
+      "title": "Why Are So Many Iranians Becoming Catholic в Austria?",
+      "description": "С Iranians making up large proportion взрослые being baptized в Vienna, Hananias министерство — led Iranian convert — helps new converts find spiritual home within церковь.",
+      "source": "nationalCatholicRegister",
+      "url": "https://www.ncregister.com/interview/iranians-becoming-catholic-in-austria",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-13",
+      "lat": 9.1951,
+      "lng": 7.4956,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Awka Anglican Crisis: Ibezim withdraws suit against Primate",
+      "description": "Vincent Ujumadu Anglican епископ Awka Diocese, Most Rev. Alexander Chibuzo Ibezim, has withdrawn suit he instituted against Primate церковь Nigeria (Anglican причастие), Most Rev. Henry Ndukuba, и Dean церковь, Mos",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/11/awka-anglican-crisis-ibezim-withdraws-suit-against-primate/",
       "victims": 0
     },
     {
@@ -6473,32 +6499,6 @@
       "lng": 13.1985,
       "country": "Nigeria",
       "city": "Borno",
-      "type": "murder",
-      "title": "Six христиане убит выходные в Central Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани боевики в Nigeria застрелен two христиане смерть в деревня Bokkos округ, плато штат, на воскресенье (Oct. 4) и four others в Riyom округ на суббота, sources said. “Two",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/six-christians-slain-over-weekend-in-central-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-07",
-      "lat": 36.3374,
-      "lng": 42.9428,
-      "country": "Iraq",
-      "city": "Mosul",
-      "type": "discrimination",
-      "title": "Disappearing христианин Middle East, Part VI: когда христианство Becomes History",
-      "description": "ICC Fellow Lisa Navarrette Throughout this series, Disappearing христианин Middle East, we have traveled through Iraq, Syria, Lebanon, Bethlehem, Jerusalem, West Bank, и Gaza. Circumstances differ в each place, but pattern is в",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/07/the-disappearing-christian-middle-east-part-vi-when-christianity-becomes-history/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-07",
-      "lat": 6.4522,
-      "lng": 3.3933,
-      "country": "Nigeria",
-      "city": "Lagos",
       "type": "murder",
       "title": "Six христиане убит выходные в Central Nigeria",
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани боевики в Nigeria застрелен two христиане смерть в деревня Bokkos округ, плато штат, на воскресенье (Oct. 4) и four others в Riyom округ на суббота, sources said. “Two",
