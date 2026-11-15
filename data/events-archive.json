@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-14T21:44:26.468Z",
+    "lastUpdated": "2026-11-15T03:23:36.346Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-11-14",
+      "lat": 31.2421,
+      "lng": 29.9199,
+      "country": "Egypt",
+      "city": "Alexandria",
+      "type": "attack",
+      "title": "Христианин гонение в Egypt: богохульство Laws, толпа атаки и пропавший без вести Coptic женщины и Girls",
+      "description": "Egypt’s суд Cassation, country’s highest criminal appeals суд, is scheduled hear на Nov. post христианин гонение в Egypt: богохульство Laws, толпа атаки и пропавший без вести Coptic женщины и Girls appeared первый на Gateway Pundit.",
+      "source": "newsapi:Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/11/christian-persecution-egypt-blasphemy-laws-mob-attacks-missing/",
+      "victims": 0
+    },
     {
       "date": "2026-11-13",
       "lat": 2.0203,
@@ -186,6 +199,19 @@
       "description": "United штаты says Nigeria has not made sufficient progress в addressing атаки на христианские общины, warning its CPC designation should remain. Read More: https://punchng.com/nigeria-not-doing-enough--stop-атаки-us/",
       "source": "newsapi:The Punch",
       "url": "https://punchng.com/nigeria-not-doing-enough-to-stop-attacks-us/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-13",
+      "lat": 34.6258,
+      "lng": 36.8113,
+      "country": "Syria",
+      "city": "Homs",
+      "type": "discrimination",
+      "title": "Из Gaza West Bank: Palestinian, Syrian, и христианин гражданские под атака еврейский settlers и Israeli армия",
+      "description": "Small Catholic community around Holy семья parish continues assist those most в need, including sick люди, пожилые residents и дети с disabilities cared для миссионеры Charity. Despite трудности, parish",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/11/13/from-gaza-to-the-west-bank-palestinian-syrian-and-christian-civilians-under-attack-by-jewish-settlers-and-the-israeli-army/",
       "victims": 0
     },
     {
@@ -1005,6 +1031,19 @@
       "description": "Боевики в Syria are abducting христиане из their homes, shops и roads и holding them для выкуп. post Syria’s христиане Face похищения и “Jizya” Protection Tax Demands as Population Falls 80 Percent appeared первый на Gateway Pundi",
       "source": "newsapi:Thegatewaypundit.com",
       "url": "https://www.thegatewaypundit.com/2026/11/syrias-christians-face-kidnappings-jizya-protection-tax-demands/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-10",
+      "lat": 9.1182,
+      "lng": 7.2828,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "Дети among погибшие после похищение в Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – 4-год-old girl и 13-год-old girl в Nigeria, похищен among nine other христиане фулани боевики на апрель 20, погиб вскоре после their Nov. 2 release, sources said. Silvia",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/11/children-among-the-dead-after-kidnapping-in-nigeria/",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Neither trip has been confirmed Holy See, but possibility reflects growing importance Guadalupe jubilee в Mexican церковь’s pastoral plans и its ambitions для wider spiritual renewal across Americas. post папа Le",
       "source": "zenit",
       "url": "https://zenit.org/2026/10/08/pope-leo-xiv-will-visit-mexico-twice-according-to-statements-by-the-president-of-the-mexican-bishops-conference-the-dates-will-be-as-follows/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-08",
-      "lat": 6.2957,
-      "lng": 3.3797,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "arrest",
-      "title": "Военные в Nigeria Detains христианский журналист-Rights защитник",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – религиозный freedom защитник и христианский журналист в Nigeria was being held without обвинения и incommunicado после soldiers арестован him военные больница, where relatives",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/military-in-nigeria-detains-christian-journalist-rights-advocate/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-08",
-      "lat": 9.0785,
-      "lng": 7.6073,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "arrest",
-      "title": "Военные в Nigeria Detains христианский журналист-Rights защитник",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – религиозный freedom защитник и христианский журналист в Nigeria was being held without обвинения и incommunicado после soldiers арестован him военные больница, where relatives",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/military-in-nigeria-detains-christian-journalist-rights-advocate/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-08",
-      "lat": 10.5473,
-      "lng": 7.2253,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "arrest",
-      "title": "Военные в Nigeria Detains христианский журналист-Rights защитник",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – религиозный freedom защитник и христианский журналист в Nigeria was being held without обвинения и incommunicado после soldiers арестован him военные больница, where relatives",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/military-in-nigeria-detains-christian-journalist-rights-advocate/",
       "victims": 0
     }
   ]
