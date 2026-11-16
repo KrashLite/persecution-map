@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-15T22:10:16.674Z",
+    "lastUpdated": "2026-11-16T03:25:04.123Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-11-16",
+      "lat": 30.0404,
+      "lng": 31.1559,
+      "country": "Egypt",
+      "city": "Cairo",
+      "type": "murder",
+      "title": "Egyptian христианин-конверт Faces Possible смертный приговор",
+      "description": "Суд has been adjourned until декабрь 8, когда defence is expected present its closing arguments. Amnesty International и Coptic Solidarity maintain that prosecution is fundamentally connected Abdelrazek's обращение и expr",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/11/15/egyptian-christian-convert-faces-possible-death-sentence/",
+      "victims": 0
+    },
     {
       "date": "2026-11-15",
       "lat": 9.4229,
@@ -17,6 +30,19 @@
       "description": "Alumona UkwuezeNSUKKA — Catholic епископ Nsukka Diocese, Most Rev. Prof. Godfrey Igwebuike Onah, has joined университет Nigeria, Nsukka (UNN), community в mourning смерть four students following tragic incident off-campus",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/11/bishop-onah-mourns-four-unn-students-commends-ortuanyas-leadership/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-15",
+      "lat": 19.2998,
+      "lng": -99.0846,
+      "country": "Mexico",
+      "city": "Mexico City",
+      "type": "other",
+      "title": "Mexico: Passport Renewal Conditioned на Not Appearing As священник",
+      "description": "Response из Father Edward McNamara, Legionary Christ, Professor литургия и Sacramental Theology Pontifical Athenaeum Regina Apostolorum. post Mexico: Passport Renewal Conditioned на Not Appearing As священник appeared первый на ZENI",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/11/14/mexico-passport-renewal-conditioned-on-not-appearing-as-a-priest/",
       "victims": 0
     },
     {
@@ -576,6 +602,19 @@
       "description": "Lawmakers discussed Nigeria’s designation as country particular concern для религиозный гонение и expressed concern о slow pace progress.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/us/republicans-demand-more-progress-in-halting-christian-persecution-in-nigeria",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-12",
+      "lat": 10.3677,
+      "lng": 7.5139,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "Widow христианин убит в Nigeria takes plea для преследуемый христиане Downing Street",
+      "description": "Nigerian widow who witnessed Боко Харам боевики shoot her husband погибшие после he identified himself as христианин is joining delegation handing в petition Downing Street на четверг.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/widow-of-christian-killed-in-nigeria-takes-plea-for-persecuted-christians-to-downing-street",
       "victims": 0
     },
     {
@@ -6465,45 +6504,6 @@
       "description": "Nigerian военно-воздушные силы has confirmed one its вертолёты made precautionary landing в Makurdi, Benue штат, после successful операция against kidn Read More: https://punchng.com/naf-confirms-вертолёт-makes-precautionary-landing-в-benue/",
       "source": "punchng",
       "url": "https://punchng.com/naf-confirms-helicopter-makes-precautionary-landing-in-benue/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-08",
-      "lat": 34.8331,
-      "lng": 36.9555,
-      "country": "Syria",
-      "city": "Homs",
-      "type": "attack",
-      "title": "Syrian христианин посёлок атакован для второй time мусульманин толпа",
-      "description": "Мусульманин толпа has однажды снова атакован христианин majority посёлок Suqaylabiyah в Syria.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/syrian-christian-town-attacked-for-second-time-by-muslim-mob",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-08",
-      "lat": 12.2497,
-      "lng": 8.6557,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "arrest",
-      "title": "Военные в Nigeria Detains христианский журналист-Rights защитник",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – религиозный freedom защитник и христианский журналист в Nigeria was being held without обвинения и incommunicado после soldiers арестован him военные больница, where relatives",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/military-in-nigeria-detains-christian-journalist-rights-advocate/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-08",
-      "lat": 15.2625,
-      "lng": 32.6718,
-      "country": "Sudan",
-      "city": "Khartoum",
-      "type": "kidnapping",
-      "title": "South Sudan церковь leaders call для halt hostilities, гражданский protection",
-      "description": "Protect гражданские amid worsening insecurity, убийства, похищения, и перемещение, members South Sudan совет церкви say “silence is no longer option.”",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/south-sudan-church-leaders-call-for-halt-to-hostilities-civilian-protection",
       "victims": 0
     }
   ]
