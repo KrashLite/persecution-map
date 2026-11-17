@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-17T01:10:48.974Z",
+    "lastUpdated": "2026-11-17T14:59:46.506Z",
     "totalEvents": 500
   },
   "events": [
@@ -18,6 +18,45 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/11/17/fulani-militants-kill-14-christians-in-plateau-state-nigeria/",
       "victims": 14
+    },
+    {
+      "date": "2026-11-17",
+      "lat": 4.3266,
+      "lng": 18.5862,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "Папа Leo XIV Answers Ideological Question о Married священники (и 11 Other Questions, Including Traditionis Custodes, New кардиналы, и Spiritual насилие)",
+      "description": "His physical endurance, small size Catholic community в Uruguay—и how this should not be confused с insignificance—what he discussed с Milei, polarization, rosary that struck him в face, насилия и жертвы, married священник",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/11/17/pope-leo-xiv-answers-an-ideological-question-about-married-priests-and-11-other-questions-including-traditionis-custodes-new-cardinals-and-spiritual-abuse/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-17",
+      "lat": 6.6696,
+      "lng": 3.205,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "attack",
+      "title": "Фулани боевики Kill 14 христиане в плато штат, Nigeria",
+      "description": "",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/17/fulani-militants-kill-14-christians-in-plateau-state-nigeria/",
+      "victims": 14
+    },
+    {
+      "date": "2026-11-17",
+      "lat": 3.1563,
+      "lng": 101.6315,
+      "country": "Malaysia",
+      "city": "Kuala Lumpur",
+      "type": "arrest",
+      "title": "Catholic министерство supports люди different веры в мусульманин-majority Malaysia",
+      "description": "Archdiocesan офис для Human Development в Kuala Lumpur is known as AOHD. It oversees 10 министерства that serve vulnerable communities. Among them are programs assisting женщины, prisoners, migrants и дети с special needs. post Cathol",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-asia/2026/11/catholic-church-in-malaysia/",
+      "victims": 0
     },
     {
       "date": "2026-11-16",
@@ -129,6 +168,32 @@
       "lng": 81.992,
       "country": "India",
       "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Индус Nationalists Target христиане в West Bengal, India",
+      "description": "",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/16/hindu-nationalists-target-christians-in-west-bengal-india/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-16",
+      "lat": 11.9974,
+      "lng": 13.1163,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "Мусульманин/мусульманин ticket fuels distrust в Nigeria, says архиепископ Ugorji",
+      "description": "Архиепископ Owerri и former президент Catholic епископы’ Conference Nigeria (CBCN), Most Rev. Lucius Iwejuru Ugorji has said мусульманин/мусульманин presidential ticket БТР heightens ongoing debates и fears surrounding alleged",
+      "source": "newsapi:Thechronicle.com.gh",
+      "url": "https://thechronicle.com.gh/muslim-muslim-ticket-fuels-distrust-in-nigeria-says-archbishop-ugorji/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-16",
+      "lat": 20.9567,
+      "lng": 85.0039,
+      "country": "India",
+      "city": "Odisha",
       "type": "other",
       "title": "Индус Nationalists Target христиане в West Bengal, India",
       "description": "",
@@ -784,6 +849,19 @@
       "description": "Nigerian widow who witnessed Боко Харам боевики shoot her husband погибшие после he identified himself as христианин is joining delegation handing в petition Downing Street на четверг.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/widow-of-christian-killed-in-nigeria-takes-plea-for-persecuted-christians-to-downing-street",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-12",
+      "lat": 9.2989,
+      "lng": 9.7201,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Republicans demand more progress в halting христианин гонение в Nigeria",
+      "description": "Lawmakers discussed Nigeria’s designation as country particular concern для религиозный гонение и expressed concern о slow pace progress.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/us/republicans-demand-more-progress-in-halting-christian-persecution-in-nigeria",
       "victims": 0
     },
     {
@@ -6427,84 +6505,6 @@
       "source": "punchng",
       "url": "https://punchng.com/foursquare-go-urges-fg-to-tackle-rising-living-costs/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
-    },
-    {
-      "date": "2026-10-09",
-      "lat": 9.1592,
-      "lng": 9.5722,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "other",
-      "title": "Ogun monarch’s cap removal во время богослужение sparks mixed reactions",
-      "description": "Removal his cap Osile Oke-Ona Egba, Oba Adedapo Adewale Tejuoso, во время христианин богослужение event has sparked mixed reactions на social media, с some Nigerians criticising gesture as disrespectful Yoruba tradition и other",
-      "source": "punchng",
-      "url": "https://punchng.com/ogun-monarchs-cap-removal-during-worship-sparks-mixed-reactions/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-09",
-      "lat": 9.3129,
-      "lng": 9.6377,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "kidnapping",
-      "title": "Fulanis Kill, Kidnap христиане в Kaduna штат, Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани assailants на вторник (Oct. 6) broke в homes near столица Kaduna штат и похищен five христиане и 6-месяц-old ребёнок, sources said. assailants похищен",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/fulanis-kill-kidnap-christians-in-kaduna-state-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-09",
-      "lat": 31.5676,
-      "lng": 74.4438,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "arrest",
-      "title": "Мусульмане Burn Home, Shop христианин в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – мусульманин толпа в Pakistan set fire христианин’s house и shop на пятница (Oct. 9) после he was accused богохульство, forcing more than 35 христианские семьи flee their homes",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/muslims-burn-home-shop-of-christian-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-09",
-      "lat": 12.0168,
-      "lng": 12.9713,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "discrimination",
-      "title": "Вечер recap: Tinubu launch 2027 кампания в Kaduna, FG rejects immediate solar import запрет, полиция warn церкви testimonies, other top stories",
-      "description": "Read вечер roundup top Nigerian stories, including президент Tinubu’s 2027 кампания launch, FG’s solar import запрет decision, и more. Read More: https://punchng.com/вечер-recap-tinubu--launch-2027-кампания-в-kaduna-fg-rejects-immed",
-      "source": "punchng",
-      "url": "https://punchng.com/evening-recap-tinubu-to-launch-2027-campaign-in-kaduna-fg-rejects-immediate-solar-import-ban-police-warn-churches-over-testimonies-other-top-stories/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-09",
-      "lat": 32.6431,
-      "lng": 51.8286,
-      "country": "Iran",
-      "city": "Isfahan",
-      "type": "arrest",
-      "title": "Armenian Prisoners в Azerbaijan Report ограничения на религиозный Practice",
-      "description": "Armenian prisoners held в Azerbaijan are being отказано meaningful contact с their семьи, независимый medical professionals, и international humanitarian monitors, пока reports ограничения на their христианин религиозный practice have raised",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/09/armenian-prisoners-in-azerbaijan-report-restrictions-on-religious-practice/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-09",
-      "lat": 12.4738,
-      "lng": -7.7972,
-      "country": "Mali",
-      "city": "Bamako",
-      "type": "murder",
-      "title": "Папа’s No. 2 на US public казнь plan: “incomprehensible”",
-      "description": "Speaking journalists на sidelines event в Rome dedicated Doctor церковь и saint celebrated сегодня, John Henry Newman, кардинал Pietro Parolin indicated that Holy See would make statement о US правительство’s ann",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/10/09/popes-no-2-on-us-public-execution-plan-incomprehensible/",
-      "victims": 13
     }
   ]
 }
