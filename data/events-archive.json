@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-16T14:06:27.691Z",
+    "lastUpdated": "2026-11-17T01:10:48.974Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-11-17",
+      "lat": 8.9554,
+      "lng": 7.5633,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "attack",
+      "title": "Фулани боевики Kill 14 христиане в плато штат, Nigeria",
+      "description": "",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/17/fulani-militants-kill-14-christians-in-plateau-state-nigeria/",
+      "victims": 14
+    },
     {
       "date": "2026-11-16",
       "lat": 30.0404,
@@ -72,6 +85,58 @@
       "victims": 0
     },
     {
+      "date": "2026-11-16",
+      "lat": 33.9449,
+      "lng": 71.603,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "kidnapping",
+      "title": "Cases похищение/вынужден обращение Unabated в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – least 84 cases похищение и вынужден религиозный обращение minority girls и женщины were reported across Pakistan в первый 10 месяцы 2026, including 49 христианин victi",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/11/cases-of-abduction-forced-conversion-unabated-in-pakistan/",
+      "victims": 84
+    },
+    {
+      "date": "2026-11-16",
+      "lat": 15.447,
+      "lng": 32.6167,
+      "country": "Sudan",
+      "city": "Khartoum",
+      "type": "other",
+      "title": "Hidden cathedral floor emerges в Sudan, revealing one biggest medieval церкви",
+      "description": "Archaeologists have unearthed original floor monumental medieval cathedral в northern Sudan that could be bigger than White House, revealing scale и architectural significance one Nubia’s most important христианин buildings.",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-africa/2026/11/ancient-church-found-in-sudan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-16",
+      "lat": 29.404,
+      "lng": 32.8952,
+      "country": "Egypt",
+      "city": "Sinai",
+      "type": "murder",
+      "title": "Egyptian христианин-конверт Faces Possible смертный приговор",
+      "description": "Суд has been adjourned until декабрь 8, когда defence is expected present its closing arguments. Amnesty International и Coptic Solidarity maintain that prosecution is fundamentally connected Abdelrazek's обращение и expr",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/11/15/egyptian-christian-convert-faces-possible-death-sentence/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-16",
+      "lat": 21.3376,
+      "lng": 81.992,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Индус Nationalists Target христиане в West Bengal, India",
+      "description": "",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/16/hindu-nationalists-target-christians-in-west-bengal-india/",
+      "victims": 0
+    },
+    {
       "date": "2026-11-15",
       "lat": 9.4229,
       "lng": 9.2863,
@@ -95,6 +160,19 @@
       "description": "Response из Father Edward McNamara, Legionary Christ, Professor литургия и Sacramental Theology Pontifical Athenaeum Regina Apostolorum. post Mexico: Passport Renewal Conditioned на Not Appearing As священник appeared первый на ZENI",
       "source": "zenit",
       "url": "https://zenit.org/2026/11/14/mexico-passport-renewal-conditioned-on-not-appearing-as-a-priest/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-15",
+      "lat": 10.6044,
+      "lng": 7.3764,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Nigeria Report: One год после CPC Designation, U.S. чиновники Tell конгресс Nigeria Has Not Done Enough Protect христиане",
+      "description": "На Nov. post Nigeria Report: One год после CPC Designation, U.S. чиновники Tell конгресс Nigeria Has Not Done Enough Protect христиане appeared первый на Gateway Pundit.",
+      "source": "newsapi:Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/11/nigeria-report-one-year-after-cpc-designation-u/",
       "victims": 0
     },
     {
@@ -129,6 +207,19 @@
       "lng": 30.7261,
       "country": "Egypt",
       "city": "Minya",
+      "type": "attack",
+      "title": "Христианин гонение в Egypt: богохульство Laws, толпа атаки и пропавший без вести Coptic женщины и Girls",
+      "description": "Egypt’s суд Cassation, country’s highest criminal appeals суд, is scheduled hear на Nov. post христианин гонение в Egypt: богохульство Laws, толпа атаки и пропавший без вести Coptic женщины и Girls appeared первый на Gateway Pundit.",
+      "source": "newsapi:Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/11/christian-persecution-egypt-blasphemy-laws-mob-attacks-missing/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-14",
+      "lat": 29.3999,
+      "lng": 32.9462,
+      "country": "Egypt",
+      "city": "Sinai",
       "type": "attack",
       "title": "Христианин гонение в Egypt: богохульство Laws, толпа атаки и пропавший без вести Coptic женщины и Girls",
       "description": "Egypt’s суд Cassation, country’s highest criminal appeals суд, is scheduled hear на Nov. post христианин гонение в Egypt: богохульство Laws, толпа атаки и пропавший без вести Coptic женщины и Girls appeared первый на Gateway Pundit.",
@@ -6414,97 +6505,6 @@
       "source": "aleteia",
       "url": "https://aleteia.org/2026/10/09/popes-no-2-on-us-public-execution-plan-incomprehensible/",
       "victims": 13
-    },
-    {
-      "date": "2026-10-09",
-      "lat": 12.4519,
-      "lng": -8.2344,
-      "country": "Mali",
-      "city": "Bamako",
-      "type": "murder",
-      "title": "Епископ responds US plan для public казнь",
-      "description": "Leader US епископы’ conference has responded с “shock и great sorrow” announcement that US правительство plans live-stream казнь that is scheduled для декабрь. announcement из what is сейчас known as US Departme",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/10/09/bishop-responds-to-us-plan-for-public-execution/",
-      "victims": 13
-    },
-    {
-      "date": "2026-10-09",
-      "lat": 11.7971,
-      "lng": 8.6616,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "kidnapping",
-      "title": "Fulanis Kill, Kidnap христиане в Kaduna штат, Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани assailants на вторник (Oct. 6) broke в homes near столица Kaduna штат и похищен five христиане и 6-месяц-old ребёнок, sources said. assailants похищен",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/fulanis-kill-kidnap-christians-in-kaduna-state-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-09",
-      "lat": 33.7989,
-      "lng": 72.9597,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "arrest",
-      "title": "Мусульмане Burn Home, Shop христианин в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – мусульманин толпа в Pakistan set fire христианин’s house и shop на пятница (Oct. 9) после he was accused богохульство, forcing more than 35 христианские семьи flee their homes",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/muslims-burn-home-shop-of-christian-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-09",
-      "lat": 36.3553,
-      "lng": 59.7064,
-      "country": "Iran",
-      "city": "Mashhad",
-      "type": "arrest",
-      "title": "Armenian Prisoners в Azerbaijan Report ограничения на религиозный Practice",
-      "description": "Armenian prisoners held в Azerbaijan are being отказано meaningful contact с their семьи, независимый medical professionals, и international humanitarian monitors, пока reports ограничения на their христианин религиозный practice have raised",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/09/armenian-prisoners-in-azerbaijan-report-restrictions-on-religious-practice/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-09",
-      "lat": 35.905,
-      "lng": 51.5772,
-      "country": "Iran",
-      "city": "Tehran",
-      "type": "arrest",
-      "title": "Armenian Prisoners в Azerbaijan Report ограничения на религиозный Practice",
-      "description": "Armenian prisoners held в Azerbaijan are being отказано meaningful contact с their семьи, независимый medical professionals, и international humanitarian monitors, пока reports ограничения на their христианин религиозный practice have raised",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/09/armenian-prisoners-in-azerbaijan-report-restrictions-on-religious-practice/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-09",
-      "lat": 34.1932,
-      "lng": 71.7417,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "arrest",
-      "title": "Мусульмане Burn Home, Shop христианин в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – мусульманин толпа в Pakistan set fire христианин’s house и shop на пятница (Oct. 9) после he was accused богохульство, forcing more than 35 христианские семьи flee their homes",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/muslims-burn-home-shop-of-christian-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-09",
-      "lat": 11.8863,
-      "lng": 13.367,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "kidnapping",
-      "title": "Fulanis Kill, Kidnap христиане в Kaduna штат, Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – фулани assailants на вторник (Oct. 6) broke в homes near столица Kaduna штат и похищен five христиане и 6-месяц-old ребёнок, sources said. assailants похищен",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/fulanis-kill-kidnap-christians-in-kaduna-state-nigeria/",
-      "victims": 0
     }
   ]
 }
