@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-17T14:59:46.506Z",
+    "lastUpdated": "2026-11-18T00:05:48.670Z",
     "totalEvents": 500
   },
   "events": [
@@ -56,6 +56,32 @@
       "description": "Archdiocesan офис для Human Development в Kuala Lumpur is known as AOHD. It oversees 10 министерства that serve vulnerable communities. Among them are programs assisting женщины, prisoners, migrants и дети с special needs. post Cathol",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-asia/2026/11/catholic-church-in-malaysia/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-17",
+      "lat": 10.5492,
+      "lng": 7.1747,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "murder",
+      "title": "17 Nigerian христиане погиб в плен после Пасха церковь похищения",
+      "description": "Seventeen христиане похищен во время Пасха воскресенье церковь services в Nigeria have погиб в плен, according reports из христианские благотворительные фонды, с выжившие describing голодание, illness и brutal conditions.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/17-nigerian-christians-died-in-captivity-after-easter-church-abductions",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-17",
+      "lat": 15.5062,
+      "lng": 32.6791,
+      "country": "Sudan",
+      "city": "Khartoum",
+      "type": "arrest",
+      "title": "Пастор заключён в South Sudan для христианин Song с Musical Instruments",
+      "description": "JUBA, South Sudan (утро Star News) – traditional tribal суд в South Sudan в этом месяце приговорён церковь пастор eight месяцы в тюрьма для using musical instruments в христианин song funeral, sources said. в Western Equatoria штат, t",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/11/pastor-jailed-in-south-sudan-for-christian-song-with-musical-instruments/",
       "victims": 0
     },
     {
@@ -202,6 +228,19 @@
       "victims": 0
     },
     {
+      "date": "2026-11-16",
+      "lat": 6.4801,
+      "lng": 3.5175,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Мусульманин/мусульманин ticket fuels distrust в Nigeria, says архиепископ Ugorji",
+      "description": "Архиепископ Owerri и former президент Catholic епископы’ Conference Nigeria (CBCN), Most Rev. Lucius Iwejuru Ugorji has said мусульманин/мусульманин presidential ticket БТР heightens ongoing debates и fears surrounding alleged",
+      "source": "newsapi:Thechronicle.com.gh",
+      "url": "https://thechronicle.com.gh/muslim-muslim-ticket-fuels-distrust-in-nigeria-says-archbishop-ugorji/",
+      "victims": 0
+    },
+    {
       "date": "2026-11-15",
       "lat": 9.4229,
       "lng": 9.2863,
@@ -233,6 +272,19 @@
       "lng": 7.3764,
       "country": "Nigeria",
       "city": "Kaduna",
+      "type": "other",
+      "title": "Nigeria Report: One год после CPC Designation, U.S. чиновники Tell конгресс Nigeria Has Not Done Enough Protect христиане",
+      "description": "На Nov. post Nigeria Report: One год после CPC Designation, U.S. чиновники Tell конгресс Nigeria Has Not Done Enough Protect христиане appeared первый на Gateway Pundit.",
+      "source": "newsapi:Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/11/nigeria-report-one-year-after-cpc-designation-u/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-15",
+      "lat": 11.7969,
+      "lng": 13.2613,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "other",
       "title": "Nigeria Report: One год после CPC Designation, U.S. чиновники Tell конгресс Nigeria Has Not Done Enough Protect христиане",
       "description": "На Nov. post Nigeria Report: One год после CPC Designation, U.S. чиновники Tell конгресс Nigeria Has Not Done Enough Protect христиане appeared первый на Gateway Pundit.",
@@ -6452,58 +6504,6 @@
       "description": "Intelligence Response Team (IRT) Nigeria полиция сила has foiled alleged plot kidnap prophetess и assistant пастор в Federal столица Territory (FCT), Abuja, и арестован four suspects с locally fabricated firearm и",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/10/police-foil-plot-to-kidnap-abuja-prophetess-arrest-4-suspects/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-10",
-      "lat": 31.6756,
-      "lng": 74.196,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "murder",
-      "title": "Христиане 'deeply concerned' as Pakistani accused богохульство has смертный приговор upheld",
-      "description": "Qaiser Ayub's ordeal began в 2011.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christians-deeply-concerned-as-pakistani-accused-of-blasphemy-has-death-sentence-upheld",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-10",
-      "lat": 9.1635,
-      "lng": 7.4923,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "kidnapping",
-      "title": "Полиция foil plot kidnap Abuja prophetess, арест 4 suspects",
-      "description": "Intelligence Response Team (IRT) Nigeria полиция сила has foiled alleged plot kidnap prophetess и assistant пастор в Federal столица Territory (FCT), Abuja, и арестован four suspects с locally fabricated firearm и",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/10/police-foil-plot-to-kidnap-abuja-prophetess-arrest-4-suspects/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-09",
-      "lat": 11.7238,
-      "lng": 13.0602,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "kidnapping",
-      "title": "NAF chopper returns safely после Benue emergency landing",
-      "description": "Nigerian военно-воздушные силы вертолёт returning из anti-похищение операция has returned база после making precautionary landing в Makurdi, Benue Sta Read More: https://punchng.com/naf-chopper-returns-safely-после-benue-emergency-landing/",
-      "source": "punchng",
-      "url": "https://punchng.com/naf-chopper-returns-safely-after-benue-emergency-landing/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-09",
-      "lat": 6.452,
-      "lng": 3.1527,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Foursquare GO urges FG tackle rising living costs",
-      "description": "General надзиратель Foursquare Gospel церковь, Rev ЗУР Aboyeji, has urged Federal правительство prioritise welfare poor Nigerians и reduce Read More: https://punchng.com/foursquare-go-urges-fg--tackle-rising-living-costs/",
-      "source": "punchng",
-      "url": "https://punchng.com/foursquare-go-urges-fg-to-tackle-rising-living-costs/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 0
     }
   ]
