@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-18T00:05:48.670Z",
+    "lastUpdated": "2026-11-18T14:40:41.418Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-11-18",
+      "lat": 19.2761,
+      "lng": 72.9794,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "other",
+      "title": "Where will next National Eucharistic конгресс be?",
+      "description": "Some 60,000 Catholics из around U.S. came together в июль 2024 для National Eucharistic конгресс, и сейчас it’s чиновник: next конгресс is coming в июль 2029, и it will also be held в Indianapolis. As central location с в",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/11/18/where-will-the-next-national-eucharistic-congress-be/",
+      "victims": 0
+    },
     {
       "date": "2026-11-17",
       "lat": 8.9554,
@@ -83,6 +96,19 @@
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/11/pastor-jailed-in-south-sudan-for-christian-song-with-musical-instruments/",
       "victims": 0
+    },
+    {
+      "date": "2026-11-17",
+      "lat": 10.2611,
+      "lng": 7.1967,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "attack",
+      "title": "Фулани боевики Kill 14 христиане в плато штат, Nigeria",
+      "description": "",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/17/fulani-militants-kill-14-christians-in-plateau-state-nigeria/",
+      "victims": 14
     },
     {
       "date": "2026-11-16",
@@ -241,6 +267,32 @@
       "victims": 0
     },
     {
+      "date": "2026-11-16",
+      "lat": 31.4426,
+      "lng": 74.4358,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "kidnapping",
+      "title": "Cases похищение/вынужден обращение Unabated в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – least 84 cases похищение и вынужден религиозный обращение minority girls и женщины were reported across Pakistan в первый 10 месяцы 2026, including 49 христианин victi",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/11/cases-of-abduction-forced-conversion-unabated-in-pakistan/",
+      "victims": 84
+    },
+    {
+      "date": "2026-11-16",
+      "lat": 12.1521,
+      "lng": 8.4707,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "other",
+      "title": "Мусульманин/мусульманин ticket fuels distrust в Nigeria, says архиепископ Ugorji",
+      "description": "Архиепископ Owerri и former президент Catholic епископы’ Conference Nigeria (CBCN), Most Rev. Lucius Iwejuru Ugorji has said мусульманин/мусульманин presidential ticket БТР heightens ongoing debates и fears surrounding alleged",
+      "source": "newsapi:Thechronicle.com.gh",
+      "url": "https://thechronicle.com.gh/muslim-muslim-ticket-fuels-distrust-in-nigeria-says-archbishop-ugorji/",
+      "victims": 0
+    },
+    {
       "date": "2026-11-15",
       "lat": 9.4229,
       "lng": 9.2863,
@@ -285,6 +337,19 @@
       "lng": 13.2613,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "other",
+      "title": "Nigeria Report: One год после CPC Designation, U.S. чиновники Tell конгресс Nigeria Has Not Done Enough Protect христиане",
+      "description": "На Nov. post Nigeria Report: One год после CPC Designation, U.S. чиновники Tell конгресс Nigeria Has Not Done Enough Protect христиане appeared первый на Gateway Pundit.",
+      "source": "newsapi:Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/11/nigeria-report-one-year-after-cpc-designation-u/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-15",
+      "lat": 12.0343,
+      "lng": 8.5341,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "other",
       "title": "Nigeria Report: One год после CPC Designation, U.S. чиновники Tell конгресс Nigeria Has Not Done Enough Protect христиане",
       "description": "На Nov. post Nigeria Report: One год после CPC Designation, U.S. чиновники Tell конгресс Nigeria Has Not Done Enough Protect христиане appeared первый на Gateway Pundit.",
@@ -6439,71 +6504,6 @@
       "description": "Из Turkey's Sumela Monastery, built against cliff, Ethiopia’s rock-hewn церковь reached difficult climb, some христианский паломниквек sites make journey itself part experience.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/middle-east/from-turkey-to-ethiopia-7-churches-and-monasteries-for-adventurous-pilgrims",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-11",
-      "lat": 4.3552,
-      "lng": 18.8065,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "other",
-      "title": "Епископы страдания Nicaragua will visit Rome на этой неделе",
-      "description": "Following епископы Honduras previous неделя и ahead those Panama неделя после, епископы Nicaragua will make their ad limina visit beginning октябрь 12, с audience scheduled с папа Leo XIV likely на пятница утро. Beh",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/10/11/bishops-of-suffering-nicaragua-will-visit-rome-this-week/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-10",
-      "lat": 34.1168,
-      "lng": 71.5649,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "murder",
-      "title": "Христиане 'deeply concerned' as Pakistani accused богохульство has смертный приговор upheld",
-      "description": "Qaiser Ayub's ordeal began в 2011.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christians-deeply-concerned-as-pakistani-accused-of-blasphemy-has-death-sentence-upheld",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-10",
-      "lat": 33.4951,
-      "lng": 72.8614,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "murder",
-      "title": "Христиане 'deeply concerned' as Pakistani accused богохульство has смертный приговор upheld",
-      "description": "Qaiser Ayub's ordeal began в 2011.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christians-deeply-concerned-as-pakistani-accused-of-blasphemy-has-death-sentence-upheld",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-10",
-      "lat": 25.0814,
-      "lng": 67.1522,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "murder",
-      "title": "Христиане 'deeply concerned' as Pakistani accused богохульство has смертный приговор upheld",
-      "description": "Qaiser Ayub's ordeal began в 2011.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christians-deeply-concerned-as-pakistani-accused-of-blasphemy-has-death-sentence-upheld",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-10",
-      "lat": 12.0583,
-      "lng": 13.1823,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "kidnapping",
-      "title": "Полиция foil plot kidnap Abuja prophetess, арест 4 suspects",
-      "description": "Intelligence Response Team (IRT) Nigeria полиция сила has foiled alleged plot kidnap prophetess и assistant пастор в Federal столица Territory (FCT), Abuja, и арестован four suspects с locally fabricated firearm и",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/10/police-foil-plot-to-kidnap-abuja-prophetess-arrest-4-suspects/",
       "victims": 0
     }
   ]
