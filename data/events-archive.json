@@ -2,10 +2,23 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-19T04:43:17.152Z",
+    "lastUpdated": "2026-11-19T14:47:12.111Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-11-19",
+      "lat": 15.258,
+      "lng": 32.7119,
+      "country": "Sudan",
+      "city": "Khartoum",
+      "type": "murder",
+      "title": "South Sudan христианка убит для refusing вынужден marriage мусульманин",
+      "description": "Ajak Mabior was allegedly убит her брат и cousin.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/south-sudan-christian-woman-killed-for-refusing-forced-marriage-to-muslim",
+      "victims": 0
+    },
     {
       "date": "2026-11-18",
       "lat": 19.2761,
@@ -56,6 +69,32 @@
       "description": "Olayinka Latona General надзиратель Foursquare Gospel церковь в Nigeria, Rev. ЗУР Aboyeji, has обвинён graduating students LIFE Theological Seminary, Ikorodu, Lagos, uphold integrity и sound biblical doctrine as they prepare pre",
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/11/foursquare-g-o-tasks-graduands-on-integrity-national-development/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-18",
+      "lat": 32.8337,
+      "lng": 51.5713,
+      "country": "Iran",
+      "city": "Isfahan",
+      "type": "murder",
+      "title": "Iran’s исламский Regime Kills 33 христианин министры и Seizes American-Founded церковь, Yet Thousands Still Convert",
+      "description": "Iran's исламский regime has убит least 33 христианин министры и задержан more than 130 others tied подпольная церковь в recent месяцы, according Iran Alive министерства, Texas-based министерство that supports домашние церкви в Iran. p",
+      "source": "newsapi:Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/11/irans-islamic-regime-kills-33-christian-ministers-seizes/",
+      "victims": 33
+    },
+    {
+      "date": "2026-11-18",
+      "lat": 21.1923,
+      "lng": 81.8232,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Where will next National Eucharistic конгресс be?",
+      "description": "Some 60,000 Catholics из around U.S. came together в июль 2024 для National Eucharistic конгресс, и сейчас it’s чиновник: next конгресс is coming в июль 2029, и it will also be held в Indianapolis. As central location с в",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/11/18/where-will-the-next-national-eucharistic-congress-be/",
       "victims": 0
     },
     {
@@ -187,6 +226,19 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/11/17/fulani-militants-kill-14-christians-in-plateau-state-nigeria/",
       "victims": 14
+    },
+    {
+      "date": "2026-11-17",
+      "lat": 8.972,
+      "lng": 7.2784,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "murder",
+      "title": "17 Nigerian христиане погиб в плен после Пасха церковь похищения",
+      "description": "Seventeen христиане похищен во время Пасха воскресенье церковь services в Nigeria have погиб в плен, according reports из христианские благотворительные фонды, с выжившие describing голодание, illness и brutal conditions.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/17-nigerian-christians-died-in-captivity-after-easter-church-abductions",
+      "victims": 0
     },
     {
       "date": "2026-11-16",
@@ -480,6 +532,19 @@
       "lng": 3.5303,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "other",
+      "title": "Nigeria Report: One год после CPC Designation, U.S. чиновники Tell конгресс Nigeria Has Not Done Enough Protect христиане",
+      "description": "На Nov. post Nigeria Report: One год после CPC Designation, U.S. чиновники Tell конгресс Nigeria Has Not Done Enough Protect христиане appeared первый на Gateway Pundit.",
+      "source": "newsapi:Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/11/nigeria-report-one-year-after-cpc-designation-u/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-15",
+      "lat": 9.3799,
+      "lng": 9.7238,
+      "country": "Nigeria",
+      "city": "Plateau",
       "type": "other",
       "title": "Nigeria Report: One год после CPC Designation, U.S. чиновники Tell конгресс Nigeria Has Not Done Enough Protect христиане",
       "description": "На Nov. post Nigeria Report: One год после CPC Designation, U.S. чиновники Tell конгресс Nigeria Has Not Done Enough Protect христиане appeared первый на Gateway Pundit.",
@@ -1312,6 +1377,19 @@
       "lng": 13.3875,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "kidnapping",
+      "title": "Священник Left Unconscious в атака в Benue штат, Nigeria",
+      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Targeting христианские лидеры в Nigeria continued as Catholic священник was assaulted на прошлой неделе, и another who was похищен в октябрь was released дни позже, sources said. в ce",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/11/priest-left-unconscious-in-attack-in-benue-state-nigeria/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-11",
+      "lat": 10.4484,
+      "lng": 7.5759,
+      "country": "Nigeria",
+      "city": "Kaduna",
       "type": "kidnapping",
       "title": "Священник Left Unconscious в атака в Benue штат, Nigeria",
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Targeting христианские лидеры в Nigeria continued as Catholic священник was assaulted на прошлой неделе, и another who was похищен в октябрь was released дни позже, sources said. в ce",
@@ -6426,84 +6504,6 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Pakistan’s Supreme суд на среда (Oct. 7) announced that it had upheld смертный приговор христианин осуждён под богохульство laws пока acquitting his брат, с right",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/10/christians-death-sentence-upheld-under-blasphemy-law-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-12",
-      "lat": 9.1473,
-      "lng": 7.6802,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "attack",
-      "title": "Исламский террористы атака Three деревни в Northeast Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected исламский террористы атакован three predominantly христианин деревни в Adamawa штат, Nigeria, на четверг (Oct. 8), убийство least one человек и поджог least one chu",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/islamic-terrorists-attack-three-villages-in-northeast-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-12",
-      "lat": 36.0838,
-      "lng": 43.8629,
-      "country": "Iraq",
-      "city": "Erbil",
-      "type": "discrimination",
-      "title": "Vatican scholarships keep христиане в Middle East",
-      "description": "Папа Leo XIV received Synod епископы Greek-Melkite церковь Antioch на октябрь 10, offering words solidarity с community that has lived для десятилетия под weight war, религиозный extremism, вынужден migration, и economic col",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/10/12/vatican-scholarships-to-keep-christians-in-the-middle-east/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-12",
-      "lat": 6.7366,
-      "lng": 3.5424,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "My пастор is из Nigeria — Nicki Minaj",
-      "description": "Rapper Nicki Minaj says her Nigerian пастор influenced her decision speak out о alleged гонение христиане в Nigeria. Read More: https://punchng.com/my-пастор-is-из-nigeria-nicki-minaj/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/my-pastor-is-from-nigeria-nicki-minaj/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-12",
-      "lat": 24.6649,
-      "lng": 66.869,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "murder",
-      "title": "Христианин’s смертный приговор Upheld под богохульство Law в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Pakistan’s Supreme суд на среда (Oct. 7) announced that it had upheld смертный приговор христианин осуждён под богохульство laws пока acquitting his брат, с right",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/christians-death-sentence-upheld-under-blasphemy-law-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-12",
-      "lat": 11.9196,
-      "lng": 12.9559,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "My пастор is из Nigeria — Nicki Minaj",
-      "description": "Rapper Nicki Minaj says her Nigerian пастор influenced her decision speak out о alleged гонение христиане в Nigeria. Read More: https://punchng.com/my-пастор-is-из-nigeria-nicki-minaj/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/my-pastor-is-from-nigeria-nicki-minaj/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-12",
-      "lat": 10.3578,
-      "lng": 7.2841,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "attack",
-      "title": "Исламский террористы атака Three деревни в Northeast Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected исламский террористы атакован three predominantly христианин деревни в Adamawa штат, Nigeria, на четверг (Oct. 8), убийство least one человек и поджог least one chu",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/islamic-terrorists-attack-three-villages-in-northeast-nigeria/",
       "victims": 0
     }
   ]
