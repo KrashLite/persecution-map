@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-18T23:39:22.606Z",
+    "lastUpdated": "2026-11-19T04:43:17.152Z",
     "totalEvents": 500
   },
   "events": [
@@ -38,6 +38,19 @@
       "lng": 9.4859,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "arrest",
+      "title": "Foursquare G.O. tasks graduands на integrity, national development",
+      "description": "Olayinka Latona General надзиратель Foursquare Gospel церковь в Nigeria, Rev. ЗУР Aboyeji, has обвинён graduating students LIFE Theological Seminary, Ikorodu, Lagos, uphold integrity и sound biblical doctrine as they prepare pre",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/11/foursquare-g-o-tasks-graduands-on-integrity-national-development/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-18",
+      "lat": 9.0959,
+      "lng": 7.3879,
+      "country": "Nigeria",
+      "city": "Abuja",
       "type": "arrest",
       "title": "Foursquare G.O. tasks graduands на integrity, national development",
       "description": "Olayinka Latona General надзиратель Foursquare Gospel церковь в Nigeria, Rev. ЗУР Aboyeji, has обвинён graduating students LIFE Theological Seminary, Ikorodu, Lagos, uphold integrity и sound biblical doctrine as they prepare pre",
@@ -155,6 +168,19 @@
       "lng": 12.9787,
       "country": "Nigeria",
       "city": "Borno",
+      "type": "attack",
+      "title": "Фулани боевики Kill 14 христиане в плато штат, Nigeria",
+      "description": "",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/17/fulani-militants-kill-14-christians-in-plateau-state-nigeria/",
+      "victims": 14
+    },
+    {
+      "date": "2026-11-17",
+      "lat": 11.9377,
+      "lng": 8.8193,
+      "country": "Nigeria",
+      "city": "Kano",
       "type": "attack",
       "title": "Фулани боевики Kill 14 христиане в плато штат, Nigeria",
       "description": "",
@@ -355,6 +381,32 @@
       "description": "",
       "source": "persecution",
       "url": "https://persecution.org/2026/11/16/hindu-nationalists-target-christians-in-west-bengal-india/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-16",
+      "lat": 24.8775,
+      "lng": 67.0412,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "kidnapping",
+      "title": "Cases похищение/вынужден обращение Unabated в Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – least 84 cases похищение и вынужден религиозный обращение minority girls и женщины were reported across Pakistan в первый 10 месяцы 2026, including 49 христианин victi",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/11/cases-of-abduction-forced-conversion-unabated-in-pakistan/",
+      "victims": 84
+    },
+    {
+      "date": "2026-11-16",
+      "lat": 8.9914,
+      "lng": 9.4548,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Мусульманин/мусульманин ticket fuels distrust в Nigeria, says архиепископ Ugorji",
+      "description": "Архиепископ Owerri и former президент Catholic епископы’ Conference Nigeria (CBCN), Most Rev. Lucius Iwejuru Ugorji has said мусульманин/мусульманин presidential ticket БТР heightens ongoing debates и fears surrounding alleged",
+      "source": "newsapi:Thechronicle.com.gh",
+      "url": "https://thechronicle.com.gh/muslim-muslim-ticket-fuels-distrust-in-nigeria-says-archbishop-ugorji/",
       "victims": 0
     },
     {
@@ -714,6 +766,19 @@
       "lng": 8.5531,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "attack",
+      "title": "Nigeria not doing enough stop атаки – US",
+      "description": "United штаты says Nigeria has not made sufficient progress в addressing атаки на христианские общины, warning its CPC designation should remain. Read More: https://punchng.com/nigeria-not-doing-enough--stop-атаки-us/",
+      "source": "newsapi:The Punch",
+      "url": "https://punchng.com/nigeria-not-doing-enough-to-stop-attacks-us/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-13",
+      "lat": 9.4527,
+      "lng": 9.5173,
+      "country": "Nigeria",
+      "city": "Plateau",
       "type": "attack",
       "title": "Nigeria not doing enough stop атаки – US",
       "description": "United штаты says Nigeria has not made sufficient progress в addressing атаки на христианские общины, warning its CPC designation should remain. Read More: https://punchng.com/nigeria-not-doing-enough--stop-атаки-us/",
@@ -6439,71 +6504,6 @@
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected исламский террористы атакован three predominantly христианин деревни в Adamawa штат, Nigeria, на четверг (Oct. 8), убийство least one человек и поджог least one chu",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/10/islamic-terrorists-attack-three-villages-in-northeast-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-12",
-      "lat": 33.7907,
-      "lng": 71.3812,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "murder",
-      "title": "Христианин’s смертный приговор Upheld под богохульство Law в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Pakistan’s Supreme суд на среда (Oct. 7) announced that it had upheld смертный приговор христианин осуждён под богохульство laws пока acquitting his брат, с right",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/christians-death-sentence-upheld-under-blasphemy-law-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-12",
-      "lat": 33.665,
-      "lng": 72.9011,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "other",
-      "title": "Pakistan: Bill Reform христианин Marriage Law Passes",
-      "description": "Bill seeks replace христианин Marriage Act 1872, law introduced во время British colonial rule 154 годы ago. Falbous Christopher, chairman Punjab собрание’s Standing комитет на Human Rights и Minority Affairs, introduced",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/10/12/pakistan-bill-to-reform-the-christian-marriage-law-passes/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-12",
-      "lat": 35.2348,
-      "lng": 44.4762,
-      "country": "Iraq",
-      "city": "Kirkuk",
-      "type": "discrimination",
-      "title": "Vatican scholarships keep христиане в Middle East",
-      "description": "Папа Leo XIV received Synod епископы Greek-Melkite церковь Antioch на октябрь 10, offering words solidarity с community that has lived для десятилетия под weight war, религиозный extremism, вынужден migration, и economic col",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/10/12/vatican-scholarships-to-keep-christians-in-the-middle-east/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-12",
-      "lat": 12.0631,
-      "lng": 13.2789,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "attack",
-      "title": "Исламский террористы атака Three деревни в Northeast Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected исламский террористы атакован three predominantly христианин деревни в Adamawa штат, Nigeria, на четверг (Oct. 8), убийство least one человек и поджог least one chu",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/islamic-terrorists-attack-three-villages-in-northeast-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-12",
-      "lat": 12.2304,
-      "lng": 8.6423,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "other",
-      "title": "My пастор is из Nigeria — Nicki Minaj",
-      "description": "Rapper Nicki Minaj says her Nigerian пастор influenced her decision speak out о alleged гонение христиане в Nigeria. Read More: https://punchng.com/my-пастор-is-из-nigeria-nicki-minaj/",
-      "source": "newsapi:The Punch",
-      "url": "https://punchng.com/my-pastor-is-from-nigeria-nicki-minaj/",
       "victims": 0
     }
   ]
