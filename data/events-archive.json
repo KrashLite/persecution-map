@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-19T14:47:12.111Z",
+    "lastUpdated": "2026-11-19T23:57:53.872Z",
     "totalEvents": 500
   },
   "events": [
@@ -17,6 +17,32 @@
       "description": "Ajak Mabior was allegedly убит her брат и cousin.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/south-sudan-christian-woman-killed-for-refusing-forced-marriage-to-muslim",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-19",
+      "lat": 15.4071,
+      "lng": 32.7257,
+      "country": "Sudan",
+      "city": "Khartoum",
+      "type": "murder",
+      "title": "Two пасторы, other христиане ранен в атака в South Sudan",
+      "description": "JUBA, South Sudan (утро Star News) – мусульманин беженцы из Sudan на воскресенье (Nov. 15) атакован церковь service лагерь беженцев в South Sudan, leaving two пасторы и several congregants ранен, according церковь sources. после facing смерть th",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/11/two-pastors-other-christians-injured-in-attack-in-south-sudan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-19",
+      "lat": 4.4835,
+      "lng": 18.668,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "Mexico’s Catholic street DJs turn annual паломничество в party",
+      "description": "Sea люди carrying statues Mexico’s patron saint, Virgin Guadalupe, marched along avenue leading up country’s most important basilica на среда. post Mexico’s Catholic street DJs turn annual паломничество в party",
+      "source": "crux",
+      "url": "https://cruxnow.com/church-in-the-americas/2026/11/mexicos-catholic-street-djs-turn-annual-pilgrimage-into-a-party/",
       "victims": 0
     },
     {
@@ -95,6 +121,45 @@
       "description": "Some 60,000 Catholics из around U.S. came together в июль 2024 для National Eucharistic конгресс, и сейчас it’s чиновник: next конгресс is coming в июль 2029, и it will also be held в Indianapolis. As central location с в",
       "source": "aleteia",
       "url": "https://aleteia.org/2026/11/18/where-will-the-next-national-eucharistic-congress-be/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-18",
+      "lat": 36.1309,
+      "lng": 59.768,
+      "country": "Iran",
+      "city": "Mashhad",
+      "type": "murder",
+      "title": "Iran’s исламский Regime Kills 33 христианин министры и Seizes American-Founded церковь, Yet Thousands Still Convert",
+      "description": "Iran's исламский regime has убит least 33 христианин министры и задержан more than 130 others tied подпольная церковь в recent месяцы, according Iran Alive министерства, Texas-based министерство that supports домашние церкви в Iran. p",
+      "source": "newsapi:Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/11/irans-islamic-regime-kills-33-christian-ministers-seizes/",
+      "victims": 33
+    },
+    {
+      "date": "2026-11-18",
+      "lat": 27.0899,
+      "lng": 80.9842,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "other",
+      "title": "Where will next National Eucharistic конгресс be?",
+      "description": "Some 60,000 Catholics из around U.S. came together в июль 2024 для National Eucharistic конгресс, и сейчас it’s чиновник: next конгресс is coming в июль 2029, и it will also be held в Indianapolis. As central location с в",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/11/18/where-will-the-next-national-eucharistic-congress-be/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-18",
+      "lat": 12.076,
+      "lng": 8.6696,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "attack",
+      "title": "Nigeria Report: Herders Destroy Tomato Farm, боевики рана Farmer в плато штат",
+      "description": "Armed фулани herders continue рейд христианин деревни в Nigeria’s Middle Belt и destroy crops starve residents и сила them leave their communities. post Nigeria Report: Herders Destroy Tomato Farm, боевики рана Farmer в плато St",
+      "source": "newsapi:Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/11/nigeria-report-herders-destroy-tomato-farm-gunmen-wound/",
       "victims": 0
     },
     {
@@ -233,6 +298,19 @@
       "lng": 7.2784,
       "country": "Nigeria",
       "city": "Abuja",
+      "type": "murder",
+      "title": "17 Nigerian христиане погиб в плен после Пасха церковь похищения",
+      "description": "Seventeen христиане похищен во время Пасха воскресенье церковь services в Nigeria have погиб в плен, according reports из христианские благотворительные фонды, с выжившие describing голодание, illness и brutal conditions.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/17-nigerian-christians-died-in-captivity-after-easter-church-abductions",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-17",
+      "lat": 9.3467,
+      "lng": 9.5123,
+      "country": "Nigeria",
+      "city": "Plateau",
       "type": "murder",
       "title": "17 Nigerian христиане погиб в плен после Пасха церковь похищения",
       "description": "Seventeen христиане похищен во время Пасха воскресенье церковь services в Nigeria have погиб в плен, according reports из христианские благотворительные фонды, с выжившие describing голодание, illness и brutal conditions.",
@@ -459,6 +537,19 @@
       "description": "Архиепископ Owerri и former президент Catholic епископы’ Conference Nigeria (CBCN), Most Rev. Lucius Iwejuru Ugorji has said мусульманин/мусульманин presidential ticket БТР heightens ongoing debates и fears surrounding alleged",
       "source": "newsapi:Thechronicle.com.gh",
       "url": "https://thechronicle.com.gh/muslim-muslim-ticket-fuels-distrust-in-nigeria-says-archbishop-ugorji/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-16",
+      "lat": 18.8439,
+      "lng": 73.0839,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "other",
+      "title": "Индус Nationalists Target христиане в West Bengal, India",
+      "description": "",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/16/hindu-nationalists-target-christians-in-west-bengal-india/",
       "victims": 0
     },
     {
@@ -6413,97 +6504,6 @@
       "description": "Христианин’s home и adjoining pharmacy в Pakistan’s Sheikhupura район were сожжён толпа на Oct. 9 following богохульство allegation, sparking safety fears для his семья и neighboring христианин residents. Kamran Gill, 40-год-old fa",
       "source": "persecution",
       "url": "https://persecution.org/2026/10/13/mob-burns-christian-mans-home-pharmacy-over-blasphemy-allegation/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-12",
-      "lat": 33.4484,
-      "lng": 44.1764,
-      "country": "Iraq",
-      "city": "Baghdad",
-      "type": "discrimination",
-      "title": "Vatican scholarships keep христиане в Middle East",
-      "description": "Папа Leo XIV received Synod епископы Greek-Melkite церковь Antioch на октябрь 10, offering words solidarity с community that has lived для десятилетия под weight war, религиозный extremism, вынужден migration, и economic col",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/10/12/vatican-scholarships-to-keep-christians-in-the-middle-east/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-12",
-      "lat": 6.6685,
-      "lng": 3.4719,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "My Nigerian пастор inspired me speak out на христианин гонение — Nicki Minaj",
-      "description": "“для Nigeria personally, my пастор is из Nigeria, so I have link Nigeria because him. и course, I have lot Nigerian barbs, but what I started seeing was жестокость с which христиане are being treated there just для being Ch",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/10/my-nigerian-pastor-inspired-me-to-speak-out-on-christian-persecution-nicki-minaj/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-12",
-      "lat": 10.4725,
-      "lng": 7.4797,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "other",
-      "title": "My пастор is из Nigeria — Nicki Minaj",
-      "description": "Rapper Nicki Minaj says her Nigerian пастор influenced her decision speak out о alleged гонение христиане в Nigeria. Read More: https://punchng.com/my-пастор-is-из-nigeria-nicki-minaj/",
-      "source": "punchng",
-      "url": "https://punchng.com/my-pastor-is-from-nigeria-nicki-minaj/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-12",
-      "lat": 8.8332,
-      "lng": 38.527,
-      "country": "Ethiopia",
-      "city": "Addis Ababa",
-      "type": "other",
-      "title": "Who was Ethiopian eunuch и what can we learn из him?",
-      "description": "Когда we think о history христианство в Africa, we май немедленно think European миссионеры who travelled continent spread gospel. Yet Africa’s connection христианство stretches much further back, earliest день",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/who-was-the-ethiopian-eunuch-and-what-can-we-learn-from-him",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-12",
-      "lat": 36.372,
-      "lng": 43.2224,
-      "country": "Iraq",
-      "city": "Mosul",
-      "type": "discrimination",
-      "title": "Vatican scholarships keep христиане в Middle East",
-      "description": "Папа Leo XIV received Synod епископы Greek-Melkite церковь Antioch на октябрь 10, offering words solidarity с community that has lived для десятилетия под weight war, религиозный extremism, вынужден migration, и economic col",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/10/12/vatican-scholarships-to-keep-christians-in-the-middle-east/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-12",
-      "lat": 9.3515,
-      "lng": 9.5861,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "attack",
-      "title": "Исламский террористы атака Three деревни в Northeast Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Suspected исламский террористы атакован three predominantly христианин деревни в Adamawa штат, Nigeria, на четверг (Oct. 8), убийство least one человек и поджог least one chu",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/islamic-terrorists-attack-three-villages-in-northeast-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-12",
-      "lat": 33.7366,
-      "lng": 73.0174,
-      "country": "Pakistan",
-      "city": "Islamabad",
-      "type": "murder",
-      "title": "Христианин’s смертный приговор Upheld под богохульство Law в Pakistan",
-      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Pakistan’s Supreme суд на среда (Oct. 7) announced that it had upheld смертный приговор христианин осуждён под богохульство laws пока acquitting his брат, с right",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/christians-death-sentence-upheld-under-blasphemy-law-in-pakistan/",
       "victims": 0
     }
   ]
