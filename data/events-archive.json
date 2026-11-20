@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-20T05:01:05.571Z",
+    "lastUpdated": "2026-11-20T14:28:35.539Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-11-20",
+      "lat": 4.4255,
+      "lng": 18.4493,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "attack",
+      "title": "Serious reason behind Thank Your священник кампания",
+      "description": "We smile и say hello them every воскресенье месса, и tell them our deepest, darkest secrets в confessional. They baptize our дети, свидетель our marriages, и give us Anointing когда we осень ill. We depend на our священники, и we apprec",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/11/20/the-serious-reason-behind-thank-your-priest-campaign/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-20",
+      "lat": 11.7765,
+      "lng": 8.4857,
+      "country": "Nigeria",
+      "city": "Kano",
+      "type": "discrimination",
+      "title": "Fountain Life denies закрытие amid leadership crisis",
+      "description": "OLAYINKA LATONA LAGOS — Fountain Life церковь has отказано reports that its premises have been опечатан, insisting that церковь remains open, although access its facilities is в настоящее время ограничен amid ongoing leadership dispute. ch",
+      "source": "nigerianews",
+      "url": "https://www.vanguardngr.com/2026/11/fountain-of-life-denies-closure-amid-leadership-crisis/",
+      "victims": 0
+    },
     {
       "date": "2026-11-19",
       "lat": 15.258,
@@ -43,6 +69,32 @@
       "description": "Sea люди carrying statues Mexico’s patron saint, Virgin Guadalupe, marched along avenue leading up country’s most important basilica на среда. post Mexico’s Catholic street DJs turn annual паломничество в party",
       "source": "crux",
       "url": "https://cruxnow.com/church-in-the-americas/2026/11/mexicos-catholic-street-djs-turn-annual-pilgrimage-into-a-party/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-19",
+      "lat": 11.9334,
+      "lng": 13.0659,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "other",
+      "title": "Super Bowl champ Ben Watson speaks out на христианин Nigerian гонение, double-standards и Trump's impact",
+      "description": "Super Bowl champion Benjamin Watson says he doesn't trust US leadership protect преследуемый христиане в Nigeria without public pressure на lawmakers.",
+      "source": "newsapi:Fox News",
+      "url": "https://www.foxnews.com/outkick-sports/super-bowl-champ-ben-watson-speaks-christian-nigerian-persecution-double-standards-trumps-impact",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-19",
+      "lat": -4.6393,
+      "lng": 15.3261,
+      "country": "Democratic Republic of the Congo",
+      "city": "Kinshasa",
+      "type": "other",
+      "title": "Ислам Projected Overtake христианство as World’s Largest религия — America Lose христианин Majority as Congo Takes Top Spot, Study Warns",
+      "description": "Major new скамья Research Center report released среда projects that мусульмане will surpass христиане as world’s largest религиозный group 2035. post ислам Projected Overtake христианство as World’s Largest религия — America Lose Ch",
+      "source": "newsapi:Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/11/islam-projected-overtake-christianity-as-worlds-largest-religion/",
       "victims": 0
     },
     {
@@ -6452,58 +6504,6 @@
       "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Unidentified боевики застрелен и убит христианка volunteering с Nigerian Red крест Society в Oct. 6 атака на her team’s vehicle в Sokoto штат, sources said. Lydia N",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/10/christian-humanitarian-worker-slain-in-northwest-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-13",
-      "lat": 21.055,
-      "lng": 81.7923,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "other",
-      "title": "Chhattisgarh’s Anti-обращение Law Challenged в суд",
-      "description": "Petition challenging validity Chhattisgarh Freedom религия Act, 2026, was heard в Chhattisgarh High суд на Oct. 8, even as intense гонение христианская община в central Indian штат continues unabated. Bas",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/13/chhattisgarhs-anti-conversion-law-challenged-in-court/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-13",
-      "lat": 11.9041,
-      "lng": 13.0419,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Христианин Humanitarian Worker убит в Northwest Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Unidentified боевики застрелен и убит христианка volunteering с Nigerian Red крест Society в Oct. 6 атака на her team’s vehicle в Sokoto штат, sources said. Lydia N",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/christian-humanitarian-worker-slain-in-northwest-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-13",
-      "lat": 31.3228,
-      "lng": 74.1843,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "attack",
-      "title": "Толпа Burns христианин’s Home, Pharmacy богохульство Allegation",
-      "description": "Христианин’s home и adjoining pharmacy в Pakistan’s Sheikhupura район were сожжён толпа на Oct. 9 following богохульство allegation, sparking safety fears для his семья и neighboring христианин residents. Kamran Gill, 40-год-old fa",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/13/mob-burns-christian-mans-home-pharmacy-over-blasphemy-allegation/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-13",
-      "lat": 24.9816,
-      "lng": 67.0962,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "attack",
-      "title": "Толпа Burns христианин’s Home, Pharmacy богохульство Allegation",
-      "description": "Христианин’s home и adjoining pharmacy в Pakistan’s Sheikhupura район were сожжён толпа на Oct. 9 following богохульство allegation, sparking safety fears для his семья и neighboring христианин residents. Kamran Gill, 40-год-old fa",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/13/mob-burns-christian-mans-home-pharmacy-over-blasphemy-allegation/",
       "victims": 0
     }
   ]
