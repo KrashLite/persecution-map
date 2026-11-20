@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-20T14:28:35.539Z",
+    "lastUpdated": "2026-11-20T23:26:50.372Z",
     "totalEvents": 500
   },
   "events": [
@@ -31,6 +31,32 @@
       "source": "nigerianews",
       "url": "https://www.vanguardngr.com/2026/11/fountain-of-life-denies-closure-amid-leadership-crisis/",
       "victims": 0
+    },
+    {
+      "date": "2026-11-20",
+      "lat": 10.448,
+      "lng": 7.4087,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "discrimination",
+      "title": "Blessed таинство stolen из chapel в Nigeria",
+      "description": "Chapel в Nigeria is осквернён, support для преследуемый христиане rises в Austria, entry в U.S. is отказано Palestinian Orthodox священник, и more в на этой неделе’s world news roundup.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/blessed-sacrament-stolen-from-chapel-in-nigeria",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-20",
+      "lat": -5.9658,
+      "lng": 107.0008,
+      "country": "Indonesia",
+      "city": "Jakarta",
+      "type": "other",
+      "title": "Исламский Supremacy Cited в оппозиция церковь в Indonesia",
+      "description": "SURABAYA, Indonesia (утро Star News) – Despite церковь в Indonesia fulfilling all legal requirements construct богослужение building, hundreds мусульмане на Nov. 6 protested, citing need для исламский supremacy, sources said. в West Java Provin",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/11/islamic-supremacy-cited-in-opposition-to-church-in-indonesia/",
+      "victims": 150
     },
     {
       "date": "2026-11-19",
@@ -95,6 +121,32 @@
       "description": "Major new скамья Research Center report released среда projects that мусульмане will surpass христиане as world’s largest религиозный group 2035. post ислам Projected Overtake христианство as World’s Largest религия — America Lose Ch",
       "source": "newsapi:Thegatewaypundit.com",
       "url": "https://www.thegatewaypundit.com/2026/11/islam-projected-overtake-christianity-as-worlds-largest-religion/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-19",
+      "lat": 8.9263,
+      "lng": 7.431,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Super Bowl champ Ben Watson speaks out на христианин Nigerian гонение, double-standards и Trump's impact",
+      "description": "Super Bowl champion Benjamin Watson says he doesn't trust US leadership protect преследуемый христиане в Nigeria without public pressure на lawmakers.",
+      "source": "newsapi:Fox News",
+      "url": "https://www.foxnews.com/outkick-sports/super-bowl-champ-ben-watson-speaks-christian-nigerian-persecution-double-standards-trumps-impact",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-19",
+      "lat": 29.1072,
+      "lng": 33.0319,
+      "country": "Egypt",
+      "city": "Sinai",
+      "type": "murder",
+      "title": "EXCLUSIVE: Egypt Seeks Execute христианин-конверт Amid пытки Allegations, GOP Lawmakers Step в",
+      "description": "Letter signed GOP House members calls на Egyptian президент release христианин-конверт facing possibility смерть penalty.",
+      "source": "newsapi:The Daily Caller",
+      "url": "https://dailycaller.com/2026/11/19/egypt-anti-christian-execute-convert-abdel-fattah-el-sisi-riley-moore-said-abdelrazek/",
       "victims": 0
     },
     {
@@ -207,6 +259,19 @@
       "lng": 8.6696,
       "country": "Nigeria",
       "city": "Kano",
+      "type": "attack",
+      "title": "Nigeria Report: Herders Destroy Tomato Farm, боевики рана Farmer в плато штат",
+      "description": "Armed фулани herders continue рейд христианин деревни в Nigeria’s Middle Belt и destroy crops starve residents и сила them leave their communities. post Nigeria Report: Herders Destroy Tomato Farm, боевики рана Farmer в плато St",
+      "source": "newsapi:Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/11/nigeria-report-herders-destroy-tomato-farm-gunmen-wound/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-18",
+      "lat": 11.9374,
+      "lng": 13.3694,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "attack",
       "title": "Nigeria Report: Herders Destroy Tomato Farm, боевики рана Farmer в плато штат",
       "description": "Armed фулани herders continue рейд христианин деревни в Nigeria’s Middle Belt и destroy crops starve residents и сила them leave their communities. post Nigeria Report: Herders Destroy Tomato Farm, боевики рана Farmer в плато St",
@@ -597,6 +662,19 @@
       "lng": 73.0839,
       "country": "India",
       "city": "Mumbai",
+      "type": "other",
+      "title": "Индус Nationalists Target христиане в West Bengal, India",
+      "description": "",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/16/hindu-nationalists-target-christians-in-west-bengal-india/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-16",
+      "lat": 27.0252,
+      "lng": 81.018,
+      "country": "India",
+      "city": "Uttar Pradesh",
       "type": "other",
       "title": "Индус Nationalists Target христиане в West Bengal, India",
       "description": "",
@@ -6426,84 +6504,6 @@
       "description": "Petition challenging validity Chhattisgarh Freedom религия Act, 2026, was heard в Chhattisgarh High суд на Oct. 8, even as intense гонение христианская община в central Indian штат continues unabated. Bas",
       "source": "persecution",
       "url": "https://persecution.org/2026/10/13/chhattisgarhs-anti-conversion-law-challenged-in-court/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-13",
-      "lat": 28.5942,
-      "lng": 77.316,
-      "country": "India",
-      "city": "Delhi",
-      "type": "other",
-      "title": "Chhattisgarh’s Anti-обращение Law Challenged в суд",
-      "description": "Petition challenging validity Chhattisgarh Freedom религия Act, 2026, was heard в Chhattisgarh High суд на Oct. 8, even as intense гонение христианская община в central Indian штат continues unabated. Bas",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/13/chhattisgarhs-anti-conversion-law-challenged-in-court/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-13",
-      "lat": 31.6608,
-      "lng": 74.1095,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "kidnapping",
-      "title": "Pakistani суд orders reopening case involving young христианка похищен, вынужден convert, и married 30-год-old мужчина",
-      "description": "High суд в Pakistan ordered reopening полиция investigation в case Maria Shahbaz, 13-год-old girl who was похищен и вынужден marry her abductor. post Pakistani суд orders reopening case involving young христианка",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/10/13/pakistani-court-orders-reopening-of-case-involving-young-christian-woman-abducted-forced-to-convert-and-married-to-a-30-year-old-man/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-13",
-      "lat": 19.1713,
-      "lng": 72.7578,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "other",
-      "title": "Chhattisgarh’s Anti-обращение Law Challenged в суд",
-      "description": "Petition challenging validity Chhattisgarh Freedom религия Act, 2026, was heard в Chhattisgarh High суд на Oct. 8, even as intense гонение христианская община в central Indian штат continues unabated. Bas",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/13/chhattisgarhs-anti-conversion-law-challenged-in-court/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-13",
-      "lat": 12.2478,
-      "lng": 8.4955,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Христианин Humanitarian Worker убит в Northwest Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Unidentified боевики застрелен и убит христианка volunteering с Nigerian Red крест Society в Oct. 6 атака на her team’s vehicle в Sokoto штат, sources said. Lydia N",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/christian-humanitarian-worker-slain-in-northwest-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-13",
-      "lat": 24.9716,
-      "lng": 67.1574,
-      "country": "Pakistan",
-      "city": "Karachi",
-      "type": "kidnapping",
-      "title": "Pakistani суд orders reopening case involving young христианка похищен, вынужден convert, и married 30-год-old мужчина",
-      "description": "High суд в Pakistan ordered reopening полиция investigation в case Maria Shahbaz, 13-год-old girl who was похищен и вынужден marry her abductor. post Pakistani суд orders reopening case involving young христианка",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/10/13/pakistani-court-orders-reopening-of-case-involving-young-christian-woman-abducted-forced-to-convert-and-married-to-a-30-year-old-man/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-13",
-      "lat": 9.3049,
-      "lng": 9.6797,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "Христианин Humanitarian Worker убит в Northwest Nigeria",
-      "description": "ABUJA, Nigeria (христианин Daily International–утро Star News) – Unidentified боевики застрелен и убит христианка volunteering с Nigerian Red крест Society в Oct. 6 атака на her team’s vehicle в Sokoto штат, sources said. Lydia N",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/christian-humanitarian-worker-slain-in-northwest-nigeria/",
       "victims": 0
     }
   ]
