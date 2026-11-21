@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-21T13:47:30.957Z",
+    "lastUpdated": "2026-11-21T22:30:43.519Z",
     "totalEvents": 500
   },
   "events": [
@@ -111,6 +111,19 @@
       "victims": 0
     },
     {
+      "date": "2026-11-21",
+      "lat": 31.3083,
+      "lng": 74.5459,
+      "country": "Pakistan",
+      "city": "Lahore",
+      "type": "kidnapping",
+      "title": "Христианин group calls для молитва для вынужден marriage жертвы в Pakistan",
+      "description": "Every год it is estimated that around 1,000 girls в Pakistan are похищен, forcibly converted ислам и married, often much older мужчина.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christian-group-calls-for-prayer-for-forced-marriage-victims-in-pakistan",
+      "victims": 0
+    },
+    {
       "date": "2026-11-20",
       "lat": 4.4255,
       "lng": 18.4493,
@@ -186,6 +199,19 @@
       "description": "",
       "source": "persecution",
       "url": "https://persecution.org/2026/11/20/vietnam-demolishes-historic-catholic-property-amid-church-land-dispute/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-20",
+      "lat": 6.466,
+      "lng": 3.2827,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "discrimination",
+      "title": "Blessed таинство stolen из chapel в Nigeria",
+      "description": "Chapel в Nigeria is осквернён, support для преследуемый христиане rises в Austria, entry в U.S. is отказано Palestinian Orthodox священник, и more в на этой неделе’s world news roundup.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/blessed-sacrament-stolen-from-chapel-in-nigeria",
       "victims": 0
     },
     {
@@ -316,6 +342,32 @@
       "description": "Super Bowl champion Benjamin Watson says he doesn't trust US leadership protect преследуемый христиане в Nigeria without public pressure на lawmakers.",
       "source": "newsapi:Fox News",
       "url": "https://www.foxnews.com/outkick-sports/super-bowl-champ-ben-watson-speaks-christian-nigerian-persecution-double-standards-trumps-impact",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-19",
+      "lat": 10.6125,
+      "lng": 7.3502,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Super Bowl champ Ben Watson speaks out на христианин Nigerian гонение, double-standards и Trump's impact",
+      "description": "Super Bowl champion Benjamin Watson says he doesn't trust US leadership protect преследуемый христиане в Nigeria without public pressure на lawmakers.",
+      "source": "newsapi:Fox News",
+      "url": "https://www.foxnews.com/outkick-sports/super-bowl-champ-ben-watson-speaks-christian-nigerian-persecution-double-standards-trumps-impact",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-19",
+      "lat": 30.2834,
+      "lng": 31.4444,
+      "country": "Egypt",
+      "city": "Cairo",
+      "type": "murder",
+      "title": "EXCLUSIVE: Egypt Seeks Execute христианин-конверт Amid пытки Allegations, GOP Lawmakers Step в",
+      "description": "Letter signed GOP House members calls на Egyptian президент release христианин-конверт facing possibility смерть penalty.",
+      "source": "newsapi:The Daily Caller",
+      "url": "https://dailycaller.com/2026/11/19/egypt-anti-christian-execute-convert-abdel-fattah-el-sisi-riley-moore-said-abdelrazek/",
       "victims": 0
     },
     {
@@ -636,6 +688,19 @@
       "lng": 9.5123,
       "country": "Nigeria",
       "city": "Plateau",
+      "type": "murder",
+      "title": "17 Nigerian христиане погиб в плен после Пасха церковь похищения",
+      "description": "Seventeen христиане похищен во время Пасха воскресенье церковь services в Nigeria have погиб в плен, according reports из христианские благотворительные фонды, с выжившие describing голодание, illness и brutal conditions.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/17-nigerian-christians-died-in-captivity-after-easter-church-abductions",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-17",
+      "lat": 6.5819,
+      "lng": 3.4756,
+      "country": "Nigeria",
+      "city": "Lagos",
       "type": "murder",
       "title": "17 Nigerian христиане погиб в плен после Пасха церковь похищения",
       "description": "Seventeen христиане похищен во время Пасха воскресенье церковь services в Nigeria have погиб в плен, according reports из христианские благотворительные фонды, с выжившие describing голодание, illness и brutal conditions.",
@@ -6439,71 +6504,6 @@
       "description": "Из Azekh (Idil в Turkish) деревня Anhel (Yemisli), there have been worrying cases violations rights Assyrian-Chaldeans. в addition private homes, guesthouse belonging Syriac православная церковь has also been targete",
       "source": "zenit",
       "url": "https://zenit.org/2026/10/15/names-denied-and-properties-demolished-for-turkeys-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-15",
-      "lat": 11.798,
-      "lng": 13.3276,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "murder",
-      "title": "Христианин Red крест volunteer убит в northwest Nigeria",
-      "description": "Боевики засада aid team vehicle.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christian-red-cross-volunteer-slain-in-northwest-nigeria",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-15",
-      "lat": 11.9484,
-      "lng": 8.7113,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Христианин Red крест volunteer убит в northwest Nigeria",
-      "description": "Боевики засада aid team vehicle.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christian-red-cross-volunteer-slain-in-northwest-nigeria",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-14",
-      "lat": 6.5903,
-      "lng": 3.1472,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "attack",
-      "title": "Nigeria Catholic parish, больница и 3 школы suspend activities indefinitely amid insecurity",
-      "description": "Catholic Diocese Gboko has suspended операции number Catholic institutions в Ihugh withdrawing all diocesan personnel due ongoing violence, атаки, и угрозы.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/nigeria-catholic-parish-hospital-and-3-schools-suspend-activities-indefinitely-amid-insecurity",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-14",
-      "lat": 6.7469,
-      "lng": 3.3706,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Complete первый tenure до seeking re-election, Anglican епископ tells Tinubu",
-      "description": "Ogbaru Diocese warns against ‘commercial политики’ misleading президент Chimaobi Nwaiwu NNEWI — церковь Nigeria, Anglican причастие, Diocese Ogbaru, Anambra штат, has urged президент Bola Tinubu focus на completing his первый tenure",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/10/complete-first-tenure-before-seeking-re-election-anglican-bishop-tells-tinubu/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-14",
-      "lat": 4.5598,
-      "lng": 18.7252,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "other",
-      "title": "Ohio’s университет Dayton names первый женщина президент",
-      "description": "Университет Dayton announced its первый женщина президент, пока Catholic high школы в Cleveland и Omaha launched career development programs в на этой неделе’s roundup Catholic education news.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/us/ohio-university-of-dayton-names-first-woman-president",
       "victims": 0
     }
   ]
