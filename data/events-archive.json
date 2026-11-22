@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-22T03:42:21.671Z",
+    "lastUpdated": "2026-11-22T13:41:10.851Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-11-22",
+      "lat": 10.3535,
+      "lng": 7.207,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Церковь crisis: Jimmy Odukoya’s old birthday tribute сестра resurfaces",
+      "description": "Jimmy Odukoya’s 2025 birthday tribute his сестра Tolu Odukoya resurfaces as Nigerians react Fountain Life церковь leadership dispute. Read More: https://punchng.com/церковь-crisis-jimmy-odukoyas-old-birthday-tribute--сестра-resurfaces/",
+      "source": "punchng",
+      "url": "https://punchng.com/church-crisis-jimmy-odukoyas-old-birthday-tribute-to-sister-resurfaces/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-22",
+      "lat": 9.1053,
+      "lng": 38.7638,
+      "country": "Ethiopia",
+      "city": "Addis Ababa",
+      "type": "other",
+      "title": "Kenyan священник urges continued welcome для люди fleeing fighting в Ethiopia",
+      "description": "“Let us not give up на them,” Father Edward Ltange, parish священник working в Kenyan border посёлок Moyale, said Ethiopians who have fled their country due violence.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/africa/kenyan-priest-urges-continued-welcome-for-people-fleeing-fighting-in-ethiopia",
+      "victims": 0
+    },
     {
       "date": "2026-11-21",
       "lat": 10.7041,
@@ -129,6 +155,19 @@
       "lng": 74.1444,
       "country": "Pakistan",
       "city": "Lahore",
+      "type": "other",
+      "title": "Advocacy усилия для Pakistani христианин’s Release Grow More Urgent",
+      "description": "",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/21/advocacy-efforts-for-pakistani-christians-release-grow-more-urgent/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-21",
+      "lat": 33.8733,
+      "lng": 73.0133,
+      "country": "Pakistan",
+      "city": "Islamabad",
       "type": "other",
       "title": "Advocacy усилия для Pakistani христианин’s Release Grow More Urgent",
       "description": "",
@@ -6465,45 +6504,6 @@
       "description": "Христианин гонение charity Open Doors has appealed для молитвы для верующие в Syria following another armed атака на predominantly христианин посёлок Al-Suqaylabiyah.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/open-doors-calls-for-prayer-for-syrian-christians-following-renewed-violence",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-15",
-      "lat": 33.3528,
-      "lng": 36.4905,
-      "country": "Syria",
-      "city": "Damascus",
-      "type": "discrimination",
-      "title": "Names отказано и properties снесён для Turkey’s христиане",
-      "description": "Из Azekh (Idil в Turkish) деревня Anhel (Yemisli), there have been worrying cases violations rights Assyrian-Chaldeans. в addition private homes, guesthouse belonging Syriac православная церковь has also been targete",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/10/15/names-denied-and-properties-demolished-for-turkeys-christians/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-15",
-      "lat": 6.4711,
-      "lng": 3.4319,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "murder",
-      "title": "Христианин Red крест volunteer убит в northwest Nigeria",
-      "description": "Боевики засада aid team vehicle.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christian-red-cross-volunteer-slain-in-northwest-nigeria",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-15",
-      "lat": 36.245,
-      "lng": 37.0065,
-      "country": "Syria",
-      "city": "Aleppo",
-      "type": "discrimination",
-      "title": "Names отказано и properties снесён для Turkey’s христиане",
-      "description": "Из Azekh (Idil в Turkish) деревня Anhel (Yemisli), there have been worrying cases violations rights Assyrian-Chaldeans. в addition private homes, guesthouse belonging Syriac православная церковь has also been targete",
-      "source": "zenit",
-      "url": "https://zenit.org/2026/10/15/names-denied-and-properties-demolished-for-turkeys-christians/",
       "victims": 0
     }
   ]
