@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-22T13:41:10.851Z",
+    "lastUpdated": "2026-11-22T22:54:13.685Z",
     "totalEvents": 500
   },
   "events": [
@@ -449,6 +449,19 @@
       "victims": 0
     },
     {
+      "date": "2026-11-19",
+      "lat": 9.1729,
+      "lng": 9.5474,
+      "country": "Nigeria",
+      "city": "Plateau",
+      "type": "other",
+      "title": "Super Bowl champ Ben Watson speaks out на христианин Nigerian гонение, double-standards и Trump's impact",
+      "description": "Super Bowl champion Benjamin Watson says he doesn't trust US leadership protect преследуемый христиане в Nigeria without public pressure на lawmakers.",
+      "source": "newsapi:Fox News",
+      "url": "https://www.foxnews.com/outkick-sports/super-bowl-champ-ben-watson-speaks-christian-nigerian-persecution-double-standards-trumps-impact",
+      "victims": 0
+    },
+    {
       "date": "2026-11-18",
       "lat": 19.2761,
       "lng": 72.9794,
@@ -616,6 +629,19 @@
       "source": "newsapi:Thegatewaypundit.com",
       "url": "https://www.thegatewaypundit.com/2026/11/nigeria-report-herders-destroy-tomato-farm-gunmen-wound/",
       "victims": 0
+    },
+    {
+      "date": "2026-11-18",
+      "lat": 35.9382,
+      "lng": 51.6285,
+      "country": "Iran",
+      "city": "Tehran",
+      "type": "murder",
+      "title": "Iran’s исламский Regime Kills 33 христианин министры и Seizes American-Founded церковь, Yet Thousands Still Convert",
+      "description": "Iran's исламский regime has убит least 33 христианин министры и задержан more than 130 others tied подпольная церковь в recent месяцы, according Iran Alive министерства, Texas-based министерство that supports домашние церкви в Iran. p",
+      "source": "newsapi:Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/11/irans-islamic-regime-kills-33-christian-ministers-seizes/",
+      "victims": 33
     },
     {
       "date": "2026-11-17",
@@ -6478,32 +6504,6 @@
       "description": "Боевики засада aid team vehicle.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/christian-red-cross-volunteer-slain-in-northwest-nigeria",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-15",
-      "lat": 19.488,
-      "lng": -99.1469,
-      "country": "Mexico",
-      "city": "Mexico City",
-      "type": "other",
-      "title": "Mexican церковь holds colloquium на forgotten период fierce гонение",
-      "description": "One hundred годы после start Catholic сопротивление that led Cristero War, церковь в Mexico proposes re-examining this период “objectively.”",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/americas/mexican-church-holding-colloquium-on-forgotten-period-of-fierce-persecution",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-15",
-      "lat": 36.1309,
-      "lng": 36.9556,
-      "country": "Syria",
-      "city": "Aleppo",
-      "type": "attack",
-      "title": "Open Doors calls для молитва для Syrian христиане following renewed violence",
-      "description": "Христианин гонение charity Open Doors has appealed для молитвы для верующие в Syria following another armed атака на predominantly христианин посёлок Al-Suqaylabiyah.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/open-doors-calls-for-prayer-for-syrian-christians-following-renewed-violence",
       "victims": 0
     }
   ]
