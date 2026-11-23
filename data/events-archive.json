@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-23T04:18:13.769Z",
+    "lastUpdated": "2026-11-23T16:38:46.672Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-11-23",
+      "lat": 15.3837,
+      "lng": 32.5363,
+      "country": "Sudan",
+      "city": "Khartoum",
+      "type": "other",
+      "title": "Vast medieval церковь emerges из Sudanese пустыня",
+      "description": "Sudanese-Polish archaeological team has reached original floor what май be largest церковь ever built в medieval христианин Africa, uncovering monumental staircase в process и raising new questions о религиозный geography o",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/11/23/a-vast-medieval-church-emerges-from-the-sudanese-desert/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-23",
+      "lat": 4.3581,
+      "lng": 18.6247,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "arrest",
+      "title": "14-год-old named Venerable и Leo approves his 1st canonization",
+      "description": "На ноябрь 21, 2026, папа Leo XIV approved steps forward в number sainthood causes, including approving his первый canonization. папа Leo has already officiated number canonizations, but those were all approved his predecessor. l",
+      "source": "aleteia",
+      "url": "https://aleteia.org/2026/11/23/14-year-old-named-venerable-and-leo-approves-his-1st-canonization/",
+      "victims": 0
+    },
     {
       "date": "2026-11-22",
       "lat": 10.3535,
@@ -30,6 +56,19 @@
       "description": "“Let us not give up на them,” Father Edward Ltange, parish священник working в Kenyan border посёлок Moyale, said Ethiopians who have fled their country due violence.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/kenyan-priest-urges-continued-welcome-for-people-fleeing-fighting-in-ethiopia",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-22",
+      "lat": 4.6326,
+      "lng": 18.5082,
+      "country": "Central African Republic",
+      "city": "Bangui",
+      "type": "other",
+      "title": "Diocesan mergers, Jubilee Redemption в 2033, и bicentennial Catholic emancipation: agenda для English епископы their 2026 meeting",
+      "description": "Roman Catholic Relief Act 1829, more commonly known as Catholic Emancipation Act, was passed парламент и became law на 13 апрель 1829. This landmark measure allowed Catholics sit as MPs, vote в elections и hold most senior governme",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/11/22/diocesan-mergers-the-jubilee-of-the-redemption-in-2033-and-the-bicentennial-of-catholic-emancipation-the-agenda-for-the-english-bishops-at-their-2026-meeting/",
       "victims": 0
     },
     {
@@ -186,6 +225,32 @@
       "description": "Every год it is estimated that around 1,000 girls в Pakistan are похищен, forcibly converted ислам и married, often much older мужчина.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/christian-group-calls-for-prayer-for-forced-marriage-victims-in-pakistan",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-21",
+      "lat": -4.1214,
+      "lng": 39.7689,
+      "country": "Kenya",
+      "city": "Mombasa",
+      "type": "other",
+      "title": "Kenyan епископы Warn Against Electoral Secrecy и политический запугивание Ahead 2027 Vote",
+      "description": "Епископы were equally firm о keeping партизан politics out католические церкви. священники were explicitly instructed not allow политический speeches в церкви anywhere в country. богослужение spaces, they said, must remain places молитва, p",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/11/21/kenyan-bishops-warn-against-electoral-secrecy-and-political-intimidation-ahead-of-2027-vote/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-21",
+      "lat": 36.1569,
+      "lng": 37.3138,
+      "country": "Syria",
+      "city": "Aleppo",
+      "type": "attack",
+      "title": "Honor is bestowed upon монахиня who remained among Syrian христиане as взрывы из “Исламское государство” fell",
+      "description": "Award ceremony formed centrepiece ACN's national #RedWednesday celebration, which saw cathedral illuminated в red as христиане across UK stood в solidarity с преследуемый и страдания верующие around world. post Honor",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/11/21/honor-is-bestowed-upon-the-nun-who-remained-among-syrian-christians-as-bombs-from-the-islamic-state-fell/",
       "victims": 0
     },
     {
@@ -6439,71 +6504,6 @@
       "description": "В 2018, two христианин братья were приговорён смерть allegations богохульство. после о десятилетие fighting для their freedom, one брат was acquitted Pakistan’s Supreme суд на Oct. 7. other брат, however, is still на смерть",
       "source": "persecution",
       "url": "https://persecution.org/2026/10/16/christians-death-sentence-upheld-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-16",
-      "lat": 31.6541,
-      "lng": 74.1462,
-      "country": "Pakistan",
-      "city": "Lahore",
-      "type": "murder",
-      "title": "Христианин’s смертный приговор Upheld в Pakistan",
-      "description": "В 2018, two христианин братья were приговорён смерть allegations богохульство. после о десятилетие fighting для their freedom, one брат was acquitted Pakistan’s Supreme суд на Oct. 7. other брат, however, is still на смерть",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/16/christians-death-sentence-upheld-in-pakistan/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-16",
-      "lat": 11.7523,
-      "lng": 8.5843,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "discrimination",
-      "title": "Catholic миссионеры в Nigeria urged persevere amid insecurity, ограничения на богослужение",
-      "description": "Despite угрозы violence и ограничения placed на some христианские общины, national director Pontifical Mission Societies в Nigeria is encouragging миссионеры be unafraid.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/catholic-missionaries-in-nigeria-urged-to-persevere-amid-insecurity-restrictions-on-worship",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-16",
-      "lat": 12.5869,
-      "lng": -8.0551,
-      "country": "Mali",
-      "city": "Bamako",
-      "type": "murder",
-      "title": "Trump, после двупартийный и Catholic backlash, says Pentagon won’t livestream казнь Fort Hood shooter",
-      "description": "Президент Donald Trump said четверг that Pentagon will no longer livestream расстрельная команда казнь Fort Hood shooter Nidal Malik Hasan, после announcement faced двупартийный criticism и вице-президент JD Vance said he wouldn’t watch i",
-      "source": "crux",
-      "url": "https://cruxnow.com/church-in-the-usa/2026/10/trump-after-bipartisan-and-catholic-backlash-says-pentagon-wont-livestream-execution-of-fort-hood-shooter/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-15",
-      "lat": 33.7278,
-      "lng": 36.3179,
-      "country": "Syria",
-      "city": "Damascus",
-      "type": "attack",
-      "title": "Open Doors calls для молитва для Syrian христиане following renewed violence",
-      "description": "Христианин гонение charity Open Doors has appealed для молитвы для верующие в Syria following another armed атака на predominantly христианин посёлок Al-Suqaylabiyah.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/open-doors-calls-for-prayer-for-syrian-christians-following-renewed-violence",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-15",
-      "lat": 9.1924,
-      "lng": 7.4091,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "murder",
-      "title": "Христианин Red крест volunteer убит в northwest Nigeria",
-      "description": "Боевики засада aid team vehicle.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christian-red-cross-volunteer-slain-in-northwest-nigeria",
       "victims": 0
     }
   ]
