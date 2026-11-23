@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-22T22:54:13.685Z",
+    "lastUpdated": "2026-11-23T04:18:13.769Z",
     "totalEvents": 500
   },
   "events": [
@@ -173,6 +173,19 @@
       "description": "",
       "source": "persecution",
       "url": "https://persecution.org/2026/11/21/advocacy-efforts-for-pakistani-christians-release-grow-more-urgent/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-21",
+      "lat": 33.9334,
+      "lng": 71.684,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "kidnapping",
+      "title": "Христианин group calls для молитва для вынужден marriage жертвы в Pakistan",
+      "description": "Every год it is estimated that around 1,000 girls в Pakistan are похищен, forcibly converted ислам и married, often much older мужчина.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/christian-group-calls-for-prayer-for-forced-marriage-victims-in-pakistan",
       "victims": 0
     },
     {
@@ -805,6 +818,19 @@
       "lng": 3.4756,
       "country": "Nigeria",
       "city": "Lagos",
+      "type": "murder",
+      "title": "17 Nigerian христиане погиб в плен после Пасха церковь похищения",
+      "description": "Seventeen христиане похищен во время Пасха воскресенье церковь services в Nigeria have погиб в плен, according reports из христианские благотворительные фонды, с выжившие describing голодание, illness и brutal conditions.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/17-nigerian-christians-died-in-captivity-after-easter-church-abductions",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-17",
+      "lat": 11.7657,
+      "lng": 13.0998,
+      "country": "Nigeria",
+      "city": "Borno",
       "type": "murder",
       "title": "17 Nigerian христиане погиб в плен после Пасха церковь похищения",
       "description": "Seventeen христиане похищен во время Пасха воскресенье церковь services в Nigeria have погиб в плен, according reports из христианские благотворительные фонды, с выжившие describing голодание, illness и brutal conditions.",
@@ -6473,32 +6499,6 @@
       "lng": 7.4091,
       "country": "Nigeria",
       "city": "Abuja",
-      "type": "murder",
-      "title": "Христианин Red крест volunteer убит в northwest Nigeria",
-      "description": "Боевики засада aid team vehicle.",
-      "source": "christiantoday",
-      "url": "https://www.christiantoday.com/news/christian-red-cross-volunteer-slain-in-northwest-nigeria",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-15",
-      "lat": 12.251,
-      "lng": 8.8394,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "murder",
-      "title": "Intersociety claims 7,500 христиане убит в Africa",
-      "description": "Alleges Nigeria accounts для 4,300 смерти в nine месяцы Jeff Agbodo, Abakaliki International Society для Civil Liberties и Rule Law (Intersociety) has claimed that о 7,500 христиане were убит в атаки across several African coun",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/10/intersociety-claims-7500-christians-killed-in-africa/",
-      "victims": 500
-    },
-    {
-      "date": "2026-10-15",
-      "lat": 9.28,
-      "lng": 9.442,
-      "country": "Nigeria",
-      "city": "Plateau",
       "type": "murder",
       "title": "Христианин Red крест volunteer убит в northwest Nigeria",
       "description": "Боевики засада aid team vehicle.",
