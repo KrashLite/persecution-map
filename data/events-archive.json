@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-24T16:34:49.868Z",
+    "lastUpdated": "2026-11-25T01:40:49.041Z",
     "totalEvents": 500
   },
   "events": [
@@ -111,6 +111,84 @@
       "victims": 0
     },
     {
+      "date": "2026-11-24",
+      "lat": 9.2889,
+      "lng": 7.5696,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "other",
+      "title": "Преследуемый христиане speak power вера и forgiveness",
+      "description": "Nigeria и North Korea are both в world's top 10 persecutors христиане.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/persecuted-christians-speak-of-power-of-faith-and-forgiveness",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-24",
+      "lat": 9.2384,
+      "lng": 7.7099,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "attack",
+      "title": "Ислам: фулани боевики Kill 14 христиане в плато штат, Nigeria",
+      "description": "Убийства occurred between воскресенье, Nov. 15, и понедельник, Nov. 16, в Mangu, Riyom, Barkin Ladi и Bokkos local правительство areas, according community sources и local security groups. Armed attackers reportedly targeted rural поселения и am",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/11/24/islam-fulani-militants-kill-14-christians-in-plateau-state-nigeria/",
+      "victims": 14
+    },
+    {
+      "date": "2026-11-24",
+      "lat": 11.8132,
+      "lng": 13.3601,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "attack",
+      "title": "19-год-Old христианский фермер в Nigeria Loses Hand в атака",
+      "description": "19-год-old христианский фермер, Jesse понедельник, lost one his hands после suspected пастухи фулани атакован three young мужчины working на their farmland в Rewienku деревня, Miango район, Bassa Local правительство Area плато штат, на понедельник, Nov.",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/24/19-year-old-christian-farmer-in-nigeria-loses-hand-in-attack/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-24",
+      "lat": 15.3823,
+      "lng": 32.6823,
+      "country": "Sudan",
+      "city": "Khartoum",
+      "type": "attack",
+      "title": "Violence Strikes прихожане в South Sudan’s Gorom лагерь беженцев",
+      "description": "Around 8:30.m. на воскресенье, Nov. 15, courtyard Darfur христианин совет церковь в Gorom лагерь беженцев near Juba, South Sudan, became scene sudden violence. As прихожане gathered для молитва, group led Baqir Muhammad Saleh launche",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/24/violence-strikes-worshippers-in-south-sudans-gorom-refugee-camp/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-24",
+      "lat": 21.7097,
+      "lng": 96.0635,
+      "country": "Myanmar",
+      "city": "Mandalay",
+      "type": "murder",
+      "title": "ICJ Issues Historic Ruling на геноцид Rohingya Minority в Myanmar",
+      "description": "International суд Justice (ICJ) ruled на прошлой неделе that Myanmar committed геноцид against its Rohingya мусульманин minority population, marking первый time world’s highest суд has found штат directly responsible для committing геноцид.",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/24/icj-issues-historic-ruling-on-genocide-of-rohingya-minority-in-myanmar/",
+      "victims": 150
+    },
+    {
+      "date": "2026-11-24",
+      "lat": 27.871,
+      "lng": 30.613,
+      "country": "Egypt",
+      "city": "Minya",
+      "type": "murder",
+      "title": "Calls для Egypt release христианин-конверт facing смертный приговор",
+      "description": "Six US lawmakers have called на Egypt’s президент release Said Abdelrazek, христианин-конверт who has been задержан since июль 2025 и could face смерть penalty.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/calls-for-egypt-to-release-christian-convert-facing-death-sentence",
+      "victims": 0
+    },
+    {
       "date": "2026-11-23",
       "lat": 15.3837,
       "lng": 32.5363,
@@ -186,6 +264,19 @@
       "description": "Father Charles Muthee Kinyua Nyeri Archdiocese addressed those who work с young люди во время Nov. 19–21 Pan-African International Conference в Nairobi.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/kenyan-priest-calls-for-greater-recognition-of-young-catholics-role",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-23",
+      "lat": 36.1212,
+      "lng": 44.1128,
+      "country": "Iraq",
+      "city": "Erbil",
+      "type": "discrimination",
+      "title": "Рождество is Bittersweet праздник в Iraq",
+      "description": "This май come as surprise, but Рождество is national праздник в Iraq — ever since правительство formally declared it so в декабрь 2018. “It feels like token move appear non-discriminatory,” said “Petros,” Assyrian христианин living в",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/23/christmas-is-a-bittersweet-holiday-in-iraq/",
       "victims": 0
     },
     {
@@ -6413,97 +6504,6 @@
       "description": "Jesuit беженец Service UK urges solidarity с migrants, священник в India is арест для несовершеннолетний sex насилие, Maronite епископ is appointed в Mexico, и more в на этой неделе’s world news roundup.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/europe/jesuit-refugee-service-uk-calls-catholic-finance-leaders-to-aid-refugees",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-17",
-      "lat": 11.8663,
-      "lng": 8.8288,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "discrimination",
-      "title": "Nigeria awaits 10 ударные вертолёты, БПЛА — Defence министр",
-      "description": "EU pledges €20m defence support Nigerian военные Kingsley Omonobi ABUJA — Nigeria is expecting delivery 10 ударные вертолёты, беспилотные летательные аппараты (БПЛА) и other военные equipment strengthen its capacity tackle emerging se",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/10/nigeria-awaits-10-attack-helicopters-uavs-defence-minister/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-17",
-      "lat": 19.2203,
-      "lng": 73.1023,
-      "country": "India",
-      "city": "Mumbai",
-      "type": "arrest",
-      "title": "Jesuit беженец Service UK calls Catholic finance leaders aid беженцы",
-      "description": "Jesuit беженец Service UK urges solidarity с migrants, священник в India is арест для несовершеннолетний sex насилие, Maronite епископ is appointed в Mexico, и more в на этой неделе’s world news roundup.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/europe/jesuit-refugee-service-uk-calls-catholic-finance-leaders-to-aid-refugees",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-17",
-      "lat": 21.0629,
-      "lng": 82.0593,
-      "country": "India",
-      "city": "Chhattisgarh",
-      "type": "arrest",
-      "title": "Jesuit беженец Service UK calls Catholic finance leaders aid беженцы",
-      "description": "Jesuit беженец Service UK urges solidarity с migrants, священник в India is арест для несовершеннолетний sex насилие, Maronite епископ is appointed в Mexico, и more в на этой неделе’s world news roundup.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/europe/jesuit-refugee-service-uk-calls-catholic-finance-leaders-to-aid-refugees",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-17",
-      "lat": 31.4482,
-      "lng": 121.6894,
-      "country": "China",
-      "city": "Shanghai",
-      "type": "arrest",
-      "title": "ChinaAid raises alarm заключён Chinese пастор's health as семья seeks answers",
-      "description": "ChinaAid founder Bob Fu says reports пастор Wang Yi's advanced liver cancer в Chinese тюрьма are credible but cannot be independently verified.",
-      "source": "newsapi:Fox News",
-      "url": "https://www.foxnews.com/world/chinaaid-raises-alarm-imprisoned-chinese-pastor-health-family-seeks-answers",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-17",
-      "lat": 28.8334,
-      "lng": 77.3191,
-      "country": "India",
-      "city": "Delhi",
-      "type": "arrest",
-      "title": "Jesuit беженец Service UK calls Catholic finance leaders aid беженцы",
-      "description": "Jesuit беженец Service UK urges solidarity с migrants, священник в India is арест для несовершеннолетний sex насилие, Maronite епископ is appointed в Mexico, и more в на этой неделе’s world news roundup.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/europe/jesuit-refugee-service-uk-calls-catholic-finance-leaders-to-aid-refugees",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-17",
-      "lat": 40.0441,
-      "lng": 116.2962,
-      "country": "China",
-      "city": "Beijing",
-      "type": "arrest",
-      "title": "ChinaAid raises alarm заключён Chinese пастор's health as семья seeks answers",
-      "description": "ChinaAid founder Bob Fu says reports пастор Wang Yi's advanced liver cancer в Chinese тюрьма are credible but cannot be independently verified.",
-      "source": "newsapi:Fox News",
-      "url": "https://www.foxnews.com/world/chinaaid-raises-alarm-imprisoned-chinese-pastor-health-family-seeks-answers",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-17",
-      "lat": 43.918,
-      "lng": 87.6158,
-      "country": "China",
-      "city": "Xinjiang",
-      "type": "arrest",
-      "title": "ChinaAid raises alarm заключён Chinese пастор's health as семья seeks answers",
-      "description": "ChinaAid founder Bob Fu says reports пастор Wang Yi's advanced liver cancer в Chinese тюрьма are credible but cannot be independently verified.",
-      "source": "newsapi:Fox News",
-      "url": "https://www.foxnews.com/world/chinaaid-raises-alarm-imprisoned-chinese-pastor-health-family-seeks-answers",
       "victims": 0
     }
   ]
