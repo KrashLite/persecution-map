@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-26T01:13:59.202Z",
+    "lastUpdated": "2026-11-26T15:54:02.556Z",
     "totalEvents": 500
   },
   "events": [
@@ -121,6 +121,32 @@
       "description": "Кардинал Oswald Gracias, emeritus Mumbai, told Crux сейчас Menamparampil was “ fearless bridge-builder” who worked tirelessly для peace, reconciliation, и христианин unity. post церковь в India mourns passing beloved архиепископ, сила для",
       "source": "crux",
       "url": "https://cruxnow.com/obituary/2026/11/church-in-india-mourns-passing-of-beloved-archbishop/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-25",
+      "lat": 21.1267,
+      "lng": 81.7565,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "discrimination",
+      "title": "Церковь снесён в India’s Odisha штат после толпа атака",
+      "description": "Церковь в India’s eastern штат Odisha was снесён под supervision правительство власти день после its owner reported that villagers had разгромлен building, raising fresh concerns о treatment христианские меньшинства",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/25/church-demolished-in-indias-odisha-state-after-mob-attack/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-25",
+      "lat": 24.9736,
+      "lng": 66.8476,
+      "country": "Pakistan",
+      "city": "Karachi",
+      "type": "other",
+      "title": "Harsher богохульство Law Resolution Passed в Punjab, Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Rights защитники criticized resolution passed в Punjab Provincial собрание на вторник (Nov. 24) calling для harsher punishment для богохульство against wives, семья members",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/11/harsher-blasphemy-law-resolution-passed-in-punjab-pakistan/",
       "victims": 0
     },
     {
@@ -6479,32 +6505,6 @@
       "source": "punchng",
       "url": "https://punchng.com/kenyan-pastor-convicted-for-ordering-191-followers-to-starve-to-death/?utm_source=rss.punchng.com&utm_medium=web",
       "victims": 191
-    },
-    {
-      "date": "2026-10-19",
-      "lat": 4.285,
-      "lng": 18.5175,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "other",
-      "title": "French церковь leaders urge peace among protests",
-      "description": "“ level violence we’ve never seen до.” That was how Lamia El Aaraje, первый deputy мэр Paris, described situation на воскресенье, октябрь 18. previous день, protests had been marked violence в столица и several other French ci",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/10/19/french-church-leaders-urge-peace-among-protests/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-19",
-      "lat": 13.6454,
-      "lng": 1.9282,
-      "country": "Niger",
-      "city": "Niamey",
-      "type": "other",
-      "title": "Полиция explain presence suspended архиепископ Ibezim’s церковь service",
-      "description": "Anambra штат полиция Command has explained that presence security operatives во время церковь service conducted архиепископ Alexander Ibezim, suspended Anglican архиепископ на Niger и епископ Awka Diocese, на воскресенье was ma",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/10/police-explain-presence-at-suspended-archbishop-ibezims-church-service/",
-      "victims": 0
     }
   ]
 }
