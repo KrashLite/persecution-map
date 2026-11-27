@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-26T15:54:02.556Z",
+    "lastUpdated": "2026-11-27T01:12:17.870Z",
     "totalEvents": 500
   },
   "events": [
@@ -18,6 +18,45 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/11/26/9-christians-remain-captive-after-kaduna-church-abduction/",
       "victims": 9
+    },
+    {
+      "date": "2026-11-26",
+      "lat": 11.9568,
+      "lng": 13.0055,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "kidnapping",
+      "title": "9 христиане Remain пленник после Kaduna церковь похищение",
+      "description": "Nine христиане remain в плен после боевики похищен 12 прихожане во время воскресенье церковь service в Kurmin Wali community, Chikun Local правительство Area Kaduna штат, according церковь leaders. христианин Association Nigeria (CAN),",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/26/9-christians-remain-captive-after-kaduna-church-abduction/",
+      "victims": 9
+    },
+    {
+      "date": "2026-11-26",
+      "lat": 9.0032,
+      "lng": 7.3947,
+      "country": "Nigeria",
+      "city": "Abuja",
+      "type": "attack",
+      "title": "Nigeria Report: Suspected фулани ополчение Members Sever христианский фермер’s Hand в плато штат",
+      "description": "Suspected фулани ополчение members атакован three farmers as they worked в their fields в Rewienku, плато штат, на понедельник, Nov. post Nigeria Report: Suspected фулани ополчение Members Sever христианский фермер’s Hand в плато штат appeared первый",
+      "source": "newsapi:Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/11/nigeria-report-suspected-fulani-militia-members-sever-christian/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-26",
+      "lat": -1.1519,
+      "lng": 36.6276,
+      "country": "Kenya",
+      "city": "Nairobi",
+      "type": "other",
+      "title": "Христианин в Uganda Thrown в озеро, Drowns",
+      "description": "NAIROBI, Kenya (утро Star News) – мусульмане в Uganda на Nov. 5 threw христианин father three дети off water taxi в озеро после he shared gospel с passengers, утопление him, sources said. Gilbert Musede, 32, Kaliro посёлок Counci",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/11/christian-in-uganda-thrown-into-lake-drowns/",
+      "victims": 0
     },
     {
       "date": "2026-11-25",
@@ -147,6 +186,32 @@
       "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Rights защитники criticized resolution passed в Punjab Provincial собрание на вторник (Nov. 24) calling для harsher punishment для богохульство against wives, семья members",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/11/harsher-blasphemy-law-resolution-passed-in-punjab-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-25",
+      "lat": 33.4899,
+      "lng": 73.1473,
+      "country": "Pakistan",
+      "city": "Islamabad",
+      "type": "other",
+      "title": "Harsher богохульство Law Resolution Passed в Punjab, Pakistan",
+      "description": "LAHORE, Pakistan (христианин Daily International–утро Star News) – Rights защитники criticized resolution passed в Punjab Provincial собрание на вторник (Nov. 24) calling для harsher punishment для богохульство against wives, семья members",
+      "source": "morningstarnews",
+      "url": "https://morningstarnews.org/2026/11/harsher-blasphemy-law-resolution-passed-in-punjab-pakistan/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-25",
+      "lat": 21.1308,
+      "lng": 81.628,
+      "country": "India",
+      "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Церковь в India mourns passing beloved архиепископ, сила для peace и reconciliation",
+      "description": "Кардинал Oswald Gracias, emeritus Mumbai, told Crux сейчас Menamparampil was “ fearless bridge-builder” who worked tirelessly для peace, reconciliation, и христианин unity. post церковь в India mourns passing beloved архиепископ, сила для",
+      "source": "crux",
+      "url": "https://cruxnow.com/obituary/2026/11/church-in-india-mourns-passing-of-beloved-archbishop/",
       "victims": 0
     },
     {
@@ -394,6 +459,19 @@
       "description": "Six US lawmakers have called на Egypt’s президент release Said Abdelrazek, христианин-конверт who has been задержан since июль 2025 и could face смерть penalty.",
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/calls-for-egypt-to-release-christian-convert-facing-death-sentence",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-24",
+      "lat": 27.0951,
+      "lng": 80.8257,
+      "country": "India",
+      "city": "Uttar Pradesh",
+      "type": "discrimination",
+      "title": "Христианская семья 8 выселен, Left Homeless в India",
+      "description": "Христианская семья eight в Sukma район Chhattisgarh, India, was left homeless после индус nationalists ransacked и снесён their home на утро Nov. 16. во время выселение, семья’s essential household items — includin",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/24/christian-family-of-8-evicted-left-homeless-in-india/",
       "victims": 0
     },
     {
@@ -6427,84 +6505,6 @@
       "source": "persecution",
       "url": "https://persecution.org/2026/10/20/bible-convention-attacked-in-india/",
       "victims": 0
-    },
-    {
-      "date": "2026-10-19",
-      "lat": -1.1162,
-      "lng": 36.5874,
-      "country": "Kenya",
-      "city": "Nairobi",
-      "type": "murder",
-      "title": "Убит христианин Harbored Converts в Western Uganda",
-      "description": "NAIROBI, Kenya (утро Star News) – христианин returning из evangelistic outreach was убит на Sept. 29 в western Uganda когда he и colleague were атакован three мусульмане, including one upset that his сестра had converted Christianit",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/slain-christian-harbored-converts-in-western-uganda/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-19",
-      "lat": 9.3288,
-      "lng": 9.7025,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "murder",
-      "title": "CAN mourns Uduaghan, hails role в national unity",
-      "description": "Христианин Association Nigeria has mourned смерть former Delta штат губернатор, Emmanuel Uduaghan, commending his role в national unity. Read More: https://punchng.com/can-mourns-uduaghan-hails-role-в-national-unity/",
-      "source": "punchng",
-      "url": "https://punchng.com/can-mourns-uduaghan-hails-role-in-national-unity/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-19",
-      "lat": -3.9434,
-      "lng": 39.7331,
-      "country": "Kenya",
-      "city": "Mombasa",
-      "type": "murder",
-      "title": "Убит христианин Harbored Converts в Western Uganda",
-      "description": "NAIROBI, Kenya (утро Star News) – христианин returning из evangelistic outreach was убит на Sept. 29 в western Uganda когда he и colleague were атакован three мусульмане, including one upset that his сестра had converted Christianit",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/slain-christian-harbored-converts-in-western-uganda/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-19",
-      "lat": 21.8634,
-      "lng": 95.9433,
-      "country": "Myanmar",
-      "city": "Mandalay",
-      "type": "attack",
-      "title": "Myanmar’s военные Intensifies атаки as U.S. Reopens Diplomatic Talks",
-      "description": "Myanmar’s военные-backed правительство is facing renewed scrutiny атаки на христианские общины, including убийство пасторы, оккупация церкви, и разрушение религиозный sites. developments come even as United Stat",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/19/myanmars-military-intensifies-attacks-as-u-s-reopens-diplomatic-talks/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-19",
-      "lat": -3.9454,
-      "lng": 39.9127,
-      "country": "Kenya",
-      "city": "Mombasa",
-      "type": "murder",
-      "title": "Kenyan пастор, who told followers starve для Jesus, осуждён 191 убийства",
-      "description": "Kenyan суд has осуждён пастор Paul Mackenzie murdering 191 люди, including 190 дети, после he allegedly directed members his религиозный group starve themselves и their дети смерть “meet Jesus”. post Kenyan пастор, w",
-      "source": "nigerianews",
-      "url": "https://www.vanguardngr.com/2026/10/kenyan-pastor-who-told-followers-to-starve-for-jesus-convicted-of-191-murders/",
-      "victims": 191
-    },
-    {
-      "date": "2026-10-19",
-      "lat": -4.1401,
-      "lng": 39.6876,
-      "country": "Kenya",
-      "city": "Mombasa",
-      "type": "murder",
-      "title": "Kenyan пастор осуждён для ordering 191 followers starve смерть",
-      "description": "Kenyan пастор, Paul Mackenzie, has been осуждён murdering 191 люди, including 190 дети, после ordering his культ followers starve смерть. Read More: https://punchng.com/kenyan-пастор-осуждён-для-ordering-191-followers--starve-",
-      "source": "punchng",
-      "url": "https://punchng.com/kenyan-pastor-convicted-for-ordering-191-followers-to-starve-to-death/?utm_source=rss.punchng.com&utm_medium=web",
-      "victims": 191
     }
   ]
 }
