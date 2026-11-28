@@ -2,7 +2,7 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-27T15:42:16.297Z",
+    "lastUpdated": "2026-11-28T00:45:05.880Z",
     "totalEvents": 500
   },
   "events": [
@@ -18,6 +18,32 @@
       "source": "christiantoday",
       "url": "https://www.christiantoday.com/news/12-000-sign-petition-to-save-christian-sentenced-to-death-for-blasphemy-in-pakistan",
       "victims": 40
+    },
+    {
+      "date": "2026-11-27",
+      "lat": 43.5604,
+      "lng": 87.429,
+      "country": "China",
+      "city": "Xinjiang",
+      "type": "other",
+      "title": "Chinese Catholics’ voice within Vatican Theological комиссия: Interview с only Chinese женщина “папа’s Theological колледж”",
+      "description": "Born в Taipei, having come Catholicism as student Spanish language и culture во время her университет годы, сестра Maria Teresa Hu Shu Chin is религиозный Daughters Jesus, приход founded в Spain в второй half n",
+      "source": "zenit",
+      "url": "https://zenit.org/2026/11/27/the-chinese-catholics-voice-within-the-vatican-theological-commission-interview-with-the-only-chinese-woman-at-the-popes-theological-college/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-27",
+      "lat": 18.9648,
+      "lng": 72.9513,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "other",
+      "title": "Catholic alliance criticizes breakdown COP31 climate talks",
+      "description": "Summit collapse “step back,” says CIDSE, Catholic company run 14 private больницы в Australia, EWTN News correspondent в India receives media award, и more в на этой неделе’s world news roundup.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/catholic-alliance-criticizes-breakdown-of-cop31-climate-talks",
+      "victims": 0
     },
     {
       "date": "2026-11-26",
@@ -108,6 +134,32 @@
       "description": "NAIROBI, Kenya (утро Star News) – мусульмане в Uganda на Nov. 5 threw христианин father three дети off water taxi в озеро после he shared gospel с passengers, утопление him, sources said. Gilbert Musede, 32, Kaliro посёлок Counci",
       "source": "morningstarnews",
       "url": "https://morningstarnews.org/2026/11/christian-in-uganda-thrown-into-lake-drowns/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-26",
+      "lat": 6.6133,
+      "lng": 3.5771,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "kidnapping",
+      "title": "9 христиане Remain пленник после Kaduna церковь похищение",
+      "description": "Nine христиане remain в плен после боевики похищен 12 прихожане во время воскресенье церковь service в Kurmin Wali community, Chikun Local правительство Area Kaduna штат, according церковь leaders. христианин Association Nigeria (CAN),",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/26/9-christians-remain-captive-after-kaduna-church-abduction/",
+      "victims": 9
+    },
+    {
+      "date": "2026-11-26",
+      "lat": 11.8213,
+      "lng": 13.0785,
+      "country": "Nigeria",
+      "city": "Borno",
+      "type": "attack",
+      "title": "Nigeria Report: фулани ополчения Kill 17 Irigwe христиане в Bassa, плато штат",
+      "description": "Боевики атакован Chando Zrreci, also known as Tafi Gana, в Irigwe Chiefdom Nigeria’s Bassa Local правительство Area (LGA), плато штат, поздно среда, Nov. post Nigeria Report: фулани ополчения Kill 17 Irigwe христиане в Bassa, плато St",
+      "source": "newsapi:Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/11/nigeria-report-fulani-militias-kill-17-irigwe-christians/",
       "victims": 0
     },
     {
@@ -259,6 +311,32 @@
       "lng": 81.628,
       "country": "India",
       "city": "Chhattisgarh",
+      "type": "other",
+      "title": "Церковь в India mourns passing beloved архиепископ, сила для peace и reconciliation",
+      "description": "Кардинал Oswald Gracias, emeritus Mumbai, told Crux сейчас Menamparampil was “ fearless bridge-builder” who worked tirelessly для peace, reconciliation, и христианин unity. post церковь в India mourns passing beloved архиепископ, сила для",
+      "source": "crux",
+      "url": "https://cruxnow.com/obituary/2026/11/church-in-india-mourns-passing-of-beloved-archbishop/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-25",
+      "lat": 19.08,
+      "lng": 72.7108,
+      "country": "India",
+      "city": "Mumbai",
+      "type": "discrimination",
+      "title": "Церковь снесён в India’s Odisha штат после толпа атака",
+      "description": "Церковь в India’s eastern штат Odisha was снесён под supervision правительство власти день после its owner reported that villagers had разгромлен building, raising fresh concerns о treatment христианские меньшинства",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/25/church-demolished-in-indias-odisha-state-after-mob-attack/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-25",
+      "lat": 28.6846,
+      "lng": 76.9006,
+      "country": "India",
+      "city": "Delhi",
       "type": "other",
       "title": "Церковь в India mourns passing beloved архиепископ, сила для peace и reconciliation",
       "description": "Кардинал Oswald Gracias, emeritus Mumbai, told Crux сейчас Menamparampil was “ fearless bridge-builder” who worked tirelessly для peace, reconciliation, и христианин unity. post церковь в India mourns passing beloved архиепископ, сила для",
@@ -6426,84 +6504,6 @@
       "description": "Katungu Mbaka Darke’s life took devastating turn в июль 2022 когда, around 9 p.m., members Allied Democratic силы (ADF) похищен her во время deadly атака в Lume деревня в eastern Democratic Republic Congo (DRC). во время her c",
       "source": "persecution",
       "url": "https://persecution.org/2026/10/21/christian-woman-abducted-by-adf-rescued/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-21",
-      "lat": 9.248,
-      "lng": 7.383,
-      "country": "Nigeria",
-      "city": "Abuja",
-      "type": "arrest",
-      "title": "Христианин Mother приговорён 14 годы в тюрьма в Nigeria",
-      "description": "Христианин mother в northeastern Nigeria has reportedly been приговорён 14 годы в тюрьма после sharing her вера с мусульманин женщина who позже testified that she subsequently converted христианство voluntarily. Justice. B. Kumdila",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/21/christian-mother-sentenced-to-14-years-in-prison-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-21",
-      "lat": 12.0689,
-      "lng": 8.7815,
-      "country": "Nigeria",
-      "city": "Kano",
-      "type": "arrest",
-      "title": "Христианин Mother приговорён 14 годы в тюрьма в Nigeria",
-      "description": "Христианин mother в northeastern Nigeria has reportedly been приговорён 14 годы в тюрьма после sharing her вера с мусульманин женщина who позже testified that she subsequently converted христианство voluntarily. Justice. B. Kumdila",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/21/christian-mother-sentenced-to-14-years-in-prison-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-21",
-      "lat": 11.6849,
-      "lng": 13.1405,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "arrest",
-      "title": "Христианин Mother приговорён 14 годы в тюрьма в Nigeria",
-      "description": "Христианин mother в northeastern Nigeria has reportedly been приговорён 14 годы в тюрьма после sharing her вера с мусульманин женщина who позже testified that she subsequently converted христианство voluntarily. Justice. B. Kumdila",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/21/christian-mother-sentenced-to-14-years-in-prison-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-21",
-      "lat": 10.3047,
-      "lng": 7.4943,
-      "country": "Nigeria",
-      "city": "Kaduna",
-      "type": "arrest",
-      "title": "Христианин Mother приговорён 14 годы в тюрьма в Nigeria",
-      "description": "Христианин mother в northeastern Nigeria has reportedly been приговорён 14 годы в тюрьма после sharing her вера с мусульманин женщина who позже testified that she subsequently converted христианство voluntarily. Justice. B. Kumdila",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/21/christian-mother-sentenced-to-14-years-in-prison-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-21",
-      "lat": 6.4741,
-      "lng": 3.4012,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "arrest",
-      "title": "Христианин Mother приговорён 14 годы в тюрьма в Nigeria",
-      "description": "Христианин mother в northeastern Nigeria has reportedly been приговорён 14 годы в тюрьма после sharing her вера с мусульманин женщина who позже testified that she subsequently converted христианство voluntarily. Justice. B. Kumdila",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/21/christian-mother-sentenced-to-14-years-in-prison-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-20",
-      "lat": 28.6228,
-      "lng": 77.1123,
-      "country": "India",
-      "city": "Delhi",
-      "type": "attack",
-      "title": "Библия Convention атакован в India",
-      "description": "Armed толпа о 200 религиозный фанатики assaulted major annual indigenous gathering Santhali христиане на Oct. 9 в Indian штат West Bengal, highlighting escalation hostilities и vulnerability религиозный minorities i",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/20/bible-convention-attacked-in-india/",
       "victims": 0
     }
   ]
