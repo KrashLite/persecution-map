@@ -2,10 +2,36 @@
   "metadata": {
     "created": "2026-02-28T18:58:14.526Z",
     "description": "Архив событий за последний год",
-    "lastUpdated": "2026-11-28T00:45:05.880Z",
+    "lastUpdated": "2026-11-28T14:38:27.213Z",
     "totalEvents": 500
   },
   "events": [
+    {
+      "date": "2026-11-28",
+      "lat": 10.5915,
+      "lng": 7.254,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "other",
+      "title": "Папа Leo appoints первый black Catholic епископ для England и Wales",
+      "description": "Canon Benedict Koledoye, Nigerian-born священник who has ministered в Wales since 2011, is be ordained епископ St David’s Cathedral в Cardiff в февраль 2027",
+      "source": "catholicHerald",
+      "url": "https://thecatholicherald.com/article/pope-leo-appoints-first-black-catholic-bishop-for-england-and-wales",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-28",
+      "lat": 6.7633,
+      "lng": 3.3684,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "other",
+      "title": "Папа appoints Nigerian священник auxiliary епископ в Wales",
+      "description": "Папа Leo XIV appoints Nigerian-born Canon Benedict Koledoye auxiliary епископ Cardiff-Menevia, making him первый black Latin Rite епископ в England Read More: https://punchng.com/папа-appoints-nigerian-священник-auxiliary-епископ-в-wales/",
+      "source": "punchng",
+      "url": "https://punchng.com/pope-appoints-nigerian-priest-auxiliary-bishop-in-wales/?utm_source=rss.punchng.com&utm_medium=web",
+      "victims": 0
+    },
     {
       "date": "2026-11-27",
       "lat": 33.8135,
@@ -38,6 +64,32 @@
       "lng": 72.9513,
       "country": "India",
       "city": "Mumbai",
+      "type": "other",
+      "title": "Catholic alliance criticizes breakdown COP31 climate talks",
+      "description": "Summit collapse “step back,” says CIDSE, Catholic company run 14 private больницы в Australia, EWTN News correspondent в India receives media award, и more в на этой неделе’s world news roundup.",
+      "source": "catholicNewsAgency",
+      "url": "https://www.ewtnnews.com/world/catholic-alliance-criticizes-breakdown-of-cop31-climate-talks",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-27",
+      "lat": 34.1198,
+      "lng": 71.3903,
+      "country": "Pakistan",
+      "city": "Peshawar",
+      "type": "murder",
+      "title": "12,000 sign petition save христианин приговорён смерть для 'богохульство' в Pakistan",
+      "description": "Богохульство allegations are sometimes used settle scores against религиозный minorities в Pakistan, human rights groups have said.",
+      "source": "christiantoday",
+      "url": "https://www.christiantoday.com/news/12-000-sign-petition-to-save-christian-sentenced-to-death-for-blasphemy-in-pakistan",
+      "victims": 40
+    },
+    {
+      "date": "2026-11-27",
+      "lat": 28.6954,
+      "lng": 76.9756,
+      "country": "India",
+      "city": "Delhi",
       "type": "other",
       "title": "Catholic alliance criticizes breakdown COP31 climate talks",
       "description": "Summit collapse “step back,” says CIDSE, Catholic company run 14 private больницы в Australia, EWTN News correspondent в India receives media award, и more в на этой неделе’s world news roundup.",
@@ -160,6 +212,19 @@
       "description": "Боевики атакован Chando Zrreci, also known as Tafi Gana, в Irigwe Chiefdom Nigeria’s Bassa Local правительство Area (LGA), плато штат, поздно среда, Nov. post Nigeria Report: фулани ополчения Kill 17 Irigwe христиане в Bassa, плато St",
       "source": "newsapi:Thegatewaypundit.com",
       "url": "https://www.thegatewaypundit.com/2026/11/nigeria-report-fulani-militias-kill-17-irigwe-christians/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-26",
+      "lat": 10.5844,
+      "lng": 7.3695,
+      "country": "Nigeria",
+      "city": "Kaduna",
+      "type": "attack",
+      "title": "Nigeria Report: Suspected фулани ополчение Members Sever христианский фермер’s Hand в плато штат",
+      "description": "Suspected фулани ополчение members атакован three farmers as they worked в their fields в Rewienku, плато штат, на понедельник, Nov. post Nigeria Report: Suspected фулани ополчение Members Sever христианский фермер’s Hand в плато штат appeared первый",
+      "source": "newsapi:Thegatewaypundit.com",
+      "url": "https://www.thegatewaypundit.com/2026/11/nigeria-report-suspected-fulani-militia-members-sever-christian/",
       "victims": 0
     },
     {
@@ -641,6 +706,19 @@
       "description": "Христианская семья eight в Sukma район Chhattisgarh, India, was left homeless после индус nationalists ransacked и снесён their home на утро Nov. 16. во время выселение, семья’s essential household items — includin",
       "source": "persecution",
       "url": "https://persecution.org/2026/11/24/christian-family-of-8-evicted-left-homeless-in-india/",
+      "victims": 0
+    },
+    {
+      "date": "2026-11-24",
+      "lat": 6.7482,
+      "lng": 3.5638,
+      "country": "Nigeria",
+      "city": "Lagos",
+      "type": "attack",
+      "title": "19-год-Old христианский фермер в Nigeria Loses Hand в атака",
+      "description": "19-год-old христианский фермер, Jesse понедельник, lost one his hands после suspected пастухи фулани атакован three young мужчины working на their farmland в Rewienku деревня, Miango район, Bassa Local правительство Area плато штат, на понедельник, Nov.",
+      "source": "persecution",
+      "url": "https://persecution.org/2026/11/24/19-year-old-christian-farmer-in-nigeria-loses-hand-in-attack/",
       "victims": 0
     },
     {
@@ -6426,84 +6504,6 @@
       "description": "Епископ Sylvester Luka Gopep spoke во время celebration marking centenary World Mission день, organized Pontifical Mission Societies (PMS) в Nigeria.",
       "source": "catholicNewsAgency",
       "url": "https://www.ewtnnews.com/world/africa/confronting-workplace-injustice-part-of-christian-mission-nigerian-bishop-says",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-22",
-      "lat": 33.7876,
-      "lng": 71.5005,
-      "country": "Pakistan",
-      "city": "Peshawar",
-      "type": "kidnapping",
-      "title": "Суд в Pakistan Adjourns Hearing на христиане’ похищен Daughter",
-      "description": "ISLAMABAD (христианин Daily International–утро Star News) – Pakistan’s top constitutional суд на среда (Oct. 21) adjourned hearing на христианин couple’s petition seeking recovery their daughter после learning that мусульманин accused",
-      "source": "morningstarnews",
-      "url": "https://morningstarnews.org/2026/10/court-in-pakistan-adjourns-hearing-on-christians-abducted-daughter/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-22",
-      "lat": 6.334,
-      "lng": 3.3488,
-      "country": "Nigeria",
-      "city": "Lagos",
-      "type": "other",
-      "title": "Confronting workplace injustice part христианская миссия, Nigerian епископ says",
-      "description": "Епископ Sylvester Luka Gopep spoke во время celebration marking centenary World Mission день, organized Pontifical Mission Societies (PMS) в Nigeria.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/confronting-workplace-injustice-part-of-christian-mission-nigerian-bishop-says",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-22",
-      "lat": 11.8927,
-      "lng": 12.9975,
-      "country": "Nigeria",
-      "city": "Borno",
-      "type": "other",
-      "title": "Confronting workplace injustice part христианская миссия, Nigerian епископ says",
-      "description": "Епископ Sylvester Luka Gopep spoke во время celebration marking centenary World Mission день, organized Pontifical Mission Societies (PMS) в Nigeria.",
-      "source": "catholicNewsAgency",
-      "url": "https://www.ewtnnews.com/world/africa/confronting-workplace-injustice-part-of-christian-mission-nigerian-bishop-says",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-21",
-      "lat": 4.5821,
-      "lng": 18.3532,
-      "country": "Central African Republic",
-      "city": "Bangui",
-      "type": "other",
-      "title": "Brooklyn епископ, faithful take streets defend Haitians",
-      "description": "Some 350,000 Haitians в U.S. face uncertain future с termination в июль their Temporary Protected Status (TPS), decision that many Catholic епископы have beseeched правительство reconsider. сейчас, Catholics из least three p",
-      "source": "aleteia",
-      "url": "https://aleteia.org/2026/10/21/brooklyn-bishop-faithful-take-to-streets-to-defend-haitians/",
-      "victims": 150
-    },
-    {
-      "date": "2026-10-21",
-      "lat": 9.3425,
-      "lng": 9.5912,
-      "country": "Nigeria",
-      "city": "Plateau",
-      "type": "arrest",
-      "title": "Христианин Mother приговорён 14 годы в тюрьма в Nigeria",
-      "description": "Христианин mother в northeastern Nigeria has reportedly been приговорён 14 годы в тюрьма после sharing her вера с мусульманин женщина who позже testified that she subsequently converted христианство voluntarily. Justice. B. Kumdila",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/21/christian-mother-sentenced-to-14-years-in-prison-in-nigeria/",
-      "victims": 0
-    },
-    {
-      "date": "2026-10-21",
-      "lat": -4.4832,
-      "lng": 15.4091,
-      "country": "Democratic Republic of the Congo",
-      "city": "Kinshasa",
-      "type": "murder",
-      "title": "Христианка похищен ADF Rescued",
-      "description": "Katungu Mbaka Darke’s life took devastating turn в июль 2022 когда, around 9 p.m., members Allied Democratic силы (ADF) похищен her во время deadly атака в Lume деревня в eastern Democratic Republic Congo (DRC). во время her c",
-      "source": "persecution",
-      "url": "https://persecution.org/2026/10/21/christian-woman-abducted-by-adf-rescued/",
       "victims": 0
     }
   ]
